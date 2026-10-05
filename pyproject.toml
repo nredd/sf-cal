@@ -1,0 +1,105 @@
+[project]
+name = "sf-cal"
+version = "0.1.0"
+description = "Subscribable ICS calendars for San Francisco events, built on GitHub Actions"
+readme = "README.md"
+requires-python = ">=3.13"
+license = "MIT"
+dependencies = [
+    "httpx>=0.28.1",
+    "icalendar>=6.3.1,<7",
+    "pydantic>=2.11",
+    "recurring-ical-events>=3.8",
+    "selectolax>=0.3.29",
+]
+
+[project.scripts]
+sfcal = "sfcal.cli:main"
+
+[dependency-groups]
+dev = [
+    "prek>=0.4",
+    "pytest>=8.4",
+    "pytest-cov>=6.2",
+    "respx>=0.22",
+    "ruff>=0.13",
+    "tox>=4.30",
+    "tox-uv>=1.28",
+    "ty>=0.0.1a20",
+]
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["sfcal"]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 99
+unsafe-fixes = true
+
+[tool.ruff.lint]
+select = [
+    "ARG",
+    "B",
+    "C4",
+    "DTZ",
+    "E",
+    "F",
+    "FA",
+    "I",
+    "PGH",
+    "PIE",
+    "PT",
+    "PTH",
+    "RET",
+    "RUF",
+    "SIM",
+    "T20",
+    "TID",
+    "UP",
+]
+
+[tool.ruff.lint.isort]
+required-imports = ["from __future__ import annotations"]
+
+[tool.ruff.format]
+docstring-code-format = true
+
+[tool.ty.terminal]
+error-on-warning = true
+
+[tool.ty.analysis]
+respect-type-ignore-comments = false
+
+[tool.ty.src]
+include = ["sfcal", "tests"]
+
+[tool.ty.environment]
+python-version = "3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--strict-markers"
+filterwarnings = ["error"]
+
+[tool.coverage.run]
+source = ["sfcal"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true
+fail_under = 85
+
+[tool.tox]
+requires = ["tox>=4.30", "tox-uv>=1.28"]
+env_list = ["3.13", "3.14"]
+
+[tool.tox.env_run_base]
+description = "Run the test suite on {base_python}"
+runner = "uv-venv-lock-runner"
+dependency_groups = ["dev"]
+commands = [["pytest", { replace = "posargs", default = ["-q"], extend = true }]]

@@ -1,0 +1,66 @@
+# sf-cal configuration. Every feed URL is derived from a bucket key here:
+#   https://raw.githubusercontent.com/nredd/sf-cal/feeds/<bucket>.ics
+# Renaming or removing a bucket breaks every subscription to it. Don't.
+
+near_days = 14          # every run refreshes yesterday .. today+14d
+full_days = 60          # a full run reaches today+60d
+full_refresh_hours = 20 # a run is full when the last full run is older than this
+prune_days = 7          # ended events stay published this long
+
+# ---------------------------------------------------------------------------
+# Buckets, in display order. Each one is a separately subscribable feed.
+
+[buckets.fleet-week]
+name = "Fleet Week"
+description = "SF Fleet Week: official concerts, ship tours, air shows, plus side events"
+
+[buckets.music]
+name = "Music"
+description = "Concerts and live music"
+
+[buckets.comedy]
+name = "Comedy"
+description = "Stand-up, improv and comedy shows"
+
+[buckets.stage]
+name = "Stage"
+description = "Theatre, dance and performing arts"
+
+[buckets.film]
+name = "Film"
+description = "Screenings and film events"
+
+[buckets.nightlife]
+name = "Nightlife"
+description = "DJ sets, parties and LGBTQ nights"
+
+[buckets.food-drink]
+name = "Food & Drink"
+description = "Tastings, food events and pop-ups"
+
+[buckets.outdoors]
+name = "Outdoors"
+description = "Outdoor recreation and sports"
+
+[buckets.arts-community]
+name = "Arts & Community"
+description = "Arts, family, lectures, festivals, markets and everything else"
+
+# ---------------------------------------------------------------------------
+# Keyword routing. A timed event matching a rule MOVES to the rule's bucket.
+# An all-day event matching a rule is dropped (umbrella listings).
+
+[[bucket_rules]]
+bucket = "fleet-week"
+pattern = '\b(fleet week|blue angels|parade of ships)\b'
+
+# ---------------------------------------------------------------------------
+# Sources. `priority` picks the winner when the same event (normalized title +
+# date) shows up on more than one source.
+
+[sources.fleetweeksf]
+adapter = "fleetweeksf"
+label = "SF Fleet Week (fleetweeksf.org)"
+priority = 100
+sf_only = false
+default_duration_minutes = 60

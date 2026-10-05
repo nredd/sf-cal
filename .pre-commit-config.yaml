@@ -1,0 +1,47 @@
+# Hooks run under prek (`make install` wires them up).
+#
+# Local hooks call `.venv/bin/<tool>` directly so the hook uses the exact
+# versions pinned in `uv.lock` and never resolves anything mid-commit.
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-added-large-files
+        # The captured source pages under tests/fixtures are up to ~370 KB.
+        args: [--maxkb=600]
+      - id: check-merge-conflict
+      - id: check-toml
+      - id: check-yaml
+      - id: end-of-file-fixer
+        exclude: ^tests/fixtures/
+      - id: mixed-line-ending
+        args: [--fix=lf]
+        exclude: ^tests/fixtures/
+      - id: trailing-whitespace
+        exclude: ^tests/fixtures/
+
+  - repo: local
+    hooks:
+      - id: ruff-format
+        name: ruff format
+        entry: .venv/bin/ruff format --force-exclude
+        language: system
+        types_or: [python, pyi]
+      - id: ruff
+        name: ruff check
+        entry: .venv/bin/ruff check --fix --ignore-noqa --force-exclude
+        language: system
+        types_or: [python, pyi]
+      - id: ty
+        name: ty check
+        entry: .venv/bin/ty check
+        language: system
+        types_or: [python, pyi]
+        pass_filenames: false
+      - id: uv-lock
+        name: uv lock --check
+        entry: uv lock --check
+        language: system
+        files: ^(pyproject\.toml|uv\.lock)$
+        pass_filenames: false

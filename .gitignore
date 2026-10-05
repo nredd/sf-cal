@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.tox/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+# Local build output (`make build`). Published feeds live on the `feeds` branch.
+site/
+# Checkout of the `feeds` branch inside the Actions workspace.
+/feeds/

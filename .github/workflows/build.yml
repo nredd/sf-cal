@@ -1,0 +1,63 @@
+name: build
+
+# Scrape every source and publish the feeds to the orphan `feeds` branch,
+# served from raw.githubusercontent.com. `sfcal build` decides whether a run
+# is near (14d) or full (60d) from `events.json`, so a delayed or dropped
+# cron run never skips the daily full refresh.
+#
+# Exit codes: 0 clean, 3 degraded (feeds written, a source fell back to its
+# last good data -- the job fails so GitHub emails), 1 fatal (nothing written).
+
+on:
+  schedule:
+    # Off the top of the hour, when GitHub delays and drops scheduled runs.
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      full:
+        description: Force a full 60-day refresh
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["sfcal/**", "sfcal.toml", "uv.lock"]
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/checkout@v7
+        with:
+          ref: feeds
+          path: feeds
+      - uses: astral-sh/setup-uv@v10.2.0
+        with:
+          enable-cache: true
+      - name: Build feeds
+        env:
+          FULL: ${{ inputs.full && '--full' || '' }}
+        run: uv run --frozen sfcal build --cfg sfcal.toml --state feeds/events.json --out feeds/ $FULL
+      - name: Publish feeds
+        # Also after a degraded (exit 3) build: the feeds were written with
+        # failing sources carried over, and everything else is fresh.
+        if: ${{ !cancelled() }}
+        working-directory: feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No feed changes"
+            exit 0
+          fi
+          git commit -m "Update feeds"
+          git push origin HEAD:feeds
