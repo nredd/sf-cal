@@ -148,3 +148,25 @@ skip_categories = ["virtual", "east-bay", "south-bay", "north-bay", "peninsula"]
 "fun-games" = "arts-community"
 "block-party" = "arts-community"
 "walks-tours-event-types-event" = "arts-community"
+
+# CalDiscovery aggregates ~80 venue and org calendars and republishes them as
+# ICS under ODbL 1.0, which requires the attribution below on every event.
+[sources.caldiscovery-festival]
+adapter = "ics"
+label = "CalDiscovery"
+priority = 40
+
+[sources.caldiscovery-festival.options]
+url = "https://caldiscovery.com/san-francisco-ca/festival.ics"
+bucket = "arts-community"
+attribution = "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+
+[sources.caldiscovery-comedy]
+adapter = "ics"
+label = "CalDiscovery"
+priority = 40
+
+[sources.caldiscovery-comedy.options]
+url = "https://caldiscovery.com/san-francisco-ca/comedy.ics"
+bucket = "comedy"
+attribution = "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"

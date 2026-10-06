@@ -78,6 +78,12 @@ def test_parse_when() -> None:
         parse_when("soon")
 
 
+def test_post_from_captured_discovery() -> None:
+    posts = [Post.model_validate(p) for p in json.loads(fixture_text("funcheap_posts.json"))]
+    assert len(posts) == 5
+    assert posts[0].slugs == ["dance", "live-music-event"]
+
+
 def test_find_events() -> None:
     events = find_events(fixture_text("funcheap_event.html"))
     assert [e["@type"] for e in events] == ["Event"]

@@ -49,6 +49,7 @@ that isn't `http`, `https`, `mailto` or relative.
 | [SF Fleet Week](https://fleetweeksf.org/calendar-of-events/) | `fleetweeksf` | `fleet-week` | Official schedule; descriptions joined from the map page |
 | [DoTheBay](https://dothebay.com/events) | `dostuff` | all categories | The site's day-listing JSON. Music is gated to `popularity >= 50` or free; exhibits (ongoing, or spanning >3 days) are dropped |
 | [Funcheap SF](https://sf.funcheap.com/) | `jsonld` | all categories | WordPress API discovery of the last 45 days of posts, then schema.org `Event` JSON-LD from each post page. Only new or edited posts are fetched; the first run backfills ~1.5k pages and takes a few minutes |
+| [CalDiscovery](https://caldiscovery.com/san-francisco-ca/) | `ics` | `arts-community` (festival), `comedy` | Any ICS feed, one bucket per feed, RRULEs expanded in the window. CalDiscovery republishes ~80 venue and org calendars under ODbL 1.0 |
 
 Keyword routing (`[[bucket_rules]]` in `sfcal.toml`) moves any timed event matching
 `\b(fleet week|blue angels|parade of ships)\b` from any source into `fleet-week`. All-day
@@ -97,10 +98,13 @@ capture a fixture for its tests.
 
 Layout:
 
-- `sfcal/sources/` -- one adapter per source format
+- `sfcal/sources/` -- one adapter per source format: `fleetweeksf`, `dostuff`, `jsonld`, `ics`
+  (`icsfeed.py`)
 - `sfcal/pipeline.py` -- windows, carry-over, SF filter, bucket rules, dedup, SEQUENCE ledger
 - `sfcal/ics.py` -- RFC 5545 writer and validation
 - `sfcal.toml` -- buckets, sources, rules
 - `index.html` -- the Pages subscribe page (Pages serves `main` /)
 
-Not affiliated with any listed source. Event details belong to their publishers.
+Not affiliated with any listed source. Event details belong to their publishers. Contains
+information from CalDiscovery, made available under the
+[ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
