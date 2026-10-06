@@ -851,6 +851,22 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/meet-ulysses-sf-ocean-robotics-startup/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261006T173000
+DTEND;TZID=America/Los_Angeles:20261006T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-f515482b8f61a19c@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10521\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Los Angeles Lakers
 DTSTART;TZID=America/Los_Angeles:20261006T190000
 DTEND;TZID=America/Los_Angeles:20261006T210000
@@ -920,9 +936,9 @@ BEGIN:VEVENT
 SUMMARY:Dance Outdoors with Rhythm & Motion
 DTSTART;TZID=America/Los_Angeles:20261007T120000
 DTEND;TZID=America/Los_Angeles:20261007T140000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17734077@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  e.\n\nMore dates to be announced. Check back often for updates.\n\nNamed S
@@ -937,11 +953,12 @@ DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  ection and your abundant joy.\n\nFree RSVP\n\nTickets: https://ybgfestival
  .org/event/dance-outdoors-with-rhythm-motion-100726/\nDetails: https://dot
  hebay.com/events/2026/10/7/dance-outdoors-with-rhythm-motion-tickets\nSour
- ce: DoTheBay
+ ce: DoTheBay\n\nAlso listed on:\n- https://ybgfestival.org/event/dance-out
+ doors-with-rhythm-motion-100726/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33910304/f98eefbb-9bdf-40ca-a39a-01fc6898eaaf.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -1026,6 +1043,22 @@ LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/workout-wednesdays-at-sfs-union-square-sept-23
  -oct-14/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261007T173000
+DTEND;TZID=America/Los_Angeles:20261007T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-c5572f6817bdb244@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10522\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
@@ -1115,9 +1148,9 @@ BEGIN:VEVENT
 SUMMARY:Quinteto Latino
 DTSTART;TZID=America/Los_Angeles:20261008T123000
 DTEND;TZID=America/Los_Angeles:20261008T143000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17207816@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:A wind quintet with an imperative mission\, Quinteto Latino is
   a singular Bay Area-based chamber ensemble devoted to breaking down the r
@@ -1133,15 +1166,32 @@ DESCRIPTION:A wind quintet with an imperative mission\, Quinteto Latino is
  y commissioned by the ensemble.\n\nSupported in part by the Alice M. Ditso
  n Fund of Columbia University.\n\nTickets: https://ybgfestival.org/event/q
  uinteto-latino-2026/\nDetails: https://dothebay.com/events/2026/10/8/quint
- eto-latino-tickets\nSource: DoTheBay
+ eto-latino-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://ybgfest
+ ival.org/event/quinteto-latino-2026/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31425241/a7ae8815-4603-4cea-862e-ef73ba36d879.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/8/quinteto-latino-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261008T173000
+DTEND;TZID=America/Los_Angeles:20261008T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-97ed4c7e85075855@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10523\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NightLife: Buggin' Out
@@ -1203,6 +1253,22 @@ LAST-MODIFIED:20261006T001646Z
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-443/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chess and Mahjong
+DTSTART;TZID=America/Los_Angeles:20261009T140000
+DTEND;TZID=America/Los_Angeles:20261009T170000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-a956823fdaa6a364@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free chess and mahjong lessons and play https://sfrecpark.org/
+ calendar.aspx?EID=10599\n\nDetails: /common/modules/iCalendar/iCalendar.as
+ px?feed=calendar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slow-Paced Golden Gate Park Ride w/ Adaptive Bikes
@@ -1359,6 +1425,23 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/family-nature-adventures-spiders/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zumba and Shake The Fog
+DTSTART;TZID=America/Los_Angeles:20261010T103000
+DTEND;TZID=America/Los_Angeles:20261010T111500
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-835bdd582c80c81b@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes on every 2nd Saturday of the month fo
+ r Zumba and Shake The Fog https://sfrecpark.org/calendar.aspx?EID=10406\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pulmonary Hypertension Wellness Expo (South SF)
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T150000
@@ -1472,9 +1555,9 @@ BEGIN:VEVENT
 SUMMARY:Follow the Music
 DTSTART;TZID=America/Los_Angeles:20261010T130000
 DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T002614Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17687565@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Free RSVP\n\nSince launching in 2023 Follow the Music has been
   at the forefront of a rising movement promoting arts education around the
@@ -1502,11 +1585,11 @@ DESCRIPTION:Free RSVP\n\nSince launching in 2023 Follow the Music has been
  nDetails: https://dothebay.com/events/2026/10/10/follow-the-music-tickets\
  nSource: DoTheBay\n\nAlso listed on:\n- https://ybgfestival.org/event/foll
  ow-the-music/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
- cisco-ca
+ cisco-ca\n- https://ybgfestival.org/event/follow-the-music/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33683367/639deabf-30e0-4c94-8171-dc6236553fae.jpg
-LAST-MODIFIED:20261006T002614Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -1539,9 +1622,9 @@ BEGIN:VEVENT
 SUMMARY:YBG Dance Day
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T120000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17207817@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Free RSVP\n\nA party\, a workout\, a meditation and a communal
   celebration\, Yerba Buena Gardens Dance Day is a portal to a joyous dance
@@ -1563,11 +1646,12 @@ DESCRIPTION:Free RSVP\n\nA party\, a workout\, a meditation and a communal
  l Presents\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.
  eventbrite.com%2Fe%2Fybg-dance-day-at-ybg-festival-tickets-1986358348291%3
  Faff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/10/11/ybg-
- dance-day-tickets\nSource: DoTheBay
+ dance-day-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://ybgfesti
+ val.org/event/ybg-dance-day-2026/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31425254/f1457c10-48f7-482f-a58a-cb51b2e0365d.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -1618,6 +1702,55 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Francisco Park\, 2445 Hyde Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/dads-strollers-meetup-sfs-francisco-park/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261011T100000
+DTEND;TZID=America/Los_Angeles:20261011T110000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-b19ead2af181736e@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10574\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261011T110000
+DTEND;TZID=America/Los_Angeles:20261011T120000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-3bc14bb1c7e2a5d4@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10587\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2nd Sunday Serenades
+DTSTART;TZID=America/Los_Angeles:20261011T120000
+DTEND;TZID=America/Los_Angeles:20261011T140000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-1d5f10ae2053b320@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd
+  Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10412\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
@@ -1689,6 +1822,23 @@ URL:https://sf.funcheap.com/sf-bookish-fall-picnic-book-club-washington-sq
  uare-park-north-beach/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunset Dunes Community Cleanup
+DTSTART;TZID=America/Los_Angeles:20261011T130000
+DTEND;TZID=America/Los_Angeles:20261011T150000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-96cb4a89b75a9247@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes on the 2nd Sunday of the month for a 
+ Community Cleanup Day from 1 pm - 3 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10418\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sunset Dunes and Upper Great Highway - 1611 Upper Great Highway S
+ an Francisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Ado’s “Monstruo” J-Pop Dance Pop-Up + Video Shoot (Sale
  sforce Park)
 DTSTART;TZID=America/Los_Angeles:20261011T160000
@@ -1731,12 +1881,44 @@ URL:https://sf.funcheap.com/free-ados-monstruo-jpop-dance-popup-video-shoo
  t-salesforce-park/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261012T173000
+DTEND;TZID=America/Los_Angeles:20261012T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-d5be56c25034508c@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10524\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261013T173000
+DTEND;TZID=America/Los_Angeles:20261013T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-f9632f3ad6565ba6@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10525\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dance Outdoors with Rhythm & Motion
 DTSTART;TZID=America/Los_Angeles:20261014T120000
 DTEND;TZID=America/Los_Angeles:20261014T140000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17734079@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  e.\n\nMore dates to be announced. Check back often for updates.\n\nNamed S
@@ -1751,11 +1933,12 @@ DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  ection and your abundant joy.\n\nFree RSVP\n\nTickets: https://ybgfestival
  .org/event/dance-outdoors-with-rhythm-motion-101426/\nDetails: https://dot
  hebay.com/events/2026/10/14/dance-outdoors-with-rhythm-motion-tickets\nSou
- rce: DoTheBay
+ rce: DoTheBay\n\nAlso listed on:\n- https://ybgfestival.org/event/dance-ou
+ tdoors-with-rhythm-motion-101426/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33910319/e726667c-fe1b-45d8-b984-dc2e1097a830.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -1797,6 +1980,22 @@ LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/workout-wednesdays-at-sfs-union-square-sept-23
  -oct-14-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261014T173000
+DTEND;TZID=America/Los_Angeles:20261014T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-f229b9c789334925@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10526\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WNBA Playoffs Round 2 Home Game E: Valkyries V Aces
@@ -1866,6 +2065,22 @@ URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-october-2026-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261015T173000
+DTEND;TZID=America/Los_Angeles:20261015T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-487d88b899478600@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10527\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NightLife: October 15
 DTSTART;TZID=America/Los_Angeles:20261015T180000
 DTEND;TZID=America/Los_Angeles:20261015T200000
@@ -1927,6 +2142,22 @@ LAST-MODIFIED:20261006T001646Z
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-444/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chess and Mahjong
+DTSTART;TZID=America/Los_Angeles:20261016T140000
+DTEND;TZID=America/Los_Angeles:20261016T170000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-8168ae4f6c532efc@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free chess and mahjong lessons and play https://sfrecpark.org/
+ calendar.aspx?EID=10600\n\nDetails: /common/modules/iCalendar/iCalendar.as
+ px?feed=calendar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Portland Trail Blazers
@@ -2066,6 +2297,38 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-chalk-art-event-el-cerrito/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261017T100000
+DTEND;TZID=America/Los_Angeles:20261017T110000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-853aaca87c82b64a@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10547\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T120000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-259b9ffbd777f3a2@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10561\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Sanctuary” Exhibition Opening
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T200000
@@ -2090,6 +2353,38 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:CK Contemporary\, 246 Powell St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sanctuary-exhibition-opening/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261018T100000
+DTEND;TZID=America/Los_Angeles:20261018T110000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-e83fb1dcfc3f77ad@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10575\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261018T110000
+DTEND;TZID=America/Los_Angeles:20261018T120000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-60f8b9172db4c4ea@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10588\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The 5th Annual Berkeley Bird Festival
@@ -2255,6 +2550,38 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-445/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261019T173000
+DTEND;TZID=America/Los_Angeles:20261019T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-99f48b82bd2d99af@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10528\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261020T173000
+DTEND;TZID=America/Los_Angeles:20261020T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-7b2f3e741832a5ab@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10529\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261021T090000
 DTEND;TZID=America/Los_Angeles:20261021T100000
@@ -2299,9 +2626,9 @@ BEGIN:VEVENT
 SUMMARY:Dance Outdoors with Rhythm & Motion
 DTSTART;TZID=America/Los_Angeles:20261021T120000
 DTEND;TZID=America/Los_Angeles:20261021T140000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17734081@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  e.\n\nMore dates to be announced. Check back often for updates.\n\nNamed S
@@ -2316,16 +2643,33 @@ DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  ection and your abundant joy.\n\nFree RSVP\n\nTickets: https://ybgfestival
  .org/event/dance-outdoors-with-rhythm-motion-102126/\nDetails: https://dot
  hebay.com/events/2026/10/21/dance-outdoors-with-rhythm-motion-tickets\nSou
- rce: DoTheBay
+ rce: DoTheBay\n\nAlso listed on:\n- https://ybgfestival.org/event/dance-ou
+ tdoors-with-rhythm-motion-102126/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33910333/3b5135b1-ae7e-480c-b9f4-00a33b9ea430.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/21/dance-outdoors-with-rhythm-moti
  on-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261021T173000
+DTEND;TZID=America/Los_Angeles:20261021T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-6852d3b5a8b97a34@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10530\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
@@ -2370,6 +2714,22 @@ LOCATION:San Francisco State University Observatory\, Thornton Hall\, 10th
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-october-2026-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261022T173000
+DTEND;TZID=America/Los_Angeles:20261022T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-3392694a98a7b2c7@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10531\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NightLife: Día de los Muertos
@@ -2441,6 +2801,22 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-455/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chess and Mahjong
+DTSTART;TZID=America/Los_Angeles:20261023T140000
+DTEND;TZID=America/Los_Angeles:20261023T170000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-a38df8c75d05c582@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free chess and mahjong lessons and play https://sfrecpark.org/
+ calendar.aspx?EID=10601\n\nDetails: /common/modules/iCalendar/iCalendar.as
+ px?feed=calendar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Memphis Grizzlies
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
@@ -2508,6 +2884,22 @@ URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-october-2026-10/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261024T100000
+DTEND;TZID=America/Los_Angeles:20261024T110000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-345c884bf729ca91@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10548\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s “BYOP” Pumpkin Carving Party 2026 (Duboce Park)
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T130000
@@ -2537,6 +2929,22 @@ LOCATION:Duboce Park Upper Lawn\, Duboce Avenue and Scott Street\, San Fra
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-byop-pumpkin-carving-party-2026-duboce-par
  k/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T120000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-dcd36247714726f4@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10562\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:44th Annual Sandcastle Classic: 100+ Teams Build Giant Sculptures 
@@ -2621,9 +3029,9 @@ BEGIN:VEVENT
 SUMMARY:Afro-Filipino Jazz Project
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17207820@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Free RSVP\n\nFew artists have appeared at the Festival more fr
  equently than flutist\, percussionist and arranger John Calloway. Whether 
@@ -2649,11 +3057,12 @@ DESCRIPTION:Free RSVP\n\nFew artists have appeared at the Festival more fr
  filipino-jazz-project-at-ybg-festival-tickets-1986364182742%3Faff%3Doddtdt
  creator\nDetails: https://dothebay.com/events/2026/10/24/afro-filipino-jaz
  z-project-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funch
- eap.com/silent-shorts-program/
+ eap.com/silent-shorts-program/\n- https://ybgfestival.org/event/afro-filip
+ ino-jazz-project/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31425269/5c59ff21-8070-4be0-8436-9d34d83bb6cf.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -2790,6 +3199,38 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/yoga-francisco-park/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261025T100000
+DTEND;TZID=America/Los_Angeles:20261025T110000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-ffecf3ccb02aa86b@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10576\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T120000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-e81796adfa7cdc74@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10589\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T170000
@@ -2871,6 +3312,38 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-446/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261026T173000
+DTEND;TZID=America/Los_Angeles:20261026T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-9900f723bfbe3698@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10532\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261027T173000
+DTEND;TZID=America/Los_Angeles:20261027T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-fc4bff4be67aede6@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10533\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261028T090000
 DTEND;TZID=America/Los_Angeles:20261028T100000
@@ -2915,9 +3388,9 @@ BEGIN:VEVENT
 SUMMARY:Dance Outdoors with Rhythm & Motion
 DTSTART;TZID=America/Los_Angeles:20261028T120000
 DTEND;TZID=America/Los_Angeles:20261028T140000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17734082@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  e.\n\nMore dates to be announced. Check back often for updates.\n\nNamed S
@@ -2932,16 +3405,33 @@ DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  ection and your abundant joy.\n\nFree RSVP\n\nTickets: https://ybgfestival
  .org/event/dance-outdoors-with-rhythm-motion-102826/\nDetails: https://dot
  hebay.com/events/2026/10/28/dance-outdoors-with-rhythm-motion-tickets\nSou
- rce: DoTheBay
+ rce: DoTheBay\n\nAlso listed on:\n- https://ybgfestival.org/event/dance-ou
+ tdoors-with-rhythm-motion-102826/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33910341/655a033e-0df1-4d00-886b-def08b36094a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/28/dance-outdoors-with-rhythm-moti
  on-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261028T173000
+DTEND;TZID=America/Los_Angeles:20261028T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-b05b1a301aef6e9d@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10534\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
@@ -2986,6 +3476,22 @@ LOCATION:San Francisco State University Observatory\, Thornton Hall\, 10th
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-october-2026-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Dance Fitness Class by Rae Studios
+DTSTART;TZID=America/Los_Angeles:20261029T173000
+DTEND;TZID=America/Los_Angeles:20261029T183000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-3f0245157947c052@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
+ ?EID=10535\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fright NightLife
@@ -3073,6 +3579,31 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-456/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Halloween Hike: Creepy Presidio Pet Cemetery Stories
+DTSTART;TZID=America/Los_Angeles:20261030T100000
+DTEND;TZID=America/Los_Angeles:20261030T140000
+DTSTAMP:20261006T172218Z
+UID:funcheap-1641096@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:rafikiThis hike includes a visit to the Pet Cemetery to hear c
+ reepy stories from Presidio lore. Wear a costume if you dare!\nPlease meet
+  at Rafiki Coalition (601 Cesar Chavez Street\, San Francisco\, CA 94124) 
+ 20 minutes early for COVID testing. A free shuttle promptly leaves at 10:0
+ 0 AM to take us to our destination. Lunch will be provided.\nRSVP to Maxin
+ e at 415-654-0451 by Wed.\, 10/27. Space is limited.\n\nFree\n\nTickets: h
+ ttps://rafikicoalition.org/event/halloween-hike-with-rafiki/\nDetails: htt
+ ps://sf.funcheap.com/free-halloween-hike-creepy-presidio-pet-cemetery-stor
+ ies-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Hike-F
+ lyer_10.30.26.png
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Rafiki Coalition\, 601 Cesar Chavez\, San Francisco\, CA 94124
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-halloween-hike-creepy-presidio-pet-cemete
+ ry-stories-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:City Creatures: Pest Art Pop-Up
 DTSTART;TZID=America/Los_Angeles:20261030T140000
 DTEND;TZID=America/Los_Angeles:20261030T230000
@@ -3110,6 +3641,54 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Terra Gallery\, 511 Harrison Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/city-creatures-pest-art-popup-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chess and Mahjong
+DTSTART;TZID=America/Los_Angeles:20261030T140000
+DTEND;TZID=America/Los_Angeles:20261030T170000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-civic-center-26ae33b326452a0a@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free chess and mahjong lessons and play https://sfrecpark.org/
+ calendar.aspx?EID=10602\n\nDetails: /common/modules/iCalendar/iCalendar.as
+ px?feed=calendar&catID=40\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
+ 4102
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteer at Scaregrove
+DTSTART;TZID=America/Los_Angeles:20261030T150000
+DTEND;TZID=America/Los_Angeles:20261030T210000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-2d2523bf1c7ba110@sf-cal
+SEQUENCE:0
+DESCRIPTION:Volunteer Opportunity https://sfrecpark.org/calendar.aspx?EID=
+ 10820\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&c
+ atID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sigmund Stern Grove - 19th Avenue and Sloat Boulevard San Francis
+ co CA 94132
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scaregrove Halloween Event
+DTSTART;TZID=America/Los_Angeles:20261030T150000
+DTEND;TZID=America/Los_Angeles:20261030T210000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-fb78ed1e9d59e5ec@sf-cal
+SEQUENCE:0
+DESCRIPTION:Free Halloween fun for the entire family! https://sfrecpark.or
+ g/calendar.aspx?EID=10822\n\nDetails: /common/modules/iCalendar/iCalendar.
+ aspx?feed=calendar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sigmund Stern Grove - 19th Avenue and Sloat Boulevard San Francis
+ co CA 94132
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Los Angeles Lakers
@@ -3287,9 +3866,9 @@ BEGIN:VEVENT
 SUMMARY:Halloween Hoopla
 DTSTART;TZID=America/Los_Angeles:20261031T120000
 DTEND;TZID=America/Los_Angeles:20261031T140000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17564590@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Free RSVP\n\nThe 26th annual Halloween Hoopla is back with fam
  ily-friendly frights and delights for kids under 10 and their adults! This
@@ -3302,11 +3881,14 @@ DESCRIPTION:Free RSVP\n\nThe 26th annual Halloween Hoopla is back with fam
  ted in part by:\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2
  Fwww.eventbrite.com%2Fe%2Fhalloween-hoopla-at-ybg-festival-tickets-1986366
  067379%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/10
- /31/halloween-hoopla-tickets\nSource: DoTheBay
+ /31/halloween-hoopla-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https
+ ://sf.funcheap.com/golden-gate-park-the-whales-tail-beer-wine-garden-live-
+ music-summer-2026-38/\n- https://ybgfestival.org/event/halloween-hoopla-20
+ 26/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33108810/d692fec9-7d0a-45ed-bca8-79389ed47edf.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -3390,9 +3972,9 @@ SUMMARY:SF’s Free “Sundays at the Beach” Chair Yoga Day (Great Highw
  ay)
 DTSTART;TZID=America/Los_Angeles:20261101T140000
 DTEND;TZID=America/Los_Angeles:20261101T170000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261006T172218Z
 UID:funcheap-1636009@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoors
 DESCRIPTION:SF’s Free “Sundays at the Beach” Chair Yoga Day (Great H
  ighway)\nGreat Highway Park\nWelcome to Sundays at the Beach!\nWith help f
@@ -3409,10 +3991,11 @@ DESCRIPTION:SF’s Free “Sundays at the Beach” Chair Yoga Day (Great H
  nts can be canceled\, details can change after they are added to our calen
  dar\, and errors do occur.\n\nFree\n\nTickets: https://www.instagram.com/p
  /CuIUasfymoW/\nDetails: https://sf.funcheap.com/sfs-free-sundays-at-the-be
- ach-chair-yoga-day-great-highway-38/\nSource: Funcheap SF
+ ach-chair-yoga-day-great-highway-38/\nSource: Funcheap SF\n\nAlso listed o
+ n:\n- /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/08/356799
  184_3412170722365527_7262830163867165123_n.jpeg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:The Great Highway\, Irving and Great Highway\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-free-sundays-at-the-beach-chair-yoga-day-g
@@ -3754,6 +4337,23 @@ URL:https://dothebay.com/events/2026/11/7/golden-state-warriors-vs-orlando
  -magic-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2nd Sunday Serenades
+DTSTART;TZID=America/Los_Angeles:20261108T120000
+DTEND;TZID=America/Los_Angeles:20261108T140000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-da477c944259e37c@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd
+  Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10413\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
 DTSTART;TZID=America/Los_Angeles:20261108T130000
 DTEND;TZID=America/Los_Angeles:20261108T170000
@@ -3792,6 +4392,23 @@ LOCATION:Skatin’ Place\, 6th Ave. and Kennedy Drive\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-
  303/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Dunes Community Cleanup
+DTSTART;TZID=America/Los_Angeles:20261108T130000
+DTEND;TZID=America/Los_Angeles:20261108T150000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-357f345489996f12@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes on the 2nd Sunday of the month for a 
+ Community Cleanup Day from 1 pm - 3 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10419\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sunset Dunes and Upper Great Highway - 1611 Upper Great Highway S
+ an Francisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
@@ -4003,9 +4620,9 @@ BEGIN:VEVENT
 SUMMARY:Bhangra & Beats Night Market
 DTSTART;TZID=America/Los_Angeles:20261113T160000
 DTEND;TZID=America/Los_Angeles:20261113T180000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261006T172218Z
 UID:dothebay-17358572@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:San Francisco’s biggest South Asian celebration is back\, an
  d for the first time ever\, it lands at Yerba Buena Gardens\, one of downt
@@ -4030,11 +4647,12 @@ DESCRIPTION:San Francisco’s biggest South Asian celebration is back\, an
  .org/event/bhangra-and-beats-111326/\nDetails: https://dothebay.com/events
  /2026/11/13/bhangra-beats-night-market-tickets\nSource: DoTheBay\n\nAlso l
  isted on:\n- https://sf.funcheap.com/bhangra-beats-night-market-sfs-offici
- al-diwali-celebration-yerba-buena-gardens/
+ al-diwali-celebration-yerba-buena-gardens/\n- https://ybgfestival.org/even
+ t/bhangra-and-beats-111326/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32120481/7a06c2ae-1e15-4657-ad32-a0ca7c42c4ea.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261006T172218Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -4081,6 +4699,23 @@ LOCATION:Laguna Honda Hospital\, 375 Laguna Honda Blvd\, San Francisco\, C
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/trail-habitat-volunteer-work-restoring-laguna-
  hondas-lost-trails-sf-108/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba and Shake The Fog
+DTSTART;TZID=America/Los_Angeles:20261114T103000
+DTEND;TZID=America/Los_Angeles:20261114T111500
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-1ba2e78361a9a1d8@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes on every 2nd Saturday of the month fo
+ r Zumba and Shake The Fog https://sfrecpark.org/calendar.aspx?EID=10407\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Beginner Parkour “Urban Ninja” Class
@@ -4619,6 +5254,23 @@ LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/29/golden-state-warriors-vs-la-cli
  ppers-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART;TZID=America/Los_Angeles:20261201T140000
+DTEND;TZID=America/Los_Angeles:20261201T150000
+DTSTAMP:20261006T172218Z
+UID:sfrecpark-main-78c79e404577cd9c@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes on the first Sunday of the month for 
+ Chair Yoga at 1400 Upper Great Highway from 2:00 pm - 3:00 pm https://sfre
+ cpark.org/calendar.aspx?EID=10424\n\nDetails: /common/modules/iCalendar/iC
+ alendar.aspx?feed=calendar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261006T172218Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Utah Jazz
