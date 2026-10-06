@@ -84,6 +84,8 @@ adapter = "cityhall"
 label = "SF.gov City Hall lighting"
 priority = 90
 apply_bucket_rules = false
+# sf.gov's AWS WAF challenges GitHub Actions IPs (works from home IPs).
+enabled = false
 
 [sources.sf-city-hall-lights.options]
 url = "https://www.sf.gov/location--san-francisco-city-hall"

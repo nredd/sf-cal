@@ -137,8 +137,9 @@ The cron got disabled (GitHub emails that too): `gh workflow enable build.yml -R
 - `events.json` is ~3.4 MB and is re-committed whenever anything changes, so the `feeds`
   branch grows by a few MB a day while events churn
 - Google refreshes subscriptions every ~8-24h no matter what the feed asks for
-- sf.gov sits behind AWS WAF. Plain requests get the page today, but a challenge would break
-  `sf-city-hall-lights` (it keeps its last good nights and the build exits 3)
+- sf.gov sits behind AWS WAF, which challenges GitHub Actions IPs but not home IPs. So
+  `sf-city-hall-lights` is `enabled = false` and the `city-hall-lights` feed is empty for now.
+  `uv run sfcal check-source sf-city-hall-lights --full` still works locally
 - Street-event times are SFMTA permit times, so they include setup and teardown. Pending
   applications are left out until permitted, which can be days before the event
 - SF Civic Center's feed is mostly umbrellas and yields a handful of one-offs, most with no
