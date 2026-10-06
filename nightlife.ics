@@ -1757,9 +1757,9 @@ BEGIN:VEVENT
 SUMMARY:The Crossing 5th Year Anniversary Celebration
 DTSTART;TZID=America/Los_Angeles:20261015T160000
 DTEND;TZID=America/Los_Angeles:20261015T180000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261006T191250Z
 UID:dothebay-17916764@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:DJ/Parties
 DESCRIPTION:We're celebrating five years of The Crossing and 10 years of T
  he East Cut! It's been a wild ride\, and we're so excited to celebrate fiv
@@ -1774,10 +1774,11 @@ DESCRIPTION:We're celebrating five years of The Crossing and 10 years of T
  nDetails: https://dothebay.com/events/2026/10/15/the-crossing-5th-year-ann
  iversary-celebration-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https
  ://sf.funcheap.com/crossings-5th-anniversary-party-djs-basketball-court-ri
- bbon-cutting-sf/
+ bbon-cutting-sf/\n- https://sf.funcheap.com/crossings-5th-anniversary-bask
+ etball-court-ribbon-cutting-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34774165/43d36ce5-c0f8-487b-8737-a4ec5f560caa.jpg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261006T191250Z
 LOCATION:The Crossing at East Cut\, 250 Main St\, San Francisco\, CA\, 941
  05
 TRANSP:TRANSPARENT
@@ -3206,6 +3207,38 @@ LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/26/programa-de-gestion-de-continge
  ncias-en-espanol-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Art Mask-querade: Make Your Most Ridiculous Mask at The Faight
+DTSTART;TZID=America/Los_Angeles:20261026T180000
+DTEND;TZID=America/Los_Angeles:20261026T210000
+DTSTAMP:20261006T191250Z
+UID:funcheap-1640510@sf-cal
+SEQUENCE:0
+CATEGORIES:Lgbtq
+DESCRIPTION:Photos by @jordanplumbcreative\n\nBad Art Club is where you go
+  to unblock creativity\, be in community and play like a kid again. Come b
+ e yourself & do your worst with us!\n\nHere’s the thing about masks: You
+  gotta put em’ on to pull em’ off!\nCome be totally surprised by the m
+ ask you make and see what happens to you when you put it on (and pull it o
+ ff).\n\nWith a bunch of unexpected materials at your fingertips\, you’ll
+  make a mask as ridiculous as you can possibly imagine.\nReal people\, rea
+ l connection\, guaranteed.\nBad Art Club is the art class you wish you had
+  as a kid. It’s where you go to wake up your creativity\, connect with g
+ enuine people and have yourself a good laugh.\nFirst time? You’re in for
+  a treat. Leave your expectations at the door and come exactly as you are.
+ \nImportant Info:\n– All supplies are provided\n– Arrive on time at 6p
+ m (no entry will be permitted past 6:30pm)\n– BAC is a sober event\nWe c
+ an’t wait to get messy with you!\n\n$15.00\n\nTickets: https://www.event
+ brite.com/e/the-bad-art-mask-querade-tickets-2002831538045\nDetails: https
+ ://sf.funcheap.com/bad-art-maskquerade-ridiculous-mask-faight-sf/\nSource:
+  Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/The-Ba
+ d-Art-Mask-querade.png
+LAST-MODIFIED:20261006T191250Z
+LOCATION:The Faight Collective\, 473A Haight St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/bad-art-maskquerade-ridiculous-mask-faight-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Motown On Mondays” DJ Night (Madrone Art Bar)

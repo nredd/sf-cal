@@ -897,22 +897,22 @@ BEGIN:VEVENT
 SUMMARY:Zarna Garg
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T191250Z
 UID:dothebay-17494043@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
-DESCRIPTION:Another Planet Entertainment Presents\nMillion Dollar Excuses 
- tour\nZarna Garg\nFriday\, October 9 | Palace of Fine Arts\n\nAll Ages\nAn
- other Planet Entertainment Presents: Million Dollar Excuses tour\n\nTicket
- s: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=h
- ttps%3A%2F%2Fwww.ticketmaster.com%2Fzarna-garg-million-dollar-excuses-san-
- francisco-california-10-09-2026%2Fevent%2F1C0064CABF358B5D\nDetails: https
- ://dothebay.com/events/2026/10/9/zarna-garg-million-dollar-excuses-tickets
- \nSource: DoTheBay
+DESCRIPTION:Another Planet Entertainment Presents\nMillion Dollar Excuses\
+ nZarna Garg\nFriday\, October 9 | Palace of Fine Arts\n\nAll Ages\nAnother
+  Planet Entertainment Presents: Million Dollar Excuses\n\nTickets: https:/
+ /ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F
+ %2Fwww.ticketmaster.com%2Fzarna-garg-million-dollar-excuses-san-francisco-
+ california-10-09-2026%2Fevent%2F1C0064CABF358B5D\nDetails: https://dotheba
+ y.com/events/2026/10/9/zarna-garg-million-dollar-excuses-tickets\nSource: 
+ DoTheBay
 GEO:37.8019913;-122.4486565
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32775017/a641d443-5a93-452b-af97-2fc5f88e794e.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T191250Z
 LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA\, 941
  23
 TRANSP:TRANSPARENT
@@ -1160,6 +1160,31 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/kangaroo-court/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarna Garg
+DTSTART;TZID=America/Los_Angeles:20261010T163000
+DTEND;TZID=America/Los_Angeles:20261010T183000
+DTSTAMP:20261006T191250Z
+UID:dothebay-17929214@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Another Planet Entertainment Presents\nMillion Dollar Excuses\
+ nEarly Show\nZarna Garg\nSaturday\, October 10 | Palace of Fine Arts\n\nAl
+ l Ages\nAnother Planet Entertainment Presents: Million Dollar Excuses - Ea
+ rly Show\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sh
+ aredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fzarna-garg-million-d
+ ollar-excuses-san-francisco-california-10-10-2026%2Fevent%2F1C006494E5212B
+ DF\nDetails: https://dothebay.com/events/2026/10/10/zarna-garg-early-show-
+ tickets\nSource: DoTheBay
+GEO:37.8019913;-122.4486565
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34830407/2cd52281-d209-44b8-8f3b-7f67e5079480.png
+LAST-MODIFIED:20261006T191250Z
+LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA\, 941
+ 23
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/10/zarna-garg-early-show-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand National Rodeo #2
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T220000
@@ -1314,13 +1339,13 @@ BEGIN:VEVENT
 SUMMARY:Zarna Garg
 DTSTART;TZID=America/Los_Angeles:20261010T193000
 DTEND;TZID=America/Los_Angeles:20261010T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T191250Z
 UID:dothebay-17260276@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
-DESCRIPTION:Another Planet Entertainment Presents\nMillion Dollar Excuses 
- tour\nZarna Garg\nSaturday\, October 10 | Palace of Fine Arts\n\nAll Ages\
- nAnother Planet Entertainment Presents: Million Dollar Excuses tour\n\nTic
+DESCRIPTION:Another Planet Entertainment Presents\nMillion Dollar Excuses\
+ nZarna Garg\nSaturday\, October 10 | Palace of Fine Arts\n\nAll Ages\nSold
+  out\nAnother Planet Entertainment Presents: Million Dollar Excuses\n\nTic
  kets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&
  u=https%3A%2F%2Fwww.ticketmaster.com%2Fzarna-garg-million-dollar-excuses-s
  an-francisco-california-10-10-2026%2Fevent%2F1C00649022A7FB10\nDetails: ht
@@ -1329,7 +1354,7 @@ DESCRIPTION:Another Planet Entertainment Presents\nMillion Dollar Excuses
 GEO:37.8019913;-122.4486565
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31663426/abbefc48-14c5-4aa7-814e-8435b63aeff2.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T191250Z
 LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA\, 941
  23
 TRANSP:TRANSPARENT
@@ -1650,6 +1675,35 @@ LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for
  -volunteers-sf-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Nob Hill Weekly Cleanup (Free Lunch for Volunteers)
+DTSTART;TZID=America/Los_Angeles:20261011T094500
+DTEND;TZID=America/Los_Angeles:20261011T110000
+DTSTAMP:20261006T191250Z
+UID:funcheap-1640560@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Phuong LeLower Nob Hill Weekly Cleanup\nSundays\, 9:45 AM to 1
+ 1:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker\, meet
+  the people on your block\, and leave the sidewalks cleaner than you found
+  them. We provide all the supplies: grabbers\, bags\, gloves\, and vests. 
+ Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free s
+ andwich\, salad\, or drink and pastry from Another Cafe\, ready when the c
+ leanup ends\n\nEveryone is welcome\, including first-timers\, families\, a
+ nd drop-ins. Check in with a QR code when you arrive. (Comedy tickets are 
+ for volunteers 18+.)\nOrganized by neighborhood volunteers in partnership 
+ with Civic Joy Fund and SF Public Works.\n\nFree\n\nTickets: https://www.i
+ nstagram.com/lowernobhillcleanup\nDetails: https://sf.funcheap.com/nob-hil
+ l-weekly-cleanup-free-lunch-volunteers-3/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/IMG_27
+ 661.jpg
+LAST-MODIFIED:20261006T191250Z
+LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
+  on Leavenworth St. side)\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/nob-hill-weekly-cleanup-free-lunch-volunteers-
+ 3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ray Lau
@@ -2544,37 +2598,6 @@ URL:https://dothebay.com/events/2026/10/17/san-francisco-comedy-undergroun
  d-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oakland Comedy Festival 2026 - The Closer
-DTSTART;TZID=America/Los_Angeles:20261017T200000
-DTEND;TZID=America/Los_Angeles:20261017T213000
-DTSTAMP:20261006T172218Z
-UID:caldiscovery-comedy-47b79d204e0f036f@sf-cal
-SEQUENCE:1
-CATEGORIES:comedy,festival
-DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
- t Email: matthew@punchlinerecords.comCost: $28.52 - $39.19Link: https://ww
- w.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-199922022651
- 5Close out Oakland Comedy Festival with local legend Brent Weinbach! Bizar
- re\, brilliant stand-up at Fluid510.Closing out the festival is hometown l
- egend and master of the wonderfully weird\, Brent Weinbach (Conan\, Comedy
-  Central\, Adult Swim). If you’ve never experienced Brent live\, prepare
-  yourself for absolute masterclass deadpan\, bizarre sound effects\, and b
- its that make you think\, "Wait\, is he allowed to do that on stage?"\n\nP
- ublished by KGO\nContains information from CalDiscovery (caldiscovery.com)
- \, ODbL 1.0\n\nDetails: https://www.eventbrite.com/e/the-closer-oakland-co
- medy-festival-tickets-1999220226515?utm_source=caldiscovery&utm_medium=ics
- &utm_campaign=san-francisco-ca\nSource: CalDiscovery\n\nAlso listed on:\n-
-  https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
- 999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
- isco-ca
-LAST-MODIFIED:20261006T172218Z
-LOCATION:Fluid510 1544 Broadway Oakland\, CA
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
- s-1999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
- ancisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dean Evans: Les Pervers - Flop Fest!
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T220000
@@ -2874,6 +2897,39 @@ LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for
  -volunteers-sf-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Nob Hill Weekly Cleanup (Free Lunch for Volunteers)
+DTSTART;TZID=America/Los_Angeles:20261018T094500
+DTEND;TZID=America/Los_Angeles:20261018T110000
+DTSTAMP:20261006T191250Z
+UID:funcheap-1640563@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Phuong LeLower Nob Hill Weekly Cleanup\nSundays\, 9:45 AM to 1
+ 1:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker\, meet
+  the people on your block\, and leave the sidewalks cleaner than you found
+  them. We provide all the supplies: grabbers\, bags\, gloves\, and vests. 
+ Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free s
+ andwich\, salad\, or drink and pastry from Another Cafe\, ready when the c
+ leanup ends\nA chance at free tickets to that evening’s 7:45 PM stand-up
+  comedy show at Cheaper Than Therapy (533 Sutter St)\, a neighborhood come
+ dy club around the corner from Union Square. Seats are limited each week a
+ nd go to volunteers who claim them at check-in.\n\nEveryone is welcome\, i
+ ncluding first-timers\, families\, and drop-ins. Check in with a QR code w
+ hen you arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by nei
+ ghborhood volunteers in partnership with Civic Joy Fund and SF Public Work
+ s.\n\nFree\n\nTickets: https://www.instagram.com/lowernobhillcleanup\nDeta
+ ils: https://sf.funcheap.com/nob-hill-weekly-cleanup-free-lunch-volunteers
+ -2/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/IMG_27
+ 662.jpg
+LAST-MODIFIED:20261006T191250Z
+LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
+  on Leavenworth St. side)\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/nob-hill-weekly-cleanup-free-lunch-volunteers-
+ 2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falsettos and Sunsets - Flop Fest!
@@ -3802,6 +3858,38 @@ LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for
  -volunteers-sf-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lower Nob Hill Weekly Cleanup (Free Lunch for Volunteers)
+DTSTART;TZID=America/Los_Angeles:20261025T094500
+DTEND;TZID=America/Los_Angeles:20261025T110000
+DTSTAMP:20261006T191250Z
+UID:funcheap-1640566@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Phuong LeLower Nob Hill Weekly Cleanup\nSundays\, 9:45 AM to 1
+ 1:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker\, meet
+  the people on your block\, and leave the sidewalks cleaner than you found
+  them. We provide all the supplies: grabbers\, bags\, gloves\, and vests. 
+ Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free s
+ andwich\, salad\, or drink and pastry from Another Cafe\, ready when the c
+ leanup ends\nA chance at free tickets to that evening’s 7:45 PM stand-up
+  comedy show at Cheaper Than Therapy (533 Sutter St)\, a neighborhood come
+ dy club around the corner from Union Square. Seats are limited each week a
+ nd go to volunteers who claim them at check-in.\n\nEveryone is welcome\, i
+ ncluding first-timers\, families\, and drop-ins. Check in with a QR code w
+ hen you arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by nei
+ ghborhood volunteers in partnership with Civic Joy Fund and SF Public Work
+ s.\n\nFree\n\nTickets: https://www.instagram.com/lowernobhillcleanup\nDeta
+ ils: https://sf.funcheap.com/nob-hill-weekly-cleanup-free-lunch-volunteers
+ /\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/IMG_27
+ 663.jpg
+LAST-MODIFIED:20261006T191250Z
+LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
+  on Leavenworth St. side)\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/nob-hill-weekly-cleanup-free-lunch-volunteers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ed Larson and Billy Wayne Davis
