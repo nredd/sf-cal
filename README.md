@@ -48,12 +48,17 @@ that isn't `http`, `https`, `mailto` or relative.
 | --- | --- | --- | --- |
 | [SF Fleet Week](https://fleetweeksf.org/calendar-of-events/) | `fleetweeksf` | `fleet-week` | Official schedule; descriptions joined from the map page |
 | [DoTheBay](https://dothebay.com/events) | `dostuff` | all categories | The site's day-listing JSON. Music is gated to `popularity >= 50` or free; exhibits (ongoing, or spanning >3 days) are dropped |
-| [Funcheap SF](https://sf.funcheap.com/) | `jsonld` | all categories | WordPress API discovery of the last 45 days of posts, then schema.org `Event` JSON-LD from each post page. Only new or edited posts are fetched; the first run backfills ~1.5k pages and takes a few minutes |
+| [Funcheap SF](https://sf.funcheap.com/) | `jsonld` | all categories | WordPress API discovery of the last 45 days of posts, then schema.org `Event` JSON-LD from each post page. Only new or edited posts are fetched; the first run backfills ~1.9k pages and takes a few minutes |
 | [CalDiscovery](https://caldiscovery.com/san-francisco-ca/) | `ics` | `arts-community` (festival), `comedy` | Any ICS feed, one bucket per feed, RRULEs expanded in the window. CalDiscovery republishes ~80 venue and org calendars under ODbL 1.0 |
 
 Keyword routing (`[[bucket_rules]]` in `sfcal.toml`) moves any timed event matching
 `\b(fleet week|blue angels|parade of ships)\b` from any source into `fleet-week`. All-day
 matches are dropped as umbrella listings.
+
+SF only: a source with `sf_only = true` (the default) keeps an event when its geo is inside
+lat 37.70..37.83, lon -122.52..-122.35, or its locality is `San Francisco` (trimmed,
+case-insensitive). Events with no location at all are kept. `fleetweeksf` sets
+`sf_only = false`.
 
 Same event on several sources is published once, from the highest `priority` source, with the
 others under "Also listed on". Two listings are the same event when they share a normalized
@@ -82,11 +87,54 @@ Scheduled workflows in a public repo are auto-disabled after 60 days without rep
 bot's `feeds` commits are expected to count; if GitHub ever disables it anyway you get an email,
 and `gh workflow enable build.yml` fixes it.
 
+## Changing feeds
+
+- Feed URLs come from the bucket keys in `sfcal.toml`. Renaming or removing a bucket breaks
+  every subscription to it. Don't; retire a bucket by leaving it empty
+- Adding a bucket: add it to `sfcal.toml`, then a row to the `README.md` table and a `<li>` to
+  `index.html`. `tests/test_docs.py` fails until all three agree
+- Re-categorizing is safe: buckets, the SF filter, rules and dedup are recomputed from
+  `events.json` on every run, so a `sfcal.toml` change applies everywhere on the next build
+  with no re-fetch
+
+## When the build fails
+
+GitHub emails on a failed `build` run. The feeds were still published unless the exit code
+was 1.
+
+1. Open the run log. The `Sources:` block names the failed source and its error
+2. Reproduce locally: `uv run sfcal check-source <name> --full`. It writes nothing
+3. `403` / Cloudflare page: the site is blocking us. Try the request with `curl -A` and the
+   `USER_AGENT` from `sfcal/__init__.py`. If it only fails from Actions IPs, set
+   `enabled = false` for that source
+4. `SourceError` / parse error / "returned no events in window": the page or API changed.
+   Re-capture the fixture into `tests/fixtures/`, update the adapter until its tests pass
+   against the new fixture, push
+5. To stop the emails while you fix it, set `enabled = false` for the source and push. Its
+   events drop out of the feeds on the next build
+6. Exit 1 (fatal): bad `sfcal.toml`, corrupt `events.json`, or a feed that failed validation.
+   Nothing was written. `make build` locally shows the same error
+
+The cron got disabled (GitHub emails that too): `gh workflow enable build.yml -R nredd/sf-cal`.
+
+## Known limitations
+
+- About 3 Fleet Week events still appear twice: Funcheap's copy names the venue too
+  differently to match safely (e.g. Marines' Memorial Theatre vs the band name)
+- Funcheap music isn't popularity-gated like DoTheBay's, so `music` runs ~60 events a week
+- DoTheBay's `/events/YYYY/M/D.json` is undocumented and can change or vanish without notice
+- `fleetweeksf` scrapes page markup that's reused year to year, but a redesign breaks it
+- `events.json` is ~3.4 MB and is re-committed whenever anything changes, so the `feeds`
+  branch grows by a few MB a day while events churn
+- Google refreshes subscriptions every ~8-24h no matter what the feed asks for
+
 ## Development
 
 ```sh
 make install                       # uv sync + prek hooks
-make all                           # format, lint, ty, tests with coverage
+make all                           # format, lint, ty, tests with coverage (rewrites files)
+make check                         # same gate without rewriting; this is what CI runs
+uv run tox                         # tests on 3.13 and 3.14
 make build                         # live build into site/ for preview
 uv run sfcal check-source dothebay --full      # dry-run one source, writes nothing
 gh workflow run build.yml -f full=true         # force a full refresh on Actions
@@ -95,6 +143,14 @@ gh workflow run build.yml -f full=true         # force a full refresh on Actions
 Add a source: write an adapter in `sfcal/sources/` (subclass `Adapter`, implement `fetch`),
 register it in `sfcal/sources/__init__.py`, add a `[sources.<name>]` table to `sfcal.toml`, and
 capture a fixture for its tests.
+
+Gotchas:
+
+- `USER_AGENT` in `sfcal/__init__.py`: DoTheBay returns 403 for any UA containing `+https://`
+  (the usual bot-UA convention). Keep it as `sf-cal/<version> (github.com/nredd/sf-cal)`
+- `icalendar` is pinned to 6.x and Dependabot ignores its majors. 7.x changes the typed
+  property API the writer and tests rely on; move deliberately
+- `make all | tail` hides failures. Use `set -o pipefail` if you pipe the gate
 
 Layout:
 
