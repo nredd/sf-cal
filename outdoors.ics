@@ -1472,9 +1472,9 @@ BEGIN:VEVENT
 SUMMARY:Follow the Music
 DTSTART;TZID=America/Los_Angeles:20261010T130000
 DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T002614Z
 UID:dothebay-17687565@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Free RSVP\n\nSince launching in 2023 Follow the Music has been
   at the forefront of a rising movement promoting arts education around the
@@ -1500,11 +1500,13 @@ DESCRIPTION:Free RSVP\n\nSince launching in 2023 Follow the Music has been
  ttps://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ffol
  low-the-music-at-ybg-festival-tickets-1986357967151%3Faff%3Doddtdtcreator\
  nDetails: https://dothebay.com/events/2026/10/10/follow-the-music-tickets\
- nSource: DoTheBay
+ nSource: DoTheBay\n\nAlso listed on:\n- https://ybgfestival.org/event/foll
+ ow-the-music/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
+ cisco-ca
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33683367/639deabf-30e0-4c94-8171-dc6236553fae.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T002614Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
