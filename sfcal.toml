@@ -46,6 +46,10 @@ description = "Outdoor recreation and sports"
 name = "Arts & Community"
 description = "Arts, family, lectures, festivals, markets and everything else"
 
+[buckets.city-hall-lights]
+name = "City Hall Lights"
+description = "What color City Hall is lit tonight, and why"
+
 # ---------------------------------------------------------------------------
 # Keyword routing. A timed event matching a rule MOVES to the rule's bucket.
 # An all-day event matching a rule is dropped (umbrella listings).
@@ -68,6 +72,18 @@ default_duration_minutes = 60
 [sources.fleetweeksf.options.venue_aliases]
 # The calendar names the festival, not the place; other sources name the place.
 "Fleet Fest" = "Fleet Fest (SkyStar Wheel, Fisherman's Wharf)"
+
+# Lighting nights are all-day and often name Fleet Week or a parade, so they
+# opt out of keyword routing, which would drop them as umbrellas.
+[sources.sf-city-hall-lights]
+adapter = "cityhall"
+label = "SF.gov City Hall lighting"
+priority = 90
+apply_bucket_rules = false
+
+[sources.sf-city-hall-lights.options]
+url = "https://www.sf.gov/location--san-francisco-city-hall"
+bucket = "city-hall-lights"
 
 [sources.dothebay]
 adapter = "dostuff"

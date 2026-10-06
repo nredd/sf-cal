@@ -338,7 +338,8 @@ def assemble(
             asm.sf_dropped[event.source] += 1
             continue
         haystack = f"{event.title}\n{event.description or ''}"
-        rule = next((r for r in cfg.bucket_rules if r.regex.search(haystack)), None)
+        rules = cfg.bucket_rules if src.apply_bucket_rules else []
+        rule = next((r for r in rules if r.regex.search(haystack)), None)
         if rule is not None:
             if event.all_day:
                 asm.rule_dropped[event.source] += 1

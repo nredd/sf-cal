@@ -35,6 +35,9 @@ class SourceCfg(BaseModel):
     label: str = Field(description="Human-readable source name shown in event descriptions")
     enabled: bool = Field(default=True, description="Skip the source entirely when false")
     sf_only: bool = Field(default=True, description="Drop events located outside SF")
+    apply_bucket_rules: bool = Field(
+        default=True, description="Route this source's events through `bucket_rules`"
+    )
     priority: int = Field(description="Cross-source dedup winner is the highest priority")
     default_duration_minutes: int = Field(
         default=120, gt=0, description="Duration given to events that have no end"

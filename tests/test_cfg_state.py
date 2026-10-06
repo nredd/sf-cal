@@ -20,8 +20,18 @@ REPO_CFG = Path(__file__).parent.parent / "sfcal.toml"
 
 def test_repo_cfg_loads() -> None:
     cfg = load_cfg(REPO_CFG)
-    assert "fleet-week" in cfg.buckets
-    assert len(cfg.buckets) == 9
+    # Feed URLs come from these keys: new buckets append, existing ones never move.
+    assert list(cfg.buckets)[:9] == [
+        "fleet-week",
+        "music",
+        "comedy",
+        "stage",
+        "film",
+        "nightlife",
+        "food-drink",
+        "outdoors",
+        "arts-community",
+    ]
     assert cfg.bucket_rules[0].regex.search("watch the BLUE ANGELS")
 
 

@@ -290,6 +290,22 @@ def test_bucket_rules_drop_all_day_matches() -> None:
     assert asm.rule_dropped == {"alpha": 1}
 
 
+def test_bucket_rules_skipped_when_source_opts_out() -> None:
+    cfg = make_cfg()
+    cfg.sources["alpha"].apply_bucket_rules = False
+    lights = make_event(
+        title="City Hall: red/white/blue",
+        description="Lit red/white/blue in recognition of SF's Annual Fleet Week Celebration",
+        start=at(9, 0),
+        all_day=True,
+        bucket="nightlife",
+    )
+    asm, _ = assemble(cfg, [lights], {}, NOW)
+    assert [f.event.bucket for f in asm.events] == ["nightlife"]
+    assert not asm.rule_dropped
+    assert not asm.rule_moved
+
+
 def test_unknown_bucket_dropped() -> None:
     asm, _ = assemble(make_cfg(), [make_event(bucket="nope")], {}, NOW)
     assert asm.events == []
