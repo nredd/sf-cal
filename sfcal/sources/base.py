@@ -21,7 +21,7 @@ LOGGER = logging.getLogger(__name__)
 
 BLOCK_TAGS = re.compile(r"<\s*(?:br|/p|/div|/h[1-6]|/li)\s*/?>", re.IGNORECASE)
 BLANK_RUNS = re.compile(r"\n\s*\n\s*(?:\n\s*)+")
-LOCALITY = re.compile(r",\s*([A-Za-z][A-Za-z .'-]+?),\s*(?:CA|California)\b")
+LOCALITY = re.compile(r"(?:^|,)\s*([A-Za-z][A-Za-z .'-]+?),\s*(?:CA|California)\b")
 
 
 class SourceError(Exception):

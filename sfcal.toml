@@ -65,6 +65,10 @@ priority = 100
 sf_only = false
 default_duration_minutes = 60
 
+[sources.fleetweeksf.options.venue_aliases]
+# The calendar names the festival, not the place; other sources name the place.
+"Fleet Fest" = "Fleet Fest (SkyStar Wheel, Fisherman's Wharf)"
+
 [sources.dothebay]
 adapter = "dostuff"
 label = "DoTheBay"
@@ -99,3 +103,48 @@ popularity_gates = { "Music" = 50 }
 "Festival" = "arts-community"
 "Shopping" = "arts-community"
 "Holiday Event" = "arts-community"
+
+[sources.funcheap]
+adapter = "jsonld"
+label = "Funcheap SF"
+priority = 60
+
+[sources.funcheap.options]
+base_url = "https://sf.funcheap.com"
+lookback_days = 45
+concurrency = 4
+default_bucket = "arts-community"
+# Not SF, or not in person: never fetched.
+skip_categories = ["virtual", "east-bay", "south-bay", "north-bay", "peninsula"]
+
+# First slug in THIS order that a post carries wins; posts carry several.
+[sources.funcheap.options.categories]
+"comedy-event-types-event" = "comedy"
+"movies" = "film"
+"outdoor-movie-night" = "film"
+"free-movie-screening" = "film"
+"theater-performance" = "stage"
+"dance" = "stage"
+"live-music-event" = "music"
+"club-dj" = "nightlife"
+"lgbtq" = "nightlife"
+"eating-drinking" = "food-drink"
+"cheap-drinks-eating-drinking" = "food-drink"
+"free-food" = "food-drink"
+"sf-beer-week" = "food-drink"
+"outdoors" = "outdoors"
+"sports-fitness" = "outdoors"
+"nature" = "outdoors"
+"bike-it" = "outdoors"
+"yoga" = "outdoors"
+"art-museums" = "arts-community"
+"lectures-workshops" = "arts-community"
+"literature" = "arts-community"
+"kids-families" = "arts-community"
+"fairs-festivals" = "arts-community"
+"community" = "arts-community"
+"history" = "arts-community"
+"geek-event" = "arts-community"
+"fun-games" = "arts-community"
+"block-party" = "arts-community"
+"walks-tours-event-types-event" = "arts-community"

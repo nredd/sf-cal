@@ -314,6 +314,43 @@ def test_dedup_priority_and_also_listed() -> None:
     assert asm.deduped == {"beta": 1}
 
 
+def test_dedup_same_start_same_venue_across_sources() -> None:
+    cfg = make_cfg()
+    official = make_event(
+        source="alpha", source_id="a", title="Brass Quintet", venue="TJPA Salesforce Park"
+    )
+    listing = make_event(
+        source="beta",
+        source_id="b",
+        title="SF's Fleet Fest 2026: Brass Quintet (TJPA)",
+        venue="Salesforce Park",
+        url="https://b/q",
+    )
+    shuffled = make_event(
+        source="beta", source_id="c", title="Brass Band", venue="Japantown (Osaka Way)"
+    )
+    osaka = make_event(
+        source="alpha", source_id="d", title="Navy Band", venue="Osaka Way in Japantown"
+    )
+    asm, _ = assemble(cfg, [listing, official, shuffled, osaka], {}, NOW)
+    by_id = {f.event.source_id: f for f in asm.events}
+    assert set(by_id) == {"a", "d"}
+    assert by_id["a"].also_listed == ("https://b/q",)
+
+
+def test_dedup_venue_needs_same_start_and_other_source() -> None:
+    cfg = make_cfg()
+    a = make_event(source="alpha", source_id="a", title="Show A", venue="The Chapel")
+    later = make_event(
+        source="beta", source_id="b", title="Show B", venue="The Chapel", start=at(10, 21)
+    )
+    same_src = make_event(source="alpha", source_id="c", title="Show C", venue="The Chapel")
+    no_venue = make_event(source="beta", source_id="d", title="Show D", venue=None)
+    other = make_event(source="beta", source_id="e", title="Show E", venue="Bottom of the Hill")
+    asm, _ = assemble(cfg, [a, later, same_src, no_venue, other], {}, NOW)
+    assert {f.event.source_id for f in asm.events} == {"a", "b", "c", "d", "e"}
+
+
 def test_dedup_keeps_same_source_duplicates() -> None:
     tours = [make_event(source_id=str(i), title="Ship Tours", venue=f"Pier {i}") for i in (27, 35)]
     asm, _ = assemble(make_cfg(), tours, {}, NOW)

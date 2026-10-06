@@ -134,6 +134,21 @@ def test_parse_dedups_both_layouts(client: httpx.Client) -> None:
     assert all(e.end is not None and e.end - e.start >= timedelta(hours=3) for e in tours)
 
 
+def test_venue_alias(client: httpx.Client) -> None:
+    cfg = SourceCfg(
+        adapter="fleetweeksf",
+        label="FW",
+        priority=100,
+        options={"venue_aliases": {"Fleet Fest": "Fleet Fest (SkyStar Wheel)"}},
+    )
+    events = FleetWeekSF("fleetweeksf", cfg, client).parse(
+        fixture_text("fleetweeksf_calendar.html"), {}
+    )
+    venues = {e.venue for e in events}
+    assert "Fleet Fest (SkyStar Wheel)" in venues
+    assert "Fleet Fest" not in venues
+
+
 def test_parse_skips_url_only_description(client: httpx.Client) -> None:
     descriptions = parse_map(fixture_text("fleetweeksf_map.html"))
     events = adapter(client).parse(fixture_text("fleetweeksf_calendar.html"), descriptions)

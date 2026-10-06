@@ -34,6 +34,8 @@ SF_LAT = (37.70, 37.83)
 SF_LON = (-122.52, -122.35)
 SF_LOCALITY = "san francisco"
 PUNCT = re.compile(r"[^\w\s]")
+VENUE_OVERLAP = 0.5
+VENUE_STOPWORDS = frozenset({"the", "at", "in", "of", "and", "on", "san", "francisco", "sf"})
 
 
 @dataclass
@@ -227,6 +229,86 @@ def dedup_key(event: Event) -> tuple[str, str]:
     return title, event.start.date().isoformat()
 
 
+def venue_tokens(event: Event) -> frozenset[str]:
+    """Significant words of the venue name.
+
+    Parameters:
+        event (Event): Event.
+
+    Returns:
+        frozenset[str]: Casefolded words, minus filler like `the` or `san francisco`.
+    """
+    words = PUNCT.sub(" ", (event.venue or "").casefold()).split()
+    return frozenset(w for w in words if w not in VENUE_STOPWORDS)
+
+
+def same_venue(a: frozenset[str], b: frozenset[str]) -> bool:
+    """Compare venue names by overlap coefficient.
+
+    `"Salesforce Park"` vs `"TJPA Salesforce Park"`, or `"Japantown (Osaka Way)"`
+    vs `"Osaka Way in Japantown"`, are the same place.
+
+    Parameters:
+        a (frozenset[str]): Venue tokens.
+        b (frozenset[str]): Venue tokens.
+
+    Returns:
+        bool: True when at least half of the smaller name's words are shared.
+    """
+    if not a or not b:
+        return False
+    return len(a & b) / min(len(a), len(b)) >= VENUE_OVERLAP
+
+
+def duplicate_groups(events: list[Event]) -> list[list[Event]]:
+    """Group events that are the same real-world event.
+
+    Two events are linked when they share a `dedup_key`, or when they come
+    from different sources, start at the same instant and `same_venue` holds.
+    Groups are the connected components of those links.
+
+    Parameters:
+        events (list[Event]): Candidate events.
+
+    Returns:
+        list[list[Event]]: Groups, each in input order.
+    """
+    parent = list(range(len(events)))
+
+    def find(i: int) -> int:
+        """Union-find root with path halving.
+
+        Parameters:
+            i (int): Index.
+
+        Returns:
+            int: Root index.
+        """
+        while parent[i] != i:
+            parent[i] = parent[parent[i]]
+            i = parent[i]
+        return i
+
+    by_key: dict[tuple[str, str], int] = {}
+    by_start: defaultdict[datetime, list[int]] = defaultdict(list)
+    for i, event in enumerate(events):
+        first = by_key.setdefault(dedup_key(event), i)
+        parent[find(i)] = find(first)
+        by_start[event.start].append(i)
+
+    tokens = [venue_tokens(e) for e in events]
+    for members in by_start.values():
+        for x, i in enumerate(members):
+            for j in members[x + 1 :]:
+                if events[i].source != events[j].source and same_venue(tokens[i], tokens[j]):
+                    parent[find(j)] = find(i)
+
+    groups: defaultdict[int, list[Event]] = defaultdict(list)
+    for i, event in enumerate(events):
+        groups[find(i)].append(event)
+    return list(groups.values())
+
+
 def assemble(
     cfg: Cfg, events: list[Event], revisions: dict[str, Revision], now: datetime
 ) -> tuple[Assembly, dict[str, Revision]]:
@@ -269,12 +351,8 @@ def assemble(
             continue
         kept.append(event)
 
-    groups: defaultdict[tuple[str, str], list[Event]] = defaultdict(list)
-    for event in kept:
-        groups[dedup_key(event)].append(event)
-
     published: list[tuple[Event, tuple[str, ...]]] = []
-    for group in groups.values():
+    for group in duplicate_groups(kept):
         winner = max({e.source for e in group}, key=lambda s: cfg.sources[s].priority)
         losers = [e for e in group if e.source != winner]
         also = tuple(dict.fromkeys(e.url for e in losers if e.url))

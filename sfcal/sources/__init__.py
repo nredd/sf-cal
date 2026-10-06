@@ -5,10 +5,12 @@ from __future__ import annotations
 from sfcal.sources.base import Adapter, SourceError, SourceResult, Window
 from sfcal.sources.dostuff import DoStuff
 from sfcal.sources.fleetweeksf import FleetWeekSF
+from sfcal.sources.jsonld import JsonLd
 
 ADAPTERS: dict[str, type[Adapter]] = {
     "dostuff": DoStuff,
     "fleetweeksf": FleetWeekSF,
+    "jsonld": JsonLd,
 }
 
 __all__ = ["ADAPTERS", "Adapter", "SourceError", "SourceResult", "Window"]

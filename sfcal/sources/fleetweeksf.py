@@ -62,6 +62,10 @@ class FleetWeekOptions(AdapterOptions):
     calendar_url: str = Field(default="https://fleetweeksf.org/calendar-of-events/")
     map_url: str = Field(default="https://fleetweeksf.org/map-of-events/")
     bucket: str = Field(default="fleet-week", description="Bucket every event goes to")
+    venue_aliases: dict[str, str] = Field(
+        default_factory=dict,
+        description="Calendar venue text to a findable place, e.g. `Fleet Fest` -> its location",
+    )
 
 
 class MapEntry(BaseModel):
@@ -313,6 +317,7 @@ class FleetWeekSF(Adapter[FleetWeekOptions]):
         loc_link = loc_node.css_first("a") if loc_node is not None else None
         entry = descriptions.get(post_id)
         venue = loc_node.text(strip=True) if loc_node is not None else ""
+        venue = self.opts.venue_aliases.get(venue, venue)
         body = html_to_text(entry.text) if entry else None
         type_match = OUM_TYPE.search(post.attributes.get("class") or "")
 

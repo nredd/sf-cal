@@ -8,3 +8,8 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    ignore:
+      # Pinned to 6.x (`icalendar>=6.3.1,<7`). 7.x changes the typed property
+      # API the writer and tests use; move deliberately, not via a bot PR.
+      - dependency-name: icalendar
+        update-types: ["version-update:semver-major"]

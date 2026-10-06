@@ -48,13 +48,18 @@ that isn't `http`, `https`, `mailto` or relative.
 | --- | --- | --- | --- |
 | [SF Fleet Week](https://fleetweeksf.org/calendar-of-events/) | `fleetweeksf` | `fleet-week` | Official schedule; descriptions joined from the map page |
 | [DoTheBay](https://dothebay.com/events) | `dostuff` | all categories | The site's day-listing JSON. Music is gated to `popularity >= 50` or free; exhibits (ongoing, or spanning >3 days) are dropped |
+| [Funcheap SF](https://sf.funcheap.com/) | `jsonld` | all categories | WordPress API discovery of the last 45 days of posts, then schema.org `Event` JSON-LD from each post page. Only new or edited posts are fetched; the first run backfills ~1.5k pages and takes a few minutes |
 
 Keyword routing (`[[bucket_rules]]` in `sfcal.toml`) moves any timed event matching
 `\b(fleet week|blue angels|parade of ships)\b` from any source into `fleet-week`. All-day
 matches are dropped as umbrella listings.
 
-Same event on several sources (normalized title + date) is published once, from the highest
-`priority` source, with the others under "Also listed on".
+Same event on several sources is published once, from the highest `priority` source, with the
+others under "Also listed on". Two listings are the same event when they share a normalized
+title and date, or when they come from different sources, start at the same minute and at
+least half the words of the shorter venue name match (`TJPA Salesforce Park` /
+`Salesforce Park`). The second rule is what folds Funcheap's own Fleet Week series into the
+official schedule.
 
 ## How it works
 
@@ -82,7 +87,7 @@ and `gh workflow enable build.yml` fixes it.
 make install                       # uv sync + prek hooks
 make all                           # format, lint, ty, tests with coverage
 make build                         # live build into site/ for preview
-uv run sfcal check-source fleetweeksf --full   # dry-run one source, writes nothing
+uv run sfcal check-source dothebay --full      # dry-run one source, writes nothing
 gh workflow run build.yml -f full=true         # force a full refresh on Actions
 ```
 
