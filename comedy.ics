@@ -501,38 +501,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/4/roast-battle-bay-area-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monday Night Hubba: Sea Cruise
-DTSTART;TZID=America/Los_Angeles:20261005T200000
-DTEND;TZID=America/Los_Angeles:20261005T220000
-DTSTAMP:20261006T002614Z
-UID:caldiscovery-comedy-7ab211bbdc379aa1@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,drink,music
-DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA: SEA CRUISE\n\n
- Featuring performances by:\n\nGucci Gyatt\nCoral T. Gypsyy\nRed Bettie\nSh
- iza Minnelli\nApsara Sin\nPandora Foxxx\nWednesday Malfaz\n\nHosted by:\n\
- nCap'n Kingfish & First Mate Bettie\n\nSet sail with San Francisco's world
- -famous burlesque & variety show as we celebrate a naughty\, nautical birt
- hday for our beloved Mr. Dodgy!\n\nMonday Night Hubba is the perfect way t
- o start your week sexy: with cocktails\, tease\, comedy and a more intimat
- e experience than Hubba's big monthly extravaganzas! Each Monday night is 
- a fun-filled\, shimmering showcase of local\, national and international b
- urlesque and variety talent -- and a chance to see the most dazzling debut
- s before they hit it big!\n\nBuy tickets: https://www.dnalounge.com/calend
- ar/2026/10-05d.html\n\nWatch and listen:\nHubba Hubba Revue: Promo Reel: h
- ttps://youtu.be/kCiLZYFLf78\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:
- 30pm.\n18+ with ID.\n\nGen. Adm.: $10 advance\;\n$15 door\;\nReserved Seat
- ing: $15 advance\;\n$20 door.\n\nPublished by DNA Lounge\nContains informa
- tion from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://w
- ww.dnalounge.com/calendar/2026/10-05d.html?utm_source=caldiscovery&utm_med
- ium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
-LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://www.dnalounge.com/calendar/2026/10-05d.html?utm_source=caldisc
- overy&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
 DTSTART;TZID=America/Los_Angeles:20261005T200000
 DTEND;TZID=America/Los_Angeles:20261005T230000
@@ -2216,6 +2184,38 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/aaron-weber-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rebecca Kaplan: How to Act Normal (comedy)
+DTSTART;TZID=America/Los_Angeles:20261016T193000
+DTEND;TZID=America/Los_Angeles:20261016T213000
+DTSTAMP:20261006T160356Z
+UID:dothebay-17928128@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:As a girl growing up in the 90s\, everyone seemed to know Rebe
+ cca had Autism Spectrum Disorder except for her! And her parents! However\
+ , one thing was crystal clear: she had no idea how to “act normal.” Th
+ is show will cover Rebecca's hilarious journey of self-exploration and her
+  lifelong struggle to adapt\, including at one point literally googling 
+ “how to act normal” and landing on the pinnacle of the ‘00s internet
+ : WikiHow.\nABOUT REBECCA\nRebecca Kaplan is an adorably awkward standup c
+ omedian. Her acerbic wit and relatable insights have entertained crowds al
+ l over the world. She's appeared on the Late Show with David Letterman and
+  has been featured on SiriusXM\, NPR\, and the front page of WorldStarHipH
+ op. She lives in NYC\, where she co-hosts the Bad Fan Fic podcast. Follow 
+ her on all social media at @RebeccaTKaplan to check out her clips.\n\n$15\
+ , 21+\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.event
+ brite.com%2Fe%2Frebecca-kaplan-how-to-act-normal-at-mr-bings-sf-tickets-19
+ 99318920712\nDetails: https://dothebay.com/events/2026/10/16/rebecca-kapla
+ n-how-to-act-normal-comedy-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34825586/868242e8-d62b-4aac-970c-c88094a6c4e6.jpg
+LAST-MODIFIED:20261006T160356Z
+LOCATION:Mr. Bing's\, 201 Columbus Ave\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/16/rebecca-kaplan-how-to-act-norma
+ l-comedy-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“The Stoner Comedy Jam” Friday Nights
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T213000
@@ -2434,9 +2434,9 @@ BEGIN:VEVENT
 SUMMARY:Love Isn't Blind | Live Comedy/Dating Show
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T160356Z
 UID:dothebay-17877260@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Four men. One bachelorette. The twist? The men can't speak. In
  stead\, host Allison Goldberg calls their moms live on stage and searches 
@@ -2448,11 +2448,12 @@ DESCRIPTION:Four men. One bachelorette. The twist? The men can't speak. In
  .pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Flove-isnt-blind-li
  ve-comedydating-show-sf-tickets-2001667208504\nDetails: https://dothebay.c
  om/events/2026/10/17/love-isn-t-blind-live-comedy-dating-show-tickets\nSou
- rce: DoTheBay
+ rce: DoTheBay\n\nAlso listed on:\n- https://loveisntblind.com?utm_source=c
+ aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 GEO:37.7723345;-122.4129685
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34588532/0e794cfa-d70a-4b74-975d-89d23dbac93f.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T160356Z
 LOCATION:The Foundry\, 1425 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/love-isn-t-blind-live-comedy-da
@@ -2541,6 +2542,37 @@ LOCATION:Noe Valley Farm SF\, 1828 Castro Street\, San Francisco\, CA\, 94
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/san-francisco-comedy-undergroun
  d-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oakland Comedy Festival 2026 - The Closer
+DTSTART;TZID=America/Los_Angeles:20261017T200000
+DTEND;TZID=America/Los_Angeles:20261017T213000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-47b79d204e0f036f@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,festival
+DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
+ t Email: matthew@punchlinerecords.comCost: $28.52 - $39.19Link: https://ww
+ w.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-199922022651
+ 5Close out Oakland Comedy Festival with local legend Brent Weinbach! Bizar
+ re\, brilliant stand-up at Fluid510.Closing out the festival is hometown l
+ egend and master of the wonderfully weird\, Brent Weinbach (Conan\, Comedy
+  Central\, Adult Swim). If you’ve never experienced Brent live\, prepare
+  yourself for absolute masterclass deadpan\, bizarre sound effects\, and b
+ its that make you think\, "Wait\, is he allowed to do that on stage?"\n\nP
+ ublished by KGO\nContains information from CalDiscovery (caldiscovery.com)
+ \, ODbL 1.0\n\nDetails: https://www.eventbrite.com/e/the-closer-oakland-co
+ medy-festival-tickets-1999220226515?utm_source=caldiscovery&utm_medium=ics
+ &utm_campaign=san-francisco-ca\nSource: CalDiscovery\n\nAlso listed on:\n-
+  https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
+ 999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
+ isco-ca
+LAST-MODIFIED:20261006T160356Z
+LOCATION:Fluid510<br>1544 Broadway<br>Oakland\, CA
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
+ s-1999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
+ ancisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dean Evans: Les Pervers - Flop Fest!
@@ -4990,6 +5022,45 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/5/jim-norton-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261106T183000
+DTEND;TZID=America/Los_Angeles:20261106T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-cef7799e6c83ad55@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,comedy
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848469-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Geoffrey Asmus
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T210000
@@ -5203,6 +5274,45 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/jake-johannsen-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261107T183000
+DTEND;TZID=America/Los_Angeles:20261107T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-edfbf14ac24eee9a@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,comedy
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848469-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geoffrey Asmus
@@ -5488,6 +5598,45 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/geoffrey-asmus-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261108T183000
+DTEND;TZID=America/Los_Angeles:20261108T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-66fe3335db7b2dcc@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,comedy
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848469-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Murray Hill
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
@@ -5767,6 +5916,46 @@ URL:https://sf.funcheap.com/shame-cave-comedy-show-a-shameful-yet-shameles
  s-night-sf-99/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
+ vember 13 - 15\, 2026
+DTSTART;TZID=America/Los_Angeles:20261113T183000
+DTEND;TZID=America/Los_Angeles:20261113T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-119605c53ab5f8a6@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,drink,food
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848471-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amir K
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
@@ -5970,6 +6159,46 @@ URL:https://dothebay.com/events/2026/11/14/richie-o-farrill-en-espanol-tic
  kets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
+ vember 13 - 15\, 2026
+DTSTART;TZID=America/Los_Angeles:20261114T183000
+DTEND;TZID=America/Los_Angeles:20261114T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-a093f78390786f63@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,drink,food
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848471-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ricky Velez
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
@@ -6095,6 +6324,46 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/ricky-velez-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
+ vember 13 - 15\, 2026
+DTSTART;TZID=America/Los_Angeles:20261115T183000
+DTEND;TZID=America/Los_Angeles:20261115T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-372722f4690e239e@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,drink,food
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848471-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
@@ -6374,6 +6643,45 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/19/amber-autry-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261120T183000
+DTEND;TZID=America/Los_Angeles:20261120T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-32657c99e0ee7204@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,drink,food
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848473-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s HellaSecret “Crazy Funny Asians” Friday Night Comedy Sh
  owcase (7p + 9p)
 DTSTART;TZID=America/Los_Angeles:20261120T190000
@@ -6568,6 +6876,45 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/20/caitlin-peluffo-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261121T183000
+DTEND;TZID=America/Los_Angeles:20261121T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-1410f68ab3c66a5a@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,drink,food
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848473-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amber Autry
@@ -6787,6 +7134,45 @@ LOCATION:Eclectic Box SF\, 446 Valencia Street\, San Francisco\, CA\, 9410
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/drunk-theatre-sf-the-wildest-ba
  y-area-comedy-1782492472
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261122T183000
+DTEND;TZID=America/Los_Angeles:20261122T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-d12d46a1e46c1b68@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,drink,food
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848473-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
@@ -7549,6 +7935,45 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/3/greg-fitzsimmons-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261204T183000
+DTEND;TZID=America/Los_Angeles:20261204T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-46c4cd012f9da82b@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,comedy
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848476-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kyle Kinane
 DTSTART;TZID=America/Los_Angeles:20261204T190000
 DTEND;TZID=America/Los_Angeles:20261204T210000
@@ -7637,6 +8062,45 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/4/greg-fitzsimmons-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261205T183000
+DTEND;TZID=America/Los_Angeles:20261205T200000
+DTSTAMP:20261006T160356Z
+UID:caldiscovery-comedy-02d1b33d78da0779@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,comedy
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848476-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T160356Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech<br
+ >419 O'Farrell Street<br>San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF
