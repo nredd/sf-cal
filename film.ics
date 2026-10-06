@@ -40,35 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Justice Film Night: 3 Shorts + Post-Screening Q&A
-DTSTART;TZID=America/Los_Angeles:20260928T184500
-DTEND;TZID=America/Los_Angeles:20260928T210000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638334@sf-cal
-SEQUENCE:0
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerThree films. One powerful even
- ing exploring what becomes possible when communities organize to bring the
- ir people home from women’s prisons.\nPresented by the nonprofits UnComm
- on Law\, the California Coalition for Women Prisoners (CCWP)\, and the UC 
- Sentencing Project\, the evening will feature three short films:\n\nSol in
-  the Garden\nFree Joan Little\nNo Time to Wait\n\nFollowing the screening\
- , we will host a Q&A with Sol Mercado\, Yoruba Richen\, and Chisa Hughes t
- o discuss incarceration\, race\, aging\, gender\, and freedom. Colby Lenz\
- , UnCommon Law’s Director of Policy and Advocacy\, will moderate the con
- versation.\n\n$5.00\n\nTickets: https://www.uncommonlaw.org/20th-community
- \nDetails: https://sf.funcheap.com/justice-film-night-3-shorts-postscreeni
- ng-qa-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/CCWP-x
- -UCL-Film-Screening-Flyer-2026.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Delancey Street Screening Room\, 600 The Embarcadero\, San Franci
- sco\, CA 94107
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/justice-film-night-3-shorts-postscreening-qa-s
- f/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Filmscreening: Punking Punk
 DTSTART;TZID=America/Los_Angeles:20261001T180000
 DTEND;TZID=America/Los_Angeles:20261001T220000
@@ -382,9 +353,9 @@ BEGIN:VEVENT
 SUMMARY:Chronovisor
 DTSTART;TZID=America/Los_Angeles:20261005T180000
 DTEND;TZID=America/Los_Angeles:20261005T200000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T062917Z
 UID:dothebay-17872545@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:An armchair mystery in which the life of a reclusive academic 
  collides with the story of a clandestine technology that can photograph th
@@ -400,13 +371,12 @@ DESCRIPTION:An armchair mystery in which the life of a reclusive academic
  rdan Cronk\, Film Comment “\n\nRuntime\n\n1h 39m\n\nYear\n\n2026\n\nDire
  ctor\n\nJack Auen and Kevin Walker\n\nFormat\n\nDCP\n\nCountry\n\nUSA\n\nL
  anguage\n\nEnglish\n\nFirst Showing\n\nOctober 2\, 2026\n\nCategories\n\nF
- eatured\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22165?site
- Token=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/202
- 6/10/5/chronovisor-tickets\nSource: DoTheBay
+ eatured\n\nDetails: https://dothebay.com/events/2026/10/5/chronovisor-tick
+ ets\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34567611/412aa670-f28d-41dd-8bb3-6a789d3b0f4f.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T062917Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/5/chronovisor-tickets
@@ -415,9 +385,9 @@ BEGIN:VEVENT
 SUMMARY:Traces of Home
 DTSTART;TZID=America/Los_Angeles:20261005T180000
 DTEND;TZID=America/Los_Angeles:20261005T200000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T062917Z
 UID:dothebay-17872548@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Filmmaker Colette Ghunim in person for post-screening Q&A on F
  riday\, October 2!\n\nFilmed over five years and featuring evocative anima
@@ -436,13 +406,12 @@ DESCRIPTION:Filmmaker Colette Ghunim in person for post-screening Q&A on F
  n2026\n\nDirector\n\nColette Ghunim\n\nFormat\n\nDCP\n\nCountry\n\nUSA\n\n
  Language\n\nEnglish\, Arabic\, and Spanish with English subtitles\n\nFirst
   Showing\n\nOctober 2\, 2026\n\nCategories\n\nBay Visions\n\n\,\n\nFeature
- d\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22166?siteToken=
- 4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/2026/10/5
- /traces-of-home-tickets\nSource: DoTheBay
+ d\n\nDetails: https://dothebay.com/events/2026/10/5/traces-of-home-tickets
+ \nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34567630/5ad414aa-6a6a-4c17-8d95-755f0488c4dd.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T062917Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/5/traces-of-home-tickets
@@ -451,9 +420,9 @@ BEGIN:VEVENT
 SUMMARY:Casino Royale (2006)
 DTSTART;TZID=America/Los_Angeles:20261005T184500
 DTEND;TZID=America/Los_Angeles:20261005T204500
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T062917Z
 UID:dothebay-17840705@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:CASINO ROYALE (2006) takes Bond back to his origins in an unus
  ual black-and-white foreword that hints at how the British agent earned hi
@@ -471,13 +440,12 @@ DESCRIPTION:CASINO ROYALE (2006) takes Bond back to his origins in an unus
  Bond gets into trouble\, he usually comes out with blood on his tuxedo and
   nasty-looking scratches on his face.\n\nTo the delight of Bond fans every
  where\, CASINO ROYALE reinvigorated the series and broke the bank at the b
- ox office.\n\nTickets: https://drafthouse.com/sf/show/casino-royale?cinema
- Id=0802&sessionId=21621\nDetails: https://dothebay.com/events/2026/10/5/ca
- sino-royale-2006-tickets\nSource: DoTheBay
+ ox office.\n\nDetails: https://dothebay.com/events/2026/10/5/casino-royale
+ -2006-tickets\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34411150/116c3c27-26ca-4394-9608-db581b3c9257.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T062917Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT

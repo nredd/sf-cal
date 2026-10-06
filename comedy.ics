@@ -40,47 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
-DTSTART;TZID=America/Los_Angeles:20260928T200000
-DTEND;TZID=America/Los_Angeles:20260928T230000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1633544@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Submitted by the Event OrganizerMirthquake: Monday Live Comedy
-  in the Richmond w/ $5 Drinks (SF)Looking for a great way to kick off your
-  week? Look no further than Mirthquake: Monday Live Comedy in the Richmond
- ! This live stand-up comedy show\, held every Monday at the Abbey Tavern\,
-  is the perfect way to start your week off with a bang.\nFeaturing a hand 
- picked rotating cast of top comedians from the Bay Area and beyond with cr
- edits like HBO\, Netflix\, Late Night\, and more\, Mirthquake offers a nig
- ht of non-stop laughter that will leave you feeling uplifted and refreshed
- . Hosted by the hilarious trio of Ben Kolina (Doug Loves Movies podcast\, 
- SF Sketchfest)\, Andrew Holmgren (VICELAND\, SF Weekly best comedian winne
- r)\, and Jesse Hett (Cobb’s Comedy Club\, Punch Line Comedy Club)\, each
-  show promises to be a unique and unforgettable experience.\n\nAnd that’
- s not all – with drink specials and a welcoming atmosphere\, Mirthquake 
- offers the perfect Monday night escape. So grab your friends\, come on dow
- n to the Abbey Tavern\, and get ready to shake things up with Mirthquake: 
- Monday Live Comedy in the Richmond!\n$5 Well drinks all night\n$5 Michelad
- as and $2.50 bottled beers from 7-9\n\nUpcoming Mirthquake: Monday Live Co
- medy in the Richmond w/ $5 Drinks (SF) Events\nMon 10/5 Mirthquake: Monday
-  Live Comedy in the Richmond w/ $5 Drinks (SF)Mon 10/12 Mirthquake: Monday
-  Live Comedy in the Richmond w/ $5 Drinks (SF)Mon 10/19 Mirthquake: Monday
-  Live Comedy in the Richmond w/ $5 Drinks (SF)Mon 10/26 Mirth...\n\nFree\n
- \nTickets: https://www.eventbrite.com/e/mirthquake-monday-live-comedy-in-t
- he-richmond-tickets-595066579157\nDetails: https://sf.funcheap.com/mirthqu
- ake-monday-live-comedy-in-the-richmond-w-5-drinks-sf-177/\nSource: Funchea
- p SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/03/336420
- 676_191259253622294_9170804618822786309_n.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Abbey Tavern\, 4100 Geary Blvd\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/mirthquake-monday-live-comedy-in-the-richmond-
- w-5-drinks-sf-177/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Microfone” App Launch Party at 111 Minna Gallery
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T200000
@@ -793,6 +752,30 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/comedy-fall-ameswell/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Comedy Open Mic at 620 Jones
+DTSTART;TZID=America/Los_Angeles:20261008T190000
+DTEND;TZID=America/Los_Angeles:20261008T210000
+DTSTAMP:20261006T062917Z
+UID:caldiscovery-comedy-aa67054ffd4066f6@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:Every other Thursday\, 620 Jones opens the mic to comedians te
+ sting new material\, sharpening their sets and taking a few big swings.\nG
+ rab a cocktail\, order some bites and catch a rotating lineup of local com
+ ics in an intimate\, laid-back setting. Whether you’re stepping up to th
+ e mic or just coming for the laughs\, everyone is welcome. And who knows\,
+  you can try your luck too!\n\nPublished by 620 Jones\nContains informatio
+ n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-
+ jones.com/calendar/comedy-open-mic-at-620-jones/?utm_source=caldiscovery&u
+ tm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T062917Z
+LOCATION:620 Jones\, 620 Jones St.\, San Francisco\, CA\, 94102\, United S
+ tates
+TRANSP:TRANSPARENT
+URL:https://620-jones.com/calendar/comedy-open-mic-at-620-jones/?utm_sourc
+ e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ray Lau
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T210000
@@ -859,6 +842,27 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/8/ray-lau-1784835746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand National Rodeo #1
+DTSTART;TZID=America/Los_Angeles:20261009T170000
+DTEND;TZID=America/Los_Angeles:20261009T220000
+DTSTAMP:20261006T062917Z
+UID:caldiscovery-comedy-53a863f1d5aaa940@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music,sports
+DESCRIPTION:Join us Friday\, October 9 for night #1 of our annual Grand Na
+ tional Rodeo\, and come see these high-energy rodeo competitions complemen
+ ted by comedy\, music and jaw-dropping performances\, including trick ridi
+ ng and bull jumping.\nClick HERE for tickets\nClick HERE for event informa
+ tion\n\nPublished by Cow Palace\nContains information from CalDiscovery (c
+ aldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.cowpalace.com/event/gr
+ and-national-rodeo-1/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=
+ san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T062917Z
+TRANSP:TRANSPARENT
+URL:https://www.cowpalace.com/event/grand-national-rodeo-1/?utm_source=cal
+ discovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mortified
@@ -1057,6 +1061,45 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/9/ray-lau-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Mortified Live” Embarrassing Teen Diary Storytelling
+DTSTART;TZID=America/Los_Angeles:20261009T193000
+DTEND;TZID=America/Los_Angeles:20261009T213000
+DTSTAMP:20261006T062917Z
+UID:funcheap-1641069@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:“Mortified Live” Embarrassing Teen Diary Storytelling (Bay
+  Area)\nMortified\nAs heard on The Mortified Podcast\, & seen on Netflix
+ ’s Mortified Nation\, check out Mortified – the national comedy/storyt
+ elling sensation live!\nHear adults share their actual\, embarrassing\, & 
+ hilarious teen diaries live in front of total strangers. Check out the hil
+ arious comedy/storytelling phenomenon that’s been selling out shows in t
+ he bay for almost 15 years.\n\n“Mortified Live” Embarrassing Teen Diar
+ y Storytelling\nSan Francisco – DNA Lounge – Friday\, October 9\, 2026
+  | 7:30p – 9:30p\n\nGet SF Tickets – $15 $20 adv (fee included) w/ 2FQ
+ CGA / $30 door\n\nBerkeley – Ashkenaz – Saturday\, October 10\, 2026 |
+  7:30p – 9:30p\n\nGet Berkeley Tickets – $20 $25 adv (fee included) w/
+  code funcheap / $35 door\n\nMortified is a comic excavation of adolescent
+  writing\, art & media. Come to see the bay area’s funniest and most out
+ landish comedic/musical show.\n\nUpcoming “Mortified Live” Embarrassin
+ g Teen Diary Storytelling (Bay Area) Events\nFri 10/9 “Mortified Live”
+  Embarrassing Teen Diary Storytelling (SF)Sat 10/10 “Mortified Live” E
+ mbarrassing Teen Diary Storytelling (Berkeley)Disclaimer: Please double ch
+ eck event information with the event organizer as events can be canceled\,
+  details can change after they are added to our calendar\, and errors do o
+ ccur.\n\n$15.00\n\nTickets: http://getmortified.com/\nDetails: https://sf.
+ funcheap.com/mortified-live-embarrassing-teen-diary-storytelling-sf-6/\nSo
+ urce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/06/Copy-o
+ f-Copy-of-Copy-of-800x1200-Orange-Spooky-Halloween-Facebook-Post-300-×-20
+ 0-px-800-x-1200-px1.jpg
+LAST-MODIFIED:20261006T062917Z
+LOCATION:DNA Lounge\, 375 11th St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/mortified-live-embarrassing-teen-diary-storyte
+ lling-sf-6/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“The Stoner Comedy Jam” Friday Nights
 DTSTART;TZID=America/Los_Angeles:20261009T200000
 DTEND;TZID=America/Los_Angeles:20261009T213000
@@ -1147,6 +1190,27 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Eclectic Box\, 446 Valencia Street San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/kangaroo-court/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand National Rodeo #2
+DTSTART;TZID=America/Los_Angeles:20261010T170000
+DTEND;TZID=America/Los_Angeles:20261010T220000
+DTSTAMP:20261006T062917Z
+UID:caldiscovery-comedy-227460baa604a8c7@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music,sports
+DESCRIPTION:Join us Saturday\, October 10 for night #2 of our annual Grand
+  National Rodeo\, and come see these high-energy rodeo competitions comple
+ mented by comedy\, music and jaw-dropping performances\, including trick r
+ iding and bull jumping.\nClick HERE for tickets\nClick HERE for event info
+ rmation\n\nPublished by Cow Palace\nContains information from CalDiscovery
+  (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.cowpalace.com/event
+ /grand-national-rodeo-2/?utm_source=caldiscovery&utm_medium=ics&utm_campai
+ gn=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261006T062917Z
+TRANSP:TRANSPARENT
+URL:https://www.cowpalace.com/event/grand-national-rodeo-2/?utm_source=cal
+ discovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Run Club at Sports Basement
@@ -1303,6 +1367,46 @@ LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA\, 941
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/10/zarna-garg-million-dollar-excus
  es-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Mortified Live” Embarrassing Teen Diary Storytelling (Berkele
+ y)
+DTSTART;TZID=America/Los_Angeles:20261010T193000
+DTEND;TZID=America/Los_Angeles:20261010T213000
+DTSTAMP:20261006T062917Z
+UID:funcheap-1641071@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:“Mortified Live” Embarrassing Teen Diary Storytelling (Bay
+  Area)\nMortified\nAs heard on The Mortified Podcast\, & seen on Netflix
+ ’s Mortified Nation\, check out Mortified – the national comedy/storyt
+ elling sensation live!\nHear adults share their actual\, embarrassing\, & 
+ hilarious teen diaries live in front of total strangers. Check out the hil
+ arious comedy/storytelling phenomenon that’s been selling out shows in t
+ he bay for almost 15 years.\n\n“Mortified Live” Embarrassing Teen Diar
+ y Storytelling\nSan Francisco – DNA Lounge – Friday\, October 9\, 2026
+  | 7:30p – 9:30p\n\nGet SF Tickets – $15 $20 adv (fee included) w/ 2FQ
+ CGA / $30 door\n\nBerkeley – Ashkenaz – Saturday\, October 10\, 2026 |
+  7:30p – 9:30p\n\nGet Berkeley Tickets – $20 $25 adv (fee included) w/
+  code funcheap / $35 door\n\nMortified is a comic excavation of adolescent
+  writing\, art & media. Come to see the bay area’s funniest and most out
+ landish comedic/musical show.\n\nUpcoming “Mortified Live” Embarrassin
+ g Teen Diary Storytelling (Bay Area) Events\nFri 10/9 “Mortified Live”
+  Embarrassing Teen Diary Storytelling (SF)Sat 10/10 “Mortified Live” E
+ mbarrassing Teen Diary Storytelling (Berkeley)Disclaimer: Please double ch
+ eck event information with the event organizer as events can be canceled\,
+  details can change after they are added to our calendar\, and errors do o
+ ccur.\n\n$20.00\n\nTickets: http://getmortified.com/\nDetails: https://sf.
+ funcheap.com/mortified-live-embarrassing-teen-diary-storytelling-berkeley-
+ 6/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/06/Copy-o
+ f-Copy-of-Copy-of-800x1200-Orange-Spooky-Halloween-Facebook-Post-300-×-20
+ 0-px-800-x-1200-px1.jpg
+LAST-MODIFIED:20261006T062917Z
+LOCATION:Ashkenaz\, 1317 San Pablo Ave.\, Berkeley CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/mortified-live-embarrassing-teen-diary-storyte
+ lling-berkeley-6/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BATS IMPROV SHOWS 2026
