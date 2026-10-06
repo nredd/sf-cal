@@ -97,7 +97,7 @@ def test_fetch_fixture(client: httpx.Client) -> None:
     assert sunday.geo == (37.718888, -122.439182)
     assert sunday.url == DETAILS_URL
     assert sunday.bucket == "street-events"
-    assert sunday.notes == NOTES
+    assert sunday.notes == ["Permit status: Permitted", *NOTES]
     assert sunday.description is not None
     assert sunday.description.startswith("Closed: Mission St from Kenny Aly to Italy Ave; ")
     assert sunday.description.endswith("; and 12 more")
@@ -118,6 +118,8 @@ def test_options_reach_query_and_filters(client: httpx.Client) -> None:
         WINDOW, [], {}
     )
     titles = {e.title for e in events.events}
+    review = next(e for e in events.events if e.title.startswith("ER Taylor"))
+    assert review.notes[0] == "Permit status: Application In Review"
     assert {"ER Taylor Elementary School Street Block Party", "Midway - Corporate Event"} <= titles
     assert "San Francisco Fleet Week 2026" in titles
     assert (
@@ -139,6 +141,15 @@ def test_malformed_rows_are_skipped(client: httpx.Client) -> None:
     respx.get(URL).respond(json=[{"case_name": "No dates"}, good | {"shape": None}])
     (event,) = adapter(client).fetch(WINDOW, [], {}).events
     assert event.geo is None
+
+
+@respx.mock
+def test_segments_ending_at_different_times_merge(client: httpx.Client) -> None:
+    night = [r for r in rows() if r["case_name"] == "Chinatown Night Market 2026"]
+    night[0] = night[0] | {"end_dt": "2026-10-09T21:00:00.000"}
+    respx.get(URL).respond(json=night)
+    (event,) = adapter(client).fetch(WINDOW, [], {}).events
+    assert event.end == datetime(2026, 10, 9, 23, 59, tzinfo=TZ)
 
 
 @respx.mock

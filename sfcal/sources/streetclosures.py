@@ -3,7 +3,7 @@
 Every block party, street fair, night market, Sunday Streets and farmers
 market that closes a street gets an SFMTA permit, and DataSF publishes one row
 per closed street segment. Rows are grouped back into one event per permit
-occurrence.
+occurrence (case and start), ending with the last segment to reopen.
 
 `start_dt` / `end_dt` are floating local times, so the query bounds are too.
 
@@ -190,7 +190,9 @@ class StreetClosures(Adapter[StreetClosuresOptions]):
         if len(raw) >= self.opts.limit:
             raise SourceError(f"Hit the '{self.opts.limit}' row limit, results are truncated")
 
-        groups: dict[tuple[str, datetime, datetime], list[ClosureRow]] = {}
+        # NOTE(redd): segments of one occurrence can end at different times; the
+        # event ends with the last one.
+        groups: dict[tuple[str, datetime], list[ClosureRow]] = {}
         for item in raw:
             try:
                 row = ClosureRow.model_validate(item)
@@ -198,7 +200,7 @@ class StreetClosures(Adapter[StreetClosuresOptions]):
                 LOGGER.warning(f"`{self.name}`: skipping malformed row: {e}")
                 continue
             if row.type in self.opts.types and row.status in self.opts.statuses:
-                groups.setdefault((row.case_num, row.start_dt, row.end_dt), []).append(row)
+                groups.setdefault((row.case_num, row.start_dt), []).append(row)
 
         events = [e for rows in groups.values() if (e := self.convert(rows)) is not None]
         LOGGER.info(f"`{self.name}`: {len(raw)} segments, {len(events)} events")
@@ -208,13 +210,14 @@ class StreetClosures(Adapter[StreetClosuresOptions]):
         """Turn one permit occurrence's segments into an event.
 
         Parameters:
-            rows (list[ClosureRow]): Segments sharing case, start and end.
+            rows (list[ClosureRow]): Segments sharing case and start.
 
         Returns:
             Event | None: The event, or `None` when it is an umbrella or skipped.
         """
         first = rows[0]
-        if first.end_dt - first.start_dt > timedelta(hours=self.opts.max_span_hours):
+        end = max(r.end_dt for r in rows)
+        if end - first.start_dt > timedelta(hours=self.opts.max_span_hours):
             return None
         regex = self.opts.skip_regex
         if regex is not None and regex.search(first.case_name):
@@ -242,7 +245,7 @@ class StreetClosures(Adapter[StreetClosuresOptions]):
             source_id=f"{first.case_num}-{start.isoformat()}",
             title=first.case_name,
             start=start,
-            end=first.end_dt.replace(tzinfo=TZ),
+            end=end.replace(tzinfo=TZ),
             bucket=self.opts.bucket,
             venue=venue,
             locality="San Francisco",
@@ -250,5 +253,5 @@ class StreetClosures(Adapter[StreetClosuresOptions]):
             url=DETAILS_URL,
             description=description,
             categories=[first.type],
-            notes=list(NOTES),
+            notes=[f"Permit status: {first.status}", *NOTES],
         )

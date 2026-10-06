@@ -54,6 +54,12 @@ description = "What color City Hall is lit tonight, and why"
 name = "Street Events"
 description = "Permitted street closures: block parties, street fairs, night markets, Sunday Streets"
 
+# Not in all.ics: these may never get a permit.
+[buckets.street-events-pending]
+name = "Street Events (Pending)"
+description = "Street closures still awaiting an SFMTA permit; some never happen"
+in_all = false
+
 # ---------------------------------------------------------------------------
 # Keyword routing. A timed event matching a rule MOVES to the rule's bucket.
 # An all-day event matching a rule is dropped (umbrella listings).
@@ -102,6 +108,19 @@ priority = 20
 [sources.sf-street-events.options]
 url = "https://data.sf.gov/resource/8x25-yybr.json"
 bucket = "street-events"
+skip_pattern = '\bcorporate\b'
+
+# Same dataset, permits not yet granted. Once permitted, the closure moves to
+# `sf-street-events` and drops out of this one on the next run.
+[sources.sf-street-events-pending]
+adapter = "streetclosures"
+label = "DataSF street closures (pending permit)"
+priority = 10
+
+[sources.sf-street-events-pending.options]
+url = "https://data.sf.gov/resource/8x25-yybr.json"
+bucket = "street-events-pending"
+statuses = ["Submitted", "Application In Review", "Pending Additional Information", "Pending Payment"]
 skip_pattern = '\bcorporate\b'
 
 [sources.dothebay]

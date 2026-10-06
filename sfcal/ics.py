@@ -181,6 +181,8 @@ def build_calendar(
 def write_feeds(cfg: Cfg, events: list[FeedEvent], out: Path) -> dict[str, int]:
     """Write one `.ics` per bucket plus `all.ics`, validating before replacing anything.
 
+    `all.ics` leaves out buckets with `in_all = false`.
+
     Every feed is written to a scratch directory and re-parsed first, so a
     validation failure leaves the previous feeds untouched.
 
@@ -202,7 +204,8 @@ def write_feeds(cfg: Cfg, events: list[FeedEvent], out: Path) -> dict[str, int]:
         key: (b.name, b.description, [f for f in events if f.event.bucket == key])
         for key, b in cfg.buckets.items()
     }
-    feeds[ALL_FEED] = ("All", "Every SF event from every source and bucket", events)
+    everything = [f for f in events if cfg.buckets[f.event.bucket].in_all]
+    feeds[ALL_FEED] = ("All", "Every SF event from every source and bucket", everything)
 
     counts: dict[str, int] = {}
     with tempfile.TemporaryDirectory(dir=out, prefix=".sfcal-") as scratch:

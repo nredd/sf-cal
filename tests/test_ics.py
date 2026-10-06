@@ -104,6 +104,14 @@ def test_write_feeds_all_buckets_and_empty(tmp_path: Path) -> None:
     assert not list(tmp_path.glob(".sfcal-*"))
 
 
+def test_write_feeds_skips_buckets_not_in_all(tmp_path: Path) -> None:
+    cfg = make_cfg()
+    cfg.buckets["nightlife"].in_all = False
+    events = [feed(make_event()), feed(make_event(source_id="2", bucket="nightlife"))]
+    counts = write_feeds(cfg, events, tmp_path)
+    assert counts == {"fleet-week": 0, "music": 1, "nightlife": 1, "all": 1}
+
+
 def test_write_feeds_is_deterministic(tmp_path: Path) -> None:
     cfg = make_cfg()
     a = feed(make_event(source_id="a", title="A"))

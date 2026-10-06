@@ -26,6 +26,7 @@ class BucketCfg(BaseModel):
 
     name: str = Field(description="Display name, used in the calendar name")
     description: str = Field(description="One-line summary shown in README and index.html")
+    in_all: bool = Field(default=True, description="Include this bucket's events in `all.ics`")
 
 
 class SourceCfg(BaseModel):
