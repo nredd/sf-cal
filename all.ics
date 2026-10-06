@@ -14097,9 +14097,9 @@ BEGIN:VEVENT
 SUMMARY:Film: Sesame Street and the Great Elephant Adventure
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T172602Z
 UID:dothebay-17913953@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Elmo and the Sesame Street friends embark on a once-in-a-lifet
  ime African safari adventure. After adopting an orphaned elephant online\,
@@ -14115,10 +14115,11 @@ DESCRIPTION:Elmo and the Sesame Street friends embark on a once-in-a-lifet
  isco Public Library\n\nFree\nSan Francisco Public Library\n\nTickets: http
  s://on.sfpl.org/Sesame-Street-Safari26\nDetails: https://dothebay.com/even
  ts/2026/10/10/film-sesame-street-and-the-great-elephant-adventure-tickets\
- nSource: DoTheBay
+ nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/free-kids-
+ safari-film-sesame-streets-elephant-adventure-crafts-sf-main-library/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34760101/6d567ca5-dc30-4488-b733-61ae83274926.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T172602Z
 LOCATION:Koret Auditorium (SF Public Library)\, 100 Larkin St\, San Franci
  sco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -42721,6 +42722,32 @@ LOCATION:Secret Location (SF)\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-tix-hellasecret-desi-comedy-night-live-in
  -sf-7p-9p-91/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emporium’s 8th Annual Halloween Costume Contest Party
+DTSTART;TZID=America/Los_Angeles:20261031T210000
+DTEND;TZID=America/Los_Angeles:20261101T010000
+DTSTAMP:20261006T172602Z
+UID:funcheap-1640621@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:Miguel GonzalezThe best Halloween party in the entire Bay Area
+  is back! Fully decorated massive haunted theater with loads of spooky sur
+ prises! Both the party and costume contest are free to enter with cash mon
+ ey prizes- $500 for 1st place\, $250 for 2nd place\, $150 for 3rd place\, 
+ $500 for group (4 or more). Strut your scary stuff on our giant stage! Hos
+ ted by DJ Weapon and DJ Aaron the Era. Free Entry\, 21+\n\nFree\n\nTickets
+ : https://www.emporiumarcadebar.com/event/8th-annual-emporium-costume-cont
+ est-party-w-dj-weapon-dj-aaron-the-era-103126/\nDetails: https://sf.funche
+ ap.com/emporiums-8th-annual-halloween-costume-contest-party-sf/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Costum
+ eContest.png
+LAST-MODIFIED:20261006T172602Z
+LOCATION:Emporium SF\, 616 Divisadero St San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/emporiums-8th-annual-halloween-costume-contest
+ -party-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salsa Night with Live Band: Pepe Y Su Orquesta - Saturday\, Octobe

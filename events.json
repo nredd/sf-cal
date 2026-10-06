@@ -63216,6 +63216,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640688",
+   "title": "Free Kids’ Safari Film: Sesame Street’s Elephant Adventure + Crafts (SF Main Library)",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T12:15:00-07:00",
+   "all_day": false,
+   "bucket": "film",
+   "venue": "San Francisco Main Library, Koret Auditorium",
+   "address": "100 Larkin Street, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/free-kids-safari-film-sesame-streets-elephant-adventure-crafts-sf-main-library/",
+   "ticket_url": "https://on.sfpl.org/Sesame-Street-Safari26",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "San Francisco Public LibraryElmo and the Sesame Street friends embark on a once-in-a-lifetime African safari adventure. After adopting an orphaned elephant online, Elmo, Abby and Nina travel to The Sheldrick Wildlife Trust in Kenya to meet the young elephant and the keepers who care for her. In Sesame Street’s first-ever safari, our friends embark on an unforgettable journey of discovery, taking them from the caring confines of the elephant sanctuary to the unpredictable African bush, where they come face to face with some of nature’s most iconic wildlife, including lions, zebras, giraffes and hippos. For ages 3-8 and their caregivers.\nFollowing the screening, a fun crafting activity will take place outside the auditorium.\nPresented in collaboration with Sesame Workshop.\n\nPresented by San Francisco Public Library",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4776_v0.jpg",
+   "categories": [
+    "Movies"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1632322",
    "title": "Aquarium of the Bay Fleet Week Watch Party",
    "start": "2026-10-10T11:30:00-07:00",
@@ -73254,6 +73278,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640621",
+   "title": "Emporium’s 8th Annual Halloween Costume Contest Party",
+   "start": "2026-10-31T21:00:00-07:00",
+   "end": "2026-11-01T01:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Emporium SF",
+   "address": "616 Divisadero St San Francisco, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/emporiums-8th-annual-halloween-costume-contest-party-sf/",
+   "ticket_url": "https://www.emporiumarcadebar.com/event/8th-annual-emporium-costume-contest-party-w-dj-weapon-dj-aaron-the-era-103126/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Miguel GonzalezThe best Halloween party in the entire Bay Area is back! Fully decorated massive haunted theater with loads of spooky surprises! Both the party and costume contest are free to enter with cash money prizes- $500 for 1st place, $250 for 2nd place, $150 for 3rd place, $500 for group (4 or more). Strut your scary stuff on our giant stage! Hosted by DJ Weapon and DJ Aaron the Era. Free Entry, 21+",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/CostumeContest.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641057",
    "title": "2026 Latin Halloween Party: DJs Until 3a (1015 Folsom)",
    "start": "2026-10-31T22:00:00-07:00",
@@ -82682,8 +82730,10 @@
     "1640608": "2026-10-03T02:58:04",
     "1640609": "2026-10-03T02:58:52",
     "1640610": "2026-10-03T02:59:17",
+    "1640621": "2026-10-06T17:23:45",
     "1640668": "2026-10-04T19:58:28",
     "1640682": "2026-10-04T18:27:11",
+    "1640688": "2026-10-06T17:23:35",
     "1640691": "2026-10-06T17:18:07",
     "1640694": "2026-10-06T17:17:26",
     "1640757": "2026-10-04T17:55:25",
@@ -82760,6 +82810,7 @@
     "382389": "2026-09-07T18:41:21"
    }
   },
+  "sf-city-hall-lights": {},
   "sfciviccenter": {},
   "sfrecpark-bandshell": {},
   "sfrecpark-civic-center": {},
@@ -88893,9 +88944,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17913953@sf-cal": {
-   "content_hash": "40f1ff6880acad4fba640f791d9fa0122a28dd129fc142803b1137e1e6ece8c0",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "47b8aeaf768b513aa96b215354a612a3df4326e144628bf008e91f7e3a3d5225",
+   "sequence": 1,
+   "last_modified": "2026-10-06T17:26:02.269412Z"
   },
   "dothebay-17913965@sf-cal": {
    "content_hash": "c131d35d6956fe1cd47518408a83c1899d4774a859761528305acb55393b1975",
@@ -92771,6 +92822,11 @@
    "content_hash": "796a1872a4de8b5a65ca84526b999ba543eefc70e11f33c38a745a3341fc8883",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
+  },
+  "funcheap-1640621@sf-cal": {
+   "content_hash": "086595184da63eaa649efa34f31d20703023399690c02a15001f100423ff23dd",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:26:02.269412Z"
   },
   "funcheap-1640757@sf-cal": {
    "content_hash": "d14e2eff25933a90160f1e3d35ada7de42e0587cac1642ed1852fb750d14e469",

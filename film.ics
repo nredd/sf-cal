@@ -871,9 +871,9 @@ BEGIN:VEVENT
 SUMMARY:Film: Sesame Street and the Great Elephant Adventure
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261006T172602Z
 UID:dothebay-17913953@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Elmo and the Sesame Street friends embark on a once-in-a-lifet
  ime African safari adventure. After adopting an orphaned elephant online\,
@@ -889,10 +889,11 @@ DESCRIPTION:Elmo and the Sesame Street friends embark on a once-in-a-lifet
  isco Public Library\n\nFree\nSan Francisco Public Library\n\nTickets: http
  s://on.sfpl.org/Sesame-Street-Safari26\nDetails: https://dothebay.com/even
  ts/2026/10/10/film-sesame-street-and-the-great-elephant-adventure-tickets\
- nSource: DoTheBay
+ nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/free-kids-
+ safari-film-sesame-streets-elephant-adventure-crafts-sf-main-library/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34760101/6d567ca5-dc30-4488-b733-61ae83274926.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261006T172602Z
 LOCATION:Koret Auditorium (SF Public Library)\, 100 Larkin St\, San Franci
  sco\, CA\, 94102
 TRANSP:TRANSPARENT
