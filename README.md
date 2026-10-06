@@ -50,7 +50,8 @@ that isn't `http`, `https`, `mailto` or relative.
 | Source | Adapter | Feeds | Notes |
 | --- | --- | --- | --- |
 | [SF Fleet Week](https://fleetweeksf.org/calendar-of-events/) | `fleetweeksf` | `fleet-week` | Official schedule; descriptions joined from the map page |
-| [SF.gov City Hall](https://www.sf.gov/location--san-francisco-city-hall) | `cityhall` | `city-hall-lights` | The page's month-by-month lighting list, one all-day event per lit night. Only the current month is posted, past nights carry over |
+| [SF.gov City Hall](https://www.sf.gov/location--san-francisco-city-hall) | `cityhall` | `city-hall-lights` | The page's month-by-month lighting list, one all-day event per lit night. Only the current month is posted, past nights carry over. Disabled: WAF-blocked on Actions |
+| [Robelius/sf-city-hall-lighting-calendar](https://github.com/Robelius/sf-city-hall-lighting-calendar) | `ics` | `city-hall-lights` | Stopgap for the above: a third-party repo scraping the same page with a headless browser, refreshed on the 1st/2nd of the month and Mondays. Titles are `CHC: <colors>`, the honoree is in the description |
 | [DataSF street closures](https://data.sf.gov/d/8x25-yybr) | `streetclosures` | `street-events`, `street-events-pending` | SFMTA closure permits with `type = 'Special Event'`, one SODA query per source: `Permitted` into `street-events`, every not-yet-permitted status into `street-events-pending`. Every event notes its permit status. Segments are grouped into one event per permit occurrence; closures over 24h (umbrellas) and `corporate` names are skipped |
 | [DoTheBay](https://dothebay.com/events) | `dostuff` | all categories | The site's day-listing JSON. Music is gated to `popularity >= 50` or free; exhibits (ongoing, or spanning >3 days) are dropped |
 | [Funcheap SF](https://sf.funcheap.com/) | `jsonld` | all categories | WordPress API discovery of the last 45 days of posts, then schema.org `Event` JSON-LD from each post page. Only new or edited posts are fetched; the first run backfills ~1.9k pages and takes a few minutes |
@@ -62,7 +63,7 @@ that isn't `http`, `https`, `mailto` or relative.
 Keyword routing (`[[bucket_rules]]` in `sfcal.toml`) moves any timed event matching
 `\b(fleet week|blue angels|parade of ships)\b` from any source into `fleet-week`. All-day
 matches are dropped as umbrella listings. A source with `apply_bucket_rules = false` skips the
-rules entirely; `sf-city-hall-lights` does, so a Fleet Week lighting night stays put.
+rules entirely; both City Hall lighting sources do, so a Fleet Week lighting night stays put.
 
 SF only: a source with `sf_only = true` (the default) keeps an event when its geo is inside
 lat 37.70..37.83, lon -122.52..-122.35, or its locality is `San Francisco` (trimmed,
@@ -139,8 +140,9 @@ The cron got disabled (GitHub emails that too): `gh workflow enable build.yml -R
   branch grows by a few MB a day while events churn
 - Google refreshes subscriptions every ~8-24h no matter what the feed asks for
 - sf.gov sits behind AWS WAF, which challenges GitHub Actions IPs but not home IPs. So
-  `sf-city-hall-lights` is `enabled = false` and the `city-hall-lights` feed is empty for now.
-  `uv run sfcal check-source sf-city-hall-lights --full` still works locally
+  `sf-city-hall-lights` is `enabled = false` and `city-hall-lights` comes from
+  `city-hall-lights-ics`, a third-party repo that can lag sf.gov by up to a week or stop
+  updating. `uv run sfcal check-source sf-city-hall-lights --full` still works locally
 - Street-event times are SFMTA permit times, so they include setup and teardown. Pending
   applications only show in `street-events-pending`, which is kept out of `all.ics` with
   `in_all = false` on the bucket. A permit can land days before the event

@@ -123,6 +123,18 @@ bucket = "street-events-pending"
 statuses = ["Submitted", "Application In Review", "Pending Additional Information", "Pending Payment"]
 skip_pattern = '\bcorporate\b'
 
+# Stopgap while `sf-city-hall-lights` is WAF-blocked on Actions: a third-party
+# repo that scrapes the same sf.gov page with a headless browser.
+[sources.city-hall-lights-ics]
+adapter = "ics"
+label = "SF City Hall lighting (via Robelius/sf-city-hall-lighting-calendar)"
+priority = 85
+apply_bucket_rules = false
+
+[sources.city-hall-lights-ics.options]
+url = "https://raw.githubusercontent.com/robelius/sf-city-hall-lighting-calendar/main/calendar.ics"
+bucket = "city-hall-lights"
+
 [sources.dothebay]
 adapter = "dostuff"
 label = "DoTheBay"
