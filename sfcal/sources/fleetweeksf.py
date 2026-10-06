@@ -218,6 +218,15 @@ class FleetWeekSF(Adapter[FleetWeekOptions]):
     options_model = FleetWeekOptions
 
     @override
+    def referenced_buckets(self) -> set[str]:
+        """The one bucket every Fleet Week event goes to.
+
+        Returns:
+            set[str]: Bucket keys.
+        """
+        return {self.opts.bucket}
+
+    @override
     def fetch(self, window: Window, prior: list[Event], meta: dict[str, Any]) -> SourceResult:
         """Scrape the calendar and enrich rows from the map page.
 

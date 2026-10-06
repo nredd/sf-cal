@@ -64,3 +64,38 @@ label = "SF Fleet Week (fleetweeksf.org)"
 priority = 100
 sf_only = false
 default_duration_minutes = 60
+
+[sources.dothebay]
+adapter = "dostuff"
+label = "DoTheBay"
+priority = 80
+
+[sources.dothebay.options]
+base_url = "https://dothebay.com"
+drop_categories = ["Digital Events"]
+default_bucket = "arts-community"
+# Music is ~40 SF shows a day; keep the popular ones and anything free.
+popularity_gates = { "Music" = 50 }
+
+[sources.dothebay.options.categories]
+"Music" = "music"
+"Comedy" = "comedy"
+"Theatre & Performing Arts" = "stage"
+"Dance" = "stage"
+"Film" = "film"
+"DJ/Parties" = "nightlife"
+"LGBTQ" = "nightlife"
+"Drag" = "nightlife"
+"Food & Drink" = "food-drink"
+"Outdoor & Recreation" = "outdoors"
+"Sports" = "outdoors"
+"The Arts" = "arts-community"
+"Arts & Family" = "arts-community"
+"Experiences" = "arts-community"
+"Lecture/Education" = "arts-community"
+"Activism" = "arts-community"
+"Literature" = "arts-community"
+"Variety" = "arts-community"
+"Festival" = "arts-community"
+"Shopping" = "arts-community"
+"Holiday Event" = "arts-community"

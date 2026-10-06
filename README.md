@@ -47,6 +47,7 @@ that isn't `http`, `https`, `mailto` or relative.
 | Source | Adapter | Feeds | Notes |
 | --- | --- | --- | --- |
 | [SF Fleet Week](https://fleetweeksf.org/calendar-of-events/) | `fleetweeksf` | `fleet-week` | Official schedule; descriptions joined from the map page |
+| [DoTheBay](https://dothebay.com/events) | `dostuff` | all categories | The site's day-listing JSON. Music is gated to `popularity >= 50` or free; exhibits (ongoing, or spanning >3 days) are dropped |
 
 Keyword routing (`[[bucket_rules]]` in `sfcal.toml`) moves any timed event matching
 `\b(fleet week|blue angels|parade of ships)\b` from any source into `fleet-week`. All-day

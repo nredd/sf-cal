@@ -115,6 +115,14 @@ class Adapter[OptionsT: AdapterOptions](ABC):
             httpx.HTTPError: If a request fails.
         """
 
+    def referenced_buckets(self) -> set[str]:
+        """Buckets this adapter's options can assign, checked against `sfcal.toml`.
+
+        Returns:
+            set[str]: Bucket keys; empty when the adapter has none of its own.
+        """
+        return set()
+
     def get(self, url: str, *, min_interval: float = 0.0, **kwargs: Any) -> httpx.Response:
         """GET `url`, pacing requests and raising on HTTP errors.
 

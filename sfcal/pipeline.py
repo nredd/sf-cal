@@ -125,7 +125,8 @@ def make_adapters(cfg: Cfg, client: httpx.Client, only: str | None = None) -> di
         dict[str, Adapter]: Adapters by source name, in config order.
 
     Raises:
-        ValueError: On an unknown source, unknown adapter, or invalid options.
+        ValueError: On an unknown source, unknown adapter, invalid options, or
+            options that reference an unknown bucket.
     """
     if only is not None and only not in cfg.sources:
         raise ValueError(f"Unknown source '{only}', expected one of {list(cfg.sources)}")
@@ -139,7 +140,10 @@ def make_adapters(cfg: Cfg, client: httpx.Client, only: str | None = None) -> di
                 f"Unknown adapter '{src.adapter}' for source `{name}`, "
                 f"expected one of {list(ADAPTERS)}"
             )
-        adapters[name] = adapter_cls(name, src, client)
+        adapter = adapter_cls(name, src, client)
+        for bucket in adapter.referenced_buckets():
+            cfg.require_bucket(bucket)
+        adapters[name] = adapter
     return adapters
 
 
