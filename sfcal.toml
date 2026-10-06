@@ -50,6 +50,10 @@ description = "Arts, family, lectures, festivals, markets and everything else"
 name = "City Hall Lights"
 description = "What color City Hall is lit tonight, and why"
 
+[buckets.street-events]
+name = "Street Events"
+description = "Permitted street closures: block parties, street fairs, night markets, Sunday Streets"
+
 # ---------------------------------------------------------------------------
 # Keyword routing. A timed event matching a rule MOVES to the rule's bucket.
 # An all-day event matching a rule is dropped (umbrella listings).
@@ -84,6 +88,19 @@ apply_bucket_rules = false
 [sources.sf-city-hall-lights.options]
 url = "https://www.sf.gov/location--san-francisco-city-hall"
 bucket = "city-hall-lights"
+
+# SFMTA special-event street closure permits. Lowest priority: any real
+# listing of the same event wins, and Fleet Week block parties still route to
+# `fleet-week` through the keyword rule.
+[sources.sf-street-events]
+adapter = "streetclosures"
+label = "DataSF street closures"
+priority = 20
+
+[sources.sf-street-events.options]
+url = "https://data.sf.gov/resource/8x25-yybr.json"
+bucket = "street-events"
+skip_pattern = '\bcorporate\b'
 
 [sources.dothebay]
 adapter = "dostuff"

@@ -21,6 +21,7 @@ One-click subscribe page: **https://nredd.github.io/sf-cal/**
 | Outdoors | Outdoor recreation and sports | [Add](https://calendar.google.com/calendar/u/0/r?cid=webcal://raw.githubusercontent.com/nredd/sf-cal/feeds/outdoors.ics) | `https://raw.githubusercontent.com/nredd/sf-cal/feeds/outdoors.ics` |
 | Arts & Community | Arts, family, lectures, festivals, markets and everything else | [Add](https://calendar.google.com/calendar/u/0/r?cid=webcal://raw.githubusercontent.com/nredd/sf-cal/feeds/arts-community.ics) | `https://raw.githubusercontent.com/nredd/sf-cal/feeds/arts-community.ics` |
 | City Hall Lights | What color City Hall is lit tonight, and why | [Add](https://calendar.google.com/calendar/u/0/r?cid=webcal://raw.githubusercontent.com/nredd/sf-cal/feeds/city-hall-lights.ics) | `https://raw.githubusercontent.com/nredd/sf-cal/feeds/city-hall-lights.ics` |
+| Street Events | Permitted street closures: block parties, street fairs, night markets, Sunday Streets | [Add](https://calendar.google.com/calendar/u/0/r?cid=webcal://raw.githubusercontent.com/nredd/sf-cal/feeds/street-events.ics) | `https://raw.githubusercontent.com/nredd/sf-cal/feeds/street-events.ics` |
 
 The feed URLs are permanent. Feeds whose sources aren't wired up yet are valid empty calendars
 that fill in as sources land, so nobody has to re-subscribe.
@@ -49,6 +50,7 @@ that isn't `http`, `https`, `mailto` or relative.
 | --- | --- | --- | --- |
 | [SF Fleet Week](https://fleetweeksf.org/calendar-of-events/) | `fleetweeksf` | `fleet-week` | Official schedule; descriptions joined from the map page |
 | [SF.gov City Hall](https://www.sf.gov/location--san-francisco-city-hall) | `cityhall` | `city-hall-lights` | The page's month-by-month lighting list, one all-day event per lit night. Only the current month is posted, past nights carry over |
+| [DataSF street closures](https://data.sf.gov/d/8x25-yybr) | `streetclosures` | `street-events` | SFMTA closure permits with `type = 'Special Event'` and `status = 'Permitted'`, one SODA query. Segments are grouped into one event per permit occurrence; closures over 24h (umbrellas) and `corporate` names are skipped |
 | [DoTheBay](https://dothebay.com/events) | `dostuff` | all categories | The site's day-listing JSON. Music is gated to `popularity >= 50` or free; exhibits (ongoing, or spanning >3 days) are dropped |
 | [Funcheap SF](https://sf.funcheap.com/) | `jsonld` | all categories | WordPress API discovery of the last 45 days of posts, then schema.org `Event` JSON-LD from each post page. Only new or edited posts are fetched; the first run backfills ~1.9k pages and takes a few minutes |
 | [CalDiscovery](https://caldiscovery.com/san-francisco-ca/) | `ics` | `arts-community` (festival), `comedy` | Any ICS feed, one bucket per feed, RRULEs expanded in the window. CalDiscovery republishes ~80 venue and org calendars under ODbL 1.0 |
@@ -137,6 +139,8 @@ The cron got disabled (GitHub emails that too): `gh workflow enable build.yml -R
 - Google refreshes subscriptions every ~8-24h no matter what the feed asks for
 - sf.gov sits behind AWS WAF. Plain requests get the page today, but a challenge would break
   `sf-city-hall-lights` (it keeps its last good nights and the build exits 3)
+- Street-event times are SFMTA permit times, so they include setup and teardown. Pending
+  applications are left out until permitted, which can be days before the event
 - SF Civic Center's feed is mostly umbrellas and yields a handful of one-offs, most with no
   LOCATION (they're on the Civic Center plazas)
 - The Rec & Park bandshell feed is empty off-season; that's not a failure, since it never had
@@ -169,7 +173,7 @@ Gotchas:
 Layout:
 
 - `sfcal/sources/` -- one adapter per source format: `fleetweeksf`, `dostuff`, `jsonld`, `ics`
-  (`icsfeed.py`), `cityhall`
+  (`icsfeed.py`), `cityhall`, `streetclosures`
 - `sfcal/pipeline.py` -- windows, carry-over, SF filter, bucket rules, dedup, SEQUENCE ledger
 - `sfcal/ics.py` -- RFC 5545 writer and validation
 - `sfcal.toml` -- buckets, sources, rules

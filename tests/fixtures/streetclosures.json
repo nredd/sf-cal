@@ -1,0 +1,1661 @@
+[
+ {
+  "objectid": "27103450",
+  "case_num": "1592904",
+  "case_name": "Midway - Corporate Event",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-06T00:00:00.000",
+  "start_time": "00:01:00",
+  "start_dt": "2026-10-06T00:01:00.000",
+  "end_date": "2026-10-08T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-08T23:59:00.000",
+  "loc_desc": "MICHIGAN ST between CESAR CHAVEZ ST and MARIN ST",
+  "cnn": "9003000",
+  "street": "MICHIGAN ST",
+  "from_st": "CESAR CHAVEZ ST",
+  "to_st": "MARIN ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-06T07:01:00.000",
+  "end_utc": "2026-10-09T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.385616007,
+     37.750382776
+    ],
+    [
+     -122.385490088,
+     37.749121499
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27104967",
+  "case_num": "1592904",
+  "case_name": "Midway - Corporate Event",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-06T00:00:00.000",
+  "start_time": "00:01:00",
+  "start_dt": "2026-10-06T00:01:00.000",
+  "end_date": "2026-10-08T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-08T23:59:00.000",
+  "loc_desc": "MARIN ST between ILLINOIS ST and MICHIGAN ST",
+  "cnn": "8695000",
+  "street": "MARIN ST",
+  "from_st": "MICHIGAN ST",
+  "to_st": "ILLINOIS ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-06T07:01:00.000",
+  "end_utc": "2026-10-09T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.385490088,
+     37.749121499
+    ],
+    [
+     -122.386427929,
+     37.749065821
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27105121",
+  "case_num": "1600750",
+  "case_name": "ER Taylor Elementary School Street Block Party",
+  "type": "Special Event",
+  "status": "Application In Review",
+  "start_date": "2026-10-07T00:00:00.000",
+  "start_time": "12:00:00",
+  "start_dt": "2026-10-07T12:00:00.000",
+  "end_date": "2026-10-07T00:00:00.000",
+  "end_time": "16:00:00",
+  "end_dt": "2026-10-07T16:00:00.000",
+  "loc_desc": "SOMERSET ST between BACON ST and BURROWS ST",
+  "cnn": "11969000",
+  "street": "SOMERSET ST",
+  "from_st": "BURROWS ST",
+  "to_st": "BACON ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-07T19:00:00.000",
+  "end_utc": "2026-10-07T23:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.408051888,
+     37.727799712
+    ],
+    [
+     -122.407556405,
+     37.726599246
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27119358",
+  "case_num": "1365550",
+  "case_name": "Castro Farmers' Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-07T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-07T13:00:00.000",
+  "end_date": "2026-10-07T00:00:00.000",
+  "end_time": "20:00:00",
+  "end_dt": "2026-10-07T20:00:00.000",
+  "loc_desc": "NOE ST between MARKET ST and BEAVER ST",
+  "cnn": "9611000",
+  "street": "NOE ST",
+  "from_st": "BEAVER ST",
+  "to_st": "16TH ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-07T20:00:00.000",
+  "end_utc": "2026-10-08T03:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.433178635,
+     37.765060651
+    ],
+    [
+     -122.43311272,
+     37.764373526
+    ],
+    [
+     -122.433074471,
+     37.764195713
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27105108",
+  "case_num": "1588082",
+  "case_name": "San Francisco Fleet Week 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-09T00:00:00.000",
+  "start_time": "06:00:00",
+  "start_dt": "2026-10-09T06:00:00.000",
+  "end_date": "2026-10-11T00:00:00.000",
+  "end_time": "20:00:00",
+  "end_dt": "2026-10-11T20:00:00.000",
+  "loc_desc": "JEFFERSON ST between HYDE ST and END: 500-599 BLOCK",
+  "cnn": "7460000",
+  "street": "JEFFERSON ST",
+  "from_st": "HYDE ST",
+  "to_st": "END: 500-599 BLOCK",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-09T13:00:00.000",
+  "end_utc": "2026-10-12T03:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.420743268,
+     37.807590106
+    ],
+    [
+     -122.421819234,
+     37.807457013
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27093728",
+  "case_num": "1472713",
+  "case_name": "Chinatown Night Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-09T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-09T13:00:00.000",
+  "end_date": "2026-10-09T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-09T23:59:00.000",
+  "loc_desc": "GRANT AVE between CALIFORNIA ST and SACRAMENTO ST",
+  "cnn": "6392000",
+  "street": "GRANT AVE",
+  "from_st": "CALIFORNIA ST",
+  "to_st": "SACRAMENTO ST",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-09T20:00:00.000",
+  "end_utc": "2026-10-10T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.405938119,
+     37.792450752
+    ],
+    [
+     -122.406129483,
+     37.793379705
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27105161",
+  "case_num": "1472713",
+  "case_name": "Chinatown Night Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-09T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-09T13:00:00.000",
+  "end_date": "2026-10-09T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-09T23:59:00.000",
+  "loc_desc": "GRANT AVE between SACRAMENTO ST and CLAY ST",
+  "cnn": "6394000",
+  "street": "GRANT AVE",
+  "from_st": "COMMERCIAL ST",
+  "to_st": "CLAY ST",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-09T20:00:00.000",
+  "end_utc": "2026-10-10T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.40622048,
+     37.793831753
+    ],
+    [
+     -122.406304986,
+     37.794263627
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27106790",
+  "case_num": "1472713",
+  "case_name": "Chinatown Night Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-09T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-09T13:00:00.000",
+  "end_date": "2026-10-09T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-09T23:59:00.000",
+  "loc_desc": "GRANT AVE between CLAY ST and WASHINGTON ST",
+  "cnn": "6395000",
+  "street": "GRANT AVE",
+  "from_st": "CLAY ST",
+  "to_st": "WASHINGTON ST",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-09T20:00:00.000",
+  "end_utc": "2026-10-10T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.406304986,
+     37.794263627
+    ],
+    [
+     -122.406475551,
+     37.795144465
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27107002",
+  "case_num": "1472713",
+  "case_name": "Chinatown Night Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-09T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-09T13:00:00.000",
+  "end_date": "2026-10-09T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-09T23:59:00.000",
+  "loc_desc": "GRANT AVE between WASHINGTON ST and JACKSON ST",
+  "cnn": "6396000",
+  "street": "GRANT AVE",
+  "from_st": "WASHINGTON ST",
+  "to_st": "JACKSON ST",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-09T20:00:00.000",
+  "end_utc": "2026-10-10T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.406475551,
+     37.795144465
+    ],
+    [
+     -122.406652352,
+     37.79602475
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27114834",
+  "case_num": "1472713",
+  "case_name": "Chinatown Night Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-09T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-09T13:00:00.000",
+  "end_date": "2026-10-09T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-09T23:59:00.000",
+  "loc_desc": "GRANT AVE between SACRAMENTO ST and CLAY ST",
+  "cnn": "6393000",
+  "street": "GRANT AVE",
+  "from_st": "SACRAMENTO ST",
+  "to_st": "COMMERCIAL ST",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-09T20:00:00.000",
+  "end_utc": "2026-10-10T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.406129483,
+     37.793379705
+    ],
+    [
+     -122.40622048,
+     37.793831753
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27116700",
+  "case_num": "1472713",
+  "case_name": "Chinatown Night Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-09T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-09T13:00:00.000",
+  "end_date": "2026-10-09T00:00:00.000",
+  "end_time": "23:59:00",
+  "end_dt": "2026-10-09T23:59:00.000",
+  "loc_desc": "GRANT AVE between JACKSON ST and PACIFIC AVE",
+  "cnn": "6397000",
+  "street": "GRANT AVE",
+  "from_st": "JACKSON ST",
+  "to_st": "PACIFIC AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-09T20:00:00.000",
+  "end_utc": "2026-10-10T06:59:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.406652352,
+     37.79602475
+    ],
+    [
+     -122.406827678,
+     37.796901906
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27104976",
+  "case_num": "1613629",
+  "case_name": "Fleet Week Block Party",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-10T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-10T09:00:00.000",
+  "end_date": "2026-10-10T00:00:00.000",
+  "end_time": "23:00:00",
+  "end_dt": "2026-10-10T23:00:00.000",
+  "loc_desc": "STEINER ST between CHESTNUT ST and LOMBARD ST",
+  "cnn": "12156000",
+  "street": "STEINER ST",
+  "from_st": "LOMBARD ST",
+  "to_st": "CHESTNUT ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-10T16:00:00.000",
+  "end_utc": "2026-10-11T06:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.437694705,
+     37.79963393
+    ],
+    [
+     -122.437889456,
+     37.800608746
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27119359",
+  "case_num": "1365550",
+  "case_name": "Castro Farmers' Market 2026",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-14T00:00:00.000",
+  "start_time": "13:00:00",
+  "start_dt": "2026-10-14T13:00:00.000",
+  "end_date": "2026-10-14T00:00:00.000",
+  "end_time": "20:00:00",
+  "end_dt": "2026-10-14T20:00:00.000",
+  "loc_desc": "NOE ST between MARKET ST and BEAVER ST",
+  "cnn": "9611000",
+  "street": "NOE ST",
+  "from_st": "BEAVER ST",
+  "to_st": "16TH ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-14T20:00:00.000",
+  "end_utc": "2026-10-15T03:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.433178635,
+     37.765060651
+    ],
+    [
+     -122.43311272,
+     37.764373526
+    ],
+    [
+     -122.433074471,
+     37.764195713
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27085225",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9174101",
+  "street": "MISSION ST",
+  "from_st": "KENNY ALY",
+  "to_st": "ITALY AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.439500375,
+     37.718467226
+    ],
+    [
+     -122.438863486,
+     37.71930936
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27087553",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9171101",
+  "street": "MISSION ST",
+  "from_st": "RUSSIA AVE",
+  "to_st": "ONONDAGA AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.43746114,
+     37.721163548
+    ],
+    [
+     -122.437149524,
+     37.721575001
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27087561",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9172101",
+  "street": "MISSION ST",
+  "from_st": "ONONDAGA AVE",
+  "to_st": "FRANCE AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.438329414,
+     37.720015525
+    ],
+    [
+     -122.43746114,
+     37.721163548
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27091515",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9173101",
+  "street": "MISSION ST",
+  "from_st": "FRANCE AVE",
+  "to_st": "KENNY ALY",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.438863486,
+     37.71930936
+    ],
+    [
+     -122.438329414,
+     37.720015525
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27091758",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9176101",
+  "street": "MISSION ST",
+  "from_st": "SENECA AVE",
+  "to_st": "AMAZON AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.440417738,
+     37.717244619
+    ],
+    [
+     -122.440106607,
+     37.717665309
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27091771",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9175101",
+  "street": "MISSION ST",
+  "from_st": "ITALY AVE",
+  "to_st": "SENECA AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.440106607,
+     37.717665309
+    ],
+    [
+     -122.439500375,
+     37.718467226
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27095651",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9160000",
+  "street": "MISSION ST",
+  "from_st": "FRANCIS ST",
+  "to_st": "EXCELSIOR AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.43335745,
+     37.726588203
+    ],
+    [
+     -122.433623591,
+     37.726236244
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27095655",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9166000",
+  "street": "MISSION ST",
+  "from_st": "SAN JUAN AVE",
+  "to_st": "OCEAN AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.43531257,
+     37.724004909
+    ],
+    [
+     -122.435385086,
+     37.723909403
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27096189",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9175201",
+  "street": "MISSION ST",
+  "from_st": "ITALY AVE",
+  "to_st": "SENECA AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.439500375,
+     37.718467226
+    ],
+    [
+     -122.439556963,
+     37.718445718
+    ],
+    [
+     -122.440106116,
+     37.717719307
+    ],
+    [
+     -122.440106607,
+     37.717665309
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27098539",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9157000",
+  "street": "MISSION ST",
+  "from_st": "THERESA ST",
+  "to_st": "AVALON AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.432363264,
+     37.727716814
+    ],
+    [
+     -122.432447324,
+     37.727637208
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27104901",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "OCEAN AVE between MISSION ST and PERSIA AVE",
+  "cnn": "9804000",
+  "street": "OCEAN AVE",
+  "from_st": "MISSION ST",
+  "to_st": "PERSIA AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.435385086,
+     37.723909403
+    ],
+    [
+     -122.436449314,
+     37.723787847
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27105794",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9171201",
+  "street": "MISSION ST",
+  "from_st": "RUSSIA AVE",
+  "to_st": "ONONDAGA AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.437149524,
+     37.721575001
+    ],
+    [
+     -122.437209107,
+     37.721549604
+    ],
+    [
+     -122.437457087,
+     37.721222175
+    ],
+    [
+     -122.43746114,
+     37.721163548
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27106674",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9170000",
+  "street": "MISSION ST",
+  "from_st": "LEO ST",
+  "to_st": "RUSSIA AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.436468165,
+     37.722465218
+    ],
+    [
+     -122.437149524,
+     37.721575001
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27106985",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9176201",
+  "street": "MISSION ST",
+  "from_st": "SENECA AVE",
+  "to_st": "AMAZON AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.440106607,
+     37.717665309
+    ],
+    [
+     -122.440185611,
+     37.717623548
+    ],
+    [
+     -122.440417628,
+     37.717309828
+    ],
+    [
+     -122.440417738,
+     37.717244619
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27110408",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9167000",
+  "street": "MISSION ST",
+  "from_st": "OCEAN AVE",
+  "to_st": "PERSIA AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.435385086,
+     37.723909403
+    ],
+    [
+     -122.435976889,
+     37.723129963
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27112789",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9165000",
+  "street": "MISSION ST",
+  "from_st": "NORTON ST",
+  "to_st": "SAN JUAN AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.434870379,
+     37.724587706
+    ],
+    [
+     -122.43531257,
+     37.724004909
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27112815",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9174201",
+  "street": "MISSION ST",
+  "from_st": "KENNY ALY",
+  "to_st": "ITALY AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.438863486,
+     37.71930936
+    ],
+    [
+     -122.438921715,
+     37.719285697
+    ],
+    [
+     -122.439497355,
+     37.71852455
+    ],
+    [
+     -122.439500375,
+     37.718467226
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27112874",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9159000",
+  "street": "MISSION ST",
+  "from_st": "COTTER ST",
+  "to_st": "FRANCIS ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.432911793,
+     37.727177551
+    ],
+    [
+     -122.43335745,
+     37.726588203
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27112913",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9164000",
+  "street": "MISSION ST",
+  "from_st": "BRAZIL AVE",
+  "to_st": "NORTON ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.434798414,
+     37.724682554
+    ],
+    [
+     -122.434870379,
+     37.724587706
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27115241",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9161000",
+  "street": "MISSION ST",
+  "from_st": "EXCELSIOR AVE",
+  "to_st": "SANTA ROSA AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.433623591,
+     37.726236244
+    ],
+    [
+     -122.433982356,
+     37.72576179
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27115634",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9162000",
+  "street": "MISSION ST",
+  "from_st": "SANTA ROSA AVE",
+  "to_st": "HARRINGTON ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.433982356,
+     37.72576179
+    ],
+    [
+     -122.434425697,
+     37.725175476
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27116066",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9168000",
+  "street": "MISSION ST",
+  "from_st": "PERSIA AVE",
+  "to_st": "RUTH ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.435976889,
+     37.723129963
+    ],
+    [
+     -122.436040073,
+     37.72304447
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27116686",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9172201",
+  "street": "MISSION ST",
+  "from_st": "ONONDAGA AVE",
+  "to_st": "FRANCE AVE",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.43746114,
+     37.721163548
+    ],
+    [
+     -122.43753306,
+     37.721121786
+    ],
+    [
+     -122.438311516,
+     37.72009252
+    ],
+    [
+     -122.438329414,
+     37.720015525
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27119311",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9169000",
+  "street": "MISSION ST",
+  "from_st": "RUTH ST",
+  "to_st": "LEO ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.436040073,
+     37.72304447
+    ],
+    [
+     -122.436468165,
+     37.722465218
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27119343",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9177000",
+  "street": "MISSION ST",
+  "from_st": "AMAZON AVE",
+  "to_st": "GENEVA AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.440417738,
+     37.717244619
+    ],
+    [
+     -122.441019561,
+     37.716459546
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27119523",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9158000",
+  "street": "MISSION ST",
+  "from_st": "AVALON AVE",
+  "to_st": "COTTER ST",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.432447324,
+     37.727637208
+    ],
+    [
+     -122.432807823,
+     37.727315043
+    ],
+    [
+     -122.432911793,
+     37.727177551
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27119527",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9163000",
+  "street": "MISSION ST",
+  "from_st": "HARRINGTON ST",
+  "to_st": "BRAZIL AVE",
+  "direction": "both",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.434425697,
+     37.725175476
+    ],
+    [
+     -122.434798414,
+     37.724682554
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ },
+ {
+  "objectid": "27119804",
+  "case_num": "1516551",
+  "case_name": "Sunday Streets Excelsior",
+  "type": "Special Event",
+  "status": "Permitted",
+  "start_date": "2026-10-18T00:00:00.000",
+  "start_time": "09:00:00",
+  "start_dt": "2026-10-18T09:00:00.000",
+  "end_date": "2026-10-18T00:00:00.000",
+  "end_time": "18:00:00",
+  "end_dt": "2026-10-18T18:00:00.000",
+  "loc_desc": "MISSION ST between THERESA ST and GENEVA AVE",
+  "cnn": "9173201",
+  "street": "MISSION ST",
+  "from_st": "FRANCE AVE",
+  "to_st": "KENNY ALY",
+  "direction": "undefined",
+  "veh_imp": "all-lanes-closed",
+  "start_utc": "2026-10-18T16:00:00.000",
+  "end_utc": "2026-10-19T01:00:00.000",
+  "shape": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     -122.438329414,
+     37.720015525
+    ],
+    [
+     -122.438388674,
+     37.7199905
+    ],
+    [
+     -122.438855031,
+     37.719373868
+    ],
+    [
+     -122.438863486,
+     37.71930936
+    ]
+   ]
+  },
+  "data_as_of": "2026-10-05T00:03:07.000",
+  "data_loaded_at": "2026-10-05T13:05:40.856",
+  "created_date": "2026-10-05T00:03:07.000",
+  "last_edited_date": "2026-10-05T00:03:07.000"
+ }
+]

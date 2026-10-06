@@ -8,6 +8,7 @@ from sfcal.sources.dostuff import DoStuff
 from sfcal.sources.fleetweeksf import FleetWeekSF
 from sfcal.sources.icsfeed import IcsFeed
 from sfcal.sources.jsonld import JsonLd
+from sfcal.sources.streetclosures import StreetClosures
 
 ADAPTERS: dict[str, type[Adapter]] = {
     "cityhall": CityHall,
@@ -15,6 +16,7 @@ ADAPTERS: dict[str, type[Adapter]] = {
     "fleetweeksf": FleetWeekSF,
     "ics": IcsFeed,
     "jsonld": JsonLd,
+    "streetclosures": StreetClosures,
 }
 
 __all__ = ["ADAPTERS", "Adapter", "SourceError", "SourceResult", "Window"]
