@@ -47,6 +47,9 @@ class IcsOptions(AdapterOptions):
     attribution: str | None = Field(
         default=None, description="Line added to every description, e.g. a license notice"
     )
+    max_span_days: int | None = Field(
+        default=None, ge=0, description="Skip longer occurrences, e.g. season-long umbrellas"
+    )
 
 
 def as_local(value: date | datetime) -> tuple[datetime, bool]:
@@ -138,7 +141,8 @@ class IcsFeed(Adapter[IcsOptions]):
             component (VEvent): Occurrence.
 
         Returns:
-            Event | None: The event, or `None` when cancelled.
+            Event | None: The event, or `None` when cancelled or longer than
+            `max_span_days`.
 
         Raises:
             KeyError: If DTSTART is missing.
@@ -154,10 +158,17 @@ class IcsFeed(Adapter[IcsOptions]):
             end = None
         if all_day and end is None:
             end = start + timedelta(days=1)
+        if (
+            self.opts.max_span_days is not None
+            and end is not None
+            and end - start > timedelta(days=self.opts.max_span_days)
+        ):
+            return None
 
         uid = str(component.get("uid", "")) or str(component.get("summary", ""))
         digest = hashlib.sha1(f"{uid}|{start.isoformat()}".encode(), usedforsecurity=False)
-        location = str(component.get("location", "")) or None
+        # NOTE(redd): CivicPlus (Rec & Park) puts HTML in LOCATION.
+        location = html_to_text(str(component.get("location", "")))
         venue, address = split_location(location)
         geo = component.get("geo")
         categories = component.get("categories")

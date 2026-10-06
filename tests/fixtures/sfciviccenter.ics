@@ -1,0 +1,359 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SF Civic Center - ECPv5.14.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SF Civic Center
+X-ORIGINAL-URL:https://sfciviccenter.org
+X-WR-CALDESC:Events for SF Civic Center
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20260101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20260104T150000
+DTEND;TZID=UTC:20300105T013000
+DTSTAMP:20261006T172024
+CREATED:20201026T173109Z
+LAST-MODIFIED:20260603T190419Z
+UID:340-1767538800-1893807000@sfciviccenter.org
+SUMMARY:Heart of the City Farmers Market
+DESCRIPTION:Serving San Francisco’s Civic Center and surrounding neighborhoods since 1981\, this independent\, farmer-operated\, non-profit market operates daily on Wednesdays and Sundays year round (rain or shine!) with a mission to bring high-quality and affordable produce from small local farms to the heart of San Francisco. This well-loved market\, just steps from City Hall\, offers a variety of lunch options and seating on Wednesdays. \nDon’t miss the market’s 45th birthday celebration on Sunday\, June 14th! \nSundays and Wednesdays\, 7am-4pm; more info here.
+URL:https://sfciviccenter.org/event/heart-of-the-city-farmers-market/
+CATEGORIES:Farmers Market,Shopping
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2020/10/HOTCFulton.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20260414T160000
+DTEND;TZID=UTC:20261030T010000
+DTSTAMP:20261006T172024
+CREATED:20240208T030523Z
+LAST-MODIFIED:20260406T172753Z
+UID:10268-1776182400-1793322000@sfciviccenter.org
+SUMMARY:Civic Center Soundtrack Concert Series
+DESCRIPTION:Returning April 14th\, Civic Center Soundtrack\, a free concert series by Illuminate\, takes place at Fulton Plaza between San Francisco Main Library and the Asian Art Museum. \nThe diverse musical performances will be held every Tuesday and Thursdays from noon to 3 pm\, bring your lunch or grab a bite at the food truck. The full lineup can be found here; be sure to stop by for a free concert in San Francisco’s premier arts and culture district! Concert series runs through October.
+URL:https://sfciviccenter.org/event/civic-center-soundtrack-concert-series/
+CATEGORIES:Community,Music
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2024/02/Screen-Shot-2026-04-06-at-10.19.49-AM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20291030
+DTSTAMP:20261006T172024
+CREATED:20210302T233658Z
+LAST-MODIFIED:20260601T233404Z
+UID:4330-1783256400-1887973199@sfciviccenter.org
+SUMMARY:Asian Art Museum Free First Sundays
+DESCRIPTION:The Asian Art Museum welcomes visitors to explore the general exhibits of the museum for free every first Sunday of the month. It’s best to reserve your free ticket and admission time via their site. First Sunday of the month\, free; 10am-5pm. \nAlso during museum hours\, all are welcome to visit the Asian Art Museum’s store\, the Cha May Ching Museum Boutique\, and restaurant\,  Asian Box\, without paid admission. 
+URL:https://sfciviccenter.org/event/asian-art-museum-free-first-sundays/2026-07-05/
+LOCATION:Asian Art Museum\, 200 Larkin St.\, San Francisco\, 94102\, United States
+CATEGORIES:Art,Community,Kids and Families
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2021/03/Screen-Shot-2024-05-08-at-8.52.24-AM-e1715183637952.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20260801T160000
+DTEND;TZID=UTC:20271125T010000
+DTSTAMP:20261006T172024
+CREATED:20231114T195846Z
+LAST-MODIFIED:20260928T154513Z
+UID:10110-1785600000-1827104400@sfciviccenter.org
+SUMMARY:UN Plaza Fitness Classes: Dance\, Cardio & More
+DESCRIPTION:Get moving at the fitness classes led by Rae Studios in UN Plaza! From jazz funk to salsa\, and K-Pop to hip hop\, there’s something for everyone. All ages\, all levels of dance\, all abilities welcome! \nClasses do require an RSVP; sign up for the daily fitness classes led by Rae Studios here.  \nPlease see the sign up link for any changes/weather related cancelations\, etc. \n \n  \nSupport from: \n 
+URL:https://sfciviccenter.org/event/un-plaza-fitness-classes-dance-yoga-strength-more/
+CATEGORIES:Community,Fitness
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2023/11/Screenshot-2026-09-28-at-8.44.22 AM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20260807T160000
+DTEND;TZID=UTC:20271111T010000
+DTSTAMP:20261006T172024
+CREATED:20231128T232936Z
+LAST-MODIFIED:20260714T185805Z
+UID:10154-1786118400-1825894800@sfciviccenter.org
+SUMMARY:Learn and Play Chess and Mahjong at UN Plaza
+DESCRIPTION:Want to learn chess and mahjong\, or sharpen the skills you already have? Check out the chess and mahjong event series taking place at UN Plaza every Friday\, 2-5pm! \nFeaturing drop-in games and free lessons from the Mechanics’ Institute\, the weekly event also features chess-puzzles and other games such as dominos. Free\, drop-in. \n \n \n  \nThank you to sponsors:
+URL:https://sfciviccenter.org/event/learn-and-play-chess-at-un-plaza/
+CATEGORIES:Community,Kids and Families
+ATTACH;FMTTYPE=image/jpeg:https://sfciviccenter.org/wp-content/uploads/2023/11/Chess-at-UN-Plaza_12.03.2023_Masaki-Omori_07-1-scaled-e1706557789121.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20260915T160000
+DTEND;TZID=UTC:20261213T010000
+DTSTAMP:20261006T172024
+CREATED:20240919T223641Z
+LAST-MODIFIED:20260923T191813Z
+UID:10837-1789488000-1797123600@sfciviccenter.org
+SUMMARY:Shred N' Butter: Free Skateboarding Lessons
+DESCRIPTION:Want to master your kick flip? Learn how to do an ollie? Join SF Rec & Park for Shred N’ Butter every Tuesday\, 4-7pm\, at the UN Skate Plaza for free skateboarding lessons! No RSVP required. Boards and equipment are available to borrow during class.
+URL:https://sfciviccenter.org/event/shred-n-butter/
+CATEGORIES:Community,Fitness,Kids and Families
+ATTACH;FMTTYPE=image/jpeg:https://sfciviccenter.org/wp-content/uploads/2024/09/110823UNPlaza_110-e1726785385385.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261001T160000
+DTEND;TZID=UTC:20270601T010000
+DTSTAMP:20261006T172024
+CREATED:20260928T204925Z
+LAST-MODIFIED:20260928T204958Z
+UID:13011-1790870400-1811811600@sfciviccenter.org
+SUMMARY:SFJAZZ 2026-2027 Season
+DESCRIPTION:The 26-27 SFJAZZ season\, entitled Forward Motion\, is led by Executive Artistic Director Terence Blanchard and CEO Gabrielle Armand. SFJAZZ notes\, “Across nine months and over 300 shows\, the music moves with purpose and possibility\, transforming our stages into a hub for innovation\, collaboration\, and discovery.” \nThey go on to note: “From centennial celebrations of Miles Davis\, John Coltrane\, Antonio Carlos Jobim\, and Ray Brown to performances by icons like Ron Carter\, Dianne Reeves\, and Branford Marsalis\, the season connects legacy to the now. Rising stars and modern masters alike—from Isaiah Collier\, Tyreek McDole\, Brandon Woody\, and Gabrielle Cavassa to Christian McBride\, Hiromi\, Julian Lage\, and Cécile McLorin Salvant—drive the music forward.” \nUpcoming concerts include Julian Lage Quartet (Oct 19)\, and Charles Tolliver for the John Coltrane celebration (Oct 25)\, and much more! \nSee the SFJAZZ site for more information and tickets. \n 
+URL:https://sfciviccenter.org/event/sfjazz-2026-2027-season/
+CATEGORIES:Music
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-1.45.02 PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261007T190000
+DTEND;TZID=UTC:20281004T230000
+DTSTAMP:20261006T172024
+CREATED:20210914T193006Z
+LAST-MODIFIED:20260901T163441Z
+UID:8017-1791399600-1854313200@sfciviccenter.org
+SUMMARY:Friends of the SF Public Library Step Sales
+DESCRIPTION:The Friends of the San Francisco Public Library Step Sales have returned! Every Wednesday\, visit the Larkin Street steps of the Main Branch of the SF Public Library to find used books of all sorts! Happens every Wednesday\, unless rain\, 11am-3pm.
+URL:https://sfciviccenter.org/event/friends-of-the-sf-public-library-step-sales/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:https://sfciviccenter.org/wp-content/uploads/2021/09/IMG_6397-e1631647791426.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261017T180000
+DTEND;TZID=UTC:20261017T220000
+DTSTAMP:20261006T172024
+CREATED:20260928T195115Z
+LAST-MODIFIED:20260928T195115Z
+UID:13004-1792260000-1792274400@sfciviccenter.org
+SUMMARY:Keepin' It Safe in the City
+DESCRIPTION:Happening at Civic Center Plaza\, the 3rd annual Keepin’ It Safe in the City features fire trucks\, a bounce house\, music and food. Attendees will also meet first responders\, take part in fun activities and win raffle prizes. \nSponsored by: The San Francisco District Attorney’s Office \nMore information here.  \nAlso be sure the check out the adjacent Fall Family Festival and Market Street Arts & Theater Festival.
+URL:https://sfciviccenter.org/event/keepin-it-safe-in-the-city/
+CATEGORIES:Community,Kids and Families
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-12.50.08 PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261018T000000
+DTEND;TZID=UTC:20261018T030000
+DTSTAMP:20261006T172024
+CREATED:20260910T194151Z
+LAST-MODIFIED:20261006T171452Z
+UID:12965-1792281600-1792292400@sfciviccenter.org
+SUMMARY:Fall Family Festival
+DESCRIPTION:Taking place under the twinkling Spectra lights\, the Fall Family Festival on October 17th\, from 4 to 7pm; features fun carnival games\, free pumpkin decorating\, face painting\, the San Francisco Public Library Bookmobile\, and entertainment such as stilt walkers and bubble magic with Sterling Bubble.  \nThe selfie station with the autumn-themed Petalz Flower Truck is a must stop photo op with City Hall as the backdrop\, as are the carnival treats: cotton candy\, candy apples and local food trucks featuring fall fair favorites. \nSign up on Eventbrite for an event day reminder\, but no ticket needed to attend this free event. \nThis event is sponsored by: Avenue Greenlight\, an investment engine for San Francisco’s community projects\, providing high-impact grants with tangible results; along with Civic Center Community Benefit District\, Illuminate\, the San Francisco Public Library and San Francisco Recreation & Parks Department. \n \n  \nAlso be sure to check out adjacent kid & family events\, San Francisco District Attorney’s Office‘s Keepin’ It Safe in the City (Civic Center Plaza\, 10am-2pm) and Market Street Arts‘ Market Street Arts & Theater Festival (many locations\, including UN Plaza\, with circus and aerial performances in the evening\, event runs 4-10pm).
+URL:https://sfciviccenter.org/event/fall-family-festival/
+CATEGORIES:Community,Kids and Families
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/09/Screenshot-2026-10-05-at-12.48.39 PM-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261018T000000
+DTEND;TZID=UTC:20261018T030000
+DTSTAMP:20261006T172024
+CREATED:20261001T193255Z
+LAST-MODIFIED:20261001T193329Z
+UID:13016-1792281600-1792292400@sfciviccenter.org
+SUMMARY:Market Street Arts & Theater Festival
+DESCRIPTION:Taking place at location in Mid Market and Civic Center\, on October 17th\, the Market Street Arts & Theater Festival\, 4-10pm\, will feature of an evening of entertainment. In Civic Center\, UN Plaza will host circus and aerial dance performances by: \nDear San Francisco\nCircus Bella\nSpectrum Theater\nThe Peoples Circus\nBandaloop Vertical Dancers\nACT’S Young Conservatory Cabaret \n\nAt Civic Center Plaza don’t miss Dueling Pianos. Also stop by Limoncello for drinks and bites. \n\n\nMore about their full event here. \n\n\nAlso check out adjacent kid and family friendly events: Fall Family Festival in Fulton Plaza\, 4-7pm & Keepin’ It Safe the City in Civic Center Plaza\, 10am-2pm. \n\n\n\n\n\n\n\n\n\n 
+URL:https://sfciviccenter.org/event/market-street-arts-theater-festival/
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-12.32.02 PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261018T160000
+DTEND;TZID=UTC:20270606T010000
+DTSTAMP:20261006T172024
+CREATED:20250130T223041Z
+LAST-MODIFIED:20260928T200516Z
+UID:11176-1792339200-1812243600@sfciviccenter.org
+SUMMARY:City Arts & Lectures at the Sydney Goldstein Theater
+DESCRIPTION:“Each year there are more than fifty lectures and onstage conversations – and a few surprise performances\, film tributes\, and concerts – with outstanding writers\, critics\, scientists\, performing artists\, and cultural figures from around the world\,” as part of City Arts & Lectures at the Sydney Goldstein Theater (formerly the Nourse). \nUpcoming speakers for fall 2026 include David Byrne (Oct 11)\, Zadie Smith in conversation with Sam Fragoso (Oct 14)\,  Barbara Kingsolver in conversation with Steven Winn (Oct 23) and many more. \nSee the City Arts & Lectures site for a full calendar and link to tickets. \n 
+URL:https://sfciviccenter.org/event/city-arts-lectures-at-the-sydney-goldstein-theater/
+CATEGORIES:Art,Community,Theater
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2025/01/Screen-Shot-2026-05-22-at-12.13.22-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261018T160000
+DTEND;TZID=UTC:20270628T010000
+DTSTAMP:20261006T172024
+CREATED:20260722T192506Z
+LAST-MODIFIED:20260928T200107Z
+UID:12832-1792339200-1814144400@sfciviccenter.org
+SUMMARY:SF Symphony 2026-2027 Season
+DESCRIPTION:The upcoming 2026-2027 season at the SF Symphony features a calendar full of debuts\, stars\, guest artists and much more. \nPremieres include a “work by Emerging Black Composers Project winner Kyle Rivera\, conducted by Juraj Valčuha\, and a new concerto for harp and percussion by Rene Orth\, conducted by Esa-Pekka Salonen and featuring Principal Percussion Jacob Nissly and Principal Harp Katherine Siochi.” \nSpecial concerts include “Jazz singer Samara Joy\, folk musician Gregory Alan Isakov\, and singer -songwriter Fantastic Negrito [as] each join the San Francisco Symphony for one-night -only performances [and] composer and conductor Joe Hisaishi [as he] leads the San Francisco Symphony in a program featuring his own music\, including a new SF Symphony-commissioned Concerto for Orchestra.” As well as\, “San Francisco Symphony celebrates Conductor Laureate Herbert Blomstedt’s 100th year with a January program featuring Schubert’s Symphony No. 3 and Bruckner’s Symphony No. 4\, Romantic.” \nThis is all in addition to their holiday performances\, special community events\, and Film with Live Orchestra series: Avatar\, Hook\, La La Land\, Metropolis\, Tim Burton’s The Nightmare Before Christmas\, The Ring\, Star Wars: Return of the Jedi\, and Up. \nSee their full calendar of performances and ticket purchasing information here.
+URL:https://sfciviccenter.org/event/sf-symphony-2026-2027-season/
+CATEGORIES:Community,Music,Theater
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/07/Screen-Shot-2026-07-22-at-12.24.22-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261019T160000
+DTEND;TZID=UTC:20270120T010000
+DTSTAMP:20261006T172024
+CREATED:20250811T190946Z
+LAST-MODIFIED:20260928T195628Z
+UID:11626-1792425600-1800406800@sfciviccenter.org
+SUMMARY:SF Rec & Park Free Yoga Classes at UN Plaza
+DESCRIPTION:Destress\, stretch\, and learn some new yoga poses at the free yoga classes hosted by SF Rec & Park at UN Plaza. \nThese free\, drop-in classes are all ages\, all levels. \nMondays\, noon-1pm \nTuesdays\, noon-1pm \nThursdays\, 1-2pm \nPlease note that rain may lead to the cancellation of classes and Wednesday classes have been discontinued. \n \n 
+URL:https://sfciviccenter.org/event/sf-rec-park-free-yoga-classes-at-un-plaza/
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2025/08/Screen-Shot-2025-08-11-at-12.09.28-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261019T160000
+DTEND;TZID=UTC:20270607T010000
+DTSTAMP:20261006T172024
+CREATED:20260814T225028Z
+LAST-MODIFIED:20260928T200633Z
+UID:12919-1792425600-1812330000@sfciviccenter.org
+SUMMARY:San Francisco Opera 2026-2027 Season
+DESCRIPTION:The San Francisco Opera’s 2026-2027 season opened with Opera Ball\, marking the Company’s 104th season. \nThe San Francisco Opera notes highlights include Thea Musgrave’s rarely performed 1977 opera\, Mary\, Queen of Scots\, (opening September 20th) starring soprano Heidi Stober\, as well as repertory revivals such as Mozart’s The Marriage of Figaro (opening October 31st) and Puccini’s Tosca (June 4th) with soprano Rachel Willis-Sørensen. Other wonderful operas include Manon (opening October 15th) and Das Rheingold (opening May 29th) and special events such as Strauss in Concert (November 6th) and the Rpide Conert (June 25th.) \nSee the SF Opera site for more information and tickets. \n 
+URL:https://sfciviccenter.org/event/san-francisco-opera-2026-2027-season/
+CATEGORIES:Music,Theater
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/08/Screen-Shot-2026-08-14-at-3.48.50-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261023T180000
+DTEND;TZID=UTC:20281023T010000
+DTSTAMP:20261006T172024
+CREATED:20210415T155651Z
+LAST-MODIFIED:20260928T200808Z
+UID:5573-1792778400-1855875600@sfciviccenter.org
+SUMMARY:Zumba in Civic Center
+DESCRIPTION:Zumba instructor Matt Ziegler leads classes in Civic Center Plaza (weather permitting) on Sundays (10-11am)\, Wednesdays (noon-1pm) and Fridays (noon-1pm) with SF Rec & Parks Zumba in the Parks. The class is for all ages and skill levels; meet on the paved portion of the plaza adjacent to City Hall. Free\, drop-in. \nSee the schedule here. 
+URL:https://sfciviccenter.org/event/zumba-in-civic-center/
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/jpeg:https://sfciviccenter.org/wp-content/uploads/2020/10/IMG_0173-e1603735624969.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261028T170000
+DTEND;TZID=UTC:20261029T000000
+DTSTAMP:20261006T172024
+CREATED:20261001T191032Z
+LAST-MODIFIED:20261001T191032Z
+UID:13019-1793206800-1793232000@sfciviccenter.org
+SUMMARY:Civic Center Pumpkin Patch from Compass Family Services
+DESCRIPTION:Visit the pop up pumpkin patch sprouting in Civic Center Plaza on Wednesday\, October 28\, 9am-4pm. From Compass Family Services\, all area neighborhood kids are welcome; expect activities\, treats\, entertainment and\, of course\, pumpkins! \n 
+URL:https://sfciviccenter.org/event/civic-center-pumpkin-patch-from-compass-family-services/
+CATEGORIES:Holiday,Kids and Families
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-12.09.51 PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261029T160000
+DTEND;TZID=UTC:20270212T010000
+DTSTAMP:20261006T172024
+CREATED:20260126T191950Z
+LAST-MODIFIED:20260928T195148Z
+UID:12187-1793289600-1802394000@sfciviccenter.org
+SUMMARY:Asian Art Museum's Mahjong and Mocktails Thursdays
+DESCRIPTION:Every Thursday from 5 to 8pm\, the Asian Art Museum host a fun night of mahjong and mocktails. Whether a newbie\, or an experienced player\, game play is open to all ages and is included with the price of museum admission. \nMocktails available for purchase. The museum provides free tiles for game play.
+URL:https://sfciviccenter.org/event/asian-art-museums-mahjong-and-mocktail-thursdays/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/01/Screen-Shot-2026-01-26-at-11.19.07-AM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261101T160000
+DTEND;TZID=UTC:20261126T010000
+DTSTAMP:20261006T172024
+CREATED:20251219T205959Z
+LAST-MODIFIED:20260901T163106Z
+UID:12022-1793548800-1795654800@sfciviccenter.org
+SUMMARY:Moving San Francisco: SFMTA Photos 1903-Now
+DESCRIPTION:Moving San Francisco: Views from the SFMTA Photo Archive 1903 – Now at City Hall features\, “an exhibition that celebrates the history of Muni and the evolution of our city with a collection of images from the SFMTA Photo Archive.” From the Francisco Arts Commission (SFAC)\, in partnership with the San Francisco Municipal Transportation Agency’s (SFMTA) Photo Archive\, Moving San Francisco will be on display on the Ground Floor and North Light Court at City Hall through November 25\, 2026. \n 
+URL:https://sfciviccenter.org/event/moving-san-francisco-sfmta-photos-1903-now/
+CATEGORIES:Art,Community
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2025/12/Screen-Shot-2025-12-19-at-12.57.34-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261114T010000
+DTEND;TZID=UTC:20261114T030000
+DTSTAMP:20261006T172024
+CREATED:20261006T164625Z
+LAST-MODIFIED:20261006T164625Z
+UID:13034-1794618000-1794625200@sfciviccenter.org
+SUMMARY:Holiday Season Performing Arts Showcase
+DESCRIPTION:On Friday\, November 13\, from 5–7 p.m.\, Fulton Plaza will come alive beneath the dazzling Spectra lights for the Holiday Season Performing Arts Showcase\, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening. \nGuests will be treated to a dynamic lineup of live performances of what’s on stage this season. Expect short works from the San Francisco Opera\, San Francisco Ballet\, the African American Shakespeare Company\, the San Francisco Philharmonic and RAW Dance\, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances\, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.  \nThis event is free\, and no ticket required to attend. \nAlso be sure to visit the adjacent food trucks and bar\, and visit with the arts organizations to learn more about what they’re bringing to the stage Fall 2026-Winter 2027.
+URL:https://sfciviccenter.org/event/holiday-season-performing-arts-showcase/
+CATEGORIES:Art,Community,Dance,Music,Theater
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-9.44.46 AM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261115T033000
+DTEND;TZID=UTC:20261205T060000
+DTSTAMP:20261006T172024
+CREATED:20261005T191721Z
+LAST-MODIFIED:20261005T195752Z
+UID:13029-1794713400-1796450400@sfciviccenter.org
+SUMMARY:Philharmonia Baroque Orchestra's Handel's The Power of Music & Baroque Brilliance
+DESCRIPTION:This fall the Philharmonia Baroque Orchestra presents Handel’s The Power of Music & Baroque Brilliance at the Herbst Theatre: \nHandel’s The Power of Music \nMusic Director Peter Whelan leads the first U.S. performances of Handel’s 1742 Dublin version of Alexander’s Feast\, performed on period instruments and in the style of the time. The concerts feature soprano Sherezade Panthaki\, mezzo-soprano Rachael Wilson\, tenor James Way\, Philharmonia Baroque Orchestra\, and Philharmonia Chorale under the direction of Valérie Sainte-Agathe. \nProgram \nGeorge Frideric HANDEL — Alexander’s Feast\, or The Power of Music (1742 Dublin Version) (U.S. PREMIERE) \nPeter Whelan\, conductor\nSherezade Panthaki\, soprano\nRachael Wilson\, mezzo-soprano\nJames Way\, tenor\nPhilharmonia Chorale\, directed by Valérie Sainte-Agathe \nFriday\, November 13\, 2026 • 7:30 PM\nHerbst Theatre\, tickets here. \nBaroque Brilliance \nGuest conductor Patrick Dupré Quigley leads a festive holiday-season program featuring music by Handel\, J.S. Bach\, Telemann\, C.P.E. Bach\, and Marianna Martines with soprano Kathryn Mueller and Philharmonia principal cellist William Skeen. \nProgram \nHANDEL — “Let the Bright Seraphim”\nMarianna MARTINES — O virgo\, cui salutem debet orbis (WEST COAST PREMIERE)\nTELEMANN — Burlesque de Quixotte\nC.P.E. BACH — Cello Concerto in A major\nJ.S. BACH — Jauchzet Gott in allen Landen \nPatrick Dupré Quigley\, conductor\nKathryn Mueller\, soprano\nWilliam Skeen\, cello\nGonzalo X. Ruiz\, oboe\nKathryn Adduci\, trumpet \nFriday\, December 4\, 2026 • 7:30 PM\nHerbst Theatre\, tickets here.
+URL:https://sfciviccenter.org/event/philharmonia-baroque-orchestras-handels-the-power-of-music-baroque-brilliance/
+CATEGORIES:Music
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-12.15.04 PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261201T160000
+DTEND;TZID=UTC:20270601T010000
+DTSTAMP:20261006T172024
+CREATED:20260722T195021Z
+LAST-MODIFIED:20260722T195021Z
+UID:12836-1796140800-1811811600@sfciviccenter.org
+SUMMARY:SF Ballet 2026-2027 Season
+DESCRIPTION:The 2026-2027 SF Ballet season begins with the beloved family holiday favorite Nutcracker (Dec 4-27)\, before the 94th Season Opening Night Gala in January. \nHighlights include Helgi Tomasson’s The Sleeping Beauty (Jan 29-Feb 7) a 19th century classic;  Titans of Choreography (Feb 16-21)\, which features diversity of three major contemporary European choreographers; George Balanchine’s Jewels (Feb 27-Mar 7)\, returning to the War Memorial Opera House in full for the first time since 2009; Balanchine’s A Midsummer Night’s Dream (Mar 19-27)\, with a journey through William Shakespeare’s enchanted forest; Divine Creatures (Apr 8-14)\, paying homage to Sergei Diaghilev’s revolutionary Ballets Russes with music by Andy Akiho; and the return of Sir Kenneth MacMillan’s Manon (Apr 23-May 2)\, considered one of the choreographer’s best. \nMore information and tickets on the SF Ballet site.
+URL:https://sfciviccenter.org/event/sf-ballet-2026-2027-season/
+CATEGORIES:Dance,Theater
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/07/Screen-Shot-2026-07-22-at-12.49.50-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261203T000000
+DTEND;TZID=UTC:20261203T030000
+DTSTAMP:20261006T172024
+CREATED:20260917T205132Z
+LAST-MODIFIED:20261005T151806Z
+UID:12988-1796256000-1796266800@sfciviccenter.org
+SUMMARY:Civic Center Plaza Tree Lighting 2026
+DESCRIPTION:Save the date! The annual Civic Center Plaza Tree Lighting is taking place across the street from an illuminated City Hall on Wednesday\, December 2nd\, 4-7pm! Featuring a night of festive entertainment\, a toy giveaway for the first 500 children\, “snow” flurries\, holiday beverages and bites for purchase and more. Also the night wouldn’t be complete without a visit from the VIP-of-the-hour: Santa! \nMore information to come.
+URL:https://sfciviccenter.org/event/civic-center-plaza-tree-lighting-2026/
+CATEGORIES:Community,Holiday,Kids and Families
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2026/09/Screenshot-2026-10-05-at-8.16.12 AM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261205T160000
+DTEND;TZID=UTC:20271114T010000
+DTSTAMP:20261006T172024
+CREATED:20240118T193519Z
+LAST-MODIFIED:20260928T195500Z
+UID:10233-1796486400-1826154000@sfciviccenter.org
+SUMMARY:"Get Rolling" All Ages Open Skate
+DESCRIPTION:Grab your roller skates or blades from home for a few fun laps on the smooth surface of Fulton Plaza. Whether you’re practicing moves for your roller derby league\, popping in your earbuds to get some cardio in\, or just practicing some new skate moves\, it’a fun\, free and safe place to roll! If you’re lucky\, there just may be a local DJ spinning some tunes to skate to as well!  \n  \n \n  \n 
+URL:https://sfciviccenter.org/event/get-rolling-all-ages-open-skate/
+CATEGORIES:Community,Fitness,Kids and Families
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2024/01/Screen-Shot-2024-01-18-at-11.33.58-AM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261205T160000
+DTEND;TZID=UTC:20271206T010000
+DTSTAMP:20261006T172024
+CREATED:20230404T223944Z
+LAST-MODIFIED:20260928T195547Z
+UID:9643-1796486400-1828054800@sfciviccenter.org
+SUMMARY:Storytime at the Main Branch of the SF Public Library
+DESCRIPTION:For babies\, toddlers\, children and families\, in English\, Spanish and Cantonese — the Main Branch of the San Francisco Public Library offers a robust calendar of storytimes for children of all ages. \nSee their calendar here to see when’s the next storytime! \n  \n 
+URL:https://sfciviccenter.org/event/storytime-at-the-main-branch-of-the-sf-public-library/
+CATEGORIES:Community,Kids and Families
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2023/04/Screen-Shot-2023-04-04-at-3.33.11-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261210T230000
+DTEND;TZID=UTC:20271208T030000
+DTSTAMP:20261006T172024
+CREATED:20220912T225213Z
+LAST-MODIFIED:20260928T195521Z
+UID:9226-1796943600-1828234800@sfciviccenter.org
+SUMMARY:Speak Low Tango Club on Saturdays and Milonga La Paz on Sundays
+DESCRIPTION:Hosted by Golden Age Tango Academy (GATA)\, Speak Low Tango Club on Saturdays and the Sunday Milonga La Paz are participatory dance events for seniors and veterans. \nSpeak Low Tango Club features an all levels class with instructors Ivan and Ivy from 3-4pm followed by a Milonga Party from 4-7pm with DJ Ivan spinning traditional\, danceable Argentine tunes for social dancing; no partner required\, all skill levels welcomed\, masks and vaccination required; $20. \nThe Milonga La Paz event on Sunday evenings\, 6-10pm\, features DJ Ivan spinning traditional\, danceable Argentine tunes for dancers of all skill levels; $15. \nMore info on the Golden Age Tango Academy site; Veterans Building\, 401 Van Ness Ave\, Room 412.
+URL:https://sfciviccenter.org/event/speak-low-tango-club-on-saturdays-and-milonga-la-paz-on-sundays/
+CATEGORIES:Dance
+ATTACH;FMTTYPE=image/png:https://sfciviccenter.org/wp-content/uploads/2022/09/Screen-Shot-2022-09-12-at-3.47.06-PM-e1663022870569.png
+END:VEVENT
+END:VCALENDAR

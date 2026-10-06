@@ -170,3 +170,55 @@ priority = 40
 url = "https://caldiscovery.com/san-francisco-ca/comedy.ics"
 bucket = "comedy"
 attribution = "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+
+# SF Civic Center CBD (The Events Calendar export). Most entries are
+# season-long umbrellas (a farmers market spanning years); keep the one-offs.
+[sources.sfciviccenter]
+adapter = "ics"
+label = "SF Civic Center"
+priority = 50
+
+[sources.sfciviccenter.options]
+url = "https://sfciviccenter.org/events/?ical=1"
+bucket = "arts-community"
+max_span_days = 3
+
+# Yerba Buena Gardens Festival: free outdoor music and dance, May-Nov.
+[sources.ybgfestival]
+adapter = "ics"
+label = "Yerba Buena Gardens Festival"
+priority = 50
+
+[sources.ybgfestival.options]
+url = "https://ybgfestival.org/events/?ical=1"
+bucket = "music"
+
+# SF Rec & Park CivicPlus calendars, one feed per catID. The full list is at
+# https://sfrecpark.org/iCalendar.aspx
+[sources.sfrecpark-main]
+adapter = "ics"
+label = "SF Rec & Park"
+priority = 45
+
+[sources.sfrecpark-main.options]
+url = "https://sfrecpark.org/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar"
+bucket = "outdoors"
+
+[sources.sfrecpark-bandshell]
+adapter = "ics"
+label = "SF Rec & Park"
+priority = 45
+
+[sources.sfrecpark-bandshell.options]
+url = "https://sfrecpark.org/common/modules/iCalendar/iCalendar.aspx?catID=35&feed=calendar"
+bucket = "music"
+
+[sources.sfrecpark-civic-center]
+adapter = "ics"
+label = "SF Rec & Park"
+priority = 45
+
+[sources.sfrecpark-civic-center.options]
+# Mostly free fitness classes on the plazas, hence outdoors.
+url = "https://sfrecpark.org/common/modules/iCalendar/iCalendar.aspx?catID=40&feed=calendar"
+bucket = "outdoors"

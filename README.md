@@ -50,6 +50,9 @@ that isn't `http`, `https`, `mailto` or relative.
 | [DoTheBay](https://dothebay.com/events) | `dostuff` | all categories | The site's day-listing JSON. Music is gated to `popularity >= 50` or free; exhibits (ongoing, or spanning >3 days) are dropped |
 | [Funcheap SF](https://sf.funcheap.com/) | `jsonld` | all categories | WordPress API discovery of the last 45 days of posts, then schema.org `Event` JSON-LD from each post page. Only new or edited posts are fetched; the first run backfills ~1.9k pages and takes a few minutes |
 | [CalDiscovery](https://caldiscovery.com/san-francisco-ca/) | `ics` | `arts-community` (festival), `comedy` | Any ICS feed, one bucket per feed, RRULEs expanded in the window. CalDiscovery republishes ~80 venue and org calendars under ODbL 1.0 |
+| [SF Civic Center](https://sfciviccenter.org/events/) | `ics` | `arts-community` | The CBD's Events Calendar export. `max_span_days = 3` drops the season-long umbrellas, leaving plaza one-offs (Fall Family Festival, the tree lighting) |
+| [Yerba Buena Gardens Festival](https://ybgfestival.org/) | `ics` | `music` | Free outdoor music and dance, May to November |
+| [SF Rec & Park](https://sfrecpark.org/iCalendar.aspx) | `ics` | `outdoors`, `music` (bandshell) | CivicPlus calendars `catID=14` (main), `35` (Golden Gate Bandshell), `40` (UN, Fulton and Civic Center plazas, mostly fitness classes) |
 
 Keyword routing (`[[bucket_rules]]` in `sfcal.toml`) moves any timed event matching
 `\b(fleet week|blue angels|parade of ships)\b` from any source into `fleet-week`. All-day
@@ -127,6 +130,10 @@ The cron got disabled (GitHub emails that too): `gh workflow enable build.yml -R
 - `events.json` is ~3.4 MB and is re-committed whenever anything changes, so the `feeds`
   branch grows by a few MB a day while events churn
 - Google refreshes subscriptions every ~8-24h no matter what the feed asks for
+- SF Civic Center's feed is mostly umbrellas and yields a handful of one-offs, most with no
+  LOCATION (they're on the Civic Center plazas)
+- The Rec & Park bandshell feed is empty off-season; that's not a failure, since it never had
+  events in the window
 
 ## Development
 

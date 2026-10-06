@@ -57,6 +57,12 @@ FEED = dedent(
     LOCATION:1 Main St, Oakland, CA
     END:VEVENT
     BEGIN:VEVENT
+    UID:htmlloc@example.com
+    SUMMARY:Dune cleanup
+    DTSTART;TZID=America/Los_Angeles:20261024T100000
+    LOCATION:<p>Sunset Dunes</p> - 1611 Upper Great Highway San Francisco CA 94122
+    END:VEVENT
+    BEGIN:VEVENT
     UID:cancelled@example.com
     SUMMARY:Called off
     STATUS:CANCELLED
@@ -71,17 +77,25 @@ FEED = dedent(
 ).replace("\n", "\r\n")
 
 
-def adapter(client: httpx.Client, attribution: str | None = None) -> IcsFeed:
+def adapter(
+    client: httpx.Client, attribution: str | None = None, max_span_days: int | None = None
+) -> IcsFeed:
     """Build the adapter.
 
     Parameters:
         client (httpx.Client): HTTP client.
         attribution (str | None): Attribution option.
+        max_span_days (int | None): Span limit option.
 
     Returns:
         IcsFeed: Adapter.
     """
-    options = {"url": URL, "bucket": "comedy", "attribution": attribution}
+    options = {
+        "url": URL,
+        "bucket": "comedy",
+        "attribution": attribution,
+        "max_span_days": max_span_days,
+    }
     cfg = SourceCfg(adapter="ics", label="Test", priority=40, options=options)
     return IcsFeed("feed", cfg, client)
 
@@ -121,7 +135,15 @@ def test_fetch_expands_and_converts(client: httpx.Client) -> None:
     for event in result.events:
         by_title.setdefault(event.title, []).append(event)
 
-    assert set(by_title) == {"Weekly Open Mic", "Floating", "Late show", "Street fair"}
+    assert set(by_title) == {
+        "Weekly Open Mic",
+        "Floating",
+        "Late show",
+        "Street fair",
+        "Dune cleanup",
+    }
+    (dunes,) = by_title["Dune cleanup"]
+    assert dunes.venue == "Sunset Dunes - 1611 Upper Great Highway San Francisco CA 94122"
     mics = sorted(by_title["Weekly Open Mic"], key=lambda e: e.start)
     assert [e.start.date().isoformat()[5:] for e in mics] == [
         "10-08",
@@ -164,6 +186,24 @@ def test_fetch_not_a_calendar(client: httpx.Client) -> None:
     respx.get(URL).respond(text="<html>Attention Required! | Cloudflare</html>")
     with pytest.raises(SourceError, match="Not an iCalendar feed"):
         adapter(client).fetch(WINDOW, [], {})
+
+
+@respx.mock
+def test_max_span_days_drops_umbrellas(client: httpx.Client) -> None:
+    respx.get(URL).respond(content=(FIXTURES / "sfciviccenter.ics").read_bytes())
+    everything = adapter(client).fetch(WINDOW, [], {}).events
+    assert "Heart of the City Farmers Market" in {e.title for e in everything}
+
+    result = adapter(client, max_span_days=3).fetch(WINDOW, [], {})
+    by_title = {e.title: e for e in result.events}
+    assert "Heart of the City Farmers Market" not in by_title
+    assert "SF Symphony 2026-2027 Season" not in by_title
+    assert {"Fall Family Festival", "Civic Center Plaza Tree Lighting 2026"} <= set(by_title)
+    assert len(result.events) < len(everything)
+    # TZID=UTC 2026-10-18T00:00 is 17:00 PDT the evening before.
+    fall = by_title["Fall Family Festival"]
+    assert fall.start == datetime(2026, 10, 17, 17, tzinfo=TZ)
+    assert fall.end == datetime(2026, 10, 17, 20, tzinfo=TZ)
 
 
 @respx.mock
