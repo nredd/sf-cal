@@ -7,7 +7,7 @@ requires-python = ">=3.13"
 license = "MIT"
 dependencies = [
     "httpx>=0.28.1",
-    "icalendar>=6.3.1,<7",
+    "icalendar>=6.3.1,<8",
     "pydantic>=2.11",
     "recurring-ical-events>=3.8",
     "selectolax>=0.3.29",
