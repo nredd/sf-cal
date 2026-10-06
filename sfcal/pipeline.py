@@ -141,7 +141,7 @@ def make_adapters(cfg: Cfg, client: httpx.Client, only: str | None = None) -> di
                 f"expected one of {list(ADAPTERS)}"
             )
         adapter = adapter_cls(name, src, client)
-        for bucket in adapter.referenced_buckets():
+        for bucket in sorted(adapter.referenced_buckets()):
             cfg.require_bucket(bucket)
         adapters[name] = adapter
     return adapters

@@ -168,7 +168,7 @@ def test_rejects_unknown_bucket(client: httpx.Client) -> None:
                 adapter="dostuff",
                 label="D",
                 priority=1,
-                options={"categories": {"Music": "nope"}},
+                options={"categories": {"Music": "nope"}, "default_bucket": "music"},
             ).model_dump()
         }
     )
