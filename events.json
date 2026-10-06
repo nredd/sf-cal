@@ -79415,6 +79415,4266 @@
    "notes": []
   },
   {
+   "source": "sf-street-events",
+   "source_id": "1598008-2026-10-06T07:00:00-07:00",
+   "title": "Morning Mixer @ Maiden Lane",
+   "start": "2026-10-06T07:00:00-07:00",
+   "end": "2026-10-06T14:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Maiden Ln between Kearny St and Grant Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.788329,
+    -122.404356
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Maiden Ln from Kearny St to Grant Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365550-2026-10-07T13:00:00-07:00",
+   "title": "Castro Farmers' Market 2026",
+   "start": "2026-10-07T13:00:00-07:00",
+   "end": "2026-10-07T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Noe St between Market St and Beaver St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764628,
+    -122.433127
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Noe St from Beaver St to 16th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1591355-2026-10-07T15:00:00-07:00",
+   "title": "British Tech Street Festival",
+   "start": "2026-10-07T15:00:00-07:00",
+   "end": "2026-10-07T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Maiden Ln between Kearny St and Grant Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.788329,
+    -122.404356
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Maiden Ln from Kearny St to Grant Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1414320-2026-10-08T12:00:00-07:00",
+   "title": "Mission Community Market 2026",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Bartlett St between 22nd St and 21st St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.756167,
+    -122.419935
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Bartlett St from 21st St to 22nd St; 22nd St from Mission St to Bartlett St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1485643-2026-10-09T08:00:00-07:00",
+   "title": "Fridays on Front Street",
+   "start": "2026-10-09T08:00:00-07:00",
+   "end": "2026-10-09T23:59:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Front St between California St and Sacramento St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.794064,
+    -122.398925
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Front St from Halleck St to Sacramento St; Halleck St from Front St to Battery St; Front St from California St to Halleck St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1472713-2026-10-09T13:00:00-07:00",
+   "title": "Chinatown Night Market 2026",
+   "start": "2026-10-09T13:00:00-07:00",
+   "end": "2026-10-09T23:59:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Grant Ave between Sacramento St and Clay St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.792915,
+    -122.406034
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Grant Ave from California St to Sacramento St; Grant Ave from Commercial St to Clay St; Grant Ave from Clay St to Washington St; Grant Ave from Washington St to Jackson St; Grant Ave from Sacramento St to Commercial St; Grant Ave from Jackson St to Pacific Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-10-10T06:00:00-07:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-10-10T06:00:00-07:00",
+   "end": "2026-10-10T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-10-10T07:00:00-07:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-10-10T07:00:00-07:00",
+   "end": "2026-10-10T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-10-10T07:00:00-07:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-10-10T07:00:00-07:00",
+   "end": "2026-10-10T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1583261-2026-10-10T08:00:00-07:00",
+   "title": "Sotheby's",
+   "start": "2026-10-10T08:00:00-07:00",
+   "end": "2026-10-10T12:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Minna St between 04th St and 05th St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.78317,
+    -122.404822
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Minna St from 04th St to 05th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1602284-2026-10-10T08:00:00-07:00",
+   "title": "Paseo Artiistico 10 Year Block Party",
+   "start": "2026-10-10T08:00:00-07:00",
+   "end": "2026-10-10T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Harrison St between 24th St and 23rd St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.753429,
+    -122.411974
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Harrison St from 23rd St to 24th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1593277-2026-10-10T09:00:00-07:00",
+   "title": "Block Party - 47th Ave Annual",
+   "start": "2026-10-10T09:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "47th Ave between Judah St and Kirkham St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.759445,
+    -122.506934
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 47th Ave from Judah St to Kirkham St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1613629-2026-10-10T09:00:00-07:00",
+   "title": "Fleet Week Block Party",
+   "start": "2026-10-10T09:00:00-07:00",
+   "end": "2026-10-10T23:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Steiner St between Chestnut St and Lombard St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.800121,
+    -122.437792
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Steiner St from Lombard St to Chestnut St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1554759-2026-10-10T10:00:00-07:00",
+   "title": "Block Party - Connecticut St 14th Annual",
+   "start": "2026-10-10T10:00:00-07:00",
+   "end": "2026-10-10T17:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Connecticut St between 20th St and 22nd St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.758692,
+    -122.397126
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Connecticut St from 20th St to 22nd St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1556983-2026-10-10T10:00:00-07:00",
+   "title": "Block Party - Brentwood Ave - Westwood Highlands",
+   "start": "2026-10-10T10:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Brentwood Ave between Valdez Ave and Hazelwood Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.734037,
+    -122.456903
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Brentwood Ave from Hazelwood Ave to Valdez Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1544975-2026-10-10T11:00:00-07:00",
+   "title": "Block Party - Beaver Street",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Beaver St between Castro St and Noe St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764994,
+    -122.434287
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Beaver St from Noe St to Castro St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1562922-2026-10-10T11:00:00-07:00",
+   "title": "Block Party - 48th Avenue",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "48th Ave between Lawton St and Kirkham St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.757532,
+    -122.507871
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 48th Ave from Kirkham St to Lawton St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-10-11T06:00:00-07:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-10-11T06:00:00-07:00",
+   "end": "2026-10-11T16:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-10-11T07:00:00-07:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-10-11T07:00:00-07:00",
+   "end": "2026-10-11T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-10-11T07:00:00-07:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-10-11T07:00:00-07:00",
+   "end": "2026-10-11T15:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1608273-2026-10-11T11:00:00-07:00",
+   "title": "It takes a village block party",
+   "start": "2026-10-11T11:00:00-07:00",
+   "end": "2026-10-11T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Laguna St between Golden Gate Ave and Turk St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.780655,
+    -122.42711
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Laguna St from Golden Gate Ave to Turk St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1572113-2026-10-11T12:00:00-07:00",
+   "title": "Block Party - 19th Street - Castro Heights",
+   "start": "2026-10-11T12:00:00-07:00",
+   "end": "2026-10-11T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "19th St between Danvers St and Yukon St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.758916,
+    -122.442583
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 19th St from Yukon St to Danvers St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1580365-2026-10-11T12:00:00-07:00",
+   "title": "Block Party - Sanchez St (Dolores Heights)",
+   "start": "2026-10-11T12:00:00-07:00",
+   "end": "2026-10-11T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Sanchez St between 20th St and Cumberland St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.758355,
+    -122.430306
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Sanchez St from Cumberland St to 20th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1479162-2026-10-12T16:30:00-07:00",
+   "title": "Jane Warner Plaza 4 Events",
+   "start": "2026-10-12T16:30:00-07:00",
+   "end": "2026-10-12T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "17th St between Hartford St and Castro St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.762611,
+    -122.434625
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 17th St from Hartford St to Market St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365550-2026-10-14T13:00:00-07:00",
+   "title": "Castro Farmers' Market 2026",
+   "start": "2026-10-14T13:00:00-07:00",
+   "end": "2026-10-14T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Noe St between Market St and Beaver St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764628,
+    -122.433127
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Noe St from Beaver St to 16th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1389402-2026-10-15T09:00:00-07:00",
+   "title": "Third Thursdays On Ellis 2026",
+   "start": "2026-10-15T09:00:00-07:00",
+   "end": "2026-10-15T23:59:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ellis St between Powell St and Stockton St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.785618,
+    -122.406842
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ellis St from Stockton St to Powell St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1414320-2026-10-15T12:00:00-07:00",
+   "title": "Mission Community Market 2026",
+   "start": "2026-10-15T12:00:00-07:00",
+   "end": "2026-10-15T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Bartlett St between 22nd St and 21st St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.756167,
+    -122.419935
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Bartlett St from 21st St to 22nd St; 22nd St from Mission St to Bartlett St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1603261-2026-10-15T15:00:00-07:00",
+   "title": "Stories That Connect Us",
+   "start": "2026-10-15T15:00:00-07:00",
+   "end": "2026-10-15T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clarion Aly between Mission St and Valencia St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.762984,
+    -122.420586
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clarion Aly from Mission St to Valencia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1453910-2026-10-16T11:00:00-07:00",
+   "title": "Castro Night Market Series 2026",
+   "start": "2026-10-16T11:00:00-07:00",
+   "end": "2026-10-17T01:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "18th St between Castro St and Hartford St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.760922,
+    -122.434452
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 18th St from Hartford St to Castro St; 18th St from Castro St to Collingwood St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-10-17T06:00:00-07:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-10-17T06:00:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1522782-2026-10-17T06:00:00-07:00",
+   "title": "Bearrison Street Fair",
+   "start": "2026-10-17T06:00:00-07:00",
+   "end": "2026-10-17T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Harrison St between 10th St and 13th St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.769777,
+    -122.413216
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Harrison St from 12th St to 13th St; Harrison St from 10th St to 11th St; Harrison St from Norfolk St to 12th St; 11th St from Harrison St to Division St; 12th St from Bernice St to Harrison St; Harrison St from 11th St to Norfolk St; 11th St from Folsom St to Harrison St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1595585-2026-10-17T06:00:00-07:00",
+   "title": "Potrero Hill Festival 2026",
+   "start": "2026-10-17T06:00:00-07:00",
+   "end": "2026-10-17T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "20th St between Missouri St and Wisconsin St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.75988,
+    -122.398699
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 20th St from Arkansas St to Wisconsin St; 20th St from Connecticut St to Arkansas St; Connecticut St from 20th St to 22nd St; 20th St from Missouri St to Connecticut St; Missouri St from 19th St to 20th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-10-17T07:00:00-07:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-10-17T07:00:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-10-17T07:00:00-07:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-10-17T07:00:00-07:00",
+   "end": "2026-10-17T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1483367-2026-10-17T08:00:00-07:00",
+   "title": "UCSF Bay Area Science Festival",
+   "start": "2026-10-17T08:00:00-07:00",
+   "end": "2026-10-17T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "4th St between Nelson Rising Ln and 16th St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.768248,
+    -122.390935
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 4th St from Gene Friend Way to The Feeney Way; 04th St from The Feeney Way to 16th St; 4th St from Nelson Rising Ln to Gene Friend Way",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1596562-2026-10-17T08:00:00-07:00",
+   "title": "St. Cecilia Parish Festival",
+   "start": "2026-10-17T08:00:00-07:00",
+   "end": "2026-10-17T13:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "18th Ave between Ulloa St and Vicente St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.740303,
+    -122.474429
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 18th Ave from Ulloa St to Vicente St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1596335-2026-10-17T09:00:00-07:00",
+   "title": "Ruby's Block Party",
+   "start": "2026-10-17T09:00:00-07:00",
+   "end": "2026-10-17T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "48th Ave between Irving St and Judah St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76126,
+    -122.508133
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 48th Ave from Irving St to Judah St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1533393-2026-10-17T10:00:00-07:00",
+   "title": "Block Party - Surrey Street",
+   "start": "2026-10-17T10:00:00-07:00",
+   "end": "2026-10-17T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Surrey St between Van Buren St and Swiss Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.735847,
+    -122.436909
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Surrey St from Van Buren St to Swiss Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1574423-2026-10-17T11:00:00-07:00",
+   "title": "Block Party – Scott Street Scottober",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T18:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Scott St between Capra Way and Bay St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.80228,
+    -122.441607
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Scott St from Bay St to Capra Way",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1596719-2026-10-17T11:00:00-07:00",
+   "title": "Block Party - Hampshire St",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": "2026-10-17T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hampshire St between 20th St and 21st St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.758505,
+    -122.407847
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hampshire St from 20th St to 21st St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1556338-2026-10-17T12:00:00-07:00",
+   "title": "Block Party - Alabama Street",
+   "start": "2026-10-17T12:00:00-07:00",
+   "end": "2026-10-17T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Alabama St between 23rd St and 24th St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.753486,
+    -122.411041
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Alabama St from 23rd St to 24th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1565516-2026-10-17T12:30:00-07:00",
+   "title": "Block Party - 48th Ave Cozy Corner",
+   "start": "2026-10-17T12:30:00-07:00",
+   "end": "2026-10-17T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "48th Ave between Irving St and Lincoln Way",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.763133,
+    -122.508265
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 48th Ave from Lincoln Way to Irving St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1567428-2026-10-17T14:00:00-07:00",
+   "title": "Block Party - 10th Ave Loma Prieta Earthquake Anniversary",
+   "start": "2026-10-17T14:00:00-07:00",
+   "end": "2026-10-17T21:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "10th Ave between Lake St and California St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.785552,
+    -122.468907
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 10th Ave from Lake St to California St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1573893-2026-10-18T04:00:00-07:00",
+   "title": "Glide Phoenix Day 2026",
+   "start": "2026-10-18T04:00:00-07:00",
+   "end": "2026-10-18T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ellis St between Taylor St and Jones St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.78497,
+    -122.411961
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ellis St from Taylor St to Jones St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-10-18T06:00:00-07:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-10-18T06:00:00-07:00",
+   "end": "2026-10-18T16:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-10-18T07:00:00-07:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-10-18T07:00:00-07:00",
+   "end": "2026-10-18T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-10-18T07:00:00-07:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-10-18T07:00:00-07:00",
+   "end": "2026-10-18T15:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1561959-2026-10-18T07:00:00-07:00",
+   "title": "Piccino's 20th Anniversary",
+   "start": "2026-10-18T07:00:00-07:00",
+   "end": "2026-10-18T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Minnesota St between 22nd St and End: 1000-1099 Block",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.757564,
+    -122.390183
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Minnesota St from 22nd St to End: 1000-1099 Block",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1564574-2026-10-18T07:00:00-07:00",
+   "title": "The PlumpJack Foundation Presents The Balboa Block Party",
+   "start": "2026-10-18T07:00:00-07:00",
+   "end": "2026-10-18T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.798847,
+    -122.43669
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1516551-2026-10-18T09:00:00-07:00",
+   "title": "Sunday Streets Excelsior",
+   "start": "2026-10-18T09:00:00-07:00",
+   "end": "2026-10-18T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Mission St between Theresa St and Geneva Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.718888,
+    -122.439182
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Mission St from Kenny Aly to Italy Ave; Mission St from Russia Ave to Onondaga Ave; Mission St from Onondaga Ave to France Ave; Mission St from France Ave to Kenny Aly; Mission St from Seneca Ave to Amazon Ave; Mission St from Italy Ave to Seneca Ave; Mission St from Francis St to Excelsior Ave; Mission St from San Juan Ave to Ocean Ave; Mission St from Theresa St to Avalon Ave; Ocean Ave from Mission St to Persia Ave; and 12 more",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1588787-2026-10-18T09:00:00-07:00",
+   "title": "Block Party - 7th Avenue (28th Annual)",
+   "start": "2026-10-18T09:00:00-07:00",
+   "end": "2026-10-18T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "07th Ave between California St and Lake St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.78574,
+    -122.465696
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 07th Ave from Lake St to California St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1542226-2026-10-18T09:30:00-07:00",
+   "title": "Block Party - Joost Ave - 13th Annual",
+   "start": "2026-10-18T09:30:00-07:00",
+   "end": "2026-10-18T18:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Joost Ave between Gennessee St and Ridgewood Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.732311,
+    -122.452286
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Joost Ave from Gennessee St to Ridgewood Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498219-2026-10-18T10:00:00-07:00",
+   "title": "Block Party - Wawona Street",
+   "start": "2026-10-18T10:00:00-07:00",
+   "end": "2026-10-18T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Wawona St between Taraval St and Ulloa St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.742449,
+    -122.466261
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Wawona St from Taraval St to Ulloa St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1588592-2026-10-18T11:00:00-07:00",
+   "title": "Block Party - Detroit Street",
+   "start": "2026-10-18T11:00:00-07:00",
+   "end": "2026-10-18T16:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Detroit St between Melrose Ave and Stillings Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.734184,
+    -122.444328
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Detroit St from Melrose Ave to Vista Verde Ct",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365550-2026-10-21T13:00:00-07:00",
+   "title": "Castro Farmers' Market 2026",
+   "start": "2026-10-21T13:00:00-07:00",
+   "end": "2026-10-21T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Noe St between Market St and Beaver St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764628,
+    -122.433127
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Noe St from Beaver St to 16th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1414320-2026-10-22T12:00:00-07:00",
+   "title": "Mission Community Market 2026",
+   "start": "2026-10-22T12:00:00-07:00",
+   "end": "2026-10-22T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Bartlett St between 22nd St and 21st St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.756167,
+    -122.419935
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Bartlett St from 21st St to 22nd St; 22nd St from Mission St to Bartlett St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1592995-2026-10-23T08:00:00-07:00",
+   "title": "Cornhole Tournament",
+   "start": "2026-10-23T08:00:00-07:00",
+   "end": "2026-10-23T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Stockton St between Union St and Filbert St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.800908,
+    -122.409279
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Stockton St from Union St to Filbert St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1516585-2026-10-23T10:00:00-07:00",
+   "title": "Jones St - NBK Halloween Extravaganza",
+   "start": "2026-10-23T10:00:00-07:00",
+   "end": "2026-10-23T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Jones St between Lombard St and Chestnut St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802879,
+    -122.416418
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Jones St from Lombard St to Chestnut St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-10-24T06:00:00-07:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-10-24T06:00:00-07:00",
+   "end": "2026-10-24T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-10-24T07:00:00-07:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-10-24T07:00:00-07:00",
+   "end": "2026-10-24T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-10-24T07:00:00-07:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-10-24T07:00:00-07:00",
+   "end": "2026-10-24T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1579224-2026-10-24T08:00:00-07:00",
+   "title": "Laurel Hill Nursery School 80th Anniversary Celebration",
+   "start": "2026-10-24T08:00:00-07:00",
+   "end": "2026-10-24T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Euclid Ave between Heather Ave and Iris Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.784096,
+    -122.452314
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Euclid Ave from Iris Ave to Heather Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1584544-2026-10-24T08:00:00-07:00",
+   "title": "Block Party - Balboa Terrace Annual Neighborhood Picnic",
+   "start": "2026-10-24T08:00:00-07:00",
+   "end": "2026-10-24T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Junipero Serra Blvd between Darien Way and Monterey Blvd",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.732586,
+    -122.471361
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Junipero Serra Blvd from Monterey Blvd to Darien Way",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1550776-2026-10-24T11:00:00-07:00",
+   "title": "Block Party - Northwood Dr - Westwood Park Annual Meeting",
+   "start": "2026-10-24T11:00:00-07:00",
+   "end": "2026-10-24T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Northwood Dr between Faxon Ave and Pizarro Way",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.729156,
+    -122.459799
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Northwood Dr from Pizarro Way to Kenwood Way",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1556566-2026-10-24T14:15:00-07:00",
+   "title": "Block Party - 23rd Avenue",
+   "start": "2026-10-24T14:15:00-07:00",
+   "end": "2026-10-24T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "23rd Ave between Vicente St and Wawona St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.738201,
+    -122.47966
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 23rd Ave from Vicente St to Wawona St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-10-25T06:00:00-07:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-10-25T06:00:00-07:00",
+   "end": "2026-10-25T16:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-10-25T07:00:00-07:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-10-25T07:00:00-07:00",
+   "end": "2026-10-25T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-10-25T07:00:00-07:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-10-25T07:00:00-07:00",
+   "end": "2026-10-25T15:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1587094-2026-10-25T10:00:00-07:00",
+   "title": "Block Party - 21st Ave",
+   "start": "2026-10-25T10:00:00-07:00",
+   "end": "2026-10-25T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "21st Ave between Judah St and Kirkham St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.760672,
+    -122.479071
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 21st Ave from Judah St to Kirkham St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1591488-2026-10-25T10:00:00-07:00",
+   "title": "Block Party - Day Street",
+   "start": "2026-10-25T10:00:00-07:00",
+   "end": "2026-10-25T18:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Day St between Noe St and Castro St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.742963,
+    -122.432171
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Day St from Noe St to Castro St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1607246-2026-10-25T10:00:00-07:00",
+   "title": "Clarion Alley Block Party",
+   "start": "2026-10-25T10:00:00-07:00",
+   "end": "2026-10-25T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clarion Aly between Mission St and Valencia St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.762984,
+    -122.420586
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clarion Aly from Mission St to Valencia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1572606-2026-10-25T11:00:00-07:00",
+   "title": "Block Party - Gates Street 2026",
+   "start": "2026-10-25T11:00:00-07:00",
+   "end": "2026-10-25T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Gates St between Eugenia Ave and Cortland Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.739624,
+    -122.413931
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Gates St from Eugenia Ave to Cortland Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1565758-2026-10-25T12:00:00-07:00",
+   "title": "Block Party - Alamo Scare",
+   "start": "2026-10-25T12:00:00-07:00",
+   "end": "2026-10-25T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Steiner St between Hayes St and Grove St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776088,
+    -122.432929
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Steiner St from Hayes St to Grove St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1531886-2026-10-28T06:00:00-07:00",
+   "title": "One Way Ventures Summit",
+   "start": "2026-10-28T06:00:00-07:00",
+   "end": "2026-10-28T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Steuart St between Howard St and Mission St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.792618,
+    -122.392414
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Steuart St from Mission St to Howard St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365550-2026-10-28T13:00:00-07:00",
+   "title": "Castro Farmers' Market 2026",
+   "start": "2026-10-28T13:00:00-07:00",
+   "end": "2026-10-28T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Noe St between Market St and Beaver St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764628,
+    -122.433127
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Noe St from Beaver St to 16th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1531886-2026-10-29T06:00:00-07:00",
+   "title": "One Way Ventures Summit",
+   "start": "2026-10-29T06:00:00-07:00",
+   "end": "2026-10-29T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Steuart St between Howard St and Mission St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.792618,
+    -122.392414
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Steuart St from Mission St to Howard St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1414320-2026-10-29T12:00:00-07:00",
+   "title": "Mission Community Market 2026",
+   "start": "2026-10-29T12:00:00-07:00",
+   "end": "2026-10-29T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Bartlett St between 22nd St and 21st St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.756167,
+    -122.419935
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Bartlett St from 21st St to 22nd St; 22nd St from Mission St to Bartlett St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1591567-2026-10-30T17:00:00-07:00",
+   "title": "Block Party - Ada Court Four Corner Friday",
+   "start": "2026-10-30T17:00:00-07:00",
+   "end": "2026-10-30T18:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ada Ct between Ofarrell St and Amity Aly",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.785626,
+    -122.415709
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ada Ct from Ofarrell St to Amity Aly",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-10-31T06:00:00-07:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-10-31T06:00:00-07:00",
+   "end": "2026-10-31T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-10-31T07:00:00-07:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-10-31T07:00:00-07:00",
+   "end": "2026-10-31T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-10-31T07:00:00-07:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-10-31T07:00:00-07:00",
+   "end": "2026-10-31T15:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1503400-2026-10-31T11:00:00-07:00",
+   "title": "Castro Merchants Signature Events - 18th St",
+   "start": "2026-10-31T11:00:00-07:00",
+   "end": "2026-11-01T01:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "18th St between Noe St and Hartford St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.760988,
+    -122.433349
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 18th St from Noe St to Hartford St; 18th St from Collingwood St to Diamond St; 18th St from Hartford St to Castro St; 18th St from Castro St to Collingwood St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1554558-2026-10-31T12:00:00-07:00",
+   "title": "Fillmore After Dark Night Market",
+   "start": "2026-10-31T12:00:00-07:00",
+   "end": "2026-10-31T23:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Steiner St and Fillmore St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1563048-2026-10-31T12:00:00-07:00",
+   "title": "River of Life Halloween Block Party",
+   "start": "2026-10-31T12:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Sunnydale Ave between Hahn St and Sawyer St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.711785,
+    -122.41554
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Sunnydale Ave from Sawyer St to Mrs. Jackson Way",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1584706-2026-10-31T13:00:00-07:00",
+   "title": "Block Party - Hill Street Halloween BBQ",
+   "start": "2026-10-31T13:00:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hill St between Valencia St and Guerrero St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.756036,
+    -122.422128
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hill St from Valencia St to Guerrero St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1544083-2026-10-31T14:30:00-07:00",
+   "title": "Block Party - Cumberland Halloween",
+   "start": "2026-10-31T14:30:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Cumberland St between Dolores St and Guerrero St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.759097,
+    -122.424728
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Cumberland St from Guerrero St to Dolores St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1448732-2026-10-31T15:00:00-07:00",
+   "title": "Trick-or-Treat - Shotwell 2026",
+   "start": "2026-10-31T15:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Shotwell St between 22nd St and 23rd St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.754834,
+    -122.415397
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Shotwell St from 22nd St to 23rd St; Shotwell St from 23rd St to 24th St; Shotwell St from 19th St to 20th St; Shotwell St from 21st St to 22nd St; Shotwell St from 20th St to 21st St; Shotwell St from 18th St to 19th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1555189-2026-10-31T15:00:00-07:00",
+   "title": "Trick or Treat - 42nd Ave",
+   "start": "2026-10-31T15:00:00-07:00",
+   "end": "2026-10-31T22:30:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "42nd Ave between Judah St and Kirkham St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.759681,
+    -122.501573
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 42nd Ave from Judah St to Kirkham St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1571232-2026-10-31T15:00:00-07:00",
+   "title": "Block Party - 36th Ave - 5th Annual Halloween",
+   "start": "2026-10-31T15:00:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "36th Ave between Rivera St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.746908,
+    -122.494232
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 36th Ave from Quintara St to Rivera St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1512044-2026-10-31T16:00:00-07:00",
+   "title": "Trick or Treat - Randall St 2026",
+   "start": "2026-10-31T16:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Randall St between Whitney St and Sanchez St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.73966,
+    -122.427784
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Randall St from Whitney St to Whitney St; Randall St from Whitney St to Sanchez St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1516652-2026-10-31T16:00:00-07:00",
+   "title": "Trick or Treat - Chenery Street",
+   "start": "2026-10-31T16:00:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Chenery St between Diamond St and Elk St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.735543,
+    -122.438449
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Chenery St from Burnside Ave to Mizpah St; Chenery St from Surrey St to Elk St; Chenery St from Diamond St to Thor Ave; Chenery St from Lippard Ave to Chilton Ave; Chenery St from Chilton Ave to Burnside Ave; Chenery St from Brompton Ave to Lippard Ave; Chenery St from Thor Ave to Brompton Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1566357-2026-10-31T16:00:00-07:00",
+   "title": "Block Party - Shrader St Halloween",
+   "start": "2026-10-31T16:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Shrader St between Frederick St and Beulah St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.767055,
+    -122.451391
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Shrader St from Beulah St to Frederick St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1576817-2026-10-31T16:00:00-07:00",
+   "title": "Block Party – 45th Avenue Halloween",
+   "start": "2026-10-31T16:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "45th Ave between Pacheco St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.748349,
+    -122.504008
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 45th Ave from Pacheco St to Quintara St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1580299-2026-10-31T16:00:00-07:00",
+   "title": "Trick or Treat – Randall Street",
+   "start": "2026-10-31T16:00:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Randall St between Harper St and Sanchez St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.740437,
+    -122.429288
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Randall St from Sanchez St to Harper St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1551682-2026-10-31T16:30:00-07:00",
+   "title": "Halloween on Cortland 2026",
+   "start": "2026-10-31T16:30:00-07:00",
+   "end": "2026-10-31T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Cortland Ave between Bennington St and Folsom St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.739153,
+    -122.417459
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Cortland Ave from Bennington St to Wool St; Cortland Ave from Gates St to Folsom St; Cortland Ave from Ellsworth St to Gates St; Cortland Ave from Wool St to Andover St; Cortland Ave from Andover St to Moultrie St; Cortland Ave from Anderson St to Ellsworth St; Cortland Ave from Moultrie St to Anderson St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1568946-2026-10-31T17:00:00-07:00",
+   "title": "Trick or Treat - Sanchez St",
+   "start": "2026-10-31T17:00:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Sanchez St between 30th St and Randall St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.741037,
+    -122.428824
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Sanchez St from 30th St to Randall St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1571979-2026-10-31T17:00:00-07:00",
+   "title": "Vella Family Pumpkins",
+   "start": "2026-10-31T17:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Sussex St between Elk St and Swiss Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.73717,
+    -122.439277
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Sussex St from Mizpah St to Elk St; Sussex St from Swiss Ave to Mizpah St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1578291-2026-10-31T17:00:00-07:00",
+   "title": "Treat or Treat - Waller Street",
+   "start": "2026-10-31T17:00:00-07:00",
+   "end": "2026-10-31T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Waller St between Steiner St and Scott St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.770279,
+    -122.433451
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Pierce St from Start: 1-99 Block to Waller St; Waller St from Carmelita St to Scott St; Waller St from Pierce St to Carmelita St; Waller St from Steiner St to Potomac St; Pierce St from Waller St to Haight St; Potomac St from Start: 1-99 Block to Waller St; Waller St from Potomac St to Pierce St; Carmelita St from Start: 1-99 Block to Waller St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1545844-2026-10-31T17:30:00-07:00",
+   "title": "Trick-or-Treat - Dellbrook Ave",
+   "start": "2026-10-31T17:30:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Dellbrook Ave between Olympia Way and Olympia Way",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.75028,
+    -122.453003
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Dellbrook Ave from Starview Way to Olympia Way; Dellbrook Ave from Olympia Way to Starview Way",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-11-01T06:00:00-08:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-11-01T06:00:00-08:00",
+   "end": "2026-11-01T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-11-01T07:00:00-08:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-11-01T07:00:00-08:00",
+   "end": "2026-11-01T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-11-01T07:00:00-08:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-11-01T07:00:00-08:00",
+   "end": "2026-11-01T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1600162-2026-11-01T11:00:00-08:00",
+   "title": "Block Party -17th Ave",
+   "start": "2026-11-01T11:00:00-08:00",
+   "end": "2026-11-01T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "17th Ave between Vicente St and Wawona St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.738484,
+    -122.473227
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 17th Ave from Vicente St to Wawona St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365550-2026-11-04T13:00:00-08:00",
+   "title": "Castro Farmers' Market 2026",
+   "start": "2026-11-04T13:00:00-08:00",
+   "end": "2026-11-04T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Noe St between Market St and Beaver St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764628,
+    -122.433127
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Noe St from Beaver St to 16th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1414320-2026-11-05T12:00:00-08:00",
+   "title": "Mission Community Market 2026",
+   "start": "2026-11-05T12:00:00-08:00",
+   "end": "2026-11-05T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Bartlett St between 22nd St and 21st St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.756167,
+    -122.419935
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Bartlett St from 21st St to 22nd St; 22nd St from Mission St to Bartlett St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-11-07T06:00:00-08:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-11-07T06:00:00-08:00",
+   "end": "2026-11-07T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1568226-2026-11-07T06:00:00-08:00",
+   "title": "2026 CCA Art & Crafts Fair",
+   "start": "2026-11-07T06:00:00-08:00",
+   "end": "2026-11-07T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "8th St between Carolina St and 16th St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.767567,
+    -122.39855
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irwin St from 07th St to Wisconsin St; 08th St from Carolina St to Hooper St; 8th St from Wisconsin St to 16th St; 8th St from Hooper St to Wisconsin St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-11-07T07:00:00-08:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-11-07T07:00:00-08:00",
+   "end": "2026-11-07T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-11-07T07:00:00-08:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-11-07T07:00:00-08:00",
+   "end": "2026-11-07T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1547279-2026-11-07T07:00:00-08:00",
+   "title": "Playmates Preschool Harvest Festival",
+   "start": "2026-11-07T07:00:00-08:00",
+   "end": "2026-11-07T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "42nd Ave between Santiago St and Taraval St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.742895,
+    -122.500398
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 42nd Ave from Santiago St to Taraval St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-11-08T06:00:00-08:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-11-08T06:00:00-08:00",
+   "end": "2026-11-08T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1435122-2026-11-08T06:00:00-08:00",
+   "title": "Head West Marketplace",
+   "start": "2026-11-08T06:00:00-08:00",
+   "end": "2026-11-08T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Octavia St between Fell St and Hayes St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.775512,
+    -122.424356
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Octavia St from Hickory St to Fell St; Octavia St from Linden St to Hayes St; Linden St from Gough St to Octavia St; Octavia St from Fell St to Linden St; Hayes St from Gough St to Octavia St; Octavia St from Oak St to Fell St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-11-08T07:00:00-08:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-11-08T07:00:00-08:00",
+   "end": "2026-11-08T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-11-08T07:00:00-08:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-11-08T07:00:00-08:00",
+   "end": "2026-11-08T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1577249-2026-11-08T09:00:00-08:00",
+   "title": "Block Party - Precita Avenue",
+   "start": "2026-11-08T09:00:00-08:00",
+   "end": "2026-11-08T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Precita Ave between Alabama St and Florida St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.747454,
+    -122.410033
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Precita Ave from Alabama St to Florida St; Precita Ave from Folsom St to Treat Ave; Precita Ave from Harrison St to Alabama St; Precita Ave from Treat Ave to Harrison St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365550-2026-11-11T13:00:00-08:00",
+   "title": "Castro Farmers' Market 2026",
+   "start": "2026-11-11T13:00:00-08:00",
+   "end": "2026-11-11T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Noe St between Market St and Beaver St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764628,
+    -122.433127
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Noe St from Beaver St to 16th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1414320-2026-11-12T12:00:00-08:00",
+   "title": "Mission Community Market 2026",
+   "start": "2026-11-12T12:00:00-08:00",
+   "end": "2026-11-12T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Bartlett St between 22nd St and 21st St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.756167,
+    -122.419935
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Bartlett St from 21st St to 22nd St; 22nd St from Mission St to Bartlett St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-11-14T06:00:00-08:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-11-14T06:00:00-08:00",
+   "end": "2026-11-14T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-11-14T07:00:00-08:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-11-14T07:00:00-08:00",
+   "end": "2026-11-14T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-11-14T07:00:00-08:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-11-14T07:00:00-08:00",
+   "end": "2026-11-14T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-11-15T06:00:00-08:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-11-15T06:00:00-08:00",
+   "end": "2026-11-15T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-11-15T07:00:00-08:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-11-15T07:00:00-08:00",
+   "end": "2026-11-15T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-11-15T07:00:00-08:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-11-15T07:00:00-08:00",
+   "end": "2026-11-15T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365550-2026-11-18T13:00:00-08:00",
+   "title": "Castro Farmers' Market 2026",
+   "start": "2026-11-18T13:00:00-08:00",
+   "end": "2026-11-18T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Noe St between Market St and Beaver St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.764628,
+    -122.433127
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Noe St from Beaver St to 16th St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1389402-2026-11-19T09:00:00-08:00",
+   "title": "Third Thursdays On Ellis 2026",
+   "start": "2026-11-19T09:00:00-08:00",
+   "end": "2026-11-19T23:59:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ellis St between Powell St and Stockton St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.785618,
+    -122.406842
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ellis St from Stockton St to Powell St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-11-21T06:00:00-08:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-11-21T06:00:00-08:00",
+   "end": "2026-11-21T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-11-21T07:00:00-08:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-11-21T07:00:00-08:00",
+   "end": "2026-11-21T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-11-21T07:00:00-08:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-11-21T07:00:00-08:00",
+   "end": "2026-11-21T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-11-22T06:00:00-08:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-11-22T06:00:00-08:00",
+   "end": "2026-11-22T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-11-22T07:00:00-08:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-11-22T07:00:00-08:00",
+   "end": "2026-11-22T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-11-22T07:00:00-08:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-11-22T07:00:00-08:00",
+   "end": "2026-11-22T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1591567-2026-11-27T17:00:00-08:00",
+   "title": "Block Party - Ada Court Four Corner Friday",
+   "start": "2026-11-27T17:00:00-08:00",
+   "end": "2026-11-27T18:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ada Ct between Ofarrell St and Amity Aly",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.785626,
+    -122.415709
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ada Ct from Ofarrell St to Amity Aly",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-11-28T06:00:00-08:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-11-28T06:00:00-08:00",
+   "end": "2026-11-28T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-11-28T07:00:00-08:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-11-28T07:00:00-08:00",
+   "end": "2026-11-28T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-11-28T07:00:00-08:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-11-28T07:00:00-08:00",
+   "end": "2026-11-28T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-11-29T06:00:00-08:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-11-29T06:00:00-08:00",
+   "end": "2026-11-29T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-11-29T07:00:00-08:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-11-29T07:00:00-08:00",
+   "end": "2026-11-29T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-11-29T07:00:00-08:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-11-29T07:00:00-08:00",
+   "end": "2026-11-29T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1429598-2026-12-05T06:00:00-08:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2026-12-05T06:00:00-08:00",
+   "end": "2026-12-05T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365558-2026-12-05T07:00:00-08:00",
+   "title": "Fillmore Farmers' Market 2026",
+   "start": "2026-12-05T07:00:00-08:00",
+   "end": "2026-12-05T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2026-12-05T07:00:00-08:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2026-12-05T07:00:00-08:00",
+   "end": "2026-12-05T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1564128-2026-12-05T07:00:00-08:00",
+   "title": "Winterfest",
+   "start": "2026-12-05T07:00:00-08:00",
+   "end": "2026-12-05T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Broadway between Webster St and Buchanan St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.794579,
+    -122.432454
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Broadway from Buchanan St to Webster St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
    "source": "sfciviccenter",
    "source_id": "5d341c0fb291bcce",
    "title": "Keepin' It Safe in the City",
@@ -82811,6 +87071,7 @@
    }
   },
   "sf-city-hall-lights": {},
+  "sf-street-events": {},
   "sfciviccenter": {},
   "sfrecpark-bandshell": {},
   "sfrecpark-civic-center": {},
@@ -83734,9 +87995,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17228426@sf-cal": {
-   "content_hash": "9e0e1dd51602b4c9a292c405a79bd5b6a219479e9906559260fd66658f5f29ca",
-   "sequence": 1,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
+   "content_hash": "60cb2fab9ff580c6077f74cd1b8bb53d10c0f97a0738c9df975c8533c850717e",
+   "sequence": 2,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
   },
   "dothebay-17234006@sf-cal": {
    "content_hash": "24efd5e10f775b350ce869eec763a862afaf2078d737ee98fd05a28a8c7255b4",
@@ -85079,9 +89340,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17574001@sf-cal": {
-   "content_hash": "d2da1706cca81ef0907e67d8a0b22dfac5148392f5b69b82d62efaf24d81f4ff",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "edb0971fc921db8a586d5f88fb3b3ef999caad08cfbaa34350e5c606442b92a1",
+   "sequence": 1,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
   },
   "dothebay-17576420@sf-cal": {
    "content_hash": "ed42c1867e5b59b869a3b692f94b8775e5912b8fea6a43189d780aa1cf15b6da",
@@ -89199,9 +93460,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17926021@sf-cal": {
-   "content_hash": "c9f7ebad182601ed0cca3077ebf04a276e097b1708d998255e4cad5a0b2e10da",
-   "sequence": 2,
-   "last_modified": "2026-10-06T17:22:18.408093Z"
+   "content_hash": "8a7fa26246d641cb1ed44fe1cadef1b020c118fe74994830cf4a4c579bfaf484",
+   "sequence": 3,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
   },
   "dothebay-17926207@sf-cal": {
    "content_hash": "40b06e2953fb6988ec839da5c07cbc8886f995fbb90f3539b30fe66d566ecb8f",
@@ -93032,6 +97293,701 @@
    "content_hash": "ff0f20847522ea2447fd7ea0550afb1b78b0d82b27ae9c564c237ca9f26a9088",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
+  },
+  "sf-street-events-1365550-2026-10-07T13:00:00-07:00@sf-cal": {
+   "content_hash": "bdc76badac5efebf945f70cbe8eb6c8e3fc499a6163208abc52a13f609f89e16",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365550-2026-10-14T13:00:00-07:00@sf-cal": {
+   "content_hash": "65dec7042120e3649b7895a751c03b6b5601fa2fc7c57f6f262e0a684850b408",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365550-2026-10-21T13:00:00-07:00@sf-cal": {
+   "content_hash": "d855cd08a1e5d0fdc877d57ac182f29a42700a3d3175cbab291719feeab5533d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365550-2026-10-28T13:00:00-07:00@sf-cal": {
+   "content_hash": "58f503e222790807dff83832ec3bfd9bb907cb128d54a4bfe7714d0450299868",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365550-2026-11-04T13:00:00-08:00@sf-cal": {
+   "content_hash": "85c5ed5e72034c7bb516ab34574c207b1749a5a6dd77ffcf55d0817026816724",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365550-2026-11-11T13:00:00-08:00@sf-cal": {
+   "content_hash": "385f7e0e43029cfba9cd771fba48aee4414e81ef479b116ad61c9eb54bc6cbff",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365550-2026-11-18T13:00:00-08:00@sf-cal": {
+   "content_hash": "ee1605f4a4ad47db06b38ffaba18fa309b4b16ecb8eb253a29892d4727e970be",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-10-10T07:00:00-07:00@sf-cal": {
+   "content_hash": "ab8f6969f2661dec3d0dda5e1e28400413725be2c95461b4df041cd0850506c1",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-10-17T07:00:00-07:00@sf-cal": {
+   "content_hash": "7e10b0a4179b8568917406ff23f2f1503002355f1dc8679fbaa29279bf1e0dd7",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-10-24T07:00:00-07:00@sf-cal": {
+   "content_hash": "269a81cadd8ce7d3273f3f9cc46a5a22182268b3d1aed7822b8cf46796ad78c6",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-10-31T07:00:00-07:00@sf-cal": {
+   "content_hash": "b7eb4a700096fe29412dee16d3f4983fda125fea7737d1ce59fcbd4c4ec4595c",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-11-07T07:00:00-08:00@sf-cal": {
+   "content_hash": "1e7aa98c759190aff0df59a3323b7090d79bc7c16ea0623610ea08d8a27b19af",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-11-14T07:00:00-08:00@sf-cal": {
+   "content_hash": "bfd8cfe6f71d862a867f7de004dea2c82aa33d2682522cf7bcc08bb207cdac03",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-11-21T07:00:00-08:00@sf-cal": {
+   "content_hash": "09973879cb6198ba80521c0b08899a3b17689870a6d25c659d14171be92447d2",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-11-28T07:00:00-08:00@sf-cal": {
+   "content_hash": "40f5617b194c485bdcaec2eb1cdd88f01c67c9006caa7ab2e994cb779f016c5c",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365558-2026-12-05T07:00:00-08:00@sf-cal": {
+   "content_hash": "ae8df4ab97f937c6e5a6eebe2fbdbe9156cd277a1b2f94f7cc808f773cda234d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-10-11T07:00:00-07:00@sf-cal": {
+   "content_hash": "6094164ebbeb8887d740962f0edb587daa811a2d94ea6d3ba31bd3d9f180be55",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-10-18T07:00:00-07:00@sf-cal": {
+   "content_hash": "f8f4636390e13479f562b853711e781eb66634eec22c7fa5e0170921f2699ccb",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-10-25T07:00:00-07:00@sf-cal": {
+   "content_hash": "b80387f490ba2f4da129e6fa92533701de4abe4a403fada74dd08ea39fa6906d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-11-01T07:00:00-08:00@sf-cal": {
+   "content_hash": "9f1847450b5bed54445e06a35ce8d881a12a6875688e296784dc886f888ea157",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-11-08T07:00:00-08:00@sf-cal": {
+   "content_hash": "d8f3ed7342fdd5fa79f3693319bc5868b8c2dad88216a1eb2c11f315c05a7314",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-11-15T07:00:00-08:00@sf-cal": {
+   "content_hash": "4256b7decf3b40dd4be1a8301f1fc6eddc735b8216488cd12c9ac369df2c62ee",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-11-22T07:00:00-08:00@sf-cal": {
+   "content_hash": "c99d3cde20497987c17baed964b06ab62ee532eaec50710b3ebe0cd9f8712940",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1365573-2026-11-29T07:00:00-08:00@sf-cal": {
+   "content_hash": "6194b286a41d5a38940222984a490598cd41765b3109ec6d12f9a37b8fa030e7",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1389402-2026-10-15T09:00:00-07:00@sf-cal": {
+   "content_hash": "11ff50cd246cbef091268c047640f4094ff3e8f25baf2c86d5012ed706645efb",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1389402-2026-11-19T09:00:00-08:00@sf-cal": {
+   "content_hash": "3c9050b068372c1143bbafccc9e0d3e5ad073c2640c6e3cf5f6d6913613206d2",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1414320-2026-10-08T12:00:00-07:00@sf-cal": {
+   "content_hash": "5da3781e432def47d8f777fbc7d3dfc8a945a3b486df3d870cc98c52d8ccb192",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1414320-2026-10-15T12:00:00-07:00@sf-cal": {
+   "content_hash": "fdb23b930f42bd500eb30db691eb61ead7a80ee1ac0ca1cf265706561c47d789",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1414320-2026-10-22T12:00:00-07:00@sf-cal": {
+   "content_hash": "72dcf2462e0a01510ccfc16409630dec0b2b09c1aec6bfdd506d7461cce4017d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1414320-2026-10-29T12:00:00-07:00@sf-cal": {
+   "content_hash": "a7ebbc9102675558fc0331d3a6884b8643848b75ad19be560aad8216816a82c5",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1414320-2026-11-05T12:00:00-08:00@sf-cal": {
+   "content_hash": "ae135e114ed4fe4eda3a6ba7820033a3dd802f4ac5f058e569b60c8f4083d6bc",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1414320-2026-11-12T12:00:00-08:00@sf-cal": {
+   "content_hash": "a7f4ec0396038f6ca45594a4a823a5b6aa5d1960834c557a7857d74e6d499e04",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-10-11T06:00:00-07:00@sf-cal": {
+   "content_hash": "9899e41fff449eeefa0abe9a54cbaa085b3ff746587cd9550cb8874d64668c5d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-10-18T06:00:00-07:00@sf-cal": {
+   "content_hash": "27032f5dac285fdb428f9c7512e3ccdf3913873f298d7ff9f5e8ebaa42a34867",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-10-25T06:00:00-07:00@sf-cal": {
+   "content_hash": "176bc213b79dc393c09b6c06348c5208ac6ca3e554a416d0f19d9af71804d39e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-11-01T06:00:00-08:00@sf-cal": {
+   "content_hash": "a7c78bf0e85e954e2230c343212c8a43764ae5817bd20ed6e125c5a7b33a23a9",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-11-08T06:00:00-08:00@sf-cal": {
+   "content_hash": "6eff327006303b4435da3cbc424d4b6ea6c18d4283332d91d5c9d2ed4b70d900",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-11-15T06:00:00-08:00@sf-cal": {
+   "content_hash": "db8aedab9013b63ad036449c55aea4ea437cd8c42c0ce25cc92d2dec7949ab42",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-11-22T06:00:00-08:00@sf-cal": {
+   "content_hash": "8951f4e490bb36a75cb776272f747e517c3e1e4cbcdfc40d73396e973f578d12",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1419904-2026-11-29T06:00:00-08:00@sf-cal": {
+   "content_hash": "9d57fe03f56eb86a878ca5ed8bc5527e93ebdf7ad8a8ff98f754acce3ba3c203",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-10-10T06:00:00-07:00@sf-cal": {
+   "content_hash": "551b90674d0d2b713b817268bf0f774982babc0526e3293cb506bed62dc4fc43",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-10-17T06:00:00-07:00@sf-cal": {
+   "content_hash": "824eff453ac64cf91d187575f10ebb181e0f1c10b5a0e87dbd7eb852b67723c0",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-10-24T06:00:00-07:00@sf-cal": {
+   "content_hash": "ecb97fef31c50a67facf941d6bac13061a5b717d6160ac51b185dd3f7ab66b1e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-10-31T06:00:00-07:00@sf-cal": {
+   "content_hash": "dc7e45c836b7d642f8c62f3495a03915d8a9f26d95cac247671c1991af64d6af",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-11-07T06:00:00-08:00@sf-cal": {
+   "content_hash": "129174c75e4b68974371277a471b3e7e4998c4782924a18afb65790e86bb8006",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-11-14T06:00:00-08:00@sf-cal": {
+   "content_hash": "e41aa82716158db31b60efbfba5fe2044e884ff95516b6019e7f86b7f8aa431f",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-11-21T06:00:00-08:00@sf-cal": {
+   "content_hash": "523c20f9019703b376d050f1ec2206b49749f45c289885f64b44c2f89c57a46e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-11-28T06:00:00-08:00@sf-cal": {
+   "content_hash": "efc79f33c73d774128876fa5fb16fa5facab5f1700d052bdec1537fb026235fa",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1429598-2026-12-05T06:00:00-08:00@sf-cal": {
+   "content_hash": "61052cc413d50364f5389a9f8e3841c487bc27315ecb8fd1681c3ddb1c0c1cc9",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1435122-2026-11-08T06:00:00-08:00@sf-cal": {
+   "content_hash": "b9c052a532a2ba01324b6b2c6c2930ec1e75387d493718aebd76d7ec1213d965",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1448732-2026-10-31T15:00:00-07:00@sf-cal": {
+   "content_hash": "f7574bf82341269155caa247201ed5d668caaac4a1c56b25cba08710dec129d5",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1453910-2026-10-16T11:00:00-07:00@sf-cal": {
+   "content_hash": "5589b641803dd58902fef2a765212091c6a16fd6d84566682d6851a0cbfc484a",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1479162-2026-10-12T16:30:00-07:00@sf-cal": {
+   "content_hash": "b98ec982970674d6ada7e8891ff5562a621e30035f1fe8292a55d5cf65fbb999",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1483367-2026-10-17T08:00:00-07:00@sf-cal": {
+   "content_hash": "f194a2c6597cf58d2c1d935bd99dd78fddca2859953454f3bb855ecdcfa1cbdf",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1485643-2026-10-09T08:00:00-07:00@sf-cal": {
+   "content_hash": "9cf2a8a884ea61fd718f3f1319f98243bf721285d69d0af7567a20b085c9799c",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-10-10T07:00:00-07:00@sf-cal": {
+   "content_hash": "d6f0edae5626492a09569827f1046e526f9745de4fad2d93b60c99c6828c49f3",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-10-17T07:00:00-07:00@sf-cal": {
+   "content_hash": "f1cafc7d20872e22ea25fe24152d8c9337e6e920ca9e0ffb27382bc748d32380",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-10-24T07:00:00-07:00@sf-cal": {
+   "content_hash": "c62d4d7db8f3e11d1a889d6124ca4041c70ef420d221fd13f90f3c2844eeabe4",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-10-31T07:00:00-07:00@sf-cal": {
+   "content_hash": "976e7b1df73e73b4721725df95aa637674cda76d77665b985bda09d969b8e550",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-11-07T07:00:00-08:00@sf-cal": {
+   "content_hash": "477fd7b8658f0e098b24dbadcd415b49ced7a67ab91976c85c9bcfca32a0713e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-11-14T07:00:00-08:00@sf-cal": {
+   "content_hash": "525ed4b2db6986e737d10c76f9133376f684c948bc57f98f427f7222594f4fb5",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-11-21T07:00:00-08:00@sf-cal": {
+   "content_hash": "59cc3b5c141ab963e6f44d28eba086e5ac27a4e466c7f022cf10eeffd03f0814",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-11-28T07:00:00-08:00@sf-cal": {
+   "content_hash": "b25d2ff34141e57314acb349e48955a186184db5dfb9e1224d1fcb5cbd227c15",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1493851-2026-12-05T07:00:00-08:00@sf-cal": {
+   "content_hash": "33bca270eb44c4075999feeb06f2e3cc59e7ad8531a57d411e64199f5ae9cff5",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498219-2026-10-18T10:00:00-07:00@sf-cal": {
+   "content_hash": "76365f6b0ffa661917a49f115def826c1b5a02199a011b9ab23fd192bfa965f6",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-10-11T07:00:00-07:00@sf-cal": {
+   "content_hash": "8d8bd913f2424e25beb2968d2ce7c9f8705c99ea5508d6622cd3b1791bd659fa",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-10-18T07:00:00-07:00@sf-cal": {
+   "content_hash": "380efee74f83829aeecd07e8d3b9bfa2b0574e91696aa15356a7281b06f5e454",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-10-25T07:00:00-07:00@sf-cal": {
+   "content_hash": "83a3d437b32a8c6c33e253046819aa74bd30c33ecee8dcd464c495e35240851e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-11-01T07:00:00-08:00@sf-cal": {
+   "content_hash": "9dc1975a997cf3798c194eafba12a84b141097dd3d426e1ac4613c1734a29cd2",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-11-08T07:00:00-08:00@sf-cal": {
+   "content_hash": "e9d522836eda2f7859e76b9ed52fc1b76a8ff967a9d2aae1d30a1f55f2aa073f",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-11-15T07:00:00-08:00@sf-cal": {
+   "content_hash": "9f86bc3ca3d504fc22c860129218251ea85c96b7b73381a3b5050f4df7ad7998",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-11-22T07:00:00-08:00@sf-cal": {
+   "content_hash": "a20de87d646ef10b2f2818e5699b15e661c896c2100b98f63abca2c7da4bd6ea",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1498354-2026-11-29T07:00:00-08:00@sf-cal": {
+   "content_hash": "d2a9f245bfc546b604132d113e5eddfbdba6e04c76ec7822e0aba947e2c5ea36",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1503400-2026-10-31T11:00:00-07:00@sf-cal": {
+   "content_hash": "b082a992a84e4a63fa8b0c88f826a62ecb27c4b30218c94641841653d6643461",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1512044-2026-10-31T16:00:00-07:00@sf-cal": {
+   "content_hash": "b75c8e0c52730aab0664e89931ff60c210cc0da766a686bdd120da2a7525d192",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1516585-2026-10-23T10:00:00-07:00@sf-cal": {
+   "content_hash": "5e531c7d7ebffd997a216e7e33839e952ed44217db9740baac55a431d0cb9dc2",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1516652-2026-10-31T16:00:00-07:00@sf-cal": {
+   "content_hash": "5d591461b5ed75c07a70fdeba15fb42babfaf2a1afc6f2ad771ff2e7b8a4e503",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1522782-2026-10-17T06:00:00-07:00@sf-cal": {
+   "content_hash": "9915c2a11fb20d44452c6b325c58d77d7f8545e994e1b3f9d208039bd1efe4a9",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1531886-2026-10-28T06:00:00-07:00@sf-cal": {
+   "content_hash": "a509c959ccc5b3af299da53816d93ee959fd26e29e2da60a758ceb4d774fd59e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1531886-2026-10-29T06:00:00-07:00@sf-cal": {
+   "content_hash": "4519a75d2105d2986ded9ab271dd7d7fa9de4307ae08fa14af85ced2edda89c9",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1533393-2026-10-17T10:00:00-07:00@sf-cal": {
+   "content_hash": "88fa1013bab437589c5fc279ef76247d2e2ca88c339b22b517caed5fbc50f2eb",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1542226-2026-10-18T09:30:00-07:00@sf-cal": {
+   "content_hash": "adec3dd7b802f3c87c883c867ff62c654cdb6ddbce8f2a6dedba70e67f7f56c0",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1544083-2026-10-31T14:30:00-07:00@sf-cal": {
+   "content_hash": "220f57a45f6cdedc4374f0844fbb703abd911816eb9a34ca8adf4c2eeef65a69",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1544975-2026-10-10T11:00:00-07:00@sf-cal": {
+   "content_hash": "2e08b578f01ee742b2fa8a564d5a71641a0e6c96c11617a8ed2875b10473a485",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1545844-2026-10-31T17:30:00-07:00@sf-cal": {
+   "content_hash": "443daaf4c252b10844a94e860e0ea2b69ce9dc91f642206c304c5413891cecf8",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1547279-2026-11-07T07:00:00-08:00@sf-cal": {
+   "content_hash": "b2a281c2588d76d248065d43d111cfc929986b9c3efa5941c718cb9113f97535",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1550776-2026-10-24T11:00:00-07:00@sf-cal": {
+   "content_hash": "d7b383c1181bceae007896902e4ab1aeb5662953dbdbc193aae4caec8d61d577",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1551682-2026-10-31T16:30:00-07:00@sf-cal": {
+   "content_hash": "477b0b93afb7f9d869fc4c45aa652aafab174fb45c0898b4302674a6e63a438d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1554558-2026-10-31T12:00:00-07:00@sf-cal": {
+   "content_hash": "edc0dbb629067d2283f8b70901056440d3a1afdb47df4b2149c8125e01239133",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1554759-2026-10-10T10:00:00-07:00@sf-cal": {
+   "content_hash": "f269f1cb3f42ee3f8bbf6314fb9cdd9d0874d1344b20e7069adbdbf448f793f1",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1555189-2026-10-31T15:00:00-07:00@sf-cal": {
+   "content_hash": "b476a233f931c45e8594cfe9cb0f273de36d98d1c1080bcc78bf0b9ab415ae83",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1556566-2026-10-24T14:15:00-07:00@sf-cal": {
+   "content_hash": "bc985a99a4f2b20d83e1269a34880a8a9fd203161708362c8e70e0777a3f71de",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1556983-2026-10-10T10:00:00-07:00@sf-cal": {
+   "content_hash": "199725283f4e51ee5442e1248ee2a3e63fea4821351082fe73a528c8b45bb46b",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1561959-2026-10-18T07:00:00-07:00@sf-cal": {
+   "content_hash": "dd4be386d367aa388f7fab12358f60c92ab2fc755f5c948a42a2198c02fe4854",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1562922-2026-10-10T11:00:00-07:00@sf-cal": {
+   "content_hash": "a6ec9afe07cb3a36fc4d37d6f61db28b6dec2202b4978606ec950cc04f2b5751",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1563048-2026-10-31T12:00:00-07:00@sf-cal": {
+   "content_hash": "06db1d265d033b808008795f750a256f2b70f86e2a1dd14d0bd7520342fc7df5",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1564128-2026-12-05T07:00:00-08:00@sf-cal": {
+   "content_hash": "be76303dfc280548ed74d9fdd6a307b296b7dfaf2fb8607425dd440dba8c93b0",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1564574-2026-10-18T07:00:00-07:00@sf-cal": {
+   "content_hash": "f3c0be02d98fcf287e890756d8fee4b1fbb30255d5c42afcb2f0a8b7ac1779fc",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1565516-2026-10-17T12:30:00-07:00@sf-cal": {
+   "content_hash": "c8e1518a5019bdda05319d0aef72f119aa96d0da3ca7291a8a922493a2376075",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1565758-2026-10-25T12:00:00-07:00@sf-cal": {
+   "content_hash": "7e4b48f4f53b5b12f69fbaafcccb421a43d2c168b2a54495d313f1c71fd0da73",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1566357-2026-10-31T16:00:00-07:00@sf-cal": {
+   "content_hash": "e3ba529a396431a2bf7aa1ded490db7c4827fd48a1a0d15393e985534b8d4295",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1567428-2026-10-17T14:00:00-07:00@sf-cal": {
+   "content_hash": "66a86c5685dd580cdf04a2b644239e4db13132ec1b3c4afa04a747a11c6e4982",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1568226-2026-11-07T06:00:00-08:00@sf-cal": {
+   "content_hash": "c97701a67eafbd2e03024bafcd4cfd410bcf7f2a87780e2c6385a0cdbe51361e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1568946-2026-10-31T17:00:00-07:00@sf-cal": {
+   "content_hash": "a18613dde7911674557427b1952b79d272e2f69f2959d3347718ed48c7dbf91c",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1571232-2026-10-31T15:00:00-07:00@sf-cal": {
+   "content_hash": "8e1f7d3f5960f48a38c18a29ead6495250a5627d93cea4d11a65b4b4347139da",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1571979-2026-10-31T17:00:00-07:00@sf-cal": {
+   "content_hash": "db42aeb36b849f560d83233d2fda923ca6c25b00eb4434ed738b9c33683f2506",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1572113-2026-10-11T12:00:00-07:00@sf-cal": {
+   "content_hash": "944e786cdfdef01e2f08171e94f82101807a77f73c41a3d6b911885add33e213",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1572606-2026-10-25T11:00:00-07:00@sf-cal": {
+   "content_hash": "52c05a9ef20e375e64243b6c1b9b00cbc72b1b1ed9197423b68d28333252ea98",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1573893-2026-10-18T04:00:00-07:00@sf-cal": {
+   "content_hash": "66e04cf5f83979ce8da15bb67a2cb76b453d04df00ab61e3f759573806ce5b81",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1574423-2026-10-17T11:00:00-07:00@sf-cal": {
+   "content_hash": "9cca9b8d92ce69ee832e4fa13f793fe682c622a9f248e0b66852cc90c4ff5a6b",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1576817-2026-10-31T16:00:00-07:00@sf-cal": {
+   "content_hash": "3037e7ac1cf6812c39db330c60043de0a299ad95d2d1e938a298b65230683d5e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1577249-2026-11-08T09:00:00-08:00@sf-cal": {
+   "content_hash": "2eef60d1c651656a93a92006d35db236394ac4673cee0b5d2b820e19cbf429b6",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1578291-2026-10-31T17:00:00-07:00@sf-cal": {
+   "content_hash": "b38c542c8f05da001d6b851febf1795fb1310aa5b6230f7931f67b4c14d7de0c",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1579224-2026-10-24T08:00:00-07:00@sf-cal": {
+   "content_hash": "a2f8d9092075b79fc748c7b731edb64c6d5f92cb2fdec44be76a5f01157faf0f",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1580299-2026-10-31T16:00:00-07:00@sf-cal": {
+   "content_hash": "43a39a365507329bd805cf4eaf2348b6c235e0d583a0c95f02890530c0289df7",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1580365-2026-10-11T12:00:00-07:00@sf-cal": {
+   "content_hash": "10826f06841649183cab7ef0f9607e6e08031953a9799ddd437682db241775d3",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1583261-2026-10-10T08:00:00-07:00@sf-cal": {
+   "content_hash": "4af5df04640d061df516e985fbc934157b65c3ba8ec4799ed794188e315526f5",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1584544-2026-10-24T08:00:00-07:00@sf-cal": {
+   "content_hash": "867fb9c58f3bce118141308dfcdc92f0b41a16f32893ee96f7b6993a2ec3aa42",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1584706-2026-10-31T13:00:00-07:00@sf-cal": {
+   "content_hash": "49f2471f2c451898aa197b012ef573930d6d4c417aac23ce0cd9e107c451045b",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1587094-2026-10-25T10:00:00-07:00@sf-cal": {
+   "content_hash": "3061efaa2a07e68fd6e95a1a59522607036c34afeb1e05c2ce812d0d0b4b3673",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1588592-2026-10-18T11:00:00-07:00@sf-cal": {
+   "content_hash": "e9219d900609c8b878293bf95259ba2a496bd524a6f3432bb67d8aaf5af5a5ca",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1588787-2026-10-18T09:00:00-07:00@sf-cal": {
+   "content_hash": "4d8a5f801f1731a9de11cef8f82e11e83fbeac10d2b51551c67bc17a87639b81",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1591355-2026-10-07T15:00:00-07:00@sf-cal": {
+   "content_hash": "136a07216bdd8545ad92c80aab0d7f7af9c6f9a12582c8a3508faf47dee2c9b9",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1591488-2026-10-25T10:00:00-07:00@sf-cal": {
+   "content_hash": "8649164369dc89407e43ddeb314b3b798d84be60ace75df3fd44e1231da059d3",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1591567-2026-10-30T17:00:00-07:00@sf-cal": {
+   "content_hash": "f6a4aae6a578a3238383ccde25acd0062a07bd912486bd9cb0cf094766593c9b",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1591567-2026-11-27T17:00:00-08:00@sf-cal": {
+   "content_hash": "8f3ba0a8bef8b793748fec40f21d751f44f17ff2a620628ee6fe59cd3d76db70",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1592995-2026-10-23T08:00:00-07:00@sf-cal": {
+   "content_hash": "e2a47991ffb309380bf426239cfd0a4d135a1c5b65a61f137effe6e888deb7d7",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1593277-2026-10-10T09:00:00-07:00@sf-cal": {
+   "content_hash": "06b8d29ffae2df944ca5b269ffca3796a38ac096c370da787ba406b4ab736150",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1595585-2026-10-17T06:00:00-07:00@sf-cal": {
+   "content_hash": "dab4bc900f68568d1c08ebe135d28d950999142100e69054c4bb6fc9be34f11d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1596335-2026-10-17T09:00:00-07:00@sf-cal": {
+   "content_hash": "82934b8f87f2b2b63c0b4fd8499d2d4db95a03a11e8055a927e55cf5f38c13eb",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1596562-2026-10-17T08:00:00-07:00@sf-cal": {
+   "content_hash": "2c835a348bc3bf5493bf5a1b604ef4810a8b269cfa25d8155996c5a84561cc6f",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1596719-2026-10-17T11:00:00-07:00@sf-cal": {
+   "content_hash": "0a644ef408aa4f4f7e337730c1f78e579c2edff7c1306d20935fe42de65f0d2e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1598008-2026-10-06T07:00:00-07:00@sf-cal": {
+   "content_hash": "2b3d7eeef264bd685715dfffae6a23b02c4cbdd67439ab526539a5311e491a4b",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1600162-2026-11-01T11:00:00-08:00@sf-cal": {
+   "content_hash": "92114910cd0bc2dece97651285dd44f9c371dbe29fb098cef472e05bd8ba9deb",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1602284-2026-10-10T08:00:00-07:00@sf-cal": {
+   "content_hash": "b60005c2680c5a22c4cc856d9f2a8e9c903edaef272d58957cfdf52579f6b34e",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1603261-2026-10-15T15:00:00-07:00@sf-cal": {
+   "content_hash": "9725ebc43b2aa0c1c59562bfb1b4553bcb608fb6e220e9bf9ad754ee0b7b55a0",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1607246-2026-10-25T10:00:00-07:00@sf-cal": {
+   "content_hash": "56d9d0d64a485e06673022d569af1fede871a28d03ef140cdedd2f52e3fffbfe",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1608273-2026-10-11T11:00:00-07:00@sf-cal": {
+   "content_hash": "4dcd8ec0ffba70f999f408699669f574a0537d5243887b5d3dac3a52456e963d",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
+  },
+  "sf-street-events-1613629-2026-10-10T09:00:00-07:00@sf-cal": {
+   "content_hash": "3a4909b89a0b040753d461765bcc23b0128620fe2719c30aed26b5eeda3c32d8",
+   "sequence": 0,
+   "last_modified": "2026-10-06T17:28:41.550226Z"
   },
   "sfciviccenter-063dac71b46f481e@sf-cal": {
    "content_hash": "7ca3018d869636f8be45223e2ebfab31884a27d2fd087c41c3607675a16ced40",

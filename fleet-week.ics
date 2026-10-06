@@ -1016,6 +1016,24 @@ URL:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks-fisherm
  ans-wharf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fleet Week Block Party
+DTSTART;TZID=America/Los_Angeles:20261010T090000
+DTEND;TZID=America/Los_Angeles:20261010T230000
+DTSTAMP:20261006T172841Z
+UID:sf-street-events-1613629-2026-10-10T09:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Steiner St from Lombard St to Chestnut St\n\nTimes are
+  SFMTA street-closure permit times and include setup and teardown\nSource:
+  DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-y
+ ybr\nSource: DataSF street closures
+GEO:37.800121;-122.437792
+LAST-MODIFIED:20261006T172841Z
+LOCATION:Steiner St between Chestnut St and Lombard St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
