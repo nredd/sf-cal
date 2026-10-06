@@ -1,0 +1,794 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nredd//sf-cal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Street closures still awaiting an SFMTA permit\; some never h
+ appen
+NAME:SF Events · Street Events (Pending)
+X-WR-CALNAME:SF Events · Street Events (Pending)
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+COMMENT:This timezone only works from 2020-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:20200101T000000
+TZNAME:PST
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20200308T030000
+RDATE:20210314T030000,20220313T030000,20230312T030000,20240310T030000,2025
+ 0309T030000,20260308T030000,20270314T030000,20280312T030000,20290311T03000
+ 0,20300310T030000,20310309T030000,20320314T030000,20330313T030000,20340312
+ T030000,20350311T030000,20360309T030000,20370308T030000
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20201101T020000
+RDATE:20211107T020000,20221106T020000,20231105T020000,20241103T020000,2025
+ 1102T020000,20261101T020000,20271107T020000,20281105T020000,20291104T02000
+ 0,20301103T020000,20311102T020000,20321107T020000,20331106T020000,20341105
+ T020000,20351104T020000,20361102T020000,20371101T020000
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Fog City
+DTSTART;TZID=America/Los_Angeles:20261005T070000
+DTEND;TZID=America/Los_Angeles:20261005T220000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1609653-2026-10-05T07:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Steiner St from Clay St to Washington St\n\nPermit sta
+ tus: Submitted\nTimes are SFMTA street-closure permit times and include se
+ tup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: htt
+ ps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending perm
+ it)
+GEO:37.790942;-122.435938
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Steiner St between Clay St and Washington St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fog City
+DTSTART;TZID=America/Los_Angeles:20261006T100000
+DTEND;TZID=America/Los_Angeles:20261006T235900
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1609653-2026-10-06T10:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Steiner St from Clay St to Washington St\n\nPermit sta
+ tus: Submitted\nTimes are SFMTA street-closure permit times and include se
+ tup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: htt
+ ps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending perm
+ it)
+GEO:37.790942;-122.435938
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Steiner St between Clay St and Washington St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ER Taylor Elementary School Street Block Party
+DTSTART;TZID=America/Los_Angeles:20261007T120000
+DTEND;TZID=America/Los_Angeles:20261007T160000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1600750-2026-10-07T12:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Somerset St from Burrows St to Bacon St\n\nPermit stat
+ us: Application In Review\nTimes are SFMTA street-closure permit times and
+  include setup and teardown\nSource: DataSF Temporary Street Closures\n\nD
+ etails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (p
+ ending permit)
+GEO:37.727199;-122.407804
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Somerset St between Bacon St and Burrows St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Double Ten Celebration
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261010T170000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1611108-2026-10-10T13:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Grant Ave from Jack Kerouac Aly to Broadway\; Grant Av
+ e from Pacific Ave to Jack Kerouac Aly\n\nPermit status: Application In Re
+ view\nTimes are SFMTA street-closure permit times and include setup and te
+ ardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://data.
+ sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.797646;-122.40698
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Grant Ave between Pacific Ave and Broadway\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferrari Car Show
+DTSTART;TZID=America/Los_Angeles:20261011T080000
+DTEND;TZID=America/Los_Angeles:20261011T170000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1550902-2026-10-11T08:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Union St from Stockton St to Columbus Ave\n\nPermit st
+ atus: Application In Review\nTimes are SFMTA street-closure permit times a
+ nd include setup and teardown\nSource: DataSF Temporary Street Closures\n\
+ nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures 
+ (pending permit)
+GEO:37.80038;-122.409698
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Union St between Columbus Ave and Stockton St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Cayuga Ave
+DTSTART;TZID=America/Los_Angeles:20261017T090000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1592144-2026-10-17T09:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Cayuga Ave from San Juan Ave to Santa Ynez Ave\n\nPerm
+ it status: Application In Review\nTimes are SFMTA street-closure permit ti
+ mes and include setup and teardown\nSource: DataSF Temporary Street Closur
+ es\n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street clos
+ ures (pending permit)
+GEO:37.724452;-122.438309
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Cayuga Ave between Santa Ynez Ave and San Juan Ave\, San Francisc
+ o
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - 41st Ave
+DTSTART;TZID=America/Los_Angeles:20261018T000000
+DTEND;TZID=America/Los_Angeles:20261018T235900
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1602524-2026-10-18T00:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 41st Ave from Taraval St to Ulloa St\n\nPermit status:
+  Application In Review\nTimes are SFMTA street-closure permit times and in
+ clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
+ ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pend
+ ing permit)
+GEO:37.741075;-122.499197
+LAST-MODIFIED:20261006T193028Z
+LOCATION:41st Ave between Taraval St and Ulloa St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philip’s Memorial – Celebration of Life
+DTSTART;TZID=America/Los_Angeles:20261018T110000
+DTEND;TZID=America/Los_Angeles:20261018T190000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1613569-2026-10-18T11:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Connecticut St from 18th St to 19th St\n\nPermit statu
+ s: Application In Review\nTimes are SFMTA street-closure permit times and 
+ include setup and teardown\nSource: DataSF Temporary Street Closures\n\nDe
+ tails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pe
+ nding permit)
+GEO:37.761882;-122.397433
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Connecticut St between 18th St and 19th St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Station Halloween Event
+DTSTART;TZID=America/Los_Angeles:20261021T120000
+DTEND;TZID=America/Los_Angeles:20261021T200000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1560174-2026-10-21T12:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Long Bridge St from Corinne Woods Way to China Basin S
+ t\; China Basin St from Merrimac St to Long Bridge St\; Long Bridge St fro
+ m Corinne Woods Way to Corinne Woods Way\; China Basin St from 04th St to 
+ Merrimac St\n\nPermit status: Pending Payment\nTimes are SFMTA street-clos
+ ure permit times and include setup and teardown\nSource: DataSF Temporary 
+ Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataS
+ F street closures (pending permit)
+GEO:37.771876;-122.393448
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Long Bridge St between China Basin St and Corinne Woods Way\, San
+  Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Excelsior district block party
+DTSTART;TZID=America/Los_Angeles:20261024T000000
+DTEND;TZID=America/Los_Angeles:20261024T235900
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1614923-2026-10-24T00:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Madrid St from Persia Ave to Russia Ave\n\nPermit stat
+ us: Pending Payment\nTimes are SFMTA street-closure permit times and inclu
+ de setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails
+ : https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending
+  permit)
+GEO:37.720841;-122.433396
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Madrid St between Russia Ave and Persia Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fisherman's Wharf Event Series
+DTSTART;TZID=America/Los_Angeles:20261024T070000
+DTEND;TZID=America/Los_Angeles:20261024T220000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1596016-2026-10-24T07:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: The Embarcadero from Powell St to Taylor St\; The Emba
+ rcadero from Beach St to Powell St\n\nPermit status: Application In Review
+ \nTimes are SFMTA street-closure permit times and include setup and teardo
+ wn\nSource: DataSF Temporary Street Closures\n\nDetails: https://data.sf.g
+ ov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.808795;-122.414183
+LAST-MODIFIED:20261006T193028Z
+LOCATION:The Embarcadero between Powell St and Taylor St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Fulton Street
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T190000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1600049-2026-10-24T11:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Fulton St from Lyon St to Central Ave\n\nPermit status
+ : Application In Review\nTimes are SFMTA street-closure permit times and i
+ nclude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDet
+ ails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pen
+ ding permit)
+GEO:37.776121;-122.443956
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Fulton St between Lyon St and Central Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - 47th Ave
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T190000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1601906-2026-10-24T11:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 47th Ave from Lawton St to Moraga St\n\nPermit status:
+  Application In Review\nTimes are SFMTA street-closure permit times and in
+ clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
+ ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pend
+ ing permit)
+GEO:37.755715;-122.506671
+LAST-MODIFIED:20261006T193028Z
+LOCATION:47th Ave between Lawton St and Moraga St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - 43rd Ave
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T183000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1606585-2026-10-24T11:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 43rd Ave from Moraga St to Noriega St\n\nPermit status
+ : Application In Review\nTimes are SFMTA street-closure permit times and i
+ nclude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDet
+ ails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pen
+ ding permit)
+GEO:37.75403;-122.502255
+LAST-MODIFIED:20261006T193028Z
+LOCATION:43rd Ave between Noriega St and Moraga St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Anderson Street
+DTSTART;TZID=America/Los_Angeles:20261024T150000
+DTEND;TZID=America/Los_Angeles:20261024T200000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1616480-2026-10-24T15:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Anderson St from Tompkins Ave to Ogden Ave\n\nPermit s
+ tatus: Pending Payment\nTimes are SFMTA street-closure permit times and in
+ clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
+ ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pend
+ ing permit)
+GEO:37.736588;-122.415392
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Anderson St between Tompkins Ave and Ogden Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - 29th Avenue
+DTSTART;TZID=America/Los_Angeles:20261025T090000
+DTEND;TZID=America/Los_Angeles:20261025T170000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1596831-2026-10-25T09:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 29th Ave from Lake St to California St\n\nPermit statu
+ s: Application In Review\nTimes are SFMTA street-closure permit times and 
+ include setup and teardown\nSource: DataSF Temporary Street Closures\n\nDe
+ tails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pe
+ nding permit)
+GEO:37.784388;-122.489341
+LAST-MODIFIED:20261006T193028Z
+LOCATION:29th Ave between California St and Lake St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Shore View Ave (Lincoln Manor)
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T180000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1594676-2026-10-25T11:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Shore View Ave from 37th Ave to 38th Ave\n\nPermit sta
+ tus: Application In Review\nTimes are SFMTA street-closure permit times an
+ d include setup and teardown\nSource: DataSF Temporary Street Closures\n\n
+ Details: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (
+ pending permit)
+GEO:37.780491;-122.498201
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Shore View Ave between 37th Ave and 38th Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sparks Client Event
+DTSTART;TZID=America/Los_Angeles:20261026T060000
+DTEND;TZID=America/Los_Angeles:20261026T210000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1599180-2026-10-26T06:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 04th St from Minna St to Howard St\n\nPermit status: A
+ pplication In Review\nTimes are SFMTA street-closure permit times and incl
+ ude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetail
+ s: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pendin
+ g permit)
+GEO:37.783652;-122.40321
+LAST-MODIFIED:20261006T193028Z
+LOCATION:04th St between Minna St and Howard St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sparks Client Event
+DTSTART;TZID=America/Los_Angeles:20261027T060000
+DTEND;TZID=America/Los_Angeles:20261027T210000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1599180-2026-10-27T06:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 04th St from Minna St to Howard St\n\nPermit status: A
+ pplication In Review\nTimes are SFMTA street-closure permit times and incl
+ ude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetail
+ s: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pendin
+ g permit)
+GEO:37.783652;-122.40321
+LAST-MODIFIED:20261006T193028Z
+LOCATION:04th St between Minna St and Howard St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fog City
+DTSTART;TZID=America/Los_Angeles:20261028T080000
+DTEND;TZID=America/Los_Angeles:20261029T070000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1609653-2026-10-28T08:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Grant Ave from Green St to Union St\n\nPermit status: 
+ Submitted\nTimes are SFMTA street-closure permit times and include setup a
+ nd teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://
+ data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.800171;-122.40749
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Grant Ave between Green St and Union St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Scuola Preschool Halloween Parade 2026
+DTSTART;TZID=America/Los_Angeles:20261030T070000
+DTEND;TZID=America/Los_Angeles:20261030T113000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1606373-2026-10-30T07:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Tennessee St from 19th St to 20th St\n\nPermit status:
+  Application In Review\nTimes are SFMTA street-closure permit times and in
+ clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
+ ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pend
+ ing permit)
+GEO:37.761073;-122.389547
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Tennessee St between 20th St and 19th St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building Kidz Sunset Halloween Trunk Or Treat!
+DTSTART;TZID=America/Los_Angeles:20261030T123000
+DTEND;TZID=America/Los_Angeles:20261030T173000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1595123-2026-10-30T12:30:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 36th Ave from Santiago St to Taraval St\n\nPermit stat
+ us: Application In Review\nTimes are SFMTA street-closure permit times and
+  include setup and teardown\nSource: DataSF Temporary Street Closures\n\nD
+ etails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (p
+ ending permit)
+GEO:37.743182;-122.493973
+LAST-MODIFIED:20261006T193028Z
+LOCATION:36th Ave between Taraval St and Santiago St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden Gate Half Marathon & 5k
+DTSTART;TZID=America/Los_Angeles:20261031T030000
+DTEND;TZID=America/Los_Angeles:20261031T170000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1599181-2026-10-31T03:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Beach St from Hyde St to Larkin St\; Beach St from Lar
+ kin St to Polk St\n\nPermit status: Application In Review\nTimes are SFMTA
+  street-closure permit times and include setup and teardown\nSource: DataS
+ F Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yybr\nS
+ ource: DataSF street closures (pending permit)
+GEO:37.806547;-122.421378
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Beach St between Hyde St and Polk St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fisherman's Wharf Event Series
+DTSTART;TZID=America/Los_Angeles:20261031T070000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1596016-2026-10-31T07:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: The Embarcadero from Powell St to Taylor St\; The Emba
+ rcadero from Beach St to Powell St\n\nPermit status: Application In Review
+ \nTimes are SFMTA street-closure permit times and include setup and teardo
+ wn\nSource: DataSF Temporary Street Closures\n\nDetails: https://data.sf.g
+ ov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.808795;-122.414183
+LAST-MODIFIED:20261006T193028Z
+LOCATION:The Embarcadero between Powell St and Taylor St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Mirabel Ave
+DTSTART;TZID=America/Los_Angeles:20261031T090000
+DTEND;TZID=America/Los_Angeles:20261031T170000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1609862-2026-10-31T09:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Mirabel Ave from Coso Ave to Shotwell St\n\nPermit sta
+ tus: Pending Payment\nTimes are SFMTA street-closure permit times and incl
+ ude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetail
+ s: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pendin
+ g permit)
+GEO:37.746252;-122.416444
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Mirabel Ave between Coso Ave and Shotwell St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighbors of K42 & 43 Halloween Bash
+DTSTART;TZID=America/Los_Angeles:20261031T140000
+DTEND;TZID=America/Los_Angeles:20261031T223000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1606444-2026-10-31T14:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Kirkham St from 42nd Ave to 43rd Ave\n\nPermit status:
+  Submitted\nTimes are SFMTA street-closure permit times and include setup 
+ and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:/
+ /data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.758724;-122.502044
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Kirkham St between 42nd Ave and 43rd Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick or Treat - 6th Ave
+DTSTART;TZID=America/Los_Angeles:20261031T140000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1607224-2026-10-31T14:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 06th Ave from Judah St to Kirkham St\n\nPermit status:
+  Application In Review\nTimes are SFMTA street-closure permit times and in
+ clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
+ ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pend
+ ing permit)
+GEO:37.761384;-122.462907
+LAST-MODIFIED:20261006T193028Z
+LOCATION:06th Ave between Kirkham St and Judah St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick-or-Treat -Terrace Drive
+DTSTART;TZID=America/Los_Angeles:20261031T150000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1613566-2026-10-31T15:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Terrace Dr from Portola Dr to Santa Clara Ave\n\nPermi
+ t status: Pending Payment\nTimes are SFMTA street-closure permit times and
+  include setup and teardown\nSource: DataSF Temporary Street Closures\n\nD
+ etails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (p
+ ending permit)
+GEO:37.73767;-122.466613
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Terrace Dr between Portola Dr and Santa Clara Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick or Treat - Avila Street 2026
+DTSTART;TZID=America/Los_Angeles:20261031T160000
+DTEND;TZID=America/Los_Angeles:20261031T210000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1611550-2026-10-31T16:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Avila St from Chestnut St to Alhambra St\; Avila St fr
+ om Beach St to Prado St\; Avila St from Capra Way to Beach St\; Avila St f
+ rom Alhambra St to Capra Way\n\nPermit status: Application In Review\nTime
+ s are SFMTA street-closure permit times and include setup and teardown\nSo
+ urce: DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8
+ x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.800791;-122.440409
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Avila St between Chestnut St and Prado St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick or Treat - Otsego Ave
+DTSTART;TZID=America/Los_Angeles:20261031T170000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1593585-2026-10-31T17:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Otsego Ave from Santa Ysabel Ave to San Juan Ave\; Ots
+ ego Ave from San Juan Ave to Santa Ynez Ave\n\nPermit status: Application 
+ In Review\nTimes are SFMTA street-closure permit times and include setup a
+ nd teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://
+ data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.726588;-122.439205
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Otsego Ave between San Juan Ave and Santa Ysabel Ave\, San Franci
+ sco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick or Treat - Iris Ave
+DTSTART;TZID=America/Los_Angeles:20261031T170000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1603199-2026-10-31T17:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Iris Ave from Mayfair Dr to Euclid Ave\n\nPermit statu
+ s: Application In Review\nTimes are SFMTA street-closure permit times and 
+ include setup and teardown\nSource: DataSF Temporary Street Closures\n\nDe
+ tails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pe
+ nding permit)
+GEO:37.784999;-122.451973
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Iris Ave between Euclid Ave and Mayfair Dr\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fair Oaks Halloween
+DTSTART;TZID=America/Los_Angeles:20261031T173000
+DTEND;TZID=America/Los_Angeles:20261031T200000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1593379-2026-10-31T17:30:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Fair Oaks St from 23rd St to 24th St\; Fair Oaks St fr
+ om 24th St to 25th St\; Fair Oaks St from 25th St to 26th St\; Fair Oaks S
+ t from 22nd St to 23rd St\n\nPermit status: Application In Review\nTimes a
+ re SFMTA street-closure permit times and include setup and teardown\nSourc
+ e: DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25
+ -yybr\nSource: DataSF street closures (pending permit)
+GEO:37.752707;-122.424062
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Fair Oaks St between 23rd St and 24th St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden Gate Half Marathon & 5k
+DTSTART;TZID=America/Los_Angeles:20261101T010000
+DTEND;TZID=America/Los_Angeles:20261101T120000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1599181-2026-11-01T01:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Marina Blvd from Webster St to Fillmore St\; Van Ness 
+ Ave from North Point St to Beach St\; Van Ness Ave from Bay St to North Po
+ int St\; Van Ness Ave from Beach St to End: 3200-3299 Block\; Marina Blvd 
+ from Lower Fort Mason St to Webster St\; North Point St from Polk St to Va
+ n Ness Ave\; Bay St from Van Ness Ave to Fort Mason 21\; Bay St from Frank
+ lin St to Gough St\; Marina Blvd from Laguna St to Beach St\; Van Ness Ave
+  from Francisco St to Bay St\; and 5 more\n\nPermit status: Application In
+  Review\nTimes are SFMTA street-closure permit times and include setup and
+  teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://da
+ ta.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.806297;-122.436554
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Bay St between Polk St and Octavia St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biondivino 20th Anniversary
+DTSTART;TZID=America/Los_Angeles:20261107T080000
+DTEND;TZID=America/Los_Angeles:20261107T230000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1572117-2026-11-07T08:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Green St from Polk St to Van Ness Ave\n\nPermit status
+ : Application In Review\nTimes are SFMTA street-closure permit times and i
+ nclude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDet
+ ails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pen
+ ding permit)
+GEO:37.797721;-122.42297
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Green St between Polk St and Van Ness Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Bonview Street
+DTSTART;TZID=America/Los_Angeles:20261107T110000
+DTEND;TZID=America/Los_Angeles:20261107T170000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1592066-2026-11-07T11:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Bonview St from Eugenia Ave to Cortland Ave\n\nPermit 
+ status: Application In Review\nTimes are SFMTA street-closure permit times
+  and include setup and teardown\nSource: DataSF Temporary Street Closures\
+ n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closure
+ s (pending permit)
+GEO:37.740161;-122.418756
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Bonview St between Cortland Ave and Eugenia Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Texas Street Potluck
+DTSTART;TZID=America/Los_Angeles:20261107T110000
+DTEND;TZID=America/Los_Angeles:20261107T160000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1612151-2026-11-07T11:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Texas St from 19th St to 20th St\n\nPermit status: App
+ lication In Review\nTimes are SFMTA street-closure permit times and includ
+ e setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails:
+  https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending 
+ permit)
+GEO:37.760721;-122.395377
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Texas St between 19th St and 20th St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - Anza St - Luke’s Birthday Party
+DTSTART;TZID=America/Los_Angeles:20261114T110000
+DTEND;TZID=America/Los_Angeles:20261114T170000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1599026-2026-11-14T11:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Anza St from 37th Ave to 38th Ave\n\nPermit status: Ap
+ plication In Review\nTimes are SFMTA street-closure permit times and inclu
+ de setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails
+ : https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending
+  permit)
+GEO:37.777555;-122.497988
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Anza St between 37th Ave and 38th Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FTE 2026
+DTSTART;TZID=America/Los_Angeles:20261120T120000
+DTEND;TZID=America/Los_Angeles:20261120T235900
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1581729-2026-11-20T12:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Ocean Ave from Mission St to Persia Ave\n\nPermit stat
+ us: Application In Review\nTimes are SFMTA street-closure permit times and
+  include setup and teardown\nSource: DataSF Temporary Street Closures\n\nD
+ etails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (p
+ ending permit)
+GEO:37.723849;-122.435917
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Ocean Ave between Mission St and Persia Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wedding Baraat
+DTSTART;TZID=America/Los_Angeles:20261128T093000
+DTEND;TZID=America/Los_Angeles:20261128T113000
+DTSTAMP:20261006T193028Z
+UID:sf-street-events-pending-1577842-2026-11-28T09:30:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Mason St from California St to Sacramento St\n\nPermit
+  status: Application In Review\nTimes are SFMTA street-closure permit time
+ s and include setup and teardown\nSource: DataSF Temporary Street Closures
+ \n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closur
+ es (pending permit)
+GEO:37.792298;-122.410912
+LAST-MODIFIED:20261006T193028Z
+LOCATION:Mason St between Sacramento St and California St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+END:VCALENDAR
