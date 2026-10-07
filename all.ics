@@ -15363,6 +15363,47 @@ URL:https://sf.funcheap.com/fleet-week-blue-angels-bubbles-seafood-tower-s
  f/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mission Street: CMC + Follow the Music at Yerba Buena Gardens Fest
+ ival
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261010T160000
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-festival-15f2d0825be6725d@sf-cal
+SEQUENCE:0
+CATEGORIES:festival
+DESCRIPTION:Join CMC and our partners at Follow the Music for a celebratio
+ n of talented emerging young artists from the Bay at Yerba Buena Gardens F
+ estival this October. Mamboleo—featuring CMC students/alumni will bring 
+ the Latin jazz heat alongside some other incredible groups.\nPerformers:\n
+ Mamboleo (CMC)\nOakland Rising (Follow the Music\, OSA)\nMiles Turk & Frie
+ nds (SFJazz\, Glide)\nOxymora (Blue Bear School of Music)\nELM Youth Orche
+ stra\nOSA Vocal Ensemble\nSince launching in 2023 Follow the Music has bee
+ n at the forefront of a rising movement promoting arts education around th
+ e Bay Area. The nonprofit organization introduces its next phase with an e
+ merging artists music festival designed to showcase aspiring young musicia
+ ns. Bringing families and young people from all over the region to the urb
+ an oasis of the Gardens\, Follow the Music celebrates the Bay Area’s unr
+ ivaled cultural heritage by building a bridge between that legacy and the 
+ young people carrying it forward. Featuring musicians ages 14-25\, the eve
+ nt includes musicians from the San Francisco Community Music Center\, Oakl
+ and School for the Arts\, SFJAZZ\, GLIDE Memorial Church\, Blue Bear Schoo
+ l of Music\, Elevate Oakland\, Enriching Lives Through Music and other org
+ anizations. Drawing on the Bay Area’s cultural diversity\, the lineup cr
+ osses genres from classical and jazz to soul\, rock and Latin jazz. It als
+ o features guest speakers from music\, sports and popular culture. A commu
+ nity resource fair provides families and students with oppo...\n\nPublishe
+ d by Mission Local\nContains information from CalDiscovery (caldiscovery.c
+ om)\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/mission-street-c
+ mc-follow-the-music-at-yerba-buena-gardens-festival/?utm_source=caldiscove
+ ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Mission Street\, Mission St.\, San Francisco\, CA\, United States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/mission-street-cmc-follow-the-music-at-
+ yerba-buena-gardens-festival/?utm_source=caldiscovery&utm_medium=ics&utm_c
+ ampaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Follow the Music
 DTSTART;TZID=America/Los_Angeles:20261010T130000
 DTEND;TZID=America/Los_Angeles:20261010T150000
@@ -17230,8 +17271,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Italian Heritage Festival & Parade
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261007T060815Z
-UID:caldiscovery-festival-aa1f0b1f4e79dcaf@sf-cal
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-festival-50528dcb3b48f338@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
@@ -17241,7 +17282,7 @@ DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
  ls: https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
  ign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261007T133325Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
@@ -27928,8 +27969,8 @@ BEGIN:VEVENT
 SUMMARY:Oakland Comedy Festival 2026 - The Closer
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T213000
-DTSTAMP:20261006T224125Z
-UID:caldiscovery-festival-47b79d204e0f036f@sf-cal
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-comedy-47b79d204e0f036f@sf-cal
 SEQUENCE:0
 CATEGORIES:comedy,festival
 DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
@@ -27948,7 +27989,7 @@ DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
   https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
  999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
  isco-ca
-LAST-MODIFIED:20261006T224125Z
+LAST-MODIFIED:20261007T133325Z
 LOCATION:Fluid510 1544 Broadway Oakland\, CA
 TRANSP:TRANSPARENT
 URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
@@ -31261,17 +31302,19 @@ BEGIN:VEVENT
 SUMMARY:JAZZ at the MAKE OUT ROOM!
 DTSTART;TZID=America/Los_Angeles:20261020T183000
 DTEND;TZID=America/Los_Angeles:20261020T203000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261007T133325Z
 UID:dothebay-17431814@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
- ebay.com/events/2026/10/20/jazz-at-the-make-out-room-tickets\nSource: DoTh
- eBay
+DESCRIPTION:Jazz at the Make-Out Room\n\nTuesday\, October 20\, 6pm doors/
+ 7pm show\n\n7pm Sean Keenan/Abe Gibson\n\n7:45pm Dave Thomas's New Cycle\n
+ \n8:15pm Kasey Knudsen/Beth Schenck Duo\n\nFree\n\nTickets: http://makeout
+ room.com\nDetails: https://dothebay.com/events/2026/10/20/jazz-at-the-make
+ -out-room-tickets\nSource: DoTheBay
 GEO:37.7552647;-122.4193588
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32478929/1c4d9e76-5386-4589-8f23-a3681e4318d8.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261007T133325Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/20/jazz-at-the-make-out-room-ticke
@@ -32072,6 +32115,35 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/21/music-the-gathering-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nara Aziza Smith - Homemade
+DTSTART;TZID=America/Los_Angeles:20261021T180000
+DTEND;TZID=America/Los_Angeles:20261021T200000
+DTSTAMP:20261007T133325Z
+UID:dothebay-17929542@sf-cal
+SEQUENCE:0
+CATEGORIES:Literature
+DESCRIPTION:Join us as we welcome Nara Aziza Smith (@naraaziza)\, the best
+ -dressed culinary creator in digital media\, who is bringing her signature
+  style to 80 delicious\, homemade family-friendly recipes in her debut coo
+ kbook HOMEMADE. You may think you know Nara Smith—the glamorous outfits\
+ , the soothing ASMR voice\, the beautiful family\, the seemingly effortles
+ s approach to making food from scratch—but behind it all is a working mo
+ m with a relatable goal: preparing nourishing whole foods for herself and 
+ her family.\n\nTickets include a copy of the book\, the chance to get your
+  copy personally signed\, and a photo with Nara.\n\nBook Passage Presents:
+ \n\nTickets: https://bookpassage.com/event/nara-aziza-smith-homemade\nDeta
+ ils: https://dothebay.com/events/2026/10/21/nara-aziza-smith-homemade-tick
+ ets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34832700/47092134-fa58-4b20-a7e2-5d5d8e96488a.jpg
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Book Passage San Francisco\, 1 Ferry Building\, San Francisco\, C
+ A\, 94911
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/21/nara-aziza-smith-homemade-ticke
+ ts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Wiener Wednesday” Free Hot Dog Night at Rye
 DTSTART;TZID=America/Los_Angeles:20261021T180000
 DTEND;TZID=America/Los_Angeles:20261022T000000
@@ -32224,6 +32296,46 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/21/teen-witch-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:United Nations Association Film Festival
+DTSTART;TZID=America/Los_Angeles:20261021T190000
+DTEND;TZID=America/Los_Angeles:20261021T210000
+DTSTAMP:20261007T133325Z
+UID:dothebay-17927133@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:The 29th United Nations Association Film Festival continues We
+ dnesday\, Oct. 21\, in San Francisco with an evening of documentaries expl
+ oring identity\, addiction treatment and institutional accountability.\n\n
+ The evening begins with "Becoming James\," directed by Evan Possley. The e
+ ight-minute documentary follows a man who\, after decades in prison\, work
+ s to rebuild his identity and finds success in an unexpected way.\n\nNext 
+ is "Shuffle\," directed by Benjamin Flaherty. Through the filmmaker’s ow
+ n recovery\, the documentary investigates the multibillion-dollar addictio
+ n treatment industry\, examining financial incentives\, conflicts of inter
+ est and the system surrounding people seeking treatment.\n\nThe evening co
+ ncludes with "Nuns vs. The Vatican\," directed by Lorena Luciano and produ
+ ced by Filippo Piscopo. The film follows a former Catholic nun who breaks 
+ her silence about abuse within the Church\, as other nuns come forward to 
+ examine a culture of silence and institutional protection.\n\nUNAFF runs O
+ ct. 15–25\, 2026\, with the theme Passion for Change. The festival featu
+ res films on human rights issues like the environment\, women’s rights\,
+  racism\, and peace\, engaging a diverse Bay Area audience. More info at u
+ naff.org.\n\n$19\nUnited Nations Association Film Festival\n\nTickets: htt
+ ps://www.unaff.org/2026/tickets.html\nDetails: https://dothebay.com/events
+ /2026/10/21/united-nations-association-film-festival-tickets\nSource: DoTh
+ eBay\n\nAlso listed on:\n- https://sf.funcheap.com/future-day-comedy-show-
+ claudia-wells-jennifer-parker-film/
+GEO:37.7843591;-122.3885501
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34821763/00c97041-b8a9-4e96-8d06-e61644c3336e.jpg
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Delancey Street Screening Room\, 600 The Embarcadero\, San Franci
+ sco\, CA\, 94107
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/21/united-nations-association-film
+ -festival-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
  pe (October 2026)
 DTSTART;TZID=America/Los_Angeles:20261021T190000
@@ -32266,47 +32378,6 @@ LOCATION:San Francisco State University Observatory\, Thornton Hall\, 10th
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-october-2026-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“Back to the Future” Day Comedy Show w/ Claudia Wells (Jennife
- r Parker from the Film)
-DTSTART;TZID=America/Los_Angeles:20261021T190000
-DTEND;TZID=America/Los_Angeles:20261021T213000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638679@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Adam Swig\n\nGo back to the future for a night of comedy\, fea
- turing Claudia Wells (Jennifer Parker)\, an autograph signing & special gu
- ests!\n\nLaugh to the Future: A Comedy Showcase on Back To The Future Day!
-  ⚡\nGreat Scott! Value Culture’s Boom Boom Comedy Showcase is going ba
- ck to the future for a special night of comedy\, nostalgia\, and 1980s tim
- e-travel magic at San Francisco’s legendary Boom Boom Room.\nSpecial App
- earance: Claudia Wells\, best known as Jennifer Parker in the original Bac
- k to the Future\, joins us for the evening. Meet Claudia during a special 
- autograph signing at 7 PM\, followed by the comedy show at 8 PM.\n\nFeatur
- ing comedians Stephanie Block\, Adam Swig\, Paul Robertson\, Kaseem Bentle
- y + special guests\, with more surprises to be announced.\nWednesday\, Oct
- ober 21\, 2026\n7 PM — Claudia Wells Autograph Signing (Experiences can 
- be purchased upon arrival)\n8 PM — Comedy Showcase (3rd Wednesdays at th
- e BBR)\nBoom Boom Room — 1601 Fillmore St.\, San Francisco\n21+\nEnjoy Y
- erdrink (Sparkling Yerba Mate & Coconut Water) Specials all night.\n️ FR
- EE with RSVP\nPresented by Value Culture and The Boom Boom Room\nFire up t
- he flux capacitor\, grab your friends\, and Laugh to the Future. ⚡\nThe 
- mission of Value Culture is to produce and support artistic\, educational\
- , charitable\, and spiritual events to inspire individuals to give back to
-  their communities. Value Culture removes barriers to arts\, culture\, and
-  philanthropy. Contact us @ivalueculture\nWe encourage all those drinking 
- alcohol to not...\n\nFree\n\nTickets: https://backtothefutureday.eventbrit
- e.com\nDetails: https://sf.funcheap.com/future-day-comedy-show-claudia-wel
- ls-jennifer-parker-film/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/1021.p
- ng
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Boom Boom Room\, 1601 Fillmore St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/future-day-comedy-show-claudia-wells-jennifer-
- parker-film/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Hammer’s Free “Hopped Up” Trivia Night (Every Wednesda
@@ -46852,8 +46923,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261007T060815Z
-UID:caldiscovery-festival-90e862e38c1503b4@sf-cal
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-festival-33ccbb1b07f2e0f5@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -46863,7 +46934,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261007T133325Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -50143,8 +50214,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261007T060815Z
-UID:caldiscovery-festival-d6fb0dc2df4c9e92@sf-cal
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-festival-fdd4d6265c0c3911@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -50154,7 +50225,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261007T133325Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -54368,8 +54439,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261007T060815Z
-UID:caldiscovery-festival-c35d2f81a77cb8b9@sf-cal
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-festival-5c3a7ec14c3280eb@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -54379,7 +54450,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261007T133325Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -66396,6 +66467,130 @@ URL:https://sf.funcheap.com/sfs-prince-vs-michael-jackson-dj-party-nopa-61
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Illuminate SF Festival of Light
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-festival-2777f06addebfef8@sf-cal
+SEQUENCE:0
+CATEGORIES:festival
+DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
+ ng\, eco-friendly light art installations by world-renowned artists.\n\nPu
+ blished by Calendar Of Events\nContains information from CalDiscovery (cal
+ discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
+ ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261007T133325Z
+TRANSP:TRANSPARENT
+URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
+ l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
+ co-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outer Sunset Farmers' Market 2026
+DTSTART;TZID=America/Los_Angeles:20261206T060000
+DTEND;TZID=America/Los_Angeles:20261206T160000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1419904-2026-12-06T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 37th Ave from Ortega St to Pacheco St\; 37th Ave from 
+ Pacheco St to Quintara St\; Pacheco St from Sunset Blvd to 37th Ave\n\nPer
+ mit status: Permitted\nTimes are SFMTA street-closure permit times and inc
+ lude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetai
+ ls: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.750594;-122.495565
+LAST-MODIFIED:20261007T133325Z
+LOCATION:37th Ave between Ortega St and Quintara St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF Waldorf Winter Fair 2026
+DTSTART;TZID=America/Los_Angeles:20261206T060000
+DTEND;TZID=America/Los_Angeles:20261206T180000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1582794-2026-12-06T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Washington St from Divisadero St to Broderick St\n\nPe
+ rmit status: Permitted\nTimes are SFMTA street-closure permit times and in
+ clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
+ ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.790647;-122.441819
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Washington St between Divisadero St and Broderick St\, San Franci
+ sco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inner Sunset Farmers' Market
+DTSTART;TZID=America/Los_Angeles:20261206T070000
+DTEND;TZID=America/Los_Angeles:20261206T150000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1365573-2026-12-06T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Irving St from 08th Ave to 09th Ave\n\nPermit status: 
+ Permitted\nTimes are SFMTA street-closure permit times and include setup a
+ nd teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://
+ data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.76406;-122.465778
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Irving St between 8th Ave and 9th Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clement Street Farmers Market
+DTSTART;TZID=America/Los_Angeles:20261206T070000
+DTEND;TZID=America/Los_Angeles:20261206T153000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1498354-2026-12-06T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Clement St from Arguello Blvd to 02nd Ave\; Clement St
+  from 3rd Ave to Th Ave\; Clement St from 02nd Ave to 03rd Ave\n\nPermit s
+ tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
+ setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
+ ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.783163;-122.459568
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Clement St between Arguello Blvd and 2nd Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Holiday Mercantile
+DTSTART;TZID=America/Los_Angeles:20261206T110000
+DTEND;TZID=America/Los_Angeles:20261206T170000
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-festival-312ff1836e737045@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,drink,festival,food,free,market
+DESCRIPTION:Come Eat\, Drink\, Shop\, Play\, Connect\, and Be Local at the
+  10th Annual Sunset Holiday Mercantile at the County Fair Building in Gold
+ en Gate Park!Sunset Holiday Mercantile in 2025 which features TWO DAYS of 
+ artisan makers and vendors\, plus live music\, food\, activities and more!
+ We are also partnering with Sharon Arts Studios and there will be a second
+  room of artists. More details on that soon so stay tuned!Admission is fre
+ e! Come to the County Fair Building in Golden Gate Park\, December 6th and
+  7th from 11 AM to 5 PM to join the fun.Enjoy:50+ Local Makers\, Merchants
+ \, Artists and VendorsFood Artisans and Food TrucksHoliday themed photo bo
+ othChildren + Family ActivitiesLive MusicStorytellingCommunity CausesBeer 
+ + Wine TastingFree admissionWhile in the neighborhood\, be sure to explore
+  all the unique shops and eateries of the Inner Sunset!Eat\, Drink\, Shop\
+ , Play\, Connect\, and Be Local with Sunset Mercantile.For more informatio
+ n please visit us on our website: https://sunsetmercantilesf.com/sunsethol
+ idaymercantile/\n\nPublished by sunsetmercantilesf.com\nContains informati
+ on from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nSource: CalDiscovery
+LAST-MODIFIED:20261007T133325Z
+LOCATION:San Francisco County Fair Building\, 1199 9th Ave\, San Francisco
+ \, CA 94122\, USA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Castro Art Mart” Mini Block Party on Noe St. (Every First Sun
  day)
 DTSTART;TZID=America/Los_Angeles:20261206T110000
@@ -66428,6 +66623,24 @@ LOCATION:Market & Noe\, Market and Castro\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/castro-art-mart-mini-block-party-on-noe-st-eve
  ry-first-sunday-53/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chanukah Street Party
+DTSTART;TZID=America/Los_Angeles:20261206T110000
+DTEND;TZID=America/Los_Angeles:20261206T190000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1523475-2026-12-06T11:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Alma St from Cole St to Shrader St\n\nPermit status: P
+ ermitted\nTimes are SFMTA street-closure permit times and include setup an
+ d teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://d
+ ata.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.763108;-122.450154
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Alma St between Shrader St and Cole St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Monthly Yoga Class for Beginners | SF﻿
@@ -66561,6 +66774,45 @@ LOCATION:The Great Highway\, Irving and Great Highway\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-free-sundays-at-the-beach-chair-yoga-day-g
  reat-highway-39/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
+DTSTART;TZID=America/Los_Angeles:20261206T183000
+DTEND;TZID=America/Los_Angeles:20261206T200000
+DTSTAMP:20261007T133325Z
+UID:caldiscovery-comedy-51d674d7930ee3aa@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,comedy
+DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
+ Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
+ l Admission: USD 55.00Link: https://go.evvnt.com/3848476-2?pid=12352At the
+  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
+ experience... a carefully engineered collision of impossible mentalism\, l
+ augh-out-loud comedy\, and illusions that punch through the wall of your r
+ eality.What You'll DoStep off the streets of SF and into our historic Moro
+ ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
+ appetizers\, and live close-up magic.Then enter our jewel-box theater for 
+ Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
+ n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
+ exander... the performer who's astonished Bono\, made John Cleese grin lik
+ e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
+ - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
+ Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
+ memorable date night\, impressing visitors\, or an elevated/unique evening
+  out with friends or family.This is not just entertainment. This is the re
+ surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
+ oroccan flair.Find out why this is the highest-rated show in the city and 
+ leave with a story to tell.Pick your date and reserve your seats today!***
+ **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261007T133325Z
+LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
+ 9 O'Farrell Street San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF

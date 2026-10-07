@@ -2589,4 +2589,97 @@ LOCATION:Broadway between Webster St and Buchanan St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outer Sunset Farmers' Market 2026
+DTSTART;TZID=America/Los_Angeles:20261206T060000
+DTEND;TZID=America/Los_Angeles:20261206T160000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1419904-2026-12-06T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 37th Ave from Ortega St to Pacheco St\; 37th Ave from 
+ Pacheco St to Quintara St\; Pacheco St from Sunset Blvd to 37th Ave\n\nPer
+ mit status: Permitted\nTimes are SFMTA street-closure permit times and inc
+ lude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetai
+ ls: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.750594;-122.495565
+LAST-MODIFIED:20261007T133325Z
+LOCATION:37th Ave between Ortega St and Quintara St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF Waldorf Winter Fair 2026
+DTSTART;TZID=America/Los_Angeles:20261206T060000
+DTEND;TZID=America/Los_Angeles:20261206T180000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1582794-2026-12-06T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Washington St from Divisadero St to Broderick St\n\nPe
+ rmit status: Permitted\nTimes are SFMTA street-closure permit times and in
+ clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
+ ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.790647;-122.441819
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Washington St between Divisadero St and Broderick St\, San Franci
+ sco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inner Sunset Farmers' Market
+DTSTART;TZID=America/Los_Angeles:20261206T070000
+DTEND;TZID=America/Los_Angeles:20261206T150000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1365573-2026-12-06T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Irving St from 08th Ave to 09th Ave\n\nPermit status: 
+ Permitted\nTimes are SFMTA street-closure permit times and include setup a
+ nd teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://
+ data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.76406;-122.465778
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Irving St between 8th Ave and 9th Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clement Street Farmers Market
+DTSTART;TZID=America/Los_Angeles:20261206T070000
+DTEND;TZID=America/Los_Angeles:20261206T153000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1498354-2026-12-06T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Clement St from Arguello Blvd to 02nd Ave\; Clement St
+  from 3rd Ave to Th Ave\; Clement St from 02nd Ave to 03rd Ave\n\nPermit s
+ tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
+ setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
+ ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.783163;-122.459568
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Clement St between Arguello Blvd and 2nd Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chanukah Street Party
+DTSTART;TZID=America/Los_Angeles:20261206T110000
+DTEND;TZID=America/Los_Angeles:20261206T190000
+DTSTAMP:20261007T133325Z
+UID:sf-street-events-1523475-2026-12-06T11:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Alma St from Cole St to Shrader St\n\nPermit status: P
+ ermitted\nTimes are SFMTA street-closure permit times and include setup an
+ d teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://d
+ ata.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.763108;-122.450154
+LAST-MODIFIED:20261007T133325Z
+LOCATION:Alma St between Shrader St and Cole St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR
