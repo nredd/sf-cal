@@ -851,39 +851,20 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/meet-ulysses-sf-ocean-robotics-startup/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261006T173000
-DTEND;TZID=America/Los_Angeles:20261006T183000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-f515482b8f61a19c@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10521\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Los Angeles Lakers
 DTSTART;TZID=America/Los_Angeles:20261006T190000
 DTEND;TZID=America/Los_Angeles:20261006T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261007T060815Z
 UID:dothebay-17633774@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. Los Angeles Lakers\n\nTickets: https
- ://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%
- 2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-los-angeles-san-franc
- isco-california-10-06-2026%2Fevent%2F1C0064EABC593918\nDetails: https://do
- thebay.com/events/2026/10/6/golden-state-warriors-vs-los-angeles-lakers-ti
- ckets\nSource: DoTheBay
+DESCRIPTION:Golden State Warriors vs. Los Angeles Lakers\n\nDetails: https
+ ://dothebay.com/events/2026/10/6/golden-state-warriors-vs-los-angeles-lake
+ rs-tickets\nSource: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33437763/27f3745a-5318-4c58-88bd-860c577f04a0.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261007T060815Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/6/golden-state-warriors-vs-los-ang
@@ -1176,6 +1157,46 @@ LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/8/quinteto-latino-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada City All-Inclusive Foraging Retreat w/ Sauna + Yuba River S
+ wims (Oct 8-12)
+DTSTART;TZID=America/Los_Angeles:20261008T150000
+DTEND;TZID=America/Los_Angeles:20261009T120000
+DTSTAMP:20261007T060815Z
+UID:funcheap-1634289@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Submitted by the Event OrganizerFork In The PathThis retreat i
+ ncludes 3 nights of camping with hot showers\, all meals with farm and for
+ aged fresh ingredients\, and 4 days of Sierra Nevada ecological and foragi
+ ng programming\, including:\n\nswimming in the Yuba River\nedible & medici
+ nal plant foraging\nbasket weaving from gourds & pine needles\nmaking natu
+ ral sodas\nacorn & bay nuts\n\nWe’ll be camping together on a beautiful 
+ ranch with a sauna that’s 5 minutes from the river\n\nAbout Fork In The 
+ Path\nFork In The Path offers transformational foraging experiences in Cal
+ ifornia for the adventurous of all ages.\nJoin us for a fun all-inclusive 
+ campout weekend filled with the fall foraged treasures of the Sierra Footh
+ ills\, featuring acorns\, bay nuts\, plants\, making natural sodas with wi
+ ld yeasts and plants\, weaving baskets from gourds and pine needles\, and 
+ more!\nRosebud Ranch will be our home base for our weekend in Nevada City.
+  They have a beautiful wooden bathhouse with hot showers\, a cob wood-fire
+ d sauna\, a fire pit with a stage for open mic (if you wish)\, and a shade
+ d camping area. They are located just 5 minutes from the Hoyt Crossing of 
+ the glorious Yuba River\, where you can swim in the limestone green waters
+  to your heart’s content.\nThree meals a day will be provided\, which ar
+ e a mix of foraged and farm-fresh ingredients.\nCampout begins at 3pm on T
+ hurs\, and ends at 12 pm on Sunday\, Oct 8-12th\, 2026.\nCampout Draft Sch
+ edule *\n*All activities are optional – the schedule is a draft\, the or
+ d...\n\n$701.00\n\nTickets: https://www.forkinthepath.org/registration-fal
+ l-retreat-nevada-city-2026\nDetails: https://sf.funcheap.com/nevada-city-f
+ oraging-campout/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/highre
+ s_535446958.png
+LAST-MODIFIED:20261007T060815Z
+LOCATION:TBA\, Nevada City
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/nevada-city-foraging-campout/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Dance Fitness Class by Rae Studios

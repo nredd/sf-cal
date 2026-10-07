@@ -709,6 +709,34 @@
   },
   {
    "source": "caldiscovery-festival",
+   "source_id": "9587fd1ce4e58da5",
+   "title": "Fleet Week San Francisco",
+   "start": "2026-10-08T00:00:00-07:00",
+   "end": "2026-10-09T00:00:00-07:00",
+   "all_day": true,
+   "bucket": "arts-community",
+   "venue": null,
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://www.hotelcaza.com/explore/event-calendar/fleet-week-san-francisco?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Fleet Week San Francisco\n\nFleet Week honors the U.S. Navy and Marine services with a week of historic ship tours, community concerts, and a world-famous air show .",
+   "image_url": null,
+   "categories": [
+    "community",
+    "festival"
+   ],
+   "notes": [
+    "Published by Calendar Of Events",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-festival",
    "source_id": "642e1f13e8baa749",
    "title": "Valencia Street: Valencia LIVE! 2026",
    "start": "2026-10-08T17:00:00-07:00",
@@ -924,7 +952,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "You’re invited to our second annual Fall Harvest Festival!\nJoin us for a blueberry pruning demonstration, a succulent pumpkin workshop, and local artisans and vendors. Enjoy family friendly activities like a kid’s craft, face painting, Music Time with Farmer Arann, and a harvest scavenger hunt. Grab a coffee or cider and listen to local bluegrass artists while you soak in the autumnal vibes.\nSaturday, October 10\nAll festivities from 10-3pm\n10:00 AM | Blueberry Pruning Demonstration with Expert Elizabeth Ruiz\n11:00 AM to 12:00 PM | Music Time with Farmer Arann (Interactive Kids Music)\n1:00 PM to 2:30 PM | Bluegrass Music\n2:00 PM to 3:00 PM | Succulent Pumpkin Workshop, $75/person, please call the store to register: 415-566-4415\nThe harvest fun doesn’t stop there! Catch it in Petaluma (9/19), Concord (9/26), and Novato (10/3) too.",
+   "description": "You’re invited to our second annual Fall Harvest Festival!\nJoin us for a blueberry pruning demonstration, a succulent pumpkin workshop, and local artisans and vendors. Enjoy family friendly activities like a kid’s craft, face painting, Music Time with Farmer Arann, and a harvest scavenger hunt. Grab a coffee or cider and listen to local bluegrass artists while you soak in the autumnal vibes.\nSaturday, October 10\nAll festivities from 10-3pm\n10:00 AM | Blueberry Pruning Demonstration with Expert Elizabeth Ruiz\n11:00 AM to 12:00 PM | Music Time with Farmer Arann (Interactive Kids Music)\n12:30 PM to 2:00 PM | Bluegrass Music\n2:00 PM to 3:00 PM | Succulent Pumpkin Workshop, $75/person, please call the store to register: 415-566-4415\nThe harvest fun doesn’t stop there! Catch it in Petaluma (9/19), Concord (9/26), and Novato (10/3) too.",
    "image_url": null,
    "categories": [
     "festival"
@@ -1109,7 +1137,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "605b47b437b7433a",
+   "source_id": "aa1f0b1f4e79dcaf",
    "title": "San Francisco Italian Heritage Festival & Parade",
    "start": "2026-10-11T00:00:00-07:00",
    "end": "2026-10-12T00:00:00-07:00",
@@ -2115,7 +2143,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "b521722bd5860842",
+   "source_id": "90e862e38c1503b4",
    "title": "Día de los Muertos Procession & Festival of Altars 2026",
    "start": "2026-11-02T00:00:00-08:00",
    "end": "2026-11-03T00:00:00-08:00",
@@ -2202,7 +2230,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "89c56b320347479a",
+   "source_id": "d6fb0dc2df4c9e92",
    "title": "San Francisco Coffee Festival 2026",
    "start": "2026-11-07T00:00:00-08:00",
    "end": "2026-11-08T00:00:00-08:00",
@@ -2342,7 +2370,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "a92ea09483f966d6",
+   "source_id": "c35d2f81a77cb8b9",
    "title": "San Francisco Hip-Hop Dance Festival",
    "start": "2026-11-13T00:00:00-08:00",
    "end": "2026-11-14T00:00:00-08:00",
@@ -4694,7 +4722,7 @@
     -122.030816
    ],
    "url": "https://dothebay.com/events/2026/10/6/performing-arts-series-for-students-alphabet-rockers-grade-k-8-tickets",
-   "ticket_url": "https://my.montalvoarts.org/3063/3075",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -4718,7 +4746,7 @@
    "locality": "St. Helena",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/the-world-atlas-of-wine-book-event-and-signing-with-jancis-robinson-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fworld-atlas-of-wine-book-event-and-signing-with-jancis-robinson-tickets-2000524020197%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue",
+   "ticket_url": null,
    "price_text": "$45, 21+",
    "is_free": false,
    "sold_out": false,
@@ -4745,7 +4773,7 @@
     -122.030816
    ],
    "url": "https://dothebay.com/events/2026/10/6/performing-arts-series-for-students-alphabet-rockers-grade-k-8-tickets-x6r65qr",
-   "ticket_url": "https://my.montalvoarts.org/3063/3076",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -4769,7 +4797,7 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/grupo-de-asistencia-legal-del-programa-latino-tickets",
-   "ticket_url": "https://resources.sfaf.org/event/grupo-de-asistencia-legal-del-programa-latino/2026-10-06/",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -4793,7 +4821,7 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/grupos-de-educacion-sobre-salud-del-programa-latino-tickets",
-   "ticket_url": "https://resources.sfaf.org/event/grupos-de-educacion-sobre-salud-del-programa-latino/2026-10-06/",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -4817,7 +4845,7 @@
    "locality": "Corte Madera",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/mvff-flies-tickets",
-   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=581971~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -4841,7 +4869,7 @@
    "locality": "Corte Madera",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/mvff-jail-time-records-tickets",
-   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=581965~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -4865,7 +4893,7 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/made-in-sf-handcrafted-to-high-tech-manufacturing-in-dogpatch-tickets",
-   "ticket_url": "https://on.sfpl.org/Made-in-SF-26",
+   "ticket_url": null,
    "price_text": "Free",
    "is_free": true,
    "sold_out": false,
@@ -4894,7 +4922,7 @@
     -122.498063
    ],
    "url": "https://dothebay.com/events/2026/10/6/the-history-of-concrete-tickets",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/19995?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -4947,7 +4975,7 @@
     -122.2568119
    ],
    "url": "https://dothebay.com/events/2026/10/6/jungle-world-tour-2026-rio-kosta-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjungle-berkeley-california-10-06-2026%2Fevent%2F1C006474CCD8F68D%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
+   "ticket_url": null,
    "price_text": "all ages",
    "is_free": false,
    "sold_out": true,
@@ -4977,7 +5005,7 @@
     -122.4126145
    ],
    "url": "https://dothebay.com/events/2026/10/6/sf-tech-week-building-your-discord-server-tickets",
-   "ticket_url": "https://www.dnalounge.com/calendar/2026/10-06a.html",
+   "ticket_url": null,
    "price_text": "Free with RSVP. all ages.",
    "is_free": true,
    "sold_out": false,
@@ -5006,7 +5034,7 @@
     -122.2697649
    ],
    "url": "https://dothebay.com/events/2026/10/6/president-north-american-campaign-2026-tickets",
-   "ticket_url": "https://www.theuctheatre.org/shows/president-06-oct#tickets",
+   "ticket_url": null,
    "price_text": "$51.86, All ages",
    "is_free": false,
    "sold_out": false,
@@ -5036,7 +5064,7 @@
     -122.4193588
    ],
    "url": "https://dothebay.com/events/2026/10/6/dj-lotta-notta-tickets",
-   "ticket_url": "http://makeoutroom.com",
+   "ticket_url": null,
    "price_text": "FREE",
    "is_free": true,
    "sold_out": false,
@@ -5060,7 +5088,7 @@
    "locality": "Corte Madera",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/mvff-illusion-of-everlasting-summer-tickets",
-   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=581967~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5087,7 +5115,7 @@
     -122.419185
    ],
    "url": "https://dothebay.com/events/2026/10/6/union-county-tickets",
-   "ticket_url": "https://drafthouse.com/sf/show/union-county?cinemaId=0802&sessionId=21868",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5114,7 +5142,7 @@
     -122.4347365
    ],
    "url": "https://dothebay.com/events/2026/10/6/sammy-rae-the-friends-melt-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsammy-rae-the-friends-san-francisco-california-10-06-2026%2Fevent%2F1C006470DAC1EA51%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
+   "ticket_url": null,
    "price_text": "all ages",
    "is_free": false,
    "sold_out": false,
@@ -5144,7 +5172,7 @@
     -122.2700635
    ],
    "url": "https://dothebay.com/events/2026/10/6/cavetown-chloe-moriondo-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcavetown-running-with-scissors-tour-oakland-california-10-06-2026%2Fevent%2F1C006488BCD0F8D6%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
+   "ticket_url": null,
    "price_text": "All Ages",
    "is_free": false,
    "sold_out": false,
@@ -5174,7 +5202,7 @@
     -122.418809
    ],
    "url": "https://dothebay.com/events/2026/10/6/the-menzingers-everything-i-ever-saw-north-american-tour-tickets",
-   "ticket_url": "https://wl.seetickets.us/event/the-menzingers-everything-i-ever-saw-north-american-tour/688932?afflky=GreatAmericanMusicHall",
+   "ticket_url": null,
    "price_text": "$40-$45",
    "is_free": false,
    "sold_out": false,
@@ -5200,7 +5228,7 @@
    "locality": "Sacramento",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/the-dresden-dolls-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-dresden-dolls-yes-virginia-tailors-sacramento-california-10-06-2026%2Fevent%2F1C00649EED5AC7A9%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
+   "ticket_url": null,
    "price_text": "all ages",
    "is_free": false,
    "sold_out": false,
@@ -5230,7 +5258,7 @@
     -122.4143902
    ],
    "url": "https://dothebay.com/events/2026/10/6/ray-lau-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fray-lau-san-francisco-california-10-06-2026%2Fevent%2F1C0064E7A4EEB526",
+   "ticket_url": null,
    "price_text": "18+",
    "is_free": false,
    "sold_out": true,
@@ -5257,7 +5285,7 @@
     -122.2695537
    ],
    "url": "https://dothebay.com/events/2026/10/6/benmont-tench-tickets",
-   "ticket_url": "https://secure.thefreight.org/16070/16071-benmont-tench-261006",
+   "ticket_url": null,
    "price_text": "$26 - $44, All Ages",
    "is_free": false,
    "sold_out": false,
@@ -5286,7 +5314,7 @@
     -122.3894164
    ],
    "url": "https://dothebay.com/events/2026/10/6/golden-state-warriors-vs-los-angeles-lakers-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-los-angeles-san-francisco-california-10-06-2026%2Fevent%2F1C0064EABC593918",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5310,7 +5338,7 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/kebab-showdown-tickets",
-   "ticket_url": "https://www.kqed.org/event/6809/kebab-showdown",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5337,7 +5365,7 @@
     -122.498063
    ],
    "url": "https://dothebay.com/events/2026/10/6/digger-tickets",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/19888?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5347,6 +5375,35 @@
     "Theatre & Performing Arts"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17930122",
+   "title": "Texas Tuesdays - Line Dancing with Cindy Tang - Tuesday, October 6, 2026",
+   "start": "2026-10-06T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/10/6/texas-tuesdays-line-dancing-with-cindy-tang-tuesday-october-6-2026-tickets",
+   "ticket_url": null,
+   "price_text": "$10",
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34835757/d71786c9-ab99-4bc8-a8ab-3496011b3aba.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
   },
   {
    "source": "dothebay",
@@ -5364,7 +5421,7 @@
     -122.4376556
    ],
    "url": "https://dothebay.com/events/2026/10/6/enter-shikari-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fenter-shikari-the-independent-tickets%2F14820563%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "ticket_url": null,
    "price_text": "21+",
    "is_free": false,
    "sold_out": false,
@@ -5393,7 +5450,7 @@
     -122.4001359
    ],
    "url": "https://dothebay.com/events/2026/10/6/brian-babylon-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fbrian-babylon-san-francisco-california-10-06-2026%2Fevent%2F1C0064ED02F5FAE9",
+   "ticket_url": null,
    "price_text": "18+",
    "is_free": false,
    "sold_out": false,
@@ -5420,7 +5477,7 @@
     -122.4376556
    ],
    "url": "https://dothebay.com/events/2026/10/6/cure-for-paranoia-tickets",
-   "ticket_url": "https://www.theindependentsf.com/tm-event/cure-for-paranoia/",
+   "ticket_url": null,
    "price_text": "All Ages",
    "is_free": false,
    "sold_out": false,
@@ -5450,7 +5507,7 @@
     -122.498063
    ],
    "url": "https://dothebay.com/events/2026/10/6/la-belle-et-la-bete-tickets",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/19887?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5477,7 +5534,7 @@
     -122.4331332
    ],
    "url": "https://dothebay.com/events/2026/10/6/my-morning-jacket-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmy-morning-jacket-san-francisco-california-10-06-2026%2Fevent%2F1C0064761A478027",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": true,
@@ -5504,7 +5561,7 @@
     -121.894023
    ],
    "url": "https://dothebay.com/events/2026/10/6/killer-queen-a-tribute-to-queen-tickets",
-   "ticket_url": "https://etix.prf.hn/click/camref:1011l3GdWo/pubref:dostuff/destination:https%3A%2F%2Fwww.etix.com%2Fticket%2Fp%2F40532103%2Fkiller-queena-tribute-to-queen-monterey-golden-state-theatre",
+   "ticket_url": null,
    "price_text": "$43.17-$95.70",
    "is_free": false,
    "sold_out": false,
@@ -5531,7 +5588,7 @@
     -122.4103578
    ],
    "url": "https://dothebay.com/events/2026/10/6/hokus-pokus-live-tickets",
-   "ticket_url": "https://www.axs.com/events/1454238/hokus-pokus-live-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001?cid=usaffdostuff",
+   "ticket_url": null,
    "price_text": "All Ages",
    "is_free": false,
    "sold_out": false,
@@ -5560,7 +5617,7 @@
     -122.2671777
    ],
    "url": "https://dothebay.com/events/2026/10/6/evening-elephants-tickets",
-   "ticket_url": "https://www.tixr.com/groups/cornerstoneberkeley/events/evening-elephants-192984",
+   "ticket_url": null,
    "price_text": "$0, All ages",
    "is_free": true,
    "sold_out": true,
@@ -5587,7 +5644,7 @@
     -122.4224081
    ],
    "url": "https://dothebay.com/events/2026/10/6/a-lizard-in-a-woman-s-skin-tickets",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22105?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5611,7 +5668,7 @@
    "locality": "Corte Madera",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/6/mvff-shorts-city-of-the-dead-tickets",
-   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=581968~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
@@ -5665,7 +5722,7 @@
     -122.4143902
    ],
    "url": "https://dothebay.com/events/2026/10/6/ray-lau-october-6-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fray-lau-san-francisco-california-10-06-2026%2Fevent%2F1C0064F610823AC3%3FrefArtist%3DK8vZ917qoD0%26f_simplified_filter%3Dtrue%26f_enable_merch_slot%3Dtrue",
+   "ticket_url": null,
    "price_text": "18+",
    "is_free": false,
    "sold_out": true,
@@ -5692,7 +5749,7 @@
     -122.4193588
    ],
    "url": "https://dothebay.com/events/2026/10/6/techno-tuesday-w-dj-glassjack-tickets",
-   "ticket_url": "http://makeoutroom.com",
+   "ticket_url": null,
    "price_text": "FREE",
    "is_free": true,
    "sold_out": false,
@@ -6147,19 +6204,19 @@
    "end": null,
    "all_day": false,
    "bucket": "music",
-   "venue": "The UC Theatre",
-   "address": "2036 University Ave, Berkeley,  Berkeley, CA, 94704",
+   "venue": "Cornerstone",
+   "address": "2367 Shattuck Ave., Berkeley, Berkeley, CA, 94704",
    "locality": "Berkeley",
    "geo": [
-    37.8718207,
-    -122.2697649
+    37.8663423,
+    -122.2671777
    ],
    "url": "https://dothebay.com/events/2026/10/7/son-lux-tickets",
    "ticket_url": "https://www.theuctheatre.org/shows/son-lux-07-oct#tickets",
    "price_text": "All Ages",
    "is_free": false,
    "sold_out": false,
-   "description": "Son Lux\nWednesday, October 7 | The UC Theatre",
+   "description": "MOVED FROM THE UC THEATRE\n\nSon Lux\nWednesday, October 7 | Cornerstone",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32227009/feb0d678-e8e2-4238-a844-714f33817798.jpg",
    "categories": [
     "Music"
@@ -6879,7 +6936,7 @@
    "ticket_url": "https://www.theuctheatre.org/shows/dying-fetus-and-sanguisugabogg-08-oct#tickets",
    "price_text": "$51.86, All Ages",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Dying Fetus + Sanguisugabogg\nThursday, October 8 | The UC Theatre",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31755587/e2499778-3ffd-494a-9d6a-c6ab3f7119e1.jpg",
    "categories": [
@@ -7234,6 +7291,32 @@
    ],
    "notes": [
     "ARHOOLIE FOUNDATION PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17930016",
+   "title": "Translator to Translator: Translating Diaspora",
+   "start": "2026-10-08T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "KALW @ 220 Montgomery",
+   "address": "220 Montgomery St, San Francisco, CA, 94104",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/8/translator-to-translator-translating-diaspora-tickets",
+   "ticket_url": "https://events.humanitix.com/translator-to-translator-translating-diaspora",
+   "price_text": "Free",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Aaron Coleman and Jon Cho-Polizzi discuss the challenges and revelations of translating the Black diaspora: examining continuities and ruptures across languages, geographies, and time. The global popularity of Black American culture can provide a reference point across the Black diaspora, but it also serves to obscure local traditions of art and resistance that have developed both independently and in conversation with other diasporic narratives over centuries.\n\nAaron will discuss his own work as a poet and its influence on his practice in the context of his 2024 translation of Afro-Cuban poet Nicolás Guillén's The Great Zoo, while Jon reflects on the growing visibility of Black and Afro-German art and literature.\n\nAbout Translator to Translator\n\nTranslator to Translator is a translator-curated event series at CAT featuring conversations about the intersections of literature, activism, and identity.\n\nThis event series places the Center for the Art of Translation’s (CAT’s) public programming resources directly into the hands of translators, empowering them to curate provocative and timely conversations about language, global literature, and the art of translation. By inviting guest curators to shape our programming, we are creating a space for dream interviews, deep investigations, and fresh perspectives on the work we love.\n\nThis series is designed to strengthen our translator community and bring new voices into the discussion. Whether you are a translator, an author, or simp...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34835205/0243728e-314f-4f76-aa85-305508633b81.jpg",
+   "categories": [
+    "Literature"
+   ],
+   "notes": [
+    "KALW Public Media"
    ]
   },
   {
@@ -8141,6 +8224,32 @@
    ],
    "notes": [
     "LelandPro Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17929998",
+   "title": "Voting Matters: California Voter Guide Live with CalMatters",
+   "start": "2026-10-09T18:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "KALW @ 220 Montgomery",
+   "address": "220 Montgomery St, San Francisco, CA, 94104",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/9/voting-matters-california-voter-guide-live-with-calmatters-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fvoting-matters-california-voter-guide-live-with-calmatters-tickets-2002474941455%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Join KALW & CalMatters for a live voter guide presentation that will answer your questions about the candidates & issues on the Nov. ballot.\n\nDo you have questions about the election? Where do the candidates stand on the issues? What does the insurance commissioner do?\n\nPlease join KALW as we welcome the nonprofit statewide publication CalMatters to breakdown, analyze, and answer your burning questions about this year’s primary election, in a conversation centered around the latest edition of their Voter Guide.\n\nDan Hu manages strategic partnerships at CalMatters, a nonprofit publication focused on California’s statewide issues. Previously, Dan was the executive director of The Yappie, a nonprofit publication focused on AAPI political news. Through his service on the boards of LION Publishers and the Glen Nelson Center at American Public Media Group, Dan is focused on supporting local news across the country.\n\nThere is a $10 - $20 sliding scale suggested donation for this event. Nobody will be turned away for lack of funds.\n\nPlease become a KALW member today and receive your first drink on us at all 220 Montgomery events.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34835074/a1d5cd9a-e8ac-4429-ae7d-2f4df705ebe6.jpg",
+   "categories": [
+    "Activism"
+   ],
+   "notes": [
+    "KALW Public Media"
    ]
   },
   {
@@ -9467,6 +9576,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17929690",
+   "title": "Santa Clara City Library Comic Con",
+   "start": "2026-10-10T10:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Central Park Library",
+   "address": "2635 Homestead Road, Santa Clara, CA 95051, Santa Clara, CA, 95051",
+   "locality": "Santa Clara",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/10/santa-clara-city-library-comic-con-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F1981259289870%3Faff%3Doddtdtcreator",
+   "price_text": "Free, All Ages",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Mark your calendars and save the date - Comic Con is back for 2026!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34833780/c1cd7967-7a5f-4cdd-9e9c-c08a29fdd125.jpg",
+   "categories": [
+    "Festival"
+   ],
+   "notes": [
+    "Central Park Library presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "16889234",
    "title": "Makers Market™ Local Artist Street Fair @ Santana Row",
    "start": "2026-10-10T11:00:00-07:00",
@@ -9737,7 +9872,7 @@
    "price_text": "Free, All Ages",
    "is_free": true,
    "sold_out": false,
-   "description": "Fleet Week is coming to the Bayview!",
+   "description": "Fleet Week is coming to the Bayview!\n\nCelebrate Fleet Week and the Bayview-Hunters Point community with a free concert featuring Golden West Brass, part of the U.S. Air Force Band of the Golden West. Kids and families can also enjoy military challenges, outdoor games and contests, Fleet Week swag, free boat rides, community rowing, and more.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34793157/094c1935-6aa5-41c4-86c2-f7f708ca76b8.jpg",
    "categories": [
     "Arts & Family"
@@ -9787,7 +9922,7 @@
    "price_text": "Free, All Ages",
    "is_free": true,
    "sold_out": false,
-   "description": "Off the Grid & Dirtybird Present\nDirtybird x Off the Grid Treasure Island: Fleet Week\nSaturday, October 10 | Cityside Park, Treasure Island\n\nRSVP FOR YOUR FREE FERRY PASS!\n\nFor Fleet Week, Off the Grid is teaming up with Bay Area-born Dirtybird for an afternoon of music on the waterfront.\n\nFleet Week hits the water and throws down with Dirtybird on Treasure Island. Bass on the bay, ships on the horizon, our biggest food lineup of the season. Catch Fleet Week from Treasure Island with waterfront views, Dirtybird bringing the music, local food + drinks, kites, and a free ferry ride from San Francisco. Fleet Week hits different from the Island\n\nMusic: Dirtybird x EMPIRE\n\nSaturday, October 10\n11AM to 4PM\nCityside Park, Treasure Island\n\nSkip the Fleet Week Traffic\nTake the ferry from San Francisco to Treasure Island for an afternoon of Fleet Week views, Dirtybird, local food + drinks, kites, and music by the Bay. CLAIM YOUR FREE FERRY PASS!\nOne ferry pass covers up to two adults and two children.",
+   "description": "Off the Grid + Dirtybird Present\nDirtybird x Off the Grid Treasure Island: Fleet Week\nwith Spooki, Dwata, & Ardalan\n\nSaturday, October 10 | Cityside Park, Treasure Island\n\nRSVP FOR YOUR FREE FERRY PASS!\n\nFor Fleet Week, Off the Grid is teaming up with Bay Area-born Dirtybird for an afternoon of music on the waterfront!\n\nOn Saturday, October 10, watch the Blue Angels from Treasure Island with Dirtybird on the decks at Off the Grid, featuring bass on the Bay, ships on the horizon, the Blue Angels overheard, and our biggest food lineup of the season.\n\nCatch Fleet Week from Treasure Island with waterfront views, an afternoon soundtrack from Dirtybird's Spooki, Dwata, & Ardalan, local food + drinks, kites, and a free ferry ride from San Francisco. Fleet Week hits different from the Island.\n\nDirtybird x OTG Music Lineup:\n\nSPOOKI: 11AM-12:30PM\nDWATA: 12:30PM-2PM\nARDALAN: 2PM-4PM\n\nEvent Details\nSaturday, October 10\n11AM to 4PM\nCityside Park, Treasure Island\n\nSkip the Fleet Week Traffic\nTake the ferry from San Francisco to Treasure Island for an afternoon of Fleet Week views, Dirtybird, local food + drinks, kites, and music by the Bay. CLAIM YOUR FREE FERRY PASS!\nOne ferry pass covers up to two adults and two children.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34814466/c94ca96d-bc95-4394-a8e7-5fb8d4a7dd01.jpg",
    "categories": [
     "DJ/Parties"
@@ -10062,6 +10197,32 @@
    ],
    "notes": [
     "Santa Cruz Bake & Gather"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17929662",
+   "title": "Pokemon GO Zorua Community Day",
+   "start": "2026-10-10T13:30:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Central Park Santa Clara",
+   "address": "909 Kiely Boulevard, Santa Clara, CA, 95051",
+   "locality": "Santa Clara",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/10/pokemon-go-zorua-community-day-tickets",
+   "ticket_url": null,
+   "price_text": "Free, All Ages",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Join us for the Zorua Community Day event in Pokémon GO at Santa Clara Central Park from 1:30–5:00pm!\n\nThis Community Day features Zorua, which will be appearing far more frequently in the wild, along with an increased chance of encountering its Shiny form for a limited time. The community will be using Lure Modules at PokéStops to increase spawns, and various special event bonuses will be active.\n\nThis event is free and does not require registration. Just drop-in and play!\n\nOptionally check-in on Niantic Campfire for:\n• 4 Zorua with Special Background\n• 200 Zorua Candies & 30 XL Candies\n• Premium Battle Pass\n• Lucky Egg\n• Star Piece\n• Lure Module\n• 25 Rare Candies\n\nLearn more about Wild Goose at: www.wildgoosepogo.com",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34833551/820e836a-eb3b-49a9-aa9a-435c9dcac4b7.jpg",
+   "categories": [
+    "Outdoor & Recreation"
+   ],
+   "notes": [
+    "Wild Goose presents:"
    ]
   },
   {
@@ -12103,6 +12264,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17929498",
+   "title": "Michael Douglas with Lance Gardner - One Helluva Ride (Calvary Presbyterian, SF)",
+   "start": "2026-10-11T16:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Calvary Presbyterian Church - SF",
+   "address": "2515 Fillmore Street, San Francisco, CA, 94115",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/11/michael-douglas-with-lance-gardner-one-helluva-ride-calvary-presbyterian-sf-tickets",
+   "ticket_url": "https://bookpassage.com/event/michael-douglas-one-helluva-ride-calvary-presbyterian-sf",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Don't miss this extraordinary conversation with Academy Award-winning actor and producer Michael Douglas celebrating the release of his new memoir, One Helluva Ride. A signed bookplate edition of the book is included with each ticket.\nBeginning with his fractured childhood and a complex relationship with his superstar father, Kirk Douglas, Michael Douglas finally gives the full and uncensored account of a remarkable life. One Helluva Ride reveals incredible behind-the-scenes stories featuring a Who’s Who of Hollywood, many of them never revealed before and some outrageously funny, with an unflinching honesty about his sometimes bad-boy life.\nMichael will be joined in conversation by Lance Gardner the executive artistic director at Marin Theatre Company in Mill Valley.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34832156/bb680c63-48b3-4350-9163-9568033e70ad.jpg",
+   "categories": [
+    "Literature"
+   ],
+   "notes": [
+    "Book Passage Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17884762",
    "title": "All That Heaven Allows",
    "start": "2026-10-11T17:00:00-07:00",
@@ -14103,6 +14290,32 @@
    ],
    "notes": [
     "San Francisco Public Library"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17930512",
+   "title": "Reimagining Local News: From the Ground Up with Tiny News Collective",
+   "start": "2026-10-14T18:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "KALW @ The Warfield Commons",
+   "address": "988 Market St., 9th Fl, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/14/reimagining-local-news-from-the-ground-up-with-tiny-news-collective-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ffrom-the-ground-up-the-founders-reimagining-local-news-san-francisco-tickets-2001032681617%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Join Tiny News Collective for a conversation with the community-centered founders rebuilding and reimagining local news.\n\nFrom the Ground Up: The Founders Reimagining Local News\nYou already know one story about local news: outlets shrinking and closing, and chains buying up what remains.\nBut across the country, and here in San Francisco, a different story is being written. Founders are building small, independent newsrooms in the places they live, accountable to their neighbors. A form of community infrastructure, built on trust: tiny news.\nJoin us for a panel with Tiny News Collective executive director Amy Kovac-Ashley, COYOTE Media Collective co-founder Soleil Ho, News Relay Network co-founder Daphne Magnawa, and News Futures lead steward Darryl Holliday. They'll discuss new research on what it takes for tiny newsrooms to launch and last, and why these types of newsrooms are critical for the future of journalism and democracy.\nKALW @ Warfield Commons\n998 Market St., San Francisco\nDoors open at 6:00\nProgram begins at 6:30\nRefreshments will be served\nThe event is free with an RSVP — and you are welcome to make a donation meaningful to you.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34837474/acea6466-ac30-45e2-ab8b-c7afe9be1e08.jpg",
+   "categories": [
+    "Activism"
+   ],
+   "notes": [
+    "KALW Public Media"
    ]
   },
   {
@@ -17993,7 +18206,7 @@
    "price_text": "Free - $10 suggested donation, 21+",
    "is_free": true,
    "sold_out": false,
-   "description": "The Jack London Improvement District Presents\nJack O' London Pup Crawl: Halloween Edition\nSaturday, October 17 | Jack London District\n\nOakland’s Jack London neighborhood is notoriously dog-friendly and after the success of our first Jack London Pup Crawl in April, we're cultivating more canine culture this spooky szn! Get yourself & your pups ready for another mega dog-friendly bar and restaurant crawl!\n\nJoin us for the Jack O' London Pup Crawl on Saturday, October 17th for a Halloween-themed afternoon of eating, drinking, exploring, and celebrating with your four-legged best friend. Visit participating Jack London bars, breweries, and restaurants and enjoy exclusive discounts on cocktails, beers, NA drinks, and bites — all while your pup tags along!\n\nBreak out the doggie costumes, grab your leash, and get ready to explore Jack London with your furry friend!\n\nThis event is FREE to attend with RSVP, but we highly encourage you to make an optional donation on Eventbrite to support Oakland Animal Services. It’s the perfect way to give back while having a fun day with your two- and four-legged pals! PLUS – you'll get a free swag item at check in with donation.\n\nHOW IT WORKS\n\nStep 1: RSVP for free! Ticket holders must be 21+.\nStep 2: Check in at 333 Broadway starting at 2pm on Saturday, October 17th to pick up your official Pup Crawl wristband and printed event map.\nStep 3: Plan your own route! Visit participating bars, breweries, and restaurants throughout the Jack London Distric...",
+   "description": "The Jack London Improvement District Presents\nJack O' London Pup Crawl: Halloween Edition\nSaturday, October 17 | Jack London District\n\nOakland’s Jack London neighborhood is notoriously dog-friendly and after the success of our first Jack London Pup Crawl in April, we're cultivating more canine culture this spooky szn! Get yourself & your pups ready for another mega dog-friendly bar and restaurant crawl!\n\nJoin us for the Jack O' London Pup Crawl on Saturday, October 17th for a Halloween-themed afternoon of eating, drinking, exploring, and celebrating with your four-legged best friend. Visit participating Jack London bars, breweries, and restaurants and enjoy exclusive discounts on cocktails, beers, NA drinks, and bites — all while your pup tags along!\n\nBreak out the doggie costumes, grab your leash, and get ready to explore Jack London with your furry friend!\n\nThis event is FREE to attend with RSVP, but we highly encourage you to make an optional donation on Eventbrite to support Oakland Animal Services. It’s the perfect way to give back while having a fun day with your two- and four-legged pals! PLUS – you'll get a free swag item at check in with donation.\n\nThe online guide is LIVE! Check out the specials & plan your route here.\n\nHOW IT WORKS\n\nStep 1: RSVP for free! Ticket holders must be 21+.\nStep 2: Check in at 333 Broadway starting at 2pm on Saturday, October 17th to pick up your official Pup Crawl wristband and printed event map.\nStep 3: Plan your own route! Visit partici...",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34468974/1331390e-be03-42ea-8b6e-3b0cc8aa3555.jpg",
    "categories": [
     "Food & Drink"
@@ -18591,11 +18804,11 @@
     -122.2697649
    ],
    "url": "https://dothebay.com/events/2026/10/17/elephant-revival-tickets",
-   "ticket_url": "https://www.theuctheatre.org/shows/elephant-revival-17-oct#tickets",
+   "ticket_url": "https://www.theuctheatre.org/shows/elephant-revival-17-oct",
    "price_text": "$45.15-$77.11, All ages",
    "is_free": false,
    "sold_out": false,
-   "description": "Elephant Revival’s music is like weather systems meeting in the sky, Bonnie’s warmly haunting voice either merging with the rhythms and melodies of the band or providing a counterpoint and transforming it.\n\nThey are a unique collection of multi-instrumentalists blending elements of Celtic, Americana, Folk and Indie Art Rock; Bonnie Paine (vocals, cello, djembe, washboard, musical saw and stomp box) Bridget Law (fiddles, vocals), Dango Rose (upright bass, mandolin, vocals), Darren Garvey (drums, percussion, vocals) and are often joined by other surprise guests.",
+   "description": "The UC Theatre + (((folkYEAH!))) Present\nElephant Revival\nSaturday, October 17 | The UC Theatre",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33742911/7c84977a-6223-4e3b-bb1e-0085b15ee16b.jpg",
    "categories": [
     "Music"
@@ -21228,6 +21441,32 @@
    ],
    "notes": [
     "Book Passage Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17929657",
+   "title": "Silicon Valley Open Squash Championship Free FanFest",
+   "start": "2026-10-20T16:30:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Squash Zone",
+   "address": "3586 Haven Ave, Redwood City, CA, 94063",
+   "locality": "Redwood City",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/20/silicon-valley-open-squash-championship-free-fanfest-tickets",
+   "ticket_url": "https://siliconvalleyopen.com/",
+   "price_text": "Evening match tix sold separately",
+   "is_free": true,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34833480/79945934-81e1-446e-94ef-4782eb673088.jpg",
+   "categories": [
+    "Sports"
+   ],
+   "notes": [
+    "Silicon Valley Open Presents:"
    ]
   },
   {
@@ -54304,150 +54543,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1637640",
-   "title": "Claire Ibarra – Alteration",
-   "start": "2026-09-29T16:00:00-07:00",
-   "end": "2026-09-29T19:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage (Corte Madera)",
-   "address": "51 Tamal Vista Blvd. Corte Madera, CA",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/claire-ibarra-alteration/",
-   "ticket_url": "https://bookpassage.com/event/claire-ibarra-alteration",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerWith wit, wonder, and a sharp eye for the absurd, Alteration invites us to ask what happens when we stop merely performing and begin fully living – one unexpected revelation at a time.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/claire-ibarra400-x-580-px-1.png",
-   "categories": [
-    "Literature"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1638256",
-   "title": "10% Off: “Tapas Tuesdays” in Union Square",
-   "start": "2026-09-29T16:00:00-07:00",
-   "end": "2026-09-29T21:00:00-07:00",
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "Bota Tapas and Paella Bar",
-   "address": "490 Geary Street, San Francisco, CA 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/10-tapas-tuesdays-union-square-sf/",
-   "ticket_url": "https://www.botasf.com/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerBota Tapas & Paella Bar near Downtown San Francisco and Union Square is doing “Tapas Tuesdays” and enjoy all of our delicious Spanish Tapas at 10% Off. Just mention “Tapas Tuesday” to our server before ordering to get the discount.\nAbout Bota Tapas and Paella Bar\n\nAs an age-old tradition dating back to the early 1800s, Spanish travelers used “BOTA”, or traditional sheep-skinned repositories, to transport and share their wine. The Spaniards historically thrived on the values of sharing and community: two ideals that have buoyantly withstood the test of time. Tailored around these same ideals are Spain’s cuisine and the development of “tapas,” style dining – where individuals share small plates and memories. From Seville to San Francisco, and across the world, our goal is to initiate more memories – this is why and how we operate. Whether it be with your friends or family, we here at Bota sincerely hope that you enjoy this stop on your journey.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_5118.png",
-   "categories": [
-    "Lgbtq"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1626724",
-   "title": "Grammy-Nominated Pianist Joey Alexander Live (Oakland)",
-   "start": "2026-09-29T17:30:00-07:00",
-   "end": "2026-09-29T21:30:00-07:00",
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Piedmont Piano Company",
-   "address": "1728 San Pablo Ave, Oakland, CA 94612",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://sf.funcheap.com/grammynominated-pianist-joey-alexander-live-oakland/",
-   "ticket_url": "https://eventvesta.com/events/153309/t/tickets",
-   "price_text": "$35.00",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerGRAMMY-nominated pianist and composer Joey Alexander makes his debut at the piano store to share his newest album Celestial Keeper (July 2026, Mack Avenue Records). He reflects on creativity, faith, gratitude, and personal transformation, exploring the challenge of overcoming doubt and artist’s block. This album arrives during a pivotal chapter in Alexander’s life, following his family’s recent move back to his native Bali. Reimmersing himself in Indonesia’s nature and rhythm of life profoundly shaped the album’s aura of beauty and wonder.\nHappens on the following Dates:\nSep 29, 2026, 5:30pm to 7:00pm Timezone: Pacific Time (US & Canada)\nSep 29, 2026, 8:00pm to 9:30pm Timezone: Pacific Time (US & Canada)",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/07/Joey-Alexander.png",
-   "categories": [
-    "Live Music Event"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1633351",
-   "title": "How Women Artists Can Create Financial Abundance: Panel Discussion",
-   "start": "2026-09-29T17:30:00-07:00",
-   "end": "2026-09-29T20:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Commonwealth Club (SF) (110 The Embarcadero)",
-   "address": "110 The Embarcadero, San Francisco CA",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/women-artists-create-financial-abundance-panel-discussion/",
-   "ticket_url": "https://www.commonwealthclub.org/events/2026-09-29/women-empowering-women-3-creating-financial-abundance",
-   "price_text": "$54.00",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerNCWCA (Northern California Women’s Caucus for Art), in partnership with Commonwealth Club World Affairs, will present “Creating Financial Abundance,” a panel discussion for women in the arts, on Tuesday, September 29 in San Francisco. The program runs 5 to 8 p.m. and focuses on fiscal management, budgeting, investment strategies, and resources to help women artists build toward financial security and wealth. An interactive audience session follows the panel, then a networking reception with refreshments sponsored by Schwab Corporation.\nThe panelists bring substantial experience in starting businesses, running an art practice as a business, and building wealth:\n\nSheila Cunningham is an executive and business coach. Her focus is teaching practical tools which give businesses a solid grasp of financials, organizational management, and sales processes to increase profitability for small businesses. Sheila’s career has been spent studying successful and unsuccessful businesses as a reporter and editor at BusinessWeek magazine, as well as spending ten years in entrepreneurial ventures. Sheila is Trustee and Treasurer of the Mechanics’ Institute and a member of the Financial Women of San Francisco.\n\nRegina Tsai is a Schwab Certified Financial Planner and Wealth Strategist who has been a senior wealth advisor since 2017. As a core member of a Schwab Wealth Advisory™ Team, she provides periodic investment recommendations and insights from the Schwab Cen...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/WeW3.png",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1638698",
-   "title": "Free Filipino “Undscvrd” Entrepreneur Summit (SoMa)",
-   "start": "2026-09-29T18:30:00-07:00",
-   "end": "2026-09-29T21:30:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Brave New Spaces",
-   "address": "447 Minna St, San Francisco, CA 94103",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-filipino-undscvrd-entrepreneur-summit-soma/",
-   "ticket_url": "https://www.undiscoveredsf.com/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerThe UNDSCVRD Entrepreneur Summit brings together a curated group of Filipino entrepreneurs, founders, creatives, and community leaders across industries for an evening of connection, conversation, and collective visioning.\nAs Kultivate Labs celebrates 10 years of supporting entrepreneurs and building economic opportunity in SOMA Pilipinas Filipino Cultural Heritage District, we’re entering a new chapter. In the years ahead, our work will expand beyond the boundaries of the Filipino Cultural District to support entrepreneurs across San Francisco and, eventually, beyond – while building on our roots in the Filipino community and extending what we’ve learned to other Black, Indigenous Entrepreneurs of Color.\n\nThe Summit is an opportunity for entrepreneurs to help inform where we go next. Following networking and a short presentation on the state of small business, economic development, and our vision for the Filipino Cultural District, attendees will take part in facilitated conversations around three key areas:\nEksplora: AI + Entrepreneurship – Get an early introduction to Eksplora, Kultivate Labs’ new AI learning initiative, and help us shape how it can best serve entrepreneurs. We’ll explore how you’re using AI today, where the biggest gaps and opportunities are, and what kinds of tools, training, and hands-on support would help you put AI to work in your business.\nKapwa Gardens 2.0 – Help us review emerging concepts for the next evolution of K...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/4727_v0.jpg",
-   "categories": [
-    "Lectures Workshops"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1634738",
-   "title": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
-   "start": "2026-09-29T19:30:00-07:00",
-   "end": "2026-09-29T22:00:00-07:00",
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "Underdogs Cantina",
-   "address": "128 King St., San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-116/",
-   "ticket_url": "https://www.eventbrite.com/cc/1-margs-disco-taco-tuesday-2704929",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event Organizer$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Join us for a Disco Taco Tuesday at Underdogs Cantina with $1 MARGARITAS from 7:30pm – 8pm!\n$1 Margs & Disco Taco Tuesday\nEvery Tuesday at 7:30pm\nUnderdogs Cantina, 128 King St. (Across from ballpark), SF\nFREE (No Cover)\n$1 MARGARITAS from 7:30pm – 8:00pm\n\nMarch 17th\nMarch 24th\nMarch 31st\n\n25+ TVs // 300+ Capacity // Arcade Games\nHAPPY HOUR ALL NIGHT LONG!\n\nUpcoming $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa) Events\nTue 10/6 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 10/13 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 10/20 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 10/27 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Margs-Eventbrite-Cover.png",
-   "categories": [
-    "Club Dj"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1633676",
    "title": "$6 Drive-In Movie Night in Concord & San Jose",
    "start": "2026-09-29T20:30:00-07:00",
@@ -60954,6 +61049,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640153",
+   "title": "Make Them Lean In: Free Storytelling Workshop for Professionals (Albany)",
+   "start": "2026-10-08T12:00:00-07:00",
+   "end": "2026-10-08T13:30:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Albany Library, Edith Stone Room",
+   "address": "1247 Marin Ave, Albany, CA 94706",
+   "locality": "Albany",
+   "geo": null,
+   "url": "https://sf.funcheap.com/lean-free-storytelling-workshop-professionals-albany/",
+   "ticket_url": "https://www.eventbrite.com/e/make-them-lean-in-free-storytelling-workshop-for-professionals-tickets-2002689912439",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerGinaEver watched a room drift to their phones while you were talking? A good story is how you get them back.\nThis free, hands-on 90-minute workshop is for professionals, leaders and entrepreneurs. It is not a lecture. You bring one short story from your work or life and work on it out loud with live coaching and friendly feedback.\n\nYou will leave with techniques you can use on any story, plus a reliable way to open a presentation, a pitch, an interview answer or a toast. No experience needed, and you do not have to be funny or perform.\nLed by Gina Rapaport, PCC, ICF-certified speaking and leadership coach and founder of The WOW Speaker. Space is limited, so please register: https://www.eventbrite.com/e/make-them-lean-in-free-storytelling-workshop-for-professionals-tickets-2002689912439",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/make-them-lean-in.jpg",
+   "categories": [
+    "Lectures Workshops"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "142086",
    "title": "SF’s Fleet Week 2026: Blue Angels Arrival & Practice Survey Flights (2026)",
    "start": "2026-10-08T13:00:00-07:00",
@@ -60997,6 +61116,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-Page-Ticker-3.jpg",
    "categories": [
     "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1634289",
+   "title": "Nevada City All-Inclusive Foraging Retreat w/ Sauna + Yuba River Swims (Oct 8-12)",
+   "start": "2026-10-08T15:00:00-07:00",
+   "end": "2026-10-09T12:00:00-07:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "TBA",
+   "address": "Nevada City",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/nevada-city-foraging-campout/",
+   "ticket_url": "https://www.forkinthepath.org/registration-fall-retreat-nevada-city-2026",
+   "price_text": "$701.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerFork In The PathThis retreat includes 3 nights of camping with hot showers, all meals with farm and foraged fresh ingredients, and 4 days of Sierra Nevada ecological and foraging programming, including:\n\nswimming in the Yuba River\nedible & medicinal plant foraging\nbasket weaving from gourds & pine needles\nmaking natural sodas\nacorn & bay nuts\n\nWe’ll be camping together on a beautiful ranch with a sauna that’s 5 minutes from the river\n\nAbout Fork In The Path\nFork In The Path offers transformational foraging experiences in California for the adventurous of all ages.\nJoin us for a fun all-inclusive campout weekend filled with the fall foraged treasures of the Sierra Foothills, featuring acorns, bay nuts, plants, making natural sodas with wild yeasts and plants, weaving baskets from gourds and pine needles, and more!\nRosebud Ranch will be our home base for our weekend in Nevada City. They have a beautiful wooden bathhouse with hot showers, a cob wood-fired sauna, a fire pit with a stage for open mic (if you wish), and a shaded camping area. They are located just 5 minutes from the Hoyt Crossing of the glorious Yuba River, where you can swim in the limestone green waters to your heart’s content.\nThree meals a day will be provided, which are a mix of foraged and farm-fresh ingredients.\nCampout begins at 3pm on Thurs, and ends at 12 pm on Sunday, Oct 8-12th, 2026.\nCampout Draft Schedule *\n*All activities are optional – the schedule is a draft, the ord...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/highres_535446958.png",
+   "categories": [
+    "Outdoors"
    ],
    "notes": []
   },
@@ -61117,6 +61260,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-Page-Ticker-3.jpg",
    "categories": [
     "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1639894",
+   "title": "SF’s “Nightmare Bar” Immersive Halloween Cocktails (October 8-31)",
+   "start": "2026-10-08T17:00:00-07:00",
+   "end": "2026-10-08T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "1979 Union St., San Francisco",
+   "address": "1979 Union St., San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-nightmare-bar-immersive-halloween-cocktails-october-831/",
+   "ticket_url": "https://www.facebook.com/share/1C1V7c8R9P/",
+   "price_text": "$14.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerHi There,\nHalloween is getting a little more terrifying in San Francisco!\nNightmare Bar is returning to San Francisco this Halloween, running October 8–31, with immersive horror, cocktails, live entertainment, interactive games and spooky surprises.\nThis year, Smirnoff Ice joins as an official partner, bringing exclusive Halloween cocktails and surprises to the experience.\nWith more than 200,000 guests across 16+ cities last season, Nightmare Bar is set to be one of San Francisco’s standout Halloween experiences.\nI’ve attached the full press release for more details.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/796639871_2263522911103763_4745569094571430611_n.jpg",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -61386,6 +61553,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1641266",
+   "title": "Free “Syd Mead” Exhibition Opening: Sci-Fi Blade Runner Futurist (Transamerica Bldg.)",
+   "start": "2026-10-08T18:00:00-07:00",
+   "end": "2026-10-08T20:00:00-07:00",
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Transamerica Pyramid Annex Gallery",
+   "address": "535 Washington St, San Francisco 94111",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/free-syd-mead-exhibition-opening-scifi-blade-runner-futurist-transamerica-bldg/",
+   "ticket_url": "https://futurepastime.net",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Bright Future Arts, Syd Mead TrustFollowing its critically acclaimed 2025 debut in New York, Syd Mead: Future Pastime comes to the West Coast at the Transamerica Pyramid Annex Gallery, opening Thursday, October 8th, from 6pm to 8pm.\nFew artists have shaped how the world pictures tomorrow as thoroughly as Syd Mead. For more than half a century, the self-described “visual futurist” set the vocabulary that designers, engineers, architects and filmmakers still draw on. He showed that the future could be drafted with precision rather than guessed at. That work began in industry, where Ford and U.S. Steel hired him to imagine what came next, and it reached millions through the films he helped design, among them Blade Runner, TRON and Aliens.\nHis gouache paintings show tomorrow with enough engineering logic to work as blueprints. But his real subject was never the machines. It was the people living with them: a casual drive through cerulean space, mechanical hounds racing above the skyscrapers, a dinner party in steel couture. Mead’s future is neither dystopian nor abstract. It is lived-in, leisurely and deeply human.\n\nThirty years after his last major Bay Area exhibition – just as the tools he forecast are finally arriving – Future Pastime asks San Francisco to reconsider the future it is building, and who it is for.\nSyd Mead: Future Pastime runs 10/9 – 12/17, Weds-Sun, 11am-6pm.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/DIGITAL_INVITE_05.jpg",
+   "categories": [
+    "Movies"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1631387",
    "title": "Dying Fetus and Sanguisugabogg",
    "start": "2026-10-08T18:30:00-07:00",
@@ -61405,6 +61596,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/157297.jpg",
    "categories": [
     "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640663",
+   "title": "AI Art Workshop: Build a 3D World Through Your Pet’s Eyes (Menlo Park)",
+   "start": "2026-10-08T18:30:00-07:00",
+   "end": "2026-10-08T20:30:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Gallery House",
+   "address": "826 Santa Cruz Ave, Menlo Park, CA 94025",
+   "locality": "Menlo Park",
+   "geo": null,
+   "url": "https://sf.funcheap.com/ai-art-workshop-build-3d-world-pets-eyes-menlo-park/",
+   "ticket_url": "https://luma.com/vqh1ro3g",
+   "price_text": "$15.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerA hands-on AI art workshop during SF Tech Week: step outside the human point of view, imagine how your pet senses the world, and use AI to build an explorable 3D world from that perspective. Guided by an artist (former Stanford professor) and an AI researcher. No AI, art, or technical experience needed — and no pet required. Small group, limited to 20 seats. Part of #SFTechWeek. $15 tickets: https://luma.com/vqh1ro3g",
+   "image_url": null,
+   "categories": [
+    "Art Museums"
    ],
    "notes": []
   },
@@ -61530,6 +61745,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640271",
+   "title": "A Poem is a Naked Person (El Cerrito)",
+   "start": "2026-10-08T19:00:00-07:00",
+   "end": "2026-10-08T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Down Home Music Store",
+   "address": "10341 San Pablo Ave., El Cerrito, CA 94530",
+   "locality": "El Cerrito",
+   "geo": null,
+   "url": "https://sf.funcheap.com/poem-naked-person-el-cerrito/",
+   "ticket_url": "https://www.eventbrite.com/e/a-poem-is-a-naked-person-tickets-2002754040247",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerArhoolie Foundation\n\nJoin us for an outdoor screening of “A Poem is a Naked Person,” Les Blank’s documentary about 70s rock icon Leon Russell.\n\nOne critic described the film as “one of the greatest rock documentaries…as eloquent an evocation of the reality-distortion field around rock stars as D.A. Pennebaker’s ‘Don’t Look Back’ or Robert Frank’s ‘Cocksucker Blues,’ but funnier and stranger than either.”\n\nWatch the trailer here.\nThis event is free and open to all. Down Home will be open late. We hope to see you there!\nThursday, October 8 at 7pm\nDown Home Music Store\n10341 San Pablo Ave., El Cerrito, CA",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/poem_source_light.jpg",
+   "categories": [
+    "Movies"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1631626",
    "title": "Ski + Snowboard Film Premiere: “Actually, It Is Rocket Science”",
    "start": "2026-10-08T19:30:00-07:00",
@@ -61549,6 +61788,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/TGR-Rocket-Science_18x24-NEW1.jpg",
    "categories": [
     "Movies"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640697",
+   "title": "Thursday Comedy Workout",
+   "start": "2026-10-08T19:30:00-07:00",
+   "end": "2026-10-08T22:30:00-07:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Quinn's Lighthouse",
+   "address": "1951 Embarcadero, Oakland, CA 94606",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/thursday-comedy-workout/",
+   "ticket_url": "https://go.airhorn.events/r/AD4m2e",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerReal Comedians, 1 Stage, 0 Algorithms. Experience standup comedy at its finest. East Bay Express Reader’s Poll Best Comedy Night Winner. https://go.airhorn.events/r/AD4m2e",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4156b010-b5cf-4245-b2fb-169eb577903e6.jpg",
+   "categories": [
+    "Comedy Event Types Event"
    ],
    "notes": []
   },
@@ -61838,6 +62101,28 @@
    "categories": [
     "Live Music Event"
    ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641186",
+   "title": "Fleet Week Liberty Call: Free Drinks for Active-Duty E-5s (SoMa)",
+   "start": "2026-10-09T11:00:00-07:00",
+   "end": "2026-10-09T14:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Question Mark Tavern",
+   "address": "312 harriet st. SoMa",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/fleet-week-liberty-call-free-drinks-activeduty-e5s-soma/",
+   "ticket_url": "https://www.instagram.com/p/DeKUItBI1MN/?utm_source=ig_web_copy_link&amp;stkn=MzRlODBiNWFlZA==",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerJohn Luther Dela CruzFleet Week Liberty Call at Question Mark Tavern\nJoin the Navy, see the world… from a mile offshore through a porthole.\n\nNot this cruise! It’s liberty call, and we’re buying the drinks!\nThis Friday, October 9, Navy veteran-owned Question Mark Tavern welcomes Fleet Week with all-day specials:\n* Active duty E-5 and below in uniform: FREE beer and well drinks\n* Active duty E-6 and above in uniform: 50% off beer and well drinks\n* Veterans and first responders: 50% off beer and well drinks\nUniform required for active-duty specials. No exceptions.\nKitchen: 11 AM–2:30 PM and 5 PM–2 AM\nHappy Hour: 5–7 PM\nCome hungry, bring your shipmates, and make yourself at home.\nNavy veteran owned. San Francisco raised.\nQuestion Mark Tavern\n312 Harriet Street, San Francisco\n@questionmarktavern",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Fleet-Week-2026.jpg",
+   "categories": [],
    "notes": []
   },
   {
@@ -62394,6 +62679,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640626",
+   "title": "Community Game Night",
+   "start": "2026-10-09T18:00:00-07:00",
+   "end": "2026-10-09T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "St Francis Lutheran Church",
+   "address": "152 Church St",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/community-game-night/",
+   "ticket_url": "https://www.eventbrite.com/e/community-game-night-tickets-1997619346239",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerSt Francis Lutheran Church\n\nJoin us for an evening of games, music, food, and fun!\n\nWhether you love a good game night or just want a laid-back evening out, there’s a spot for you at the table.\n\nWe’ve got pizza and drinks covered!\nCome meet new faces, catch up with familiar ones, and enjoy a relaxed night of games and good company.\nAll are welcome — come for the games, stay for the community!",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/9ec29239-413c-4285-bc9c-e5f33c43741cgn.jpg",
+   "categories": [
+    "Lgbtq"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1639503",
    "title": "SF’s Free Mission Rock Fall Friday Night Movies “Inside Out” (China Basin Park)",
    "start": "2026-10-09T18:30:00-07:00",
@@ -62586,6 +62895,76 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640266",
+   "title": "Body Love Open Mic (Albany)",
+   "start": "2026-10-09T19:00:00-07:00",
+   "end": "2026-10-09T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Back Room",
+   "address": "1984 Bonita Ave., Berkeley, CA",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/body-love-open-mic-albany/",
+   "ticket_url": "https://events.humanitix.com/body-love-open-mic-oct9",
+   "price_text": "$10.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerTalia CooperWhat is the Body Love Open Mic?\nIt’s an open mic with a theme! The theme is bodies and body liberation.\nWith so many messages coming at us every day saying our bodies are not good enough, we can choose to respond by actively seeking out counter messaging. The goal of the Body Love Open Mic is to encourage the truth inside us that says “actually, your body is worthy, radiant, and inherently valuable just as it is.”\n\nHosted by:\nBody liberation coach and musician Talia Cooper\nSinger-songwriter and teaching artist Eli Conley\nPerformers will share songs, stories, poems, and performance art pieces about the inherent worth of all bodies.\nPerformers: Please sign up in advance: tinyurl.com/performatblom\nAudience: Purchase tickets at the door or in advance.\n\nCheck out the highlight reels from the spring 2026 and fall 2019 open mics for inspiration!\n$10 tickets for performers who sign up in advance: tinyurl.com/performatblom\n$20 for general admission in advance\n$25 for general admission tickets at the door\nDoors open 30 minutes before show time.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/body-love-open-mic-flyer.png",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640381",
+   "title": "“Skreamz” Coven Haunted House in Fairfield (Oct. 9-31)",
+   "start": "2026-10-09T19:00:00-07:00",
+   "end": "2026-10-09T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Skreamz Haunted House",
+   "address": "1795 Pennsylvania Ave Fairfield Ca",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/skreamz-coven-haunted-house-fairfield-oct-931/",
+   "ticket_url": "https://www.skreamz.com/",
+   "price_text": "$12.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizersKREAMZ.COMWho Goes First? sKreamz’s “Coven” Haunted House Opens October 9 in Fairfield\nEight nights of Halloween scares will help support Fairfield PAL’s Career Café\n\nFAIRFIELD, Calif. — Everyone has a friend who says they never get scared. This October, invite them to go first. sKreamz’s Coven Haunted House opens October 9 at Solano Town Center for eight nights of Halloween scares.\nProceeds from the event will be donated to Fairfield PAL to support its Career Café program, which helps local teens explore careers and build workplace skills through mentorship, job shadowing and hands-on learning.\nCoven runs October 9–10, 16–17, 23–24 and 30–31, from 7:30 to 10 p.m. The haunted house is located at 1795 Pennsylvania Avenue in Fairfield, behind JCPenney at Solano Town Center.\nAdmission is $14 per person, or $12 with a current student, military or first responder ID.\nAll guests must complete a waiver. Guests ages 17 and under need a waiver signed by a parent or legal guardian, and children ages 14 and under must attend with a parent or legal guardian.\nChoose a night, gather your friends and download the required waiver at sKreamz.com before visiting.\nAbout Fairfield PAL\nFairfield PAL provides free recreation and enrichment programs for teens ages 13–18 from Fairfield, Suisun City and Travis Air Force Base who are enrolled in middle or high school. Through programs such as Career Café, PAL helps teens build skills, strengthen relationships and prepa...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/coven-postcard.png",
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640519",
+   "title": "San Francisco Co-Founder Matching: Find a Partner by Solving Real Problems",
+   "start": "2026-10-09T19:00:00-07:00",
+   "end": "2026-10-09T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "For The Record",
+   "address": "2120 Greenwich Street, San Francisco, CA 94123",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/san-francisco-cofounder-matching-find-partner-solving-real-problems/",
+   "ticket_url": "https://luma.com/founder_table_sf07",
+   "price_text": "$12.60",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerLooking for a co-founder or startup collaborator? This San Francisco event skips profile-based matching and puts participants to work together on real startup problems.\nBefore the event, attendees submit one challenge they are currently facing. During the evening, the room votes on selected problems and small groups work through them in focused sessions.\nEach session gives participants a chance to see how potential collaborators think, communicate, challenge assumptions, and solve problems in real time.\nThe event is designed for solo founders, engineers, builders, product professionals, GTM operators, and startup professionals interested in finding potential co-founders or collaborators.\nAt the end of the evening, attendees can indicate who they would like to continue working or talking with. Ascent Valley connects participants only when the interest is mutual.\nExpect two structured working sessions, collaborative problem-solving, open networking, and post-event mutual matching.\nAdvance registration and completion of a short pre-event problem submission form are required.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Lu.ma_.png",
+   "categories": [
+    "Lectures Workshops"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1632977",
    "title": "Free ‘I Love Boosters’ Outdoor Movie Night (Proxy SF)",
    "start": "2026-10-09T19:15:00-07:00",
@@ -62658,6 +63037,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640489",
+   "title": "NightFlow Debut: House Party w/ 2 Local DJs (Mission)",
+   "start": "2026-10-09T19:30:00-07:00",
+   "end": "2026-10-09T23:30:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "HeartLab",
+   "address": "3095 21st street",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/nightflow-debut-house-party-2-local-djs-mission/",
+   "ticket_url": "https://luma.com/f99vxc7g",
+   "price_text": "$15.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerHeartLabSF.comNIGHTFLOW — A HeartLab House Party We’re personally inviting you. 🫵\n​This is the one we’ve been dreaming up.\n​NightFlow is HeartLab’s brand new social party series — and this is the very first one. We’re kicking off this experiment and we want you in the room for the beginning of something special.\n​The vision: a monthly home for connection, dancing, and genuine good vibes — rotating DJs, familiar faces, new friends, and the kind of night that makes you forget what time it is.\n​The Vibe\n​HeartLab is San Francisco’s favorite living room — a cozy 1,000 sq ft Mission space featuring a 15-foot daybed, warm lighting, and a container that always feels like home. For NightFlow we’re turning it into a full house party experience:\n​ Live sets from two local DJs spinning deep house, Afro house, nu-disco and tech house Elixir bar + tea lounge ️ Lounge areas to connect, catch up, or melt into the music Games and surprise offerings throughout the night\n​Perfect if you’re coming straight from All Day I Dream at Golden Gate Park — or skipping the festival entirely and letting your hair down right here with us.\n​Your DJs for the Night\n​DJ Trim — Weaving together nu-disco, house, and tech house into sets that move your body and lift your spirit. @trim.dj\n​DJ Bobwire — Deep house and Afro house beats that melt the stress away, get your feet moving, and leave your mood elevated. @bobbymcez\n​Want to contribute?\n​We’re looking for a small team of volu...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/d5e6373c-b798-43b6-990b-ce8b23014997.jpg.avif",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640700",
+   "title": "Friday Night Funnies",
+   "start": "2026-10-09T19:30:00-07:00",
+   "end": "2026-10-09T22:30:00-07:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Quinn's Lighthouse",
+   "address": "1951 Embarcadero, Oakland, CA 94606",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/friday-night-funnies/",
+   "ticket_url": "https://go.airhorn.events/r/LO2mnw",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerReal Comedians, 1 Stage, 0 Algorithms. Experience standup comedy at its finest. East Bay Express Reader’s Poll Best Comedy Night Winner. https://go.airhorn.events/r/LO2mnw",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4156b010-b5cf-4245-b2fb-169eb577903e7.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641069",
    "title": "“Mortified Live” Embarrassing Teen Diary Storytelling",
    "start": "2026-10-09T19:30:00-07:00",
@@ -62725,6 +63152,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/tubong.jpg",
    "categories": [
     "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641300",
+   "title": "Feral Friday San Francisco Square Dance",
+   "start": "2026-10-09T20:00:00-07:00",
+   "end": "2026-10-09T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Polish Club",
+   "address": "3040 22nd St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/feral-friday-san-francisco-square-dance-2/",
+   "ticket_url": "https://www.instagram.com/feralfridaysfsquaredance",
+   "price_text": "$20.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerL KeirA community dance in the heart of the Mission District. With Live Music at the historic Polish Club: it is fun, it is frisky!\nNo experience necessary, bring your pals or come on your own; all dances taught, all ages and people welcome.\n\nA free Old Time Music Jam kicks things off starting at 6:30, til 8pm\nOur motto: “”Way more fun than you might think!”",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4DB07132-AAF1-4DB6-9FF1-64BF189C22BF.jpg",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -62867,6 +63318,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/10/legionhonor.png",
    "categories": [
     "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640685",
+   "title": "Pink Dance Party Fundraiser (Palo Alto)",
+   "start": "2026-10-10T09:45:00-07:00",
+   "end": "2026-10-10T11:00:00-07:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Seiler Family Gymnasium, Oshman Family JCC",
+   "address": "3921 Fabian Way, Palo Alto, CA 94303",
+   "locality": "Palo Alto",
+   "geo": null,
+   "url": "https://sf.funcheap.com/pink-dance-party-fundraiser-palo-alto/",
+   "ticket_url": "https://fitness.paloaltojcc.org/pages/pink-dance-party-fundraiser",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerThe Oshman Family JCCJoin us for a high-energy, fun-filled dance party as we come together to raise awareness and funds for breast cancer research and support! Whether you’re a dance pro or a first timer, this event is open to all aged 13+ and all fitness levels.\nPresented by The Oshman Family JCC",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4772_v0.jpg",
+   "categories": [
+    "Sports Fitness"
    ],
    "notes": []
   },
@@ -63640,6 +64115,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1639913",
+   "title": "Charlie and the Tropicales (Stanford)",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T12:00:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Dinkelspiel Auditorium (Stanford)",
+   "address": "471 Lagunita Dr., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/charlie-tropicales-stanford/",
+   "ticket_url": "https://www.eventbrite.com/e/bing-nursery-school-performance-series-charlie-and-the-tropicales-tickets-1999707235171?lid=0sdzs95i1xix&amp;utm_source=braze&amp;utm_medium=ebml&amp;utm_campaign=clpo_ceex_lcm_fad_mec_mc_mum_0_0_eventpublished&amp;utm_term=Main_EventPublishedSubPaid_HeroSummary_other%20feature%20usage&amp;utm_content=d83bc845-0544-4274-a9dd-e152eac1a1f7__6a99a81b8572cc34130f2736f0bc6842__f605d558-54e9-4fbc-aef1-2c09bcef5c27",
+   "price_text": "$10.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event Organizern/aFamily Music Concert:\nBing Nursery School’s Performance Series presents an interactive and fun family music concert featuring Charlie and The Tropicales, a Caribbean-style band from New Orleans, on Saturday, October 10, 2026, at 11:00 a.m. at Dinkelspiel Auditorium. Tickets can be purchased here and are expected to sell out! Appropriate for children of all ages!",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/Charlie-and-the-Tropicales.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1639921",
    "title": "Free Boat Rides + Fleet Week Waterfront Fun at India Basin Park",
    "start": "2026-10-10T11:00:00-07:00",
@@ -63681,6 +64180,54 @@
    "sold_out": false,
    "description": "Fleet Week is coming to the Bayview! 🇺🇸\nCelebrate Fleet Week and the Bayview-Hunters Point community with a free concert featuring Golden West Brass, part of the U.S. Air Force Band of the Golden West. Kids and families can also enjoy military challenges, outdoor games and contests, Fleet Week swag, free boat rides, community rowing, and more.\nMusical Feature\nGolden West Brass\nU.S. Air Force Band of the Golden West\nWhat to Expect\n\nFree live concert\nOutdoor games and contests with military service members\nMilitary challenges and activities\nFleet Week swag for kids\nFree boat rides and community rowing with Rocking the Boat\nCommunity resources\nFamily-friendly activities\nSafer Streets demonstration and neighborhood block party\n\nEvent Locations\nFamily Day & Concert\nIndia Basin Waterfront Park\n900 Innes Ave\nSan Francisco, CA\n\nSafer Streets Demonstration\nBetween Hunters Point Blvd. and Innes Ave.\nSaturday, October 10, 2026\n11:00 AM–3:00 PM\nThe celebration is part of a weekend-long Safer Streets demonstration on Innes Avenue and Hunters Point Boulevard, with temporary street changes taking place Friday, October 9 through Sunday, October 11.\nCome out with your family, enjoy the music and activities, connect with your neighbors, and celebrate Fleet Week in the Bayview!\nFREE & OPEN TO THE COMMUNITY",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/India-Basin-Fleet-Week-Family-Day.png",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640632",
+   "title": "Davingy SF Open Studios",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Davingy",
+   "address": "550 10th street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/davingy-sf-open-studios/",
+   "ticket_url": "https://www.eventbrite.com/e/davingy-open-studios-tickets-2002564547469?aff=ebdssbdestsearch",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerDavingy ArtAs part of San Francisco Open Studios, Davingy will open its studio at 550 10th street, San Francisco to the public for a special behind the scenes experience.\nVisitors are invited to step inside the working studio of artist David McGraw, explore where his creative progress begins, and see a collection of original prints, paintings, and sculptures available for purchase. The open studio offers a rare opportunity to experience the work in the environment where it was created, learn more about David’s artistic journey, and connect directly with the artist.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/ChatGPT-Image-Sep-30-2026-04_59_15-PM-1.png",
+   "categories": [
+    "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640665",
+   "title": "“Art from the Rubble: Free Gaza Children’s Art Exhibit + Poetry (Livermore)",
+   "start": "2026-10-10T11:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Livermore Art Walk",
+   "address": "2470 First Street. Livermore",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/art-rubble-free-gaza-childrens-art-exhibit-poetry-livermore/",
+   "ticket_url": "https://soulofmysoulexhibit.com",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Soul of my soul exhibitJoin us as we showcase how the children of Gaza use art and poetry to express themselves. We’ve partnered with The Hands Up project to bring the Art from the Rubble exhibit to the Livermore Art Walk.\n\nFamily friendly free art workshops, a kite solidarity art project to create a moment of connection with the people of Gaza in a moment of shared connection.\n\nHonoring the art and life of Sliman Mansour, a renowned Palestinian artist.\nAl-Juthoor will present ‘Learn to Dabke’ sessions at Noon, 2, 3 pm. And various Palestinian artists and vendors.\nA Palestinian village in downtown Livermore! Worth the drive!\nFree garage parking off Railroad Avenue.\nUse 2470 First Street to find us.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/LivermoreArtWalk2026_v2.png",
    "categories": [
     "Live Music Event"
    ],
@@ -63856,6 +64403,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640674",
+   "title": "Palestinian Olive Harvest Festival (Newark)",
+   "start": "2026-10-10T12:00:00-07:00",
+   "end": "2026-10-10T16:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Newark Library",
+   "address": "37055 Newark Blvd., Newark, CA 94560",
+   "locality": "Newark",
+   "geo": null,
+   "url": "https://sf.funcheap.com/palestinian-olive-harvest-festival-newark-2/",
+   "ticket_url": "https://aclibrary.bibliocommons.com/events/68ca0b4b1fc2d0151015fed1",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "No registration is required.\nPlease join us for a day full of crafts, a fashion show, and other interactive learning opportunities to celebrate the Palestinian Olive Harvest Festival.\nThroughout the day there will be:\n\nolive oil tasting\nsampling traditional Palestinian foods\ncreating unique crafts\ngiveaway books\nand face painting activities.\n\nAll of these activities are on a first-come basis while supplies last.\nSuitable for: Everyone\nAn ASL (American Sign Language) interpreter or closed captioning can be provided for this program if requested at least three business days in advance. For assistance, please get in touch with your library or accessibility@aclibrary.org.\nHosted at the Newark Library (Alameda County Library), Newark Room, 37055 Newark Blvd., Newark, CA 94560.",
+   "image_url": null,
+   "categories": [
+    "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641102",
+   "title": "Fleet Week Blue Angels + Bubbles w/ Seafood Tower",
+   "start": "2026-10-10T12:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "McCormick & Kuletos",
+   "address": "900 North Point St, San Francisco, CA 94109",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/fleet-week-blue-angels-bubbles-seafood-tower-sf/",
+   "ticket_url": "https://www.eventbrite.com/e/fleet-week-blue-angels-bubbles-tickets-2002815008605?aff=affiliate1",
+   "price_text": "$159.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerAlexa Brothers\n\nExperience Fleet Week at McCormick & Kuleto’s! Enjoy sparkling wine, delicious bites, a seafood tower & incredible Blue Angels views.\n\nCelebrate Fleet Week at McCormick & Kuleto’s with Blue Angels & Bubbles—an unforgettable afternoon of waterfront views, delicious food and prime viewing of the Blue Angels.\n\nYour ticket includes:\n\nWelcome glass of sparkling wine\nSeafood station and passed appetizers\nDessert\nReserved indoor and outdoor viewing areas\n\nSpecialty cocktails and wine will also be available for purchase throughout the event.\nEnjoy incredible views of the Bay while you dine, sip and watch the Blue Angels take to the skies!",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Fleet-Week-Poster-1880-x-940-px-1.png",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1634314",
    "title": "Golden State Pie Competition (Potrero Hill)",
    "start": "2026-10-10T13:00:00-07:00",
@@ -64022,6 +64617,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640629",
+   "title": "Free Banned Books Week Postcard Party (Berkeley)",
+   "start": "2026-10-10T14:00:00-07:00",
+   "end": "2026-10-10T16:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Pegasus Books (Solano)",
+   "address": "1855 Solano Ave, Berkeley, CA",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/free-banned-books-week-postcard-party-berkeley/",
+   "ticket_url": "https://pegasusbookstore.com/event/2026-10-10/banned-books-week-postcard-party",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Writers for Democratic ActionJoin us on Oct 10th, 2pm – 4pm, to write to local representatives encouraging them to fight against the four proposed nationwide book bans. Our party is part of a coordinated effort of Northern California indie bookstores in cooperation with Authors Against Book Bans, all of whom are hosting parties during Banned Books Week! Supplies provided.\nSponsored by Writers for Democratic Action – California and Authors Against Book Bans",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/wda_logo.jpg",
+   "categories": [
+    "Literature"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640612",
+   "title": "Intellectual Air: 90-Minute Salon on Taste in Art (Los Gatos)",
+   "start": "2026-10-10T15:00:00-07:00",
+   "end": "2026-10-10T16:30:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Los Gatos Coffee Roasting Company",
+   "address": "101 W Main St, Los Gatos",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/intellectual-air-90minute-salon-taste-art-los-gatos/",
+   "ticket_url": "https://luma.com/o6f5shif",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerA small curated salon at Los Gatos Coffee Roasting Company. IA/01: Taste is a 90 minute conversation on taste in art and creative work. Limited to 10 spots. Application required via the event page. Free admission.",
+   "image_url": null,
+   "categories": [
+    "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1638964",
    "title": "SF’s Fleet Fest 2026: Brass Band/Quintet (West Portal Patio)",
    "start": "2026-10-10T16:00:00-07:00",
@@ -64065,6 +64708,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4789_v0.jpg",
    "categories": [
     "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641291",
+   "title": "West SoMa Cleanup w/ Free Drink For Volunteers",
+   "start": "2026-10-10T16:00:00-07:00",
+   "end": "2026-10-10T17:00:00-07:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Driftwood",
+   "address": "1225 Folsom St, San Francisco, CA 94103",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/west-soma-cleanup-free-drink-volunteers/",
+   "ticket_url": "https://www.eventbrite.com/e/west-soma-cleanup-tickets-1228149501219?",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Refuse RefuseMeet at Driftwood (1225 Folsom St) to grab our supplies and form our crew. Then, cleaning will occur from 4:00pm to 5:00pm around the neighborhood. Stay afterwards for a free drink courtesy of SOMA West CBD! Sign up on Eventbrite or email info@refuserefusesf.org with event name.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/West-SOMA-9.jpg",
+   "categories": [
+    "Eating Drinking"
    ],
    "notes": []
   },
@@ -64404,6 +65071,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640516",
+   "title": "Halloween Ghost Hunt: Haunted Haight Walking Tour (Haight-Ashbury)",
+   "start": "2026-10-10T19:00:00-07:00",
+   "end": "2026-10-10T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Magnolia’s Brewery (IN FRONT)",
+   "address": "1398 Haight Street, San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/halloween-ghost-hunt-haunted-haight-walking-tour-haightashbury/",
+   "ticket_url": "https://www.hauntedhaight.com",
+   "price_text": "$29.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerTommy Netzband - Haunted Haight Walking ToursGo Ghost Hunting This Halloween with Haunted Haight®\nCurious about ghost hunting? Spend an evening in Haight-Ashbury with Tommy Netzband, founder of the San Francisco Ghost Society and a paranormal investigator with more than 20 years of experience. You may have seen him on the History Channel or Travel Channel. Now you can join him for a ghost hunting adventure of your own.\n\nDuring this two-hour walk, Tommy shares stories from his team’s real investigations that you won’t hear on any other tour. Try custom-built ghost hunting equipment, learn how investigators approach unexplained activity, and ask the questions you’ve always wanted to ask.\nSkeptics are always welcome!\nTommy is also the author of Haunted Haight®: Ghost and True Crime Tales from Haight-Ashbury and Beyond. If you’ve read the book, now you can walk with the spirits and visit the places behind the stories.\nThings can get spooky, but there’s plenty of fun along the way, including chances to win prizes. With only 14 guests per tour, everyone has time to ask questions and get involved.\nYour ticket helps fund real paranormal research and free investigations through the San Francisco Ghost Society. Learn more at SFGhostSociety.org.\nAdvance reservations are necessary. Only 14 spots per tour.\nRecommended for ages 13 and older. Bring a warm jacket, comfortable walking shoes, and your curiosity. Tours run rain or shine.\nReserve your ghost huntin...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Halloween2026-haunted-haight.png",
+   "categories": [
+    "Walks Tours Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640703",
+   "title": "Saturday Night Laughs",
+   "start": "2026-10-10T19:00:00-07:00",
+   "end": "2026-10-10T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Quinn's Lighthouse",
+   "address": "1951 Embarcadero, Oakland, CA 94606",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/saturday-night-laughs/",
+   "ticket_url": "https://go.airhorn.events/r/7wX9rO",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerReal Comedians, 1 Stage, 0 Algorithms. Experience standup comedy at its finest. East Bay Express Reader’s Poll Best Comedy Night Winner. https://go.airhorn.events/r/7wX9rO",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4156b010-b5cf-4245-b2fb-169eb577903e8.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641071",
    "title": "“Mortified Live” Embarrassing Teen Diary Storytelling (Berkeley)",
    "start": "2026-10-10T19:30:00-07:00",
@@ -64495,6 +65210,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-Page-Ticker-3.jpg",
    "categories": [
     "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640706",
+   "title": "The (Not So) Late Show",
+   "start": "2026-10-10T20:30:00-07:00",
+   "end": "2026-10-10T23:30:00-07:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Quinn's Lighthouse",
+   "address": "1951 Embarcadero, Oakland, CA 94606",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/late-show/",
+   "ticket_url": "https://go.airhorn.events/r/4wn19e",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerReal Comedians, 1 Stage, 0 Algorithms. Experience standup comedy at its finest. East Bay Express Reader’s Poll Best Comedy Night Winner. https://go.airhorn.events/r/4wn19e",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4156b010-b5cf-4245-b2fb-169eb577903e9.jpg",
+   "categories": [
+    "Comedy Event Types Event"
    ],
    "notes": []
   },
@@ -64788,6 +65527,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640513",
+   "title": "Climate Wayfinding: Healing Ourselves and the Planet We Call Home",
+   "start": "2026-10-11T10:00:00-07:00",
+   "end": "2026-10-11T12:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Bather's Library",
+   "address": "2310 Telegraph Ave, Oakland, CA 94612",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/climate-wayfinding-healing-planet-call-home/",
+   "ticket_url": "https://bathers-library.square.site/product/fall-winter-reading-groups-26-27/BAUMK6KMZ6SQ2LASWCB7KQO4?cs=true&amp;cst=custom",
+   "price_text": "$20.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerKatharine WilkinsonAre You Climate Concerned and Looking for a Place to Land?\nIf you’re carrying climate grief, uncertainty, or even an awareness of possible collapse, you don’t have to carry it alone. East Bay friends are warmly invited to join me for a guided exploration of Dr. Katharine K. Wilkinson’s Climate Wayfinding: Healing Ourselves and the Planet We Call Home.\nThis is more than a traditional book club. Through essays, poetry, art, music, facilitated conversation, and reflection, we’ll explore how to move from climate ache and overwhelm toward courage, connection, possibility, and meaningful action.\n\nI’m Heidi Harmon; a longtime climate organizer and former three-term mayor who recently moved to Oakland to deepen my community-based work. After 25 years in the climate movement, I believe the relationships we build are as essential to our resilience as any policy we pass.\nSundays, beginning October 11\n10:00 a.m.–12:00 p.m.\nIn person in Oakland. 2310 Telegraph Ave, Oakland, CA 94612\nDonation-based; no one turned away for lack of funds\nThanks to the generosity of author Dr. Wilkinson, also co-editor of All We Can Save, the first eight people to register will receive a complimentary copy of the book.\nIf there is enough interest, I would also be happy to create a separate virtual group. Message me with questions or to express interest in joining online.\nCome find your footing and your people for the road ahead.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.17.25-PM.png",
+   "categories": [
+    "Lectures Workshops"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1640817",
    "title": "UNIQLO SF Grand Reopening Weekend w/ Discounts & Giveaways (Oct. 9-11)",
    "start": "2026-10-11T10:00:00-07:00",
@@ -64947,7 +65710,7 @@
    "price_text": "$20.00",
    "is_free": false,
    "sold_out": false,
-   "description": "Submitted by the Event OrganizerMark your calendars! Sunday, October 11, join us at Ayala Cove for Sundae Social — a Victorian Picnic and Fundraiser for Camp Reynolds. Ice cream and other delicious treats for will be for sale. Enjoy live music, games and volunteers in period attire.\n\nAdult Paper Ticket (ages 19-64)\n$14.00\n$14.00\n$14.00\n$15.50\n\nAdult Clipper &\nContactless Bank Card\n$9.50\n$8.50\n$8.50\n$10.00",
+   "description": "Submitted by the Event OrganizerMark your calendars! Sunday, October 11, join us at Ayala Cove for Sundae Social — a Victorian Picnic and Fundraiser for Camp Reynolds. Ice cream and other delicious treats for will be for sale. Enjoy live music, games and volunteers in period attire.\nIce Cream for purchase\n\nFerry ticket required – $20 round trip for adults if you use clipper or contactless bank card.\n\nAdult Paper Ticket (ages 19-64) – Each Way\n$14.00\n$14.00\n$14.00\n$15.50\n\nAdult Clipper &\nContactless Bank Card (Each Way)\n$9.50\n$8.50\n$8.50\n$10.00",
    "image_url": null,
    "categories": [
     "Live Music Event"
@@ -65076,6 +65839,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1641297",
+   "title": "Dogpatch Cleanup w/ Free Lunch For Volunteers",
+   "start": "2026-10-11T12:00:00-07:00",
+   "end": "2026-10-11T13:30:00-07:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Esprit Park",
+   "address": "Minnesota St. and 19th St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/dogpatch-cleanup-free-lunch-volunteers-3/",
+   "ticket_url": "https://www.mobilize.us/civicjoyfund/event/757470/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Refuse RefuseMeet at a different park each month in the Dogpatch. Then, cleaning will occur from 12:00pm to 1:30pm around the neighborhood. Stay afterwards for free food & refreshments! Sign up on this Civic Joy Fund Mobilize page or email info@refuserefusesf.org with event name.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Dogpatch-1.jpg",
+   "categories": [
+    "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1423063",
    "title": "SF’s Annual Italian Heritage Festival & Parade 2026",
    "start": "2026-10-11T12:30:00-07:00",
@@ -65196,6 +65983,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640254",
+   "title": "Improv(e) Your Dating Life",
+   "start": "2026-10-11T14:00:00-07:00",
+   "end": "2026-10-11T16:00:00-07:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "BATS Bayfront Theater",
+   "address": "2 Marina Blvd, Bldg B, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/improve-dating-life-8/",
+   "ticket_url": "https://www.eventbrite.com/e/improve-your-dating-life-tickets-1997921912222?aff=oddtdtcreator",
+   "price_text": "$23.18",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerDylan GarciaExplore your dating tendencies, expand your dating pool, and live in the moment in this improv-based dating course. This is a single day, 2-hour workshop. Choose from any of the dates below.\nDates:\nSunday Oct 11, 2-4pm\nFriday Nov 6, 6:30-8:30pm\nFriday Dec 4, 6:30-8:30pm\nRequirements: 18 Years +\nLocation: 2 Marina Blvd, Fort Mason BATS Annex – Building C, Ste 365, San Francisco, CA 94123\nDirections: Enter Building C. Take the stairs or the elevator to the 3rd floor. Follow the signs pointing to Suite 365.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/8.png",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1640694",
    "title": "“Pitch” Free Outdoor Queer Dance Theater on a Softball Field (Oakland)",
    "start": "2026-10-11T14:00:00-07:00",
@@ -65215,6 +66026,54 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4777_v0.jpg",
    "categories": [
     "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640358",
+   "title": "Write Letters with Amnesty International (Bayview Library)",
+   "start": "2026-10-11T14:30:00-07:00",
+   "end": "2026-10-11T16:30:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Bayview Branch Library",
+   "address": "5075 Third St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/write-letters-amnesty-international-bayview-library/",
+   "ticket_url": "https://www.amnestyusa.org/campaigns/banned-books/bbw2026/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Are you concerned about the rise of authoritarianism? Wondering what you can do as an individual? Come learn about human rights and write letters in community for Banned Books Week. Please stop by for a few minutes or an hour … and bring your friends! We will provide all of the letter-writing materials.\n\nSunday, October 11th from 2:30 to 4:30 pm\nBayview branch library meeting room @ 5075 3rd St\nMuni lines nearby: T, 15, 19, 23, 24, 44\nIf you prefer to write letters on your own, here is the information:\nhttps://www.amnestyusa.org/campaigns/banned-books/bbw2026/\n\nThank you and we hope to see you there!",
+   "image_url": null,
+   "categories": [
+    "Literature"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640545",
+   "title": "Fleet Week Lunch on the California Hornblower",
+   "start": "2026-10-11T14:30:00-07:00",
+   "end": "2026-10-11T16:30:00-07:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Pier 3",
+   "address": "Pier 3, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/fleet-week-lunch-california-hornblower/",
+   "ticket_url": "https://www.cityexperiences.com/san-francisco/city-cruises/fleet-week-air-show-cruise-lunch/?date=10/11/2026",
+   "price_text": "$151.18",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerCity Cruises\nThe 2026 Fleet Week Air Show comes to San Francisco! Do not miss this opportunity to watch the Blue Angels as they prepare their expert maneuvers for the weekend shows. Enjoy this three-hour cruise on board the California Hornblower with the best views of the Fleet Week Air Show & practice rounds. On board you will be treated to a wonderful Lunch Buffet, free-flowing champagne and live background DJ entertainment.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-2.11.18-PM.png",
+   "categories": [
+    "Outdoors"
    ],
    "notes": []
   },
@@ -65292,6 +66151,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640302",
+   "title": "Saucy Sunday Day Party",
+   "start": "2026-10-11T15:00:00-07:00",
+   "end": "2026-10-11T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Eria Marina",
+   "address": "2300 Chestnut St, San Francisco, CA 94123",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/saucy-sunday-day-party-sf/",
+   "ticket_url": "https://www.ambrosia.events/moni/events/saucy-sunday",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerMonica DesaiA damn good all-indoors day party in the Marina during SF Fleet Week.\nRight after the Blue Angels wrap at Marina Green, swing over to ERIA Marina on Chestnut Street (across Little Original Joe’s). We are bringing you an afternoon of sun-drenched Disco, Funky, and Melodic House on an audiophile sound system, complete with live music featuring saxophone and percussion jamming alongside our DJs.\n\nExpect sunlit windows, a floating disco ball, party bubbles, and custom drinks like Espresso Martinis, Chai Spritzes, and Sunset Prosecco.\nLineup (3:00 to 7:00 PM)\n\nDJs: MONĪ, VIA & IRIS [Hybrid Set], .KINA\n\nLive Music: Jared The Sax Guy, Ammo Drums\n\nLocation & Details\n\nDate & Time: Sunday, Oct 11 | 3:00 – 7:00 PM\n\nVenue: ERIA Marina (2300 Chestnut St, Across Little Original Joe’s)\n\nTickets & VIP\n\nEarly Bird: $25 | Advance: $30 | At the Door: $40\n\nVIP tables and bottle service available. For inquires and reservations, email: info@monicadesai.com",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Saucy_Sunday_Oct_11th_ERIA_Marina_optimized_3000.png",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1633862",
    "title": "Melissa King – The Girl Who Became King",
    "start": "2026-10-11T16:00:00-07:00",
@@ -65335,6 +66218,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/Gemini_Generated_Image_e2w6ove2w6ove2w6.jpg",
    "categories": [
     "Sports Fitness"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641238",
+   "title": "Actor Michael Douglas in Conversation on New Memoir “One Helluva Ride”",
+   "start": "2026-10-11T16:00:00-07:00",
+   "end": "2026-10-11T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Calvary Presbyterian Church",
+   "address": "2515 Fillmore Street (at Jackson) San Francisco, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/actor-michael-douglas-conversation-memoir-helluva-ride-sf/",
+   "ticket_url": "https://bookpassage.com/event/michael-douglas-one-helluva-ride-calvary-presbyterian-sf",
+   "price_text": "$45.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerDon’t miss this extraordinary conversation with Academy Award-winning actor and producer Michael Douglas celebrating the release of his new memoir, One Helluva Ride. A signed bookplate edition of the book is included with each ticket.\nBeginning with his fractured childhood and a complex relationship with his superstar father, Kirk Douglas, Michael Douglas finally gives the full and uncensored account of a remarkable life. One Helluva Ride reveals incredible behind-the-scenes stories featuring a Who’s Who of Hollywood, many of them never revealed before and some outrageously funny, with an unflinching honesty about his sometimes bad-boy life.\nMichael will be joined in conversation by Lance Gardner the executive artistic director at Marin Theatre Company in Mill Valley.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Douglas400-x-580-px-1.png",
+   "categories": [
+    "Movies"
    ],
    "notes": []
   },
@@ -66156,6 +67063,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640331",
+   "title": "Free Bilingual U.S. Citizenship Trivia Game (Excelsior Library)",
+   "start": "2026-10-14T18:00:00-07:00",
+   "end": "2026-10-14T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Excelsior Branch Library",
+   "address": "4400 Mission St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/free-bilingual-citizenship-trivia-game-excelsior-library/",
+   "ticket_url": "https://sfpl.org/events/2026/10/14/social-bilingual-citizenship-trivia-game-spanishenglish",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SFPLParticipate in a trivia game testing your knowledge of the U.S. Citizenship study guides produced by the U.S. Citizenship and Immigration Services (USCIS).\nParticipa en un juego de preguntas que pone a prueba tu conocimiento de las guías de estudio sobre la ciudadanía estadounidense del Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS).\nThe first half hour is in Spanish, the second half hour is in English.\nLa primera media hora es en español y la segunda media hora es en inglés.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/citizen.png",
+   "categories": [
+    "Community"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1640823",
    "title": "Free “Wonder” Workshop w/ SF Magician Andrew Evans (SF Main Library)",
    "start": "2026-10-14T18:00:00-07:00",
@@ -66346,6 +67277,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640858",
+   "title": "United Nations Association Film Festival in Palo Alto (Oct. 15-25)",
+   "start": "2026-10-15T12:00:00-07:00",
+   "end": "2026-10-15T19:00:00-07:00",
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Mitchell Park Community Center",
+   "address": "3700 Middlefield Road, Palo Alto",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/united-nations-association-film-festival-palo-alto-oct-1525/",
+   "ticket_url": "https://www.unaff.org/2026/contact.html",
+   "price_text": "$19.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "United Nations Association FIlm FestivalThe United Nations Association Film Festival (UNAFF) is pleased to announce the program for its 29th edition, PASSION FOR CHANGE. From Oct. 15–25, 2026, in Palo Alto, East Palo Alto, San Francisco and at Stanford University, UNAFF will present 60 global documentary films.\nStudents are encouraged to attend the festival and may receive free tickets to films with a valid student ID. For more information, contact us at info@unaff.org\nSESSIONS\n\nAs documentaries come in different lengths, it is impractical to sell tickets for individual films. Instead, we group multiple films into SESSIONS, trying to combine them loosely by topic so that together they make for a generous viewing experience. So, if you are interested in a particular film, find its session number and purchase the ticket for that session.\nFESTIVAL PASSES\nThe best deal is to purchase a FESTIVAL PASS, which allows access to all the festival screenings and events during the 11 days of the festival, and if you are a senior, you can save even more by taking advantage of our deeply discounted SENIOR FESTIVAL PASS.\nADMISSION\nGENERAL ADMISSION – $19 PER FILM SESSION (1.5 – 3 hours per session)\nFESTIVAL PASS – $290\nSENIOR FESTIVAL PASS (62+) – $90\nOPENING NIGHT RECEPTION WITH THE FILMMAKERS AND SESSION 1 – $60\nCLOSING NIGHT RECEPTION WITH THE FILMMAKERS AND SESSION 29 – $60\nFREE ADMISSION FOR\nALL STUDENTS WITH VALID ID\nSESSION 5: UNAFF & KIDS PROGRAM (Oct. 17)\nSESSION 9: SHORT SESSION (O...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/UNAFF2026_Square_Plain.png",
+   "categories": [
+    "Movies"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1640585",
    "title": "The Crossing’s 5th Anniversary + New Basketball Court Ribbon Cutting",
    "start": "2026-10-15T16:00:00-07:00",
@@ -66411,6 +67366,30 @@
    "sold_out": false,
    "description": "Big Art Loop: “Waterfront Walkabout” Free SF Art Stroll (Embarcadero)\nPoster Art by Hollis Callas\n\nSan Francisco’s new event series where live music, interactive pop-ups, & monumental art set the stage for a bayside stroll like no other!\n\nLaunching September 17 and returning monthly every third Thursday this fall, Waterfront Walkabout is a free series inviting you to experience the Big Art Loop – Portside as the Embarcadero waterfront comes to life!\nDate: Thursday, Sept 17, 2026\nTime: 5:00 PM – 8:00 PM\nLocation: Pier 14 to the Exploratorium\n\nOur event is a series 3 events in the fall. The event will be taking place every third Thursday of each month. September 17, October 15th, and November 19th.\nWHAT TO EXPECT\nSoak in live music, fresh oysters, and drinks at the Ferry Building’s front plaza, then stroll the art trail to discover playful pop-up experiences at four larger-than-life sculptures:\nCorpus (Pier 14): Step up to the glowing Shrimp Boat Art Car for beats by the bay\nEchoes (Ferry Terminal Plaza): Grab a paintbrush for outdoor Paint & Sip or join interactive games with Playful SF and Chamber of Connection\n🧜 Coralee (Pier 1/2): Dive into mermaid crafts and enchanting water spirit storytelling with En2Action\n️ Got Framed (Pier 7): Strike a pose on the pier for free professional portraits\nGUIDED ART TOURS\nExplore at your own pace, or join a free docent-led tour for a deeper dive into the stories behind the four featured sculptures! These 60-minute guided walks depart from...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/Waterfront_Walkabout_FLYER.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641312",
+   "title": "“Third Thursdays on Treat” Trick or Treat to the Beat",
+   "start": "2026-10-15T17:00:00-07:00",
+   "end": "2026-10-15T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Treat Cut",
+   "address": "957 Treat Ave, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/thursdays-treat-trick-or-treat-to-the-beat-sf/",
+   "ticket_url": "https://www.monkeybrains.net/third-thursdays/?source=funcheap",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "MonkeybrainsTrick-or-treat to the beat at Third Thursdays on Treat.\nThis month’s Halloween-themed night market will feature live taiko drumming, a pumpkin patch, and a python photo op! Gather your ghouls and join us October 15, 5-9 PM, at 957 Treat Ave in San Francisco.\nThird Thursdays on Treat\nThursday, October 15, 2026 | 5p – 9p\n957 Treat Ave., SF – maps\nFREE | RVSP for $1 off drinks\nLocal Vendors\nShop an eclectic lineup of local makers, artists, and small businesses offering candles, clothing, art, consumable goods, and plenty of unexpected finds.\nLive Music\nCatch DJ sets and live performances from local musical artists representing a wide array of genres, styles, and backgrounds throughout the night.\nFood & Drink\nCome hungry for delicious eats from our featured food truck, plus beer, wine, and a specialty cocktail inspired by each month’s event theme.\nThird Thursdays Night Market is an independent, not-for-profit community event funded and organized by Monkeybrains ISP and Claro SF to bring art, music, and joy to the Mission District.\n\nView this post on Instagram\n\nA post shared by Third Thursdays On Treat (@thirdthursdays_treat)",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/poster.png",
    "categories": [
     "Live Music Event"
    ],
@@ -67133,6 +68112,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/PROXY-Movie3.jpg",
    "categories": [
     "Movies"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641247",
+   "title": "MainStage 1: Beethoven’s Eroica, A Hero’s Journey",
+   "start": "2026-10-16T19:30:00-07:00",
+   "end": "2026-10-16T21:30:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "San Francisco Conservatory of Music",
+   "address": "50 Oak St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/mainstage-1-beethovens-eroica-heros-journey-sf/",
+   "ticket_url": "https://www.eventbrite.com/e/mainstage-1-beethovens-eroica-a-heros-journey-tickets-1991879006729?aff=oddtdtcreator&amp;keep_tld=true",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerSan Francisco Chamber OrchestraBetrayed by Napoleon’s thirst for power, Beethoven furiously tore apart his 3rd Symphony’s dedication, and in doing so created a work that captured, like no other, the defiant and life-affirming heroic spirit. With its massive size and emotional power, the Eroica Symphony would change the course of Classical music forever.\nOur program begins with the Coriolan Overture, Beethoven’s electrifying portrait of Shakespeare’s doomed warrior followed by Grace William’s hauntingly beautiful Sea Sketches, which paint the Welsh coastline in all its wild, shimmering glory.\n\nProgram:\nLudwig van Beethoven – Coriolan Overture, Op. 62\nGrace Williams – Sea Sketches\nLudwig van Beethoven – Symphony No. 3 in Eb Major, Op. 55 “Eroica”",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Grace-Williams-and-Beethoven.jpg",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -69599,6 +70602,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Margs-Eventbrite-Cover.png",
    "categories": [
     "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641362",
+   "title": "Horror Classic “The Ring” Film with Live Orchestra w/ SF Symphony",
+   "start": "2026-10-20T19:30:00-07:00",
+   "end": "2026-10-20T22:30:00-07:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Davies Symphony Hall",
+   "address": "201 Van Ness Ave, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/horror-classic-the-ring-film-with-live-orchestra-with-sf-symphony/",
+   "ticket_url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/The-Ring?utm_source=funcheap&amp;utm_medium=email&amp;utm_campaign=ring",
+   "price_text": "$69.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "SF SymphonyLights, Camera, Music! Watch Gore Verbinski’s The Ring on the big screen at Davies Symphony Hall as Hans Zimmer’s score is performed live by the SF Symphony.\nThe Ring\nTuesday, October 20, 2026 | 7:30p\nDavies Symphony Hall, 201 Van Ness Ave., SF\nGet Tickets – Starts at $69 (while supplies last)\nArtists\n\nJason Seber – Conductor\nSan Francisco Symphony\n\nProgram\n\nHans Zimmer – Composer\nGore Verbinski – Director\n\nProgram Book\nSponsors\nThe Film Series is presented in honor of Misty Tyree, whose remarkable legacy gift ensures her lasting commitment to the San Francisco Symphony and its artistic mission.\n\nSF Symphony",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/350750-26_Dig_FunCheap_TheRing_1000x550-1.jpg",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -72885,7 +73912,7 @@
   {
    "source": "funcheap",
    "source_id": "1640954",
-   "title": "Outdoor Silent Disco: 150 Free Headsets + Costume Prizess (Oakland)",
+   "title": "Outdoor Silent Disco: 150 Free Headsets + Costume Prizes (Oakland)",
    "start": "2026-10-29T17:00:00-07:00",
    "end": "2026-10-29T19:30:00-07:00",
    "all_day": false,
@@ -86591,28 +87618,6 @@
   },
   {
    "source": "sfrecpark-civic-center",
-   "source_id": "f515482b8f61a19c",
-   "title": "Free Dance Fitness Class by Rae Studios",
-   "start": "2026-10-06T17:30:00-07:00",
-   "end": "2026-10-06T18:30:00-07:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "United Nations Plaza - 50 United Nations Plaza San Francisco CA 94102",
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Free dance fitness classes https://sfrecpark.org/calendar.aspx?EID=10521",
-   "image_url": null,
-   "categories": [],
-   "notes": []
-  },
-  {
-   "source": "sfrecpark-civic-center",
    "source_id": "c5572f6817bdb244",
    "title": "Free Dance Fitness Class by Rae Studios",
    "start": "2026-10-07T17:30:00-07:00",
@@ -88148,11 +89153,6 @@
     "1633133": "2026-08-25T16:48:45",
     "1633136": "2026-08-25T16:48:41",
     "1633139": "2026-09-11T17:26:10",
-    "1633156": "2026-08-23T10:14:18",
-    "1633158": "2026-08-23T10:14:21",
-    "1633160": "2026-08-23T10:14:22",
-    "1633162": "2026-08-23T10:14:24",
-    "1633164": "2026-08-23T10:14:26",
     "1633166": "2026-08-23T13:14:19",
     "1633168": "2026-08-23T13:14:21",
     "1633170": "2026-08-23T13:14:23",
@@ -88410,6 +89410,7 @@
     "1634280": "2026-09-01T19:44:10",
     "1634283": "2026-09-01T19:52:27",
     "1634286": "2026-09-01T17:17:11",
+    "1634289": "2026-10-07T00:21:19",
     "1634292": "2026-09-28T17:59:59",
     "1634295": "2026-09-02T18:23:30",
     "1634302": "2026-09-02T18:38:19",
@@ -89648,7 +90649,7 @@
     "1639781": "2026-10-01T00:35:23",
     "1639784": "2026-09-30T17:32:45",
     "1639787": "2026-09-30T17:47:25",
-    "1639804": "2026-09-30T17:45:41",
+    "1639804": "2026-10-07T00:11:59",
     "1639806": "2026-09-30T17:35:46",
     "1639815": "2026-09-30T17:49:23",
     "1639818": "2026-09-29T21:13:55",
@@ -89670,9 +90671,11 @@
     "1639884": "2026-09-30T17:45:47",
     "1639890": "2026-09-30T13:14:03",
     "1639892": "2026-09-30T13:14:05",
+    "1639894": "2026-10-07T00:20:18",
     "1639897": "2026-09-30T17:35:06",
     "1639901": "2026-09-30T15:28:12",
     "1639908": "2026-09-30T15:30:19",
+    "1639913": "2026-10-07T00:26:14",
     "1639921": "2026-10-01T16:31:17",
     "1640003": "2026-09-30T17:57:09",
     "1640006": "2026-09-30T18:03:20",
@@ -89703,6 +90706,7 @@
     "1640141": "2026-10-01T16:30:37",
     "1640144": "2026-10-04T18:27:37",
     "1640150": "2026-10-04T18:24:37",
+    "1640153": "2026-10-07T00:18:58",
     "1640190": "2026-10-01T16:46:20",
     "1640196": "2026-10-04T18:24:28",
     "1640199": "2026-10-01T20:49:03",
@@ -89713,7 +90717,11 @@
     "1640241": "2026-10-01T17:41:01",
     "1640242": "2026-10-01T17:41:45",
     "1640247": "2026-10-05T20:15:06",
+    "1640254": "2026-10-07T00:29:32",
+    "1640266": "2026-10-07T00:24:34",
+    "1640271": "2026-10-07T00:22:27",
     "1640274": "2026-10-04T18:29:35",
+    "1640302": "2026-10-07T00:30:24",
     "1640305": "2026-10-06T18:42:06",
     "1640308": "2026-10-06T18:48:38",
     "1640312": "2026-10-06T18:49:50",
@@ -89722,10 +90730,13 @@
     "1640322": "2026-10-01T22:42:14",
     "1640323": "2026-10-01T22:43:32",
     "1640328": "2026-10-04T18:27:13",
+    "1640331": "2026-10-07T00:31:20",
     "1640340": "2026-10-06T18:49:32",
     "1640343": "2026-10-06T05:11:23",
     "1640355": "2026-10-01T23:35:51",
+    "1640358": "2026-10-07T00:29:41",
     "1640378": "2026-10-06T18:49:25",
+    "1640381": "2026-10-07T00:24:26",
     "1640412": "2026-10-02T12:13:27",
     "1640420": "2026-10-04T18:28:20",
     "1640423": "2026-10-02T16:29:46",
@@ -89745,15 +90756,20 @@
     "1640466": "2026-10-02T17:18:09",
     "1640484": "2026-10-02T17:18:38",
     "1640486": "2026-10-04T18:27:30",
+    "1640489": "2026-10-07T00:25:17",
     "1640493": "2026-10-04T18:28:58",
     "1640496": "2026-10-02T18:06:36",
     "1640508": "2026-10-06T18:52:01",
     "1640510": "2026-10-06T18:52:21",
+    "1640513": "2026-10-07T00:29:27",
+    "1640516": "2026-10-07T00:29:12",
+    "1640519": "2026-10-07T00:22:59",
     "1640522": "2026-10-04T18:27:06",
     "1640529": "2026-10-02T20:13:29",
     "1640531": "2026-10-02T20:13:30",
     "1640536": "2026-10-04T18:28:16",
     "1640538": "2026-10-06T18:41:22",
+    "1640545": "2026-10-07T00:30:17",
     "1640548": "2026-10-06T18:52:40",
     "1640554": "2026-10-06T18:41:51",
     "1640557": "2026-10-04T18:24:33",
@@ -89768,15 +90784,27 @@
     "1640608": "2026-10-03T02:58:04",
     "1640609": "2026-10-03T02:58:52",
     "1640610": "2026-10-03T02:59:17",
+    "1640612": "2026-10-07T00:28:24",
     "1640621": "2026-10-06T17:23:45",
+    "1640626": "2026-10-07T00:22:55",
+    "1640629": "2026-10-07T00:27:20",
+    "1640632": "2026-10-07T00:26:23",
     "1640635": "2026-10-06T18:53:10",
     "1640641": "2026-10-06T18:50:13",
     "1640644": "2026-10-06T18:50:18",
+    "1640663": "2026-10-07T00:22:05",
+    "1640665": "2026-10-07T00:27:01",
     "1640668": "2026-10-04T19:58:28",
+    "1640674": "2026-10-07T00:26:36",
     "1640682": "2026-10-04T18:27:11",
+    "1640685": "2026-10-07T00:25:31",
     "1640688": "2026-10-06T17:23:35",
     "1640691": "2026-10-06T17:18:07",
     "1640694": "2026-10-06T17:17:26",
+    "1640697": "2026-10-07T00:22:33",
+    "1640700": "2026-10-07T00:24:39",
+    "1640703": "2026-10-07T00:29:17",
+    "1640706": "2026-10-07T00:29:22",
     "1640757": "2026-10-04T17:55:25",
     "1640760": "2026-10-04T17:49:11",
     "1640763": "2026-10-04T17:54:28",
@@ -89793,6 +90821,7 @@
     "1640840": "2026-10-06T17:15:56",
     "1640846": "2026-10-06T18:50:27",
     "1640849": "2026-10-06T18:50:35",
+    "1640858": "2026-10-07T00:32:18",
     "1640861": "2026-10-05T01:15:13",
     "1640863": "2026-10-05T01:15:16",
     "1640871": "2026-10-06T18:50:58",
@@ -89805,7 +90834,7 @@
     "1640925": "2026-10-06T17:11:16",
     "1640927": "2026-10-05T16:14:20",
     "1640929": "2026-10-06T17:11:14",
-    "1640954": "2026-10-06T17:10:34",
+    "1640954": "2026-10-07T00:32:59",
     "1640958": "2026-10-05T18:18:15",
     "1640961": "2026-10-05T18:01:16",
     "1640964": "2026-10-05T18:04:30",
@@ -89842,6 +90871,7 @@
     "1641093": "2026-10-06T17:02:19",
     "1641096": "2026-10-06T17:02:30",
     "1641099": "2026-10-06T17:02:57",
+    "1641102": "2026-10-07T00:27:10",
     "1641105": "2026-10-06T16:08:31",
     "1641108": "2026-10-06T16:37:07",
     "1641110": "2026-10-06T16:30:20",
@@ -89849,6 +90879,15 @@
     "1641124": "2026-10-06T16:26:04",
     "1641126": "2026-10-06T16:40:51",
     "1641173": "2026-10-06T17:16:23",
+    "1641186": "2026-10-07T00:22:52",
+    "1641238": "2026-10-07T00:31:04",
+    "1641247": "2026-10-07T00:32:25",
+    "1641266": "2026-10-07T00:21:54",
+    "1641291": "2026-10-07T00:28:04",
+    "1641297": "2026-10-07T00:29:30",
+    "1641300": "2026-10-07T00:25:20",
+    "1641312": "2026-10-07T00:19:48",
+    "1641362": "2026-10-07T00:53:21",
     "19343": "2026-09-09T04:55:15",
     "21603": "2026-08-28T19:48:09",
     "355958": "2026-09-17T17:40:36",
@@ -90054,11 +91093,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
   },
-  "caldiscovery-festival-605b47b437b7433a@sf-cal": {
-   "content_hash": "d74a4f86878d0502f511088bd25757c0d2abcfed88ae0fa673b2bcc4ff79c27b",
-   "sequence": 0,
-   "last_modified": "2026-10-06T22:41:25.523094Z"
-  },
   "caldiscovery-festival-66d6166406fc610d@sf-cal": {
    "content_hash": "1c135a3cbf4b795b7199555c4a5416fab3d49dce5625ffab0887857f80823096",
    "sequence": 0,
@@ -90094,11 +91128,6 @@
    "sequence": 1,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
-  "caldiscovery-festival-89c56b320347479a@sf-cal": {
-   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
-   "sequence": 0,
-   "last_modified": "2026-10-06T22:41:25.523094Z"
-  },
   "caldiscovery-festival-8c2f2317ae9565e3@sf-cal": {
    "content_hash": "cc9b9e5ed2b92d315e459d054627e5e89655efd4ce3547651fc7517c14e00e68",
    "sequence": 0,
@@ -90108,6 +91137,11 @@
    "content_hash": "c7e135f1843d2d44578f1f86d00eb485fabd13e2f22b0c78bdf5cf5ab83c29f3",
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
+  },
+  "caldiscovery-festival-90e862e38c1503b4@sf-cal": {
+   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "caldiscovery-festival-970827771cc92965@sf-cal": {
    "content_hash": "ec7304138ed88b6e13f597c31db194b3d71718205888d89140dd12fd29ee4f11",
@@ -90134,20 +91168,15 @@
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
   },
-  "caldiscovery-festival-a92ea09483f966d6@sf-cal": {
-   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
+  "caldiscovery-festival-aa1f0b1f4e79dcaf@sf-cal": {
+   "content_hash": "d74a4f86878d0502f511088bd25757c0d2abcfed88ae0fa673b2bcc4ff79c27b",
    "sequence": 0,
-   "last_modified": "2026-10-06T22:41:25.523094Z"
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "caldiscovery-festival-aeff77f915c96ee9@sf-cal": {
    "content_hash": "39d91e8e41fdffa5324086d70dabb82ac6aecbad50d7d9062e6e7a55c496ad55",
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
-  },
-  "caldiscovery-festival-b521722bd5860842@sf-cal": {
-   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
-   "sequence": 0,
-   "last_modified": "2026-10-06T22:41:25.523094Z"
   },
   "caldiscovery-festival-b8d99de162ce023a@sf-cal": {
    "content_hash": "182c67fd5b251a5b3138dfb5f680cfdc87bd2fec42ad858415776b5f1f47ecab",
@@ -90169,15 +91198,25 @@
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
   },
-  "caldiscovery-festival-cd452438fd13a2cf@sf-cal": {
-   "content_hash": "76f32256894b0a97d7f492854c258813a661ce3819bcaed2759083f45f26dd43",
+  "caldiscovery-festival-c35d2f81a77cb8b9@sf-cal": {
+   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
    "sequence": 0,
-   "last_modified": "2026-10-06T00:26:14.958336Z"
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "caldiscovery-festival-cd452438fd13a2cf@sf-cal": {
+   "content_hash": "04402f561ac669e25e4b41c6b74b1870d996878b1d9cafea5c00ff3916a66f8e",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "caldiscovery-festival-d53b01a893fb8aaf@sf-cal": {
    "content_hash": "fd1ad9fdfbfb6a6f2320a3c26850dfb5d20476ee5ec78f8c2e5d5c330e2b811c",
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
+  },
+  "caldiscovery-festival-d6fb0dc2df4c9e92@sf-cal": {
+   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "caldiscovery-festival-dac82484955575ca@sf-cal": {
    "content_hash": "9a05bcfc09fc6c5c2601802b5e4dcee6d26f1635ff83206922af62b40917a5b2",
@@ -90675,9 +91714,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17138344@sf-cal": {
-   "content_hash": "a15d4c6c212798ffab684e3937199b88f5d97c1790b288fd6a2bb838af9978c7",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "085b60929330b274c419d11383c9686de62e6ed577cc02ade55f6253ceb4ba1a",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17138345@sf-cal": {
    "content_hash": "0a94335c9834378044c9e1f3763f078a876335bc4f830652340707a7c501dab2",
@@ -90710,9 +91749,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17165104@sf-cal": {
-   "content_hash": "dbf7af1a78bdb4369000154498d2c243f4fcb2b0388e0dc4eadd08589a8a682e",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "3f527b990f2b561417aa76741e6d25f2bf15e478fd3ad2c65871e0a7cbb604a6",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17172782@sf-cal": {
    "content_hash": "baf571403d267f2806ff547a1f9843178dca4eb489373b816c7dc58732c13832",
@@ -90730,9 +91769,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17183857@sf-cal": {
-   "content_hash": "d75f9f74a06acaf2668d282e6d771250d882b1f2b978a0db77753b8bf8d5d81d",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "0eb473230f95686cfe1dd9cd1b9ad8c0796625a1f50672db6350de0f17f12f8c",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17183882@sf-cal": {
    "content_hash": "1693151ab2110284e8453fa1a1d72a42a0bf305e0d9bcca64dc431416684a4e4",
@@ -90765,9 +91804,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17196996@sf-cal": {
-   "content_hash": "c0d8beaab6f83c1a035c418b4f01b4c85c4c013d3b8106fc2b945118b9c60032",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "13d3ed04b2f7833ce74ea88717f3e9775f78ab29b3fb68a0b48a0ae812413591",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17198657@sf-cal": {
    "content_hash": "38f19eb66d6f4f3cf2d06c255095da544ddf25dc7cdf0db3f9c310aa6e8cf5c9",
@@ -90780,9 +91819,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17207419@sf-cal": {
-   "content_hash": "141f8cdabed472906aa99cb033c3819fb9a27204ba09b8be72e2c345b6bce5b1",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "0a3b129b18f42a430210169e2b7de716cafbf21286d56e151ff83bd3e12980fd",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17207424@sf-cal": {
    "content_hash": "df8942636ef7408825bcde562ca6773e4c8b81b9f20ac17fe06831c34d939c43",
@@ -90830,9 +91869,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17222550@sf-cal": {
-   "content_hash": "4eb9f9c7ae20223db48da2aa4c8512e2b0c8e1385c9f9cefc52b9cbfff32f167",
-   "sequence": 1,
-   "last_modified": "2026-10-06T00:26:14.958336Z"
+   "content_hash": "c381465843f509716f1efef8cf439c01a8cc17dbfdb78b02b3358836bc29b8db",
+   "sequence": 2,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17227487@sf-cal": {
    "content_hash": "3dfebaa73b7fa092da59d06c0de9ccff49e2d6263747ad736d8e2e6c3557d9c9",
@@ -91010,9 +92049,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17310571@sf-cal": {
-   "content_hash": "e87d8ea95c442e64c19bd5f530017e36dd6a70b72b08aa45e61277cc001ce2d1",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "69d3e0b955aea787188d708d9185ee62fdf63cf4d8d516a07a1271dd6d62d14f",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17314839@sf-cal": {
    "content_hash": "7b10a1a9e7132fc1885f8e7a636db4d896d28879d8a0251c0a1b4c790315233f",
@@ -91245,9 +92284,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17387486@sf-cal": {
-   "content_hash": "a9e27e5672573a031b6a1f34d0ba9ec9c436d36f78bef799be75b59287d02674",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "0ea396c38638199d0b1cd848659339ac77f3e3fbe835a15fb919fb368574c414",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17387756@sf-cal": {
    "content_hash": "e6dbe9aea67f0a2cedecdcf4803bc530eedf4188be7acbeaeb30c410111284f4",
@@ -91395,14 +92434,14 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17431802@sf-cal": {
-   "content_hash": "94a4f4d3c4b22061f58ed4a4e7dda595c47a43472e3f45eb3d0f05bd616c21a5",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "479bb08d4c04f58d7bf9d8f802ae4625df2c4083a628afbba5f9ba1385791e11",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17431803@sf-cal": {
-   "content_hash": "4db5406e2baab1c7ad92390c3b684e69833030262c410d93101670570420fdb9",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "4fa4855dc79366d17b92b75f7631e11bcdc4b9a94fa9cb4e999a9e5af2394954",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17431804@sf-cal": {
    "content_hash": "480417ab6da8ea0a82150e6394b4db9d2608cc59a5fcfeec645562206a2c5d80",
@@ -92250,9 +93289,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17583431@sf-cal": {
-   "content_hash": "76fc4b0b67762f525ee38ac7178ed17b5f75f98e337544d10df58d251dd9254d",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "6cead643cf73a98dadffe09227310dc23a6dc152ed358dfd0f2df9433521599d",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17583432@sf-cal": {
    "content_hash": "e7ec4af71276a6328ed1e27139649be23cb3d981a97669188178e58864a23465",
@@ -92395,9 +93434,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17612355@sf-cal": {
-   "content_hash": "033c686b7f41ccb5d3fc830456b2572d55581cca27e834a086c53d9f231d75ed",
-   "sequence": 1,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
+   "content_hash": "79fb762d397b58f714f65f6b2e58ec2a7eadc9b3312897651a057c83fd94b092",
+   "sequence": 2,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17612356@sf-cal": {
    "content_hash": "ce12fe8a74e568b813145596eaa231ce2911fb784566adde1e9056d4d24b6b60",
@@ -92535,9 +93574,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17633774@sf-cal": {
-   "content_hash": "d3b1dbecc276a26cdd722bcdb29b346e3c74200c1a9fcd7a51accc9e2e203643",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "a6432afb6c97e0e31b48b01550ce0e8783990627da7066b417d058956d64f000",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17633775@sf-cal": {
    "content_hash": "17adff1e3e943f519f550d99dff0a75fe233bc283dff649a0bf826413173d63d",
@@ -92550,9 +93589,9 @@
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
   "dothebay-17634348@sf-cal": {
-   "content_hash": "f9487200b0a113b7d624377f9473dff563c4ff64a11b914a61bfec0b1212875a",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "79be9e4f63d2cf82ee143ad2323b1d253d1933d27acad97d592ed108079e4327",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17635222@sf-cal": {
    "content_hash": "7852ba9914b2b99740f308912f67fdbbb35459f9ea6f6d5ac584abd130922af3",
@@ -93470,14 +94509,14 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17732840@sf-cal": {
-   "content_hash": "e168a88959894771a7823f0c9ff3e02d845beb66c407fcef66302faa52786e26",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "21c9e431c680062b609d93c130e2da7df58954b11133d65ab1eb18f4a2c70097",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17732842@sf-cal": {
-   "content_hash": "1d917715959b9393b4595951faf4f5cf18edbe2cf4668e88f6f7239365ce8f08",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "46c2c84987e1d68da2079467cbe440689b1788360c832b7bffb3b04611e67fb9",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17732843@sf-cal": {
    "content_hash": "748d6eb85aada0b1c1b838f8dfbfd0d93b8cb24cea5e8b09992151d89f6fd2b0",
@@ -93745,9 +94784,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17756508@sf-cal": {
-   "content_hash": "d7382a5031f1de62cf0e4da6ad555b97531d7018cfb7cf621da594c04d069382",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "f050333d46be2757d69fad93150b0a928f30d2aa7e42b775996a775beb44254d",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17756973@sf-cal": {
    "content_hash": "2d0c718f19edde436237716582fd5f1d30f1e709f17ae6358b247732eb5f16da",
@@ -94000,9 +95039,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17776884@sf-cal": {
-   "content_hash": "569fb0694ca9f8adfbe39ba57a9db9d991cf41af2aa5d8ff648a043d9f430879",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "c730615a7503d0aca811686532948c7d4f5d439f44b9f0f98f5aa99962b763ec",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17778487@sf-cal": {
    "content_hash": "2fe8a94fa8164846f4058866d9fc0440ab5ba0c4c607f625d9b563e10afe3598",
@@ -94240,9 +95279,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17811239@sf-cal": {
-   "content_hash": "319b18a8035b7227151a3fcc0ff24448f3f362d6b754b31f171f7ffbcb4926cc",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "dbb2b4cb2ac135fba23cadb3d26f0eef09ad9db62cfdfe5a54b8c9cee137da5f",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17811242@sf-cal": {
    "content_hash": "7545ff66b0814e1212e684cf7920c05cd6be566615d67504b9d441119c7e7290",
@@ -95235,9 +96274,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17866454@sf-cal": {
-   "content_hash": "e7510d291d273db34346ffd6cd221edb6e68a6262e1fafafbefebb6041a321e5",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "b4aa2c6e9ba280fcc7e67348c12311b4811b54cfe8116b06386960c7f6494083",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17866469@sf-cal": {
    "content_hash": "d57acceef6a9e021f5f9ec8a17247d3dc890b2dcefc776f5f84ddf3ec5cf47ca",
@@ -95385,9 +96424,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17874230@sf-cal": {
-   "content_hash": "512c32a63d37ebb7e212202ebe8c16ef4533740ca04dc72aa81d521d20d6a1a9",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "3d7f390079bf82585e637220591b9955b5e02bc4b7c4fa4072135ec734859454",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17875634@sf-cal": {
    "content_hash": "5ffe3721fcb50e0f203c9895aeba03ac40774a651c176edfc3ecb467c9b0a0a3",
@@ -95650,19 +96689,19 @@
    "last_modified": "2026-10-06T06:29:17.881858Z"
   },
   "dothebay-17884771@sf-cal": {
-   "content_hash": "ff6afb3cc6b2b77f0e31c817a37f70e4fa15def5e48658112be274ce284806b3",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "7db77210be36b1fb76279fff5b805d96b2af7d3e8e50dae445ca16f8c3961ef2",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17884772@sf-cal": {
-   "content_hash": "aaf9dcd06994f2a917d2e09bbe90f91d4e4cba620c5391ec67f3828b9f152aaf",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "bac12cc752f65e59a092b5c573918497001c908eff96d7da3cd0d464b12e9170",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17884774@sf-cal": {
-   "content_hash": "ef92d92b7f7251a0ceb29f7bd1fee61b06e0f74dadd2fdb86ae034bb858174b5",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "0b18966e75c6d6700442093eb72346d1ab7f55489ea9cf8bdbaf715dd432faa3",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17884776@sf-cal": {
    "content_hash": "784726daf6989261342c27cf9c1185c6c695a5310d314b920328d2ba58aa6f81",
@@ -95945,9 +96984,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17910540@sf-cal": {
-   "content_hash": "c6e9656fb0d6304bee55599f7601983815cb055b45833b57b5fa03d5993119a3",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:12:00.254327Z"
+   "content_hash": "2d79ca75ee976e3cc2deacd7c238b289a27135264ae33de327b2fbe5df380ea8",
+   "sequence": 1,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17910549@sf-cal": {
    "content_hash": "79bca3eca66b34027d550c7dc3f5251535a4355b761dc8e02cc6f087187665ff",
@@ -96040,9 +97079,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17913922@sf-cal": {
-   "content_hash": "61ea7791cd744dbb67dc5f281f669dc370f987b3c4f1b1d1f3f4ef2472dac01c",
-   "sequence": 1,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
+   "content_hash": "e8fdb1625dd3b40b2ec3f58108a1669313d79d3a4d4f01d91615ba81af18dedb",
+   "sequence": 2,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "dothebay-17913923@sf-cal": {
    "content_hash": "8fca669543183ca6ea6d6ca3e7ee215381ef7b4e14d32d2ba56fcb03451b6ac3",
@@ -96359,6 +97398,31 @@
    "sequence": 0,
    "last_modified": "2026-10-06T19:12:50.541261Z"
   },
+  "dothebay-17929498@sf-cal": {
+   "content_hash": "1b581155f6957f29eec0a4a15ad70dd1ca34599928dd77c3726a69247921f6e4",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "dothebay-17929998@sf-cal": {
+   "content_hash": "f91511a093e7d6db39bab7631f0d4e8768d80080af5dfc1ef40494abe5a8d1e1",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "dothebay-17930016@sf-cal": {
+   "content_hash": "6600afe08ef91381f436f40798a8926dd33cf52ce25b60957cc4e03089fcbd88",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "dothebay-17930122@sf-cal": {
+   "content_hash": "e27ad3b41cdffa71695704fbaa5af1c7452736f519fab04f6a9f1067fc64e42e",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "dothebay-17930512@sf-cal": {
+   "content_hash": "d6abe9cb46e5ba5f81fe3873bd973a08c4d2c91cf35e43b9c38976e47f6174ba",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "fleetweeksf-52738-20261011@sf-cal": {
    "content_hash": "6f45d999f681ab2bf7ecb5d2dfe10ece2038da1c101012f90c87477e9d2036f3",
    "sequence": 0,
@@ -96555,9 +97619,9 @@
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
   "fleetweeksf-53587-20261010@sf-cal": {
-   "content_hash": "4a78d534c0aa3d3fe92a0cc150fe4f35171552abd03108efc77059cfb25696d1",
-   "sequence": 5,
-   "last_modified": "2026-10-06T22:41:25.523094Z"
+   "content_hash": "1ee9a3937f4909bf9886af7a0c650178c78a182267e20bdfb46705db01e95e3c",
+   "sequence": 6,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "fleetweeksf-53588-20261010@sf-cal": {
    "content_hash": "c3ea881a1a7b371be01715d229cf27cd47968583a18c32750bb893d322b7c8a5",
@@ -96565,9 +97629,9 @@
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
   "fleetweeksf-53589-20261010@sf-cal": {
-   "content_hash": "1b242f69a76ec6a301a0250dc086bb7ad7b3cc0ce6376b6069a512aae8c9859b",
-   "sequence": 5,
-   "last_modified": "2026-10-06T22:41:25.523094Z"
+   "content_hash": "79e6d7b98f98c47d7ce16f4a6919e7492a91f13c740c509200537c13f5c5fb5e",
+   "sequence": 6,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "fleetweeksf-53590-20261010@sf-cal": {
    "content_hash": "79b623bab20bac6cf81b79ee72a66b4d48ef6238ac32a2859292d554fe0cea13",
@@ -96994,11 +98058,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1633351@sf-cal": {
-   "content_hash": "7143a5d689e67d22c3885c96a36bc3e539da0f27a379388a4f7c71513045cba8",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1633439@sf-cal": {
    "content_hash": "4addec97094a4e0ff651797fdd7304a8ee2271e49391b8c8053d0e5c1354e4af",
    "sequence": 0,
@@ -97124,6 +98183,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
+  "funcheap-1634289@sf-cal": {
+   "content_hash": "5e2e84583e039c6ad0a39b025981cf9d98dc64b7f0eb74d425cc428027695215",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "funcheap-1634292@sf-cal": {
    "content_hash": "2536ddd89be32110ad2ee01cec75db306ee8cba128a3c4f94c474bdc0ee41818",
    "sequence": 0,
@@ -97221,11 +98285,6 @@
   },
   "funcheap-1634734@sf-cal": {
    "content_hash": "1604cec846289529efee2bbb0db329bef7185b6082e12c1d6bcb0d5ef53bcc9f",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1634738@sf-cal": {
-   "content_hash": "9eaa6f744f127ca43f642be9eab099198b8ab4d2a63f9061e1185da343657baa",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -98284,11 +99343,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1637640@sf-cal": {
-   "content_hash": "f33ab2fc515579f65d5a5fc545345d4f48a0b2def8554f21046116186d2ea9c5",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1637646@sf-cal": {
    "content_hash": "8721ebebc5ca6a151b0f908f0db293d4a30dba538aeb1ce54eb59850f3ed0598",
    "sequence": 0,
@@ -98549,11 +99603,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1638256@sf-cal": {
-   "content_hash": "90948b2591160b2a413bbf588371b8ebd7d8abd5569887447b391f62af26660b",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1638259@sf-cal": {
    "content_hash": "a74e722c1b784b8f1f76359c12f3a11b1ed3e13171d576e8a0ef1e032378431e",
    "sequence": 0,
@@ -98756,11 +99805,6 @@
   },
   "funcheap-1638679@sf-cal": {
    "content_hash": "f362e00b0a394601b2620d94cc973b8487b0c2c859925003c632ebfea10ae6a1",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1638698@sf-cal": {
-   "content_hash": "716e5bb098f6eb677c429299f72df0472cd063f057d946c49bf517628bdc2c0c",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -99739,6 +100783,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
+  "funcheap-1639913@sf-cal": {
+   "content_hash": "571bd47b57166caa34b037a36350d25810c0c224285fad827474629ed3a589db",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "funcheap-1640009@sf-cal": {
    "content_hash": "b6b505afc7bd3b65234dd47c551c51f0c756c423344f2e50c6d917e1ad01b9d6",
    "sequence": 0,
@@ -99804,6 +100853,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
+  "funcheap-1640302@sf-cal": {
+   "content_hash": "be3f654f7d9e8646aca9bcc12ba0fc86966cf8c4c1e6b1f1d6406d140cf3e9a7",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "funcheap-1640305@sf-cal": {
    "content_hash": "183505c84ac6dda2242890957778c2ee8b4e813af3802f5fc773453cf872f811",
    "sequence": 0,
@@ -99839,10 +100893,25 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
+  "funcheap-1640331@sf-cal": {
+   "content_hash": "15ebde66d3840ade083a5651f665d978a7340fd9844398ef6fdf1e9e017db4de",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "funcheap-1640355@sf-cal": {
    "content_hash": "37ff48e3300265f5561d7d24243bab1741c1fe5afaed4be031625d3984c6a0cd",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
+  },
+  "funcheap-1640358@sf-cal": {
+   "content_hash": "d0756c7eb5ef498f3c41d10c2191f7c9fb1a56e1aa928ed2afa550ddc9b74733",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1640381@sf-cal": {
+   "content_hash": "f7ea854d4d80d06768c122a059043cb2dad6ea882dc90b9b0088d2831ac3b1bc",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "funcheap-1640412@sf-cal": {
    "content_hash": "840f60c4ab7df9450d37fe5595b24d1f23172d52bb7c954667380296df316b2c",
@@ -99914,6 +100983,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
+  "funcheap-1640489@sf-cal": {
+   "content_hash": "d2bc6f0c91323b94adc3a4a17b14ba2ddde0e15a09a21c711abee7aa402acfb5",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "funcheap-1640493@sf-cal": {
    "content_hash": "e31d34c20f077c5247c9f109fd09917b05e08f472bbf357b866df7fb44bbd0b4",
    "sequence": 0,
@@ -99923,6 +100997,16 @@
    "content_hash": "2693c44f148f5f0162c119f44929a01cb60387b22f1de92c02a402ae239e9896",
    "sequence": 0,
    "last_modified": "2026-10-06T19:12:50.541261Z"
+  },
+  "funcheap-1640516@sf-cal": {
+   "content_hash": "299769914614eae4a73d825a2cbb028cfc6b2ac1732cff00963c31e487232dd2",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1640519@sf-cal": {
+   "content_hash": "5eed83f551b965a38221016b87c82b3d46a4c13296c4d91f432fc44c6c5af099",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "funcheap-1640522@sf-cal": {
    "content_hash": "5284f0af37456ac0b60632de2a9b2a21ecfb0323230de81f556360c3dea0fd9a",
@@ -99948,6 +101032,11 @@
    "content_hash": "84afd927687eb0988377b29bf2c6ed64ed44fb0d45365350f98aa3a6613086b5",
    "sequence": 0,
    "last_modified": "2026-10-06T19:12:50.541261Z"
+  },
+  "funcheap-1640545@sf-cal": {
+   "content_hash": "4b2193b96752dae782eff70fcaa581e53b7f48912a240892003b56a4829f1f67",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "funcheap-1640548@sf-cal": {
    "content_hash": "d92a826a6ce932f90e7ede9c019f9bdade39a2a2b54413761c18e37f13edfa64",
@@ -99994,10 +101083,20 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
+  "funcheap-1640612@sf-cal": {
+   "content_hash": "9f65d01a4e3e562d9ad008111a48b2676be4b0e817daddb3cb2be8be9bc275b6",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "funcheap-1640621@sf-cal": {
    "content_hash": "086595184da63eaa649efa34f31d20703023399690c02a15001f100423ff23dd",
    "sequence": 0,
    "last_modified": "2026-10-06T17:26:02.269412Z"
+  },
+  "funcheap-1640632@sf-cal": {
+   "content_hash": "8dbc60feff1ca7465ef365f03a65f54ead8b27533eb39054407317015a9dd41f",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "funcheap-1640641@sf-cal": {
    "content_hash": "e9a1697f99a028626de390ea8b4c189e07b9cac6d13758cdab1478bff42a5a87",
@@ -100008,6 +101107,11 @@
    "content_hash": "20d2f51c263d2c9f68fee257536a8edc0b1a0793dad2b35a64c92bf0640700fb",
    "sequence": 0,
    "last_modified": "2026-10-06T19:12:50.541261Z"
+  },
+  "funcheap-1640665@sf-cal": {
+   "content_hash": "f3f5b40ff6753590b7bf03ec6d7cf5011c2e48974f7169dc0a703dd18888b546",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "funcheap-1640757@sf-cal": {
    "content_hash": "d14e2eff25933a90160f1e3d35ada7de42e0587cac1642ed1852fb750d14e469",
@@ -100048,6 +101152,11 @@
    "content_hash": "a5f3b4800f9c4f5c55c80b4f43a54ee1f4ec3a407d7e2d8d76f996b83ea1488b",
    "sequence": 0,
    "last_modified": "2026-10-06T17:22:18.408093Z"
+  },
+  "funcheap-1640858@sf-cal": {
+   "content_hash": "311a765d26c7d00bab1e677cb421a427748d9644a037b492916ce959e3d155f0",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "funcheap-1640861@sf-cal": {
    "content_hash": "951219232e8a58f22360a4c525ac2fb290714dbdf050dae09046346968631b32",
@@ -100199,6 +101308,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
+  "funcheap-1641102@sf-cal": {
+   "content_hash": "11fd21a38063c4260db44ee044f2f33e6ac23ffea18e2300f3448e6e02051f6f",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
   "funcheap-1641110@sf-cal": {
    "content_hash": "e6a9ee6b870f6682621019a1eafc734f6fcd685649059104f5b293d69c390429",
    "sequence": 0,
@@ -100208,6 +101322,41 @@
    "content_hash": "77db84867c8df6db42558c527b32801f098c30842e679c6269a4eded7ee7c25e",
    "sequence": 0,
    "last_modified": "2026-10-06T17:22:18.408093Z"
+  },
+  "funcheap-1641186@sf-cal": {
+   "content_hash": "8779ebee371e63c1bfc2402fa0e0bd95c64e002bfd156cd5eefd7b2e3f936764",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1641247@sf-cal": {
+   "content_hash": "0573649cbbe5384d9181383390faca87f2451f479be059c5f89e67fdfb23a5b3",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1641266@sf-cal": {
+   "content_hash": "88983d81efea003fa73db9d81fbbd2e2e136f8bcd19d7cb4438c56ffbf3dc81f",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1641291@sf-cal": {
+   "content_hash": "f9fa24c104d964c826ce90761b49cdfbae9f9afebaf4342101cf7677b93ec07e",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1641297@sf-cal": {
+   "content_hash": "e749b69ceede50f65d52fc364a2c287eaba0689dddd3d1fc3adbd45f40ed26b3",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1641300@sf-cal": {
+   "content_hash": "f5228fb9a585e29eaf5575942951942c1a54307bbdc225aa5199e317c70a0dc1",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
+  },
+  "funcheap-1641312@sf-cal": {
+   "content_hash": "b3b25320659f3e560741fc6acc51b0ae360333c57a2eb19a7548426c029bd283",
+   "sequence": 0,
+   "last_modified": "2026-10-07T06:08:15.113477Z"
   },
   "funcheap-382389@sf-cal": {
    "content_hash": "ff0f20847522ea2447fd7ea0550afb1b78b0d82b27ae9c564c237ca9f26a9088",
@@ -101246,11 +102395,6 @@
   },
   "sfrecpark-civic-center-f229b9c789334925@sf-cal": {
    "content_hash": "75501babf1164fb5ef02f3dbed50ed12b6dfee1f8dccbc4e44132a8795afa4f6",
-   "sequence": 0,
-   "last_modified": "2026-10-06T17:22:18.408093Z"
-  },
-  "sfrecpark-civic-center-f515482b8f61a19c@sf-cal": {
-   "content_hash": "292a6ffc62741e7bac5938a94f963224db865178209f33346509af53aa1e3cbb",
    "sequence": 0,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
