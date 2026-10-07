@@ -41,49 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Save the “Sixth Street Homeless Self-Help Center” Rally (SF Ci
- ty Hall)
-DTSTART;TZID=America/Los_Angeles:20260930T104500
-DTEND;TZID=America/Los_Angeles:20260930T120000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638278@sf-cal
-SEQUENCE:0
-CATEGORIES:Community
-DESCRIPTION:Submitted by the Event OrganizerHospitality House is holding a
-  rally on the steps of San Francisco City Hall opposing the proposed closu
- re of the Sixth Street Self-Help Center. The center provides low-barrier p
- eer support\, case management\, behavioral health resources\, housing and 
- employment referrals\, therapy and support groups\, and basic-needs servic
- es for people experiencing homelessness\, poverty\, behavioral health chal
- lenges\, and isolation. Attendees are invited to bring signs and support t
- he effort to preserve the center.\nOriginal Event Description:\n_📣 SAVE
-  OUR SIXTH STREET — RALLY AT CITY HALL\nOn Wednesday\, September 30\, 20
- 26\, Hospitality House is taking our fight to the steps of San Francisco C
- ity Hall.\nFor years\, the Sixth Street Self-Help Center has been more tha
- n a building. It is a place where people experiencing homelessness\, pover
- ty\, behavioral health challenges\, and isolation can walk through the doo
- r and be met with dignity\, compassion\, and community.\nSixth Street prov
- ides low-barrier access to peer support\, case management\, behavioral hea
- lth resources\, housing and employment referrals\, therapy and support gro
- ups\, basic needs\, and—just as importantly—a place where people know 
- they belong.\nWe are asking our community to stand with us.\nJoin Hospital
- ity House staff\, community members\, neighborhood partners\, supporters\,
-  and advocates on the steps of City Hall as we call attention to what the 
- closure of Sixth Street would mean for the people who rely on it.\nOur nei
- gh...\n\nFree\n\nTickets: https://www.instagram.com/p/DdejBbuTI0m/?utm_sou
- rce=ig_web_copy_link&amp\;stkn=NTc4MTIwNjQ2YQ==\nDetails: https://sf.funch
- eap.com/save-sixth-street-homeless-selfhelp-center-rally-sf-city-hall/\nSo
- urce: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/815653
- 613_18389774320162508_6511916187866674974_n.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:San Francisco City Hall Steps\, 1 Dr Carlton B Goodlett Pl\, San 
- Francisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/save-sixth-street-homeless-selfhelp-center-ral
- ly-sf-city-hall/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
 DTSTART;TZID=America/Los_Angeles:20260930T110000
 DTEND;TZID=America/Los_Angeles:20260930T170000
@@ -2918,9 +2875,9 @@ BEGIN:VEVENT
 SUMMARY:Translator to Translator: Translating Diaspora
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T210000
-DTSTAMP:20261007T060815Z
+DTSTAMP:20261007T210655Z
 UID:dothebay-17930016@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Literature
 DESCRIPTION:Aaron Coleman and Jon Cho-Polizzi discuss the challenges and r
  evelations of translating the Black diaspora: examining continuities and r
@@ -2946,10 +2903,11 @@ DESCRIPTION:Aaron Coleman and Jon Cho-Polizzi discuss the challenges and r
  nKALW Public Media\n\nTickets: https://events.humanitix.com/translator-to-
  translator-translating-diaspora\nDetails: https://dothebay.com/events/2026
  /10/8/translator-to-translator-translating-diaspora-tickets\nSource: DoThe
- Bay
+ Bay\n\nAlso listed on:\n- https://sf.funcheap.com/translator-translator-tr
+ anslating-diaspora/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34835205/0243728e-314f-4f76-aa85-305508633b81.jpg
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261007T210655Z
 LOCATION:KALW @ 220 Montgomery\, 220 Montgomery St\, San Francisco\, CA\, 
  94104
 TRANSP:TRANSPARENT
@@ -3239,9 +3197,9 @@ BEGIN:VEVENT
 SUMMARY:Voting Matters: California Voter Guide Live with CalMatters
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T200000
-DTSTAMP:20261007T060815Z
+DTSTAMP:20261007T210655Z
 UID:dothebay-17929998@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Activism
 DESCRIPTION:Join KALW & CalMatters for a live voter guide presentation tha
  t will answer your questions about the candidates & issues on the Nov. bal
@@ -3263,10 +3221,12 @@ DESCRIPTION:Join KALW & CalMatters for a live voter guide presentation tha
  Fwww.eventbrite.com%2Fe%2Fvoting-matters-california-voter-guide-live-with-
  calmatters-tickets-2002474941455%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue\n
  Details: https://dothebay.com/events/2026/10/9/voting-matters-california-v
- oter-guide-live-with-calmatters-tickets\nSource: DoTheBay
+ oter-guide-live-with-calmatters-tickets\nSource: DoTheBay\n\nAlso listed o
+ n:\n- https://sf.funcheap.com/voting-matters-california-voter-guide-live-c
+ almatters/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34835074/a1d5cd9a-e8ac-4429-ae7d-2f4df705ebe6.jpg
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261007T210655Z
 LOCATION:KALW @ 220 Montgomery\, 220 Montgomery St\, San Francisco\, CA\, 
  94104
 TRANSP:TRANSPARENT
@@ -4476,8 +4436,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Italian Heritage Festival & Parade
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261007T133325Z
-UID:caldiscovery-festival-50528dcb3b48f338@sf-cal
+DTSTAMP:20261007T210655Z
+UID:caldiscovery-festival-77100732a4719190@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
@@ -4487,7 +4447,7 @@ DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
  ls: https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
  ign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T133325Z
+LAST-MODIFIED:20261007T210655Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
@@ -5303,9 +5263,9 @@ SUMMARY:Reimagining Local News: From the Ground Up with Tiny News Collecti
  ve
 DTSTART;TZID=America/Los_Angeles:20261014T180000
 DTEND;TZID=America/Los_Angeles:20261014T200000
-DTSTAMP:20261007T060815Z
+DTSTAMP:20261007T210655Z
 UID:dothebay-17930512@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Activism
 DESCRIPTION:Join Tiny News Collective for a conversation with the communit
  y-centered founders rebuilding and reimagining local news.\n\nFrom the Gro
@@ -5328,10 +5288,11 @@ DESCRIPTION:Join Tiny News Collective for a conversation with the communit
  nders-reimagining-local-news-san-francisco-tickets-2001032681617%3Faff%3Do
  ddtdtcreator%26keep_tld%3Dtrue\nDetails: https://dothebay.com/events/2026/
  10/14/reimagining-local-news-from-the-ground-up-with-tiny-news-collective-
- tickets\nSource: DoTheBay
+ tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/re
+ imagining-local-news-ground-tiny-news-collective/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34837474/acea6466-ac30-45e2-ab8b-c7afe9be1e08.jpg
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261007T210655Z
 LOCATION:KALW @ The Warfield Commons\, 988 Market St.\, 9th Fl\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -5526,6 +5487,38 @@ LOCATION:Mitchell Park Community Center 3700 Middlefield Road Palo Alto
 TRANSP:TRANSPARENT
 URL:https://www.unaff.org/?utm_source=caldiscovery&utm_medium=ics&utm_camp
  aign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Film Festival of San Francisco
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261016T180000
+DTSTAMP:20261007T210655Z
+UID:caldiscovery-festival-d26d5c0858f97f66@sf-cal
+SEQUENCE:0
+CATEGORIES:festival,film
+DESCRIPTION:Oct 15-22\, 6pm-11pm\n\nForget the guilt trip\, the Green Film
+  Festival of San Francisco\, the mischievous\, tree-hugging cousin of the 
+ 29 year old SF IndieFest\, returns Oct 15-22 to prove that saving the plan
+ et doesn't have to feel like homework. We've ditched the doom-and-gloom do
+ cumentaries that make you want to crawl under a (sustainably sourced) blan
+ ket and never come out.\n\nThe line-up this year pairs sharp environmental
+  storytelling with wit\, weirdness\, and unapologetic irreverence. And yes
+ \, our Eco-Horror midnight movie is back!\n\nWhether you're an eco-curious
+  cinephile or a die-hard activist\, come join in the fun because if we're 
+ going to talk about the end of the world as we know it\, we might as well 
+ laugh\, gasp\, and maybe even dance a little on the way there.\n\nThrough 
+ this experience the festival hopes audiences can begin to engage with sust
+ ainable solutions to the problems facing the planet.\n\n10-15.\nhttps://ww
+ w.indybay.org/newsitems/2026/10/03/18888999.php\n\nPublished by Indybay\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://www.indybay.org/newsitems/2026/10/03/18888999.php?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDis
+ covery
+LAST-MODIFIED:20261007T210655Z
+LOCATION:4-Star Theater 2200 Clement St San Francisco\, CA 94121
+TRANSP:TRANSPARENT
+URL:https://www.indybay.org/newsitems/2026/10/03/18888999.php?utm_source=c
+ aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:After Dark: Speakeasy
@@ -6404,6 +6397,73 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/san-francisco-photobook-fair/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Autumn Art Market (Berkeley)
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+DTSTAMP:20261007T210655Z
+UID:funcheap-1641403@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerMarko YamagataAutumn Art Marke
+ t at the Berkeley Tannery\nSaturday\, October 17\, 11-5pm\n\n710 Gilman St
+ reet at 4th Street\n\n15+ Artists\nMusical performance by Grizzly Peak\nTa
+ cos provided by Sexy Queso\n\nFree\n\nTickets: https://www.facebook.com/ev
+ ents/1766075281385881?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_t
+ ype%22%3A%22plan_user_associated%22%2C%22action_history%22%3A%22null%22%7D
+ &amp\;notif_id=1791131559071463&amp\;notif_t=plan_user_associated&amp\;ref
+ =notif\nDetails: https://sf.funcheap.com/autumn-art-market-berkeley-2/\nSo
+ urce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Poster
+ -jpg.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Tannery Art Studio\, 710 Gilman Street\, Berkeley
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/autumn-art-market-berkeley-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipino American Int’l Book Festival 2026 at SF Main Library (O
+ ct. 17-18)
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T171500
+DTSTAMP:20261007T210655Z
+UID:funcheap-1641527@sf-cal
+SEQUENCE:0
+CATEGORIES:Lectures Workshops
+DESCRIPTION:Filipino American Int’l Book Festival 2026 at SF Main Librar
+ y (Oct. 17-18)\nN/A\nThe Filipino American International Book Festival (Fi
+ lBookFest)\, presented in partnership with San Francisco Public Library\, 
+ returns SFPL’s Main Library for its 8th iteration\, continuing its legac
+ y as the largest Filipino American literary festival in the U.S. This year
+ ’s theme\, “SANGGALAN: Stories that propel us\, stories that protect u
+ s\,” centers stories that carry us forward and hold us together: stories
+  as refuge\, stories as resistance\, stories as action.\nHeld during Filip
+ ino American History Month\, FilBookFest brings together writers\, scholar
+ s\, and creatives from across the globe\, including the U.S.\, Canada\, an
+ d the Philippines\, to the iconic San Francisco Public Library. Over two d
+ ays\, attendees can enjoy panel discussions\, book signings\, and readings
+  featuring a vibrant mix of established and emerging voices. The festival 
+ celebrates storytelling\, culture\, and the diverse experiences of the Fil
+ ipino diaspora.\nFESTIVAL MARKETPLACE\n\n📍 Latino Room\n11:00 AM – 5:
+ 15 PM\nSaturday\n12:15 PM – 5:00 PM\nSunday\n\nSaturday\, October 17\, 2
+ 026\n\n10:30 AM\nOPENING KEYNOTE\n\nRandy Ribay\n📍 Koret Auditorium\n\n
+ 11:00 AM – 12:00 PM\n\nThen\, Here and Now: Celebrating Publications Ove
+ r a Decade Old\nBarbara Jane Reyes\, Mia Alvar Noel Alumit\, Shirley Anche
+ ta\; moderator: Edwin Lozada\n📍 Koret Auditorium\nLove at the Fiesta: R
+ omance Fiction and Filipino American Joy\nCeleste Dador\, Maan Gabriel\, M
+ aida Malby\, Mia Hopkins\n📍 Hormel LGBT...\n\nFree\n\nTickets: https://
+ filbookfestival.org/schedule\nDetails: https://sf.funcheap.com/filipino-am
+ erican-intl-book-festival-2026-sf-main-library-oct-1718/\nSource: Funcheap
+  SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/FilBoo
+ kFest.png
+LAST-MODIFIED:20261007T210655Z
+LOCATION:San Francisco Main Public Library\, 100 Larkin St\, San Francisco
+ \, CA 94102
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/filipino-american-intl-book-festival-2026-sf-m
+ ain-library-oct-1718/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Keepin' It Safe in the City
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T150000
@@ -7021,6 +7081,37 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/step-uv-glowing-art-dark-party-mare-island/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oakland Comedy Festival 2026 - The Closer
+DTSTART;TZID=America/Los_Angeles:20261017T200000
+DTEND;TZID=America/Los_Angeles:20261017T213000
+DTSTAMP:20261007T210655Z
+UID:caldiscovery-festival-47b79d204e0f036f@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,festival
+DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
+ t Email: matthew@punchlinerecords.comCost: $28.52 - $39.19Link: https://ww
+ w.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-199922022651
+ 5Close out Oakland Comedy Festival with local legend Brent Weinbach! Bizar
+ re\, brilliant stand-up at Fluid510.Closing out the festival is hometown l
+ egend and master of the wonderfully weird\, Brent Weinbach (Conan\, Comedy
+  Central\, Adult Swim). If you’ve never experienced Brent live\, prepare
+  yourself for absolute masterclass deadpan\, bizarre sound effects\, and b
+ its that make you think\, "Wait\, is he allowed to do that on stage?"\n\nP
+ ublished by KGO\nContains information from CalDiscovery (caldiscovery.com)
+ \, ODbL 1.0\n\nDetails: https://www.eventbrite.com/e/the-closer-oakland-co
+ medy-festival-tickets-1999220226515?utm_source=caldiscovery&utm_medium=ics
+ &utm_campaign=san-francisco-ca\nSource: CalDiscovery\n\nAlso listed on:\n-
+  https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
+ 999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
+ isco-ca
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Fluid510 1544 Broadway Oakland\, CA
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
+ s-1999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
+ ancisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Family Festival
 DTSTART;TZID=America/Los_Angeles:20261018T000000
 DTEND;TZID=America/Los_Angeles:20261018T030000
@@ -7316,6 +7407,49 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/mxtx-wei-ying-birthday-cupsleeve-event-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipino American Int’l Book Festival 2026 at SF Main Library (O
+ ct. 17-18)
+DTSTART;TZID=America/Los_Angeles:20261018T121500
+DTEND;TZID=America/Los_Angeles:20261018T170000
+DTSTAMP:20261007T210655Z
+UID:funcheap-1641538@sf-cal
+SEQUENCE:0
+CATEGORIES:Lectures Workshops
+DESCRIPTION:Filipino American Int’l Book Festival 2026 at SF Main Librar
+ y (Oct. 17-18)\nN/A\nThe Filipino American International Book Festival (Fi
+ lBookFest)\, presented in partnership with San Francisco Public Library\, 
+ returns SFPL’s Main Library for its 8th iteration\, continuing its legac
+ y as the largest Filipino American literary festival in the U.S. This year
+ ’s theme\, “SANGGALAN: Stories that propel us\, stories that protect u
+ s\,” centers stories that carry us forward and hold us together: stories
+  as refuge\, stories as resistance\, stories as action.\nHeld during Filip
+ ino American History Month\, FilBookFest brings together writers\, scholar
+ s\, and creatives from across the globe\, including the U.S.\, Canada\, an
+ d the Philippines\, to the iconic San Francisco Public Library. Over two d
+ ays\, attendees can enjoy panel discussions\, book signings\, and readings
+  featuring a vibrant mix of established and emerging voices. The festival 
+ celebrates storytelling\, culture\, and the diverse experiences of the Fil
+ ipino diaspora.\nFESTIVAL MARKETPLACE\n\n📍 Latino Room\n11:00 AM – 5:
+ 15 PM\nSaturday\n12:15 PM – 5:00 PM\nSunday\n\nSaturday\, October 17\, 2
+ 026\n\n10:30 AM\nOPENING KEYNOTE\n\nRandy Ribay\n📍 Koret Auditorium\n\n
+ 11:00 AM – 12:00 PM\n\nThen\, Here and Now: Celebrating Publications Ove
+ r a Decade Old\nBarbara Jane Reyes\, Mia Alvar Noel Alumit\, Shirley Anche
+ ta\; moderator: Edwin Lozada\n📍 Koret Auditorium\nLove at the Fiesta: R
+ omance Fiction and Filipino American Joy\nCeleste Dador\, Maan Gabriel\, M
+ aida Malby\, Mia Hopkins\n📍 Hormel LGBT...\n\nFree\n\nTickets: https://
+ filbookfestival.org/schedule\nDetails: https://sf.funcheap.com/filipino-am
+ erican-intl-book-festival-2026-at-sf-main-library-oct-17-18/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/FilBoo
+ kFest.png
+LAST-MODIFIED:20261007T210655Z
+LOCATION:San Francisco Main Public Library\, 100 Larkin St\, San Francisco
+ \, CA 94102
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/filipino-american-intl-book-festival-2026-at-s
+ f-main-library-oct-17-18/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:United Nations Association Film Festival | Free Shorts Program
 DTSTART;TZID=America/Los_Angeles:20261018T130000
 DTEND;TZID=America/Los_Angeles:20261018T140000
@@ -7480,6 +7614,40 @@ LOCATION:Endgames Improv Theater\, 2965 Mission St\, San Francisco\, CA\,
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/18/improv-e-your-dating-life-ticke
  ts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Eames & Eames Opening Celebration w/ Jazz + Cocktails (St. He
+ lena)
+DTSTART;TZID=America/Los_Angeles:20261018T160000
+DTEND;TZID=America/Los_Angeles:20261018T180000
+DTSTAMP:20261007T210655Z
+UID:funcheap-1640657@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerCelebrate the opening of EAMES
+  & EAMES at The MAC with an afternoon of bebop jazz\, Charbay cocktails\, 
+ and light bites\, surrounded by the visionary designs of Charles & Ray Eam
+ es. Enjoy private access to this original exhibition from the Eames Instit
+ ute of Infinite Curiousity\, view our lobby exhibitions\, and shop our Mus
+ eum Store’s curated collection including design books\, mid-century them
+ ed decor and Eames-inspired gifts.\n\nOctober 18\, 2026 | 4-6 PM\nThe MAC 
+ – Napa Valley Museum of Art & Culture\n607 St Helena Hwy\, St Helena 945
+ 74\n(707) 944-0500\nTickets: $50\; $25 for Members*\nNow available for pur
+ chase on our website. https://napavalleymuseum.org/\nLimited capacity – 
+ reserve now.\nIndividual Members may purchase one ticket at $25 each\; Fam
+ ily\, MAC Pack and Patron Members may purchase 2 tickets at $25 each. Join
+  the Museum now!\n\n$50.00\n\nTickets: https://napavalleymuseum.org/produc
+ ts/eames-eames-opening-celebration\nDetails: https://sf.funcheap.com/2026-
+ eames-eames-opening-celebration-jazz-cocktails-st-helena/\nSource: Funchea
+ p SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Happen
+ ings_EAMES-AND-EAMES_Feature_SAVE-THE-DATE-03_small.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:The MAC - Napa Valley Museum of Art & Culture\, 607 St Helena Hwy
+ \, St Helena 94574
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/2026-eames-eames-opening-celebration-jazz-cock
+ tails-st-helena/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foodwise Sunday Supper
@@ -8734,40 +8902,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/financial-planning-day-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alemany Farm’s 21st Annual Harvest Festival
-DTSTART;TZID=America/Los_Angeles:20261024T110000
-DTEND;TZID=America/Los_Angeles:20261024T150000
-DTSTAMP:20261006T002614Z
-UID:caldiscovery-festival-8c2f2317ae9565e3@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:Alemany Farm’s 21st Annual Harvest Festival\n🎃 Join Frien
- ds of Alemany Farm and the Alemany Apartments Community for Alemany Farm
- ’s 21st Annual Harvest Festival! 🌾\nCelebrate community\, sustainable
-  agriculture\, and the autumn season out on the land.\n\nWhen: Saturday\, 
- October 24 from 11:00 AM to 3:00 PM\nWhere: Alemany Farm\, 700 Alemany Blv
- d\, San Francisco\nCost: FREE (Donations are gratefully accepted!)\n\nWhat
-  to Expect:\n\nGarlic planting 🧄\nGuided farm tours 🌿\nLive music & 
- community groups 🎶\nFamily-friendly activities 👨‍👩‍👧‍
- 👦\nDelicious food\, including a pig roast\, fresh farm salad\, grilled 
- items\, and more 🍽️\nFarm merchandise available for purchase 🛍️\
- n\nGetting There & Parking:\nPlease note that on-site parking at the farm 
- is very limited. If you are driving\, expect to park in the surrounding ne
- ighborhood. We strongly encourage everyone to use public transit or pedal 
- power! Check out the Get Involved page for directions and visitor info.\nS
- an Francisco Family-Friendly Calendar\n\nPublished by Bernal Connect\nCont
- ains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetail
- s: https://bernalconnect.com/event/alemany-farms-21st-annual-harvest-festi
- val/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\
- nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
-LOCATION:Alemany Farm\, 700 Alemany Blvd\, San Francisoc\, 94112\, United 
- States
-TRANSP:TRANSPARENT
-URL:https://bernalconnect.com/event/alemany-farms-21st-annual-harvest-fest
- ival/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Art of Kokedama: A Hands-On Workshop
 DTSTART;TZID=America/Los_Angeles:20261024T120000
 DTEND;TZID=America/Los_Angeles:20261024T140000
@@ -9156,66 +9290,24 @@ URL:https://dothebay.com/events/2026/10/25/beginner-s-leatherworking-craft
  -your-own-tri-fold-leather-journal-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF Music Day 2026: 20+ Free Live Concerts (San Francisco War Memor
- ial)
-DTSTART;TZID=America/Los_Angeles:20261025T120000
-DTEND;TZID=America/Los_Angeles:20261025T180000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1636367@sf-cal
-SEQUENCE:0
-CATEGORIES:Art Museums
-DESCRIPTION:InterMusic SFSF Music Day 2026 offers a free\, daylong festiva
- l at the San Francisco War Memorial & Performing Arts Center\, featuring o
- ver 20 ensembles from the Bay Area performing live across multiple spaces.
-  Organized by InterMusic SF\, the event includes a diverse lineup of class
- ical\, jazz\, global\, and contemporary music. Attendees are encouraged to
-  register for updates\; donations are suggested but not required for admis
- sion.\nOriginal Event Description:\n_Join us for a free\, full day of live
-  music at SF Music Day\, celebrating the richness and diversity of the Bay
-  Area music community.InterMusic SF invites you to the 19th edition of SF 
- Music Day\, a free daylong celebration of Bay Area music hosted at the his
- toric SF War Memorial + Performing Arts Center. Experience 20+ ensembles p
- erforming throughout the hall\, in the Herbst Theatre\, the Green Room\, a
- nd the Taube Atrium Theater.Spanning over 6 hours of live performances\, S
- F Music Day showcases the depth and diversity of the Bay Area music commun
- ity\, featuring artists across classical\, jazz\, contemporary\, tradition
- al\, global\, interdisciplinary works\, and more! Audiences are invited to
-  experience the extraordinary range of artistry in this year’s lineup:An
- ne Sajdera Quintet • Bululú • Cornelius Boots • Dutt Campbell Duo 
- • Ensemble Humanité • Ian Carey and Wood Metal Plastic • Jordan Gle
- nn’s BEAK • Marielle V Jakobsons • Nippon Kobo • Pawlik-Zwiebel Du
- o • Quinteto Latino • Raffi Garabedian Quartet • Rova Saxophone Quar
- tet • San Fr...\n\nFree\n\nTickets: https://www.eventbrite.com/e/sf-musi
- c-day-2026-tickets-1996763292760\nDetails: https://sf.funcheap.com/sf-musi
- c-day-2026-20-free-live-concerts-san-francisco-war-memorial/\nSource: Func
- heap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/https-
- 3A-2F-2Fcdn.evbuc_.com-2Fimages-2F1193215956-2F154035331053-2F1-2Foriginal
- .20260910-233034.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:San Francisco War Memorial & Performing Arts Center\, 401 Van Nes
- s Avenue\, San Francisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sf-music-day-2026-20-free-live-concerts-san-fr
- ancisco-war-memorial/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alamo Scare! Trick-or-Treat the Painted Ladies
 DTSTART;TZID=America/Los_Angeles:20261025T160000
 DTEND;TZID=America/Los_Angeles:20261025T180000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261007T210655Z
 UID:dothebay-17897824@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Arts & Family
 DESCRIPTION:Trick-or-Treat the Painted Ladies! Join the Alamo Square Neigh
  borhood Association for our annual family-friendly block party on Steiner 
  Street between Hayes and Grove. FREE candy\, crafts\, pumpkins\, and more.
   Candy and pumpkins will be shared rain or shine!\n\nFree\nAlamo Square Ne
  ighborhood Association\n\nDetails: https://dothebay.com/events/2026/10/25/
- alamo-scare-trick-or-treat-the-painted-ladies-tickets\nSource: DoTheBay
+ alamo-scare-trick-or-treat-the-painted-ladies-tickets\nSource: DoTheBay\n\
+ nAlso listed on:\n- https://sf.funcheap.com/alamo-scare-2026-trickortreat-
+ sfs-iconic-painted-ladies-alamo-square/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34685968/09e68fdb-6320-4da8-aa1b-6964a9dea7a3.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261007T210655Z
 LOCATION:Steiner Street
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/alamo-scare-trick-or-treat-the-
@@ -9319,6 +9411,36 @@ LOCATION:Emporium SF\, 616 Divisadero St San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-arcade-bar-emporium-8-free-game-tokens-for-
  industry-night-every-monday-167/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transportation and Senior Services Resource Fair (Burlingame)
+DTSTART;TZID=America/Los_Angeles:20261027T100000
+DTEND;TZID=America/Los_Angeles:20261027T120000
+DTSTAMP:20261007T210655Z
+UID:funcheap-1641303@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Burlingame Community CenterCome gather information and engage 
+ with local staff of 20+ organizations that offer crucial transportation an
+ d services to older adults and people with disabilities in San Mateo Count
+ y!\nFree to attend. Bring family and friends!\nBurlingame Community Center
+  is a 2-block walk from the Burlingame Caltrain station\, and a 3-block wa
+ lk from the California & Howard bus stop (ECR or 292).\nNeed a ride to the
+  resource fair? Via Assist has free-rides (residents who live from Burling
+ ame and south) until the end of 2026!\nBook a ride by:\n– downloading th
+ e Via Assist NorCal app\n– calling 650-215-6550\n\nFree\n\nTickets: http
+ s://www.eventbrite.com/e/transportation-senior-services-resource-fair-burl
+ ingame-cc-tickets-2003034523179?aff=ebdssbcategorybrowse\nDetails: https:/
+ /sf.funcheap.com/transportation-senior-services-resource-fair-burlingame/\
+ nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/2026_B
+ urlingae-Resource-Fair_jpg.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Burlingame Community Center: Sequioa Room\, 850 Burlingame Avenue
+ \, Burlingame
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/transportation-senior-services-resource-fair-b
+ urlingame/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PBS Film Preview: Lynn Novick's "Crime and Punishment in America"
@@ -10686,19 +10808,41 @@ BEGIN:VEVENT
 SUMMARY:Tenderloin Street Fair: Día de Muertos Celebration 2026
 DTSTART;TZID=America/Los_Angeles:20261101T140000
 DTEND;TZID=America/Los_Angeles:20261101T160000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261007T210655Z
 UID:dothebay-17926550@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
-DESCRIPTION:Free\nTenderloin Community Benefit District\, Into The Streets
-  SF & Civic Joy Fund present\n\nTickets: https://consumer.pxf.io/APvP5J?u=
- https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ftenderloin-street-fair-presents-dia
- -de-muertos-celebration-2026-tickets-2002305378287%3Faff%3Daffiliate3\nDet
- ails: https://dothebay.com/events/2026/11/1/tenderloin-street-fair-dia-de-
- muertos-celebration-2026-tickets\nSource: DoTheBay
+DESCRIPTION:Tenderloin Community Benefit District\, Into The Streets SF & 
+ Civic Joy Fund present\nTenderloin Street Fair: Día de Muertos Celebratio
+ n 2026\nSunday\, November 1 | Golden Gate btwn. Larkin & Jones\n\nDía de 
+ Muertos comes to the Tenderloin Street Fair!\n\nJoin us Sunday\, November 
+ 1 from 2–8 PM for a FREE street fair takeover in the heart of the Tender
+ loin\, bringing together the traditions of Día de Muertos with a family-f
+ riendly block party for everyone.\n\nA full day of live FREE Latin music i
+ n the streets\, from música mexicana and mariachi to cumbia\, salsa\, Lat
+ in rock and more: Agua Pura brings the salsa\, Combo Tezeta gets psychedel
+ ic with Peruvian cumbia\, chicha and música tropical\, and Soucano serves
+  up Latin rock and soul—plus música mexicana from Rica Montes\, Banda L
+ a Tóxica\, Mariachi Tradición Mexicana and Trio Sol de México.\n\nRoote
+ d in the traditions of San Francisco’s diverse Latino communities\, the 
+ celebration invites everyone to honor the holiday with ofrendas\, enjoy de
+ licious food\, and celebrate life through music\, dance\, community\, and 
+ friends.\n\nFill the streets with us for live music\, lucha libre\, local 
+ food and vendors\, a Kids Zone\, face painting\, arts + crafts\, Lotería\
+ , hands-on cultural activities\, an outdoor bar\, and more.\n\nBring your 
+ family\, bring your friends\, and join us in making this yearly tradition 
+ come to life.\n\nFree and open to all ages!\n__\n\n¡Celebra el Día de Mu
+ ertos en la Feria Tenderloin!\n\nAcompáñanos el domingo 1 de noviembre\,
+  de 2 a 8 PM\, para una gran f...\n\nFree\nTenderloin Community Benefit Di
+ strict\, Into The Streets SF & Civic Joy Fund present\n\nTickets: https://
+ consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ftenderloin
+ -street-fair-presents-dia-de-muertos-celebration-2026-tickets-200230537828
+ 7%3Faff%3Daffiliate3\nDetails: https://dothebay.com/events/2026/11/1/tende
+ rloin-street-fair-dia-de-muertos-celebration-2026-tickets\nSource: DoTheBa
+ y
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34818995/47a25104-b388-4326-ae81-186ce9db8789.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261007T210655Z
 LOCATION:The Tenderloin
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/1/tenderloin-street-fair-dia-de-mu
@@ -10746,8 +10890,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261007T133325Z
-UID:caldiscovery-festival-33ccbb1b07f2e0f5@sf-cal
+DTSTAMP:20261007T210655Z
+UID:caldiscovery-festival-4c56479d7ee3e677@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -10757,7 +10901,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T133325Z
+LAST-MODIFIED:20261007T210655Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -10887,6 +11031,34 @@ LOCATION:Conservatory of Flowers\, 100 John F Kennedy Dr\, San Francisco\,
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-conservatory-of-flowers-free-first-tuesday
  s-golden-gate-park-72/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transportation & Senior Services Resource Fair (Redwood City)
+DTSTART;TZID=America/Los_Angeles:20261103T100000
+DTEND;TZID=America/Los_Angeles:20261103T120000
+DTSTAMP:20261007T210655Z
+UID:funcheap-1641306@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Veterans Memorial Senior CenterCome gather information and eng
+ age with staff of local organizations that offer crucial transportation an
+ d services to older adults in San Mateo County!\nFree to attend. Bring fam
+ ily and friends!\nNeed a ride to the resource fair? Via Assist is offering
+  free-rides to residents who live from Burlingame to the southern region o
+ f San Mateo County until the end of 2026!\nBook a ride by:\n– downloadin
+ g the Via Assist NorCal app\n– calling 650-215-6550\nSee you at the reso
+ urce fair!\n\nFree\n\nTickets: https://www.eventbrite.com/e/transportation
+ -senior-services-resource-fair-redwood-city-tickets-2003035082853?aff=ebds
+ sbdestsearch\nDetails: https://sf.funcheap.com/transportation-senior-servi
+ ces-resource-fair-redwood-city/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/2026_1
+ 1_03_Resource-Fair_Redwood-City.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Veterans Memorial Senior Center\, 1333 Madison Avenue\, Redwood C
+ ity
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/transportation-senior-services-resource-fair-r
+ edwood-city/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s GLBT History Museum: Free First Wednesday
@@ -11488,8 +11660,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261007T133325Z
-UID:caldiscovery-festival-fdd4d6265c0c3911@sf-cal
+DTSTAMP:20261007T210655Z
+UID:caldiscovery-festival-3ac38d61b0850812@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -11499,7 +11671,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261007T133325Z
+LAST-MODIFIED:20261007T210655Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -12086,36 +12258,6 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/thursday-night-poem-jam-sf-main-library-98/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:29th Anniversary San Francisco Transgender Film Festival
-DTSTART;TZID=America/Los_Angeles:20261112T190000
-DTEND;TZID=America/Los_Angeles:20261112T200000
-DTSTAMP:20261006T002614Z
-UID:caldiscovery-festival-790aadbd37a2ddb1@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,film
-DESCRIPTION:The San Francisco Transgender Film Festival (SFTFF) celebrates
-  29 years of innovative\, experimental\, and outside-the-box films by tran
- sgender and gender-nonconforming filmmakers.\n\n​​Spanning 12-days fro
- m November 12-22 and comprised of seven short film programs showcasing 37 
- films\, SFTFF 2026 will be a hybrid festival\, presented both in person an
- d online\, and featuring a range of genres from documentaries and politics
-  to animation\, dance\, music\, romance\, coming-of-age tales\, and thrill
- ers.\n\nSFTFF will host in-person programs Nov. 12-14 at the Roxie Theater
- \, 3117 16th St.\, SF and will offer on demand access to each of the progr
- ams through Nov. 22nd. Films are closed captioned for Deaf and hard-of-hea
- ring audiences\; tickets are $0-$50\, sliding scale/donation-based\, inclu
- sive of fees.\nhttps://www.indybay.org/newsitems/2026/08/24/18888179.php\n
- \nPublished by Indybay\nContains information from CalDiscovery (caldiscove
- ry.com)\, ODbL 1.0\n\nDetails: https://www.indybay.org/newsitems/2026/08/2
- 4/18888179.php?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fra
- ncisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
-LOCATION:Roxie Theater 3117 16th St\, San Francisco\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://www.indybay.org/newsitems/2026/08/24/18888179.php?utm_source=c
- aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Object Stories San Francisco
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T210000
@@ -12139,8 +12281,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261007T133325Z
-UID:caldiscovery-festival-5c3a7ec14c3280eb@sf-cal
+DTSTAMP:20261007T210655Z
+UID:caldiscovery-festival-84b99e9747bd8318@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -12150,7 +12292,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T133325Z
+LAST-MODIFIED:20261007T210655Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -12198,30 +12340,29 @@ URL:https://dothebay.com/events/2026/11/13/dorian-wood-canto-de-todes-roco
  -cordova-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holiday Season Performing Arts Showcase
+SUMMARY:Performing Arts Showcase
 DTSTART;TZID=America/Los_Angeles:20261113T170000
 DTEND;TZID=America/Los_Angeles:20261113T190000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261007T210655Z
 UID:sfciviccenter-24d175bc43fbdb2e@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Art,Community,Dance,Music,Theater
-DESCRIPTION:On Friday\, November 13\, from 5–7 p.m.\, Fulton Plaza will 
- come alive beneath the dazzling Spectra lights for the Holiday Season Perf
- orming Arts Showcase\, a celebration bringing together some of downtown’
- s most exciting performing arts organizations for one unforgettable evenin
- g.\nGuests will be treated to a dynamic lineup of live performances of wha
- t’s on stage this season. Expect short works from the San Francisco Oper
- a\, San Francisco Ballet\, the African American Shakespeare Company\, the 
- San Francisco Philharmonic and RAW Dance\, and more. From powerful voices 
- and sweeping orchestral music to captivating movement and theatrical perfo
- rmances\, the showcase offers a little bit of everything — and is a memo
- rable way to launch the holiday season.\nThis event is free\, and no ticke
- t required to attend.\nAlso be sure to visit the adjacent food trucks and 
- bar\, and visit with the arts organizations to learn more about what they
- ’re bringing to the stage Fall 2026-Winter 2027.\n\nDetails: https://sfc
- iviccenter.org/event/holiday-season-performing-arts-showcase/\nSource: SF 
- Civic Center
-LAST-MODIFIED:20261006T172218Z
+DESCRIPTION:On Friday\, November 13\, from 5–8 pm\, Fulton Plaza will co
+ me alive beneath the dazzling SPECTRA lights for the holiday season’s Pe
+ rforming Arts Showcase\, a celebration bringing together some of downtown
+ ’s most exciting performing arts organizations for one unforgettable eve
+ ning.\nGuests will be treated to a dynamic lineup of live performances of 
+ what’s on stage Fall 2026-Winter 2027. Expect short works from the San F
+ rancisco Opera\, San Francisco Ballet\, the African American Shakespeare C
+ ompany\, and RAW Dance\, and more. From powerful voices and sweeping orche
+ stral music to captivating movement and theatrical performances\, the show
+ case offers a little bit of everything — and is a memorable way to launc
+ h the holiday season.\nThis event is free\, RSVP here.\nThe night also inc
+ ludes delicious bites from food trucks\, a full bar\, and arts organizatio
+ ns to learn more about what they’re bringing to the stage this season.\n
+ \nDetails: https://sfciviccenter.org/event/holiday-season-performing-arts-
+ showcase/\nSource: SF Civic Center
+LAST-MODIFIED:20261007T210655Z
 TRANSP:TRANSPARENT
 URL:https://sfciviccenter.org/event/holiday-season-performing-arts-showcas
  e/
@@ -12620,6 +12761,41 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/eco-sf-school-farm-volunteer-work-day-sf-164/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEDxHayesValley Salon
+DTSTART;TZID=America/Los_Angeles:20261114T140000
+DTEND;TZID=America/Los_Angeles:20261114T160000
+DTSTAMP:20261007T210655Z
+UID:dothebay-17929647@sf-cal
+SEQUENCE:0
+CATEGORIES:Experiences
+DESCRIPTION:Ideas Worth Sharing\, Right Here in Hayes Valley\nWhat is TEDx
+ HayesValley? And what might be ahead?\n\nJoin us for our first TEDxHayesVa
+ lley Salon\, a free\, commitment-free gathering for anyone curious about T
+ ED\, TEDx\, and the ideas we’ll be bringing to Hayes Valley.\n\nWe’ll 
+ spend time together watching a selection of our favorite TED Talks\, shari
+ ng thoughts and conversation\, and getting to know others who are excited 
+ about the power of ideas worth sharing. We’ll also share more about what
+ ’s ahead for TEDxHayesValley\, including upcoming events and ways to get
+  involved.\n\nWhether you’re a longtime TED fan\, new to TEDx\, part of 
+ the Hayes Valley community\, or simply curious about what comes next\, we
+ ’d love to have you join us.\n\nThis event is free\, but seating is limi
+ ted to 125 people and available on a first-come\, first-served basis.\nCom
+ e curious. Leave inspired. And get a first look at what’s next for TEDxH
+ ayesValley.\n\nParking Information: There is no dedicated parking and stre
+ et parking can take time to find. You may wish to Uber or pay for parking 
+ nearby and walk over. (110 Franklin\, 98 Franklin are the closest options\
+ ; 360 Grove is further\, but always has room)\n\nFree\n\nTickets: https://
+ consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ftedxhayesv
+ alley-salon-tickets-2003029625530\nDetails: https://dothebay.com/events/20
+ 26/11/14/tedxhayesvalley-salon-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34833358/cec01b7d-d0bc-48fe-ba18-a0bc34cc7bba.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Unity San Francisco\, 240 Page St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/14/tedxhayesvalley-salon-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s Renegade Craft Holiday 2026 Fair w/ 250+ Makers at Fort Mas
  on (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261115T110000
@@ -12859,6 +13035,32 @@ LOCATION:de Young Museum\, 50 Hagiwara Tea Garden Drive\, San Francisco\,
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-de-young-museum-day-for-bay-area-resident
  s-every-saturday-345/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secondhand Saturdays Season Finale
+DTSTART;TZID=America/Los_Angeles:20261121T100000
+DTEND;TZID=America/Los_Angeles:20261121T120000
+DTSTAMP:20261007T210655Z
+UID:dothebay-17932969@sf-cal
+SEQUENCE:0
+CATEGORIES:Shopping
+DESCRIPTION:A curated\, stylish and modern version of your traditional fle
+ a market with over 60 vintage vendors\, makers and artists. Enjoy live mus
+ ic from local musicians\, food trucks\, workshops and rotating family-frie
+ ndly activities for all ages to enjoy\, every third Saturday from April- N
+ ovember.\n\nNOVEMBER 21ST – SEASON FINALE! Record Swap with guest DJ\, B
+ aybesoul Records and outdoor lawn games and more!\n\nFree\n\nTickets: www.
+ sunsetmercantilesf.com/secondhandsaturdays/\nDetails: https://dothebay.com
+ /events/2026/11/21/secondhand-saturdays-season-finale-tickets\nSource: DoT
+ heBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34849785/3f3b4950-f334-484c-8bba-6a61b7fa85d1.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:37th & Ortega - Pacheco\, 37th & Ortega\, San Francisco\, CA\, 94
+ 116
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/21/secondhand-saturdays-season-fin
+ ale-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ann M. Evans and Georgeanne Brennan\, Market Memories Cookbook
@@ -13698,43 +13900,83 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:District 10 Bayview Family Summit
 DTSTART;TZID=America/Los_Angeles:20261205T110000
-DTEND;TZID=America/Los_Angeles:20261205T133000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634398@sf-cal
+DTEND;TZID=America/Los_Angeles:20261205T130000
+DTSTAMP:20261007T210655Z
+UID:dothebay-17821514@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Department of Children\, Youth & Their Families 
- (DCYF)\n\nThis is Your City. This is Your Voice. This is Your Future. Shar
- e your story about growing up and raising your family in San Francisco.\n\
- nEvery family has a story. Every voice matters. Please share yours.\nJoin 
- us for the District 10 Bayview Family Summit! The This Is Your City: Famil
- y Summit Series invites families\, caregivers\, young people\, and communi
- ty members from across San Francisco to help shape the future of our city.
- \n\nSaturday\, Dec. 5\, 2026\, 11:00 a.m. – 1:30 p.m.\nSoutheast Communi
- ty Center\, ● 1550 Evans Ave\, SF\, CA 94124\n\nFree food\, childcare\, 
- and interpretation are provided. Please note all interpretation requests m
- ust be made 48 hours or more prior to the Family Summit.\nWho should atten
- d? Everyone is welcome. This event highlights District 10\, but you can at
- tend any Family Summit that fits your schedule.\nWhy are we gathering? The
-  Family Summit Series is part of San Francisco’s first Citywide Communit
- y Needs Assessment. Through conversations with families across the city\, 
- we’re learning what matters most to children\, youth\, young adults\, an
- d families. What we learn will help improve future planning\, programs\, a
- nd services.\nWhether you’ve lived in San Francisco your whole life or r
- ecently made it your home\, your experiences and ideas matter.\nDistrict 1
- 0 Neighborhoods include: Potrero Hill\, Central Waterfront\, Dogpatch\, Ba
- yview-Hunters Point\, Bayview Heights\, India Basin\, Silver Terrace\, Can
- dlestick...\n\nFree\n\nTickets: https://www.eventbrite.com/e/district-10-b
- ayview-family-summit-tickets-1996550486250?aff=oddtdtcreator\nDetails: htt
- ps://sf.funcheap.com/district-10-bayview-family-summit/\nSource: Funcheap 
- SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/13_D10
- _FB_1920x1005.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Southeast Community Center\, 1550 Evans Avenue\, San Francisco\, 
- CA 94124
+CATEGORIES:Arts & Family
+DESCRIPTION:This is Your City. This is Your Voice. This is Your Future. Sh
+ are your story about growing up and raising your family in San Francisco.\
+ n\nEvery family has a story. Every voice matters. Please share yours.\n\nJ
+ oin us for the District 10 Bayview Family Summit! The This Is Your City: F
+ amily Summit Series invites families\, caregivers\, young people\, and com
+ munity members from across San Francisco to help shape the future of our c
+ ity.\n\nSaturday\, Dec. 5\, 2026\, 11:00 a.m. - 1:30 p.m.\n\nSoutheast Com
+ munity Center\, ● 1550 Evans Ave\, SF\, CA 94124\n\nFree food\, childcar
+ e\, and interpretation are provided. Please note all interpretation reques
+ ts must be made 48 hours or more prior to the Family Summit.\n\nWho should
+  attend? Everyone is welcome. This event highlights District 10\, but you 
+ can attend any Family Summit that fits your schedule.\n\nWhy are we gather
+ ing? The Family Summit Series is part of San Francisco's first Citywide Co
+ mmunity Needs Assessment. Through conversations with families across the c
+ ity\, we're learning what matters most to children\, youth\, young adults\
+ , and families. What we learn will help improve future planning\, programs
+ \, and services.\n\nWhether you've lived in San Francisco your whole life 
+ or recently made it your home\, your experiences and ideas matter.\n\nDist
+ rict 10 Neighborhoods include: Potrero Hill\, Central Waterfront\, Dogpatc
+ h\, Bayview-Hunters Point\, Bayview Heights\, India Basin\, Silver Terrace
+ \, Candlestick Point\, Visitacion Valley\, Little Hollywood\, Sunnydale\, 
+ and McLa...\n\nFree\nSan Francisco Department of Children\, Youth & Their 
+ Families (DCYF)\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2
+ Fwww.eventbrite.com%2Fe%2Fdistrict-10-bayview-family-summit-tickets-199655
+ 0486250%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/1
+ 2/5/district-10-bayview-family-summit-tickets\nSource: DoTheBay\n\nAlso li
+ sted on:\n- https://sf.funcheap.com/district-10-bayview-family-summit/
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34322392/619458c8-c336-41a4-a78f-088ade300e0b.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Southeast Community Center SF\, 1550 Evans Avenue\, San Francisco
+ \, CA\, 94124
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/district-10-bayview-family-summit/
+URL:https://dothebay.com/events/2026/12/5/district-10-bayview-family-summi
+ t-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna Voloshyna\, Ukraïne
+DTSTART;TZID=America/Los_Angeles:20261205T110000
+DTEND;TZID=America/Los_Angeles:20261205T130000
+DTSTAMP:20261007T210655Z
+UID:dothebay-17901104@sf-cal
+SEQUENCE:0
+CATEGORIES:Shopping
+DESCRIPTION:Saturday\, December 5\, 2026\, 11:00 am - 11:45 am\n\nStop by 
+ the Foodwise Classroom for a cooking demo featuring the seasonal bounty of
+  the Ferry Plaza Farmers Market.\n\nAnna Voloshyna is a Ukrainian-American
+  culinary storyteller\, activist\, and author of Ukraïne: Recipes and Sto
+ ries from Kyiv to the Black Sea and BUDMO! Recipes from a Ukrainian Kitche
+ n. Raised in Ukraine\, her cooking style blends traditional Eastern Europe
+ an and Ukrainian recipes with modern influences\, showcasing her dedicatio
+ n to nourishing dishes and high-quality ingredients. Anna honed her culina
+ ry expertise at the San Francisco Cooking School\, where she completed the
+ ir Culinary Arts program.\n\nAnnas expertise in Ukrainian and Eastern Euro
+ pean foods has led to features in top publications such as The New York Ti
+ mes\, The Washington Post\, and Food and Wine\, as well as participation i
+ n various culinary projects and speaking engagements. Committed to sharing
+  her culinary knowledge\, Anna hosts culinary events\, both in-person and 
+ online cooking classes and workshops. Her contributions to the culinary ar
+ ts have earned her accolades\, including the IACP Media Award and the Fore
+ word Indies Best Indie Cookbook Award.\n\nAll demos take place in the Food
+ wise Classroom (green tent in front of the Ferry Building) and are free to
+  the public\, with recipes and samples for all.\n\nThe demo will be follow
+ ed by a book signing with book sales courtesy of Book Passage\n\nTickets: 
+ https://foodwise.org/events/anna-voloshyna-ukraine/\nDetails: https://doth
+ ebay.com/events/2026/12/5/anna-voloshyna-ukraine-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34701332/67478649-83d0-4d1a-a599-6ab193c91b8f.jpg
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Ferry Plaza
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/anna-voloshyna-ukraine-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drawing From Film—Night of the Hunter
@@ -13846,8 +14088,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261007T133325Z
-UID:caldiscovery-festival-2777f06addebfef8@sf-cal
+DTSTAMP:20261007T210655Z
+UID:caldiscovery-festival-37db168f724054ca@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -13856,40 +14098,52 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T133325Z
+LAST-MODIFIED:20261007T210655Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
  co-ca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunset Holiday Mercantile
+SUMMARY:HEAD WEST Holiday Marketplace
 DTSTART;TZID=America/Los_Angeles:20261206T110000
-DTEND;TZID=America/Los_Angeles:20261206T170000
-DTSTAMP:20261007T133325Z
-UID:caldiscovery-festival-312ff1836e737045@sf-cal
+DTEND;TZID=America/Los_Angeles:20261206T130000
+DTSTAMP:20261007T210655Z
+UID:dothebay-17097591@sf-cal
 SEQUENCE:0
-CATEGORIES:arts,drink,festival,food,free,market
-DESCRIPTION:Come Eat\, Drink\, Shop\, Play\, Connect\, and Be Local at the
-  10th Annual Sunset Holiday Mercantile at the County Fair Building in Gold
- en Gate Park!Sunset Holiday Mercantile in 2025 which features TWO DAYS of 
- artisan makers and vendors\, plus live music\, food\, activities and more!
- We are also partnering with Sharon Arts Studios and there will be a second
-  room of artists. More details on that soon so stay tuned!Admission is fre
- e! Come to the County Fair Building in Golden Gate Park\, December 6th and
-  7th from 11 AM to 5 PM to join the fun.Enjoy:50+ Local Makers\, Merchants
- \, Artists and VendorsFood Artisans and Food TrucksHoliday themed photo bo
- othChildren + Family ActivitiesLive MusicStorytellingCommunity CausesBeer 
- + Wine TastingFree admissionWhile in the neighborhood\, be sure to explore
-  all the unique shops and eateries of the Inner Sunset!Eat\, Drink\, Shop\
- , Play\, Connect\, and Be Local with Sunset Mercantile.For more informatio
- n please visit us on our website: https://sunsetmercantilesf.com/sunsethol
- idaymercantile/\n\nPublished by sunsetmercantilesf.com\nContains informati
- on from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nSource: CalDiscovery
-LAST-MODIFIED:20261007T133325Z
-LOCATION:San Francisco County Fair Building\, 1199 9th Ave\, San Francisco
- \, CA 94122\, USA
+CATEGORIES:Variety
+DESCRIPTION:HEAD WEST Holiday Marketplace\nSunday\, December 6 | Ferry Bui
+ lding\n\nJoin HEAD WEST Marketplace on Sunday\, December 6th at the iconic
+  SF Ferry Building from 11am–5pm!\n\nFind us on the Ferry Building back 
+ plaza\, right on the water with epic views — at the base of multiple fer
+ ry lines connecting from around the Bay!\n\nFeaturing:\n\nSHOP SMALL from 
+ Local Makers\, Crafters\, Artists\, Designers & Vintage Merchants — read
+ y to share their newest finds\, creations and collections with you.\nEAT +
+  DRINK from all of your local favorite eateries\, bakeries and more in the
+  Ferry Building main marketplace + find treats on the back plaza with us!\
+ nEnjoy LIVE MUSIC playing all day\nand more!\n\nHEAD WEST is always FREE E
+ NTRY\nALL Are Welcome\nPet + Kid-Friendly\nBring your Friends\, Family & F
+ urbabes!\n\nCome for the Marketplace. Stay for the Experience.\n\nHEAD WES
+ T is an Outdoor Marketplace of Makers\, Crafters\, Artists\, Designers + V
+ intage Merchants rooted in the Bay Area.\n\nEach marketplace is light rain
+  or shine.\nAll outdoor venues are kid + pet friendly\, with ADA Accessibl
+ e entrances and maintained portable/public restrooms for use.\n\nThe San F
+ rancisco Ferry Building has always been committed to the artisan food + ma
+ ker community\, by fostering the values of the community. Collectively\, t
+ his historic landmark venue holds a vibrant gathering of local farmers\, a
+ rtisan producers\, and independently owned and operated small businesses a
+ nd the customers they serve. It is a community of like-minded people who s
+ upport...\n\nFree\n\nTickets: https://www.headwestmarketplace.com/ferrybui
+ lding\nDetails: https://dothebay.com/events/2026/12/6/head-west-marketplac
+ e-at-ferry-building-1773793326\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/30899505/64486a53-df3f-445e-a65d-6ce70ff5c991.png
+LAST-MODIFIED:20261007T210655Z
+LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
+ 11
 TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/6/head-west-marketplace-at-ferry-b
+ uilding-1773793326
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thursday Night Poem Jam | SF Main Library
