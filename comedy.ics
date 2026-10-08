@@ -40,39 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Coit Comedy
-DTSTART;TZID=America/Los_Angeles:20261001T200000
-DTEND;TZID=America/Los_Angeles:20261001T220000
-DTSTAMP:20261006T001200Z
-UID:dothebay-10986676@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy
-DESCRIPTION:Coit Comedy\nThursday\, October 1st | Columbus Cafe\n\nCoit Co
- medy is a live stand-up comedy show every last Thursday of the month in th
- e secret basement bar of historic Columbus Cafe in North Beach\, featuring
-  some of the best comics from the Bay and beyond.\n\nHosted by local comed
- ians Stoyan Angelov and Sean Derum\, Coit Comedy features the best comics 
- in the bay and beyond including comedians from Cobbs\, SF Punch Line\, Vic
- e Land\, Comedy Central\, Sketch Fest and Don't Tell. The comedy show is i
- n the hidden speakeasy of Columbus Cafe and offers a warm intimate setting
- .\n\nDoors open at 7:30PM and the comedy show starts at 8PM. Parking can b
- e hard to come by in North Beach\, so if you're driving\, you may want to 
- factor in a little extra time for the hunt.\n\nUpon entering\, grab a drin
- k at the upstairs bar and check in near the pool table in the back where y
- ou'll head downstairs to the secret basement to enjoy the show!\n\nThis we
- ek's show features:\n\nColin Braun\nSteven Asifo\nCharlie Norton\nGeulah F
- inman\n\n$12 online - $15 at the door\, 21+\n\nTickets: https://consumer.p
- xf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fcoit-comedy-tickets-
- 381499123147%3Faff%3Ddothebay\nDetails: https://dothebay.com/events/weekly
- /thu/coit-comedy\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/9504870/a8e2f96d-de38-4d34-a873-f0b2ee757a36.jpg
-LAST-MODIFIED:20261006T001200Z
-LOCATION:Columbus Cafe\, 562 Green Street\, San Francisco\, CA\, 94133
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/weekly/thu/coit-comedy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s HellaSecret “Crazy Funny Asians” Friday Night Comedy Sh
  owcase (7p + 9p)
 DTSTART;TZID=America/Los_Angeles:20261002T190000
@@ -752,6 +719,39 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/8/sam-salem-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coit Comedy
+DTSTART;TZID=America/Los_Angeles:20261008T200000
+DTEND;TZID=America/Los_Angeles:20261008T220000
+DTSTAMP:20261008T185326Z
+UID:dothebay-10986676@sf-cal
+SEQUENCE:1
+CATEGORIES:Comedy
+DESCRIPTION:Coit Comedy\nThursday\, October 8th | Columbus Cafe\n\nCoit Co
+ medy is a live stand-up comedy show every last Thursday of the month in th
+ e secret basement bar of historic Columbus Cafe in North Beach\, featuring
+  some of the best comics from the Bay and beyond.\n\nHosted by local comed
+ ians Stoyan Angelov and Sean Derum\, Coit Comedy features the best comics 
+ in the bay and beyond including comedians from Cobbs\, SF Punch Line\, Vic
+ e Land\, Comedy Central\, Sketch Fest and Don't Tell. The comedy show is i
+ n the hidden speakeasy of Columbus Cafe and offers a warm intimate setting
+ .\n\nDoors open at 7:30PM and the comedy show starts at 8PM. Parking can b
+ e hard to come by in North Beach\, so if you're driving\, you may want to 
+ factor in a little extra time for the hunt.\n\nUpon entering\, grab a drin
+ k at the upstairs bar and check in near the pool table in the back where y
+ ou'll head downstairs to the secret basement to enjoy the show!\n\nThis we
+ ek's show features:\n\nBryan Babylon\nNate Schwartz\nMike Evans Jr\nKyle M
+ orrisey\n\n$12 online - $15 at the door\, 21+\n\nTickets: https://consumer
+ .pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fcoit-comedy-ticket
+ s-381499123147%3Faff%3Ddothebay\nDetails: https://dothebay.com/events/week
+ ly/thu/coit-comedy\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/9504870/a8e2f96d-de38-4d34-a873-f0b2ee757a36.jpg
+LAST-MODIFIED:20261008T185326Z
+LOCATION:Columbus Cafe\, 562 Green Street\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/thu/coit-comedy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ray Lau
@@ -1767,10 +1767,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Hubba: Gotham City Follies
 DTSTART;TZID=America/Los_Angeles:20261012T200000
 DTEND;TZID=America/Los_Angeles:20261012T220000
-DTSTAMP:20261006T002614Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-d22dce4ab13d09b5@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,music
+SEQUENCE:1
+CATEGORIES:comedy,dance
 DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA: GOTHAM CITY FO
  LLIES\n\nFeaturing performances by:\n\nSailor St. Claire (Seattle)\nFloren
  ce Frightengale\nEvangeline Laveau\nSophie Rose Bisou\nSzandora LaVey\nAce
@@ -1790,7 +1790,7 @@ DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA: GOTHAM CITY FO
  om)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/calendar/2026/10-12d.
  html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\
  nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
 TRANSP:TRANSPARENT
 URL:https://www.dnalounge.com/calendar/2026/10-12d.html?utm_source=caldisc
@@ -2984,36 +2984,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/18/s-f-comedy-showcase-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monday Night Hubba
-DTSTART;TZID=America/Los_Angeles:20261019T200000
-DTEND;TZID=America/Los_Angeles:20261019T220000
-DTSTAMP:20261006T002614Z
-UID:caldiscovery-comedy-a523a067fc50dc42@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,drink,music
-DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nFeaturing pe
- rformances by:\n\nBabraham Lincoln\nJoanna Animal\nDorian Dietrich\nShiza 
- Minnelli\nPearl E. Gates\nGlitter Done\nDame\n\nHosted by:\n\nMC Kingfish 
- & Red Bettie\n\nMonday Night Hubba is the perfect way to start your week s
- exy: with cocktails\, tease\, comedy and a more intimate experience than H
- ubba's big monthly extravaganzas! Each Monday night is a fun-filled\, shim
- mering showcase of local\, national and international burlesque and variet
- y talent -- and a chance to see the most dazzling debuts before they hit i
- t big!\n\nBuy tickets: https://www.dnalounge.com/calendar/2026/10-19d.html
- \n\nWatch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCi
- LZYFLf78\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:30pm.\n18+ with ID.
- \n\nGen. Adm.: $10 advance\;\n$15 door\;\nReserved Seating: $15 advance\;\
- n$20 door.\n\nPublished by DNA Lounge\nContains information from CalDiscov
- ery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/ca
- lendar/2026/10-19d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaig
- n=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
-LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://www.dnalounge.com/calendar/2026/10-19d.html?utm_source=caldisc
- overy&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
 DTSTART;TZID=America/Los_Angeles:20261019T200000
 DTEND;TZID=America/Los_Angeles:20261019T230000
@@ -3990,6 +3960,38 @@ LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/26/fred-armisen-comedy-for-musicia
  ns-but-everyone-is-welcome-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Hubba
+DTSTART;TZID=America/Los_Angeles:20261026T200000
+DTEND;TZID=America/Los_Angeles:20261026T220000
+DTSTAMP:20261008T185326Z
+UID:caldiscovery-comedy-60d9a202c002e0d2@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,dance
+DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nFeaturing pe
+ rformances by:\n\nThe Creeping Violet\nSofilya Leggz\nWednesday Malfaz\nRe
+ d Bettie\nAva Lanche\nNatasha Nightmare\nJazzabelle\n\nHosted by:\n\nMC Ki
+ ngfish & Red Bettie\n\nKick off your Halloween week upstairs in Hubba's Ha
+ unted Hideaway\, with gorgeous ghosts\, glamour ghouls\, and the tops in t
+ antalizing\, terrorizing tease!\n\nMonday Night Hubba is the perfect way t
+ o start your week sexy: with cocktails\, tease\, comedy and a more intimat
+ e experience than Hubba's big monthly extravaganzas! Each Monday night is 
+ a fun-filled\, shimmering showcase of local\, national and international b
+ urlesque and variety talent -- and a chance to see the most dazzling debut
+ s before they hit it big!\n\nBuy tickets: https://www.dnalounge.com/calend
+ ar/2026/10-26d.html\n\nWatch and listen:\nHubba Hubba Revue: Promo Reel: h
+ ttps://youtu.be/kCiLZYFLf78\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:
+ 30pm.\n18+ with ID.\n\nGen. Adm.: $10 advance\;\n$15 door\;\nReserved Seat
+ ing: $15 advance\;\n$20 door.\n\nPublished by DNA Lounge\nContains informa
+ tion from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://w
+ ww.dnalounge.com/calendar/2026/10-26d.html?utm_source=caldiscovery&utm_med
+ ium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261008T185326Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2026/10-26d.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
@@ -5038,10 +5040,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261106T183000
 DTEND;TZID=America/Los_Angeles:20261106T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-cef7799e6c83ad55@sf-cal
-SEQUENCE:1
-CATEGORIES:arts,comedy
+SEQUENCE:2
+CATEGORIES:comedy,theater
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848469-2?pid=12352At the
@@ -5066,7 +5068,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -5292,10 +5294,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261107T183000
 DTEND;TZID=America/Los_Angeles:20261107T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-edfbf14ac24eee9a@sf-cal
-SEQUENCE:1
-CATEGORIES:arts,comedy
+SEQUENCE:2
+CATEGORIES:comedy,theater
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848469-2?pid=12352At the
@@ -5320,7 +5322,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -5637,10 +5639,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261108T183000
 DTEND;TZID=America/Los_Angeles:20261108T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-66fe3335db7b2dcc@sf-cal
-SEQUENCE:1
-CATEGORIES:arts,comedy
+SEQUENCE:2
+CATEGORIES:comedy,theater
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848469-2?pid=12352At the
@@ -5665,7 +5667,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -5694,34 +5696,6 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/s-f-comedy-showcase-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Night Hubba
-DTSTART;TZID=America/Los_Angeles:20261109T200000
-DTEND;TZID=America/Los_Angeles:20261109T220000
-DTSTAMP:20261006T002614Z
-UID:caldiscovery-comedy-d5643c4ea5a3c745@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,theater
-DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
- BA...\n\nMonday Night Hubba is the perfect way to start your week sexy: wi
- th cocktails\, tease\, comedy and a more intimate experience than Hubba's 
- big monthly extravaganzas! Each Monday night is a fun-filled\, shimmering 
- showcase of local\, national and international burlesque and variety talen
- t -- and a chance to see the most dazzling debuts before they hit it big!\
- n\nBuy tickets: https://www.dnalounge.com/calendar/2026/11-09d.html\n\nWat
- ch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCiLZYFLf7
- 8\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:30pm.\n18+ with ID.\n\nGen
- . Adm.: $10 advance\;\n$15 door\;\nReserved Seating: $15 advance\;\n$20 do
- or.\n\nPublished by DNA Lounge\nContains information from CalDiscovery (ca
- ldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/calendar/
- 2026/11-09d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
- rancisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
-LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://www.dnalounge.com/calendar/2026/11-09d.html?utm_source=caldisc
- overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
@@ -5933,10 +5907,10 @@ SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
  vember 13 - 15\, 2026
 DTSTART;TZID=America/Los_Angeles:20261113T183000
 DTEND;TZID=America/Los_Angeles:20261113T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-119605c53ab5f8a6@sf-cal
-SEQUENCE:1
-CATEGORIES:comedy,drink,food
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848471-2?pid=12352At the
@@ -5961,7 +5935,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA94102
 TRANSP:TRANSPARENT
@@ -6176,10 +6150,10 @@ SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
  vember 13 - 15\, 2026
 DTSTART;TZID=America/Los_Angeles:20261114T183000
 DTEND;TZID=America/Los_Angeles:20261114T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-a093f78390786f63@sf-cal
-SEQUENCE:1
-CATEGORIES:comedy,drink,food
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848471-2?pid=12352At the
@@ -6204,7 +6178,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA94102
 TRANSP:TRANSPARENT
@@ -6343,10 +6317,10 @@ SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
  vember 13 - 15\, 2026
 DTSTART;TZID=America/Los_Angeles:20261115T183000
 DTEND;TZID=America/Los_Angeles:20261115T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-372722f4690e239e@sf-cal
-SEQUENCE:1
-CATEGORIES:comedy,drink,food
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848471-2?pid=12352At the
@@ -6371,12 +6345,47 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA94102
 TRANSP:TRANSPARENT
 URL:https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hubba Hubba Revue
+DTSTART;TZID=America/Los_Angeles:20261115T190000
+DTEND;TZID=America/Los_Angeles:20261115T210000
+DTSTAMP:20261008T185326Z
+UID:caldiscovery-comedy-9015730f1d523d89@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:HUBBA HUBBA REVUE\n\nPerformers TBA!\n\nTickets and Seating In
+ formation:\n\nGeneral Admission tickets do not include guaranteed seating.
+ \n\nReserved Seating: Preferred seating is sold by the chair. Seating is a
+ t cocktail tables on the main floor\, and against the railing on the balco
+ ny. Reserved seating ticket-holders will be given wristbands and seated at
+  the event by the Hubba Hubba Revue staff. Individuals and groups with odd
+  numbers may be seated together and share tables. Large parties are encour
+ aged to buy tickets as a single purchase.\n\nPizza Special: A table for fi
+ ve\, admission for five\, and a large two topping pizza!\n\nFront Row VIP:
+  A table for five right in front of the stage\, including admission for fi
+ ve and bottle service!\n\nVIP Booths: These are against the wall\, downsta
+ irs\, with a good view of the stage and include admission for six and bott
+ le service.\n\nBuy tickets: https://www.dnalounge.com/calendar/2026/11-15a
+ .html\n\nWatch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.b
+ e/kCiLZYFLf78\n\nburlesque.\nDoors @ 7pm\;\nshow 7:30pm - 10pm.\n18+ with 
+ ID.\n\nGen. Adm.: $15 limited advance\;\n$25 after\;\n$35 day of show\;\nB
+ alcony Seating: $30 limited advance\;\n$40 after\;\nMain Floor Seating: $3
+ 0 limited advance\;\n$40 after.\n\nPublished by DNA Lounge\nContains infor
+ mation from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https:/
+ /www.dnalounge.com/calendar/2026/11-15a.html?utm_source=caldiscovery&utm_m
+ edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261008T185326Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2026/11-15a.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
@@ -6659,10 +6668,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261120T183000
 DTEND;TZID=America/Los_Angeles:20261120T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-32657c99e0ee7204@sf-cal
-SEQUENCE:1
-CATEGORIES:comedy,drink,food
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848473-2?pid=12352At the
@@ -6687,7 +6696,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -6894,10 +6903,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261121T183000
 DTEND;TZID=America/Los_Angeles:20261121T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-1410f68ab3c66a5a@sf-cal
-SEQUENCE:1
-CATEGORIES:comedy,drink,food
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848473-2?pid=12352At the
@@ -6922,7 +6931,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -7152,10 +7161,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261122T183000
 DTEND;TZID=America/Los_Angeles:20261122T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-d12d46a1e46c1b68@sf-cal
-SEQUENCE:1
-CATEGORIES:comedy,drink,food
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848473-2?pid=12352At the
@@ -7180,7 +7189,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -7234,6 +7243,34 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/22/really-funny-comedians-who-happ
  en-to-be-women-with-mary-houlihan-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Hubba
+DTSTART;TZID=America/Los_Angeles:20261123T200000
+DTEND;TZID=America/Los_Angeles:20261123T220000
+DTSTAMP:20261008T185326Z
+UID:caldiscovery-comedy-18f4975df46aa98c@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,dance
+DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
+ BA...\n\nMonday Night Hubba is the perfect way to start your week sexy: wi
+ th cocktails\, tease\, comedy and a more intimate experience than Hubba's 
+ big monthly extravaganzas! Each Monday night is a fun-filled\, shimmering 
+ showcase of local\, national and international burlesque and variety talen
+ t -- and a chance to see the most dazzling debuts before they hit it big!\
+ n\nBuy tickets: https://www.dnalounge.com/calendar/2026/11-23d.html\n\nWat
+ ch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCiLZYFLf7
+ 8\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:30pm.\n18+ with ID.\n\nGen
+ . Adm.: $10 advance\;\n$15 door\;\nReserved Seating: $15 advance\;\n$20 do
+ or.\n\nPublished by DNA Lounge\nContains information from CalDiscovery (ca
+ ldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/calendar/
+ 2026/11-23d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
+ rancisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261008T185326Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2026/11-23d.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
@@ -7657,10 +7694,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Hubba
 DTSTART;TZID=America/Los_Angeles:20261130T200000
 DTEND;TZID=America/Los_Angeles:20261130T220000
-DTSTAMP:20261006T002614Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-023782def0d0b136@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,theater
+SEQUENCE:1
+CATEGORIES:comedy,dance
 DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
  BA...\n\nMonday Night Hubba is the perfect way to start your week sexy: wi
  th cocktails\, tease\, comedy and a more intimate experience than Hubba's 
@@ -7675,7 +7712,7 @@ DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
  ldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/calendar/
  2026/11-30d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
  rancisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
 TRANSP:TRANSPARENT
 URL:https://www.dnalounge.com/calendar/2026/11-30d.html?utm_source=caldisc
@@ -7951,10 +7988,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261204T183000
 DTEND;TZID=America/Los_Angeles:20261204T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-46c4cd012f9da82b@sf-cal
-SEQUENCE:1
-CATEGORIES:arts,comedy
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848476-2?pid=12352At the
@@ -7979,7 +8016,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -8107,10 +8144,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261205T183000
 DTEND;TZID=America/Los_Angeles:20261205T200000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-02d1b33d78da0779@sf-cal
-SEQUENCE:1
-CATEGORIES:arts,comedy
+SEQUENCE:2
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848476-2?pid=12352At the
@@ -8135,7 +8172,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -8286,10 +8323,10 @@ BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
 DTSTART;TZID=America/Los_Angeles:20261206T183000
 DTEND;TZID=America/Los_Angeles:20261206T200000
-DTSTAMP:20261007T133325Z
+DTSTAMP:20261008T185326Z
 UID:caldiscovery-comedy-51d674d7930ee3aa@sf-cal
-SEQUENCE:0
-CATEGORIES:arts,comedy
+SEQUENCE:1
+CATEGORIES:comedy
 DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
  l Admission: USD 55.00Link: https://go.evvnt.com/3848476-2?pid=12352At the
@@ -8314,7 +8351,7 @@ DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
  ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
  ails: https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm
  _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T133325Z
+LAST-MODIFIED:20261008T185326Z
 LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
  9 O'Farrell Street San Francisco\, CA 94102
 TRANSP:TRANSPARENT
@@ -8387,34 +8424,6 @@ LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/6/matt-rogers-this-time-it-s-reall
  y-christmas-tour-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Night Hubba
-DTSTART;TZID=America/Los_Angeles:20261207T200000
-DTEND;TZID=America/Los_Angeles:20261207T220000
-DTSTAMP:20261008T104232Z
-UID:caldiscovery-comedy-a87e8cb387aa4cf9@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,theater
-DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
- BA...\n\nMonday Night Hubba is the perfect way to start your week sexy: wi
- th cocktails\, tease\, comedy and a more intimate experience than Hubba's 
- big monthly extravaganzas! Each Monday night is a fun-filled\, shimmering 
- showcase of local\, national and international burlesque and variety talen
- t -- and a chance to see the most dazzling debuts before they hit it big!\
- n\nBuy tickets: https://www.dnalounge.com/calendar/2026/12-07d.html\n\nWat
- ch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCiLZYFLf7
- 8\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:30pm.\n18+ with ID.\n\nGen
- . Adm.: $10 advance\;\n$15 door\;\nReserved Seating: $15 advance\;\n$20 do
- or.\n\nPublished by DNA Lounge\nContains information from CalDiscovery (ca
- ldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/calendar/
- 2026/12-07d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
- rancisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261008T104232Z
-LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://www.dnalounge.com/calendar/2026/12-07d.html?utm_source=caldisc
- overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF
