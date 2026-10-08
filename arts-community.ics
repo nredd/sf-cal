@@ -41,70 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
-DTSTART;TZID=America/Los_Angeles:20260930T110000
-DTEND;TZID=America/Los_Angeles:20260930T170000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634933@sf-cal
-SEQUENCE:0
-CATEGORIES:Art Museums
-DESCRIPTION:Submitted by the Event OrganizerFree Admission Day at Yerba Bu
- ena Center for the Arts (YBCA)Opened to the public in 1993\, YBCA was foun
- ded as the cultural anchor of San Francisco’s Yerba Buena Gardens neighb
- orhood. Our work spans the realms of contemporary art\, performance\, film
- \, civic engagement\, and public life. Centering artists as essential to s
- ocial and cultural movement\, YBCA is reimagining the role an arts institu
- tion can play in the community it serves.\nYBCA is located in the heart of
-  San Francisco’s SOMA neighborhood\, across the street from SFMOMA and t
- he Moscone Convention Center. The main entrance to our galleries and forum
-  event space is at 701 Mission Street. The main entrance to our theater is
-  700 Howard Street.\n\nYBCA is open Wednesday–Sunday\, 11–5pm.\nEntry 
- to YBCA Galleries is free every Wednesday\nTicketing\nGalleries\nMembers: 
- Free\nAdult (18+): $10\nStudents & Seniors: $5\nYouth (17 and under)\, Mil
- itary Personnel\, & Museums for All: Free\nWednesdays: Free\nEmployees of 
- other museums with current valid staff ID receive free general admission f
- or themselves and one guest.\nMuseums for All\nYBCA offers free admission 
- for Medi-Cal and EBT card holders as part of the Museums for All program. 
- Benefits card required upon entry. Tickets must be purchased at the ticket
- ing desk at YBCA.\nHours\nGalleries\nWed–Sun: 11 AM–5 PM\nMon–Tues: 
- Closed\n\nUpcoming Free Admission Day at Yerba Buena Center for the Arts (
- YBCA) Events\nWed 10/7 Free Admission Day at Yerba Buena Center for the Ar
- ts...\n\nFree\n\nTickets: https://www.ybca.org/visit-us\nDetails: https://
- sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-ybca
- -155/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-b
- uilding.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
- o\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
- he-arts-ybca-155/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Art Workshop: 3D Paper Flowers
-DTSTART;TZID=America/Los_Angeles:20260930T140000
-DTEND;TZID=America/Los_Angeles:20260930T160000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1632616@sf-cal
-SEQUENCE:0
-CATEGORIES:Art Museums
-DESCRIPTION:Submitted by the Event OrganizerCreate art inspired by our pro
- gramming at this drop-in art workshop! All ages welcome\, all materials pr
- ovided. Incorporate dimensionality into your colorful flower creation. Par
- ticipants will explore compositional elements such as line\, shape\, color
- \, and form.\n\nFree\n\nTickets: https://bit.ly/4pzYqDE\nDetails: https://
- sf.funcheap.com/free-art-workshop-3d-paper-flowers-sf-2/\nSource: Funcheap
-  SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/3d-pap
- er-flowers_1200-x-675-px.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
- , CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-art-workshop-3d-paper-flowers-sf-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 Madrone Artist Grant Showcase
 DTSTART;TZID=America/Los_Angeles:20260930T180000
 DTEND;TZID=America/Los_Angeles:20260930T210000
@@ -4436,8 +4372,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Italian Heritage Festival & Parade
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261007T210655Z
-UID:caldiscovery-festival-77100732a4719190@sf-cal
+DTSTAMP:20261008T010330Z
+UID:caldiscovery-festival-35592962c7ac8525@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
@@ -4447,7 +4383,7 @@ DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
  ls: https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
  ign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261008T010330Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
@@ -5356,6 +5292,39 @@ LOCATION:SFPL Main Library Jobs & Career Center\, 4th floor\, 100 Larkin S
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-stuff-night-tackle-todo-list-sf-main-libr
  ary/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Feels SF ed 21: an IRL singles experience
+DTSTART;TZID=America/Los_Angeles:20261014T183000
+DTEND;TZID=America/Los_Angeles:20261014T203000
+DTSTAMP:20261008T010330Z
+UID:dothebay-17934136@sf-cal
+SEQUENCE:0
+CATEGORIES:Experiences
+DESCRIPTION:A dating event for those who are fed up w apps + are ready for
+  a more embodied approach.\n\n// about \\\\\n\n‘the feels’ is a 3-hour
+  in-person dating event in SF\, designed for people who understand that da
+ ting is a skill we need to practice\, to maintain our relational health.\n
+ \nPart somatic experience\, part mindful singles event\, part human connec
+ tion experiment — ‘the feels ‘offers a different way to date: slower
+ \, tuned into your body\, and rooted in emotional awareness.\n\nCreated by
+  Allie Hoffman as part of her masters degree thesis work at Columbia Unive
+ rsity’s Spirit Mind Body Institute\, ‘the feels’ blends Jungian psyc
+ hology\, somatic intelligence\, mindfulness\, and authentic relating into 
+ one immersive evening.\n\nThe format builds off the work of Carl Jung\, Jo
+ seph Campbell\, Dr Martha Eddy\, the Buddha + the Tavistock Institute - am
+ ong others.\n\n‘The feels’ level 1 experience guides you through 4 str
+ uctured pairings and group moments that include deep prompts\, positive re
+ flections\, and somatic elements like eye gazes + hugs.\n\nTickets: https:
+ //consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fthe-feel
+ s-sf-ed-21-an-irl-singles-experience-tickets-1996990346885%3Faff%3Doddtdtc
+ reator\nDetails: https://dothebay.com/events/2026/10/14/the-feels-sf-ed-21
+ -an-irl-singles-experience-tickets\nSource: DoTheBay
+LAST-MODIFIED:20261008T010330Z
+LOCATION:The Fold\, 3359 26th St\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/14/the-feels-sf-ed-21-an-irl-singl
+ es-experience-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tantra & Pleasure Body Workshop
@@ -10890,8 +10859,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261007T210655Z
-UID:caldiscovery-festival-4c56479d7ee3e677@sf-cal
+DTSTAMP:20261008T010330Z
+UID:caldiscovery-festival-197cdd3ddc94edc3@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -10901,7 +10870,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261008T010330Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -11660,8 +11629,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261007T210655Z
-UID:caldiscovery-festival-3ac38d61b0850812@sf-cal
+DTSTAMP:20261008T010330Z
+UID:caldiscovery-festival-e5706417aa3e9e8a@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -11671,7 +11640,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261008T010330Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -12281,8 +12250,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261007T210655Z
-UID:caldiscovery-festival-84b99e9747bd8318@sf-cal
+DTSTAMP:20261008T010330Z
+UID:caldiscovery-festival-a1a172a24f173aef@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -12292,7 +12261,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261008T010330Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -14088,8 +14057,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261007T210655Z
-UID:caldiscovery-festival-37db168f724054ca@sf-cal
+DTSTAMP:20261008T010330Z
+UID:caldiscovery-festival-7b2280aaa81025cc@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -14098,7 +14067,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261008T010330Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis

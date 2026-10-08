@@ -1191,7 +1191,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "77100732a4719190",
+   "source_id": "35592962c7ac8525",
    "title": "San Francisco Italian Heritage Festival & Parade",
    "start": "2026-10-11T00:00:00-07:00",
    "end": "2026-10-12T00:00:00-07:00",
@@ -2225,7 +2225,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "4c56479d7ee3e677",
+   "source_id": "197cdd3ddc94edc3",
    "title": "Día de los Muertos Procession & Festival of Altars 2026",
    "start": "2026-11-02T00:00:00-08:00",
    "end": "2026-11-03T00:00:00-08:00",
@@ -2312,7 +2312,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "3ac38d61b0850812",
+   "source_id": "e5706417aa3e9e8a",
    "title": "San Francisco Coffee Festival 2026",
    "start": "2026-11-07T00:00:00-08:00",
    "end": "2026-11-08T00:00:00-08:00",
@@ -2452,7 +2452,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "84b99e9747bd8318",
+   "source_id": "a1a172a24f173aef",
    "title": "San Francisco Hip-Hop Dance Festival",
    "start": "2026-11-13T00:00:00-08:00",
    "end": "2026-11-14T00:00:00-08:00",
@@ -2657,7 +2657,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "37db168f724054ca",
+   "source_id": "7b2280aaa81025cc",
    "title": "Illuminate SF Festival of Light",
    "start": "2026-12-06T00:00:00-08:00",
    "end": "2026-12-07T00:00:00-08:00",
@@ -7506,7 +7506,7 @@
    "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmumford-sons-prizefighter-tour-mountain-view-california-10-08-2026%2Fevent%2F1C006458A97DD4E3",
    "price_text": null,
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Prizefighter Tour\nMumford & Sons\nwith Special Guest Sierra Ferrell\n\nThursday, October 8 | Shoreline Amphitheatre\n\nMumford & Sons has partnered with PLUS1 to support Children in Conflict, part of the War Child Alliance. $1 from every ticket sold will help Children in Conflict to protect, educate, and stand up for the rights of children affected by war. No portion of the purchase price is tax deductible. https://www.childreninconflict.org/",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30484212/adc4d62d-b64b-4d8b-99c9-d58e1f013c01.png",
    "categories": [
@@ -8548,7 +8548,7 @@
    "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fzarna-garg-million-dollar-excuses-san-francisco-california-10-09-2026%2Fevent%2F1C0064CABF358B5D",
    "price_text": "All Ages",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Another Planet Entertainment Presents\nMillion Dollar Excuses\nZarna Garg\nFriday, October 9 | Palace of Fine Arts",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32775017/a641d443-5a93-452b-af97-2fc5f88e794e.png",
    "categories": [
@@ -12607,7 +12607,7 @@
    "ticket_url": "https://secure.thefreight.org/15957/15958-emmet-cohen-261011",
    "price_text": "$79",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Miles and Coltrane at 100\nEmmet Cohen\n\nSunday, October 11 | The Freight\n\nMultifaceted American jazz pianist and composer Emmet Cohen has emerged as one of his generation's pivotal figures in music and the related arts. A recognized prodigy, Cohen began Suzuki method piano instruction at age three, and his playing quickly became a mature melding of musicality, technique, and concept. Downbeat observed that his \"nimble touch, measured stride and warm harmonic vocabulary indicate he's above any convoluted technical showmanship.\" In the same spirit, Cohen himself has noted that playing jazz is \"about communicating the deepest levels of humanity and individuality; it's essentially about connections,\" both among musicians and with audiences. He leads his namesake ensemble, the \"Emmet Cohen Trio,\" is a vibrant solo performer, and is in constant demand as a sideman. Possessing a fluid technique, an innovative tonal palette, and an extensive repertoire, Cohen plays with the command of a seasoned veteran and the passion of an artist fully devoted to his medium.\n\nIn celebration of the centennial of John Coltrane and Miles Davis, pianist Emmet Cohen brings together an all-star quintet to explore the fundamental questions that shaped their artistry: Why are we here? What are we reaching for? Where does the music take us?\n\nA dynamic ensemble led by pianist Emmet Cohen, featuring saxophonist Tivon Pennicott and Trumpeter Jeremy Pelt will celebrate these geniuses in Miles and Coltrane at 100...",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33550631/f04c9543-f88c-48ae-86f8-2559c90b131d.jpg",
    "categories": [
@@ -14626,6 +14626,30 @@
     "Another Planet Entertainment & Danny Zelisko Present: The Moon, The Wall and Beyond",
     "Listed time is doors"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17934136",
+   "title": "The Feels SF ed 21: an IRL singles experience",
+   "start": "2026-10-14T18:30:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The Fold",
+   "address": "3359 26th St, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/14/the-feels-sf-ed-21-an-irl-singles-experience-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fthe-feels-sf-ed-21-an-irl-singles-experience-tickets-1996990346885%3Faff%3Doddtdtcreator",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "A dating event for those who are fed up w apps + are ready for a more embodied approach.\n\n// about \\\\\n\n‘the feels’ is a 3-hour in-person dating event in SF, designed for people who understand that dating is a skill we need to practice, to maintain our relational health.\n\nPart somatic experience, part mindful singles event, part human connection experiment — ‘the feels ‘offers a different way to date: slower, tuned into your body, and rooted in emotional awareness.\n\nCreated by Allie Hoffman as part of her masters degree thesis work at Columbia University’s Spirit Mind Body Institute, ‘the feels’ blends Jungian psychology, somatic intelligence, mindfulness, and authentic relating into one immersive evening.\n\nThe format builds off the work of Carl Jung, Joseph Campbell, Dr Martha Eddy, the Buddha + the Tavistock Institute - among others.\n\n‘The feels’ level 1 experience guides you through 4 structured pairings and group moments that include deep prompts, positive reflections, and somatic elements like eye gazes + hugs.",
+   "image_url": null,
+   "categories": [
+    "Experiences"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -17947,6 +17971,30 @@
    "sold_out": false,
    "description": "Discover science fun and excitement together at the Bay Area Science Festival — Northern California’s largest free all-ages science event. Experience 125+ mind-blowing hands-on experiments, games, demonstrations, stage performances, film screenings and science talks. Bring the whole family to race robots, see your own brainwaves, participate in a science podcast, marvel at science magic shows, meet reptiles and amphibians face-to-face and much more. Organized by UCSF, the festival is Saturday, October 17, 11AM-4PM at UCSF’s Mission Bay Campus amid Koret Quad’s expansive lawns, walkways, pine grove and renowned educational, medical and biotech research facilities — one block from Chase Center. Learn more at www.BayAreaScienceFestival.org.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34749654/e6a12407-de2b-4efc-a9d5-f922450f07a8.jpg",
+   "categories": [
+    "Arts & Family"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17933832",
+   "title": "Autumn Art Market at the Bekeley Tannery",
+   "start": "2026-10-17T11:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Tannery Art Studio",
+   "address": "710 Gilman St, Berkeley, CA, 94703",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/17/autumn-art-market-at-the-bekeley-tannery-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Autumn Art Market\nat the Berkeley Tannery\n\nSaturday, October 17. 11-5pm\n710 Gilman St @ 4th St\n\n15+ artists\nMusical performance by Grizzly Peak\nTacos provided by Sexy Queso",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34854792/19fdfb8d-0a78-4532-a5ff-9ad2ae6d383e.jpg",
    "categories": [
     "Arts & Family"
    ],
@@ -55907,60 +55955,6 @@
   },
   {
    "source": "fleetweeksf",
-   "source_id": "53560-20261006",
-   "title": "1st Marine Division Brass Quintet",
-   "start": "2026-10-06T12:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "fleet-week",
-   "venue": "TJPA Salesforce Park",
-   "address": null,
-   "locality": "San Francisco",
-   "geo": [
-    37.7898491,
-    -122.3963675
-   ],
-   "url": "https://fleetweeksf.org/events/free-concert-series/",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "We are proud to welcome the Navy and Marine Corps bands each year as part of San Francisco Fleet Week’s Neighborhood Concert Program. Check out our 2026 free concert calendar to see when we’re performing in your neighborhood!",
-   "image_url": null,
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "fleetweeksf",
-   "source_id": "53561-20261006",
-   "title": "1st Marine Division Brass Band",
-   "start": "2026-10-06T18:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "fleet-week",
-   "venue": "Noe Valley Town Square",
-   "address": null,
-   "locality": "San Francisco",
-   "geo": [
-    37.7513769,
-    -122.4289406
-   ],
-   "url": "https://fleetweeksf.org/events/free-concert-series/",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "We are proud to welcome the Navy and Marine Corps bands each year as part of San Francisco Fleet Week’s Neighborhood Concert Program. Check out our 2026 free concert calendar to see when we’re performing in your neighborhood!",
-   "image_url": null,
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "fleetweeksf",
    "source_id": "52794-20261007",
    "title": "Ship Tours",
    "start": "2026-10-07T10:00:00-07:00",
@@ -57524,54 +57518,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1634933",
-   "title": "Free Admission Day at Yerba Buena Center for the Arts (YBCA)",
-   "start": "2026-09-30T11:00:00-07:00",
-   "end": "2026-09-30T17:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission Street San Francisco, CA 94103",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-ybca-155/",
-   "ticket_url": "https://www.ybca.org/visit-us",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerFree Admission Day at Yerba Buena Center for the Arts (YBCA)Opened to the public in 1993, YBCA was founded as the cultural anchor of San Francisco’s Yerba Buena Gardens neighborhood. Our work spans the realms of contemporary art, performance, film, civic engagement, and public life. Centering artists as essential to social and cultural movement, YBCA is reimagining the role an arts institution can play in the community it serves.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood, across the street from SFMOMA and the Moscone Convention Center. The main entrance to our galleries and forum event space is at 701 Mission Street. The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wednesday–Sunday, 11–5pm.\nEntry to YBCA Galleries is free every Wednesday\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seniors: $5\nYouth (17 and under), Military Personnel, & Museums for All: Free\nWednesdays: Free\nEmployees of other museums with current valid staff ID receive free general admission for themselves and one guest.\nMuseums for All\nYBCA offers free admission for Medi-Cal and EBT card holders as part of the Museums for All program. Benefits card required upon entry. Tickets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWed–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day at Yerba Buena Center for the Arts (YBCA) Events\nWed 10/7 Free Admission Day at Yerba Buena Center for the Arts...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-building.png",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1632616",
-   "title": "Free Art Workshop: 3D Paper Flowers",
-   "start": "2026-09-30T14:00:00-07:00",
-   "end": "2026-09-30T16:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-art-workshop-3d-paper-flowers-sf-2/",
-   "ticket_url": "https://bit.ly/4pzYqDE",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerCreate art inspired by our programming at this drop-in art workshop! All ages welcome, all materials provided. Incorporate dimensionality into your colorful flower creation. Participants will explore compositional elements such as line, shape, color, and form.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/3d-paper-flowers_1200-x-675-px.png",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1638807",
    "title": "Free Outdoor Bandshell Concert w/ 3 Live Bands (Golden Gate Park)",
    "start": "2026-09-30T16:00:00-07:00",
@@ -57591,54 +57537,6 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/04/screenshot_2024-02-26_3.54.16_pm.png",
    "categories": [
     "Live Music Event"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1639699",
-   "title": "Valkyries Playoff March w/ Lowriders (Pier 48 to Thrive City)",
-   "start": "2026-09-30T16:00:00-07:00",
-   "end": "2026-09-30T17:00:00-07:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Pier 48",
-   "address": "Pier 48, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/valkyries-playoff-march-lowriders-pier-48-thrive-city/",
-   "ticket_url": "https://www.eventbrite.com/e/march-to-ballhalla-tickets-2001629942039?aff=oddtdtcreator",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event Organizer\n\nJoin us on a celebratory march to Ballhalla before the Valkyries take on Dallas for Game 2 of the First Round in the 2026 WNBA Playoffs!\n\nVALKYRIES FAM! Get ready for The March to Ballhalla: the ultimate postseason fan march before our first road game on Wednesday, September 30! Wear your violet, bring your signs and your energy, and join us as we migrate to Thrive City’s Valkyries Playoffs Watch Party, presented by Kaiser Permanente!\n\n4PM — Check-In: Kick things off at Pier 48 Ferry Dock (402 Terry A Francois Blvd).\n4:30PM — The March: Follow our bestie Violet, local San Francisco lowriders, and special guests straight over to Thrive City.\nWatch Party: Settle in for the Valkyries Playoffs Watch Party presented by Kaiser Permanente, broadcasting live on the big plaza board!\n\nLate arrivals are encouraged to head straight to Thrive City where seating will be available on a first-come, first-served basis.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/TC_BM_20260909_GSV_Fan_March_DIGITAL_Generic_2160x1080.jpg",
-   "categories": [
-    "Sports Fitness"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1639908",
-   "title": "“March to Ballhalla” SF’s Pier 48 to Thrive City for Valkyries Playoff Watch Party (4-6p)",
-   "start": "2026-09-30T16:00:00-07:00",
-   "end": "2026-09-30T18:00:00-07:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Pier 48 Ferry Dock",
-   "address": "402 Terry A Francois Blvd., San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/march-to-ballhalla-sfs-pier-48-to-thrive-city-for-valkyries-playoff-watch-party-4-6p/",
-   "ticket_url": "https://chasecenter.com/thrive-city/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event Organizer2026 Valkyries Free WNBA Playoff Watch Party at Thrive City (SF)Valkyries fans will gather at Pier 48 for the first-ever March to Ballhalla ahead of the team’s first away game of the 2026 WNBA Playoffs, presented by Kaiser Permanente.\nThe march will begin at Pier 48 Lot A, migrate along Terry Francois Blvd, and end at Thrive City for the Valkyries Playoffs Watch Party, presented by Kaiser Permanente. T\nhe march will feature music by the Fremont High School Marching Band, city officials including San Francisco Mayor Daniel Lurie, Valkyries staff, fans, and community organizations such as the Lowrider Council. Ari Waller will emcee and Valkyries Bestie Violet will be hyping up marchers and meeting with fans.\n\nThe Valkyries game against the Dallas Wings will tip off at 6:00 p.m. following the march and will be shown in Thrive City.\nThis will be the second game of the First Round, where the Valkyries currently lead the Wings 1-0 in the best-of-three series.\n\nThrive City hosts a Golden State Valkyries playoff watch party on September 30, 2026, preceded by the March to Ballhalla fan march. Check-in begins at 4:00 PM at Pier 48 Ferry Dock, followed by a 4:30 PM march with Violet, local San Francisco lowriders, and special guests to Thrive City. The watch party begins at 6:00 PM, with the road game shown on the plaza board; entry and seating are first come, first served until capacity is reached.\nMarch to Ballhalla\n4PM — Check-In: Kick things off at Pi...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/817551917_18164112928486277_3557698963605851901_n.jpg",
-   "categories": [
-    "Sports Fitness"
    ],
    "notes": []
   },
@@ -65941,6 +65839,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/841464777_18112213871614317_2964334168941426427_n.jpg",
    "categories": [
     "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641518",
+   "title": "CRANE Opening Night Watch Party at Zaccho Dance Theatre",
+   "start": "2026-10-09T19:00:00-07:00",
+   "end": "2026-10-09T22:00:00-07:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Zaccho Dance Theatre",
+   "address": "1777 Yosemite Ave, Studio 330, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/crane-opening-night-watch-party-zaccho-dance-theatre-sf/",
+   "ticket_url": "https://shipyardartists.com/crane",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Shipyard Trust for the ArtsLight, sound and memories on the Shipyard crane.\nCRANE opens with a watch party at Zaccho Dance Theatre.\nArtists transform the giant gantry crane at Hunters Point Shipyard into an after-dark theater of light, original music and community history, honoring the people who built and worked the Shipyard, many from African American families who still live in Bayview Hunters Point.\nCrane Opening Night Watch Party\nFriday, October 9, 2026 | 7p\nZaccho Dance Theatre, 1777 Yosemite Avenue, Suite 330, SF\nTickets start at $25 per seat; $10 community price for 94124 residents.\nEvent Schedule:\n\n7pm – Doors open\n7:30pm – Welcome\n7:45pm – Dr. George W. Davis Senior Center Choir sings live in the room\n8-8:40pm – CRANE performance streams live from the pier\nAfter the performance – Full CRANE artist team talk with the audience\nNote: This is the only artist talk of the run.\n\nThe crane is not visible from Zaccho; the performance is viewed on screen, with the choir singing live in the room. Everyone has a seat. Space is limited.\nCan’t make it? Every performance streams free online October 9, 10, 16 and 17 at 7:45 pm, and there are more watch parties at Hunters Point Shipyard Building 101 on October 16 and 17.\nArtists:\n\nIan Winters – Video\nEvelyn Ficarra – Composer\nElaine Buckholtz – Lighting\nStacey Carter – Shipyard History and Community Engagement\nWilliam Rhodes – Community Engagement\n\nProduced by Shipyard Trust for the Arts.\n\nAbout CRANE\nIn October 2026, the historic ga...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Crane-IG-post-blue-lights-theater.jpg",
+   "categories": [
+    "Theater Performance"
    ],
    "notes": []
   },
@@ -92819,7 +92741,6 @@
     "142082": "2026-09-09T23:09:14",
     "142086": "2026-09-09T23:14:31",
     "1423063": "2026-09-05T00:20:12",
-    "1460194": "2026-09-01T06:04:03",
     "1469462": "2026-08-29T01:07:02",
     "1472293": "2026-08-28T21:49:46",
     "1472730": "2026-09-07T20:11:43",
@@ -94805,6 +94726,7 @@
     "1641482": "2026-10-07T16:32:48",
     "1641484": "2026-10-07T17:01:35",
     "1641486": "2026-10-07T16:33:54",
+    "1641518": "2026-10-07T22:38:23",
     "1641527": "2026-10-07T20:43:01",
     "1641538": "2026-10-07T20:44:38",
     "19343": "2026-09-09T04:55:15",
@@ -94972,6 +94894,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
   },
+  "caldiscovery-festival-197cdd3ddc94edc3@sf-cal": {
+   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
+   "sequence": 0,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
+  },
   "caldiscovery-festival-1a37157941e9928a@sf-cal": {
    "content_hash": "9288f8d9af888a708f6bbac3cdd0519ccce61bd1ef9d712033004aea2fc030de",
    "sequence": 1,
@@ -94987,15 +94914,10 @@
    "sequence": 1,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
-  "caldiscovery-festival-37db168f724054ca@sf-cal": {
-   "content_hash": "8c557c0903e5f614f6422928b43dd97aed4ea6820d73574523fdef0afd48e323",
+  "caldiscovery-festival-35592962c7ac8525@sf-cal": {
+   "content_hash": "d74a4f86878d0502f511088bd25757c0d2abcfed88ae0fa673b2bcc4ff79c27b",
    "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
-  },
-  "caldiscovery-festival-3ac38d61b0850812@sf-cal": {
-   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
-   "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
+   "last_modified": "2026-10-08T01:03:30.608947Z"
   },
   "caldiscovery-festival-3dbc64f368d9fb22@sf-cal": {
    "content_hash": "e4bbcb04384f07b68137b5202cd15cebe1bc732e67e53608066dbc59be232098",
@@ -95004,11 +94926,6 @@
   },
   "caldiscovery-festival-47b79d204e0f036f@sf-cal": {
    "content_hash": "8d068248f7bf322b8a9d78c09ea6bfd6122a21ab4a43e6bba78735564dcfb1fe",
-   "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
-  },
-  "caldiscovery-festival-4c56479d7ee3e677@sf-cal": {
-   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
@@ -95047,10 +94964,10 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
   },
-  "caldiscovery-festival-77100732a4719190@sf-cal": {
-   "content_hash": "d74a4f86878d0502f511088bd25757c0d2abcfed88ae0fa673b2bcc4ff79c27b",
+  "caldiscovery-festival-7b2280aaa81025cc@sf-cal": {
+   "content_hash": "8c557c0903e5f614f6422928b43dd97aed4ea6820d73574523fdef0afd48e323",
    "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
+   "last_modified": "2026-10-08T01:03:30.608947Z"
   },
   "caldiscovery-festival-7c43f823c667628a@sf-cal": {
    "content_hash": "f1284aced7b52e8367d5e38554d187b7b53ac01cb9bbb478f9d63c3e1d2ee688",
@@ -95071,11 +94988,6 @@
    "content_hash": "9d6abff4c853e39a45629c6619e3bda0fd5954ac0bba108f36f8064507b7a4e1",
    "sequence": 1,
    "last_modified": "2026-10-06T17:22:18.408093Z"
-  },
-  "caldiscovery-festival-84b99e9747bd8318@sf-cal": {
-   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
-   "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
   },
   "caldiscovery-festival-8d1de591dec2f7ca@sf-cal": {
    "content_hash": "c7e135f1843d2d44578f1f86d00eb485fabd13e2f22b0c78bdf5cf5ab83c29f3",
@@ -95101,6 +95013,11 @@
    "content_hash": "334f849700689adf6a3c53c5fc9480f39517b8730129a4d91056c0f1bb4f4a10",
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
+  },
+  "caldiscovery-festival-a1a172a24f173aef@sf-cal": {
+   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
+   "sequence": 0,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
   },
   "caldiscovery-festival-a515d13c7ee7da27@sf-cal": {
    "content_hash": "90e3c2523620713e9c35660330b467155fad6af9d9b91344ba7ea5fb61f53226",
@@ -95151,6 +95068,11 @@
    "content_hash": "9a05bcfc09fc6c5c2601802b5e4dcee6d26f1635ff83206922af62b40917a5b2",
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
+  },
+  "caldiscovery-festival-e5706417aa3e9e8a@sf-cal": {
+   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
+   "sequence": 0,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
   },
   "caldiscovery-festival-f185a673042800d3@sf-cal": {
    "content_hash": "8b534a4fe98b86c6bffd366b2cbed8804caabdc7eabb2b0e19fc8309cc127bf2",
@@ -96698,9 +96620,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17494043@sf-cal": {
-   "content_hash": "50a333cf33169c40b2d2e48469a5ce62f279f8eeb772aea434f6d933046fa9ba",
-   "sequence": 1,
-   "last_modified": "2026-10-06T19:12:50.541261Z"
+   "content_hash": "6c0ae9f598e25f692c51d6ee6c8d3885c250e51f878f36c4ed3a65e4f5008d20",
+   "sequence": 2,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
   },
   "dothebay-17498387@sf-cal": {
    "content_hash": "e69d00dc6169a785eceb6ad987730a7c22c4126aa362c743478780510f9bae01",
@@ -101702,6 +101624,11 @@
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
+  "dothebay-17934136@sf-cal": {
+   "content_hash": "15d97bdac3f1d3894add5c20cf2a69fdc8f88066bacd1c583ee1c6479f1443b9",
+   "sequence": 0,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
+  },
   "fleetweeksf-52738-20261011@sf-cal": {
    "content_hash": "6f45d999f681ab2bf7ecb5d2dfe10ece2038da1c101012f90c87477e9d2036f3",
    "sequence": 0,
@@ -101766,16 +101693,6 @@
    "content_hash": "51e6e58bf01f30e6b9f91dd83d6edde2c17c53b41706089aec8738c220267af6",
    "sequence": 2,
    "last_modified": "2026-10-06T17:22:18.408093Z"
-  },
-  "fleetweeksf-53560-20261006@sf-cal": {
-   "content_hash": "fcc51286f5507293927b30fe0eaf8e97d9a36651a4a4be66061e7d1886c52b52",
-   "sequence": 1,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "fleetweeksf-53561-20261006@sf-cal": {
-   "content_hash": "18cfd34ed93126263feadfc988e5000d33ee4149e091e80041823ace99379e45",
-   "sequence": 1,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
   },
   "fleetweeksf-53562-20261007@sf-cal": {
    "content_hash": "85caa191de8499ebc96dc56ce3af2a2c25261efd0814cde0368883e3cf1f6397",
@@ -102109,11 +102026,6 @@
   },
   "funcheap-1632536@sf-cal": {
    "content_hash": "6798127a766310bb09c7f0dddcb24e090e710d2b0558abff686963212bc4751c",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1632616@sf-cal": {
-   "content_hash": "e3c1be81a42f1c0c9f13b7118ddf218dcaab40b4c4265b4d7284780d44930491",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -102664,11 +102576,6 @@
   },
   "funcheap-1634926@sf-cal": {
    "content_hash": "9f00e52d630365f29911ea92fa879eb3a7330ccd32da97fc82885d23d6bbed00",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1634933@sf-cal": {
-   "content_hash": "09ac18ea6de8b331bb0f79a39ca1f8e4b26d3b0462a8d7912d707b2620c8c620",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -103266,6 +103173,16 @@
    "content_hash": "0887c712c4ef3b1761a8aee168695e771fc74b891bcb58be8e6b5919b3dd2467",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
+  },
+  "funcheap-1636685@sf-cal": {
+   "content_hash": "1585ba0a28285278c7b3fb151149d146876da490fc7ab537f7b5dc50a58490d9",
+   "sequence": 0,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
+  },
+  "funcheap-1636686@sf-cal": {
+   "content_hash": "b9b35838724bcb1d2b5148c0d3f26c2f8f48f62d0898ae893af324f7c0673325",
+   "sequence": 0,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
   },
   "funcheap-1636702@sf-cal": {
    "content_hash": "b62aa4f7c169d334e1e26a1c759d21d2133b6bd6ae5cd02e37c5a747d32eddb1",
@@ -104872,11 +104789,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1639699@sf-cal": {
-   "content_hash": "a90f786d2b882f11120ab87dc31da938f53a41c2ceba87d9a1f41097e52430ad",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1639702@sf-cal": {
    "content_hash": "d71b3769560c15bd5de63f2cb3ef0c7b1fe1d59127880801e848ff3f5a02e855",
    "sequence": 0,
@@ -105034,11 +104946,6 @@
   },
   "funcheap-1639901@sf-cal": {
    "content_hash": "ca62faffe5518de152a6c136be4278971e3609a95d2db29df78b0fcdc72b9dc7",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1639908@sf-cal": {
-   "content_hash": "801af3e1e622d6b8c1d7910d45c84614b9d98b1e0cadb24075ea45fb4ff7e230",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -105701,6 +105608,11 @@
    "content_hash": "ea4b905c7f64c7aabcce48a4155e35605a0a5856a581a0f8d992c40ffcd0b3b1",
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
+  },
+  "funcheap-1641518@sf-cal": {
+   "content_hash": "a097ec533c9e9c75c8c5635147ee61a1fb5bd051e8b15e241f70f7a8050a3d17",
+   "sequence": 0,
+   "last_modified": "2026-10-08T01:03:30.608947Z"
   },
   "funcheap-1641527@sf-cal": {
    "content_hash": "78d8f2c0ad4fae518a029db48b930919f6c3a2c012ab5558637f2c53be4b885b",
