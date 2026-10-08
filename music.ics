@@ -40,70 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Outdoor Bandshell Concert w/ 3 Live Bands (Golden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20260930T160000
-DTEND;TZID=America/Los_Angeles:20260930T190000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638807@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerGolden Gate Park’s 125+ Free
-  Outdoor Bandshell Concert Series (2026)Free live music is back in the par
- k.\nIlluminate LIVE returns to the Golden Gate Bandshell in Golden Gate Pa
- rk on Sunday\, March 1\, 2026\, launching its sixth season of free outdoor
-  concerts with more than 125 performances scheduled through mid-November.\
- n\nThe long-running series has quietly become one of San Francisco’s big
- gest free music traditions\, drawing more than 250\,000 attendees each yea
- r. Since 2020\, Illuminate LIVE has presented more than 700 free concerts 
- and welcomed nearly 1 million music fans to the historic Bandshell (also k
- nown as the Spreckels Temple of Music).\nAfter the afternoon sets\, the 20
- 26 season of Crucial Reggae Sundays launches with resident DJs Irie Dole\,
-  Guid8nce and DJ Sep.\n2026 Season – March to Mid- November\nThe 2026 se
- ason features more than 125 free\, all-ages performances\, typically held:
- \n\nWednesdays – Midweek Melodies\nFridays – Friday Happy Hour\nSunday
- s – Crucial Reggae Sundays\nPlus select Saturdays and special cultural e
- vents\n\nOriginally launched during Golden Gate Park’s 150th anniversary
- \, Illuminate LIVE has grown into a cornerstone of the city’s free publi
- c arts scene\, supported by private funding\, grants and partnership with 
- the San Francisco Recreation and Park Department.\n\n2026 Free Bandshell C
- oncert Schedule\nCatch live music in the park every Wednesday\, Friday and
-  Sunday (plus select Saturdays) through November. All shows are free and o
- pen...\n\nFree\n\nTickets: https://illuminate.org/venues/golden-gate-bands
- hell/\nDetails: https://sf.funcheap.com/free-outdoor-bandshell-concert-w-3
- -live-bands-golden-gate-park/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/04/screen
- shot_2024-02-26_3.54.16_pm.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Spreckels Temple of Music (Golden Gate Park Bandshell)\, Music Co
- ncourse Dr\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-outdoor-bandshell-concert-w-3-live-bands-
- golden-gate-park/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weekly Swing Dance Night w/ Live Music
-DTSTART;TZID=America/Los_Angeles:20260930T190000
-DTEND;TZID=America/Los_Angeles:20260930T233000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638650@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerWeekly Wednesday swing dance n
- ight at On Broadway at Mabuhay Gardens. Intermediate Lindy Hop class 7-8 P
- M\, beginner Lindy Hop 8-9 PM\, live music party 9-11:30 PM featuring Jell
- yroll with Belinda Blair. Beginner swing drop-in lesson 9-9:30 PM included
-  with general admission. 15 general including drop-in lesson\, 10 before 8
- :30 PM or after 10 PM\, 5 after 11 PM. All ages. Follow @fabmabsf\, visit 
- themab.org.\n\n$15.00\n\nTickets: https://www.catscornersf.com/\nDetails: 
- https://sf.funcheap.com/weekly-swing-dance-night-live-music-sf/\nSource: F
- uncheap SF
-LAST-MODIFIED:20261006T001646Z
-LOCATION:On Broadway at Mabuhay Gardens\, 435 Broadway\, San Francisco\, C
- A 94133
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/weekly-swing-dance-night-live-music-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack” 
  (Every Tue/Thu)
 DTSTART;TZID=America/Los_Angeles:20261001T120000
@@ -1607,21 +1543,17 @@ BEGIN:VEVENT
 SUMMARY:The Neighbourhood
 DTSTART;TZID=America/Los_Angeles:20261007T180000
 DTEND;TZID=America/Los_Angeles:20261007T200000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-16586695@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:all ages\nSold out\nLIVE 105 + Another Planet Entertainment Pr
- esent: THE WOURLD TOUR\nListed time is doors\n\nTickets: https://ticketmas
- ter.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.tic
- ketmaster.com%2Fthe-neighbourhood-the-wourld-tour-san-francisco-california
- -10-07-2026%2Fevent%2F1C00635ECA50AA36%3Fcamefrom%3DCFC_ANOTHERPLANET_web%
- 26brand%3Danotherplanet\nDetails: https://dothebay.com/events/2026/10/7/th
- e-neighbourhood-tickets\nSource: DoTheBay
+ esent: THE WOURLD TOUR\nListed time is doors\n\nDetails: https://dothebay.
+ com/events/2026/10/7/the-neighbourhood-tickets\nSource: DoTheBay
 GEO:37.77814499999999;-122.4174374
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/28417424/dea568ce-12ef-4c58-8879-a6d21c3aed0e.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Bill Graham Civic Auditorium\, 99 Grove Street\, San Francisco\, 
  CA\, 94102
 TRANSP:TRANSPARENT
@@ -1659,9 +1591,9 @@ BEGIN:VEVENT
 SUMMARY:Sammy Rae & The Friends w/ Melt
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17130624@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment presents\nFall 2026 Tour\nSammy R
  ae & The Friends w/ Melt\n\nWednesday\, October 7 | The Castro\n\nThe mant
@@ -1685,16 +1617,12 @@ DESCRIPTION:Another Planet Entertainment presents\nFall 2026 Tour\nSammy R
  Life” (2018) and “Let’s Throw a Party” (2021) to sold-out shows in
   major markets and secondary markets alike across North American and the U
  K & Euro...\n\n$48.60\, all ages\nSold out\nAnother Planet Entertainment p
- resents - Two Nights!\nListed time is doors\n\nTickets: https://ticketmast
- er.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.tick
- etmaster.com%2Fsammy-rae-the-friends-san-francisco-california-10-07-2026%2
- Fevent%2F1C006470DAC4EA59%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Dano
- therplanet\nDetails: https://dothebay.com/events/2026/10/7/sammy-rae-the-f
- riends-melt-tickets\nSource: DoTheBay
+ resents - Two Nights!\nListed time is doors\n\nDetails: https://dothebay.c
+ om/events/2026/10/7/sammy-rae-the-friends-melt-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31057125/1c8f9c03-d007-42eb-a33a-7c87dfa1b90a.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/sammy-rae-the-friends-melt-ticke
@@ -1704,19 +1632,18 @@ BEGIN:VEVENT
 SUMMARY:The Dresden Dolls
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17343664@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:{MOVED FROM THE WARFIELD}\n\nGoldenvoice Presents\nThe Dresden
   Dolls\nWednesday\, October 7 | Great American Music Hall\n\n$59.22\nGolde
- nvoice Presents\nListed time is doors\n\nTickets: https://www.eventim.us/e
- vent/tickets/706906\nDetails: https://dothebay.com/events/2026/10/7/the-dr
- esden-dolls-tickets\nSource: DoTheBay
+ nvoice Presents\nListed time is doors\n\nDetails: https://dothebay.com/eve
+ nts/2026/10/7/the-dresden-dolls-tickets\nSource: DoTheBay
 GEO:37.7848325;-122.418809
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32051932/b846aeb9-35b4-402d-bda6-29ec5f81d96d.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Great American Music Hall\, 859 O'farrell Street\, San Francisco\
  , CA\, 94109
 TRANSP:TRANSPARENT
@@ -1726,9 +1653,9 @@ BEGIN:VEVENT
 SUMMARY:Traveling Shoes
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17766753@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Join DVT—the trio of composer Damani Rhodes\, vocalist VADIA
  \, and poet Tongo Eisen-Martin—for a live performance of their album “
@@ -1737,13 +1664,13 @@ DESCRIPTION:Join DVT—the trio of composer Damani Rhodes\, vocalist VADIA
  plores Black life\, political consciousness\, community resistance\, and l
  iberation. Music begins promptly at 7pm. Seating limited\, RSVP recommende
  d. Bar in the lobby\, through no drinks allowed in the gallery.\n\nFree\nY
- erba Buena Center for the Arts\n\nTickets: https://bit.ly/4xl8wND \nDetail
- s: https://dothebay.com/events/2026/10/7/traveling-shoes-tickets\nSource: 
- DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/traveling-shoes/
+ erba Buena Center for the Arts\n\nDetails: https://dothebay.com/events/202
+ 6/10/7/traveling-shoes-tickets\nSource: DoTheBay\n\nAlso listed on:\n- htt
+ ps://sf.funcheap.com/traveling-shoes/
 GEO:37.7856437;-122.4021904
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34067416/e77a37b0-bc75-48b0-a2ca-42f7e769475b.jpg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
  , CA\, 94103
 TRANSP:TRANSPARENT
@@ -1753,22 +1680,21 @@ BEGIN:VEVENT
 SUMMARY:The Spiral Electric\, Fake Your Own Death\, Silent Pictures
 DTSTART;TZID=America/Los_Angeles:20261007T193000
 DTEND;TZID=America/Los_Angeles:20261007T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17749108@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Wednes\n\nday October 7\n2026\n\n7:30PM\n\ndoors\n\n-- music a
  t 8\n\n:00PM\n\n21 AND OVER\n\n$15\n\n$19.81 in advance [15 face value +4.
  81 service fee]\n\nThe Spiral Electric\n\nneo-psychedelic rock\n\nFake You
  r Own Death\n\n(record release)\n\npost punk\n\nSilent Pictures\n\npost-pu
- nk psychedelic rock shoegaze\n\n$15\n\nTickets: http://www.bottomofthehill
- .com/dice/event20261007.html\nDetails: https://dothebay.com/events/2026/10
- /7/the-spiral-electric-fake-your-own-death-silent-pictures-tickets\nSource
- : DoTheBay
+ nk psychedelic rock shoegaze\n\n$15\n\nDetails: https://dothebay.com/event
+ s/2026/10/7/the-spiral-electric-fake-your-own-death-silent-pictures-ticket
+ s\nSource: DoTheBay
 GEO:37.7649597;-122.3964408
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33988140/1e79ca98-b9b9-4178-bd41-ec7fce79526a.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Bottom Of The Hill\, 1233 17th Street\, San Francisco\, CA\, 9410
  7
 TRANSP:TRANSPARENT
@@ -1779,9 +1705,9 @@ BEGIN:VEVENT
 SUMMARY:Deer Tick
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17067317@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
  to show.\n\nDeer Tick VIP Pre-show Experience\n\n- One (1) General Admissi
@@ -1790,15 +1716,12 @@ DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior
  cially designed Deer Tick tote bag\n\n- Commemorative VIP laminate and lan
  yard\n\n- Merchandise shopping prior to doors opening to the public\n\n- E
  arly entry to the venue\n\n$120.02\, 21+\nAnother Planet Entertainment Pre
- sents\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
- dId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdeer-tick-the-inde
- pendent-tickets%2F14758773%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3D
- aff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705\nDetails: https://dothebay.
- com/events/2026/10/7/deer-tick-tickets\nSource: DoTheBay
+ sents\n\nDetails: https://dothebay.com/events/2026/10/7/deer-tick-tickets\
+ nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30755792/d41fb55c-fd45-472f-8689-57f9a4f63828.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -1808,22 +1731,19 @@ BEGIN:VEVENT
 SUMMARY:My Morning Jacket
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17138345@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:My Morning Jacket\nWednesday\, October 7 | The Fillmore\n\nOPE
  N DANCE FLOOR / STANDING ROOM ONLY\n\nDoors 7:00pm / Show 8:00pm\n\n7 magi
  cal nights with My Morning Jacket\, each with its own color of the rainbow
-  as its nightly theme!\n\nSold out\n\nTickets: https://ticketmaster.evyy.n
- et/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.
- com%2Fmy-morning-jacket-san-francisco-california-10-07-2026%2Fevent%2F1C00
- 64761A4B8034\nDetails: https://dothebay.com/events/2026/10/7/my-morning-ja
- cket-tickets\nSource: DoTheBay
+  as its nightly theme!\n\nSold out\n\nDetails: https://dothebay.com/events
+ /2026/10/7/my-morning-jacket-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31094095/b7afaad8-188a-4d83-a270-3cb5ecf1ff71.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/my-morning-jacket-tickets
@@ -1832,20 +1752,17 @@ BEGIN:VEVENT
 SUMMARY:French Police
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17429124@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:French Police\nwith Social Order\n\nWednesday\, October 7 | Au
- gust Hall\n\n$34.70\, All Ages\n\nTickets: https://ticketmaster.evyy.net/c
- /253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%
- 2Ffrench-police-san-francisco-california-10-07-2026%2Fevent%2F1C0064BCF017
- 19F9\nDetails: https://dothebay.com/events/2026/10/7/french-police-tickets
- \nSource: DoTheBay
+ gust Hall\n\n$34.70\, All Ages\n\nDetails: https://dothebay.com/events/202
+ 6/10/7/french-police-tickets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32457868/f8f02578-9139-4306-a19e-c1c66af8293d.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/french-police-tickets
@@ -1854,17 +1771,17 @@ BEGIN:VEVENT
 SUMMARY:BFF.FM presents KARAOKE @ The Make Out Room hosted by BFF.fm DJs
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17792731@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
- ebay.com/events/2026/10/7/bff-fm-presents-karaoke-the-make-out-room-hosted
- -by-bff-fm-djs-tickets\nSource: DoTheBay
+DESCRIPTION:Free\n\nDetails: https://dothebay.com/events/2026/10/7/bff-fm-
+ presents-karaoke-the-make-out-room-hosted-by-bff-fm-djs-tickets\nSource: D
+ oTheBay
 GEO:37.7552647;-122.4193588
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34194142/5d32f722-9d76-4d35-8ecf-d541f8ac5b9d.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/bff-fm-presents-karaoke-the-make
@@ -1874,19 +1791,16 @@ BEGIN:VEVENT
 SUMMARY:Rod Wave: Don't Look Down Tour
 DTSTART;TZID=America/Los_Angeles:20261007T203000
 DTEND;TZID=America/Los_Angeles:20261007T223000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17511113@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Rod Wave: Don't Look Down Tour\n\nTickets: https://ticketmaste
- r.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticke
- tmaster.com%2Frod-wave-dont-look-down-tour-san-francisco-california-10-07-
- 2026%2Fevent%2F1C0064D09CBD9C82\nDetails: https://dothebay.com/events/2026
- /10/7/rod-wave-don-t-look-down-tour-tickets\nSource: DoTheBay
+DESCRIPTION:Rod Wave: Don't Look Down Tour\n\nDetails: https://dothebay.co
+ m/events/2026/10/7/rod-wave-don-t-look-down-tour-tickets\nSource: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32854804/fa6768c1-36bc-49cb-9920-1681f98fa8e5.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/rod-wave-don-t-look-down-tour-ti

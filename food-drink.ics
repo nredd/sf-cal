@@ -40,41 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Astronomy on Tap SF
-DTSTART;TZID=America/Los_Angeles:20260930T190000
-DTEND;TZID=America/Los_Angeles:20260930T210000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638622@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Submitted by the Event OrganizerAstronomy on Tap is is a free 
- public lecture series where astronomers give short\, laid-back talks over 
- drinks at local bars. No background in science required — our scientists
-  share cool stuff about space while the audience sits back and relaxes\, w
- ith plenty of time to indulge their curiosity and ask whatever questions t
- hey want.\nThis month\, we’re hosting:\n\nJohn Franklin Crenshaw (Stanfo
- rd) – Before the Big Bang: Inflation and the Multiverse\nand\nSimon Stee
- l (SETI Institute) – How We (Almost) Discovered ET\nCrenshaw is a a Rubi
- n Postdoctoral Fellow at the Kavli Institute for Particle Astrophysics and
-  Cosmology (KIPAC) at Stanford University. Steel is Deputy Director of the
-  Carl Sagan Center for Research at the SETI Institute and Principal Invest
- igator of the NASA Community College Network.\nAstronomy on Tap takes plac
- e in cities all over the world. This is a revival of the San Francisco cha
- pter\, which regularly hosted events before the pandemic. We’re excited 
- to be back on a monthly basis!\nThe event is free\, but there is a 1 drink
-  minimum. Food (tacos) will be available with vegetarian options.\nIf you
- ’d like to join our mailing list to hear about future events\, sign up h
- ere.\n\nFree\n\nTickets: https://www.eventbrite.com/e/astronomy-on-tap-sf-
- september-2026-tickets-2002161505961\nDetails: https://sf.funcheap.com/ast
- ronomy-tap-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/aot-bl
- ue-sept.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Standard Deviant Brewing\, 280 14th St\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/astronomy-tap-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Future of Fashion Confrence
 DTSTART;TZID=America/Los_Angeles:20261001T180000
 DTEND;TZID=America/Los_Angeles:20261001T210000

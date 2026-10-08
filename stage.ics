@@ -733,9 +733,9 @@ BEGIN:VEVENT
 SUMMARY:Queen Budapest
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17829784@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:On July 27\, 1986\, Queen performed the largest-ever stadium c
  oncert at the Népstadion in Budapest in front of 80\,000 ecstatic fans.\n
@@ -750,15 +750,13 @@ DESCRIPTION:On July 27\, 1986\, Queen performed the largest-ever stadium c
   Hungarian authorities and film industry that a group of the country’s t
  op film cameramen and technicians were brought together to film it for pos
  terity.\n\nThis film can be used with loyalty cards or our 2026 annual Cin
- emaSF passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/19774
- ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
- s/2026/10/7/queen-budapest-tickets\nSource: DoTheBay\n\nAlso listed on:\n-
-  https://sf.funcheap.com/5-grand-lake-theater-movie-night-oakland-original
- s-live-qa/
+ emaSF passes\n\nDetails: https://dothebay.com/events/2026/10/7/queen-budap
+ est-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
+ m/5-grand-lake-theater-movie-night-oakland-originals-live-qa/
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34363032/824467cd-09f2-4e6f-9d71-d6009f243f17.jpg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/queen-budapest-tickets
@@ -802,9 +800,9 @@ BEGIN:VEVENT
 SUMMARY:Love Massacre
 DTSTART;TZID=America/Los_Angeles:20261007T193000
 DTEND;TZID=America/Los_Angeles:20261007T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17873055@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:HI NRG presents:\n\nLOVE MASSACRE\n\nSet in a surprisingly min
  imalist San Francisco\, Patrick Tam’s stylish slasher movie manages to e
@@ -813,13 +811,12 @@ DESCRIPTION:HI NRG presents:\n\nLOVE MASSACRE\n\nSet in a surprisingly min
  ed stalker after the suicide of his sister.\n\nFor our Annual Pass Members
   and Loyalty Card Holders:\n\nTickets for this film can be acquired in-per
  son at the Box Office with loyalty cards or our Annual CinemaSF passes.\n\
- nHI NRG curated DJ SET at 7:00 PM | FILM at 7:30 PM\n\nTickets: https://ti
- cketing.uswest.veezi.com/purchase/19979?siteToken=d2atbcege5knqsavntt91g12
- 50\nDetails: https://dothebay.com/events/2026/10/7/love-massacre-tickets-d
- 0qvjqk\nSource: DoTheBay
+ nHI NRG curated DJ SET at 7:00 PM | FILM at 7:30 PM\n\nDetails: https://do
+ thebay.com/events/2026/10/7/love-massacre-tickets-d0qvjqk\nSource: DoTheBa
+ y
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34570114/48775575-763b-408c-afaa-cb4122ee8c51.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/love-massacre-tickets-d0qvjqk
@@ -828,22 +825,21 @@ BEGIN:VEVENT
 SUMMARY:Sf Party
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17923752@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Dance
 DESCRIPTION:GOTH NITE RETURNS OCTOBER 26 NYC & OCTOBER 28 SF\n\n$20 Single
   Ticket\n\nParty Pass — 5-pack & 10-pack discounts available\n\nClass Se
  ries Set: 8 PM\n\nLine Dance Lessons: 8:30 & 10:00 PM\n\nOpen floor reques
  ts all night\n\nGet Ready\n\nDress to dance — wear leather-soled shoes o
  r sneakers\n\nNo partner needed — come as you are!\n\n21+\n\nPhoto: Andy
-  Antezana Careaga\n\n$20\, 21+\n\nTickets: https://www.scuff.us/performanc
- es/atpkb22d\nDetails: https://dothebay.com/events/2026/10/7/sf-party-ticke
- ts\nSource: DoTheBay
+  Antezana Careaga\n\n$20\, 21+\n\nDetails: https://dothebay.com/events/202
+ 6/10/7/sf-party-tickets\nSource: DoTheBay
 GEO:37.7634058;-122.4079386
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34802993/33769ce6-a380-4cd9-967b-b7cbad147a4a.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Verdi Club\, 2424 Mariposa Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/sf-party-tickets
@@ -1153,6 +1149,31 @@ LAST-MODIFIED:20261006T062917Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/9/the-faculty-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Fridays: Salsa & Bachata Dancing + Dance Lessons in San Fran
+ cisco
+DTSTART;TZID=America/Los_Angeles:20261009T194500
+DTEND;TZID=America/Los_Angeles:20261009T214500
+DTSTAMP:20261008T104232Z
+UID:dothebay-17934401@sf-cal
+SEQUENCE:0
+CATEGORIES:Dance
+DESCRIPTION:21+ with valid ID. Lessons included. $16.74 Customer Appreciat
+ ion\; $21.99 Early Bird\; $32.90 Early Bird 2-for-1 (two guests must arriv
+ e together)\; $25 at the door. Online prices include fees. Credit card onl
+ y. Doors 7:45 PM\; beginner Bachata 8 PM\, beginne\nDance Fridays\nListed 
+ time is doors\n\nTickets: https://dancefridays10-9-26.eventbrite.com\nDeta
+ ils: https://dothebay.com/events/2026/10/9/dance-fridays-salsa-bachata-dan
+ cing-dance-lessons-in-san-francisco-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34857010/bdc38e0c-48d5-4042-832d-3fa483793ecd.jpg
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Dance Fridays and Saturdays - Space 550\, 550 Barneveld Ave #1804
+ \, San Francisco\, CA\, 94124
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/9/dance-fridays-salsa-bachata-danc
+ ing-dance-lessons-in-san-francisco-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Towhead\, imy3\, Mox
@@ -5765,18 +5786,20 @@ BEGIN:VEVENT
 SUMMARY:Brian Copeland in 'Not a Genuine Black Man'
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17870181@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:$20 to $47\nCalifornia Historical Radio Society\n\nTickets: ht
  tps://www.cityboxoffice.com/eventperformances.asp?evt=3341\nDetails: https
  ://dothebay.com/events/2026/11/21/brian-copeland-in-not-a-genuine-black-ma
- n-tickets\nSource: DoTheBay
+ n-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://go.evvnt.com/384
+ 9568-0?pid=12352&utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
+ rancisco-ca
 GEO:37.788844;-122.410475
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34554887/c8b4049b-0d7e-4b16-aafa-838235fd878f.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Marines' Memorial Theatre\, 609 Sutter Street\, San Francisco\, C
  A\, 94102
 TRANSP:TRANSPARENT

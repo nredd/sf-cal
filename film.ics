@@ -518,9 +518,9 @@ BEGIN:VEVENT
 SUMMARY:Zoé Presents: Memorex + Rexsexex y Más
 DTSTART;TZID=America/Los_Angeles:20261007T180000
 DTEND;TZID=America/Los_Angeles:20261007T200000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17772766@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:6 GNP Stadiums in Mexico City. Over 380\,000 souls. What happe
  ned across those six nights was far\n\nmore than an unprecedented record f
@@ -532,13 +532,12 @@ DESCRIPTION:6 GNP Stadiums in Mexico City. Over 380\,000 souls. What happe
  \n\nRuntime\n\n3h 2m\n\nYear\n\n2026\n\nDirector\n\nRodrigo Guardiola\n\nF
  ormat\n\nDCP\n\nCountry\n\nMexico\n\nLanguage\n\nSpanish with English Subt
  itles\n\nFirst Showing\n\nOctober 7\, 2026\n\nCategories\n\nRoxCine\n\n\,\
- n\nFeatured\n\nTickets: https://ticketing.uswest.veezi.com/purchase/21946?
- siteToken=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events
- /2026/10/7/zoe-presents-memorex-rexsexex-y-mas-tickets\nSource: DoTheBay
+ n\nFeatured\n\nDetails: https://dothebay.com/events/2026/10/7/zoe-presents
+ -memorex-rexsexex-y-mas-tickets\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34095069/e67d3e6d-6146-4547-be61-71b1252089ad.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/zoe-presents-memorex-rexsexex-y-
@@ -548,9 +547,9 @@ BEGIN:VEVENT
 SUMMARY:Ghost in the Cell
 DTSTART;TZID=America/Los_Angeles:20261007T191500
 DTEND;TZID=America/Los_Angeles:20261007T211500
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17924103@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Director Joko Anwar plunges viewers into a high-security priso
  n ruled by feuding gangs and a tyrannical warden. The arrival of a new inm
@@ -558,13 +557,12 @@ DESCRIPTION:Director Joko Anwar plunges viewers into a high-security priso
  ms on morbid display. The hapless inmates trapped in the prison must overc
  ome their rivalries to unmask an invisible\, otherworldly enemy. No one is
   safe as the cells cage in the horrors and a ghost roams the prison with m
- urderous intent.\n\nTickets: https://drafthouse.com/sf/show/ghost-in-the-c
- ell?cinemaId=0802&sessionId=21336\nDetails: https://dothebay.com/events/20
- 26/10/7/ghost-in-the-cell-tickets\nSource: DoTheBay
+ urderous intent.\n\nDetails: https://dothebay.com/events/2026/10/7/ghost-i
+ n-the-cell-tickets\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34804735/0d9346c8-4417-473c-ab3c-dbbcec6ac879.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT
@@ -574,20 +572,19 @@ BEGIN:VEVENT
 SUMMARY:Love Massacre
 DTSTART;TZID=America/Los_Angeles:20261007T193000
 DTEND;TZID=America/Los_Angeles:20261007T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17872296@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Set in a surprisingly minimalist San Francisco\, Patrick Tams 
  stylish slasher movie manages to evoke both Antonioni and Mario Bava in th
  is tale of a ravishing young co-ed (Brigitte Lin) whose studly boyfriend (
  Chang Kuo-chu) turns into a demented stalker after the suicide of his sist
- er.\n\nTickets: https://ticketing.uswest.veezi.com/purchase/19979?siteToke
- n=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay.com/events/2026/10
- /7/love-massacre-tickets\nSource: DoTheBay
+ er.\n\nDetails: https://dothebay.com/events/2026/10/7/love-massacre-ticket
+ s\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34566172/88f2b665-c8c3-4eea-9689-2457b1f02779.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
@@ -2226,6 +2223,34 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:SPARK Social SF\, 601 Mission Bay Blvd\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/mission-bay-harvest-festival-spark-social-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forbidden Forest: A Harry Potter Party (Mayes Oyster House)
+DTSTART;TZID=America/Los_Angeles:20261017T213000
+DTEND;TZID=America/Los_Angeles:20261018T003000
+DTSTAMP:20261008T104232Z
+UID:funcheap-1641587@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Ourself⚡️🪄 Expelliarmus\, witches! 🪄⚡️\nPut on t
+ he sorting hat \, grab your wands 🪄\, and get ready for a night of misc
+ hief We’re throwing a huge Harry Potter themed party in SF 🧙‍♂️
+ \nYer an alcoholic\, Harry 🥃 Come get Siriusly turnt 🤪 and go Dumb(l
+ edore) on the dance floor to music all night. It’ll be a night worthy of
+  the Daily Prophet\n\nHagrid will be checking names at the door 🧔‍♂
+ ️\, so keep an eye out for the secret password\nDress code: Wizards\, wi
+ tches\, Hogwarts houses\, and anything magical ✨ Costumes highly encoura
+ ged.\nMusic: Hip-hop / Reggaeton / Party anthems\n21+ only\n️ Free with 
+ RSVP\nNo Muggles allowed ‍♂️\n\nFree\n\nTickets: https://partiful.co
+ m/e/n7EHGdgNVXV2ZlMRWtlR\nDetails: https://sf.funcheap.com/forbidden-fores
+ t-harry-potter-party-mayes-oyster-house/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Codex-
+ Image-Sep-20-2026-12_54_24-AM.png
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Mayes Oyster House\, 1233 Polk St. San Francisco\, CA 94154
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/forbidden-forest-harry-potter-party-mayes-oyst
+ er-house/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carter Country

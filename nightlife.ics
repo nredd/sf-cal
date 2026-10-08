@@ -40,63 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
-DTSTART;TZID=America/Los_Angeles:20260930T163000
-DTEND;TZID=America/Los_Angeles:20260930T220000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634900@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:Submitted by the Event Organizer$1 Wing Wednesdays at Underdog
- s Cantina (SoMa)Join us for Wing Wednesdays at Underdogs Cantina with $1 W
- ings from 4:30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm 
- to Close\nUnderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFR
- EE (No Cover)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6p
- m\n\nMarch 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\
- nUpcoming $1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/7 
- $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 10/14 $1 Wing Wednesdays
-  at Underdogs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underdogs Cant
- ina (SoMa)Wed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaim
- er: Please double check event information with the event organizer as even
- ts can be canceled\, details can change after they are added to our calend
- ar\, and errors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/c
- c/1-wing-wednesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wedne
- sdays-at-underdogs-cantina-soma-66/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
- __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-66
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 East Meets West: Free Japanese Metal + Cosplay Party
-DTSTART;TZID=America/Los_Angeles:20260930T200000
-DTEND;TZID=America/Los_Angeles:20261001T020000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1636843@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:Submitted by the Event OrganizerEast Meets West is BACK for th
- e only event in 2026! Another dose of Japanese Heavy Metal Music Videos\, 
- Cosplay\, Vendors featuring Japanese anime vinyl and kawaii items\, comics
- \, manga and more. Plus our infamous pimped out custom instant ramen! Oh a
- nd did I mention $3 Jell-O Shots?\nCome join us for METAL MADNESS!!!! Oh a
- nd the event is FREE!!!!\n\nWe will also be giving away some free gifts th
- roughout the night.\n\nFree\n\nTickets: https://www.eventbrite.com/e/east-
- meets-west-tickets-2000691172153?aff=oddtdtcreator\nDetails: https://sf.fu
- ncheap.com/2026-east-meets-west-free-japanese-metal-cosplay-party-sf/\nSou
- rce: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/EAST.j
- pg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Delirium\, 3139 16th St\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/2026-east-meets-west-free-japanese-metal-cospl
- ay-party-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Queer Art Exhibition (SF Disability Cultural Center)
 DTSTART;TZID=America/Los_Angeles:20261001T170000
 DTEND;TZID=America/Los_Angeles:20261001T180000
@@ -539,20 +482,19 @@ BEGIN:VEVENT
 SUMMARY:TransLife Galaxy Mental Health Series
 DTSTART;TZID=America/Los_Angeles:20261007T130000
 DTEND;TZID=America/Los_Angeles:20261007T150000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17551148@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:Community-based mental health facilitators share coping skills
   and trauma resiliency techniques that help develop life-rebuilding practi
  ces. This group is designed for transgender\, gender non-conforming\, non-
  binary\, and other TGNCI+ community members.\n\nTo attend\, please email a
- stephens@sfaf.org.\n\nTickets: https://www.sfaf.org/event/translife-galaxy
- -mental-health-series-2/2026-10-07/\nDetails: https://dothebay.com/events/
- 2026/10/7/translife-galaxy-mental-health-series-tickets\nSource: DoTheBay
+ stephens@sfaf.org.\n\nDetails: https://dothebay.com/events/2026/10/7/trans
+ life-galaxy-mental-health-series-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33050798/dcf24520-19e0-4336-9338-7812634a3703.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/translife-galaxy-mental-health-s
@@ -562,21 +504,21 @@ BEGIN:VEVENT
 SUMMARY:Transformaciones
 DTSTART;TZID=America/Los_Angeles:20261007T150000
 DTEND;TZID=America/Los_Angeles:20261007T170000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17551152@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:Grupo de Apoyo para TGNCI (Transgénero\, Género No Conforme\
  , No Binario e Intersex) Latine inmigrantes\n\nEL GRUPO SE FACILITA EN ESP
  AÑOL Con Dr. Silvia Sandoval\n\nEl 1er y 3er Miércoles\n\n3:00 a 5:00pm\
  n\n940 Howard St.\n\nSe servira una comida\n\nPara más información: ista
  iti@sfaf.org | 415-738-3544\n\nMade possible through funding by ViiV Healt
- hcare\, Gilead Sciences\, and Elizabeth Taylor AIDS Foundation\n\nTickets:
-  https://www.sfaf.org/event/transformaciones/2026-10-07/\nDetails: https:/
- /dothebay.com/events/2026/10/7/transformaciones-tickets\nSource: DoTheBay
+ hcare\, Gilead Sciences\, and Elizabeth Taylor AIDS Foundation\n\nDetails:
+  https://dothebay.com/events/2026/10/7/transformaciones-tickets\nSource: D
+ oTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33050799/63cf2c2f-6f24-45ce-98c9-68a7974c2505.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/transformaciones-tickets
@@ -616,23 +558,21 @@ BEGIN:VEVENT
 SUMMARY:Bark-Cade
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T190000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17425482@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Have you been craving a casual weeknight hangout with friends\
  , gear optional\, where you can sprawl out on the mats\, play some video g
  ames\, or curl up under blankets with popcorn and cartoons? Then come chec
  k out BarkCade at Lone Star Saloon. Think of it as a low-effort\, low-inte
  nsity midweek reset.\n\nMark your calendars and hope to see you at BarkCad
- e from 5-9 PM. No cover\, come hang out and play\n\nFree\n\nTickets: https
- ://www.lonestarsf.com/new-events-1/2026/6/3/bark-cade-sklkp-9zcah\nDetails
- : https://dothebay.com/events/2026/10/7/bark-cade-tickets\nSource: DoTheBa
- y
+ e from 5-9 PM. No cover\, come hang out and play\n\nFree\n\nDetails: https
+ ://dothebay.com/events/2026/10/7/bark-cade-tickets\nSource: DoTheBay
 GEO:37.77216749999999;-122.4108778
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32438742/90993df0-685b-4539-a53c-4df66cec1b72.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
  103
 TRANSP:TRANSPARENT
@@ -699,9 +639,9 @@ SUMMARY:Takeover Wednesdays: Industry Night - DJ Chicken Skratch - Wednesd
  ay\, October 7\, 2026
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17818910@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:We're happy to welcome DJ\n\nChicken Skratch back to Cigar Bar
  \nfor a Takeover Wednesdays patio set.\nSet in Cigar Bar's open-air courty
@@ -712,13 +652,13 @@ DESCRIPTION:We're happy to welcome DJ\n\nChicken Skratch back to Cigar Bar
  ng.\n\nHappy Hour drink specials!\n\nCourtyard atmosphere.\n\nEclectic gro
  oves.\n\nNo cover | 21+\nTime: 7:00-10:00 PM.\n\nLocation: 850 Montgomery 
  St.\, San Francisco.\n\nMust be 21+\n\nFree\nCigar Bar & Grill PRESENTS:\n
- \nTickets: https://www.cigarbarandgrill.com/index.php/entertainment\nDetai
- ls: https://dothebay.com/events/2026/10/7/takeover-wednesdays-industry-nig
- ht-dj-chickenscratch-wednesday-october-7-2026-tickets\nSource: DoTheBay
+ \nDetails: https://dothebay.com/events/2026/10/7/takeover-wednesdays-indus
+ try-night-dj-chickenscratch-wednesday-october-7-2026-tickets\nSource: DoTh
+ eBay
 GEO:37.79715729999999;-122.4034061
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34310370/e30a6e9d-17bf-4f58-8461-9362b95b926e.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Cigar Bar & Grill\, 850 Montgomery St.\, San Francisco\, CA\, 941
  33
 TRANSP:TRANSPARENT
@@ -729,9 +669,9 @@ BEGIN:VEVENT
 SUMMARY:Play X Land
 DTSTART;TZID=America/Los_Angeles:20261007T210000
 DTEND;TZID=America/Los_Angeles:20261007T230000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17699156@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night 
  hosted by Cat Club in partnership with the Leather Alliance in San Francis
@@ -746,13 +686,12 @@ DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night
  e for all events at Cat Club and this event is no exception. DO NOT TOUCH 
  ANY INDIVIDUAL WITHOUT OBTAINING CONSENT. Consent means an ENTHUSIASTIC YE
  S.Whatever it is\, the way you tell your story online can make all the dif
- ference.\n\n$10\n\nTickets: https://www.sfcatclub.com/calendar/sgzbsw3ltzj
- ngjx-8yj6x-hzsr2-8tx5a-bh2wx-jppm3-d23d2-rg96m\nDetails: https://dothebay.
- com/events/2026/10/7/play-x-land-tickets\nSource: DoTheBay
+ ference.\n\n$10\n\nDetails: https://dothebay.com/events/2026/10/7/play-x-l
+ and-tickets\nSource: DoTheBay
 GEO:37.77541739999999;-122.409985
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33742823/55487b79-2d55-4458-a349-be3a02ad51bf.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/7/play-x-land-tickets
@@ -2212,9 +2151,9 @@ BEGIN:VEVENT
 SUMMARY:Market Street Arts & Theater Festival
 DTSTART;TZID=America/Los_Angeles:20261017T160000
 DTEND;TZID=America/Los_Angeles:20261017T180000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17926584@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:DJ/Parties
 DESCRIPTION:A one-night-only live arts and theater experience that celebra
  tes the deep history of entertainment culture on Market Street.\n\n104 par
@@ -2241,11 +2180,12 @@ DESCRIPTION:A one-night-only live arts and theater experience that celebra
  https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fmarket-street-arts-theater-festival
  -tickets-2000659569629%3Faff%3Doddtdtcreator\nDetails: https://dothebay.co
  m/events/2026/10/17/market-street-arts-theater-festival-tickets\nSource: D
- oTheBay\n\nAlso listed on:\n- https://sfciviccenter.org/event/market-stree
- t-arts-theater-festival/
+ oTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/onenight-market-stre
+ et-arts-theater-festival-50-experiences-sf/\n- https://sfciviccenter.org/e
+ vent/market-street-arts-theater-festival/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34819206/4543344f-234a-4c0c-813d-23a7a1984f38.jpg
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Market St & 5th St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/market-street-arts-theater-fest
@@ -4278,6 +4218,40 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/4/transformaciones-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261104T163000
+DTEND;TZID=America/Los_Angeles:20261104T220000
+DTSTAMP:20261008T104232Z
+UID:funcheap-1641657@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/14 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 11/4 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 11/11 $1 Wing W
+ ednesdays at Underdogs Cantina (SoMa)Wed 11/18 $1 Wing Wednesdays at Under
+ dogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underdogs Cantina (SoMa
+ )Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please
+  double check event information with the event organizer as events can be 
+ canceled\, details can change after they are added to our calendar\, and e
+ rrors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-w
+ ednesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-u
+ nderdogs-cantina-soma-71/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-71
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bark-Cade
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T190000
@@ -4777,6 +4751,40 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/11/translife-drop-in-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261111T163000
+DTEND;TZID=America/Los_Angeles:20261111T220000
+DTSTAMP:20261008T104232Z
+UID:funcheap-1641659@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/14 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 11/4 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 11/11 $1 Wing W
+ ednesdays at Underdogs Cantina (SoMa)Wed 11/18 $1 Wing Wednesdays at Under
+ dogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underdogs Cantina (SoMa
+ )Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please
+  double check event information with the event organizer as events can be 
+ canceled\, details can change after they are added to our calendar\, and e
+ rrors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-w
+ ednesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-u
+ nderdogs-cantina-soma-72/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-72
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Play X Land
 DTSTART;TZID=America/Los_Angeles:20261111T210000
 DTEND;TZID=America/Los_Angeles:20261111T230000
@@ -5231,6 +5239,40 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/18/transformaciones-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261118T163000
+DTEND;TZID=America/Los_Angeles:20261118T220000
+DTSTAMP:20261008T104232Z
+UID:funcheap-1641661@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/14 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 11/4 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 11/11 $1 Wing W
+ ednesdays at Underdogs Cantina (SoMa)Wed 11/18 $1 Wing Wednesdays at Under
+ dogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underdogs Cantina (SoMa
+ )Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please
+  double check event information with the event organizer as events can be 
+ canceled\, details can change after they are added to our calendar\, and e
+ rrors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-w
+ ednesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-u
+ nderdogs-cantina-soma-73/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-73
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Play X Land
 DTSTART;TZID=America/Los_Angeles:20261118T210000
 DTEND;TZID=America/Los_Angeles:20261118T230000
@@ -5647,6 +5689,40 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/25/translife-drop-in-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261125T163000
+DTEND;TZID=America/Los_Angeles:20261125T220000
+DTSTAMP:20261008T104232Z
+UID:funcheap-1641663@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/14 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 11/4 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 11/11 $1 Wing W
+ ednesdays at Underdogs Cantina (SoMa)Wed 11/18 $1 Wing Wednesdays at Under
+ dogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underdogs Cantina (SoMa
+ )Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please
+  double check event information with the event organizer as events can be 
+ canceled\, details can change after they are added to our calendar\, and e
+ rrors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-w
+ ednesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-u
+ nderdogs-cantina-soma-74/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-74
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Play X Land
 DTSTART;TZID=America/Los_Angeles:20261125T210000
 DTEND;TZID=America/Los_Angeles:20261125T230000
@@ -5959,6 +6035,40 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/2/transformaciones-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261202T163000
+DTEND;TZID=America/Los_Angeles:20261202T220000
+DTSTAMP:20261008T104232Z
+UID:funcheap-1641665@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/14 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 11/4 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 11/11 $1 Wing W
+ ednesdays at Underdogs Cantina (SoMa)Wed 11/18 $1 Wing Wednesdays at Under
+ dogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underdogs Cantina (SoMa
+ )Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please
+  double check event information with the event organizer as events can be 
+ canceled\, details can change after they are added to our calendar\, and e
+ rrors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-w
+ ednesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-u
+ nderdogs-cantina-soma-75/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-75
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bark-Cade
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T190000
@@ -6213,6 +6323,33 @@ LOCATION:Madrone Art Bar\, 500 Divisadero Street\, San Francisco\, CA 9411
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-prince-vs-michael-jackson-dj-party-nopa-61
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Holiday Craft Fair: Handmade Gifts + Free Hot Cider
+DTSTART;TZID=America/Los_Angeles:20261213T110000
+DTEND;TZID=America/Los_Angeles:20261213T160000
+DTSTAMP:20261008T104232Z
+UID:funcheap-1641580@sf-cal
+SEQUENCE:0
+CATEGORIES:Lgbtq
+DESCRIPTION:HMPCHarvey Milk Center for the Arts is proud to host its 9th a
+ nnual Holiday Craft Fair on Sunday\, December 13th\, 2026. The event will 
+ include numerous local artists offering their unique handmade holiday gift
+ s for sale to the public. Our destination art center will also host family
+  friendly craft activities for all ages and fun/free photo booth opportuni
+ ties. Stop by Harvey Milk to find hand-crafted one-of-a-kind gifts for fri
+ ends and families\, to go with free hot apple cider!\nharveymilkphotocente
+ r.org\n\nFree\n\nTickets: https://www.harveymilkphotocenter.org/events/hol
+ iday-craft-fair-3/\nDetails: https://sf.funcheap.com/2026-holiday-craft-fa
+ ir-handmade-gifts-free-hot-cider-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/hmca-c
+ raft-fair-2026-IG-1080x1080-2.jpg
+LAST-MODIFIED:20261008T104232Z
+LOCATION:Harvey Milk Center for the Arts\, 50 Scott St.\, San Francisco\, 
+ CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/2026-holiday-craft-fair-handmade-gifts-free-ho
+ t-cider-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Prince vs. Michael Jackson DJ Party (NoPa)

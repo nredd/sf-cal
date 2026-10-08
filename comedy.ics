@@ -40,26 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:“Microfone” App Launch Party at 111 Minna Gallery
-DTSTART;TZID=America/Los_Angeles:20260930T170000
-DTEND;TZID=America/Los_Angeles:20260930T200000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1637396@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Submitted by the Event OrganizerYour next favorite app is laun
- ching…come celebrate with us! There will be live music\, standup comedy\
- , custom Microfone cocktails\, and lots of dancing. Invite your friends!\n
- \nFree\n\nTickets: https://partiful.com/e/fWNuErHZluiPflmOOnPP?\nDetails: 
- https://sf.funcheap.com/microfone-app-launch-party-111-minna-gallery-sf/\n
- Source: Funcheap SF
-LAST-MODIFIED:20261006T001646Z
-LOCATION:111 Minna Gallery\, 111 Minna St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/microfone-app-launch-party-111-minna-gallery-s
- f/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coit Comedy
 DTSTART;TZID=America/Los_Angeles:20261001T200000
 DTEND;TZID=America/Los_Angeles:20261001T220000
@@ -633,21 +613,19 @@ BEGIN:VEVENT
 SUMMARY:Cobb's Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261007T193000
 DTEND;TZID=America/Los_Angeles:20261007T213000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17752164@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Cobb's Comedy Showcase\nWednesday\, October 7 | ​​Cobb's C
- omedy Club\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/26416
- 7/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcobbs-comed
- y-showcase-san-francisco-california-10-07-2026%2Fevent%2F1C0065119A299FBC\
- nDetails: https://dothebay.com/events/2026/10/7/cobb-s-comedy-showcase-tic
- kets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/secre
- t-guest-list-cobbs-free-comedy-nights-cobbs-comedy-showcase-3/
+ omedy Club\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/7/cobb-s
+ -comedy-showcase-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://s
+ f.funcheap.com/secret-guest-list-cobbs-free-comedy-nights-cobbs-comedy-sho
+ wcase-3/
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33998789/87611858-c13d-4558-89de-373bf2f62ba1.png
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -657,21 +635,17 @@ BEGIN:VEVENT
 SUMMARY:Ray Lau
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261008T104232Z
 UID:dothebay-17642637@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ray Lau\nOctober 7–10 | ​Punch Line San Francisco\n\n18+\n
- Sold out\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sh
- aredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fray-lau-san-francisc
- o-california-10-07-2026%2Fevent%2F1C0064864F2388F1%3F_gl%3D1%2A1r2scft%2A_
- ga%2AMjEwMjM0ODgwNi4xNzc5NDk1NTg0%2A_ga_C1T806G4DF%2AczE3ODQ4MzUyNTMkbzgkZ
- zAkdDE3ODQ4MzUyNTMkajYwJGwwJGgw\nDetails: https://dothebay.com/events/2026
- /10/7/ray-lau-tickets\nSource: DoTheBay
+ Sold out\n\nDetails: https://dothebay.com/events/2026/10/7/ray-lau-tickets
+ \nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33481035/2be2134d-0e36-4e28-adf3-7cfd12093cd5.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261008T104232Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -8413,6 +8387,34 @@ LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/6/matt-rogers-this-time-it-s-reall
  y-christmas-tour-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Hubba
+DTSTART;TZID=America/Los_Angeles:20261207T200000
+DTEND;TZID=America/Los_Angeles:20261207T220000
+DTSTAMP:20261008T104232Z
+UID:caldiscovery-comedy-a87e8cb387aa4cf9@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,theater
+DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
+ BA...\n\nMonday Night Hubba is the perfect way to start your week sexy: wi
+ th cocktails\, tease\, comedy and a more intimate experience than Hubba's 
+ big monthly extravaganzas! Each Monday night is a fun-filled\, shimmering 
+ showcase of local\, national and international burlesque and variety talen
+ t -- and a chance to see the most dazzling debuts before they hit it big!\
+ n\nBuy tickets: https://www.dnalounge.com/calendar/2026/12-07d.html\n\nWat
+ ch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCiLZYFLf7
+ 8\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:30pm.\n18+ with ID.\n\nGen
+ . Adm.: $10 advance\;\n$15 door\;\nReserved Seating: $15 advance\;\n$20 do
+ or.\n\nPublished by DNA Lounge\nContains information from CalDiscovery (ca
+ ldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/calendar/
+ 2026/12-07d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
+ rancisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261008T104232Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2026/12-07d.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF

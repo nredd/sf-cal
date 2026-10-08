@@ -2682,4 +2682,22 @@ LOCATION:Alma St between Shrader St and Cole St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jane Warner Plaza 4 Events
+DTSTART;TZID=America/Los_Angeles:20261207T163000
+DTEND;TZID=America/Los_Angeles:20261207T190000
+DTSTAMP:20261008T104232Z
+UID:sf-street-events-1479162-2026-12-07T16:30:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 17th St from Hartford St to Market St\n\nPermit status
+ : Permitted\nTimes are SFMTA street-closure permit times and include setup
+  and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:
+ //data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.762611;-122.434625
+LAST-MODIFIED:20261008T104232Z
+LOCATION:17th St between Hartford St and Castro St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR
