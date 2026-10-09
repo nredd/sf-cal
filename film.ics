@@ -4126,6 +4126,26 @@ URL:https://dothebay.com/events/2026/11/1/new-people-the-gymnasts-of-fishe
  rman-colony-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Film: Kikuyu Land
+DTSTART;TZID=America/Los_Angeles:20261101T140000
+DTEND;TZID=America/Los_Angeles:20261101T160000
+DTSTAMP:20261009T182357Z
+UID:dothebay-17937699@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Free\nSan Francisco Public Library\, African American Center P
+ resents:\n\nTickets: https://sfpl.org/events/2026/11/01/film-kikuyu-land\n
+ Details: https://dothebay.com/events/2026/11/1/film-kikuyu-land-tickets\nS
+ ource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34873376/368c8f2e-5010-45e2-be42-8784733a9232.jpg
+LAST-MODIFIED:20261009T182357Z
+LOCATION:Koret Auditorium\, San Francisco Main Library\, 100 Larkin St\, S
+ an Francisco\, CA 94102\, SAN FRANCISCO\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/1/film-kikuyu-land-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Labyrinth
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T210000
@@ -5019,6 +5039,36 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/22/pearl-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Bola Negra
+DTSTART;TZID=America/Los_Angeles:20261123T183000
+DTEND;TZID=America/Los_Angeles:20261123T203000
+DTSTAMP:20261009T182357Z
+UID:dothebay-17931354@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment presents\nLa Bola Negra\nMonday\,
+  November 23 | ​The Castro\n\nFrom Cannes-winning directors Javier Calvo
+  and Javier Ambrossi — popularly known as Los Javis — La Bola Negra fo
+ llows three generations of men across pivotal moments in Spanish history\,
+  bound by pain\, desire\, and love. Carlos (Milo Quifes) longs to belong i
+ n a fractured Spain. Sebastián (Guitarricadelafuente) finds connection ac
+ ross enemy lines. And Alberto (Carlos González) uncovers a long-buried fa
+ mily secret — one that finally gives voice to truths the past tried to e
+ rase.\n\nDestined to become a classic of LGBTQ cinema\, La Bola Negra is a
+  must-see cinematic event. Don’t miss your chance to experience it at Th
+ e Castro Theatre!\n\nRated R\nAnother Planet Entertainment presents\nListe
+ d time is doors\n\nTickets: https://thecastro.com/events/la-bola-negra-261
+ 123\nDetails: https://dothebay.com/events/2026/11/23/la-bola-negra-tickets
+ \nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34841714/d0d73658-8494-478d-bcee-f9e98f292697.jpg
+LAST-MODIFIED:20261009T182357Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/23/la-bola-negra-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tim Burton's The Nightmare Before Christmas
 DTSTART;TZID=America/Los_Angeles:20261124T193000
 DTEND;TZID=America/Los_Angeles:20261124T213000
@@ -5133,9 +5183,9 @@ BEGIN:VEVENT
 SUMMARY:Cameron Winter at Carnegie Hall
 DTSTART;TZID=America/Los_Angeles:20261202T183000
 DTEND;TZID=America/Los_Angeles:20261202T203000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261009T182357Z
 UID:dothebay-17766983@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Another Planet Entertainment presents\n\nA Janus Films and Cri
  terion Release\nCameron Winter at Carnegie Hall\nDirected by Paul Thomas A
@@ -5152,15 +5202,15 @@ DESCRIPTION:Another Planet Entertainment presents\n\nA Janus Films and Cri
  r’s solo album Heavy Metal was named one of the best of the year by Pitc
  hfork\, Rolling Stone\, Paste and Mojo and Geese’s last record Getting K
  illed was named the best album of 2025 by The New Yorker\, NME\, and Stere
- ogum.\n\nAll Ages\nAnother Planet Entertainment presents\nListed time is d
- oors\n\nTickets: https://thecastro.com/events/cameron-winter-at-carnegie-h
- all-261202\nDetails: https://dothebay.com/events/2026/12/2/cameron-winter-
- at-carnegie-hall-directed-by-paul-thomas-anderson-presented-in-35mm-ticket
- s\nSource: DoTheBay
+ ogum.\n\nAll Ages\nSold out\nAnother Planet Entertainment presents\nListed
+  time is doors\n\nTickets: https://thecastro.com/events/cameron-winter-at-
+ carnegie-hall-261202\nDetails: https://dothebay.com/events/2026/12/2/camer
+ on-winter-at-carnegie-hall-directed-by-paul-thomas-anderson-presented-in-3
+ 5mm-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34068980/06f9f1ed-6e82-4539-b3fd-8b70e1e0ac2b.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261009T182357Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/2/cameron-winter-at-carnegie-hall-
@@ -5266,9 +5316,9 @@ BEGIN:VEVENT
 SUMMARY:Circle Jerks x Repo Man
 DTSTART;TZID=America/Los_Angeles:20261206T180000
 DTEND;TZID=America/Los_Angeles:20261206T200000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261009T182357Z
 UID:dothebay-17873793@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Another Planet Entertainment presents\nCircle Jerks x Repo Man
  \n\nSunday\, December 6 | The Castro\n\nCircle Jerks formed in Los Angeles
@@ -5283,14 +5333,14 @@ DESCRIPTION:Another Planet Entertainment presents\nCircle Jerks x Repo Man
  ght will start with a Circle Jerks set\, followed by a Q&A with director A
  lex Cox\, Keith Morris\, and Zander Schloss (Kevin the Nerd and Circle Jer
  ks bassist)\, then a screening of the cult classic Repo Man.\n\nAll Ages\n
- Another Planet Entertainment presents\nListed time is doors\n\nTickets: ht
- tps://thecastro.com/events/circle-jerks-x-repo-man-261206\nDetails: https:
- //dothebay.com/events/2026/12/6/circle-jerks-x-repo-man-tickets\nSource: D
- oTheBay
+ Sold out\nAnother Planet Entertainment presents\nListed time is doors\n\nT
+ ickets: https://thecastro.com/events/circle-jerks-x-repo-man-261206\nDetai
+ ls: https://dothebay.com/events/2026/12/6/circle-jerks-x-repo-man-tickets\
+ nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34573890/2650a6ef-7865-448c-b401-ddb0142f4e91.png
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261009T182357Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/6/circle-jerks-x-repo-man-tickets

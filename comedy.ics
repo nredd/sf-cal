@@ -8198,24 +8198,24 @@ BEGIN:VEVENT
 SUMMARY:Marc Maron
 DTSTART;TZID=America/Los_Angeles:20261205T210000
 DTEND;TZID=America/Los_Angeles:20261205T230000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261009T182357Z
 UID:dothebay-17742726@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Another Planet Entertainment presents\nLate Show\n\nLIVE SPECI
  AL TAPING\nMarc Maron: Yammering into the Void Tour\nSaturday\, December 5
-  | The Castro\n\nDoors: 9:00 pm | Show: 9:30 pm\n\n18+\nAnother Planet Ent
- ertainment presents: Yammering into the Void Tour - Live Special Taping! L
- ate Show\nListed time is doors\n\nTickets: https://ticketmaster.evyy.net/c
- /253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%
- 2Fmarc-maron-yammering-into-the-void-san-francisco-california-12-05-2026%2
- Fevent%2F1C0065088E4E9EAB%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Dano
- therplanet\nDetails: https://dothebay.com/events/2026/12/5/marc-maron-yamm
- ering-into-the-void-tour-late-show-tickets\nSource: DoTheBay
+  | The Castro\n\nDoors: 9:00 pm | Show: 9:30 pm\n\n18+\nSold out\nAnother 
+ Planet Entertainment presents: Yammering into the Void Tour - Live Special
+  Taping! Late Show\nListed time is doors\n\nTickets: https://ticketmaster.
+ evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketm
+ aster.com%2Fmarc-maron-yammering-into-the-void-san-francisco-california-12
+ -05-2026%2Fevent%2F1C0065088E4E9EAB%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26b
+ rand%3Danotherplanet\nDetails: https://dothebay.com/events/2026/12/5/marc-
+ maron-yammering-into-the-void-tour-late-show-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33952348/279be836-a3ac-4685-ae8f-9bac5ea94c35.gif
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261009T182357Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/5/marc-maron-yammering-into-the-vo
@@ -8394,6 +8394,50 @@ LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/6/matt-rogers-this-time-it-s-reall
  y-christmas-tour-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny Taylor
+DTSTART;TZID=America/Los_Angeles:20261208T193000
+DTEND;TZID=America/Los_Angeles:20261208T213000
+DTSTAMP:20261009T182357Z
+UID:dothebay-17808953@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Johnny Taylor\nTuesday\, December 8 | ​Punch Line San Franci
+ sco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?
+ SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjohnny-taylor-san-
+ francisco-california-12-08-2026%2Fevent%2F1C00651F3AD5DC58\nDetails: https
+ ://dothebay.com/events/2026/12/8/johnny-taylor-tickets\nSource: DoTheBay
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34266572/27727e58-a42e-4252-9a4d-b68a726f65ad.png
+LAST-MODIFIED:20261009T182357Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/8/johnny-taylor-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jamie Wolf
+DTSTART;TZID=America/Los_Angeles:20261208T193000
+DTEND;TZID=America/Los_Angeles:20261208T213000
+DTSTAMP:20261009T182357Z
+UID:dothebay-17934355@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Jamie Wolf\nTuesday\, December 8 | ​Cobb's Comedy Club\n\n18
+ +\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=
+ DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjamie-wolf-san-francisco-ca
+ lifornia-12-08-2026%2Fevent%2F1C0065461785218A\nDetails: https://dothebay.
+ com/events/2026/12/8/jamie-wolf-tickets\nSource: DoTheBay
+GEO:37.802989;-122.4143902
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34856785/31e6dfde-f7b5-48fd-bbc3-54c40f70e876.png
+LAST-MODIFIED:20261009T182357Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/8/jamie-wolf-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF

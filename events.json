@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-10-08T18:53:26.448470Z",
+ "last_full_refresh": "2026-10-09T18:23:57.839093Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -1259,7 +1259,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "1ea87973add09387",
+   "source_id": "2d0bbe739c1a715e",
    "title": "San Francisco Italian Heritage Festival & Parade",
    "start": "2026-10-11T00:00:00-07:00",
    "end": "2026-10-12T00:00:00-07:00",
@@ -2297,7 +2297,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "cbce5c26803a09c3",
+   "source_id": "964719c478234b07",
    "title": "Día de los Muertos Procession & Festival of Altars 2026",
    "start": "2026-11-02T00:00:00-08:00",
    "end": "2026-11-03T00:00:00-08:00",
@@ -2414,7 +2414,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "820692c343d3b66d",
+   "source_id": "37ad40f058297947",
    "title": "San Francisco Coffee Festival 2026",
    "start": "2026-11-07T00:00:00-08:00",
    "end": "2026-11-08T00:00:00-08:00",
@@ -2583,7 +2583,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "c80bd06521ee6485",
+   "source_id": "dd386691698d6f84",
    "title": "San Francisco Hip-Hop Dance Festival",
    "start": "2026-11-13T00:00:00-08:00",
    "end": "2026-11-14T00:00:00-08:00",
@@ -2733,7 +2733,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "879640fc606e5a3e",
+   "source_id": "78c03ed2f58a5049",
    "title": "Illuminate SF Festival of Light",
    "start": "2026-12-06T00:00:00-08:00",
    "end": "2026-12-07T00:00:00-08:00",
@@ -14045,6 +14045,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17940397",
+   "title": "Texas Tuesdays - Line Dancing with Cassaundra - Tuesday, October 13, 2026",
+   "start": "2026-10-13T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/10/13/texas-tuesdays-line-dancing-with-cassaundra-tuesday-october-13-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/texas-tuesdays",
+   "price_text": "$10, plus processing fee",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join Texas Tuesdays at Cigar Bar & Grill with Cassaundra for beginner-friendly line dancing, country music, and\na fun night out in San Francisco. Whether you are stepping onto the dance floor for the first time or already know\nyour favorite routines, this welcoming environment makes it easy to join in.\n\nStay after class for music, drinks, and social dancing.\n\nCheck-in: 7:00 PM.\nLessons: 7:30-9:00 PM.\nSocial dancing: 9:00 PM and beyond.\nAdmission: $10 plus processing fee.\nFull bar and dining available.\nNo partner needed.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34884084/88c512fb-84a5-432e-87be-9a2ee1b3be21.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17219387",
    "title": "Vidura Bandara Rajapaksa",
    "start": "2026-10-13T19:30:00-07:00",
@@ -15019,6 +15048,35 @@
     "Sports"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940409",
+   "title": "Takeover Wednesdays: Industry Night - DJ Mr. 45 - October 14, 2026",
+   "start": "2026-10-14T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/10/14/takeover-wednesdays-industry-night-dj-mr-45-october-14-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "No cover | 21+",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Takeover Wednesdays keeps the groove alive at Bochica @ Cigar Bar with DJ Mr. 45. Set in Cigar Bar's courtyard, Takeover Wednesdays brings together genre-blending DJs, craft cocktails, food, and a relaxed midweek atmosphere in the heart of San Francisco. Join us for drinks, dancing, house, disco, funk, and eclectic grooves.\n\nHappy Hour drink specials.\nCourtyard atmosphere.\nNo cover.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nMust be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34884149/e88015e1-d186-4488-bf14-ad1fefdb7894.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
   },
   {
    "source": "dothebay",
@@ -18743,6 +18801,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17940731",
+   "title": "Guy Fieri San Jose Appearance & Bottle Signing",
+   "start": "2026-10-17T15:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "BevMo! - San Jose",
+   "address": "3149 Stevens Creek Blvd. , San Jose, CA, 95117",
+   "locality": "San Jose",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/17/guy-fieri-san-jose-appearance-bottle-signing-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "EMMY Award-winning chef and philanthropist Guy Fieri is\ncoming to San Jose in support of his and Rock and Roll Hall of Famer Sammy\nHagar’s Santo Spirits brand. Guy will\nbe making an appearance at BevMo! at 3149 Stevens Creek Blvd. on Saturday,\nOctober 17 from 3 pm to 4 pm, including a consumer meet and greet and bottle\nsigning. Must be 21+ to attend. No RSVP or ticket required. First come, first\nserved.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34886075/524aba4b-16a5-4ff8-9066-b00da17efd57.jpg",
+   "categories": [
+    "Food & Drink"
+   ],
+   "notes": [
+    "Santo Spirits"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17820764",
    "title": "A Girl Walks Home Alone",
    "start": "2026-10-17T15:30:00-07:00",
@@ -22348,6 +22432,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17940505",
+   "title": "Texas Tuesdays - Line Dancing with Cindy Tang - Tuesday, October 20, 2026",
+   "start": "2026-10-20T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/10/20/texas-tuesdays-line-dancing-with-cindy-tang-tuesday-october-20-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/texas-tuesdays",
+   "price_text": "$10",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join Texas Tuesdays at Cigar Bar & Grill for line dancing with Cindy Tang. Whether you are brand new to line\ndancing or already know your way around the floor, Cindy brings an upbeat, welcoming teaching style designed\nto get everyone moving.\n\nAn Ohio native and UC Berkeley graduate, Cindy has learned more than 150 dances spanning country, pop, hip hop, and other styles, and has taught at community centers, corporate offices, social gatherings, and music festivals.\n\nCheck-in: 7:00 PM.\nLessons: 7:30-9:00 PM.\nSocial dancing: 9:00 PM and beyond.\nAdmission: $10.\nFull bar and dining available.\nNo partner needed.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34884643/3288d6fb-d6c5-4f56-96cf-ae3ceaed3ad0.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17183857",
    "title": "The Ring—Film with Live Orchestra",
    "start": "2026-10-20T19:30:00-07:00",
@@ -23037,6 +23150,35 @@
    ],
    "notes": [
     "United Nations Association Film Festival"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940517",
+   "title": "Takeover Wednesdays: Industry Night - DJ Natural - October 21, 2026",
+   "start": "2026-10-21T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/10/21/takeover-wednesdays-industry-night-dj-natural-october-21-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "No cover | 21+",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Takeover Wednesdays keeps the groove alive at Bochica @ Cigar Bar with DJ Natural. Set in Cigar Bar's courtyard, Takeover Wednesdays brings together genre-blending DJs, craft cocktails, food, and a relaxed midweek atmosphere in the heart of San Francisco. Join us for drinks, dancing, house, disco, funk, and eclectic grooves.\n\nHappy Hour drink specials.\nCourtyard atmosphere.\nNo cover.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nMust be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34884718/aefeb33b-b340-4b59-b768-fc8becb34f55.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
    ]
   },
   {
@@ -27521,6 +27663,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17939525",
+   "title": "Stand-Up Comedy Show: \"Acidic Laughs\" @Alpha Acid Brewing Co",
+   "start": "2026-10-24T19:30:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Alpha Acid Brewing Company",
+   "address": "121 Industrial Rd #11, Belmont, CA, 94002",
+   "locality": "Belmont",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/24/stand-up-comedy-show-acidic-laughs-alpha-acid-brewing-co-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F2003127724948%3Faff%3Doddtdtcreator",
+   "price_text": "(Free, 21+)",
+   "is_free": true,
+   "sold_out": false,
+   "description": "\"Acidic Laughs @Alpha Acid Brewing Co\" is the Newest and Hottest Comedy Show in the Peninsula. The Bubbly is pouring, the kegs are unloading, and the laughs are echoing through this very intimate space. Come down to Alpha Acid Brewing Co on Saturday, October 24th at 7:30 pm and enjoy award-winning beer while enjoying top local talent. We have comedians who are performing at all the local clubs such as; The San Francisco Punchline, Cobbs Comedy Club, and the San Jose Improv. A few of our comedians have even toured the country and have performed at some of the most prestigious venues like the \"The Stand\" in New York or the \"Comedy Mothership\" in Austin. If you have no plans, feel like doing something different, and are in the mood for laughing, this is the show for you!\n\nFeature Comedians: Israel Medina (Felton Music Hall), Keanu Carmona (Don't Tell Comedy), Nan Mu (San Jose Improv), Donovan Robertson (Don't Tell Comedy), Luis Perez (Santa Cruz Comedy Festival), Michael Booth (Laughing Booth Comedy) and the Headliner for this show is Emon Dismore (Peninsula Comedy). This comedy show is hosted & produced by Peninsula Comedy. Follow us @peninsulacomedy or @emondismore if you want to stay updated on future events. Join me in this night that will be full of fun and laughter!\n\nFollow us on Instagram: @peninsulacomedy or @emondismore",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34880403/078ff109-1e6a-4f5c-9eaf-a7059ce29c94.jpg",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17449863",
    "title": "The Devil Makes Three",
    "start": "2026-10-24T20:00:00-07:00",
@@ -28296,6 +28462,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34834491/6e66a828-96c1-49b5-8726-5165df50d183.jpg",
    "categories": [
     "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17937607",
+   "title": "Creekside Town Center Announces Annual (Free) Halloween Spooktacular Event",
+   "start": "2026-10-25T12:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Creekside Town Center",
+   "address": "1180-1256 Galleria Boulevard, Roseville, CA, 95678",
+   "locality": "Roseville",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/25/creekside-town-center-announces-annual-free-halloween-spooktacular-event-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "What: As Halloween approaches, anticipation mounts not only for trick or\ntreating, but also for Creekside Town Center’s free annual Halloween Spooktacular celebration, which will include a face painter, balloon artist, and free goodie bags, while supplies last.\nWhen: Sunday, October 25 from noon - 2:00 pm\nWhere: Creekside Town Center (near Nails 19)\nAbout Creekside Town Center\nCreekside Town Center is conveniently located right off Highway 65 near Interstate 80 with public transit access and bountiful parking. Popular brand name tenants include Barnes & Nobles; Best Buy; Bob's Discount Furniture; Michael's Arts and Crafts;\nBurlington; Famous Footwear; LOFT; Marshall's; Nordstrom Rack; Old Navy; Nails 19; Bath & Body Works; and a selection of dining options, including Garden of Eat’n; P. F. Chang’s; Red Robin; West Coast Sourdough; Jimboy’s Tacos; Jamba Juice; and Cold Stone Creamery.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34872884/18f7769c-9ad6-4de5-825f-4e2c87a0800a.jpg",
+   "categories": [
+    "Arts & Family"
    ],
    "notes": []
   },
@@ -29787,6 +29977,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17940532",
+   "title": "Texas Tuesdays - Line Dancing with Cassaundra - Tuesday, October 27, 2026",
+   "start": "2026-10-27T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/10/27/texas-tuesdays-line-dancing-with-cassaundra-tuesday-october-27-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/texas-tuesdays",
+   "price_text": "$10 Plus processing fee",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join Texas Tuesdays at Cigar Bar & Grill with Cassaundra for beginner-friendly line dancing, country music, and a fun night out in San Francisco. Whether you are stepping onto the dance floor for the first time or already know your favorite routines, this welcoming environment makes it easy to join in.\n\nStay after class for music, drinks, and social dancing.\n\nCheck-in: 7:00 PM.\nLessons: 7:30-9:00 PM.\nSocial dancing: 9:00 PM and beyond.\nAdmission: $10.\nFull bar and dining available.\nNo partner needed.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34884848/17387241-9b46-4ee3-a264-7901a202225e.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17430358",
    "title": "Bryson Tiller w/ Majid Jordan, Ty Dolla $ign, Austin Millz",
    "start": "2026-10-27T19:30:00-07:00",
@@ -30656,6 +30875,35 @@
     "Film"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940587",
+   "title": "Takeover Wednesdays: Industry Night - DJ Mobando - October 28, 2026",
+   "start": "2026-10-28T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/10/28/takeover-wednesdays-industry-night-dj-mobando-october-28-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "No cover | 21+",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Takeover Wednesdays welcomes DJ Mobando back to Bochica @ Cigar Bar. A staple of the San Francisco DJ scene, Mobando brings global beats, soulful house, Latin grooves, and funky rhythms.\n\nSet in Cigar Bar's courtyard, Takeover Wednesdays brings together genre-blending DJs, craft cocktails, food, and a relaxed midweek atmosphere in the heart of San Francisco. Join us for drinks, dancing, house, disco, funk, and eclectic grooves.\n\nHappy Hour drink specials.\nCourtyard atmosphere.\nNo cover.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nMust be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34885235/0164950b-02ef-4c03-b164-ad345f8df72c.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
   },
   {
    "source": "dothebay",
@@ -32344,6 +32592,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17937736",
+   "title": "Meet the Moment International Video Festival: Opening Reception",
+   "start": "2026-10-30T17:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "TNT Art Lab",
+   "address": "67 Turk Street, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/30/meet-the-moment-international-video-festival-opening-reception-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Join artists, curators and coalition partners to open the Meet the Moment Video Festival, three days of politically engaged video art across Mid-Market storefronts and public spaces. The festival is presented by Meet the Moment, a Bay Area coalition of artists, curators and cultural organizations initiated by TnT Art Lab. Free and open to the public.\n\nVisit: https://www.meetthemoment.us/video-festival.html for more info",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34873660/b0b77d8b-a5f0-4936-8a45-a0a4d3fe94f3.jpg",
+   "categories": [
+    "The Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17627870",
    "title": "Gallery Chats at OMCA",
    "start": "2026-10-30T17:30:00-07:00",
@@ -32799,6 +33071,32 @@
    ],
    "notes": [
     "2026 SF Dance Film Festival:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17937910",
+   "title": "The Addams Family Musical",
+   "start": "2026-10-30T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/30/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874544/3cad1fce-c115-4fc7-a0de-d077fb7dd369.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
    ]
   },
   {
@@ -33919,6 +34217,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33954395/0f1350d5-c09d-47bb-857d-9315d5b7b879.jpg",
    "categories": [
     "Shopping"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17936790",
+   "title": "Halloween Block Party Bayview 2026",
+   "start": "2026-10-31T15:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Gumbo Social",
+   "address": "5176 3rd St, San Francisco, CA, 94124",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/31/halloween-block-party-bayview-2026-tickets",
+   "ticket_url": "https://events.humanitix.com/halloween-block-party-bayview-2026",
+   "price_text": "RSVP for FREE and enjoy a complimentary gumbo taste or mini-hoecake when you arrive.",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Celebrate Halloween in Bayview with us! Gumbo Social is hosting a free party from 3–8 PM on Saturday, October 31, with spooky decorations, music, and a chance to gather with neighbors as Halloween festivities get underway on 3rd Street.\n\nFeaturing DJ Casanova.\nPop-up bar by The Perfect Bevi.\n\nRSVP for FREE and enjoy a complimentary gumbo taste or mini-hoecake when you arrive. All ages are welcome.\n\nTrunk-or-Treat and Haunted House on 3rd!\n\nWe’re also excited to celebrate alongside the 415 Car Club’s Halloween on 3rd St. event from 5:30–9 PM at the old Walgreens parking lot at Third and Williams. They’ll have a haunted house and trunk-or-treat contest.\n\nMore activities and community partners will be announced soon. Costumes encouraged!\n\nWe can’t wait to celebrate with Bayview!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34868573/c8af6e59-b8d4-47cd-ab0c-a067632f2787.jpg",
+   "categories": [
+    "Holiday Event"
    ],
    "notes": []
   },
@@ -35320,6 +35642,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17937699",
+   "title": "Film: Kikuyu Land",
+   "start": "2026-11-01T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Koret Auditorium, San Francisco Main Library",
+   "address": "100 Larkin St, San Francisco, CA 94102, SAN FRANCISCO, CA, 94102",
+   "locality": "SAN FRANCISCO",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/1/film-kikuyu-land-tickets",
+   "ticket_url": "https://sfpl.org/events/2026/11/01/film-kikuyu-land",
+   "price_text": "$0",
+   "is_free": true,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34873376/368c8f2e-5010-45e2-be42-8784733a9232.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": [
+    "San Francisco Public Library, African American Center Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17684701",
    "title": "Oakland Ballet: Luna Mexicana",
    "start": "2026-11-01T14:30:00-08:00",
@@ -35495,6 +35843,32 @@
     "Food & Drink"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17937962",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-01T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/1/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874570/d4cf119c-ad84-4a7c-b5fd-ad5021a436ac.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
   },
   {
    "source": "dothebay",
@@ -36261,7 +36635,7 @@
    "ticket_url": "https://thecastro.com/events/rebecca-black-261103",
    "price_text": "all ages",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Another Planet Entertainment presents\nExhibitionism on Tour\nRebecca Black\nTuesday, November 13 | The Castro\n\nIn an age where people crave authenticity, all eyes are on Rebecca Black. The pop star holds a mirror up to the question of what’s real and what’s fake with Age of the Exhibitionist, her self-released sophomore album. Led by the delicious, catchy and full-throttle bangers “Speakerphone’ and “Hot Wet Delirious,” Black has never been more ambitious, daring and herself. Her latest comes off the heels of a crowd-pleasing run opening for Katy Perry’s Lifetimes tour as well as her Boiler Room debut. This year, the singer/songwriter/DJ/producer celebrates 15 years since her viral debut single “Friday” and is marking the anniversary by continuing to surprise the world with her most audacious release yet.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33457968/d8baa959-4944-4fd4-bba7-4ed83347d380.jpg",
    "categories": [
@@ -37385,6 +37759,61 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17937989",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-05T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/5/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874592/8d899127-a746-4a79-a78c-e6441b2ecf2f.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940650",
+   "title": "Bachata Party with JAS Latin Dance - Thursday, November 5, 2026",
+   "start": "2026-11-05T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/5/bachata-party-with-jas-latin-dance-thursday-november-5-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$8 advance; $10 walk-in",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for a vibrant Bachata experience with JAS Latin Dance. Whether you are brand new or a seasoned dancer, the welcoming, mixed-level lesson is designed to help everyone learn, connect, and have fun.\n\n7:00-8:00 PM - Bachata lesson; beginners welcome and no partner needed.\n8:00-11:00 PM - Social dancing with DJs spinning Bachata favorites.\n\nAdvance registration is $8; walk-ins are $10. Food, craft cocktails, wine, beer, and fine cigars are available for\npurchase. Jose Santamaria is a professional instructor and choreographer with more than 20 years of experience teaching and researching Latin dance techniques.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34885585/4aa2c2d3-255e-42bb-acb0-6bec3c88ed5e.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17612356",
    "title": "Jake Johannsen",
    "start": "2026-11-05T19:30:00-08:00",
@@ -38192,6 +38621,61 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17937990",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-06T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/6/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874599/99411db4-b6c8-4a8b-a8c1-9ccf6ece39a8.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940667",
+   "title": "Salsa Lessons with Ava & Rodolfo - Friday, November 6, 2026",
+   "start": "2026-11-06T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/6/salsa-lessons-with-ava-rodolfo-friday-november-6-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$14 advance + processing; $20 walk-in",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for Salsa Lessons and Social Dancing with San Francisco-based, award-winning instructors Ava Apple\nand Rodolfo Guzman. Advanced online registration is $14 plus processing fee; walk-ins are $20.\n\nMixed levels are welcome, beginners are encouraged, and no partner is needed.\n\nAgenda:\n• 7:00-7:30 PM - Check-in, mingle, practice, and questions\n• 7:30-8:30 PM - Salsa class with Ava and Rodolfo\n• 8:30-9:00 PM - Guided practice\n• 9:30 PM - Live salsa band\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34885713/1835f6fd-3acb-4a9f-869f-4a76a29dd05e.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17025023",
    "title": "Mark Normand",
    "start": "2026-11-06T19:30:00-08:00",
@@ -38649,6 +39133,35 @@
     "Comedy"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940676",
+   "title": "Salsa Night with Live Band: Orquesta La Clave Del Blanco - Friday, November 6, 2026",
+   "start": "2026-11-06T21:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/6/salsa-night-with-live-band-orquesta-la-clave-del-blanco-friday-november-6-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$20 beginning at 9:00 PM",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for an evening of live salsa with Orquesta La Clave Del Blanco. Whether you are a seasoned dancer or\nsimply looking for a lively night out, come enjoy great music, dancing, and the signature Cigar Bar atmosphere.\n\nCome early for Pan-Latin cuisine, craft cocktails, and fine cigars. There is a $20 charge beginning at 9:00 PM,\nand live music starts at 9:30 PM. Guests arriving before 9:00 PM do not need to purchase admission online.\n\nSalsa lessons with Ava and Rodolfo begin at 7:00 PM and are paid separately:\n\n$14 in advance or $20 at the door.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34885762/773c27e7-0a30-41c4-869b-1c2a1834fa4c.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
   },
   {
    "source": "dothebay",
@@ -39457,7 +39970,7 @@
    "price_text": "$18 Entry, Ages 21+",
    "is_free": false,
    "sold_out": false,
-   "description": "Disco never left. Neither did great wine. VOON 54: Studio 54 glamour meets harvest season, one unforgettable night at W San Francisco.\n\nVOON 54:\nA Studio 54 Harvest Party with VOON Wines\nStep into the disco. VOON Wines invites you to VOON 54, a night of glitter, groove, and great wine, celebrating this year's harvest in true Studio 54 fashion.\nHosted in partnership with W San Francisco, VOON 54 brings together our community for an evening of dancing, DJ sets, live music, and pours from our latest harvest. Expect velvet disco vibes a dance floor that doesn't quit, all wrapped in the glamour of one of the most iconic nightlife eras.\nCome dressed to dazzle. Sequins, silk, gold, and glam are all welcome (and encouraged).\n\nEVENT DETAILS\n\nSaturday, November 7th\n7:00 PM – 11:00 PM (The Living Room bar at W will be open after)\nW San Francisco — 181 3rd Street, SOMA\n$18 per ticket (entry only — wine available for purchase on-site)\n21+ event, valid ID required\nFeaturing VOON Wines' latest harvest\nLive music + DJs all night\nStudio 54 dress code encouraged\nVIP guest room rates at W San Francisco for those staying the night\n\nJoin us to toast the season, the community, and the vines that made it all possible.\n\nGrab your tickets now — VOON 54 will sell out.\n\nLearn more about VOON Wines and order your new favorites at voonwines.com",
+   "description": "Disco never left. Neither did great wine. VOON 54: Studio 54 glamour meets harvest season, one unforgettable night at W San Francisco.\n\nVOON 54:\nA Studio 54 Harvest Party with VOON Wines\nStep into the disco. VOON Wines invites you to VOON 54, a night of glitter, groove, and great wine, celebrating this year's harvest in true Studio 54 fashion.\nHosted in partnership with W San Francisco, VOON 54 brings together our community for an evening of dancing, DJ sets, live music, and pours from our latest harvest. Expect velvet disco vibes a dance floor that doesn't quit, all wrapped in the glamour of one of the most iconic nightlife eras.\n\nDJing by DJ Maximilian and DJ Questy!\n\nLive performances by Bay Area favorites Analog Dog, Cardboard People, and Hugo de la Lune!\n\nCome dressed to dazzle. Sequins, silk, gold, and glam are all welcome (and encouraged).\n\nSaturday, November 7th\n7:00 PM – 11:00 PM (The Living Room bar at W will be open after)\nW San Francisco — 181 3rd Street, SOMA\n$18 per ticket (entry only — wine available for purchase on-site)\n21+ event, valid ID required\nFeaturing VOON Wines' latest harvest\nLive music + DJs all night\nStudio 54 dress code encouraged\nVIP guest room rates at W San Francisco for those staying the night\nJoin us to toast the season, the community, and the vines that made it all possible.\nGrab your tickets now — VOON 54 will sell out.\nLearn more about VOON Wines and order your new favorites at",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34788646/b1d9d09b-4e4d-4668-af0c-2598b4cd22c4.jpg",
    "categories": [
     "DJ/Parties"
@@ -39492,6 +40005,61 @@
     "DJ/Parties"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17938005",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-07T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/7/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874676/381d6f72-73b6-43b9-9c83-ee05b450339c.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940790",
+   "title": "Salsa Lessons with Ava & Rodolfo - Saturday, November 7, 2026",
+   "start": "2026-11-07T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/7/salsa-lessons-with-ava-rodolfo-saturday-november-7-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$14 advance + processing; $20 walk-in",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for Salsa Lessons and Social Dancing with San Francisco-based, award-winning instructors Ava Apple\nand Rodolfo Guzman. Advanced online registration is $14 plus processing fee; walk-ins are $20.\n\nMixed levels are welcome, beginners are encouraged, and no partner is needed.\n\nAgenda:\n• 7:00-7:30 PM - Check-in, mingle, practice, and questions\n• 7:30-8:30 PM - Salsa class with Ava and Rodolfo\n• 8:30-9:00 PM - Guided practice\n• 9:30 PM - Live salsa band\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34886396/47aa1f49-051e-4e21-9a1e-dfc2d37be0de.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
   },
   {
    "source": "dothebay",
@@ -40062,6 +40630,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17940814",
+   "title": "Salsa Night with Live Band: Andy Y Su Orquesta Callao - Saturday, November 7, 2026",
+   "start": "2026-11-07T21:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/7/salsa-night-with-live-band-andy-y-su-orquesta-callao-saturday-november-7-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$20 beginning at 9:00 PM",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for an evening of live salsa with Andy Y Su Orquesta Callao. Whether you are a seasoned dancer or\nsimply looking for a lively night out, come enjoy great music, dancing, and the signature Cigar Bar atmosphere.\n\nCome early for Pan-Latin cuisine, craft cocktails, and fine cigars. There is a $20 charge beginning at 9:00 PM,\n\nand live music starts at 9:30 PM. Guests arriving before 9:00 PM do not need to purchase admission online.\n\nSalsa lessons with Ava and Rodolfo begin at 7:00 PM and are paid separately:\n$14 in advance or $20 at the door.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34886590/480edfd6-a888-43aa-bbd1-fba3944627cb.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17535072",
    "title": "Drunk Theatre SF: The Wildest Bay Area Comedy!",
    "start": "2026-11-07T22:00:00-08:00",
@@ -40293,6 +40890,32 @@
    ],
    "notes": [
     "SF Leonard Cohen Festival Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17938012",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-08T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/8/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874719/d703321b-ae91-44b8-bfa3-eed167109ad2.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
    ]
   },
   {
@@ -42176,7 +42799,7 @@
    "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Folafur-arnalds-san-francisco-california-11-12-2026%2Fevent%2F1C006425D68AA716%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
    "price_text": "All ages",
    "is_free": false,
-   "sold_out": true,
+   "sold_out": false,
    "description": "Another Planet Entertainment Presents\nÓlafur Arnalds\nThursday, November 12 | The Castro\n\nAward-winning artist, composer and producer Ólafur Arnalds returns with his most daring and adventurous project to date.\n\nFalling Apart Together is an attempt at dismantling the distance between us. A concert hybrid that reveals the layers we construct in order to feel safe, the moments in which those layers tremble and the sense of intimacy and shared humanity that emerges when we allow ourselves to be exposed.\n\nTogether with his team of devoted craftsmen and musicians, Ólafur presents a spellbinding blend of past and new material in a show that challenges the boundaries of what a concert can be.\n\nAfter his globally acclaimed tours following re:member and some kind of peace — which sold out such iconic halls as Royal Albert Hall, Elbphilharmonie, Sydney Opera House, and Walt Disney Concert Hall – performing to hundreds of thousands of fans worldwide — Ólafur returns with his most intimate and boundary-pushing work to date.\n\nFalling Apart Together explores what becomes possible when we let ourselves unravel just enough to collectively open up.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29566459/1f8d5af4-4430-4bb5-9ad8-e366938ed3ec.jpg",
    "categories": [
@@ -42254,11 +42877,11 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/11/12/object-stories-san-francisco-tickets",
-   "ticket_url": "https://www.kqed.org/event/6829/object-stories-san-francisco",
-   "price_text": null,
+   "ticket_url": "https://craftcouncil.ticketbud.com/object-stories-san-francisco",
+   "price_text": "$30",
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "Co-presented by The American Craft Council\nCelebrate the profound connections between people and the objects that shape their lives at Object Stories: San Francisco. Hear from a diverse group of Bay Area artists, makers, and community voices as they each share a handmade object that holds personal significance and tell the story behind it, revealing how craft intersects with memory, identity, creativity, and belonging.\n\nObject Stories is a signature storytelling series presented by the American Craft Council, a national nonprofit organization dedicated to building a world where objects matter, makers thrive, and craft connects. Each event brings together artists, writers, and cultural leaders to explore the meaning and impact of craft through personal stories inspired by objects they cherish.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34278293/95ea5396-a6c4-464a-a2c4-408de213b1c1.png",
    "categories": [
     "Lecture/Education"
@@ -42400,6 +43023,61 @@
     "Theatre & Performing Arts"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17938031",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-12T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/12/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874763/4c9f5e11-7e19-4678-8fe8-342f053eff60.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940872",
+   "title": "Bachata Party with Inessence Dance Co. - Thursday, November 12, 2026",
+   "start": "2026-11-12T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/12/bachata-party-with-inessence-dance-co-thursday-november-12-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$8 advance; $10 walk-in",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for a vibrant Bachata experience with Inessence Dance Co. Whether you are brand new or a seasoned\ndancer, the welcoming, mixed-level lesson is designed to help everyone learn, connect, and have fun.\n\n7:00-8:00 PM - Bachata lesson; beginners welcome and no partner needed.\n8:00-11:00 PM - Social dancing with DJs spinning Bachata favorites.\n\nAdvance registration is $8; walk-ins are $10. Food, craft cocktails, wine, beer, and fine cigars are available for\npurchase. Inessence Dance Company, directed by Bryon Stroud and Sammantha Arias, has grown from a local\ndance group into a community of more than 100 dancers across the Bay Area and Sacramento.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34887008/d7f3ba84-edf0-4bfe-9591-e421c21ff34e.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENT:"
+   ]
   },
   {
    "source": "dothebay",
@@ -43173,6 +43851,61 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17938040",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-13T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/13/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874790/9b6e0cd8-a45d-4873-9ad5-6a6dc916f2a7.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940885",
+   "title": "Salsa Lessons with Ava & Rodolfo - Friday, November 13, 2026",
+   "start": "2026-11-13T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/13/salsa-lessons-with-ava-rodolfo-friday-november-13-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$14 advance + processing; $20 walk-in",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for Salsa Lessons and Social Dancing with San Francisco-based, award-winning instructors Ava Apple\nand Rodolfo Guzman. Advanced online registration is $14 plus processing fee; walk-ins are $20.\n\nMixed levels are welcome, beginners are encouraged, and no partner is needed.\n\nAgenda:\n• 7:00-7:30 PM - Check-in, mingle, practice, and questions.\n• 7:30-8:30 PM - Salsa class with Ava and Rodolfo.\n• 8:30-9:00 PM - Guided practice.\n• 9:30 PM - Live salsa band.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34887082/c1da2505-aa2c-4148-9681-6262b64ad603.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "16993989",
    "title": "Mo Amer",
    "start": "2026-11-13T19:30:00-08:00",
@@ -43684,6 +44417,35 @@
     "DJ/Parties"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940892",
+   "title": "Salsa Night with Live Band: Susana Y Su Orquesta Adelante - Friday, November 13, 2026",
+   "start": "2026-11-13T21:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/13/salsa-night-with-live-band-susana-y-su-orquesta-adelante-friday-november-13-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$20 beginning at 9:00 PM",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us for an evening of live salsa with Susana Y Su Orquesta Adelante. Whether you are a seasoned dancer or\nsimply looking for a lively night out, come enjoy great music, dancing, and the signature Cigar Bar atmosphere.\n\nCome early for Pan-Latin cuisine, craft cocktails, and fine cigars. There is a $20 charge beginning at 9:00 PM,\nand live music starts at 9:30 PM. Guests arriving before 9:00 PM do not need to purchase admission online.\n\nSalsa lessons with Ava and Rodolfo begin at 7:00 PM and are paid separately:\n\n$14 in advance or $20 at the door.\n\nVenue: Cigar Bar & Grill, 850 Montgomery St., San Francisco.\n\nNO REFUNDS - Must be 21+",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34887133/26a1a5ba-7ea9-4747-b8e2-c211c216e57d.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
   },
   {
    "source": "dothebay",
@@ -44462,6 +45224,61 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17938041",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/14/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874797/d761ca1e-266f-481e-bf50-9b0d323f3805.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17940895",
+   "title": "Salsa Lessons with Ava & Rodolfo - Saturday, November 14, 2026",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cigar Bar & Grill",
+   "address": "850 Montgomery St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.79715729999999,
+    -122.4034061
+   ],
+   "url": "https://dothebay.com/events/2026/11/14/salsa-lessons-with-ava-rodolfo-saturday-november-14-2026-tickets",
+   "ticket_url": "https://www.cigarbarandgrill.com/index.php/entertainment",
+   "price_text": "$14 advance + processing; $20 walk-in",
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34887149/4db3e2f6-0cef-43d3-bc31-ed2527aa773b.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Cigar Bar & Grill PRESENTS:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17648109",
    "title": "Waitress",
    "start": "2026-11-14T19:30:00-08:00",
@@ -45121,6 +45938,32 @@
     "LGBTQ"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17938043",
+   "title": "The Addams Family Musical",
+   "start": "2026-11-15T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "142 Throckmorton Theatre",
+   "address": "142 Throckmorton Avenue, Mill Valley, CA, 94941",
+   "locality": "Mill Valley",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/15/the-addams-family-musical-tickets",
+   "ticket_url": "https://ci.ovationtix.com/35161/production/1292877",
+   "price_text": "$35 GA, $30 Student/Senior, $48 Reserved",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Addams Family Musical\n\nIn the upside-down world of the Addams Family, to be sad is to be happy, to feel pain is to feel joy, and death and suffering are the stuff of their dreams. Nonetheless, this quirky family still must deal with many of the same challenges faced by any other family, especially now that the Addams kids are getting older.\n\nWednesday Addams, the beloved princess of darkness, has grown up and fallen in love with a sweet young man from a seemingly ordinary family. A man her parents have never met. Everything will change for the whole family on the fateful night they host dinner for Wednesday’s boyfriend and his parents.\n\nFull of quirky characters, wicked humor, catchy songs, and plenty of heart, this ghoulishly fun musical is a celebration of family, love, and embracing what makes us different.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34874811/283e47c1-b4a6-461d-b967-4c4899011a3e.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "142 Throckmorton Theatre Presents:"
+   ]
   },
   {
    "source": "dothebay",
@@ -50051,6 +50894,36 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17931354",
+   "title": "La Bola Negra",
+   "start": "2026-11-23T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "The Castro",
+   "address": "429 Castro St, San Francisco, CA, 94114",
+   "locality": "San Francisco",
+   "geo": [
+    37.7619917,
+    -122.4347365
+   ],
+   "url": "https://dothebay.com/events/2026/11/23/la-bola-negra-tickets",
+   "ticket_url": "https://thecastro.com/events/la-bola-negra-261123",
+   "price_text": "Rated R",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Another Planet Entertainment presents\nLa Bola Negra\nMonday, November 23 | ​The Castro\n\nFrom Cannes-winning directors Javier Calvo and Javier Ambrossi — popularly known as Los Javis — La Bola Negra follows three generations of men across pivotal moments in Spanish history, bound by pain, desire, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain. Sebastián (Guitarricadelafuente) finds connection across enemy lines. And Alberto (Carlos González) uncovers a long-buried family secret — one that finally gives voice to truths the past tried to erase.\n\nDestined to become a classic of LGBTQ cinema, La Bola Negra is a must-see cinematic event. Don’t miss your chance to experience it at The Castro Theatre!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34841714/d0d73658-8494-478d-bcee-f9e98f292697.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": [
+    "Another Planet Entertainment presents",
+    "Listed time is doors"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17279695",
    "title": "Gary Numan",
    "start": "2026-11-23T19:00:00-08:00",
@@ -53019,7 +53892,7 @@
    "ticket_url": "https://thecastro.com/events/julio-torres-261130",
    "price_text": "18+",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Another Planet Entertainment presents\nSomething New\nJulio Torres\nMonday, November 30 | ​The Castro",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34707602/cced1484-bedf-4b75-ae1a-29d6750556a7.jpg",
    "categories": [
@@ -53473,7 +54346,7 @@
    "ticket_url": "https://thecastro.com/events/cameron-winter-at-carnegie-hall-261202",
    "price_text": "All Ages",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Another Planet Entertainment presents\n\nA Janus Films and Criterion Release\nCameron Winter at Carnegie Hall\nDirected by Paul Thomas Anderson\nPresented in 35mm\n\nWednesday, December 2 | The Castro\n\nCameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at Carnegie Hall. This is the movie.\n\nDirected and shot on 35mm and 16mm by Oscar-winning filmmaker Paul Thomas Anderson (One Battle After Another), the crew includes filmmaker and actor Benny Safdie (The Smashing Machine) and music producer Ariel Rechtshaid (Grammy winner for albums with Vampire Weekend and Adele).\n\nGQ praised Cameron Winter’s show at Carnegie Hall as “staggeringly good,” and Nick Cave said he has a “a glorious, emotive voice with brilliant, blistering words, a racked and wondrous thing.” Winter’s solo album Heavy Metal was named one of the best of the year by Pitchfork, Rolling Stone, Paste and Mojo and Geese’s last record Getting Killed was named the best album of 2025 by The New Yorker, NME, and Stereogum.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34068980/06f9f1ed-6e82-4539-b3fd-8b70e1e0ac2b.jpg",
    "categories": [
@@ -54703,6 +55576,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17925940",
+   "title": "Cookies Christmas 2026 ft. Berner, Paul Wall, & Baby Bash",
+   "start": "2026-12-04T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Warfield",
+   "address": "982 Market St, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": [
+    37.7827039,
+    -122.4103578
+   ],
+   "url": "https://dothebay.com/events/2026/12/4/cookies-christmas-2026-ft-berner-paul-wall-baby-bash-tickets",
+   "ticket_url": "https://www.axs.com/events/1640656/cookies-christmas-2026-ft-berner-paul-wall-baby-bash-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001?cid=usaffdostuff",
+   "price_text": "6+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Goldenvoice Presents\nCookies Christmas 2026 ft. Berner, Paul Wall, & Baby Bash\nFriday, December 4 | The Warfield",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34815129/589dce5c-636b-4bc3-925b-ca878577abf9.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Goldenvoice Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17929974",
    "title": "LIVE MUSIC: Crooked Jades (10th Album Release)",
    "start": "2026-12-04T20:00:00-08:00",
@@ -55685,7 +56587,7 @@
    "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmarc-maron-yammering-into-the-void-san-francisco-california-12-05-2026%2Fevent%2F1C0065088E4E9EAB%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
    "price_text": "18+",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Another Planet Entertainment presents\nLate Show\n\nLIVE SPECIAL TAPING\nMarc Maron: Yammering into the Void Tour\nSaturday, December 5 | The Castro\n\nDoors: 9:00 pm | Show: 9:30 pm",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33952348/279be836-a3ac-4685-ae8f-9bac5ea94c35.gif",
    "categories": [
@@ -56158,7 +57060,7 @@
    "ticket_url": "https://thecastro.com/events/circle-jerks-x-repo-man-261206",
    "price_text": "All Ages",
    "is_free": false,
-   "sold_out": false,
+   "sold_out": true,
    "description": "Another Planet Entertainment presents\nCircle Jerks x Repo Man\n\nSunday, December 6 | The Castro\n\nCircle Jerks formed in Los Angeles in 1979 and quickly became one of the key bands of the early Southern California punk scene. Their debut album, Group Sex, came out in 1980 and remains one of the essential records of the era. More than 40 years later, Circle Jerks are still doing what they’ve always done—playing loud, fast and unapologetic punk rock.\n\nThat same Los Angeles punk scene is at the heart of Alex Cox’s 1984 film Repo Man. The movie follows Otto, a young punk who gets pulled into the bizarre world of car repossession while capturing a very specific version of early ’80s Los Angeles.\n\nThe night will start with a Circle Jerks set, followed by a Q&A with director Alex Cox, Keith Morris, and Zander Schloss (Kevin the Nerd and Circle Jerks bassist), then a screening of the cult classic Repo Man.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34573890/2650a6ef-7865-448c-b401-ddb0142f4e91.png",
    "categories": [
@@ -56572,6 +57474,331 @@
    "notes": [
     "presented by Capital One, Featuring Rachel Chinouriri"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17764653",
+   "title": "Grupo de Asistencia Legal del Programa Latino",
+   "start": "2026-12-08T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "San Francisco AIDS Foundation",
+   "address": "San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/8/grupo-de-asistencia-legal-del-programa-latino-tickets",
+   "ticket_url": "https://resources.sfaf.org/event/grupo-de-asistencia-legal-del-programa-latino/2026-12-08/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "¿Busca ayuda para resolver cuestiones legales, como asuntos de inmigración y problemas relacionados con la vivienda y el alquiler?\n\nNos hemos asociado con el Panel de Referencia Legal en Materia de SIDA [AIDS Legal Referral Panel] y PODER para ofrecer asesoramiento sin cita previa y apoyo gratuitos a nuestros clientes y a la comunidad.\n\nPara obtener más información o unirse al grupo, póngase en contacto con Eduardo en el 415-350-3315 o envíe un correo electrónico a esiqueiros@sfaf.org.\n\n__________________________________________________\n\nPrograma Latino Legal Assistance Group\n\nLooking for assistance navigating legal issues including immigration concerns and housing and rental issues?\n\nWe are partnering with AIDS Legal Referral Panel and PODER to offer drop-in advice and support for free to our clients and community.\n\nFor more information or to join the group, contact Eduardo at 415-350-3315 or esiqueiros@sfaf.org.",
+   "image_url": null,
+   "categories": [
+    "LGBTQ"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17764654",
+   "title": "Grupos de Educación sobre Salud del Programa Latino",
+   "start": "2026-12-08T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "San Francisco AIDS Foundation",
+   "address": "San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/8/grupos-de-educacion-sobre-salud-del-programa-latino-tickets",
+   "ticket_url": "https://resources.sfaf.org/event/grupos-de-educacion-sobre-salud-del-programa-latino/2026-12-08/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Únase a nosotros para aprender sobre el VIH, la prevención, los servicios sociales y mucho más. Este grupo está abierto a todas las personas y se impartirá en español.\n\nPara obtener más información o unirse al grupo, comuníquese con Eduardo al 415-350-3315 o envíe un correo electrónico a esiqueiros@sfaf.org.\n\nPrograma Latino Health Education Groups\n\nJoin us to learn about HIV, prevention, social services, and more. This group is open to all people and will be facilitated in Spanish.\n\nFor more information or to join the group, contact Eduardo at 415-350-3315 or esiqueiros@sfaf.org.",
+   "image_url": null,
+   "categories": [
+    "LGBTQ"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17355855",
+   "title": "Angine de Poitrine",
+   "start": "2026-12-08T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Fox Theater",
+   "address": "1807 Telegraph Ave, Oakland, CA, 94612",
+   "locality": "Oakland",
+   "geo": [
+    37.8079974,
+    -122.2700635
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/angine-de-poitrine-secret-chiefs-3-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fangine-de-poitrine-oakland-california-12-08-2026%2Fevent%2F1C0064AD9065C8E2%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
+   "price_text": "All Ages",
+   "is_free": false,
+   "sold_out": true,
+   "description": "Another Planet Entertainment Presents\nAngine de Poitrine\n\nwith Secret Chiefs 3\n\nTuesday, December 8 | Fox Theater\n\nDisciples of planet Earth’s rock deities, space-time voyagers Klek and Khn de Poitrine gaze in wonder at hot dogs, pyramids, and rock music in all its glorious excess.\n\nAsymmetrical and dissonant, Angine de Poitrine’s music makes hearts race and bodies move with ecstatic abandon. Through tight, pulsing drum grooves and intricate tangles of double-neck microtonal guitar, the band summons swirling vortices of hypnotic sound and vision.\n\nSince the release of Vol. 1 in 2024, Angine de Poitrine are in the eye of an ever-growing storm of enthusiasm from audiences, critics, and music industry’s main actors. After delivering electrifying performances at Quebec’s major festivals, including the Festival International de Jazz de Montréal, Angine de Poitrine now sets their sights on the prestigious Trans Musicales in Rennes.\n\nAll these facts are strictly reserved to the humanoids: Angine de Poitrine are simply thrilled to play rock ’n’ roll.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32108225/4a86c60d-8bfd-4726-b84b-888a5cbf556d.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment Presents",
+    "Listed time is doors"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17623603",
+   "title": "San Jose Sharks vs. Seattle Kraken",
+   "start": "2026-12-08T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "SAP Center",
+   "address": "525 West Santa Clara Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3322405,
+    -121.9016508
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/san-jose-sharks-vs-seattle-kraken-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsan-jose-sharks-vs-seattle-kraken-san-jose-california-12-08-2026%2Fevent%2F1C0064E79B0A9C09",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "By purchasing, you are sharing your contact info and ticket sales data with the NHL and the San Jose Sharks. The NHL may use this info to better understand fan engagement across the league, including to enable the NHL and its Member Clubs to customize their services and advertising. For more information including your NHL privacy choices, see www.nhl.com/info/privacy-policy.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33389829/8f2a9ce1-3dee-4c9d-aa01-0d76c9a9d158.png",
+   "categories": [
+    "Sports"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17728591",
+   "title": "Frost Children",
+   "start": "2026-12-08T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Castro",
+   "address": "429 Castro St, San Francisco, CA, 94114",
+   "locality": "San Francisco",
+   "geo": [
+    37.7619917,
+    -122.4347365
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/frost-children-tickets",
+   "ticket_url": "https://thecastro.com/events/frost-children-261208",
+   "price_text": "All Ages",
+   "is_free": false,
+   "sold_out": true,
+   "description": "Another Planet Entertainment Presents\nFrost Children\nTuesday, December 8 | The Castro",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33886348/8574a9a8-15a5-4b97-be59-c9fe61cd518f.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment Presents",
+    "Listed time is doors"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17811275",
+   "title": "Evolution of Eating Well with Dr. Daniel Lieberman and Greens Restaurant",
+   "start": "2026-12-08T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "KQED LIVE",
+   "address": "The Commons, KQED Headquarters - 2601 Mariposa Street, San Francisco, CA 94110, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/8/evolution-of-eating-well-with-dr-daniel-lieberman-and-greens-restaurant-tickets",
+   "ticket_url": "https://www.kqed.org/event/6833/evolution-of-eating-well-with-dr-daniel-lieberman-and-greens-restaurant",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34278326/2519378f-cb8f-4e01-9b0b-b2fd8cb310c3.png",
+   "categories": [
+    "Lecture/Education"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17341282",
+   "title": "A Season of Stars",
+   "start": "2026-12-08T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Luther Burbank Center for the Arts",
+   "address": "50 Mark West Springs Road, Santa Rosa, CA, 95403",
+   "locality": "Santa Rosa",
+   "geo": [
+    38.4931764,
+    -122.7492173
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/a-season-of-stars-tickets",
+   "ticket_url": "https://lutherburbankcenter.org/event/pink-martini-all-stars26/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Now in its 31st year, the unstoppable engine of joy that is Pink Martini continues to bring founder Thomas Lauderdale’s mission of multi-cultural connection and inclusion to concert stages on six continents. Presenting a mélange of catchy old-fashioned pop, global color, foot-tapping big band sound, and Hollywood glamour, Oregon’s most famous “little orchestra” performs music intended to appeal to everyone, regardless of age or background.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32042735/bbbb69b4-ffcc-488b-84f5-2bf85297cdbd.jpg",
+   "categories": [
+    "Variety"
+   ],
+   "notes": [
+    "Pink Martini All-Stars present"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17808953",
+   "title": "Johnny Taylor",
+   "start": "2026-12-08T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Punch Line San Francisco",
+   "address": "444 Battery St, San Francisco, CA, 94111",
+   "locality": "San Francisco",
+   "geo": [
+    37.795486,
+    -122.4001359
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/johnny-taylor-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjohnny-taylor-san-francisco-california-12-08-2026%2Fevent%2F1C00651F3AD5DC58",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Johnny Taylor\nTuesday, December 8 | ​Punch Line San Francisco",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34266572/27727e58-a42e-4252-9a4d-b68a726f65ad.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17934355",
+   "title": "Jamie Wolf",
+   "start": "2026-12-08T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Ave, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.802989,
+    -122.4143902
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/jamie-wolf-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjamie-wolf-san-francisco-california-12-08-2026%2Fevent%2F1C0065461785218A",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Jamie Wolf\nTuesday, December 8 | ​Cobb's Comedy Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34856785/31e6dfde-f7b5-48fd-bbc3-54c40f70e876.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17742732",
+   "title": "Wishy",
+   "start": "2026-12-08T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Independent",
+   "address": "628 Divisadero Street, San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": [
+    37.7755362,
+    -122.4376556
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/wishy-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fwishy-the-independent-tickets%2F15032533%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Please note - there is a delivery delay set for 2 weeks prior to show.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33952387/ccc32e09-ba82-44a0-8024-e216da3d9a30.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17865037",
+   "title": "Demetri Martin: Standup Comedy for Christmas",
+   "start": "2026-12-08T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "San Jose Improv",
+   "address": "62 S. Second Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3356047,
+    -121.8883856
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/demetri-martin-standup-comedy-for-christmas-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdemetri-martin-standup-comedy-for-san-jose-improv-tickets%2F14326174%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "price_text": "$43.19 - $119.88, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "There is a ticket delivery delay in place until two days prior to the event. Tickets will not be emailed until then. Tickets are only available online until the delivery delay is lifted.\n\nDO NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM\n\nTICKET RESALE IS STRICTLY PROHIBITED.\n\nTICKETS SUSPECTED OF BEING PURCHASED FOR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF THE SAN JOSE IMPROV.\n\nEVENT INFO:\n\nThere is a two-item minimum purchase requirement in the showroom for all guests.\n\nSeating is general admission, first-come, first-served, with the exception of groups and premium booths.\n\nNo cell phone use, photography or video recording is permitted during performances.\n\nAll sales are final.\n\nMISCELLANOUS:\n\nFor group sales info, e-mail our Events Manager to learn about special menu options and reserved seating.\n\nAdditional questions may be addressed in our Frequently Asked Questions.\n\nFor further assistance, contact San Jose Improv.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34532978/ea65a88c-6e95-4150-ab60-3492484c3a7d.jpg",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17686338",
+   "title": "Paradiso",
+   "start": "2026-12-08T21:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Make-Out Room",
+   "address": "3225 22nd St., San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7552647,
+    -122.4193588
+   ],
+   "url": "https://dothebay.com/events/2026/12/8/tecnologia-tickets",
+   "ticket_url": "http://makeoutroom.com",
+   "price_text": "FREE",
+   "is_free": true,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33677531/e2f0ca0b-a3d7-4956-910c-7eccb06cb9ec.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
   },
   {
    "source": "fleetweeksf",
@@ -57920,54 +59147,6 @@
    "image_url": null,
    "categories": [
     "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1633027",
-   "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
-   "start": "2026-10-02T09:00:00-07:00",
-   "end": "2026-10-02T10:00:00-07:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": null,
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-442/",
-   "ticket_url": "https://www.japaneseteagardensf.com/vist",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerJapanese Tea Garden’s Free Admission Hour (Golden Gate Park)The Japanese Tea Garden provides visitors from around the world with an opportunity to experience the natural beauty, tranquility, and harmony of a Japanese-style garden in the heart of San Francisco’s Golden Gate Park.\nOriginally created as a “Japanese Village” exhibit for the 1894 California Midwinter International Exposition, the Japanese Tea Garden endures as one of the most popular attractions in San Francisco, featuring classic elements such as an arched drum bridge, pagodas, stone lanterns, stepping stone paths, native Japanese plants, serene koi ponds, and a zen garden. Cherry blossom trees bloom throughout the garden in March and April.\n\nAdmission to the Japanese Tea Garden is free for San Francisco residents with valid ID. Free hours for everyone (even non-residents) are 9-10 am every Monday, Wednesday and Friday.\nPlease note that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiwara Tea Garden, Golden Gate Park, SF\nFREE for San Francisco Residents w/ ID\nFREE for Everyone from 9-10 am on Mondays, Wednesdays and Fridays\nNon Resident Fees\nAdults: $12-16 (depends on season)\n(February – November) $14\n(December – January) $12\n(Weekends year-round) $16\nSeniors (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildren (under 5) FREE\nHours Of Operation\nLast entry 30 minutes before closing\nSpring – Summer Hours\nMarch – October\n9am – 5:45pm\nFall – Winter Ho...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/07/japaneseteagarden-scaled-e1595352236641.jpeg",
-   "categories": [
-    "Outdoors"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1638176",
-   "title": "Free Parenting Workshop: Decode Your Child’s Behavior (Mill Valley)",
-   "start": "2026-10-02T09:00:00-07:00",
-   "end": "2026-10-02T10:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Marin Horizon School",
-   "address": "305 Montford Ave, Mill Valley CA 94941",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-parenting-workshop-decode-childs-behavior-mill-valley/",
-   "ticket_url": "https://www.marinhorizon.org/student-life/parent-education",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerBehind the Behavior: Understanding Your Child at Every Developmental Stage and What You Might See at Home\nFriday, October 2, 2026\n9:00-10:00 a.m. / Marin Horizon School Library\nWhen we think about the beginning of the school year, we think about new teachers, new friends, new expectations, and all of the logistics of parenting a school-aged child. And then comes the push for more independence, the nightly meltdown that didn’t happen last year, or the “please don’t talk to me in front of my friends.” We may find ourselves wondering what happened and how did we get here? It’s easy to feel lost when our children enter a new developmental stage. We may understand what to expect from a parenting book or article, but it can be much harder to recognize and respond to these changes when they show up at home. In this workshop, we’ll explore the developmental stages of the elementary and middle school years, what to expect as children grow and change, and practical ways to navigate these new phases while strengthening communication, connection, and understanding with your child.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-12.15.26-PM.png",
-   "categories": [
-    "Kids Families"
    ],
    "notes": []
   },
@@ -65055,6 +66234,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1641840",
+   "title": "“Luna at The Lot”: Free Outdoor Oakland Ballet “Día de los Muertos” Sneak Peek (2026)",
+   "start": "2026-10-09T17:30:00-07:00",
+   "end": "2026-10-09T18:30:00-07:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Lot 2270",
+   "address": "2270 Broadway, Oakland, CA 94612",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/luna-lot-free-outdoor-oakland-ballet-da-de-los-muertos-sneak-peek-2026/",
+   "ticket_url": "https://www.eventbrite.com/e/luna-at-the-lot-tickets-2002245116041",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Oakland Ballet Company presents a free outdoor sneak peek of Luna Mexicana at Lot 2270 in downtown Oakland. The Día de los Muertos-themed performance previews the company’s 2026 production, blending classical ballet and Mexican cultural traditions. Attendees can meet the dancers, and registered guests who check in can enter a raffle for tickets to Luna Mexicana and The Nutcracker.\nEVENT DETAILS\n\nWHAT: Luna at the Lot — Live Outdoor Oakland Ballet Performance and Luna Mexicana Preview\nWHEN: Friday, October 9, 2026 | 5:30–6:30 p.m.\nWHERE: Lot 2270, 2270 Broadway, Oakland, CA (at 23rd Street)\nWHO: Oakland Ballet Company dancers, Northlake, and Oakland community members\nADMISSION: Open to the public; advance registration encouraged.\n\nFriday evening, October 9, the Oakland Ballet Company will transform a downtown Oakland gathering space into an outdoor stage filled with vibrant costumes, extraordinary dance, and the joyful spirit of Mexico’s Día de los Muertos celebration.\n\n“Luna at the Lot,” presented in partnership with Northlake, will give Oakland residents and local media a special sneak peek at Luna Mexicana, one of the Bay Area’s most elaborate and inclusive Day of the Dead performing arts celebrations. The event previews Oakland Ballet’s highly anticipated 2026 production, which will feature newly choreographed works by Esteban Hernández, adding a fresh artistic dimension to a beloved Oakland tradition.\nBlending classical ballet with Mexican cultural traditions, Luna Mexica...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/image.jpeg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1636373",
    "title": "Park Chalet’s Oktoberfest w/ Oompa Band + Stein Contest (Golden Gate Park)",
    "start": "2026-10-09T18:00:00-07:00",
@@ -65218,6 +66421,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/FoF-Campus-Slides-1.jpg",
    "categories": [
     "Community"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1640582",
+   "title": "“Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Oct. 8-31)",
+   "start": "2026-10-09T18:30:00-07:00",
+   "end": "2026-10-09T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Oasis",
+   "address": "298 11th St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sqream-oasis-wild-90s-drag-horror-musical-oct-831/",
+   "ticket_url": "https://www.eventbrite.com/e/sqream-tickets-1999540673982",
+   "price_text": "$50.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "“Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Oct. 8-31)\nPseuda Name\nDo you like scary movie drag parodies???\nGet ready for the RETURN of the ’90s slasher sing-along of your teenage dreams! From the production team that brings you the immersive The Rocky Horror Show experience comes SQREAM, a drag horror parody set to all your favorite hit songs of the 1990s. Join the gang as they navigate a super queer whodunnit musical that spans the entire OASIS nightclub.\nThere are three entrance times for SQREAM: 6:30pm, 6:45pm, and 7pm.\nAll three entrance times on the same night will lead you to the same showing.\n\nWho will survive? Who is the killer behind the gay Ghostface mask? How are they going to do the garage door scene? Are they seriously using “MMMbop?!” Find out in a night of singing, dancing, blood-drenched comedy that’s as campy, sexy, & gory as your millennial adolescence. They’re ready to slay… are you?\nBack by popular demand, get your tickets now before your chances are SLASHED away!\nTimed entry at 6:30PM, 6:45PM or 7PM; all groups see the same performance.\nPerformance Dates:\nOct. 8, 9,10, 14, 15, 16, 17, 21, 22, 23, 24, 26, 28, 29, 30 and 31.\n\nUpcoming “Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Oct. 8-31) Events\nFri 10/9 “Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Oct. 8-31)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Sqream2026_Evian_8.5x11_notext4.jpg",
+   "categories": [
+    "Theater Performance"
    ],
    "notes": []
   },
@@ -78080,6 +79307,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/793351448_2248035542695260_5128035463894931723_n.jpg",
    "categories": [
     "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1641848",
+   "title": "“Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Halloween 2026)",
+   "start": "2026-10-31T18:30:00-07:00",
+   "end": "2026-10-31T21:00:00-07:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Oasis",
+   "address": "298 11th St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sqream-oasis-wild-immersive-90s-drag-horror-musical-halloween-2026/",
+   "ticket_url": "https://www.eventbrite.com/e/sqream-tickets-1999540673982",
+   "price_text": "$50.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "“Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Oct. 8-31)\nPseuda Name\nDo you like scary movie drag parodies???\nGet ready for the RETURN of the ’90s slasher sing-along of your teenage dreams! From the production team that brings you the immersive The Rocky Horror Show experience comes SQREAM, a drag horror parody set to all your favorite hit songs of the 1990s. Join the gang as they navigate a super queer whodunnit musical that spans the entire OASIS nightclub.\nThere are three entrance times for SQREAM: 6:30pm, 6:45pm, and 7pm.\nAll three entrance times on the same night will lead you to the same showing.\n\nWho will survive? Who is the killer behind the gay Ghostface mask? How are they going to do the garage door scene? Are they seriously using “MMMbop?!” Find out in a night of singing, dancing, blood-drenched comedy that’s as campy, sexy, & gory as your millennial adolescence. They’re ready to slay… are you?\nBack by popular demand, get your tickets now before your chances are SLASHED away!\nTimed entry at 6:30PM, 6:45PM or 7PM; all groups see the same performance.\nPerformance Dates:\nOct. 8, 9,10, 14, 15, 16, 17, 21, 22, 23, 24, 26, 28, 29, 30 and 31.\n\nUpcoming “Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Oct. 8-31) Events\nFri 10/9 “Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Oct. 8-31)Sat 10/31 “Sqream” Oasis’ Wild + Immersive ’90s Drag Horror Musical (Halloween 2026)Disclaimer: Please double check event information with the event organize...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Sqream2026_Evian_8.5x11_notext4.jpg",
+   "categories": [
+    "Theater Performance"
    ],
    "notes": []
   },
@@ -91673,7 +92924,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Taking place under the twinkling Spectra lights, the Fall Family Festival on October 17th, from 4 to 7pm; features fun carnival games, free pumpkin decorating, face painting, the San Francisco Public Library Bookmobile, and entertainment such as stilt walkers and bubble magic with Sterling Bubble.\nThe selfie station with the autumn-themed Petalz Flower Truck is a must stop photo op with City Hall as the backdrop, as are the carnival treats: cotton candy, candy apples and local food trucks featuring fall fair favorites.\nSign up on Eventbrite for an event day reminder, but no ticket needed to attend this free event.\nThis event is sponsored by: Avenue Greenlight, an investment engine for San Francisco’s community projects, providing high-impact grants with tangible results; along with Civic Center Community Benefit District, Illuminate, the San Francisco Public Library and San Francisco Recreation & Parks Department.\n\nAlso be sure to check out adjacent kid & family events, San Francisco District Attorney’s Office‘s Keepin’ It Safe in the City (Civic Center Plaza, 10am-2pm) and Market Street Arts‘ Market Street Arts & Theater Festival (many locations, including UN Plaza, with circus and aerial performances in the evening, event runs 4-10pm).",
+   "description": "Taking place under the twinkling Spectra lights, the Fall Family Festival on October 17th, from 4 to 7pm; features fun carnival games, free pumpkin decorating, face painting, the San Francisco Public Library Bookmobile, and entertainment such as stilt walkers and bubble magic with Sterling Bubbles.\nThe selfie station with the autumn-themed Petalz Flower Truck is a must stop photo op with City Hall as the backdrop, as are the carnival treats: cotton candy, candy apples and local food trucks featuring fall fair favorites.\nSign up on Eventbrite for an event day reminder, but no ticket needed to attend this free event.\nThis event is sponsored by: Avenue Greenlight, an investment engine for San Francisco’s community projects, providing high-impact grants with tangible results; along with Civic Center Community Benefit District, Illuminate, the San Francisco Public Library and San Francisco Recreation & Parks Department.\n\nAlso be sure to check out adjacent kid & family events, San Francisco District Attorney’s Office‘s Keepin’ It Safe in the City (Civic Center Plaza, 10am-2pm) and Market Street Arts‘ Market Street Arts & Theater Festival (many locations, including UN Plaza, with circus and aerial performances in the evening, event runs 4-10pm).",
    "image_url": null,
    "categories": [
     "Community",
@@ -93139,35 +94390,12 @@
     "1633527": "2026-09-08T17:44:19",
     "1633530": "2026-09-09T03:32:05",
     "1633539": "2026-09-08T17:43:21",
-    "1633542": "2026-08-25T20:13:50",
-    "1633544": "2026-08-25T20:13:53",
-    "1633546": "2026-08-25T20:13:56",
-    "1633548": "2026-08-25T20:13:59",
-    "1633550": "2026-08-25T20:14:01",
     "1633552": "2026-09-27T00:02:57",
     "1633564": "2026-09-27T00:29:28",
     "1633567": "2026-09-08T17:43:28",
     "1633570": "2026-09-20T14:38:28",
     "1633573": "2026-09-19T00:32:36",
-    "1633576": "2026-08-25T21:47:33",
-    "1633579": "2026-08-25T21:48:25",
-    "1633582": "2026-08-25T21:51:21",
-    "1633584": "2026-08-25T21:51:56",
-    "1633586": "2026-09-16T23:42:29",
-    "1633590": "2026-08-25T21:52:21",
-    "1633594": "2026-08-25T21:54:20",
-    "1633597": "2026-08-25T21:55:48",
-    "1633599": "2026-08-25T21:56:16",
-    "1633603": "2026-08-25T22:01:32",
-    "1633605": "2026-08-25T22:02:09",
-    "1633609": "2026-08-25T22:04:20",
-    "1633611": "2026-08-25T22:04:37",
-    "1633615": "2026-08-25T22:05:34",
-    "1633617": "2026-08-25T22:06:01",
-    "1633622": "2026-08-25T22:06:38",
-    "1633624": "2026-08-25T22:06:59",
     "1633628": "2026-09-22T12:52:31",
-    "1633631": "2026-08-25T23:22:02",
     "1633639": "2026-09-01T17:18:41",
     "1633642": "2026-08-28T17:26:38",
     "1633648": "2026-09-19T00:24:13",
@@ -94683,6 +95911,7 @@
     "1640560": "2026-10-06T18:40:47",
     "1640563": "2026-10-06T18:40:30",
     "1640566": "2026-10-06T18:40:26",
+    "1640582": "2026-10-09T16:44:44",
     "1640585": "2026-10-06T18:41:36",
     "1640588": "2026-10-06T18:47:58",
     "1640591": "2026-10-06T18:38:42",
@@ -94860,6 +96089,8 @@
     "1641716": "2026-10-08T18:15:54",
     "1641782": "2026-10-09T00:14:24",
     "1641784": "2026-10-09T00:14:25",
+    "1641840": "2026-10-09T16:36:50",
+    "1641848": "2026-10-09T16:45:20",
     "19343": "2026-09-09T04:55:15",
     "21603": "2026-08-28T19:48:09",
     "355958": "2026-09-17T17:40:36",
@@ -95035,11 +96266,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
   },
-  "caldiscovery-festival-1ea87973add09387@sf-cal": {
-   "content_hash": "d74a4f86878d0502f511088bd25757c0d2abcfed88ae0fa673b2bcc4ff79c27b",
-   "sequence": 0,
-   "last_modified": "2026-10-09T10:42:06.199434Z"
-  },
   "caldiscovery-festival-25027dba387035b8@sf-cal": {
    "content_hash": "8c33ce04ba46f97f08e85cc9bd912fc6eedc349d36c9f10bd2a3d73d96c30e89",
    "sequence": 0,
@@ -95049,6 +96275,16 @@
    "content_hash": "7d2de661d020bfa423ba34f5aed10e700a9b1594a553c882e5b4f200e0fb59e9",
    "sequence": 1,
    "last_modified": "2026-10-06T17:22:18.408093Z"
+  },
+  "caldiscovery-festival-2d0bbe739c1a715e@sf-cal": {
+   "content_hash": "d74a4f86878d0502f511088bd25757c0d2abcfed88ae0fa673b2bcc4ff79c27b",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "caldiscovery-festival-37ad40f058297947@sf-cal": {
+   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "caldiscovery-festival-3dbc64f368d9fb22@sf-cal": {
    "content_hash": "e4bbcb04384f07b68137b5202cd15cebe1bc732e67e53608066dbc59be232098",
@@ -95100,6 +96336,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
   },
+  "caldiscovery-festival-78c03ed2f58a5049@sf-cal": {
+   "content_hash": "8c557c0903e5f614f6422928b43dd97aed4ea6820d73574523fdef0afd48e323",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "caldiscovery-festival-7c43f823c667628a@sf-cal": {
    "content_hash": "f1284aced7b52e8367d5e38554d187b7b53ac01cb9bbb478f9d63c3e1d2ee688",
    "sequence": 0,
@@ -95110,20 +96351,15 @@
    "sequence": 1,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
-  "caldiscovery-festival-820692c343d3b66d@sf-cal": {
-   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
-   "sequence": 0,
-   "last_modified": "2026-10-09T10:42:06.199434Z"
-  },
   "caldiscovery-festival-83f2ba9cc733878d@sf-cal": {
    "content_hash": "9d6abff4c853e39a45629c6619e3bda0fd5954ac0bba108f36f8064507b7a4e1",
    "sequence": 1,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
-  "caldiscovery-festival-879640fc606e5a3e@sf-cal": {
-   "content_hash": "8c557c0903e5f614f6422928b43dd97aed4ea6820d73574523fdef0afd48e323",
+  "caldiscovery-festival-964719c478234b07@sf-cal": {
+   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
    "sequence": 0,
-   "last_modified": "2026-10-09T10:42:06.199434Z"
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "caldiscovery-festival-970827771cc92965@sf-cal": {
    "content_hash": "ec7304138ed88b6e13f597c31db194b3d71718205888d89140dd12fd29ee4f11",
@@ -95165,16 +96401,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
   },
-  "caldiscovery-festival-c80bd06521ee6485@sf-cal": {
-   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
-   "sequence": 0,
-   "last_modified": "2026-10-09T10:42:06.199434Z"
-  },
-  "caldiscovery-festival-cbce5c26803a09c3@sf-cal": {
-   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
-   "sequence": 0,
-   "last_modified": "2026-10-09T10:42:06.199434Z"
-  },
   "caldiscovery-festival-cd452438fd13a2cf@sf-cal": {
    "content_hash": "04402f561ac669e25e4b41c6b74b1870d996878b1d9cafea5c00ff3916a66f8e",
    "sequence": 1,
@@ -95189,6 +96415,11 @@
    "content_hash": "fd1ad9fdfbfb6a6f2320a3c26850dfb5d20476ee5ec78f8c2e5d5c330e2b811c",
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
+  },
+  "caldiscovery-festival-dd386691698d6f84@sf-cal": {
+   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "caldiscovery-festival-e551a3cd2bd8325f@sf-cal": {
    "content_hash": "cd355a2f6aee4d5075292469ad6b94b39ae43f9193e777da6d00613152e8d977",
@@ -95376,9 +96607,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-16822925@sf-cal": {
-   "content_hash": "bb255b06836742b8b0f6ba3dbfae680fd458a1b0fddc1de2c7090c72c150f410",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "9fdfe44739b4df308e1fe7ff0d61bd8871617c52e10152cfcd34c991753f2a90",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-16869107@sf-cal": {
    "content_hash": "ac73855023261cc62adaf3e40e13b93e263fd904db1d0b6557ccb24e961caf74",
@@ -97636,9 +98867,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17637968@sf-cal": {
-   "content_hash": "ae1414d481afa9ddb3fe117d2be1e6e65628bbc8854afcf2f0fccfe20028312c",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "323636f60b808910fa4e9f7b78c5845ad2491105f440cb35e49d225da40a927a",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17638626@sf-cal": {
    "content_hash": "1ba0be023b2587fe4ad2e5f267dbcd5da97ff8cd948ca5ec5c8e32c4b08631a1",
@@ -98100,6 +99331,11 @@
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
+  "dothebay-17686338@sf-cal": {
+   "content_hash": "969e57cc2724df229e4a5793b38b767c0e33d145e535875984c908546fd4a9c4",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17687565@sf-cal": {
    "content_hash": "f9b775ac87330fae3d33941916aee6f6acbb1c4d75d1b52738bb98ccddf4ff05",
    "sequence": 3,
@@ -98485,6 +99721,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17728591@sf-cal": {
+   "content_hash": "6631a4feed70c2122bd3f8cb72f8b2e2225c630a627ba2d8d6eb8fa597feb014",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17729433@sf-cal": {
    "content_hash": "f71f41b490f7304a7334fe0ed3d9669363e297d16f71ebec4b27dd228ab70cc9",
    "sequence": 1,
@@ -98716,9 +99957,14 @@
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
   "dothebay-17742726@sf-cal": {
-   "content_hash": "5baf49d27f459c2b961e0e489800987d72c2696a539152f0715fe4914e5da486",
+   "content_hash": "299953245668144082149bc51358c0cd23e0e8c9e7063b1bf6868ce5a26de62a",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17742732@sf-cal": {
+   "content_hash": "eb022224eabe7aa4b5fd944969e4f85d563143ab0ba8bd6575ad7e8379843e9c",
    "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17742961@sf-cal": {
    "content_hash": "32d682124b548f9e026df33229b3ab31d3a8d4af548bca34d4f75614fcd4b92c",
@@ -99050,6 +100296,16 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17764653@sf-cal": {
+   "content_hash": "c4d26572ac0b5348653d826d55dbf8516c34c810afdda4f55a2cc7c8eeb9adf2",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17764654@sf-cal": {
+   "content_hash": "8d609ed17fec434f8c7770e04beddfce6362533f8c12ccb848c54a41c06b0bb8",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17764847@sf-cal": {
    "content_hash": "0c5a5d30d9b8340c19fe2ab78e7489055effbac8a6ec9ffc1192ac9aaa80b9c6",
    "sequence": 0,
@@ -99066,9 +100322,9 @@
    "last_modified": "2026-10-08T10:42:32.669750Z"
   },
   "dothebay-17766983@sf-cal": {
-   "content_hash": "49d42e713ecbc3bfbcd30e826d8d78ba26362b1eff8179f1c3e543cad1b206d7",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "ece19b343b5c6af058d0acb62961f40ef5bf065d4b5278764c823380626dd1dc",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17766989@sf-cal": {
    "content_hash": "d2718d66c873b48defe3f752581f8ebd14b5028a903a1faa84a7f0bb57a12d1d",
@@ -99370,6 +100626,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17808953@sf-cal": {
+   "content_hash": "c3465b78fdee12f81f72546bf2d84db0629487e7df87b87dae01625e4df79fd7",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17810263@sf-cal": {
    "content_hash": "592dc7697a30e2949bdcf657659297b4a8f1c27b5bff7676332ae5c018386b4a",
    "sequence": 0,
@@ -99446,14 +100707,19 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17811270@sf-cal": {
-   "content_hash": "a128058d538ca5abc2df9cf6d25c24d36757df55ff15d1fd76d0221c9508c922",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "2a1c2152da05d95bde3fc88333726198c75be824e7ce3e374b852bc023367cd6",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17811273@sf-cal": {
    "content_hash": "1e646fbc098bf559581b0c7f56108ce00f393e4c897da07ad0710fc51da1fd14",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
+  },
+  "dothebay-17811275@sf-cal": {
+   "content_hash": "eb3e60baa2b881ca0aa67c04f72e311a0ca3b95205f28e90c04d47a988508b08",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17813441@sf-cal": {
    "content_hash": "9822cf6d2ccdece5ffb0e8e6c4bceba9d3c0d9857ccadb73662bfc489402b825",
@@ -100526,9 +101792,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17873793@sf-cal": {
-   "content_hash": "24c1066181206b168fefae0dd16ca3b3e0bc064b0f8e93221a54a05c9d117cfb",
-   "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
+   "content_hash": "e73a1eac9ad7d0feec7f4f04ec0e7074b770bf4a3875b021431617fabfbfd76c",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17873883@sf-cal": {
    "content_hash": "ef6da37a264a43359fa7a24c7afffe318c44d5ffbde2ceef2e098e50a597041c",
@@ -101011,9 +102277,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17902425@sf-cal": {
-   "content_hash": "b22024635ce63e46626cf0d4584912c204125cd4d01e847fcea5c1747a915d83",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "27060cd8f2d15cd77288036707fd5c141779479a112a271f69c58d3e55bfe391",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17902439@sf-cal": {
    "content_hash": "6d7f18887b02c246255572f802ee4faacc9f1f495deb80a333902e0c04b2fbdd",
@@ -101321,9 +102587,9 @@
    "last_modified": "2026-10-06T00:12:00.254327Z"
   },
   "dothebay-17920134@sf-cal": {
-   "content_hash": "086c17b295fe16703c79fc797a01bb70de0e17e542e4780d340afbc5707b19b1",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "8ef659b371e4b6077b631e4326b33a62f6cdb4d7a0041d4313637bd836215397",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17921174@sf-cal": {
    "content_hash": "94c23b23a0ffcca84d2cfb890a9c4943280ef13f926709264a229675dbeac43a",
@@ -101499,6 +102765,11 @@
    "content_hash": "39657264d1f52ebba9639e2c45968aff3b6f9351f5a7bae6890865a213d0ae4c",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
+  },
+  "dothebay-17925940@sf-cal": {
+   "content_hash": "a2f7ab540c63c5987fce07dde540dbb9c5d9071bf8f5651e4e5dfa57c162959f",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17926021@sf-cal": {
    "content_hash": "8a7fa26246d641cb1ed44fe1cadef1b020c118fe74994830cf4a4c579bfaf484",
@@ -101740,6 +103011,11 @@
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
+  "dothebay-17931354@sf-cal": {
+   "content_hash": "300a3d7fd7be4bfc67adcacfb0fc029abed9a6a51386ccdeae09802c8c8c9278",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17931638@sf-cal": {
    "content_hash": "e717fb767ab3742f7b4504f1c839a397a66355120783ed8039ec94e56f5a1111",
    "sequence": 0,
@@ -101790,6 +103066,11 @@
    "sequence": 0,
    "last_modified": "2026-10-08T01:03:30.608947Z"
   },
+  "dothebay-17934355@sf-cal": {
+   "content_hash": "f4fa84c7e89c1f6076b168b770cc1cd362babcf6c243573fe926fba802e0e925",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17934401@sf-cal": {
    "content_hash": "32c199ccf02150fd44bb1366e53bc1b19f904d91134d5b8ab7ddad20fd13fae0",
    "sequence": 0,
@@ -101805,15 +103086,105 @@
    "sequence": 0,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
+  "dothebay-17936790@sf-cal": {
+   "content_hash": "fe322fd9387c9962a931398304a1fd16731e23eb4a79b7afadb1a5191c3130d8",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17937378@sf-cal": {
    "content_hash": "c7b129720376a7befa32b2363f7ce8f8924b3641b60451cda8cc8dbbd84c2415",
    "sequence": 0,
    "last_modified": "2026-10-09T01:16:42.432147Z"
   },
+  "dothebay-17937699@sf-cal": {
+   "content_hash": "aed3494e192a8634acbc7566557facab8526e9af3dd5b71e89f5cbe0bd8b28ab",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17937736@sf-cal": {
+   "content_hash": "3287ca4887b895c7d5ae279a381a4f4dd38c709a7803ea08ec32abba17d4aec8",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "dothebay-17939431@sf-cal": {
    "content_hash": "df25fb0422f6774196a2e9fa234c33452aed69921570e0fc07362141be2d18cb",
    "sequence": 0,
    "last_modified": "2026-10-09T10:42:06.199434Z"
+  },
+  "dothebay-17940397@sf-cal": {
+   "content_hash": "322b8385c7ae7ebf41e0cd5923e2bbe1281c987d273d63b701b582efbd17065e",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940409@sf-cal": {
+   "content_hash": "71a0fe01f7c3c5bb07f10a2ea84f2277ef87596ee20afb96c78aafa1dd8c8bc9",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940505@sf-cal": {
+   "content_hash": "6c6052772f70c68ad5d0e892a9e507dd9db79c2ce607c00fab32199046676873",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940517@sf-cal": {
+   "content_hash": "83b16192c6c6f5a4d3c797a2edc44f6b932d5d5ce6d8e061b386b5fb0e62d708",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940532@sf-cal": {
+   "content_hash": "dd3710c462431326341baa0cc2db651c8f2eccf7a6f5e0c2c19e78ed04d952a6",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940587@sf-cal": {
+   "content_hash": "aae934290b3b1bcb5d5b411b26149983405ee67d6613bcf8485ccd85da5c2d90",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940650@sf-cal": {
+   "content_hash": "e590d91e591e7ac8fceee0f356564d679db1fee5a4aa309251c1ef8cecc77c2e",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940667@sf-cal": {
+   "content_hash": "fd42a3db862e78297365218a0fad9b140962f08a673dff0b31092ba3eced1d31",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940676@sf-cal": {
+   "content_hash": "993b33b2bd2a836f36957c3a2081140aee0eaaae3d23578f0b337bb59e5fa793",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940790@sf-cal": {
+   "content_hash": "b3cf8d8a97d639aa717fd1f898169eb42075f286710374ffd83f40d694f51187",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940814@sf-cal": {
+   "content_hash": "a8b0f6d21099d605ca9e05e7d8ea6ed3da2888773a979cb8197ad473c4f3276c",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940872@sf-cal": {
+   "content_hash": "b3afe57cbb6643d632bfd10065426f7c07a965377a864bb0466e51a251162048",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940885@sf-cal": {
+   "content_hash": "b01792b7ef5951649d5661e0e028f5463d5625f619b3453ef49a72b66cd6dbbf",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940892@sf-cal": {
+   "content_hash": "4a2f6f83f61209bfcc341a142b041947972b3022e36c6d5f75665a953ba9c4ec",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
+  "dothebay-17940895@sf-cal": {
+   "content_hash": "d0d1ef05ff585ce480b072b6a2df9d1264c6c2aabe2734b64a34a485d60d8d6a",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "fleetweeksf-52738-20261011@sf-cal": {
    "content_hash": "6f45d999f681ab2bf7ecb5d2dfe10ece2038da1c101012f90c87477e9d2036f3",
@@ -102232,11 +103603,6 @@
   },
   "funcheap-1633018@sf-cal": {
    "content_hash": "b523a212d494393d83845cdd9fde126c8f2c5fbd52e8234738bea94301c70170",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1633027@sf-cal": {
-   "content_hash": "089b9e1bebaa2070ad9e217a458cbd6cf6c1d624ba3d996af73d3bb9c84e4642",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -103820,11 +105186,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1638176@sf-cal": {
-   "content_hash": "ae1b0251365531d7fe5b16c53e78a345809abb506f79871f71de90ab98137a1e",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1638179@sf-cal": {
    "content_hash": "5f6fb3762ebc4eb3bdcf54e6f62e72dbcd087e26c2caeaee5609410363e6e30a",
    "sequence": 0,
@@ -105270,6 +106631,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T19:12:50.541261Z"
   },
+  "funcheap-1640582@sf-cal": {
+   "content_hash": "fde4a079262f1c0b890f1e6f623b3124a73843f773158909e17a26fbf4c03a67",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
+  },
   "funcheap-1640588@sf-cal": {
    "content_hash": "d6971f65234b70c7c51d453ff9657d0fed31118382c34a408be4f85baa9885bf",
    "sequence": 0,
@@ -105789,6 +107155,11 @@
    "content_hash": "d52af0b0337c8fc335bda94cb83c2b9172744d5ab8374ba8e8cd9bf470e956b5",
    "sequence": 0,
    "last_modified": "2026-10-09T01:16:42.432147Z"
+  },
+  "funcheap-1641848@sf-cal": {
+   "content_hash": "ce25a7600c17b70f997915ac069f5f890acddb59193fed8249249f97840ca76a",
+   "sequence": 0,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "funcheap-382389@sf-cal": {
    "content_hash": "ff0f20847522ea2447fd7ea0550afb1b78b0d82b27ae9c564c237ca9f26a9088",
@@ -106731,9 +108102,9 @@
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
   "sfciviccenter-d80d61084dce68fb@sf-cal": {
-   "content_hash": "d4dd1a97902a3c24922ecbbf2662290597498a20115d348a9d86ed0e17bd3267",
-   "sequence": 0,
-   "last_modified": "2026-10-06T17:22:18.408093Z"
+   "content_hash": "11af16d35b9cdc5fd55d964b7592ebd8516dace81bdf219cec6fa24d59004d06",
+   "sequence": 1,
+   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "sfrecpark-civic-center-259b9ffbd777f3a2@sf-cal": {
    "content_hash": "b0a060ac71896e8813fbc4eb4b0d6aaa8cfb579756e5d7d5bfb07b4f3c14501e",
