@@ -858,9 +858,9 @@ BEGIN:VEVENT
 SUMMARY:Quinteto Latino
 DTSTART;TZID=America/Los_Angeles:20261008T123000
 DTEND;TZID=America/Los_Angeles:20261008T143000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261009T011642Z
 UID:dothebay-17207816@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:A wind quintet with an imperative mission\, Quinteto Latino is
   a singular Bay Area-based chamber ensemble devoted to breaking down the r
@@ -876,12 +876,11 @@ DESCRIPTION:A wind quintet with an imperative mission\, Quinteto Latino is
  y commissioned by the ensemble.\n\nSupported in part by the Alice M. Ditso
  n Fund of Columbia University.\n\nTickets: https://ybgfestival.org/event/q
  uinteto-latino-2026/\nDetails: https://dothebay.com/events/2026/10/8/quint
- eto-latino-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://ybgfest
- ival.org/event/quinteto-latino-2026/
+ eto-latino-tickets\nSource: DoTheBay
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31425241/a7ae8815-4603-4cea-862e-ef73ba36d879.jpg
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261009T011642Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -2297,6 +2296,29 @@ LOCATION:Skatin’ Place\, 6th Ave. and Kennedy Drive\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-
  300/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors Open Practice
+DTSTART;TZID=America/Los_Angeles:20261018T150000
+DTEND;TZID=America/Los_Angeles:20261018T170000
+DTSTAMP:20261009T011642Z
+UID:dothebay-17937378@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors Open Practice\n\nTickets: https://ticket
+ master.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.
+ ticketmaster.com%2Fgolden-state-warriors-open-practice-san-francisco-calif
+ ornia-10-18-2026%2Fevent%2F1C00654288E9A67D\nDetails: https://dothebay.com
+ /events/2026/10/18/golden-state-warriors-open-practice-tickets\nSource: Do
+ TheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34871662/a688b48f-2998-450f-b083-a7263aa7cb24.png
+LAST-MODIFIED:20261009T011642Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/18/golden-state-warriors-open-prac
+ tice-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
@@ -5224,6 +5246,42 @@ URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-final-week-of-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intro to Personal Safety & Self-Defense Class | SF
+DTSTART;TZID=America/Los_Angeles:20261202T183000
+DTEND;TZID=America/Los_Angeles:20261202T193000
+DTSTAMP:20261009T011642Z
+UID:funcheap-1641782@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports Fitness
+DESCRIPTION:Submitted by the Event OrganizerIntro to Personal Safety & Sel
+ f-Defense Class | SF\nImpact Bay Area\nThis one hour class provides an int
+ roduction to IMPACT Bay Area’s style of empowerment self-defense. In thi
+ s class students develop intuition\, situational awareness\, congruent bod
+ y language and verbal skills to deescalate and deter assault and harassmen
+ t\, as well as learn two simple and effective physical techniques.\nStuden
+ ts who complete this class will receive a discount off a future full-lengt
+ h Basics course. 1 Hour Intro classes are open to adults of all genders an
+ d are totally free.\n\nIntro to Personal Safety & Self-Defense Class\nEver
+ y 1st Wednesday of the Month | 6:30 to 7:30 pm\nSecret Location SF (locati
+ on will be sent to you after RSVP)\nFREE\, but an RSVP is required\n– Up
+ dated 6/26/19 – Event info last checked via website\n\nUpcoming Intro to
+  Personal Safety & Self-Defense Class | SF Events\nWed 11/4 Intro to Perso
+ nal Safety & Self-Defense Class | SFWed 12/2 Intro to Personal Safety & Se
+ lf-Defense Class | SFWed 1/6 Intro to Personal Safety & Self-Defense Class
+  | SFDisclaimer: Please double check event information with the event orga
+ nizer as events can be canceled\, details can change after they are added 
+ to our calendar\, and errors do occur.\n\nFree\n\nTickets: http://www.impa
+ ctbayarea.org/free_one_hour_intro_classes\nDetails: https://sf.funcheap.co
+ m/intro-to-personal-safety-self-defense-class-sf-103/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/01/Self-d
+ efense.png
+LAST-MODIFIED:20261009T011642Z
+LOCATION:Secret Location (SF)\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/intro-to-personal-safety-self-defense-class-sf
+ -103/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
  pe (Final Week of 2026)
 DTSTART;TZID=America/Los_Angeles:20261203T183000
@@ -5636,5 +5694,41 @@ LOCATION:The Great Highway\, Judah and Great Highway\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-sundays-at-the-beach-free-yoga-day-great-h
  ighway-41/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Personal Safety & Self-Defense Class | SF
+DTSTART;TZID=America/Los_Angeles:20270106T183000
+DTEND;TZID=America/Los_Angeles:20270106T193000
+DTSTAMP:20261009T011642Z
+UID:funcheap-1641784@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports Fitness
+DESCRIPTION:Submitted by the Event OrganizerIntro to Personal Safety & Sel
+ f-Defense Class | SF\nImpact Bay Area\nThis one hour class provides an int
+ roduction to IMPACT Bay Area’s style of empowerment self-defense. In thi
+ s class students develop intuition\, situational awareness\, congruent bod
+ y language and verbal skills to deescalate and deter assault and harassmen
+ t\, as well as learn two simple and effective physical techniques.\nStuden
+ ts who complete this class will receive a discount off a future full-lengt
+ h Basics course. 1 Hour Intro classes are open to adults of all genders an
+ d are totally free.\n\nIntro to Personal Safety & Self-Defense Class\nEver
+ y 1st Wednesday of the Month | 6:30 to 7:30 pm\nSecret Location SF (locati
+ on will be sent to you after RSVP)\nFREE\, but an RSVP is required\n– Up
+ dated 6/26/19 – Event info last checked via website\n\nUpcoming Intro to
+  Personal Safety & Self-Defense Class | SF Events\nWed 11/4 Intro to Perso
+ nal Safety & Self-Defense Class | SFWed 12/2 Intro to Personal Safety & Se
+ lf-Defense Class | SFWed 1/6 Intro to Personal Safety & Self-Defense Class
+  | SFDisclaimer: Please double check event information with the event orga
+ nizer as events can be canceled\, details can change after they are added 
+ to our calendar\, and errors do occur.\n\nFree\n\nTickets: http://www.impa
+ ctbayarea.org/free_one_hour_intro_classes\nDetails: https://sf.funcheap.co
+ m/intro-to-personal-safety-self-defense-class-sf-104/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/01/Self-d
+ efense.png
+LAST-MODIFIED:20261009T011642Z
+LOCATION:Secret Location (SF)\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/intro-to-personal-safety-self-defense-class-sf
+ -104/
 END:VEVENT
 END:VCALENDAR

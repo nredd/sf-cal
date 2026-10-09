@@ -40,33 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Queer Art Exhibition (SF Disability Cultural Center)
-DTSTART;TZID=America/Los_Angeles:20261001T170000
-DTEND;TZID=America/Los_Angeles:20261001T180000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1640045@sf-cal
-SEQUENCE:0
-CATEGORIES:Lgbtq
-DESCRIPTION:Submitted by the Event OrganizerIs art political? Of course\, 
- it is! From the brush strokes to the paint colors to the pen nib\, everyth
- ing is political! The real question is\, are you courageous enough to foll
- ow these stories? You may not share their world view\, but have you ever w
- ondered what the world on the other side of your bubble believes in? This 
- showcase highlights Queer tales that are often hidden from our platforms. 
- They don’t fit these neat boxes. But they exist. Join me as I revisit th
- ese tales\, actively dissent from the dominant narrative & engage with hum
- ans from across the spectrum.\n\nFree\n\nTickets: https://dcc.page/art-tal
- k\nDetails: https://sf.funcheap.com/queer-art-exhibition-sf-disability-cul
- tural-center/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_20
- 260930_140138.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:SF Disability Cultural Center\, 165 Grove St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/queer-art-exhibition-sf-disability-cultural-ce
- nter/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
  h)
 DTSTART;TZID=America/Los_Angeles:20261002T170000

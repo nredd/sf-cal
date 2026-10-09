@@ -4237,8 +4237,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Italian Heritage Festival & Parade
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-festival-d8fbaad610d0e7dc@sf-cal
+DTSTAMP:20261009T011642Z
+UID:caldiscovery-festival-e83cbe92068b2fd0@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
@@ -4248,7 +4248,7 @@ DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
  ls: https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
  ign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
+LAST-MODIFIED:20261009T011642Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
@@ -6149,35 +6149,42 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/brava-block-party-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bay Area Science Festival
+SUMMARY:Bay Area Science Festival 2026
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T130000
-DTSTAMP:20261008T185326Z
+DTSTAMP:20261009T011642Z
 UID:dothebay-17911453@sf-cal
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Arts & Family
-DESCRIPTION:UCSF Science & Health Education Partnership presents\nBay Area
-  Science Festival\nSaturday\, October 17 | Koret Quad - UCSF Mission Bay C
- ampus\n\nDiscover science fun and excitement together at the Bay Area Scie
- nce Festival — Northern California’s largest free all-ages science eve
- nt. Experience 125+ mind-blowing hands-on experiments\, games\, demonstrat
- ions\, stage performances\, film screenings and science talks. Bring the w
- hole family to race robots\, see your own brainwaves\, participate in a sc
- ience podcast\, marvel at science magic shows\, meet reptiles and amphibia
- ns face-to-face and much more. Organized by UCSF\, the festival is Saturda
- y\, October 17\, 11AM-4PM at UCSF’s Mission Bay Campus amid Koret Quad
- ’s expansive lawns\, walkways\, pine grove and renowned educational\, me
- dical and biotech research facilities — one block from Chase Center.\n\n
- Learn more at www.BayAreaScienceFestival.org.\n\nFree\nUCSF Science & Heal
- th Education Partnership Presents\n\nTickets: https://bayareasciencefestiv
- al.org/\nDetails: https://dothebay.com/events/2026/10/17/bay-area-science-
- festival-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funche
- ap.com/bay-area-science-festival-ucsf/\n- http://go.evvnt.com/3846545-0?pi
- d=12352&utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
- ca
+DESCRIPTION:Bay Area Science Festival 2026\nSaturday\, October 17 | Koret 
+ Quad\, UCSF Mission Bay Campus\n\nDiscover science fun and excitement toge
+ ther at the Bay Area Science Festival — Northern California’s largest 
+ free\, all-ages science event. Experience 125+ mind-blowing hands-on exper
+ iments\, games\, demonstrations\, stage performances\, film screenings and
+  science talks. Bring the whole family to race robots\, see your own brain
+ waves\, participate in a science podcast\, marvel at science magic shows\,
+  meet reptiles and amphibians face-to-face and much more.\n\nOrganized by 
+ the UCSF Science & Health Education Partnership\, BASF takes place on Satu
+ rday\, October 17\, from 11AM-4PM at UCSF’s Mission Bay Campus amid Kore
+ t Quad’s expansive lawns\, walkways\, pine grove and renowned educationa
+ l\, medical and biotech research facilities — one block from Chase Cente
+ r! Rain or shine\, with plenty of indoor and outdoor activities for all ag
+ es.\n\nNorthern California's Largest Free Celebration of Science\nThe 13th
+  edition brings together STEM role models\, families\, youth and adults to
+  experience the wonder of science\, inspire future scientists\, and explor
+ e how STEM shapes the way we live.\n\nThe Science & Health Education Partn
+ ership at UCSF organizes BASF in collaboration with Bay Area universities\
+ , museums\, cultural institutions\, libraries\, corporations\, after-schoo
+ l groups\, research labs and government agencies.\n\nLearn more at BayArea
+ ScienceFestival.org.\n\nFree\n\nTickets: https://bayareasciencefestival.or
+ g/\nDetails: https://dothebay.com/events/2026/10/17/bay-area-science-festi
+ val-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
+ m/bay-area-science-festival-ucsf/\n- https://sfchildrennature.org/event/ba
+ y-area-science-festival/?utm_source=caldiscovery&utm_medium=ics&utm_campai
+ gn=san-francisco-ca
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34749654/6ae464f6-e906-46a4-8ec2-d738ddb3d059.jpg
-LAST-MODIFIED:20261008T185326Z
+ et/34868935/ee583ca5-3079-4f30-b4b2-ebbd94f738ac.jpg
+LAST-MODIFIED:20261009T011642Z
 LOCATION:Koret Quad - UCSF Mission Bay Campus\, Gene Friend Way & 4th St\,
   San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
@@ -6937,37 +6944,6 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Mare Island Art\, 110 Pintado St Valejo
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/step-uv-glowing-art-dark-party-mare-island/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oakland Comedy Festival 2026 - The Closer
-DTSTART;TZID=America/Los_Angeles:20261017T200000
-DTEND;TZID=America/Los_Angeles:20261017T213000
-DTSTAMP:20261007T210655Z
-UID:caldiscovery-festival-47b79d204e0f036f@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,festival
-DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
- t Email: matthew@punchlinerecords.comCost: $28.52 - $39.19Link: https://ww
- w.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-199922022651
- 5Close out Oakland Comedy Festival with local legend Brent Weinbach! Bizar
- re\, brilliant stand-up at Fluid510.Closing out the festival is hometown l
- egend and master of the wonderfully weird\, Brent Weinbach (Conan\, Comedy
-  Central\, Adult Swim). If you’ve never experienced Brent live\, prepare
-  yourself for absolute masterclass deadpan\, bizarre sound effects\, and b
- its that make you think\, "Wait\, is he allowed to do that on stage?"\n\nP
- ublished by KGO\nContains information from CalDiscovery (caldiscovery.com)
- \, ODbL 1.0\n\nDetails: https://www.eventbrite.com/e/the-closer-oakland-co
- medy-festival-tickets-1999220226515?utm_source=caldiscovery&utm_medium=ics
- &utm_campaign=san-francisco-ca\nSource: CalDiscovery\n\nAlso listed on:\n-
-  https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
- 999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
- isco-ca
-LAST-MODIFIED:20261007T210655Z
-LOCATION:Fluid510 1544 Broadway Oakland\, CA
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
- s-1999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
- ancisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Family Festival
@@ -10697,8 +10673,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-festival-a1c7a51889eaa2a6@sf-cal
+DTSTAMP:20261009T011642Z
+UID:caldiscovery-festival-a478fad7464779b5@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -10708,7 +10684,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
+LAST-MODIFIED:20261009T011642Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -11521,8 +11497,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-festival-d5bc70eebf157aaa@sf-cal
+DTSTAMP:20261009T011642Z
+UID:caldiscovery-festival-d3c219b986e0916d@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -11532,7 +11508,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
+LAST-MODIFIED:20261009T011642Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -12204,8 +12180,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-festival-e8245fac053191ab@sf-cal
+DTSTAMP:20261009T011642Z
+UID:caldiscovery-festival-480086477a2e1a23@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -12215,7 +12191,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
+LAST-MODIFIED:20261009T011642Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -14192,8 +14168,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-festival-823c3f6062989428@sf-cal
+DTSTAMP:20261009T011642Z
+UID:caldiscovery-festival-4113c5e6b509db61@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -14202,7 +14178,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
+LAST-MODIFIED:20261009T011642Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis

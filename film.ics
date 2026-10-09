@@ -1885,9 +1885,9 @@ BEGIN:VEVENT
 SUMMARY:Sundown Cinema: Beetlejuice
 DTSTART;TZID=America/Los_Angeles:20261016T170000
 DTEND;TZID=America/Los_Angeles:20261016T190000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261009T011642Z
 UID:dothebay-17107918@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:The San Francisco Standard invites you to\nSundown Cinema: Bee
  tlejuice\nPresented by Amazon\n\nFriday\, October 16 | Crane Cove Park\n\n
@@ -1897,24 +1897,24 @@ DESCRIPTION:The San Francisco Standard invites you to\nSundown Cinema: Bee
  epstakes\n\nHelp support the SF-Marin Food Bank by bringing canned goods t
  o Sundown Cinema. There will be a truck on site that will make a delivery 
  to the food bank following the screening. Learn more about the SF Marin Fo
- od Bank at https://www.sfmfoodbank.org/.\n\nEVENT INFORMATION:\n\nAdmissio
- n is free and open to all - make sure to get there early to secure a spot!
- \nFilm screening begins after sunset (around 6:20 pm).\nMake sure to bring
-  a blanket and warm clothes.\nLeashed and crowd-friendly dogs are welcome.
- \nParking is very limited. We recommend walking\, biking\, or taking publi
- c transportation.\nBring low-profile chairs only. Tall chairs must stay on
-  the edges — don’t block someone else’s view!\n\nABOUT THE SAN FRANC
- ISCO STANDARD:\nThe San Francisco Standard is the Bay Area’s fastest gro
- wing source for news and information. Whether it’s an investigation into
-  political corruption or a guide to the best wine bars in town\, we provid
- e San Francisco—one of the most dynamic cities in the world—with the j
- ournalism it deserves. Visit sfstandard.com to learn more.\n\nFree\nThe Sa
- n Francisco Standard Presents\n\nTickets: https://sfstandard.fillout.com/t
- /iTVWK53bEmus\nDetails: https://dothebay.com/events/2026/10/16/sundown-cin
- ema-beetlejuice-tickets\nSource: DoTheBay
+ od Bank at https://www.sfmfoodbank.org.\n\nEVENT INFORMATION:\n\nAdmission
+  is free and open to all - make sure to get there early to secure a spot!\
+ nFilm screening begins after sunset (around 6:20 pm).\nMake sure to bring 
+ a blanket and warm clothes.\nLeashed and crowd-friendly dogs are welcome.\
+ nParking is very limited. We recommend walking\, biking\, or taking public
+  transportation.\nBring low-profile chairs only. Tall chairs must stay on 
+ the edges — don’t block someone else’s view!\n\nABOUT THE SAN FRANCI
+ SCO STANDARD:\nThe San Francisco Standard is the Bay Area’s fastest grow
+ ing source for news and information. Whether it’s an investigation into 
+ political corruption or a guide to the best wine bars in town\, we provide
+  San Francisco—one of the most dynamic cities in the world—with the jo
+ urnalism it deserves. Visit sfstandard.com to learn more.\n\nFree\nThe San
+  Francisco Standard Presents\n\nTickets: https://sfstandard.fillout.com/t/
+ iTVWK53bEmus\nDetails: https://dothebay.com/events/2026/10/16/sundown-cine
+ ma-beetlejuice-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31036356/f10f8ea2-4b3a-4f20-8789-ef0d97c59603.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261009T011642Z
 LOCATION:Crane Cove Park
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/sundown-cinema-beetlejuice-tick
@@ -2480,6 +2480,41 @@ LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/20/dr-jekyll-and-mr-hyde-1931-tick
  ets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween & Halloween III: Season of the Witch
+DTSTART;TZID=America/Los_Angeles:20261020T180000
+DTEND;TZID=America/Los_Angeles:20261020T200000
+DTSTAMP:20261009T011642Z
+UID:dothebay-17884750@sf-cal
+SEQUENCE:1
+CATEGORIES:Film
+DESCRIPTION:Halloween (1978)\n\nOn a cold Halloween night in 1963\, six-ye
+ ar-old Michael Myers brutally murdered his 17-year-old sister\, Judith. He
+  was sentenced and locked away for 15 years. But on October 30\, 1978\, wh
+ ile being transferred for a court date\, a 21-year-old Michael Myers steal
+ s a car and escapes Smith’s Grove. He returns to his quiet hometown of H
+ addonfield\, Illinois\, where he looks for his next victims.\n\nHalloween 
+ III: Season of the Witch (1982)\n\nWhen a terrified toy salesman is myster
+ iously attacked and brought to the hospital\, babbling and clutching the y
+ ear's most popular Halloween costume\, an eerie pumpkin mask\, doctor Dani
+ el Challis is thrust into a terrifying Halloween nightmare. Working with t
+ he salesman's daughter\, Ellie\, Daniel traces the mask to the Silver Sham
+ rock Novelties company and its founder\, Conal Cochran. Ellie and Daniel u
+ ncover Cochran's shocking Halloween plan and must stop him before trick-or
+ -treaters across the country never come home in this terrifying thriller.\
+ n\nTHE BIG PICTURE PRESENTS:\n\nTickets: https://ticketing.uswest.veezi.co
+ m/purchase/19921?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://do
+ thebay.com/events/2026/10/20/the-big-picture-presents-halloween-halloween-
+ iii-season-of-the-witch-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34622980/567cac8f-f14d-4e18-b11f-c1b05d25c264.jpg
+LAST-MODIFIED:20261009T011642Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/20/the-big-picture-presents-hallow
+ een-halloween-iii-season-of-the-witch-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French-English Film Night: “Her Song” + Cast Q&A
