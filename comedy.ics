@@ -652,47 +652,20 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/comedy-fall-ameswell/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Comedy Open Mic at 620 Jones
-DTSTART;TZID=America/Los_Angeles:20261008T190000
-DTEND;TZID=America/Los_Angeles:20261008T210000
-DTSTAMP:20261006T062917Z
-UID:caldiscovery-comedy-aa67054ffd4066f6@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,music
-DESCRIPTION:Every other Thursday\, 620 Jones opens the mic to comedians te
- sting new material\, sharpening their sets and taking a few big swings.\nG
- rab a cocktail\, order some bites and catch a rotating lineup of local com
- ics in an intimate\, laid-back setting. Whether you’re stepping up to th
- e mic or just coming for the laughs\, everyone is welcome. And who knows\,
-  you can try your luck too!\n\nPublished by 620 Jones\nContains informatio
- n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-
- jones.com/calendar/comedy-open-mic-at-620-jones/?utm_source=caldiscovery&u
- tm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T062917Z
-LOCATION:620 Jones\, 620 Jones St.\, San Francisco\, CA\, 94102\, United S
- tates
-TRANSP:TRANSPARENT
-URL:https://620-jones.com/calendar/comedy-open-mic-at-620-jones/?utm_sourc
- e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ray Lau
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261009T104206Z
 UID:dothebay-17642651@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ray Lau\nOctober 7–10 | ​Punch Line San Francisco\n\n18+\n
- Sold out\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sh
- aredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fray-lau-san-francisc
- o-california-10-08-2026%2Fevent%2F1C0064864F2788F5%3FrefArtist%3DK8vZ917qo
- D0%26f_simplified_filter%3Dtrue%26f_enable_merch_slot%3Dtrue\nDetails: htt
- ps://dothebay.com/events/2026/10/8/ray-lau-tickets\nSource: DoTheBay
+ Sold out\n\nDetails: https://dothebay.com/events/2026/10/8/ray-lau-tickets
+ \nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33481086/f7fcf7b2-025d-42bf-8227-57646307e269.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261009T104206Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -702,19 +675,17 @@ BEGIN:VEVENT
 SUMMARY:Sam Salem
 DTSTART;TZID=America/Los_Angeles:20261008T193000
 DTEND;TZID=America/Los_Angeles:20261008T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261009T104206Z
 UID:dothebay-17525965@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Sam Salem\nThursday\, October 8 | Cobb's Comedy Club\n\n18+\n\
- nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoSt
- uff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsam-salem-san-francisco-califor
- nia-10-08-2026%2Fevent%2F1C0064D71C2B579A\nDetails: https://dothebay.com/e
- vents/2026/10/8/sam-salem-tickets\nSource: DoTheBay
+ nDetails: https://dothebay.com/events/2026/10/8/sam-salem-tickets\nSource:
+  DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32929133/93ae598d-4eea-40d4-8435-91a1198ca6e8.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261009T104206Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -754,23 +725,44 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/weekly/thu/coit-comedy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Matt Berkeley & The Electronic Folk
+DTSTART;TZID=America/Los_Angeles:20261008T210000
+DTEND;TZID=America/Los_Angeles:20261009T010000
+DTSTAMP:20261009T104206Z
+UID:caldiscovery-comedy-689d0b8d905c9384@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:A wide-ranging night of musical and comic performances led by 
+ Matt Berkeley at Tupelo.\nMatt Berkeley & The Electrictronic Folk is a San
+  Francisco Bay Area-based group known for playing a mix of dubfunk Soul mu
+ sic. The band features Matt Berkeley on keyboards and vocals\, along with 
+ a rotating lineup that includes musicians like Dylan Greengard on guitar a
+ nd Nate Pedley on bass.\n\nPublished by offbeatSF\nContains information fr
+ om CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://offbeats
+ f.com/event/matt-berkeley-variety-show-3/2026-10-08/?utm_source=caldiscove
+ ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261009T104206Z
+LOCATION:Tupelo\, 1337 Grant Ave\, San Francisco\, CA\, 94133\, United Sta
+ tes
+TRANSP:TRANSPARENT
+URL:https://offbeatsf.com/event/matt-berkeley-variety-show-3/2026-10-08/?u
+ tm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ray Lau
 DTSTART;TZID=America/Los_Angeles:20261008T211500
 DTEND;TZID=America/Los_Angeles:20261008T231500
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261009T104206Z
 UID:dothebay-17642653@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ray Lau\nOctober 7–10 | ​Punch Line San Francisco\n\n18+\n
- Sold out\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sh
- aredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fray-lau-san-francisc
- o-california-10-08-2026%2Fevent%2F1C0064BCF6D53621%3FrefArtist%3DK8vZ917qo
- D0%26f_simplified_filter%3Dtrue%26f_enable_merch_slot%3Dtrue\nDetails: htt
- ps://dothebay.com/events/2026/10/8/ray-lau-1784835746\nSource: DoTheBay
+ Sold out\n\nDetails: https://dothebay.com/events/2026/10/8/ray-lau-1784835
+ 746\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33481093/aec7d535-c7ff-4308-a196-352657d5c673.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261009T104206Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -2561,37 +2553,6 @@ LOCATION:Noe Valley Farm SF\, 1828 Castro Street\, San Francisco\, CA\, 94
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/san-francisco-comedy-undergroun
  d-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oakland Comedy Festival 2026 - The Closer
-DTSTART;TZID=America/Los_Angeles:20261017T200000
-DTEND;TZID=America/Los_Angeles:20261017T213000
-DTSTAMP:20261009T011642Z
-UID:caldiscovery-comedy-47b79d204e0f036f@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,festival
-DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
- t Email: matthew@punchlinerecords.comCost: $28.52 - $39.19Link: https://ww
- w.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-199922022651
- 5Close out Oakland Comedy Festival with local legend Brent Weinbach! Bizar
- re\, brilliant stand-up at Fluid510.Closing out the festival is hometown l
- egend and master of the wonderfully weird\, Brent Weinbach (Conan\, Comedy
-  Central\, Adult Swim). If you’ve never experienced Brent live\, prepare
-  yourself for absolute masterclass deadpan\, bizarre sound effects\, and b
- its that make you think\, "Wait\, is he allowed to do that on stage?"\n\nP
- ublished by KGO\nContains information from CalDiscovery (caldiscovery.com)
- \, ODbL 1.0\n\nDetails: https://www.eventbrite.com/e/the-closer-oakland-co
- medy-festival-tickets-1999220226515?utm_source=caldiscovery&utm_medium=ics
- &utm_campaign=san-francisco-ca\nSource: CalDiscovery\n\nAlso listed on:\n-
-  https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
- 999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
- isco-ca
-LAST-MODIFIED:20261009T011642Z
-LOCATION:Fluid510 1544 Broadway Oakland\, CA
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
- s-1999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
- ancisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dean Evans: Les Pervers - Flop Fest!
