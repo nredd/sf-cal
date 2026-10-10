@@ -1171,10 +1171,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:K9 Heroes
 DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T110000
-DTSTAMP:20261010T172246Z
+DTEND;TZID=America/Los_Angeles:20261010T130000
+DTSTAMP:20261010T215006Z
 UID:fleetweeksf-53452-20261010@sf-cal
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Attraction
 DESCRIPTION:Bring your family and furry friends and see how these four-leg
  ged friends have become heroes to so many.\n\nWhether in the field or in t
@@ -1185,7 +1185,7 @@ DESCRIPTION:Bring your family and furry friends and see how these four-leg
  ian-market-berkeley/\n- https://sf.funcheap.com/great-elephant-migration-3
  0-elephant-sculptures-downtown-livermore/
 GEO:37.7698405;-122.4324851
-LAST-MODIFIED:20261010T172246Z
+LAST-MODIFIED:20261010T215006Z
 LOCATION:Duboce Park\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/k9-heroes/
