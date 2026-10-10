@@ -3765,8 +3765,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Italian Heritage Festival & Parade
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261010T095844Z
-UID:caldiscovery-festival-8a49b7b25bd4e1c4@sf-cal
+DTSTAMP:20261010T172246Z
+UID:caldiscovery-festival-30eb15606257c7d8@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
@@ -3776,7 +3776,7 @@ DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
  ls: https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
  ign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261010T095844Z
+LAST-MODIFIED:20261010T172246Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
@@ -6472,37 +6472,6 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Mare Island Art\, 110 Pintado St Valejo
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/step-uv-glowing-art-dark-party-mare-island/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oakland Comedy Festival 2026 - The Closer
-DTSTART;TZID=America/Los_Angeles:20261017T200000
-DTEND;TZID=America/Los_Angeles:20261017T213000
-DTSTAMP:20261009T104206Z
-UID:caldiscovery-festival-47b79d204e0f036f@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,festival
-DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
- t Email: matthew@punchlinerecords.comCost: $28.52 - $39.19Link: https://ww
- w.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-199922022651
- 5Close out Oakland Comedy Festival with local legend Brent Weinbach! Bizar
- re\, brilliant stand-up at Fluid510.Closing out the festival is hometown l
- egend and master of the wonderfully weird\, Brent Weinbach (Conan\, Comedy
-  Central\, Adult Swim). If you’ve never experienced Brent live\, prepare
-  yourself for absolute masterclass deadpan\, bizarre sound effects\, and b
- its that make you think\, "Wait\, is he allowed to do that on stage?"\n\nP
- ublished by KGO\nContains information from CalDiscovery (caldiscovery.com)
- \, ODbL 1.0\n\nDetails: https://www.eventbrite.com/e/the-closer-oakland-co
- medy-festival-tickets-1999220226515?utm_source=caldiscovery&utm_medium=ics
- &utm_campaign=san-francisco-ca\nSource: CalDiscovery\n\nAlso listed on:\n-
-  https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
- 999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
- isco-ca
-LAST-MODIFIED:20261009T104206Z
-LOCATION:Fluid510 1544 Broadway Oakland\, CA
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
- s-1999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
- ancisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Family Festival
@@ -9527,6 +9496,42 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/weekly-trivia-mbc-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:San Francisco Zombie Crawl
+DTSTART;TZID=America/Los_Angeles:20261030T190000
+DTEND;TZID=America/Los_Angeles:20261030T210000
+DTSTAMP:20261010T172246Z
+UID:dothebay-17941459@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:HALLOWEEN SAN FRANCISCO BAR CRAWL\n(Friday\, October 30th & Sa
+ turday\, October 31st)\n\nSAN FRANCISCO ZOMBIE CRAWL\nThe Zombie Crawl Hal
+ loween Bar Crawl has expanded to 25+ cities this Halloween. Pick up your Z
+ ombie Crawl survival kit to enjoy drink discounts\, free welcome shots at 
+ select venues and all-access entry at multiple bars\, lounges and nightclu
+ bs. Come in costume\, rally a group of friends and bounce from bar to bar 
+ visiting multiple Halloween parties in one night\n\nYour Survival Kit incl
+ udes:\n\nDrink discount specials at all bars\nComplimentary welcome shot t
+ ickets at select venues\nHalloween digital bar crawl map to all participat
+ ing bars\, lounges & nightclubs\nAn amazing night out with your group of f
+ riends.\nCOME IN COSTUME\n\nCHECK IN LOCATION & PRE PARTY\n\nCheck In @ Th
+ e Devil's Acre 7pm - 10pm\nPre-party event includes:\nExclusive drink spec
+ ials\nFree Halloween handouts\nPre bar crawl social and meet and greet\n\n
+ At check in pick up your drink coupons and unlock your digital map before 
+ setting off to visit multiple Halloween parties in one night!\n\n21+\nNass
+ tive Entertainment\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2
+ F%2Fwww.eventbrite.com%2Fe%2Fsan-francisco-zombie-crawl-halloween-bar-craw
+ l-10-bars-oct-30-31-tickets-1996256054597%3Faff%3Debdsoporgprofile\nDetail
+ s: https://dothebay.com/events/2026/10/30/san-francisco-zombie-crawl-ticke
+ ts\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34890169/74f02dcf-7e09-484b-8af0-118e9aa444e0.png
+LAST-MODIFIED:20261010T172246Z
+LOCATION:The Devil's Acre\, 256 Columbus Ave\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/30/san-francisco-zombie-crawl-tick
+ ets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DIY Taxidermy Rat Workshop
 DTSTART;TZID=America/Los_Angeles:20261031T080000
 DTEND;TZID=America/Los_Angeles:20261031T100000
@@ -10044,6 +10049,42 @@ LOCATION:Lyon Street & Hayes Street\, Lyon St & Hayes St\, San Francisco\,
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:San Francisco Zombie Crawl
+DTSTART;TZID=America/Los_Angeles:20261031T190000
+DTEND;TZID=America/Los_Angeles:20261031T210000
+DTSTAMP:20261010T172246Z
+UID:dothebay-17941460@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:HALLOWEEN SAN FRANCISCO BAR CRAWL\n(Friday\, October 30th & Sa
+ turday\, October 31st)\n\nSAN FRANCISCO ZOMBIE CRAWL\nThe Zombie Crawl Hal
+ loween Bar Crawl has expanded to 25+ cities this Halloween. Pick up your Z
+ ombie Crawl survival kit to enjoy drink discounts\, free welcome shots at 
+ select venues and all-access entry at multiple bars\, lounges and nightclu
+ bs. Come in costume\, rally a group of friends and bounce from bar to bar 
+ visiting multiple Halloween parties in one night\n\nYour Survival Kit incl
+ udes:\n\nDrink discount specials at all bars\nComplimentary welcome shot t
+ ickets at select venues\nHalloween digital bar crawl map to all participat
+ ing bars\, lounges & nightclubs\nAn amazing night out with your group of f
+ riends.\nCOME IN COSTUME\n\nCHECK IN LOCATION & PRE PARTY\n\nCheck In @ Th
+ e Devil's Acre 7pm - 10pm\nPre-party event includes:\nExclusive drink spec
+ ials\nFree Halloween handouts\nPre bar crawl social and meet and greet\n\n
+ At check in pick up your drink coupons and unlock your digital map before 
+ setting off to visit multiple Halloween parties in one night!\n\n21+\nNass
+ tive Entertainment\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2
+ F%2Fwww.eventbrite.com%2Fe%2Fsan-francisco-zombie-crawl-halloween-bar-craw
+ l-10-bars-oct-30-31-tickets-1996256054597%3Faff%3Debdsoporgprofile\nDetail
+ s: https://dothebay.com/events/2026/10/31/san-francisco-zombie-crawl-hallo
+ ween-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34890176/3ac735f3-a283-469e-ae6b-ce51762f7b94.png
+LAST-MODIFIED:20261010T172246Z
+LOCATION:The Devil's Acre\, 256 Columbus Ave\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/31/san-francisco-zombie-crawl-hall
+ oween-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yerba Buena Illuminated: Free 95-Ft Art Projection on Market Stree
  t
 DTSTART;TZID=America/Los_Angeles:20261031T190000
@@ -10245,6 +10286,48 @@ URL:https://dothebay.com/events/2026/11/1/tenderloin-street-fair-dia-de-mu
  ertos-celebration-2026-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Loco Bloco Presents: Día De Los Muertos 2026 - Esto No Se Vende
+DTSTART;TZID=America/Los_Angeles:20261101T140000
+DTEND;TZID=America/Los_Angeles:20261101T160000
+DTSTAMP:20261010T172246Z
+UID:dothebay-17941159@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Brava Presents\n\nNovember 1\, 2026\n\n10:00AM Altares Viewing
+ \n\nShowtimes: 2:00PM & 6:00PM\n\nBrava Main Stage\n\nSF Loco Bloco dancer
+ s\, drummers & band Cuicacalli Dance Company Lanakila Mangauil Ho’a Hawa
+ ii Christelle Durandy Odoiya Women's Chorus and the Sweet Xequere Big star
+  circus.\n\nEarly Bird Pricing Ends 10/17 @12:00PM:\n\nEarly Bird General 
+ Admission: $20\n\nEarly Bird Youth/Student Admission (Valid ID Required): 
+ $12\n\nAfter 10/17 @12:00PM Pricing:\n\nRegular General Admission: $25\n\n
+ Regular Youth/Student Admission (Valid ID Required): $15\n\nStep into a li
+ ving ofrenda! In partnership with Brava Theater\, Loco Bloco presents “E
+ sto No Se Vende\,” an electrifying Día de los Muertos celebration where
+  live music\, dance\, ceremony\, and storytelling ignite the stage. Bay Ar
+ ea artists and communities come together to honor our ancestors\, celebrat
+ e resilience\, and move toward new life.\n\n“Esto No Se Vende” (This W
+ e Do Not Sell) celebrates Dia de los Muertos at the historic Brava Theater
+  in the Latino Cultural District of San Francisco. Produced by Loco Bloco\
+ , this annual event offers unique interpretations of Dia de los Muertos th
+ emes by artists from Mexican\, Central American\, African-American\, Carib
+ bean and other communities rooted in San Francisco and the Bay Area. Mains
+ tage performers include: Loco Bloco Performing Ensemble\, Cuicacalli Dance
+  Company\, Christelle Durandy\, Lanakila Manguail and Odoiya Women’s Cho
+ rus.\n\nOn this sacred day\, Brava Theater transforms to a living “ofren
+ da” with altares b...\n\n$20\, $25\n\nTickets: https://brava.my.salesfor
+ ce-sites.com/ticket/#/events/a0SPa00000dhKTFMA2\nDetails: https://dothebay
+ .com/events/2026/11/1/loco-bloco-presents-dia-de-los-muertos-2026-esto-no-
+ se-vende-tickets\nSource: DoTheBay
+GEO:37.7526148;-122.4078356
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34888406/16a0f89d-49e1-48d8-96e6-209ed0a6fab2.png
+LAST-MODIFIED:20261010T172246Z
+LOCATION:Brava Theater\, 2781 24th Street\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/1/loco-bloco-presents-dia-de-los-m
+ uertos-2026-esto-no-se-vende-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Halloween Pub Crawl: Dia De Los Muertos
 DTSTART;TZID=America/Los_Angeles:20261101T160000
 DTEND;TZID=America/Los_Angeles:20261101T180000
@@ -10286,8 +10369,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261010T095844Z
-UID:caldiscovery-festival-cfb515abc9990fe6@sf-cal
+DTSTAMP:20261010T172246Z
+UID:caldiscovery-festival-90c820b6e543f4bb@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -10297,7 +10380,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261010T095844Z
+LAST-MODIFIED:20261010T172246Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -11055,6 +11138,40 @@ URL:https://dothebay.com/events/2026/11/6/destination-cosmos-an-experienti
  al-sound-voyage-by-christopher-willits-and-envelop-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nigel Ng - Don't Mess Up Your Rice
+DTSTART;TZID=America/Los_Angeles:20261106T190000
+DTEND;TZID=America/Los_Angeles:20261106T210000
+DTSTAMP:20261010T172246Z
+UID:dothebay-17941205@sf-cal
+SEQUENCE:0
+CATEGORIES:Literature
+DESCRIPTION:Nigel Ng—better known to millions as the comedy phenomenon U
+ ncle Roger—has built a global fanbase through razor-sharp humor\, viral 
+ food critiques\, and fiercely defending authentic Asian cooking. Now\, in 
+ his debut cookbook\, Don’t Mess Up Your Rice: 70 Recipes to Impress Uncl
+ e Roger\, Nigel brings Uncle Roger’s unmistakable voice\, signature humo
+ r\, and genuine passion for Asian cuisine from the screen straight into re
+ aders’ kitchens.\nPresented in partnership with Calvary Presbyterian San
+  Francisco\n****\nABOUT THIS EVENT\nThis event will be hosted by Book Pass
+ age at Calvary Presbyterian Church in San Francisco\n$38 Ticket includes e
+ ntry for 2 people with 1 book / Open Seating\nDoors open at 6:00pm\nAdditi
+ onal books will be available for purchase at the event\nIf you are unable 
+ to attend the event\, you can still get your copy by CLICKING HERE. If you
+  would like a signed or personalized book\, please note that in the order 
+ comment field.\nPlease contact books@bookpassage.com with questions regard
+ ing events.\n\nBook Passage Presents:\n\nTickets: https://bookpassage.com/
+ event/nigel-ng-dont-mess-your-rice\nDetails: https://dothebay.com/events/2
+ 026/11/6/nigel-ng-don-t-mess-up-your-rice-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34888627/01fba443-d94d-4246-a4e2-32a2818b4a82.jpg
+LAST-MODIFIED:20261010T172246Z
+LOCATION:Calvary Presbyterian Church - SF\, 2515 Fillmore Street\, San Fra
+ ncisco\, CA\, 94115
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/6/nigel-ng-don-t-mess-up-your-rice
+ -tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Poetry & Song of Leonard Cohen
 DTSTART;TZID=America/Los_Angeles:20261106T193000
 DTEND;TZID=America/Los_Angeles:20261106T213000
@@ -11110,8 +11227,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261010T095844Z
-UID:caldiscovery-festival-20ebc0b874cb3d5e@sf-cal
+DTSTAMP:20261010T172246Z
+UID:caldiscovery-festival-29900497277e959c@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -11121,7 +11238,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261010T095844Z
+LAST-MODIFIED:20261010T172246Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -11241,6 +11358,48 @@ URL:https://dothebay.com/events/2026/11/7/dia-de-los-muertos-and-diwali-fe
  stival-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ravishment: Mastery of Erotic Dominance & Passionate Surrender
+DTSTART;TZID=America/Los_Angeles:20261107T100000
+DTEND;TZID=America/Los_Angeles:20261107T120000
+DTSTAMP:20261010T172246Z
+UID:dothebay-17941654@sf-cal
+SEQUENCE:0
+CATEGORIES:Lecture/Education
+DESCRIPTION:With Shelby Devlin\n\nRavishment is a hands-on\, interactive c
+ lass that teaches lovers how to create and enjoy the kind of passionate en
+ counters often found in the steamy chapters of romance literature. We will
+  focus on enhancing physical and emotional connection\, emphasizing the ar
+ t of building anticipation\, and creating a safe space for exploring domin
+ ance and submission (D/s).\nEmbark on a journey of discovery and connectio
+ n with Ravishment. Through learning the basics of D/s\, you will open the 
+ door to a more passionate\, intimate\, and fulfilling relationship. Transf
+ orm the way you connect with your partner(s)\, embracing the power and bea
+ uty of consensual ravishment.The workshop is five hours of instruction\, 1
+ 0AM until 4PM\, with an hour-long break for lunch. You are welcome to brin
+ g a lunch and make use of the fridge and microwave\, order delivery\, or l
+ eave the event space for lunch. While the workshop is physically interacti
+ ve for couples\, the level of 'activity' is up to you. We will not be usin
+ g props\, bondage gear\, or toys\, but we will be using our bodies. This i
+ s a clothing-on event.\n\nLearning Objectives\nIntroduction to D/s Dynamic
+ s: Learn the principles of dominance and submission\, emphasizing the impo
+ rtance of consent and mutual respect. Explore different D/s archetypes and
+  how they can be adapted to fit your unique relationship dynamic. Learn ho
+ w to set boundaries and ensure that all activities are enjoyable and conse
+ nsual for everyone.\nExpressive Communication: Master t...\n\n$315.99 to $
+ 522.95\nShelby Delvin\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3
+ A%2F%2Fwww.eventbrite.com%2Fe%2Fravishment-mastery-of-erotic-dominance-pas
+ sionate-surrender-tickets-2003216045116%3Faff%3Doddtdtcreator%26keep_tld%3
+ Dtrue\nDetails: https://dothebay.com/events/2026/11/7/ravishment-mastery-o
+ f-erotic-dominance-passionate-surrender-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34891284/f148a984-59b5-4088-8735-d1e33ad269a9.jpg
+LAST-MODIFIED:20261010T172246Z
+LOCATION:The Kink Store SF\, 224 6th St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/7/ravishment-mastery-of-erotic-dom
+ inance-passionate-surrender-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:District 2 Marina Family Summit
 DTSTART;TZID=America/Los_Angeles:20261107T110000
 DTEND;TZID=America/Los_Angeles:20261107T130000
@@ -11283,6 +11442,27 @@ LOCATION:Marina Middle School\, 3500 Fillmore St\, San Francisco\, CA\, 94
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/district-2-marina-family-summit-
  tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jam Session with Creativity Explored
+DTSTART;TZID=America/Los_Angeles:20261107T120000
+DTEND;TZID=America/Los_Angeles:20261107T140000
+DTSTAMP:20261010T172246Z
+UID:dothebay-17940981@sf-cal
+SEQUENCE:0
+CATEGORIES:Arts & Family
+DESCRIPTION:Free\nYBCA\n\nTickets: https://bit.ly/3VE9u9H \nDetails: https
+ ://dothebay.com/events/2026/11/7/jam-session-with-creativity-explored-tick
+ ets\nSource: DoTheBay
+GEO:37.7856437;-122.4021904
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34887393/8289024c-d381-4162-9e99-d91ea2685f8c.jpg
+LAST-MODIFIED:20261010T172246Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
+ , CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/7/jam-session-with-creativity-expl
+ ored-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Last Supper Party: Poetry Music + Community Bread
@@ -11804,8 +11984,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261010T095844Z
-UID:caldiscovery-festival-11fcbc3d6c941a7a@sf-cal
+DTSTAMP:20261010T172246Z
+UID:caldiscovery-festival-02f5aaffe507d98e@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -11815,7 +11995,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261010T095844Z
+LAST-MODIFIED:20261010T172246Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -13792,8 +13972,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261010T095844Z
-UID:caldiscovery-festival-18949d423007acf0@sf-cal
+DTSTAMP:20261010T172246Z
+UID:caldiscovery-festival-b632d73b603f9b4e@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -13802,7 +13982,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261010T095844Z
+LAST-MODIFIED:20261010T172246Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
