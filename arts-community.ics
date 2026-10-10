@@ -41,29 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Chair Yoga With Kayko
-DTSTART;TZID=America/Los_Angeles:20261002T143000
-DTEND;TZID=America/Los_Angeles:20261002T153000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634100@sf-cal
-SEQUENCE:0
-CATEGORIES:Community
-DESCRIPTION:Submitted by the Event OrganizerPractice chair yoga\, a gentle
- \, seated practice\, perfect for those seeking low-impact exercise. Chair 
- yoga improves your well-being.\nKayko is a certified yoga therapist and in
- structor. She has years of experience teaching older adults the joy of yog
- a in a chair!\n\nSpace limited. Reservations required: (415) 355-2808 (sta
- rting September 18).\n\nFree\n\nTickets: https://sfpl.org/events/2026/10/0
- 2/workshop-chair-yoga-kayko\nDetails: https://sf.funcheap.com/chair-yoga-k
- ayko-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/Headsh
- ot-22.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Sunset Branch Library\, 1305 18th Avenue\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/chair-yoga-kayko-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Artemisia Farris Art Opening
 DTSTART;TZID=America/Los_Angeles:20261002T170000
 DTEND;TZID=America/Los_Angeles:20261002T220000
@@ -4021,8 +3998,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Italian Heritage Festival & Parade
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261009T182357Z
-UID:caldiscovery-festival-2d0bbe739c1a715e@sf-cal
+DTSTAMP:20261010T010053Z
+UID:caldiscovery-festival-8b43d183223467a0@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
@@ -4032,7 +4009,7 @@ DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
  ls: https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
  ign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261009T182357Z
+LAST-MODIFIED:20261010T010053Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
  -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
@@ -6764,33 +6741,33 @@ BEGIN:VEVENT
 SUMMARY:Fall Family Festival
 DTSTART;TZID=America/Los_Angeles:20261018T000000
 DTEND;TZID=America/Los_Angeles:20261018T030000
-DTSTAMP:20261006T002614Z
+DTSTAMP:20261010T010053Z
 UID:caldiscovery-festival-1927cbf549bdf247@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:festival,free
 DESCRIPTION:Taking place under the twinkling Spectra lights\, the Fall Fam
  ily Festival on October 17th\, from 4 to 7pm\; features fun carnival games
  \, free pumpkin decorating\, face painting\, the San Francisco Public Libr
  ary Bookmobile\, and entertainment such as stilt walkers and bubble magic 
- with Sterling Bubble.\nThe selfie station with the autumn-themed Petalz Fl
- ower Truck is a must stop photo op with City Hall as the backdrop\, as are
-  the carnival treats: cotton candy\, candy apples and local food trucks fe
- aturing fall fair favorites.\nSign up on Eventbrite for an event day remin
- der\, but no ticket needed to attend this free event.\nThis event is spons
- ored by: Avenue Greenlight\, an investment engine for San Francisco’s co
- mmunity projects\, providing high-impact grants with tangible results\; al
- ong with Civic Center Community Benefit District\, Illuminate\, the San Fr
- ancisco Public Library and San Francisco Recreation & Parks Department.\n\
- nAlso be sure to check out adjacent kid & family events\, San Francisco Di
- strict Attorney’s Office‘s Keepin’ It Safe in the City (Civic Center
-  Plaza\, 10am-2pm) and Market Street Arts‘ Market Street Arts & Theater 
- Festival (many locations\, including UN Plaza\, with circus and aerial per
- formances in the evening\, event runs 4-10pm).\n\nPublished by SF Civic Ce
- nter\nContains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0
- \n\nDetails: https://sfciviccenter.org/event/fall-family-festival/?utm_sou
- rce=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: Cal
- Discovery
-LAST-MODIFIED:20261006T002614Z
+ with Sterling Bubbles.\nThe selfie station with the autumn-themed Petalz F
+ lower Truck is a must stop photo op with City Hall as the backdrop\, as ar
+ e the carnival treats: cotton candy\, candy apples and local food trucks f
+ eaturing fall fair favorites.\nSign up on Eventbrite for an event day remi
+ nder\, but no ticket needed to attend this free event.\nThis event is spon
+ sored by: Avenue Greenlight\, an investment engine for San Francisco’s c
+ ommunity projects\, providing high-impact grants with tangible results\; a
+ long with Civic Center Community Benefit District\, Illuminate\, the San F
+ rancisco Public Library and San Francisco Recreation & Parks Department.\n
+ \nAlso be sure to check out adjacent kid & family events\, San Francisco D
+ istrict Attorney’s Office‘s Keepin’ It Safe in the City (Civic Cente
+ r Plaza\, 10am-2pm) and Market Street Arts‘ Market Street Arts & Theater
+  Festival (many locations\, including UN Plaza\, with circus and aerial pe
+ rformances in the evening\, event runs 4-10pm).\n\nPublished by SF Civic C
+ enter\nContains information from CalDiscovery (caldiscovery.com)\, ODbL 1.
+ 0\n\nDetails: https://sfciviccenter.org/event/fall-family-festival/?utm_so
+ urce=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: Ca
+ lDiscovery
+LAST-MODIFIED:20261010T010053Z
 TRANSP:TRANSPARENT
 URL:https://sfciviccenter.org/event/fall-family-festival/?utm_source=caldi
  scovery&utm_medium=ics&utm_campaign=san-francisco-ca
@@ -10542,8 +10519,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261009T182357Z
-UID:caldiscovery-festival-964719c478234b07@sf-cal
+DTSTAMP:20261010T010053Z
+UID:caldiscovery-festival-20ea5f5ecd8ae5f2@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -10553,7 +10530,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261009T182357Z
+LAST-MODIFIED:20261010T010053Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -11366,8 +11343,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261009T182357Z
-UID:caldiscovery-festival-37ad40f058297947@sf-cal
+DTSTAMP:20261010T010053Z
+UID:caldiscovery-festival-24271e31a9eaca71@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -11377,7 +11354,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261009T182357Z
+LAST-MODIFIED:20261010T010053Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -12060,8 +12037,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261009T182357Z
-UID:caldiscovery-festival-dd386691698d6f84@sf-cal
+DTSTAMP:20261010T010053Z
+UID:caldiscovery-festival-58b5d113c5c94092@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -12071,7 +12048,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261009T182357Z
+LAST-MODIFIED:20261010T010053Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -14048,8 +14025,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261009T182357Z
-UID:caldiscovery-festival-78c03ed2f58a5049@sf-cal
+DTSTAMP:20261010T010053Z
+UID:caldiscovery-festival-068693f2f4ed8cee@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -14058,7 +14035,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261009T182357Z
+LAST-MODIFIED:20261010T010053Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis

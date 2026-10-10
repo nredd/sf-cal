@@ -748,6 +748,45 @@ TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fleet Week at PIER 39 (Oct. 7-11)
+DTSTART;TZID=America/Los_Angeles:20261009T100000
+DTEND;TZID=America/Los_Angeles:20261009T210000
+DTSTAMP:20261010T010053Z
+UID:funcheap-1641903@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:Fleet Week at PIER 39 (Oct. 7-11)\nDemonstrate x DDW\nDid you 
+ know that PIER 39 is THE place to experience the Fleet Week action? Enjoy 
+ live music from military and local bands backed by front-row views of the 
+ Bay\, spectacular ship sightings\, and unforgettable aerial performances o
+ verhead. From the Parade of Ships to the Fleet Week Air Show\, discover al
+ l the ways to celebrate Fleet Week from the waterfront at PIER 39!\nBeyond
+  the action on the Bay\, PIER 39 keeps the energy going with live performa
+ nces throughout Fleet Week\, giving visitors even more to enjoy before and
+  after the day’s events. With waterfront dining\, shopping\, entertainme
+ nt\, and unbeatable views all in one place\, PIER 39 is the ultimate home 
+ base for experiencing Fleet Week in San Francisco.\nActive and retired mil
+ itary members can also take advantage of special discounts at participatin
+ g locations. Visit the PIER 39 website to learn more about available milit
+ ary offers and start planning your Fleet Week visit.\n\nEntrance Plaza Sta
+ ge Schedule\n\nDemonstrate x DDW\n\nWednesday\, 10/7\n\n12pm – 2pm – D
+ J PAULY PAUL\nGet the Fleet Week party started in PIER 39’s Entrance Pla
+ za with DJ Pauly Paul spinning all your favorite dance songs!\n\n5pm – 7
+ pm – MOBILITY ROCK BAND\, USA AIR FORCE BAND OF THE GOLDEN WEST\nThe Uni
+ ted States Air Force is bringing their Rock Band to the Entrance Plaza sta
+ ge and will have you belting out classic and modern hits.\n\nThursday\, 10
+ /8\n\n12pm – 2pm – DJ PAULY PAUL\nGet the Fleet Week party started in 
+ PIER 39...\n\nFree\n\nTickets: https://www.pier39.com/fleetweek/\nDetails:
+  https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11/\nSource: Funcheap
+  SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/P39_20
+ 26_PFTF_Fleet-Week_FunCheapSF.png
+LAST-MODIFIED:20261010T010053Z
+LOCATION:Pier 39\, The Embarcadero\, San Francisco CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parade of Ships
 DTSTART;TZID=America/Los_Angeles:20261009T110000
 DTEND;TZID=America/Los_Angeles:20261009T120000
@@ -1309,16 +1348,17 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261010T010053Z
 UID:fleetweeksf-53432-20261010@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Ship Tours
 DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
  ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
  o listed on:\n- https://sf.funcheap.com/sfs-electric-dream-home-2026-mobil
- e-showroom-pier-35/
+ e-showroom-pier-35/\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7
+ -11-2/
 GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261010T010053Z
 LOCATION:Pier 35\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -1327,16 +1367,17 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261010T010053Z
 UID:fleetweeksf-53434-20261010@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Ship Tours
 DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
  ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
  o listed on:\n- https://sf.funcheap.com/sfs-electric-dream-home-2026-mobil
- e-showroom-pier-35/
+ e-showroom-pier-35/\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7
+ -11-2/
 GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261010T010053Z
 LOCATION:Pier 27\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -1787,14 +1828,15 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261005T235648Z
+DTSTAMP:20261010T010053Z
 UID:fleetweeksf-53432-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Ship Tours
 DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)
+ ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
+ o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
 GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261005T235648Z
+LAST-MODIFIED:20261010T010053Z
 LOCATION:Pier 35\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -1803,14 +1845,15 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261005T235648Z
+DTSTAMP:20261010T010053Z
 UID:fleetweeksf-53434-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Ship Tours
 DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)
+ ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
+ o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
 GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261005T235648Z
+LAST-MODIFIED:20261010T010053Z
 LOCATION:Pier 27\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/

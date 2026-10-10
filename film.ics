@@ -1814,36 +1814,37 @@ BEGIN:VEVENT
 SUMMARY:Sundown Cinema: Beetlejuice
 DTSTART;TZID=America/Los_Angeles:20261016T170000
 DTEND;TZID=America/Los_Angeles:20261016T190000
-DTSTAMP:20261009T011642Z
+DTSTAMP:20261010T010053Z
 UID:dothebay-17107918@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:The San Francisco Standard invites you to\nSundown Cinema: Bee
  tlejuice\nPresented by Amazon\n\nFriday\, October 16 | Crane Cove Park\n\n
- RSVP for a chance to win special access to the reserved seating section. P
- lus\, Amazon is gifting one lucky winner up to $1\,000 for their Amazon Wi
- sh List.\n\nOfficial Rules: https://sfstandard.com/sundown-cinema-2026-swe
- epstakes\n\nHelp support the SF-Marin Food Bank by bringing canned goods t
- o Sundown Cinema. There will be a truck on site that will make a delivery 
- to the food bank following the screening. Learn more about the SF Marin Fo
- od Bank at https://www.sfmfoodbank.org.\n\nEVENT INFORMATION:\n\nAdmission
-  is free and open to all - make sure to get there early to secure a spot!\
- nFilm screening begins after sunset (around 6:20 pm).\nMake sure to bring 
- a blanket and warm clothes.\nLeashed and crowd-friendly dogs are welcome.\
- nParking is very limited. We recommend walking\, biking\, or taking public
-  transportation.\nBring low-profile chairs only. Tall chairs must stay on 
- the edges — don’t block someone else’s view!\n\nABOUT THE SAN FRANCI
- SCO STANDARD:\nThe San Francisco Standard is the Bay Area’s fastest grow
- ing source for news and information. Whether it’s an investigation into 
- political corruption or a guide to the best wine bars in town\, we provide
-  San Francisco—one of the most dynamic cities in the world—with the jo
- urnalism it deserves. Visit sfstandard.com to learn more.\n\nFree\nThe San
-  Francisco Standard Presents\n\nTickets: https://sfstandard.fillout.com/t/
- iTVWK53bEmus\nDetails: https://dothebay.com/events/2026/10/16/sundown-cine
- ma-beetlejuice-tickets\nSource: DoTheBay
+ Come dressed in your best costume and join the Halloween costume contest b
+ efore the movie!\n\nRSVP for a chance to win special access to the reserve
+ d seating section. Plus\, Amazon is gifting one lucky winner up to $1\,000
+  for their Amazon Wish List.\n\nOfficial Rules: https://sfstandard.com/sun
+ down-cinema-2026-sweepstakes\n\nHelp support the SF-Marin Food Bank by bri
+ nging canned goods to Sundown Cinema. There will be a truck on site that w
+ ill make a delivery to the food bank following the screening. Learn more a
+ bout the SF Marin Food Bank at https://www.sfmfoodbank.org.\n\nEVENT INFOR
+ MATION:\n\nAdmission is free and open to all - make sure to get there earl
+ y to secure a spot!\nFilm screening begins after sunset (around 6:20 pm).\
+ nMake sure to bring a blanket and warm clothes.\nLeashed and crowd-friendl
+ y dogs are welcome.\nParking is very limited. We recommend walking\, bikin
+ g\, or taking public transportation.\nBring low-profile chairs only. Tall 
+ chairs must stay on the edges — don’t block someone else’s view!\n\n
+ ABOUT THE SAN FRANCISCO STANDARD:\nThe San Francisco Standard is the Bay A
+ rea’s fastest growing source for news and information. Whether it’s an
+  investigation into political corruption or a guide to the best wine bars 
+ in town\, we provide San Francisco—one of the most dynamic cities in the
+  world—with the journalism it deserves. Visit sfstandard.com to learn mo
+ re...\n\nFree\nThe San Francisco Standard Presents\n\nTickets: https://sfs
+ tandard.fillout.com/t/iTVWK53bEmus\nDetails: https://dothebay.com/events/2
+ 026/10/16/sundown-cinema-beetlejuice-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31036356/f10f8ea2-4b3a-4f20-8789-ef0d97c59603.png
-LAST-MODIFIED:20261009T011642Z
+LAST-MODIFIED:20261010T010053Z
 LOCATION:Crane Cove Park
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/sundown-cinema-beetlejuice-tick
@@ -2721,6 +2722,33 @@ URL:https://dothebay.com/events/2026/10/21/dario-argento-s-door-into-darkn
  ess-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clayface
+DTSTART;TZID=America/Los_Angeles:20261022T150000
+DTEND;TZID=America/Los_Angeles:20261022T170000
+DTSTAMP:20261010T010053Z
+UID:dothebay-17941178@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:What happens when a super-villain origin story gets a serious 
+ horror-movie makeover? CLAYFACE\, that’s what. Director James Watkins (T
+ HE WOMAN IN BLACK) brings a nasty dose of body horror to Gotham\, with DOC
+ TOR SLEEP and Midnight Mass mastermind Mike Flanagan on co-writing duties.
+  Tom Rhys Harries stars as Matt Hagen\, a disfigured actor who undergoes a
+  miraculous transformation that sends his grip on reality\, and his appeti
+ te for revenge\, somewhere very dark. Get ready to face your fears on the 
+ big screen.\n\nTickets: https://drafthouse.com/sf/show/clayface?cinemaId=0
+ 802&sessionId=22304\nDetails: https://dothebay.com/events/2026/10/22/clayf
+ ace-tickets\nSource: DoTheBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34888463/264e4a84-9ba8-4284-a384-97320a7ba0bd.jpg
+LAST-MODIFIED:20261010T010053Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/22/clayface-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Naza
 DTSTART;TZID=America/Los_Angeles:20261022T155000
 DTEND;TZID=America/Los_Angeles:20261022T175000
@@ -2833,6 +2861,33 @@ LAST-MODIFIED:20261007T210655Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/filipinana-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicker
+DTSTART;TZID=America/Los_Angeles:20261023T133000
+DTEND;TZID=America/Los_Angeles:20261023T153000
+DTSTAMP:20261010T010053Z
+UID:dothebay-17941182@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:An audacious comedic fable about sex\, marriage\, and the absu
+ rdities of social convention\, WICKER tells the wholly original love story
+  of an ostracized fisherwoman (Olivia Colman) who commissions a husband to
+  be made by the local basketmaker (Peter Dinklage). When her wicker husban
+ d (Alexander Skarsgård) proves more spectacular than she ever imagined\, 
+ his soulful spirit and unique prowess awaken something inside her\, settin
+ g off a wave of jealousy\, fascination\, and upheaval that threatens the v
+ ery fabric of village life.\n\nTickets: https://drafthouse.com/sf/show/wic
+ ker?cinemaId=0802&sessionId=22577\nDetails: https://dothebay.com/events/20
+ 26/10/23/wicker-tickets\nSource: DoTheBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34888484/8991631e-8bfd-4b00-ba6a-2db0f1c18540.jpg
+LAST-MODIFIED:20261010T010053Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/23/wicker-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Outdoor Movie Night 2026 w/ Free Food + Free Popcorn (Parksid
