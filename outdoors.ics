@@ -40,68 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Youth Flag Rugby
-DTSTART;TZID=America/Los_Angeles:20261004T103000
-DTEND;TZID=America/Los_Angeles:20261004T120000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639835@sf-cal
-SEQUENCE:0
-CATEGORIES:Sports Fitness
-DESCRIPTION:Submitted by the Event OrganizerFlag Rugby is a great way to s
- harpen your skills\, have fun\, and make friends.\nEveryone runs the ball\
- , everyone passes\, everyone defends\, everyone plays!\n\nThis program is 
- a FREE. We’ll meet one day a week in Octover\, start with 30 minutes of 
- instruction followed by an hour of playing games.\nHere are the key detail
- s:\n\nDates: Sundays — October 4\, 11\, 18\, and 25\nTime: 10:30 AM – 
- 12:00 PM (Player check-in at 10:15 AM)\nLocation: South Sunset\, Pitch #3 
- (closest to Wawona)\nEligible Groups: High School Girls (also open to Midd
- le School Girls & Boys\, U12\, U10\, U8\, and Tots ages 3–5)\n\nPlease R
- SVP to confirm your participation.\nIf you have any questions\, check out 
- our FAQs\n\nFree\n\nTickets: https://forms.gle/YGBAkKWwx3qkFTZp7\nDetails:
-  https://sf.funcheap.com/free-youth-flag-rugby/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/SFGG-F
- all-Flag-Rugby.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:South Sunset Park\, 40th Ave &\, Vicente St\, San Francisco\, CA 
- 94116
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-youth-flag-rugby/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF’s Annual “Blessing of the Animals” (2026)
-DTSTART;TZID=America/Los_Angeles:20261004T111500
-DTEND;TZID=America/Los_Angeles:20261004T121500
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634062@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Submitted by the Event OrganizerJoin friends and neighbors in 
- the parish courtyard for our annual blessing of the animals.\nYou are welc
- ome to bring your leashed pet or keep your pet in a carrier. We welcome al
- l pets: furry\, scaly\, and feathery\, as well as stuffed animals or pictu
- res of your pet!\n\nThis special event is free and open to ALL community m
- embers of any religious affiliation. On this day\, we celebrate the Feast 
- Day of Saint Francis of Assisi\, patron saint of animals\, our church\, an
- d the City of San Francisco. All of God’s creatures are welcome. Pet own
- ers can show appreciation for their pets\, make new friends\, and share th
- e company of other animals and their owners. You can also help us make tre
- ats for the animals at the San Francisco Animal Care and Control. St. Fran
- cis’ clergy will bestow individual blessings on every animal in attendan
- ce.\nThe event will take place outside in our parish courtyard at 11:15 AM
- .\nSt. Francis’ Church is located near the Ocean Avenue and Junipero Ser
- ra MUNI Stop and offers plenty of free street parking.\n\nFree\n\nTickets:
-  https://www.eventbrite.com/e/annual-blessing-of-the-animals-st-francis-da
- y-tickets-1999124694777?aff=oddtdtcreator\nDetails: https://sf.funcheap.co
- m/sfs-annual-blessing-animals-2026/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/202510
- 05_110742.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:St. Francis Episcopal Church\, 399 San Fernando Way\, San Francis
- co\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-annual-blessing-animals-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
 DTSTART;TZID=America/Los_Angeles:20261004T130000
 DTEND;TZID=America/Los_Angeles:20261004T170000
@@ -1177,38 +1115,6 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Francisco Park\, 2445 Hyde Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/dads-strollers-meetup-sfs-francisco-park/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261011T100000
-DTEND;TZID=America/Los_Angeles:20261011T110000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-b19ead2af181736e@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10574\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261011T110000
-DTEND;TZID=America/Los_Angeles:20261011T120000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-3bc14bb1c7e2a5d4@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10587\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2nd Sunday Serenades
