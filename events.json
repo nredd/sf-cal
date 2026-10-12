@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-10-11T19:54:33.969705Z",
+ "last_full_refresh": "2026-10-12T21:18:26.518708Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -1646,7 +1646,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "1824b5a739ff8569",
+   "source_id": "c75b9b2e5f889b85",
    "title": "Día de los Muertos Procession & Festival of Altars 2026",
    "start": "2026-11-02T00:00:00-08:00",
    "end": "2026-11-03T00:00:00-08:00",
@@ -1763,7 +1763,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "53675b88602f6283",
+   "source_id": "80cab74c4cfbdd45",
    "title": "San Francisco Coffee Festival 2026",
    "start": "2026-11-07T00:00:00-08:00",
    "end": "2026-11-08T00:00:00-08:00",
@@ -1932,7 +1932,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "5c96aa1936399b16",
+   "source_id": "4e169b7b222bf7bb",
    "title": "San Francisco Hip-Hop Dance Festival",
    "start": "2026-11-13T00:00:00-08:00",
    "end": "2026-11-14T00:00:00-08:00",
@@ -2082,7 +2082,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "c0d2c9bd88560363",
+   "source_id": "c7ab7530ba9915f4",
    "title": "Illuminate SF Festival of Light",
    "start": "2026-12-06T00:00:00-08:00",
    "end": "2026-12-07T00:00:00-08:00",
@@ -2369,54 +2369,6 @@
    "description": "Halloween",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17542180",
-   "title": "Programa de gestión de contingencias en español",
-   "start": "2026-10-05T09:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/5/programa-de-gestion-de-contingencias-en-espanol-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "¿Le interesa cambiar, reducir, reevaluar o dejar de consumir estimulantes como la metanfetamina o la cocaína?\n\nOfrecemos un programa de gestión de contingencias en español en nuestra agencia asociada, el Proyecto Gubbio.\n\nEste programa es un programa de refuerzo positivo de 12 semanas/24 sesiones con servicios médicos, asesoramiento individual, gestión de casos y grupo de apoyo, y todos los servicios se brindan en español.\n\nPara obtener más información o unirse al grupo, comuníquese con Maricruz al 415-632-9722 o envíe un correo electrónico a mmoreno@sfaf.org.\n\n___________\n\nContingency management program in Spanish\n\nInterested in changing, reducing, re-evaluating, or stopping your use of stimulants such as meth or cocaine?\n\nWe offer a contingency management program in Spanish at our partner agency, the Gubbio Project.\n\nThis program is a positive reinforcement 12 week/24-session program with medical services, individual counseling, case management, and support group with all services provided in Spanish.\n\nFor more information or to join the group, please contact Maricruz at 415-632-9722 or mmoreno@sfaf.org.",
-   "image_url": null,
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17764318",
-   "title": "Monday Yoga",
-   "start": "2026-10-05T12:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Ferry Building",
-   "address": "One Ferry Marketplace, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/5/monday-yoga-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Join our Monday yoga series on the Back Plaza, with beautiful and peaceful views overlooking the Bay!\n\nAn hour of yoga during your lunch hour is a great way to get out of your office, love your body in community, reconnect to your breath, listen to soulful tunes, and recharge your energy for the day. We’re so glad you choose to spend this precious time with us!\n\nThis vinyasa yoga classes combine accessible and creative flows, dynamic stretching, and core work. All-levels flow moves at a steady, accessible pace so you can slow down, connect to each movement and breath, while still offering some challenge. Headphones are provided to create an immersive sound experience, so it’s easy to hear the teacher, to stay present with the practice, and to enjoy a mix of zen and fun soulful beats!\n\nPlease bring your own mat.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34055841/e5ea17b9-4f73-4a24-a9bc-be86a08a4faa.jpg",
-   "categories": [
-    "Variety"
-   ],
    "notes": []
   },
   {
@@ -16376,6 +16328,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949783",
+   "title": "The Power of Loving Awareness",
+   "start": "2026-10-17T10:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Spirit Rock Meditation Center",
+   "address": "5000 Sir Francis Drake Blvd Box 169,, Woodacre, CA, 94973",
+   "locality": "Woodacre",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/17/the-power-of-loving-awareness-tickets",
+   "ticket_url": "https://spirit-rock.secure.retreat.guru/program/the-power-of-loving-awareness-meeting-adversity-with-compassion-and-clarity-mc4d26/?lang=en",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "with Mark Coleman\nMindfulness and love are essential and beautiful qualities of an awakened life. Mindfulness leads to clarity, insight, and understanding while compassion is an attitude of heart that cares deeply about life’s challenges. Combined, they allow a kind embrace of the pain and struggles that arise in ourselves, each other, and the world.\nDuring this heartfelt day of meditation, we will discover how these qualities are essential in responding to the inevitable stresses and suffering that are part of being human. We will explore how they are necessary in any journey of awakening and in learning to live wisely and kindly in the midst of difficulty.\nParticipants will cultivate awareness through mindfulness meditations, and develop a compassionate orientation through heart-opening practices. Teachings will focus on the integration of love and awareness as a response to suffering and pain. We will also inquire into what obstructs the natural expression of the heart.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927132/7b1b9552-4cfc-47be-986f-25d625e99228.jpg",
+   "categories": [
+    "Lecture/Education"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17102224",
    "title": "Head West Marketplace at South B Street",
    "start": "2026-10-17T11:00:00-07:00",
@@ -18585,6 +18561,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34636515/a3e7eef2-dc40-4b82-b661-bd04772ce6a8.jpg",
    "categories": [
     "Experiences"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949787",
+   "title": "The Somatic Language of Thoughts and Emotions",
+   "start": "2026-10-18T10:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Spirit Rock Meditation Center",
+   "address": "5000 Sir Francis Drake Blvd Box 169,, Woodacre, CA, 94973",
+   "locality": "Woodacre",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/18/the-somatic-language-of-thoughts-and-emotions-tickets",
+   "ticket_url": "https://spirit-rock.secure.retreat.guru/program/the-embodied-mind-js1d26/?lang=en",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "with Jill Satterfield\nEmerging research on the predictive aspect of the nervous system suggests the body doesn’t just react to our thoughts and emotions — it can and does anticipate them, generating predictions that may shape what we’re about to feel and think even before we’ve consciously registered it. The hair rising on the back of your neck, a gut feeling before you know why: these are signs of the nervous system registering and responding to signals caring for us, before they’ve been consciously processed as thought or story. What we experience as spontaneous is often the tail end of a process that began in the body moments earlier. This daylong workshop trains attention on that predictive layer and develops interoception, or internal awareness, the felt sense arising in real time prior to story or interpretation. We’ll explore meditation and mindfulness practices along with self – guided breathing as a bridge between body and mind — to build sensitivity to early signals of the raw data that the nervous system is constantly generating. Through breathwork and nervous-system-informed relaxation techniques, we’ll practice intervening at the point of origin, where there is still room to choose a different response rather than being carried by a habit reaction, already set in motion.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927171/8898bc39-9fc4-496a-ac45-d8b9ec92184d.jpg",
+   "categories": [
+    "Lecture/Education"
    ],
    "notes": []
   },
@@ -22150,6 +22150,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949785",
+   "title": "‘INNER WORKINGS’ A Solo Exhibition by Randy Gaul & ‘THE ARTIST BEHIND THE EFFECT’ A Group Exhibition",
+   "start": "2026-10-22T17:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "111 Minna Gallery",
+   "address": "111 Minna St, San Francisco, CA, 94105",
+   "locality": "San Francisco",
+   "geo": [
+    37.7873057,
+    -122.3993712
+   ],
+   "url": "https://dothebay.com/events/2026/10/22/inner-workings-a-solo-exhibition-by-randy-gaul-the-artist-behind-the-effect-a-group-exhibition-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "‘INNER WORKINGS’\nA Solo Exhibition by Randy Gaul\n\n‘THE ARTIST BEHIND THE EFFECT’\nA Group Exhibition\nCurated By Katharine Baird\n\n111 Minna Gallery OPENING RECEPTION: Thursday, October 22nd 2026\n\nWe have a double feature of local VFX artists displaying their fine art here at 111 Minna Gallery!!!\n\nOur 2nd Street Gallery will be displaying ‘Inner Workings’, a solo exhibition by Randy Gaul!\n\nThe Inner Workings show, created by Randy Gaul, is a collection of artwork that spans decades of personal work. Within the show are imaginary worlds, creatures and observations brought together by life experience before the film industry and after. Additional works include furniture, lights and custom frames made from reclaimed materials from job sites and local surroundings. Randy continues in the film industry pitching original content and showing in galleries.\n“My soul as an artist has always existed. My continuing film work is but a small portion of my expressive passion as an artist. As the film industry fell into prequels, sequels and other uninspired projects, it was vital to me to nurture that which has always been there within me. I am now very careful what industry projects I work on and with whom.”\nIn 1998, Randy Gaul joined Industrial Light & Magic as a concept designer.\n\nPrior to joining ILM, he worked for seven years as a freelance storyboard and concept artist for such companies as Wild Brain, MTV and Disney, specializing in creature and character designs as well as environments...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927142/a9674b09-4856-4572-b8bb-335e64c16ee1.jpg",
+   "categories": [
+    "The Arts"
+   ],
+   "notes": [
+    "111 Minna Gallery Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17797857",
    "title": "After Dark: Death and Life / La muerte y la vida",
    "start": "2026-10-22T18:00:00-07:00",
@@ -23082,6 +23111,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949918",
+   "title": "Operations Director",
+   "start": "2026-10-23T17:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The Waterfront Rodeo",
+   "address": "13 Pacific Avenue, Lower Level, Rodeo, CA, 94572",
+   "locality": "Rodeo",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/23/operations-director-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fwaterfront-halloween-game-night-featuring-the-marina-candy-crawl-tickets-1994489889951",
+   "price_text": "FREE - ALL AGES",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Join us for a spooky night of games and candy fun at the Waterfront Halloween Game Night & Marina Candy Crawl!\n\nWaterfront Halloween Game Night\nJoin us in person for a spooktacular evening at the Waterfront Halloween Game Night featuring the Marina Candy Crawl! Get ready for a night full of fun games, tasty treats, and good vibes by the water. Bring your friends, dress up in your best costume, and let's make it a Halloween to remember!\n\nFamily/Animals on Leash Friendly\nFood Trucks onsite\nFree Parking\nNo Outside Alcohol, Food, or Drinks",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34928259/3d44aab5-b172-4417-ad23-6efadd797631.jpg",
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": [
+    "Simply B.O.S.S. Events"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17627872",
    "title": "Gallery Chats at OMCA",
    "start": "2026-10-23T17:30:00-07:00",
@@ -23905,6 +23960,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34511975/d6b0a3b3-b5e9-4ff2-9ac7-a89d1fd0e06a.jpg",
    "categories": [
     "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949123",
+   "title": "Stand-Up Comedy Show @de Vine Wine & Beer",
+   "start": "2026-10-23T19:30:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "de Vine Wine & Beer + Food",
+   "address": "2627 Broadway, Redwood City, CA, 94063",
+   "locality": "Redwood City",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/23/stand-up-comedy-show-de-vine-wine-beer-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F2003291696391%3Faff%3Doddtdtcreator",
+   "price_text": "(Free, 21+)",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Welcome to the Newest Stand-Up Comedy Show in Downtown Redwood City!\n\nPeninsula Comedy brings their Brand of Comedy to a New Venue: de Vine Wine & Beer in Downtown Redwood City. de Vine Wine & Beer offers a wide selection of exquisite Wines & they have local beer on tap. We're bringing a hot lineup of comedians to this very elegant & intimate space. Come on by for great drinks and top-notch entertainment.\n\nFeature Comedians: Emon Dismore (Peninsula Comedy), Donovan Robertson (Don't Tell Comedy), Maggie Adams (Cobbs Comedy Club), Myles Brown (Naked Cat Comedy), and our headliner is Bryan Bayley (San Francisco Punchline).\nFollow Us on instagram: @peninsulacomedy or @emondismore",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34922922/807025f2-fdbd-48b0-bb48-a453341cf374.jpg",
+   "categories": [
+    "Comedy"
    ],
    "notes": []
   },
@@ -25060,6 +25139,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34250338/73a49296-f97c-4149-84bc-71153ed21ae8.jpg",
    "categories": [
     "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949872",
+   "title": "Pacific Commons Shopping Center Announces Annual (Free) Halloween Spooktacular Event",
+   "start": "2026-10-24T15:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Pacific Commons Shopping Center",
+   "address": "43440 Boscell Rd, Fremont, CA, 94538",
+   "locality": "Fremont",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/24/pacific-commons-shopping-center-announces-annual-free-halloween-spooktacular-event-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Celebrate Halloween at Fremont’s premier shopping destination! Pacific Commons hosts its Annual Halloween Spooktacular, a free, family-friendly afternoon featuring festive entertainment, a face painter, balloon artist, cotton candy, photo booth, and free goodie bags for kids (while supplies last). Come in costume and join the fun!\nWhat: An afternoon filled with family-friendly Halloween fun including a talented\nface painter, an interactive balloon artist, festive music, photo booth, cotton candy, and free goodie bags for children (while supplies last). Come in costume and join the celebration!\nAdditionally, Pacific Commons has designed a trick-or-treat trail, that will run in conjunction to the events, with participating tenants handing out candy at their stores, while supplies last.\nWhen: Saturday, October 24, from 3:00 – 5:00 pm\nWhere: Pacific Commons Shopping Center, Fremont, CA (off the I880 corridor) (next to Koja Kitchen)\nAbout Pacific Commons\nFremont’s Pacific Commons is a dominant, regional power center located off the I-880 corridor in the middle of Silicon Valley. This 1.1 million square-foot shopping destination is home to such popular retailers as Target, Burlington, Lowe’s, Costco, Nordstrom Rack, DSW, Old Navy, T.J. Maxx, Ulta Beauty, Total Wine, Men’s Wearhouse and Century Theatres. Restaurants tenants include The Kebob Shop, Market Broiler, Koja Kitchen, and more.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927964/d804c6a0-02e1-4b06-a35b-5f5a79c8e7be.jpg",
+   "categories": [
+    "Arts & Family"
    ],
    "notes": []
   },
@@ -27115,6 +27218,33 @@
    "notes": [
     "Alamo Square Neighborhood Association"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949166",
+   "title": "Secret Improv VICE Halloween edition",
+   "start": "2026-10-25T17:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Shelton Theater",
+   "address": "533 Sutter St., San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": [
+    37.78902490000001,
+    -122.4091439
+   ],
+   "url": "https://dothebay.com/events/2026/10/25/secret-improv-vice-halloween-edition-tickets",
+   "ticket_url": "https://shows.secretimprov.com/checkout?performanceId=69&showSlug=secret_improv_vice",
+   "price_text": "25",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Secret Improv VICE begins the holiday season with our annual Halloween edition. What happens when Noir meets Horror? A show so fun it’s scary. Last year, our detective proved the ghosts in the Pacific Heights mansion were phony. Yet he remained haunted by the voices of the now dead butler and maid. On Sunday, October 25th, what terror awaits? We don’t know (yet): It’s improv!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34923137/a98d3a7b-d87c-43af-9fdc-dbf00cf8249b.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -29694,6 +29824,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949437",
+   "title": "The Moors",
+   "start": "2026-10-28T20:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/28/the-moors-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/moors",
+   "price_text": "General Admission ($20), Faculty/Staff/Non-SMC Students ($15)",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The MoorsFall '26 Theatre Production\n\nDates & Times\nWednesday, October 28, 2026, 8:00 pm\nThursday, October 29, 2026, 8:00 pm\nFriday, October 30, 2026, 4:00 pm\nSaturday, October 31, 2026, 2:00 pm\nSunday, November 1, 2026, 2:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\nAbout\nThe Moors by Jen Silverman, Directed by Dr. Javier Luis Hurtado\nJen Silverman's The Moors is a dark, surreal comedy that brilliantly subverts classic 19th-century Gothic literature—particularly the works of the Brontë sisters. It explores themes of loneliness, power, and visibility through a bizarre, sometimes violent, but darkly hilarious lens. Performances will be Oct. 28-Nov. 1.\n\nContact\nTara Sundy\nPerforming Arts Coordinator & Events Manager\ntms8@stmarys-ca.edu\n(925) 631-4670",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34924645/1637ac23-3fff-4133-bd53-5de43fbce762.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Saint Marys College of California"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17661996",
    "title": "Evil Dead II (1987) - Double Feature!!!",
    "start": "2026-10-28T21:00:00-07:00",
@@ -30727,6 +30883,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949448",
+   "title": "The Moors",
+   "start": "2026-10-29T20:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/29/the-moors-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/moors",
+   "price_text": "General Admission ($20), Faculty/Staff/Non-SMC Students ($15)",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The MoorsFall '26 Theatre Production\n\nDates & Times\nWednesday, October 28, 2026, 8:00 pm\nThursday, October 29, 2026, 8:00 pm\nFriday, October 30, 2026, 4:00 pm\nSaturday, October 31, 2026, 2:00 pm\nSunday, November 1, 2026, 2:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\nAbout\nThe Moors by Jen Silverman, Directed by Dr. Javier Luis Hurtado\nJen Silverman's The Moors is a dark, surreal comedy that brilliantly subverts classic 19th-century Gothic literature—particularly the works of the Brontë sisters. It explores themes of loneliness, power, and visibility through a bizarre, sometimes violent, but darkly hilarious lens. Performances will be Oct. 28-Nov. 1.\nContact\nTara Sundy\nPerforming Arts Coordinator & Events Manager\ntms8@stmarys-ca.edu\n(925) 631-4670",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34924717/f1fc6228-68ab-4b8b-877b-472f248eda06.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Saint Marys College of California"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17404071",
    "title": "The Chicks",
    "start": "2026-10-29T20:30:00-07:00",
@@ -30881,6 +31063,32 @@
     "Festival"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949452",
+   "title": "The Moors",
+   "start": "2026-10-30T16:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/30/the-moors-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/moors",
+   "price_text": "General Admission ($20), Faculty/Staff/Non-SMC Students ($15)",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The MoorsFall '26 Theatre Production\n\nDates & Times\nWednesday, October 28, 2026, 8:00 pm\nThursday, October 29, 2026, 8:00 pm\nFriday, October 30, 2026, 4:00 pm\nSaturday, October 31, 2026, 2:00 pm\nSunday, November 1, 2026, 2:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\nAbout\nThe Moors by Jen Silverman, Directed by Dr. Javier Luis Hurtado\nJen Silverman's The Moors is a dark, surreal comedy that brilliantly subverts classic 19th-century Gothic literature—particularly the works of the Brontë sisters. It explores themes of loneliness, power, and visibility through a bizarre, sometimes violent, but darkly hilarious lens. Performances will be Oct. 28-Nov. 1.\nContact\nTara Sundy\nPerforming Arts Coordinator & Events Manager\ntms8@stmarys-ca.edu\n(925) 631-4670",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34924765/5f67dc40-3384-4d3c-b92a-d48b4fd3af88.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Saint Marys College of California"
+   ]
   },
   {
    "source": "dothebay",
@@ -32387,6 +32595,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949704",
+   "title": "Love, Loss, and Letting Go",
+   "start": "2026-10-31T10:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Spirit Rock Meditation Center",
+   "address": "5000 Sir Francis Drake Blvd Box 169,, Woodacre, CA, 94973",
+   "locality": "Woodacre",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/31/love-loss-and-letting-go-tickets",
+   "ticket_url": "https://spirit-rock.secure.retreat.guru/program/love-loss-and-letting-go-vf1d26/?lang=en",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "with Vinny Ferraro and Frank Ostaseski\nThere is no getting through a human life without loss. The question is not whether we will be asked to let go, but how we will meet what must be let go. In this half-day, we’ll explore how practice can help us meet grief, love, and impermanence without turning away. Together we’ll reflect on how to meet both the suffering of the world and the more intimate losses of our own lives with honesty, care, and courage.\nThis is not about transcending grief or arriving at some perfected acceptance. It’s about what helps us stay open, present, and human when life asks us to let go.\nJoin us to reflect more deeply on letting go and on appreciating the life that is here now.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34926982/ec95d6b6-8cc2-4266-8144-f48c9f9be5e3.jpg",
+   "categories": [
+    "Lecture/Education"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17913105",
    "title": "Fall Fruit Celebration",
    "start": "2026-10-31T11:00:00-07:00",
@@ -32672,6 +32904,32 @@
    ],
    "notes": [
     "CrawlSF Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949453",
+   "title": "The Moors",
+   "start": "2026-10-31T14:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/31/the-moors-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/moors",
+   "price_text": "General Admission ($20), Faculty/Staff/ Non SMC Students ($15)",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The MoorsFall '26 Theatre Production\n\nDates & Times\nWednesday, October 28, 2026, 8:00 pm\nThursday, October 29, 2026, 8:00 pm\nFriday, October 30, 2026, 4:00 pm\nSaturday, October 31, 2026, 2:00 pm\nSunday, November 1, 2026, 2:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\nAbout\nThe Moors by Jen Silverman, Directed by Dr. Javier Luis Hurtado\nJen Silverman's The Moors is a dark, surreal comedy that brilliantly subverts classic 19th-century Gothic literature—particularly the works of the Brontë sisters. It explores themes of loneliness, power, and visibility through a bizarre, sometimes violent, but darkly hilarious lens. Performances will be Oct. 28-Nov. 1.\nContact\nTara Sundy\nPerforming Arts Coordinator & Events Manager\ntms8@stmarys-ca.edu\n(925) 631-4670",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34924773/e53d2212-1c1a-4163-b347-a1eba4a73f0d.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Saint Marys College of California"
    ]
   },
   {
@@ -33453,6 +33711,32 @@
     "Variety"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949935",
+   "title": "Events Director",
+   "start": "2026-10-31T20:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The Waterfront Rodeo",
+   "address": "13 Pacific Avenue, Lower Level, Rodeo, CA, 94572",
+   "locality": "Rodeo",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/31/events-director-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fhaunted-harbor-bash-rodeo-tickets-2002396299234",
+   "price_text": "$15 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Haunted Harbor Bash at The Waterfront Rodeo\n\nStep aboard for an indoor Halloween party with live DJ sets, Latin music, dancing, games, prizes, and a sea-themed costume contest! Sangria, wine, bubbly, mocktails, and food truck meals available for purchase.\n\n21+ only. Costumes required.\n\nAdmission: $15\n\nFree parking\nVIP and reserved tables available; admission sold separately\nCommunity seating first come, first served; general admission does not guarantee seating\nNo children, pets, bags, outside food, drinks, beverage containers, or re-entry\n\n13 Pacific Avenue, Rodeo, CA 94572\nLocated at Rodeo Marina. The party takes place indoors.\nSpace is limited. Grab your tickets and bring your crew aboard!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34928453/ac0fad16-93f5-4dbb-bcb7-a44d3466ebcd.jpg",
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": [
+    "ERRUPT Management"
+   ]
   },
   {
    "source": "dothebay",
@@ -34308,6 +34592,32 @@
     "Variety"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949459",
+   "title": "The Moors",
+   "start": "2026-11-01T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/1/the-moors-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/moors",
+   "price_text": "General Admission ($20), Faculty/Staff/Non SMC Students ($15)",
+   "is_free": false,
+   "sold_out": false,
+   "description": "The MoorsFall '26 Theatre Production\n\nDates & Times\nWednesday, October 28, 2026, 8:00 pm\nThursday, October 29, 2026, 8:00 pm\nFriday, October 30, 2026, 4:00 pm\nSaturday, October 31, 2026, 2:00 pm\nSunday, November 1, 2026, 2:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\nAbout\nThe Moors by Jen Silverman, Directed by Dr. Javier Luis Hurtado\nJen Silverman's The Moors is a dark, surreal comedy that brilliantly subverts classic 19th-century Gothic literature—particularly the works of the Brontë sisters. It explores themes of loneliness, power, and visibility through a bizarre, sometimes violent, but darkly hilarious lens. Performances will be Oct. 28-Nov. 1.\nContact\nTara Sundy\nPerforming Arts Coordinator & Events Manager\ntms8@stmarys-ca.edu\n(925) 631-4670",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34924801/7569e40c-2230-4713-9bee-37389dfa6d8e.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Saint Marys College of California"
+   ]
   },
   {
    "source": "dothebay",
@@ -38097,6 +38407,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949788",
+   "title": "Rituals of Care: Buddhist Chant and Culture",
+   "start": "2026-11-07T10:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Spirit Rock Meditation Center",
+   "address": "5000 Sir Francis Drake Blvd Box 169,, Woodacre, CA, 94973",
+   "locality": "Woodacre",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/7/rituals-of-care-buddhist-chant-and-culture-tickets",
+   "ticket_url": "https://spirit-rock.secure.retreat.guru/program/rituals-of-care-buddhist-chant-and-culture-ch1d26/?lang=en",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "with Chenxing Han and Trent Walker\nWhat is the role of chant in Buddhist practice? How does it shape communities of belonging and cultures of care?\nDuring this daylong, we will engage in a variety of chanting practices from across the Buddhist world, with a special emphasis on the Theravāda tradition as transmitted in mainland Southeast Asia. We’ll explore the musical and textual dimensions of chant, as well as its ritual possibilities. Our charge as a group will be to embody chant as an expression of care for ourselves, our loved ones, and the world.\nThere will be time to reflect on questions of voice, language, and lineage. Nearly every Buddhist throughout history has engaged in recitation and other practices of aspiration, concentration, and devotion. Our day together invites us into kinship with them as we, too, experience the healing resonances of these practices.\nAll are warmly welcome to participate; no previous chanting experience is required.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927177/f8723e08-911d-4d9c-9f41-56bdac3382c8.jpg",
+   "categories": [
+    "Lecture/Education"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "16939033",
    "title": "Makers Market™ Local Artist Fair @ Old Town Los Gatos",
    "start": "2026-11-07T11:00:00-08:00",
@@ -38478,6 +38812,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33883578/e3e4353d-4d19-438f-8493-fd0317d3da33.png",
    "categories": [
     "Sports"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17948095",
+   "title": "Good Old Days new ceramic works by Ben Belknap",
+   "start": "2026-11-07T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The Compound Gallery and Interdisciplinary Art Studios",
+   "address": "1339 61st St., Emeryville, CA, 94608",
+   "locality": "Emeryville",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/7/good-old-days-new-ceramic-works-by-ben-belknap-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "The Compound Gallery is delighted to present The Good Old Days, new ceramic works by Ben Belknap. The show opens with a reception on Saturday, November 7th from 6 to 9pm and runs from 12 to 6pm from Thursdays through Sundays until December 13th.\n\nBelknap's small scale, richly glazed ceramic sculptures pull on the nostalgic heart strings of days gone by. Getting lost in stack of books, sitting by the fireplace, or putting on a record, the works evoke simple solitary pleasures. Belknap has a deep understanding of ceramics and glazes, including many he personally developed. This show invites viewers to join Belknap in secluded spaces and realize the way the present moment will eventually become a memory.\n\nThe Compound Gallery\n1339 61st st. Emeryville, CA 94608\nGallery hours: Thurs-Sun 12-6pm\n844-ART-SHIP (844-278-7447)\nhttps://thecompoundgallery.com/good-old-days/",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34918199/b181e8ae-9103-4f86-bb53-da8bd80bfa1b.jpg",
+   "categories": [
+    "Arts & Family"
    ],
    "notes": []
   },
@@ -39551,6 +39909,30 @@
    "sold_out": false,
    "description": null,
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34278263/5efdf79d-4bc1-4669-9c5e-60dc3c5d12e4.png",
+   "categories": [
+    "Lecture/Education"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17949794",
+   "title": "Self-Compassion for Shame: Practical Skills for Emotional Wellbeing",
+   "start": "2026-11-08T10:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Spirit Rock Meditation Center",
+   "address": "5000 Sir Francis Drake Blvd Box 169,, Woodacre, CA, 94973",
+   "locality": "Woodacre",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/8/self-compassion-for-shame-practical-skills-for-emotional-wellbeing-tickets",
+   "ticket_url": "https://spirit-rock.secure.retreat.guru/program/self-compassion-for-shame-practical-skills-for-emotional-wellbeing-cr1b26/?lang=en",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "with Christopher Germer and Carolina Bautista-Velez\nWhat’s wrong with you? Who do you think you are?\nAll humans can experience shame—including the most practiced meditators and meditation teachers. It can even happen when we’re entirely innocent of wrongdoing, as well as when we make a mistake. Whenever we feel bad about ourselves, for whatever reason, there’s usually a touch of shame present. It strikes us at the core of our being and yet has nothing to do with who we really are.\nThe power of shame is largely an illusion. As meditation teacher Tara Brach says, shame often masquerades as a “trance of unworthiness” that gets its power from our instinctive avoidance of it. However, when we look at shame through the eyes of self-compassion, we can discover something quite surprising—that shame is an innocent emotion arising from a universal wish to be loved. This insight opens the door to compassion and self-understanding. Research shows that self-compassion is the opposite of shame. As self-compassion goes up, shame goes down.\nIn this workshop, Chris Germer and Carolina Bautista-Velez present the practice of Self-Compassion for Shame, specifically tailored to loosen the grip of shame in our own lives. The workshop includes short talks, exercises, practices, and discussion. Participants will learn 5-6 simple tools to bring home to use in their daily life.\nAll are invited to attend this benefit with the awareness that shame can be a difficult human emotion—and that self-compassio...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927221/ee2c88f0-dc9f-4508-88b5-3fdd928ce5c6.jpg",
    "categories": [
     "Lecture/Education"
    ],
@@ -46766,6 +47148,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17947605",
+   "title": "Beats, Burgers, & Blends: Phil Coturri Appreciation Day and Nouveau Release Party",
+   "start": "2026-11-19T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Winery Sixteen 600",
+   "address": "589 First Street West, Sonoma, CA, 95476",
+   "locality": "Sonoma",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/19/beats-burgers-blends-phil-coturri-appreciation-day-and-nouveau-release-party-tickets",
+   "ticket_url": "https://www.winerysixteen600.com/product/detail/phil-coturri-and-nouveau-day---november-19th--2026/",
+   "price_text": "$20 - includes complimentary taste of 2026 Nouveau",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join Winery Sixteen 600 on Thursday, November 19 for Beats, Burgers, & Blends: A Phil Coturri Appreciation Day and Nouveau Release Party.\n\nIn honor of the City of Sonoma’s official holiday, Phil Coturri Day, we’ll be celebrating the only way we know how: with our friends, listening to music, drinking wine, and having fun.\n\nMusic is by Lionize. Food will be available for purchase from Eugene’s Burgers.\n\nTickets are $20. All tickets include a complimentary taste of our 2026 Nouveau.\n\nThe party will take place at Sixteen 600’s Tasting House, located at 589 First Street West in Sonoma, CA.\n\nThursday, November 19, 2026. 5PM to 9PM.\n\nQuestions? Give us a call, text, or email. We can't wait to see you all there!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34915406/4c89bf22-fbae-4eea-b57f-1185b16ebf13.jpg",
+   "categories": [
+    "Food & Drink"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17278984",
    "title": "Gwar",
    "start": "2026-11-19T18:00:00-08:00",
@@ -48481,6 +48887,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34827794/98aa86bb-796f-4754-9b57-c0c921643444.jpg",
    "categories": [
     "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17948441",
+   "title": "SONGWRITERS SHOWCASE: LIVE ORIGINAL MUSIC COASTSIDE",
+   "start": "2026-11-21T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Chit-Chat Cafe",
+   "address": "5 West Manor Drive, Pacifica, CA, 94044",
+   "locality": "Pacifica",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/21/songwriters-showcase-live-original-music-coastside-tickets",
+   "ticket_url": "https://www.songwriters-showcase.com/upcoming",
+   "price_text": "All Ages - No Cover!",
+   "is_free": true,
+   "sold_out": false,
+   "description": "LIVE ORIGINAL MUSIC\nTalented musicians provide their original music at the charming Chit Chat Cafe in Pacifica, CA.\n\nYou may have heard that the Chit Chat's pier location was destroyed when\nthe Pacifica Pier started breaking apart this past last summer.\nThe West Manor location, a long-time friend to local music, survives.\n\nWhy not come by and help them out? ... Get a sandwich, a latte, or ...\n\nThe November 21st show is free with no cover.\nSwing by between 1:00 and 3:00 PM for some incredible acoustic music\nand have a bite to eat while you enjoy the sweeping ocean views.\n\nFEATURING\n\nErol\nPeköz, whose songs pair conversational, introspective lyrics with catchy melodies.\nKen Newman, a quintessential storyteller with a willingness to follow a song wherever it leads.\nAnna Seitz, with acoustic oriented music combining the literate and poetic sensibilities of artists like Joni Mitchell and Carly Simon, the sunny optimism of a Colbie Caillat, and the authenticity of Alison Krauss.\nTony Cordero, who blends his songwriter sensibilities through decades of independent, irreverent and insurgent rock n’ roll to deliver a healthy mix of songs he’s written and songs he WISH he wrote.\n\nCheck out MORE Upcoming Shows!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34919816/bb6726c5-a943-488c-94b3-83d2766827bd.jpg",
+   "categories": [
+    "Music"
    ],
    "notes": []
   },
@@ -51886,6 +52316,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949799",
+   "title": "Touching the Earth: Dharma and Yoga",
+   "start": "2026-11-28T10:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Spirit Rock Meditation Center",
+   "address": "5000 Sir Francis Drake Blvd Box 169,, Woodacre, CA, 94973",
+   "locality": "Woodacre",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/28/touching-the-earth-dharma-and-yoga-tickets",
+   "ticket_url": "https://spirit-rock.secure.retreat.guru/program/touching-the-earth-dharma-and-yoga-dj3d26/?lang=en",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "with Djuna Devereaux and Rolf Gates\nWhen stress and uncertainty arise, returning to the body and our connection with the earth offers stability, calm, and the possibility of a wise response. In this daylong retreat, we’ll cultivate embodied presence as a taproot—grounding us and settling the mind. From this refuge, we’ll explore opening to clarity, joy, and belonging.\nOur day will weave together Dharma teachings, meditation, somatic movement, and yoga asana into a deeply nourishing experience. We’ll begin with floor-based movement to release tension and fatigue, then flow into accessible yoga sequences. Drawing on personal stories and classical Buddhist teachings, we’ll explore what it means to be grounded in the body, held by awareness, and supported by community. All abilities and levels of experience warmly welcomed!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927248/01cb7f9d-5359-46b0-8171-e7322d7357f2.jpg",
+   "categories": [
+    "Outdoor & Recreation"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "16939031",
    "title": "Makers Market™ Local Artist Street Fair @ Broadway Plaza",
    "start": "2026-11-28T11:00:00-08:00",
@@ -52665,6 +53119,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17949804",
+   "title": "Insight Mini Meditation Retreat: A Day of Practice",
+   "start": "2026-11-29T10:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Spirit Rock Meditation Center",
+   "address": "5000 Sir Francis Drake Blvd Box 169,, Woodacre, CA, 94973",
+   "locality": "Woodacre",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/29/insight-mini-meditation-retreat-a-day-of-practice-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "with Erin Selover\nPlease join us on the land at Spirit Rock for a day of Insight Meditation practice. This day will be held in noble silence with alternating sitting and walking meditation as well as teachings that support the cultivation of equanimity—the capacity to stand in the center of things with a calm, wise, and clear heart. Our time together is designed both for those newer to practice who are curious about retreat, as well as more experienced practitioners wanting to reconnect. All are welcome!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927275/7952bca5-eb17-41dd-ba06-9d4d4db303a4.jpg",
+   "categories": [
+    "Lecture/Education"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17354883",
    "title": "Red Zone Rally- 49ers vs Seahawks",
    "start": "2026-11-29T10:25:00-08:00",
@@ -52715,6 +53193,33 @@
    "notes": [
     "Mockingbird Lane"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17948456",
+   "title": "SONGWRITERS SHOWCASE: OCEAN ALE HOUSE",
+   "start": "2026-11-29T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Ocean Ale House",
+   "address": "1314 Ocean Ave, San Francisco, CA, 94112",
+   "locality": "San Francisco",
+   "geo": [
+    37.7242395,
+    -122.4567663
+   ],
+   "url": "https://dothebay.com/events/2026/11/29/songwriters-showcase-ocean-ale-house-tickets",
+   "ticket_url": "https://www.songwriters-showcase.com/upcoming",
+   "price_text": "FREE",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Songwriters Showcase\nat the fabulous Ocean Ale House\n1314 Ocean Avenue San Francisco, CA\n11/29/2026 from 1:00 until 4:00 PM\n\nVittles, libations & good vibrations\n\nAnd what a line-up!\n\nErik Walker * Bill Leigh * PHUONIEX * Sonny Boy Daniel * David Kesler\n\nErik Walker is perhaps best known for the piece “CLIMATE”, released in 2019, which was done in collaboration with climate scientists from the UC Berkeley lab.\nBill Leigh is a San Francisco singer-songwriter and bassist known for catchy songs,\nemotionally resonant lyrics, and careful craftsmanship.\nPHUONIEX is a Vietnamese American singer-songwriter, blending intimate indie folk-pop with acoustic roots and warm, conversational vocals.\nSonny Boy renders original songs, old blues classics and unexpected covers in a rough-hewn but effective delivery, combining lively vocals with a deft touch on the dobro.\nYou never know with David Kesler, whether he's about to rock you out or lay bare a slice of family lore guaranteed to bring you to tears. As we write, he's headed to Nepal for some serious mountain climbing.\n\nCheck out Upcoming Shows for biographical details & more Songwriters Showcase performances!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34919905/2dcebe60-179e-4196-b855-8ac8efdb4f94.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -57977,6 +58482,682 @@
    "notes": []
   },
   {
+   "source": "dothebay",
+   "source_id": "17352285",
+   "title": "20th Annual Posada Navideña by Calidanza Dance Company",
+   "start": "2026-12-11T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Luther Burbank Center for the Arts",
+   "address": "50 Mark West Springs Road, Santa Rosa, CA, 95403",
+   "locality": "Santa Rosa",
+   "geo": [
+    38.4931764,
+    -122.7492173
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/20th-annual-posada-navidena-by-calidanza-dance-company-tickets",
+   "ticket_url": "https://lutherburbankcenter.org/event/posada26/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Celebrate Christmastime and Community with Calidanza, as dancers and musicians transport you to Mexico with its unique holiday festivities. Experience the colorful costumes, cultural traditions, distinct dances, and live music from Jalisco, Sinaloa, Oaxaca, Michoacán, and now from Baja Norte and Chihuahua. Artistic Director, Steven Valencia and the Calidanza Dance Company, with musicians from Vinic Kay, once again welcome you to enjoy this visually stunning, joyful holiday celebration.\n\n¡Feliz Navidad!\n\nDon’t Miss!\n\nFree arts and crafts in the lobby at 5:30 pm\n\nTraditional posada (procession) and festive community party, featuring students from LBC’s Mariachi Cantares de Mi Tierra and Ballet Folklórico program, will follow the performance.\n\n20ª Posada Navideña Anual de Calidanza Dance Company\n\nViernes, 11 de diciembre\n\n6:30 p. m.\n\nCelebre la Navidad y a la comunidad mientras los bailarines y músicos de Calidanza nos transportan a diferentes regiones de México y sus festividades navideñas únicas. Disfrute de trajes coloridos, bailes distintivos y música querida de Jalisco, Sinaloa, Oaxaca, Michoacán y ahora de los trópicos culturalmente diversos de Tabasco, donde se mezclan influencias africanas, cubanas, españolas e indígenas. Únase al director artístico Steven Valencia y a la Compañía de Danza Calidanza una vez más para esta celebración navideña visualmente impresionante y alegre. ¡Feliz Navidad!\n\n¡No te lo pierdas!\n\nA las 5:30 p. m. artesanías gratuitas en el vestíbulo.\n\nFi...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32093346/cba0eb2d-6600-4209-accd-9d79969fcd75.jpg",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17761977",
+   "title": "Muppet Christmas Carol (1992)",
+   "start": "2026-12-11T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Village at Corte Madera",
+   "address": "1557 Redwood Hwy, Corte Madera, CA",
+   "locality": "Corte Madera",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/11/muppet-christmas-carol-1992-tickets",
+   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=406439~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Muppets put their spin on the tale of an elder, Christmas-hating miser who is visited by spirits who foretell his future and share secrets from his past and present, which helps change his view on life.\n\n1hr 25min - G\n\nThe Feature Typically Starts 7-10 Minutes Past Showtime",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34042914/4493ad34-01a5-45e7-81c7-76e6402099b1.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17931720",
+   "title": "Welcome To The West",
+   "start": "2026-12-11T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Golden 1 Center",
+   "address": "500 David J Stern Walk, Sacramento , CA, 95814",
+   "locality": "Sacramento",
+   "geo": [
+    38.5802066,
+    -121.4993496
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/welcome-to-the-west-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fwelcome-to-the-west-sacramento-california-12-11-2026%2Fevent%2F1C00653EDF07422B",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Welcome To The West\nFriday, December 1 | ​Golden 1 Center",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34842996/82bcbe14-6a3a-4907-94d2-7144bc8dd26c.png",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17292164",
+   "title": "Olivia Rodrigo",
+   "start": "2026-12-11T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Oakland Arena",
+   "address": "7000 Coliseum Way, Oakland, CA, 94621",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/11/olivia-rodrigo-the-unraveled-tour-featuring-devon-again-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F1C00649DD84D193A",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "The Unraveled Tour\nOlivia Rodrigo\nFriday, December 11 | Oakland Arena",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31824089/6f710343-b324-4ee1-b044-6d6181c31bb0.png",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "The Unraveled Tour"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17623604",
+   "title": "San Jose Sharks vs. Los Angeles Kings",
+   "start": "2026-12-11T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "SAP Center",
+   "address": "525 West Santa Clara Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3322405,
+    -121.9016508
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/san-jose-sharks-vs-los-angeles-kings-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsan-jose-sharks-vs-los-angeles-san-jose-california-12-11-2026%2Fevent%2F1C0064E79B109C23",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "By purchasing, you are sharing your contact info and ticket sales data with the NHL and the San Jose Sharks. The NHL may use this info to better understand fan engagement across the league, including to enable the NHL and its Member Clubs to customize their services and advertising. For more information including your NHL privacy choices, see www.nhl.com/info/privacy-policy.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33389830/7e51e84a-e86e-498b-ae8d-f0f99d4498eb.png",
+   "categories": [
+    "Sports"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17672094",
+   "title": "Maz Jobrani",
+   "start": "2026-12-11T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Ave, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.802989,
+    -122.4143902
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/maz-jobrani-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmaz-jobrani-san-francisco-california-12-11-2026%2Fevent%2F1C0064FC0DC64513",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Maz Jobrani\nFriday, December 11 | ​Cobb's Comedy Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33617376/74f30a0d-7262-4a24-b533-3d977acff98a.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17873794",
+   "title": "Lucius",
+   "start": "2026-12-11T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Castro",
+   "address": "429 Castro St, San Francisco, CA, 94114",
+   "locality": "San Francisco",
+   "geo": [
+    37.7619917,
+    -122.4347365
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/lucius-tickets",
+   "ticket_url": "https://thecastro.com/events/lucius-261211",
+   "price_text": "all ages",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Another Planet Entertainment presents\nA History Worth Repeating: Songs and Stories from Lucius\nLucius\n\nFriday, December 11 | The Castro\n\nRooted in mirrored kinship and a captivating vocal blend, Lucius — the Grammy-nominated indie-pop duo of Jess Wolfe and Holly Laessig — are songwriters of rare emotional precision, building one of contemporary music’s most enchanting, harmonic sounds. Their voices, described by the Los Angeles Times as “otherworldly,” move in perfect tandem: two instruments so attuned they read as one. Rolling Stone called their most recent album, 2025’s self-titled “the best album of their career” — a distinction earned through hard-won vulnerability, as Wolfe and Laessig turn inward to explore motherhood, relationships, and the quiet complexities of a life shared. The New Yorker wrote that the record “reaches the pinnacle of a vibrant, harmonic enterprise.”\n\nThe arc of their catalog is one of continuous, confident evolution. Their debut, Wildewoman, announced a singular voice — dual lead vocals wrapped in retro charm, which The New York Times praised the live show that year as “the best musical performance of any kind.”\n\nGood Grief introduced a sleeker, synth-driven palette, while Second Nature — produced by Brandi Carlile and Dave Cobb — was celebrated by the Los Angeles Times with its “lush synths and sleek disco grooves under the women’s laser-guided vocals.”\n\nThroughout their career, Lucius has brought their mesmerizing live show to some of the world’s...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34573899/5398d1f8-16bf-4c60-9a68-dfd98cd2e0b1.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment presents: A History Worth Repeating: Songs and Stories from Lucius",
+    "Listed time is doors"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17343000",
+   "title": "Zoltan Kaszas: Worldwide(Ish) Tour",
+   "start": "2026-12-11T19:15:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "San Jose Improv",
+   "address": "62 S. Second Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3356047,
+    -121.8883856
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/zoltan-kaszas-worldwide-ish-tour-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fzoltan-kaszas-worldwideish-tour-san-jose-improv-tickets%2F14884623%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "price_text": "$31.14 - $101.65, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "There is a ticket delivery delay in place until two days prior to the event. Tickets will not be emailed until then. Tickets are only available online until the delivery delay is lifted.\n\nDO NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM\n\nTICKET RESALE IS STRICTLY PROHIBITED.\n\nTICKETS SUSPECTED OF BEING PURCHASED FOR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF THE SAN JOSE IMPROV.\n\nEVENT INFO:\n\nThere is a two-item minimum purchase requirement in the showroom for all guests.\n\nSeating is general admission, first-come, first-served, with the exception of groups and premium booths.\n\nNo cell phone use, photography or video recording is permitted during performances.\n\nAll sales are final.\n\nMISCELLANOUS:\n\nFor group sales info, e-mail our Events Manager to learn about special menu options and reserved seating.\n\nAdditional questions may be addressed in our Frequently Asked Questions.\n\nFor further assistance, contact San Jose Improv.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32048593/5a25b04e-858f-4e41-92c1-4a12ab76adad.jpg",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17351628",
+   "title": "Irish Christmas in America",
+   "start": "2026-12-11T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Montalvo Arts Center",
+   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
+   "locality": "Saratoga",
+   "geo": [
+    37.243876,
+    -122.030816
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/irish-christmas-in-america-tickets",
+   "ticket_url": "https://my.montalvoarts.org/3113/3157",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "“Irish Christmas in America” is a vibrant celebration of seasonal Irish traditions, blending world-class music, song, and dance with unforgettable storytelling. Produced by Sligo fiddler Oisín Mac Diarmada, this long-running favorite delivers big laughs and boundless energy in one captivating performance.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32089892/415fa6cb-7274-47d6-b330-45eb4054d7df.png",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17568474",
+   "title": "Dr. Seuss's How the Grinch Stole Christmas—Film with Live Orchestra",
+   "start": "2026-12-11T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Davies Symphony Hall",
+   "address": "Grove Street & Van Ness Avenue, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": [
+    37.7782755,
+    -122.4198453
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/dr-seuss-rsquo-s-how-the-grinch-stole-christmas-tickets",
+   "ticket_url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Grinch",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Holidays with the Symphony\nDr. Seuss's How the Grinch Stole Christmas—Film with Live Orchestra\nFriday, December 11 | Davies Symphony Hall\n\nJim Carrey stars as the curmudgeonly Grinch, who plans to ruin Christmas for the citizens of Whoville—will they manage to warm his icy heart? Enjoy this festive film on the big screen like never before as the San Francisco Symphony performs James Horner’s score live. Rated PG.\n\nConcert Extras\nThroughout December, stroll through the winter wonderland of a decked-out Davies Symphony Hall, filled with giant lit trees, wreaths, and garlands. While you’re here, sip a gingerbread old-fashioned, toast with sparkling wine, enjoy holiday desserts, and swing by the hot-chocolate cart all month long.\n\nArtists\n\nJoshua Gersen, Conductor\nSan Francisco Symphony\n\nFilm\n\nJanes Horner, Composer\nRon Howard, Director",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33611644/0f0b2c75-df64-42d0-b6ab-9302ff2b4a52.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": [
+    "Holidays with the Symphony"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17665321",
+   "title": "The Outsiders",
+   "start": "2026-12-11T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Orpheum Theatre",
+   "address": "1192 Market Street, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": [
+    37.779246,
+    -122.4145712
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/the-outsiders-tickets",
+   "ticket_url": "https://us.atgtickets.com/events/the-outsiders/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "US Tour - 2 venues\n\nThe winner of four 2024 Tony Awards®, including Best Musical.\n\nAdapted from S.E. Hinton’s seminal novel and Francis Ford Coppola’s iconic film, this thrilling new musical features a book by Adam Rapp with Justin Levine, music and lyrics by Jamestown Revival (Jonathan Clay & Zach Chance) and Justin Levine, music supervision, orchestration, and arrangements by Justin Levine, choreography by Rick Kuperman & Jeff Kuperman, and direction by Tony Award® winner Danya Taymor. Entertainment Weekly says, \"It has the power to inspire an entire generation.\"\n\nOrpheum Theatre\n\nWed, Dec 9 - Sun, Dec 27, 2026\n\nSaenger Theatre\n\nTue, Mar 30 - Sun, Apr 4, 2027",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33588684/658238ed-b3a4-400b-b06c-08b06a5868f0.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17729891",
+   "title": "Spike Sikes and His Awesome Hotcakes: Holiday show",
+   "start": "2026-12-11T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Hall of the Above",
+   "address": "199 Petaluma Boulevard, Petaluma, CA, 94952",
+   "locality": "Petaluma",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/11/spike-sikes-and-his-awesome-hotcakes-holiday-show-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Just The Right Recipe… The most frequently heard comment after a Spike’s Awesome Hotcakes gig goes something like this –\n“No one is making this kind of music anymore!”\nBut what, exactly, is “this kind of music?”\nLike hotcakes themselves, it goes by many names. Soul. Swing. Rhythm & Blues. Jazz. Jump. It’s a sound that’s classic and simple, but when it’s done right, it hits the spot, and has you grinning from ear to ear. Spike has spent years searching for this sound.\nFrom the Texas blues joints he cut his teeth in to the funky halls of New Orleans, he was always studying the music, trying to find just the right recipe. It makes perfect sense that he found his bandmates in Sonoma County, a music scene that has fostered many eclectic artists for decades.\nWhat he didn’t know was how hungry audiences were for “this kind of music.” You might say they’ve been eating it up like…Hotcakes!",
+   "image_url": null,
+   "categories": [
+    "Comedy"
+   ],
+   "notes": [
+    "Hall of the Above"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17752426",
+   "title": "Dana Gould",
+   "start": "2026-12-11T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Punch Line San Francisco",
+   "address": "444 Battery St, San Francisco, CA, 94111",
+   "locality": "San Francisco",
+   "geo": [
+    37.795486,
+    -122.4001359
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/dana-gould-tickets-jaqxb50",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fdana-gould-san-francisco-california-12-11-2026%2Fevent%2F1C006511F858F238",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Dana Gould\nFriday, December 11 | ​Punch Line San Francisco",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34000137/4301e1a8-931f-42dc-a68a-930e6977d625.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17285687",
+   "title": "Matteo Lane: We Gotta Catch Up!",
+   "start": "2026-12-11T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "The Masonic",
+   "address": "1111 California St., San Francisco, CA, 94108",
+   "locality": "San Francisco",
+   "geo": [
+    37.7911829,
+    -122.412938
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/matteo-lane-we-gotta-catch-up-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmatteo-lane-we-gotta-catch-up-san-francisco-california-12-11-2026%2Fevent%2F1C0064960AC26F71",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Doors open at 7pm",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31788500/6db67954-fdc5-4d03-a303-a9aa8d6ad7ab.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17505060",
+   "title": "Andre Nickatina",
+   "start": "2026-12-11T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Bottom Of The Hill",
+   "address": "1233 17th Street, San Francisco, CA, 94107",
+   "locality": "San Francisco",
+   "geo": [
+    37.7649597,
+    -122.3964408
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/andre-nickatina-tickets",
+   "ticket_url": "http://www.bottomofthehill.com/stubmatic/event20261211.html",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Fri\n\nday December 11\n2026\n\n8:00PM\n\ndoors\n\n-- music at 9\n\n:00PM\n\n21 AND OVER\n\n$\n\n50\n\nlimited early bird pricing\n\n/\n$60\n\nafter that\n\n$58.31 in advance [50 face value +8.31 service fee]\n\n$69.31 in advance [60 face value +9.31 service fee]\n\nLommori Productions and Westwayz Music and Booking present...\n\nAndre Nickatina\n\nHip hop, hyphy\n\nplus special guests",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32827885/7fead3f8-cfa0-4494-b3e9-63077fd4c029.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17700380",
+   "title": "Buckethead",
+   "start": "2026-12-11T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Golden State Theatre",
+   "address": "417 Alvarado Street, Monterey, CA, Monterey, CA, 93940",
+   "locality": "Monterey",
+   "geo": [
+    36.599444,
+    -121.894023
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/buckethead-tickets",
+   "ticket_url": "https://etix.prf.hn/click/camref:1011l3GdWo/pubref:dostuff/destination:https%3A%2F%2Fwww.etix.com%2Fticket%2Fp%2F91166156%2Fbuckethead-monterey-golden-state-theatre",
+   "price_text": "$53.73-$100.34",
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33748766/d0a92e86-14e4-4c6f-9b61-01de648b68c2.jpg",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17823471",
+   "title": "Jorma Kaukonen",
+   "start": "2026-12-11T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Fillmore",
+   "address": "1805 Geary Boulevard, San Francisco, CA, 94115",
+   "locality": "San Francisco",
+   "geo": [
+    37.7840042,
+    -122.4331332
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/jorma-kaukonen-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjorma-kaukonen-san-francisco-california-12-11-2026%2Fevent%2F1C0065218501B5E7",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "General Admission Seating (Front of Room) General Admission Standing (Back of Room)",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34333563/e357de68-06a6-4575-9062-859598c74cc1.png",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17877407",
+   "title": "Trippie Redd",
+   "start": "2026-12-11T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Warfield",
+   "address": "982 Market St, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": [
+    37.7827039,
+    -122.4103578
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/trippie-redd-tickets",
+   "ticket_url": "https://www.axs.com/events/1619471/trippie-redd-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001?cid=usaffdostuff",
+   "price_text": "All Ages",
+   "is_free": false,
+   "sold_out": false,
+   "description": "If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34589466/b395ea3b-c336-4aff-ac18-581f83de83da.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Goldenvoice Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17923125",
+   "title": "TRON (4K Restoration)",
+   "start": "2026-12-11T20:40:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Roxie Theater",
+   "address": "3117 16th Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7647103,
+    -122.4224081
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/tron-4k-restoration-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22255?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Steven Lisberger’s TRON plunges Jeff Bridges into a glowing digital universe of programs, gladiatorial games, and machine logic, creating one of the most distinctive visions of cyberspace ever put on screen. Syd Mead’s concept work helped shape the film’s sleek vehicles and futuristic environments, bringing his precision and industrial imagination to a world that felt radically new in 1982. Decades later, TRON still looks like the future as dreamed by a graphic designer with the circuitry exposed.\n\nPart of The Future According to Syd Mead, presented in conjunction with Syd Mead: Future Pastime, on view October 8 through December 17, 2026 at San Francisco’s Transamerica Pyramid Annex Gallery.\n\nRuntime\n\n1h 36m\n\nYear\n\n2025\n\nDirector\n\nSteven Lisberger\n\nFormat\n\nDCP\n\nFirst Showing\n\nDecember 11, 2026\n\nCategories\n\nThe Future According to Syd Mead\n\n,\n\nFeatured",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34800097/cf1ac6ae-74b7-4906-af68-8ee728105b8f.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17350240",
+   "title": "The Bobby Lees",
+   "start": "2026-12-11T21:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Independent",
+   "address": "628 Divisadero Street, San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": [
+    37.7755362,
+    -122.4376556
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/the-bobby-lees-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fthe-bobby-lees-the-independent-tickets%2F14911093%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Please note - there is a delivery delay set for 2 weeks prior to show.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32083668/7063a95c-f0d2-4aca-96b2-d092fff55e41.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17761975",
+   "title": "Harold and Maude",
+   "start": "2026-12-11T21:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Village at Corte Madera",
+   "address": "1557 Redwood Hwy, Corte Madera, CA",
+   "locality": "Corte Madera",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/11/harold-and-maude-tickets",
+   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=382236~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.\n\n1hr 31min - PG",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34042904/20f6c6d3-8002-4e92-b4e0-392dc723faad.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17672095",
+   "title": "Maz Jobrani",
+   "start": "2026-12-11T21:15:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Ave, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.802989,
+    -122.4143902
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/maz-jobrani-tickets-lwer63k",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmaz-jobrani-san-francisco-california-12-11-2026%2Fevent%2F1C0064FC0DCB451B",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Maz Jobrani\nFriday, December 11 | ​Cobb's Comedy Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33617381/a70b4f13-3102-4c7b-969f-561e3d5ccf32.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17343001",
+   "title": "Zoltan Kaszas: Worldwide(Ish) Tour",
+   "start": "2026-12-11T21:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "San Jose Improv",
+   "address": "62 S. Second Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3356047,
+    -121.8883856
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/zoltan-kaszas-worldwide-ish-tour-tickets-pbonz7n",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fzoltan-kaszas-worldwideish-tour-san-jose-improv-tickets%2F14884643%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "price_text": "$31.14 - $101.65, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "There is a ticket delivery delay in place until two days prior to the event. Tickets will not be emailed until then. Tickets are only available online until the delivery delay is lifted.\n\nDO NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM\n\nTICKET RESALE IS STRICTLY PROHIBITED.\n\nTICKETS SUSPECTED OF BEING PURCHASED FOR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF THE SAN JOSE IMPROV.\n\nEVENT INFO:\n\nThere is a two-item minimum purchase requirement in the showroom for all guests.\n\nSeating is general admission, first-come, first-served, with the exception of groups and premium booths.\n\nNo cell phone use, photography or video recording is permitted during performances.\n\nAll sales are final.\n\nMISCELLANOUS:\n\nFor group sales info, e-mail our Events Manager to learn about special menu options and reserved seating.\n\nAdditional questions may be addressed in our Frequently Asked Questions.\n\nFor further assistance, contact San Jose Improv.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32048594/d076bb39-5f80-4721-b95d-ae6bf51d2e9e.jpg",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17849198",
+   "title": "Nightshift",
+   "start": "2026-12-11T21:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Cat Club",
+   "address": "1190 Folsom Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.77541739999999,
+    -122.409985
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/nightshift-tickets",
+   "ticket_url": "https://www.sfcatclub.com/calendar/101124-9g9em-jwzb6-4a7cl-z8ktf-bjppb-kbalk-zwjpl-tmzdd-9spgt-9zbjl-kf85z-6zs4g-ttll3-g4a7m-rpd2t-h64yr-ylg88-3t635-4kt34-nc4bl",
+   "price_text": "$10",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Nightshift brings you two rooms of the best dark alternative music including Darkwave, Goth, Industrial, Synth, Dark 80's, Electro, Post-Punk and more. In the front room we bring you the best classic Goth and Industrial favorites from a catalog of music that spans over 30 years. In the back room dance to the latest music from the Darkwave, Electro, Synth and Minimalist scenes.\n\nHosted by resident DJs Melting Girl, Daniel Skellington, Owen and Starr Noir.\n\nthere all night!\n\n——\n\n9:30pm-2am\n\n$10 before 10:30 / $15 after\n\n(more info)",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34452858/22c51531-d2be-4156-a551-de3838c3bff3.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17752425",
+   "title": "Dana Gould",
+   "start": "2026-12-11T21:45:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Punch Line San Francisco",
+   "address": "444 Battery St, San Francisco, CA, 94111",
+   "locality": "San Francisco",
+   "geo": [
+    37.795486,
+    -122.4001359
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/dana-gould-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fdana-gould-san-francisco-california-12-11-2026%2Fevent%2F1C006511F85DF24D",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Dana Gould\nFriday, December 11 | ​Punch Line San Francisco",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34000130/7dd0f0b5-f989-45ee-8d53-4fc3daa68b4c.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
    "source": "fleetweeksf",
    "source_id": "53560-20261006",
    "title": "1st Marine Division Brass Quintet",
@@ -59566,54 +60747,6 @@
    "image_url": null,
    "categories": [
     "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1631623",
-   "title": "Big-Mountain Ski + Snowboard Film Screening (Mill Valley)",
-   "start": "2026-10-04T18:00:00-07:00",
-   "end": "2026-10-05T10:00:00-07:00",
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Hook Fish Co. at Proof Lab Beer Garden",
-   "address": "254 Shoreline Hwy, Mill Valley, CA 94941",
-   "locality": "Mill Valley",
-   "geo": null,
-   "url": "https://sf.funcheap.com/bigmountain-ski-snowboard-film-screening-mill-valley/",
-   "ticket_url": "https://tetongravity.myeventscenter.com/event/Mill-Valley-Ca-Whiski-Series-Hook-Fish-Co-128566",
-   "price_text": "$60.00",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerTeton Gravity Research brings its WHISKI Series to Mill Valley for a special screening of “Actually, It Is Rocket Science,” an all-new ski and snowboard film. Join us at Hook Fish Co. at Proof Lab Beer Garden for a night of big-mountain skiing, snowboarding, and adventure on the big screen, paired with local food and drink. Tickets and info: https://tetongravity.myeventscenter.com/event/Mill-Valley-Ca-Whiski-Series-Hook-Fish-Co-128566",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/TGR-Rocket-Science_18x24-NEW.jpg",
-   "categories": [
-    "Movies"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1640958",
-   "title": "1,200 Free Coffees at SF Tech Week 2026 (8a to Noon)",
-   "start": "2026-10-05T08:00:00-07:00",
-   "end": "2026-10-05T12:00:00-07:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "Ray Florets",
-   "address": "40 Grant Ave, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/1200-free-coffees-sf-tech-week-2026-8a-noon/",
-   "ticket_url": "https://partiful.com/e/0t3E5XQ4FuJYFdWO9Amr",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "1,200 Free Coffees at SF Tech Week 2026 (SF)BrewBird and Flex will serve 1,200 free coffees during SF Tech Week. The one-hour coffee event features fresh-ground, pour-over style coffee from BrewBird’s high-tech brewer, using beans from local roasters including Equator, Sightglass, Andytown, and Ritual.\nOriginal Event Description:\n1,200 Free Coffees | Brewbird x Flex – Join BrewBird & Flex for coffee before the chaos. We’re teaming up to bring SF Tech Week a coffee experience powered by BrewBird’s high-tech brewer. Brewbird grinds whole beans fresh for every cup and delivers cafe-quality, pour-over style coffee at the touch of a button. We’re serving beans from our network of local artisanal roasters, including Equator, Sightglass, Andytown, Ritual, and more. As Flex was just valued at $1.2B, we’re giving back exactly 1,200 cups to say thanks to the builders, operators, and dreamers here at SF Tech Week. Come fuel your ambition with Flex and BrewBird and tell us what you’re building! This event is a part of #SFTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com._\nText extracted from provided image:\n1200 free coffees\nOne coffee for every million Flex is valued at.\n8AM – 9AM, OCTOBER 5, 2026\nFlex x by BrewBird",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/imgi_30_rZzbYSToy_r-iNW_6sUUz.png",
-   "categories": [
-    "Eating Drinking"
    ],
    "notes": []
   },
@@ -76229,10 +77362,10 @@
    "geo": null,
    "url": "https://sf.funcheap.com/ocular-oddities-hours-museum-eye-2/",
    "ticket_url": "https://us.list-manage.com/11XQ4wf4qZb?e=cf8ff17bad&amp;c2id=7d9cf608aa30e09b690d91fab6f25322",
-   "price_text": null,
-   "is_free": true,
+   "price_text": "$20.72",
+   "is_free": false,
    "sold_out": false,
-   "description": "Museum of the EyeGet into the Halloween spirit at this 21+ after-hours event at the Museum of the Eye.\nExplore rarely seen artifacts, from 19th-century glass eyeballs to articulated skulls, and hear strange stories from ophthalmology’s past + enjoy a hosted beer & wine bar.\nOcular Oddities: After Hours\nSaturday, October 31, 2026 | 5:30p – 8p\nTruhlsen – Marmor Museum of the Eye, 645 Beach St, SF\nFREE – RSVP Required (spots are limited)\nThis event is 21+.\nContinue checking Museum of the Eye events for updates!\nDon’t miss this exclusive opportunity before these artifacts return to the vault.",
+   "description": "Museum of the EyeGet into the Halloween spirit at this 21+ after-hours event at the Museum of the Eye.\nExplore rarely seen artifacts, from 19th-century glass eyeballs to articulated skulls, and hear strange stories from ophthalmology’s past + enjoy a hosted beer & wine bar.\nOcular Oddities: After Hours\nSaturday, October 31, 2026 | 5:30p – 8p\nTruhlsen – Marmor Museum of the Eye, 645 Beach St, SF\nBuy Tickets – $20.72 General Admission + fees and a hosted beer and wine bar\nThis event is 21+.\nContinue checking Museum of the Eye events for updates!\nDon’t miss this exclusive opportunity before these artifacts return to the vault.",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/8761-moe-occular-odities-1080x1080-f-20260925.jpg",
    "categories": [
     "Eating Drinking"
@@ -78325,6 +79458,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1642139",
+   "title": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers",
+   "start": "2026-11-08T09:45:00-08:00",
+   "end": "2026-11-08T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Lower Nob Hill Neighborhood/Another Cafe",
+   "address": "1191 Pine Street (meet on Leavenworth St. side), San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-volunteers-sf-6/",
+   "ticket_url": "https://www.instagram.com/lowernobhillcleanup",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)\nPhuong Le\nLower Nob Hill Weekly Cleanup\nSundays, 9:45 AM to 11:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker, meet the people on your block, and leave the sidewalks cleaner than you found them. We provide all the supplies: grabbers, bags, gloves, and vests. Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free sandwich, salad, or drink and pastry from Another Cafe, ready when the cleanup ends\nA chance at free tickets to that evening’s 7:45 PM stand-up comedy show at Cheaper Than Therapy (533 Sutter St), a neighborhood comedy club around the corner from Union Square. Seats are limited each week and go to volunteers who claim them at check-in.\n\nEveryone is welcome, including first-timers, families, and drop-ins. Check in with a QR code when you arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by neighborhood volunteers in partnership with Civic Joy Fund and SF Public Works.\n\nUpcoming Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF) Events\nSun 10/18 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 10/25 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/1 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/8 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/15 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/22 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunt...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_27662.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1636428",
    "title": "San Francisco Coffee Festival 2026: 10th Annual Celebration (Fort Mason)",
    "start": "2026-11-08T10:00:00-08:00",
@@ -79861,6 +81018,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1642141",
+   "title": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers",
+   "start": "2026-11-15T09:45:00-08:00",
+   "end": "2026-11-15T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Lower Nob Hill Neighborhood/Another Cafe",
+   "address": "1191 Pine Street (meet on Leavenworth St. side), San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-volunteers-sf-7/",
+   "ticket_url": "https://www.instagram.com/lowernobhillcleanup",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)\nPhuong Le\nLower Nob Hill Weekly Cleanup\nSundays, 9:45 AM to 11:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker, meet the people on your block, and leave the sidewalks cleaner than you found them. We provide all the supplies: grabbers, bags, gloves, and vests. Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free sandwich, salad, or drink and pastry from Another Cafe, ready when the cleanup ends\nA chance at free tickets to that evening’s 7:45 PM stand-up comedy show at Cheaper Than Therapy (533 Sutter St), a neighborhood comedy club around the corner from Union Square. Seats are limited each week and go to volunteers who claim them at check-in.\n\nEveryone is welcome, including first-timers, families, and drop-ins. Check in with a QR code when you arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by neighborhood volunteers in partnership with Civic Joy Fund and SF Public Works.\n\nUpcoming Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF) Events\nSun 10/18 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 10/25 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/1 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/8 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/15 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/22 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunt...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_27662.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1638078",
    "title": "SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highway)",
    "start": "2026-11-15T10:00:00-08:00",
@@ -80915,6 +82096,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1642143",
+   "title": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers",
+   "start": "2026-11-22T09:45:00-08:00",
+   "end": "2026-11-22T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Lower Nob Hill Neighborhood/Another Cafe",
+   "address": "1191 Pine Street (meet on Leavenworth St. side), San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-volunteers-sf-8/",
+   "ticket_url": "https://www.instagram.com/lowernobhillcleanup",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)\nPhuong Le\nLower Nob Hill Weekly Cleanup\nSundays, 9:45 AM to 11:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker, meet the people on your block, and leave the sidewalks cleaner than you found them. We provide all the supplies: grabbers, bags, gloves, and vests. Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free sandwich, salad, or drink and pastry from Another Cafe, ready when the cleanup ends\nA chance at free tickets to that evening’s 7:45 PM stand-up comedy show at Cheaper Than Therapy (533 Sutter St), a neighborhood comedy club around the corner from Union Square. Seats are limited each week and go to volunteers who claim them at check-in.\n\nEveryone is welcome, including first-timers, families, and drop-ins. Check in with a QR code when you arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by neighborhood volunteers in partnership with Civic Joy Fund and SF Public Works.\n\nUpcoming Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF) Events\nSun 10/18 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 10/25 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/1 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/8 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/15 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/22 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunt...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_27662.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1639500",
    "title": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries",
    "start": "2026-11-22T10:00:00-08:00",
@@ -81342,6 +82547,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/ppgw-responsive-wide.png",
    "categories": [
     "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1642145",
+   "title": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers",
+   "start": "2026-11-29T09:45:00-08:00",
+   "end": "2026-11-29T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Lower Nob Hill Neighborhood/Another Cafe",
+   "address": "1191 Pine Street (meet on Leavenworth St. side), San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-volunteers-sf-9/",
+   "ticket_url": "https://www.instagram.com/lowernobhillcleanup",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)\nPhuong Le\nLower Nob Hill Weekly Cleanup\nSundays, 9:45 AM to 11:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker, meet the people on your block, and leave the sidewalks cleaner than you found them. We provide all the supplies: grabbers, bags, gloves, and vests. Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free sandwich, salad, or drink and pastry from Another Cafe, ready when the cleanup ends\nA chance at free tickets to that evening’s 7:45 PM stand-up comedy show at Cheaper Than Therapy (533 Sutter St), a neighborhood comedy club around the corner from Union Square. Seats are limited each week and go to volunteers who claim them at check-in.\n\nEveryone is welcome, including first-timers, families, and drop-ins. Check in with a QR code when you arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by neighborhood volunteers in partnership with Civic Joy Fund and SF Public Works.\n\nUpcoming Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF) Events\nSun 10/18 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 10/25 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/1 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/8 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/15 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/22 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunt...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_27662.jpg",
+   "categories": [
+    "Comedy Event Types Event"
    ],
    "notes": []
   },
@@ -82259,6 +83488,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1642147",
+   "title": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers",
+   "start": "2026-12-06T09:45:00-08:00",
+   "end": "2026-12-06T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Lower Nob Hill Neighborhood/Another Cafe",
+   "address": "1191 Pine Street (meet on Leavenworth St. side), San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-volunteers-sf-10/",
+   "ticket_url": "https://www.instagram.com/lowernobhillcleanup",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)\nPhuong Le\nLower Nob Hill Weekly Cleanup\nSundays, 9:45 AM to 11:00 AM\nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker, meet the people on your block, and leave the sidewalks cleaner than you found them. We provide all the supplies: grabbers, bags, gloves, and vests. Just wear comfortable shoes and show up.\nWhat volunteers get:\n\nA free sandwich, salad, or drink and pastry from Another Cafe, ready when the cleanup ends\nA chance at free tickets to that evening’s 7:45 PM stand-up comedy show at Cheaper Than Therapy (533 Sutter St), a neighborhood comedy club around the corner from Union Square. Seats are limited each week and go to volunteers who claim them at check-in.\n\nEveryone is welcome, including first-timers, families, and drop-ins. Check in with a QR code when you arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by neighborhood volunteers in partnership with Civic Joy Fund and SF Public Works.\n\nUpcoming Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF) Events\nSun 10/18 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 10/25 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/1 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/8 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/15 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)Sun 11/22 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunt...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_27662.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641622",
    "title": "Asian Art Museum: Free Admission Day (Every First Sunday)",
    "start": "2026-12-06T10:00:00-08:00",
@@ -82662,6 +83915,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/14_D3_FB_1920x1005.jpg",
    "categories": [
     "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1642135",
+   "title": "MoAD: Museum of the African Diaspora Free Museum Day",
+   "start": "2026-12-12T11:00:00-08:00",
+   "end": "2026-12-12T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Museum of the African Diaspora",
+   "address": "685 Mission St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/moad-museum-of-the-african-diaspora-free-museum-day-sf-46/",
+   "ticket_url": "https://www.moadsf.org/visit",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "MoAD: Museum of the African Diaspora Free Museum Day (SF)\nMOAD\nMoAD, a contemporary art museum, celebrates Black cultures, ignites challenging conversations, and inspires learning through the global lens of the African Diaspora.\nMonthly Free Day\nMoAD hosts a ‘‍THRIVE @ MoAD Community Day’ every second Saturday with free admission to all of its exhibitions. Check the events calendar to confirm, as free days sometimes change.\nMoAD Hours\nMonday – CLOSED\nTuesday – Sunday, 11 am – 5 pm\nThursday – Noon to 8 pm\n‍\nAdmission\n– General Admission – $15\n– Seniors, Students, Educators – $7\n– Youth (Under 12) – Free\n– Members & Active Duty Military – Free\n\nVisiting with kids:\nKids and families receive a warm welcome at MoAD. Our elevator makes it easy to navigate with a stroller, and kids ages 12 and under always receive free admission.\nMuseums For All:\nVisit MoAD through Museums for All\n– Through Museums for All, those receiving food assistance (SNAP benefits) can gain free or reduced admission to more than 700 museums throughout the United States simply by presenting their EBT card. Free entry is available for up to 4 individuals per EBT card.\n\nSpecial Exhibitions for 2026\nContinuum: MoAD Over TimeMoAD ArtistsOctober 1, 2025 – March 1, 2026Museum of the African Diaspora (MoAD)A special exhibition highlighting the evolution of MoAD artists over time.\n\nUNBOUND: Art, Blackness & the UniverseCurated by Key Jo LeeOctober 1, 2025 – August 16, 2026Museum of the African Diaspora (MoAD)Spanning a...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/04/62ea747d1e6f2da1381bac86_MoAD-Building_Exterior_Compressed.jpg",
+   "categories": [
+    "Art Museums"
    ],
    "notes": []
   },
@@ -83428,6 +84705,30 @@
    "image_url": null,
    "categories": [
     "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1642137",
+   "title": "MoAD: Museum of the African Diaspora Free Museum Day",
+   "start": "2027-01-09T11:00:00-08:00",
+   "end": "2027-01-09T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Museum of the African Diaspora",
+   "address": "685 Mission St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/moad-museum-of-the-african-diaspora-free-museum-day-sf-47/",
+   "ticket_url": "https://www.moadsf.org/visit",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "MoAD: Museum of the African Diaspora Free Museum Day (SF)\nMOAD\nMoAD, a contemporary art museum, celebrates Black cultures, ignites challenging conversations, and inspires learning through the global lens of the African Diaspora.\nMonthly Free Day\nMoAD hosts a ‘‍THRIVE @ MoAD Community Day’ every second Saturday with free admission to all of its exhibitions. Check the events calendar to confirm, as free days sometimes change.\nMoAD Hours\nMonday – CLOSED\nTuesday – Sunday, 11 am – 5 pm\nThursday – Noon to 8 pm\n‍\nAdmission\n– General Admission – $15\n– Seniors, Students, Educators – $7\n– Youth (Under 12) – Free\n– Members & Active Duty Military – Free\n\nVisiting with kids:\nKids and families receive a warm welcome at MoAD. Our elevator makes it easy to navigate with a stroller, and kids ages 12 and under always receive free admission.\nMuseums For All:\nVisit MoAD through Museums for All\n– Through Museums for All, those receiving food assistance (SNAP benefits) can gain free or reduced admission to more than 700 museums throughout the United States simply by presenting their EBT card. Free entry is available for up to 4 individuals per EBT card.\n\nSpecial Exhibitions for 2026\nContinuum: MoAD Over TimeMoAD ArtistsOctober 1, 2025 – March 1, 2026Museum of the African Diaspora (MoAD)A special exhibition highlighting the evolution of MoAD artists over time.\n\nUNBOUND: Art, Blackness & the UniverseCurated by Key Jo LeeOctober 1, 2025 – August 16, 2026Museum of the African Diaspora (MoAD)Spanning a...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/04/62ea747d1e6f2da1381bac86_MoAD-Building_Exterior_Compressed.jpg",
+   "categories": [
+    "Art Museums"
    ],
    "notes": []
   },
@@ -91052,7 +92353,6 @@
     "1549516": "2026-09-09T23:11:55",
     "1564809": "2026-09-16T23:03:04",
     "1572926": "2026-09-04T23:46:05",
-    "1580433": "2026-09-16T02:06:34",
     "1589389": "2026-09-26T05:16:00",
     "1611971": "2026-09-20T14:33:53",
     "1615108": "2026-09-09T03:28:39",
@@ -91247,15 +92547,8 @@
     "1634062": "2026-09-01T17:05:44",
     "1634073": "2026-09-09T03:32:40",
     "1634083": "2026-09-28T18:07:49",
-    "1634087": "2026-08-28T22:58:04",
-    "1634088": "2026-08-28T22:58:23",
-    "1634089": "2026-08-28T22:58:45",
     "1634094": "2026-09-01T19:52:05",
     "1634100": "2026-09-24T21:36:01",
-    "1634112": "2026-08-29T00:44:35",
-    "1634113": "2026-08-29T00:43:57",
-    "1634119": "2026-08-29T01:19:43",
-    "1634120": "2026-08-29T01:19:49",
     "1634123": "2026-09-08T18:08:14",
     "1634129": "2026-09-01T17:06:06",
     "1634135": "2026-09-01T17:18:51",
@@ -92851,10 +94144,17 @@
     "1641905": "2026-10-09T21:12:45",
     "1641935": "2026-10-09T23:31:00",
     "1641936": "2026-10-09T23:31:09",
-    "1641963": "2026-10-10T05:35:21",
+    "1641963": "2026-10-12T11:42:32",
     "1641982": "2026-10-10T18:14:27",
     "1641984": "2026-10-10T18:14:30",
     "1642050": "2026-10-12T10:08:49",
+    "1642135": "2026-10-12T18:14:22",
+    "1642137": "2026-10-12T18:14:25",
+    "1642139": "2026-10-12T18:14:27",
+    "1642141": "2026-10-12T18:14:30",
+    "1642143": "2026-10-12T18:14:32",
+    "1642145": "2026-10-12T18:14:34",
+    "1642147": "2026-10-12T18:14:37",
     "382389": "2026-09-07T18:41:21"
    }
   },
@@ -92992,11 +94292,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
   },
-  "caldiscovery-festival-1824b5a739ff8569@sf-cal": {
-   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
-   "sequence": 0,
-   "last_modified": "2026-10-12T11:02:11.059591Z"
-  },
   "caldiscovery-festival-1927cbf549bdf247@sf-cal": {
    "content_hash": "4887a907615f4a8e94b46d768d47d72410ec65d5ca8e8579833ef92618102b73",
    "sequence": 1,
@@ -93022,20 +94317,15 @@
    "sequence": 1,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
-  "caldiscovery-festival-53675b88602f6283@sf-cal": {
-   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
+  "caldiscovery-festival-4e169b7b222bf7bb@sf-cal": {
+   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
    "sequence": 0,
-   "last_modified": "2026-10-12T11:02:11.059591Z"
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "caldiscovery-festival-59d26ae9e264d73a@sf-cal": {
    "content_hash": "8c1f6a56d4a571907829ceeca2b5fd719cbfb7e01990970304a5ee1b3bd1daaa",
    "sequence": 2,
    "last_modified": "2026-10-08T18:53:26.448470Z"
-  },
-  "caldiscovery-festival-5c96aa1936399b16@sf-cal": {
-   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
-   "sequence": 0,
-   "last_modified": "2026-10-12T11:02:11.059591Z"
   },
   "caldiscovery-festival-5e6c0f9783c5cf5e@sf-cal": {
    "content_hash": "7b60123fd30e5525389e89a121c7a5f96f7fb25d6705ee02173c41def84044f2",
@@ -93051,6 +94341,11 @@
    "content_hash": "1c135a3cbf4b795b7199555c4a5416fab3d49dce5625ffab0887857f80823096",
    "sequence": 0,
    "last_modified": "2026-10-06T00:26:14.958336Z"
+  },
+  "caldiscovery-festival-80cab74c4cfbdd45@sf-cal": {
+   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "caldiscovery-festival-83f2ba9cc733878d@sf-cal": {
    "content_hash": "9d6abff4c853e39a45629c6619e3bda0fd5954ac0bba108f36f8064507b7a4e1",
@@ -93092,10 +94387,15 @@
    "sequence": 0,
    "last_modified": "2026-10-06T16:03:56.783329Z"
   },
-  "caldiscovery-festival-c0d2c9bd88560363@sf-cal": {
+  "caldiscovery-festival-c75b9b2e5f889b85@sf-cal": {
+   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "caldiscovery-festival-c7ab7530ba9915f4@sf-cal": {
    "content_hash": "8c557c0903e5f614f6422928b43dd97aed4ea6820d73574523fdef0afd48e323",
    "sequence": 0,
-   "last_modified": "2026-10-12T11:02:11.059591Z"
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "caldiscovery-festival-d26d5c0858f97f66@sf-cal": {
    "content_hash": "eda109faf38041c0bd120653f4bda2435ac99335c2f1e52473acc75f7a2a81ac",
@@ -93887,6 +95187,11 @@
    "sequence": 1,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
+  "dothebay-17285687@sf-cal": {
+   "content_hash": "e983e0db9a1bdad2eb5652657897811d81920298aef4d0f6a8bed05adf544da5",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
   "dothebay-17285688@sf-cal": {
    "content_hash": "585cc12d2943f5beb44922a57731e79965e2472c273ae7f2b76a6fd52fbaaed0",
    "sequence": 0,
@@ -94006,6 +95311,11 @@
    "content_hash": "b72c4b43e1c92aec0a5da38a752ff3365aefbcdc2a5a0fd5b171d980fba74013",
    "sequence": 0,
    "last_modified": "2026-10-06T00:12:00.254327Z"
+  },
+  "dothebay-17350240@sf-cal": {
+   "content_hash": "761d620e68168fe604023b88db4afa848276f0f2295585cdde34698ceebf129c",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "dothebay-17350337@sf-cal": {
    "content_hash": "ed81cd677c2ae127ec4ad73bbc9520b873323569b6d4547a41de5ae0827af694",
@@ -94697,6 +96007,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17505060@sf-cal": {
+   "content_hash": "293bfdfca724c766ae3f983b4125e45b75ac8811fdd9fd09a8a5b8dc8fbcc5ce",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
   "dothebay-17505669@sf-cal": {
    "content_hash": "0492445412243523aea84d83c00f6b8a3c42a15be05c335e76bd313fd56b7717",
    "sequence": 0,
@@ -94967,11 +96282,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
-  "dothebay-17542180@sf-cal": {
-   "content_hash": "788e84d3a07aea303143a8e3780a7ca80333757794bd2c6b8e627e2da2f439bf",
-   "sequence": 1,
-   "last_modified": "2026-10-06T06:29:17.881858Z"
-  },
   "dothebay-17542269@sf-cal": {
    "content_hash": "0df6454e052e0521de3fe9d213024c33dd132562550510afa7333e88fc1dee12",
    "sequence": 0,
@@ -95131,6 +96441,11 @@
    "content_hash": "36fb274e3faa56548a04896cb4505bee2448f0c548158d1396f7ed4700e6a79b",
    "sequence": 0,
    "last_modified": "2026-10-11T19:54:33.969705Z"
+  },
+  "dothebay-17568474@sf-cal": {
+   "content_hash": "ab7011a80c5a285adaddb26ee3b384d5b74c5d053056c4daaa8a502a62cbd0b1",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "dothebay-17571409@sf-cal": {
    "content_hash": "b85c27c273d6aa743ff2126bf7e1f1537e1e6f8a2c00dd27688114cf2d53970b",
@@ -95862,6 +97177,11 @@
    "sequence": 0,
    "last_modified": "2026-10-11T19:54:33.969705Z"
   },
+  "dothebay-17665321@sf-cal": {
+   "content_hash": "dafc49499fac4468ab679a4a962bbeca3f63560a276480c6dbd27917dda06f0d",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
   "dothebay-17666175@sf-cal": {
    "content_hash": "ba88964e16488083cbfa5acf9e7215c5823bd21b4a013589ae850a103e008eb0",
    "sequence": 0,
@@ -95921,6 +97241,16 @@
    "content_hash": "a7081ae873dda3af937ab32cb4a602105003d9c0432561d0a98c75ec6ee9d141",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
+  },
+  "dothebay-17672094@sf-cal": {
+   "content_hash": "195ed840e40d93b27ae1c826c27682839e7bd266c9128dd03524c884ad00286a",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "dothebay-17672095@sf-cal": {
+   "content_hash": "ce645e9cbd8190f3b42c1253f4c2b6bbfba776e3be4355a65c8a3c084a97915e",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "dothebay-17672102@sf-cal": {
    "content_hash": "60c381b35b870970b23b70cc895533cb601fe96cf889a0f69de3014b238e4f2f",
@@ -96727,6 +98057,16 @@
    "sequence": 0,
    "last_modified": "2026-10-11T19:54:33.969705Z"
   },
+  "dothebay-17752425@sf-cal": {
+   "content_hash": "e61219611850dc197189031d8b24e8d795aa77f058562d61b2843044574e43d4",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "dothebay-17752426@sf-cal": {
+   "content_hash": "c1fe398c6a33f926c6ee6ef0ce1eeab1f19b7ee453c858c3c191b3ab0bd53996",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
   "dothebay-17752431@sf-cal": {
    "content_hash": "c94f8dab42ccdcfd08049f68bbf7525c8cc29bfab992efe7261f1db97a883604",
    "sequence": 0,
@@ -96871,11 +98211,6 @@
    "content_hash": "528628af269416668a4cae5aae69452e0cd069b0a5a439ee86b5f0a8b161f842",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17764318@sf-cal": {
-   "content_hash": "3961c83b415fa428b42f7947dd261c45e16e3197ca46ab2e32ea98b7d8975062",
-   "sequence": 1,
-   "last_modified": "2026-10-06T06:29:17.881858Z"
   },
   "dothebay-17764319@sf-cal": {
    "content_hash": "423c6f99e57c7af93d34973761182554eb973f8b09cf19fcd2c167ec70e5bea5",
@@ -97677,6 +99012,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17823471@sf-cal": {
+   "content_hash": "3d21f8abb09efeb6e7f8cb2df5b3842b54dcc0cf818e72f34cc83e2502f82926",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
   "dothebay-17823475@sf-cal": {
    "content_hash": "cdf0b970312bd79e0988288feec782e3691fd7c341038c0ce4194843a738b907",
    "sequence": 0,
@@ -98026,6 +99366,11 @@
    "content_hash": "84c043435c261ea4c30e27f4223adb3f753bafaeaa2634facb5c3863820096de",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
+  },
+  "dothebay-17849198@sf-cal": {
+   "content_hash": "065feb475a9aafddc6158bbaf1fbc46cd14725e6268e86572a7c5078df9e0075",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "dothebay-17850674@sf-cal": {
    "content_hash": "6e88fb876f9ab8dee9823639a2b9cd1e981c740c0c60183189fc6f469207278c",
@@ -98477,6 +99822,11 @@
    "sequence": 1,
    "last_modified": "2026-10-09T18:23:57.839093Z"
   },
+  "dothebay-17873794@sf-cal": {
+   "content_hash": "391a1a6e75ebfed70c11da919c097f3c8bef14d0027e4f31bc8395d38c1addb3",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
   "dothebay-17873883@sf-cal": {
    "content_hash": "ef6da37a264a43359fa7a24c7afffe318c44d5ffbde2ceef2e098e50a597041c",
    "sequence": 1,
@@ -98546,6 +99896,11 @@
    "content_hash": "e5604e940584e8f69ce337517133e2c45a688ac46c6628359bf3392e9c1297c5",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
+  },
+  "dothebay-17877407@sf-cal": {
+   "content_hash": "e47ccc83d92a8364b71f2e5b13743bc5dd81af249bf89f77c873e016a74fb2a4",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "dothebay-17877479@sf-cal": {
    "content_hash": "cc3e6fb6b8ff01cd3e9488bdd8bff36424270473b5a420796d483f56264f1340",
@@ -99392,6 +100747,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17923125@sf-cal": {
+   "content_hash": "d584b149eba3c1858ab289da17e364ef308718fff2dad6656b50f25a05fc6bf5",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
   "dothebay-17923393@sf-cal": {
    "content_hash": "ff770fd9dea87de12951ae4370cc9c171e42958a6ed4f5839eeab83bf23b03bd",
    "sequence": 0,
@@ -100036,6 +101396,21 @@
    "content_hash": "8b92ab239fd3d8775cfc68c51354c4d4efb917dbe99d0ca176228b7b662fee0d",
    "sequence": 0,
    "last_modified": "2026-10-11T19:54:33.969705Z"
+  },
+  "dothebay-17948456@sf-cal": {
+   "content_hash": "9ca48e72ab4202b17cddfccc09602ca697760544c7b4360aac40bdaa3be5432f",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "dothebay-17949166@sf-cal": {
+   "content_hash": "893f972f90b5a1e77b1bf403551ae2ee03a270b92888adcce7e8de4b83ae4f96",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "dothebay-17949785@sf-cal": {
+   "content_hash": "e5de45e6659b86e5ed9871cef0d3e2070a9a249ae0b0446ede62ee42923c19e2",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "fleetweeksf-52738-20261011@sf-cal": {
    "content_hash": "6f45d999f681ab2bf7ecb5d2dfe10ece2038da1c101012f90c87477e9d2036f3",
@@ -103067,11 +104442,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
-  "funcheap-1640958@sf-cal": {
-   "content_hash": "520f65834ba53d0a12fe51124be6cffc04a33abd04d3d66842080855d8453dfd",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1640961@sf-cal": {
    "content_hash": "1f618d8bf40c5cd2ca69f1dbf0a894c09dd74f79d7d187a9a60d2249b9f2b855",
    "sequence": 0,
@@ -103488,9 +104858,9 @@
    "last_modified": "2026-10-10T01:00:53.681887Z"
   },
   "funcheap-1641963@sf-cal": {
-   "content_hash": "4d582f0287e4aff1c5d29a48535232401dc520290e053a08dc71b355abcbf9f0",
-   "sequence": 0,
-   "last_modified": "2026-10-10T09:58:44.870192Z"
+   "content_hash": "7808eb5199ef9cf13de2ea8ead23601f28b15947d36b475d8d57f6fe79ea7ff3",
+   "sequence": 1,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "funcheap-1641982@sf-cal": {
    "content_hash": "fa1f6503524e91c94189c139901db949fd19195ee5c3aa53cbdc0c9313951071",
@@ -103501,6 +104871,41 @@
    "content_hash": "6952b0845293d8ed7422a0d2e8781208d36d7d203f28ba8b53bf4c981513a68d",
    "sequence": 0,
    "last_modified": "2026-10-10T21:50:06.097436Z"
+  },
+  "funcheap-1642135@sf-cal": {
+   "content_hash": "ef3b2cc1d01d8ff848450555b5519594195865209fff8de54db1aa726aea7eb0",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "funcheap-1642137@sf-cal": {
+   "content_hash": "cfa1e5c767a62eef9e2e80d9a6e505901ca2ff72d4232dfd6c15b8fc8884be99",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "funcheap-1642139@sf-cal": {
+   "content_hash": "658840a49892c883bd75ae03da8dc0e141bf709167063fe02a55c7fd63291662",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "funcheap-1642141@sf-cal": {
+   "content_hash": "93827eadd499b2cb5a7731d039679d4dee3deec1862d6ab4ea1cb4c5c9a42393",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "funcheap-1642143@sf-cal": {
+   "content_hash": "0da5904ef9fb4b9f139046ed840f177df28012de2d71db96baea568ea3b2c55a",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "funcheap-1642145@sf-cal": {
+   "content_hash": "ee1fa10c42832ff0a35843a55520bf48e95bfa62c33334fa8c824cd28d4c3171",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
+  },
+  "funcheap-1642147@sf-cal": {
+   "content_hash": "14f5e52fde785249e2880e90437274126728e95a0feb8a1bada52330e9dbc526",
+   "sequence": 0,
+   "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "funcheap-382389@sf-cal": {
    "content_hash": "ff0f20847522ea2447fd7ea0550afb1b78b0d82b27ae9c564c237ca9f26a9088",

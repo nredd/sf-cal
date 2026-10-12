@@ -82,35 +82,6 @@ URL:https://sf.funcheap.com/sf-tech-weeks-free-digitalocean-8a8p-downtown-
  shuttle-2026-oct-59/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monday Yoga
-DTSTART;TZID=America/Los_Angeles:20261005T120000
-DTEND;TZID=America/Los_Angeles:20261005T140000
-DTSTAMP:20261006T062917Z
-UID:dothebay-17764318@sf-cal
-SEQUENCE:1
-CATEGORIES:Variety
-DESCRIPTION:Join our Monday yoga series on the Back Plaza\, with beautiful
-  and peaceful views overlooking the Bay!\n\nAn hour of yoga during your lu
- nch hour is a great way to get out of your office\, love your body in comm
- unity\, reconnect to your breath\, listen to soulful tunes\, and recharge 
- your energy for the day. We’re so glad you choose to spend this precious
-  time with us!\n\nThis vinyasa yoga classes combine accessible and creativ
- e flows\, dynamic stretching\, and core work. All-levels flow moves at a s
- teady\, accessible pace so you can slow down\, connect to each movement an
- d breath\, while still offering some challenge. Headphones are provided to
-  create an immersive sound experience\, so it’s easy to hear the teacher
- \, to stay present with the practice\, and to enjoy a mix of zen and fun s
- oulful beats!\n\nPlease bring your own mat.\n\nDetails: https://dothebay.c
- om/events/2026/10/5/monday-yoga-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34055841/e5ea17b9-4f73-4a24-a9bc-be86a08a4faa.jpg
-LAST-MODIFIED:20261006T062917Z
-LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
- 11
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/5/monday-yoga-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Kindness
 DTSTART;TZID=America/Los_Angeles:20261005T153000
 DTEND;TZID=America/Los_Angeles:20261005T170000
@@ -6403,6 +6374,48 @@ URL:https://dothebay.com/events/2026/10/22/district-1-richmond-family-summ
  it-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:‘INNER WORKINGS’ A Solo Exhibition by Randy Gaul & ‘THE ARTI
+ ST BEHIND THE EFFECT’ A Group Exhibition
+DTSTART;TZID=America/Los_Angeles:20261022T170000
+DTEND;TZID=America/Los_Angeles:20261022T190000
+DTSTAMP:20261012T211826Z
+UID:dothebay-17949785@sf-cal
+SEQUENCE:0
+CATEGORIES:The Arts
+DESCRIPTION:‘INNER WORKINGS’\nA Solo Exhibition by Randy Gaul\n\n‘TH
+ E ARTIST BEHIND THE EFFECT’\nA Group Exhibition\nCurated By Katharine Ba
+ ird\n\n111 Minna Gallery OPENING RECEPTION: Thursday\, October 22nd 2026\n
+ \nWe have a double feature of local VFX artists displaying their fine art 
+ here at 111 Minna Gallery!!!\n\nOur 2nd Street Gallery will be displaying 
+ ‘Inner Workings’\, a solo exhibition by Randy Gaul!\n\nThe Inner Worki
+ ngs show\, created by Randy Gaul\, is a collection of artwork that spans d
+ ecades of personal work. Within the show are imaginary worlds\, creatures 
+ and observations brought together by life experience before the film indus
+ try and after. Additional works include furniture\, lights and custom fram
+ es made from reclaimed materials from job sites and local surroundings. Ra
+ ndy continues in the film industry pitching original content and showing i
+ n galleries.\n“My soul as an artist has always existed. My continuing fi
+ lm work is but a small portion of my expressive passion as an artist. As t
+ he film industry fell into prequels\, sequels and other uninspired project
+ s\, it was vital to me to nurture that which has always been there within 
+ me. I am now very careful what industry projects I work on and with whom.
+ ”\nIn 1998\, Randy Gaul joined Industrial Light & Magic as a concept des
+ igner.\n\nPrior to joining ILM\, he worked for seven years as a freelance 
+ storyboard and concept artist for such companies as Wild Brain\, MTV and D
+ isney\, specializing in creature and character designs as well as environm
+ ents...\n\nFree\n111 Minna Gallery Presents\n\nDetails: https://dothebay.c
+ om/events/2026/10/22/inner-workings-a-solo-exhibition-by-randy-gaul-the-ar
+ tist-behind-the-effect-a-group-exhibition-tickets\nSource: DoTheBay
+GEO:37.7873057;-122.3993712
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34927142/a9674b09-4856-4572-b8bb-335e64c16ee1.jpg
+LAST-MODIFIED:20261012T211826Z
+LOCATION:111 Minna Gallery\, 111 Minna St\, San Francisco\, CA\, 94105
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/22/inner-workings-a-solo-exhibitio
+ n-by-randy-gaul-the-artist-behind-the-effect-a-group-exhibition-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:After Dark: Death and Life / La muerte y la vida
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
@@ -9121,8 +9134,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261012T110211Z
-UID:caldiscovery-festival-1824b5a739ff8569@sf-cal
+DTSTAMP:20261012T211826Z
+UID:caldiscovery-festival-c75b9b2e5f889b85@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -9132,7 +9145,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261012T110211Z
+LAST-MODIFIED:20261012T211826Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -10014,8 +10027,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261012T110211Z
-UID:caldiscovery-festival-53675b88602f6283@sf-cal
+DTSTAMP:20261012T211826Z
+UID:caldiscovery-festival-80cab74c4cfbdd45@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -10025,7 +10038,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261012T110211Z
+LAST-MODIFIED:20261012T211826Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -10771,8 +10784,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261012T110211Z
-UID:caldiscovery-festival-5c96aa1936399b16@sf-cal
+DTSTAMP:20261012T211826Z
+UID:caldiscovery-festival-4e169b7b222bf7bb@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -10782,7 +10795,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261012T110211Z
+LAST-MODIFIED:20261012T211826Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -12759,8 +12772,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261012T110211Z
-UID:caldiscovery-festival-c0d2c9bd88560363@sf-cal
+DTSTAMP:20261012T211826Z
+UID:caldiscovery-festival-c7ab7530ba9915f4@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -12769,7 +12782,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261012T110211Z
+LAST-MODIFIED:20261012T211826Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
@@ -12990,6 +13003,47 @@ LOCATION:Betty Ann Ong Recreation Center\, 1199 Mason Street\, San Francis
  co\, CA 94108
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/district-3-chinatown-family-summit/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MoAD: Museum of the African Diaspora Free Museum Day
+DTSTART;TZID=America/Los_Angeles:20261212T110000
+DTEND;TZID=America/Los_Angeles:20261212T170000
+DTSTAMP:20261012T211826Z
+UID:funcheap-1642135@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:MoAD: Museum of the African Diaspora Free Museum Day (SF)\nMOA
+ D\nMoAD\, a contemporary art museum\, celebrates Black cultures\, ignites 
+ challenging conversations\, and inspires learning through the global lens 
+ of the African Diaspora.\nMonthly Free Day\nMoAD hosts a ‘‍THRIVE @ Mo
+ AD Community Day’ every second Saturday with free admission to all of it
+ s exhibitions. Check the events calendar to confirm\, as free days sometim
+ es change.\nMoAD Hours\nMonday – CLOSED\nTuesday – Sunday\, 11 am – 
+ 5 pm\nThursday – Noon to 8 pm\n‍\nAdmission\n– General Admission –
+  $15\n– Seniors\, Students\, Educators – $7\n– Youth (Under 12) – 
+ Free\n– Members & Active Duty Military – Free\n\nVisiting with kids:\n
+ Kids and families receive a warm welcome at MoAD. Our elevator makes it ea
+ sy to navigate with a stroller\, and kids ages 12 and under always receive
+  free admission.\nMuseums For All:\nVisit MoAD through Museums for All\n
+ – Through Museums for All\, those receiving food assistance (SNAP benefi
+ ts) can gain free or reduced admission to more than 700 museums throughout
+  the United States simply by presenting their EBT card. Free entry is avai
+ lable for up to 4 individuals per EBT card.\n\nSpecial Exhibitions for 202
+ 6\nContinuum: MoAD Over TimeMoAD ArtistsOctober 1\, 2025 – March 1\, 202
+ 6Museum of the African Diaspora (MoAD)A special exhibition highlighting th
+ e evolution of MoAD artists over time.\n\nUNBOUND: Art\, Blackness & the U
+ niverseCurated by Key Jo LeeOctober 1\, 2025 – August 16\, 2026Museum of
+  the African Diaspora (MoAD)Spanning a...\n\nFree\n\nTickets: https://www.
+ moadsf.org/visit\nDetails: https://sf.funcheap.com/moad-museum-of-the-afri
+ can-diaspora-free-museum-day-sf-46/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/04/62ea74
+ 7d1e6f2da1381bac86_MoAD-Building_Exterior_Compressed.jpg
+LAST-MODIFIED:20261012T211826Z
+LOCATION:Museum of the African Diaspora\, 685 Mission St\, San Francisco\,
+  CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/moad-museum-of-the-african-diaspora-free-museu
+ m-day-sf-46/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eco SF School Farm Volunteer Work Day | SF
@@ -13293,5 +13347,46 @@ LOCATION:Cartoon Art Museum\, 781 Beach Street\, San Francisco\, Californi
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-cartoon-art-museums-pay-what-you-wish-day-
  first-tuesdays-34/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MoAD: Museum of the African Diaspora Free Museum Day
+DTSTART;TZID=America/Los_Angeles:20270109T110000
+DTEND;TZID=America/Los_Angeles:20270109T170000
+DTSTAMP:20261012T211826Z
+UID:funcheap-1642137@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:MoAD: Museum of the African Diaspora Free Museum Day (SF)\nMOA
+ D\nMoAD\, a contemporary art museum\, celebrates Black cultures\, ignites 
+ challenging conversations\, and inspires learning through the global lens 
+ of the African Diaspora.\nMonthly Free Day\nMoAD hosts a ‘‍THRIVE @ Mo
+ AD Community Day’ every second Saturday with free admission to all of it
+ s exhibitions. Check the events calendar to confirm\, as free days sometim
+ es change.\nMoAD Hours\nMonday – CLOSED\nTuesday – Sunday\, 11 am – 
+ 5 pm\nThursday – Noon to 8 pm\n‍\nAdmission\n– General Admission –
+  $15\n– Seniors\, Students\, Educators – $7\n– Youth (Under 12) – 
+ Free\n– Members & Active Duty Military – Free\n\nVisiting with kids:\n
+ Kids and families receive a warm welcome at MoAD. Our elevator makes it ea
+ sy to navigate with a stroller\, and kids ages 12 and under always receive
+  free admission.\nMuseums For All:\nVisit MoAD through Museums for All\n
+ – Through Museums for All\, those receiving food assistance (SNAP benefi
+ ts) can gain free or reduced admission to more than 700 museums throughout
+  the United States simply by presenting their EBT card. Free entry is avai
+ lable for up to 4 individuals per EBT card.\n\nSpecial Exhibitions for 202
+ 6\nContinuum: MoAD Over TimeMoAD ArtistsOctober 1\, 2025 – March 1\, 202
+ 6Museum of the African Diaspora (MoAD)A special exhibition highlighting th
+ e evolution of MoAD artists over time.\n\nUNBOUND: Art\, Blackness & the U
+ niverseCurated by Key Jo LeeOctober 1\, 2025 – August 16\, 2026Museum of
+  the African Diaspora (MoAD)Spanning a...\n\nFree\n\nTickets: https://www.
+ moadsf.org/visit\nDetails: https://sf.funcheap.com/moad-museum-of-the-afri
+ can-diaspora-free-museum-day-sf-47/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/04/62ea74
+ 7d1e6f2da1381bac86_MoAD-Building_Exterior_Compressed.jpg
+LAST-MODIFIED:20261012T211826Z
+LOCATION:Museum of the African Diaspora\, 685 Mission St\, San Francisco\,
+  CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/moad-museum-of-the-african-diaspora-free-museu
+ m-day-sf-47/
 END:VEVENT
 END:VCALENDAR

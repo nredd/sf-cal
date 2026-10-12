@@ -40,38 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Programa de gestión de contingencias en español
-DTSTART;TZID=America/Los_Angeles:20261005T093000
-DTEND;TZID=America/Los_Angeles:20261005T113000
-DTSTAMP:20261006T062917Z
-UID:dothebay-17542180@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:¿Le interesa cambiar\, reducir\, reevaluar o dejar de consumi
- r estimulantes como la metanfetamina o la cocaína?\n\nOfrecemos un progra
- ma de gestión de contingencias en español en nuestra agencia asociada\, 
- el Proyecto Gubbio.\n\nEste programa es un programa de refuerzo positivo d
- e 12 semanas/24 sesiones con servicios médicos\, asesoramiento individual
- \, gestión de casos y grupo de apoyo\, y todos los servicios se brindan e
- n español.\n\nPara obtener más información o unirse al grupo\, comuníq
- uese con Maricruz al 415-632-9722 o envíe un correo electrónico a mmoren
- o@sfaf.org.\n\n___________\n\nContingency management program in Spanish\n\
- nInterested in changing\, reducing\, re-evaluating\, or stopping your use 
- of stimulants such as meth or cocaine?\n\nWe offer a contingency managemen
- t program in Spanish at our partner agency\, the Gubbio Project.\n\nThis p
- rogram is a positive reinforcement 12 week/24-session program with medical
-  services\, individual counseling\, case management\, and support group wi
- th all services provided in Spanish.\n\nFor more information or to join th
- e group\, please contact Maricruz at 415-632-9722 or mmoreno@sfaf.org.\n\n
- Details: https://dothebay.com/events/2026/10/5/programa-de-gestion-de-cont
- ingencias-en-espanol-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261006T062917Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/5/programa-de-gestion-de-contingen
- cias-en-espanol-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gettin Knit
 DTSTART;TZID=America/Los_Angeles:20261005T170000
 DTEND;TZID=America/Los_Angeles:20261005T190000
@@ -7231,6 +7199,34 @@ LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/10/el-grupo-de-apoyo-latino-ticket
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nightshift
+DTSTART;TZID=America/Los_Angeles:20261211T213000
+DTEND;TZID=America/Los_Angeles:20261211T233000
+DTSTAMP:20261012T211826Z
+UID:dothebay-17849198@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Nightshift brings you two rooms of the best dark alternative m
+ usic including Darkwave\, Goth\, Industrial\, Synth\, Dark 80's\, Electro\
+ , Post-Punk and more. In the front room we bring you the best classic Goth
+  and Industrial favorites from a catalog of music that spans over 30 years
+ . In the back room dance to the latest music from the Darkwave\, Electro\,
+  Synth and Minimalist scenes.\n\nHosted by resident DJs Melting Girl\, Dan
+ iel Skellington\, Owen and Starr Noir.\n\nthere all night!\n\n——\n\n9:
+ 30pm-2am\n\n$10 before 10:30 / $15 after\n\n(more info)\n\n$10\n\nTickets:
+  https://www.sfcatclub.com/calendar/101124-9g9em-jwzb6-4a7cl-z8ktf-bjppb-k
+ balk-zwjpl-tmzdd-9spgt-9zbjl-kf85z-6zs4g-ttll3-g4a7m-rpd2t-h64yr-ylg88-3t6
+ 35-4kt34-nc4bl\nDetails: https://dothebay.com/events/2026/12/11/nightshift
+ -tickets\nSource: DoTheBay
+GEO:37.77541739999999;-122.409985
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34452858/22c51531-d2be-4156-a551-de3838c3bff3.jpg
+LAST-MODIFIED:20261012T211826Z
+LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/11/nightshift-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Holiday Craft Fair: Handmade Gifts + Free Hot Cider
