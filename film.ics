@@ -40,40 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Blue Velvet
-DTSTART;TZID=America/Los_Angeles:20261004T151500
-DTEND;TZID=America/Los_Angeles:20261004T171500
-DTSTAMP:20261006T001200Z
-UID:dothebay-17830872@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:David Lynch cemented his reputation as an uncompromising visio
- nary with BLUE VELVET\, one of the most controversial films of the 1980s\,
-  burrowing beneath the surface of idyllic suburban America to reveal a sin
- ister underworld of sex and violence. After stumbling upon a severed human
-  ear\, a young college student (Kyle MacLachlan) becomes obsessed with inv
- estigating its origins and gets entangled with a nightclub chanteuse (Isab
- ella Rossellini) and her psychopathic lover (Dennis Hopper). A masterfully
-  eerie\, depraved psychosexual nightmare and one of the greatest films of 
- the 1980s.\n\n“Frank Booth is the role Dennis Hopper was born and chemic
- ally mutated to own. Sometimes David Lynch can teeter too far into the abs
- urdity for absurdity's sake\, but BLUE VELVET remains perfectly balanced a
- s it dives into the dark\, bizarre underbelly of society that lurks just b
- elow the surface of suburbia. It is also worth noting that BLUE VELVET\, w
- hen screened in the first month of operation at the original Alamo\, was t
- he movie that inspired our strict no-talking policy.” (Tim League\, Alam
- o Drafthouse founder)\n\nDetails: https://dothebay.com/events/2026/10/4/bl
- ue-velvet-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34368074/e8666aa8-05d4-471f-8f22-ce59032dad14.jpg
-LAST-MODIFIED:20261006T001200Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/4/blue-velvet-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Color Green
 DTSTART;TZID=America/Los_Angeles:20261004T200000
 DTEND;TZID=America/Los_Angeles:20261004T220000
