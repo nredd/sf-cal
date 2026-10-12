@@ -791,4 +791,23 @@ LOCATION:Mason St between Sacramento St and California St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FTE 2026
+DTSTART;TZID=America/Los_Angeles:20261211T120000
+DTEND;TZID=America/Los_Angeles:20261211T235900
+DTSTAMP:20261012T110211Z
+UID:sf-street-events-pending-1581729-2026-12-11T12:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Ocean Ave from Mission St to Persia Ave\n\nPermit stat
+ us: Application In Review\nTimes are SFMTA street-closure permit times and
+  include setup and teardown\nSource: DataSF Temporary Street Closures\n\nD
+ etails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (p
+ ending permit)
+GEO:37.723849;-122.435917
+LAST-MODIFIED:20261012T110211Z
+LOCATION:Ocean Ave between Mission St and Persia Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR

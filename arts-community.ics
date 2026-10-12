@@ -41,67 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Daiso Japantown Grand Reopening w/ Prize Wheel + Tote Giveaways
-DTSTART;TZID=America/Los_Angeles:20261004T090000
-DTEND;TZID=America/Los_Angeles:20261004T210000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1640791@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:Submitted by the Event OrganizerCelebrate the Daiso Japantown 
- San Francisco Grand Reopening with us October 2–4 at Japan Center Malls!
- \nJoin us for three days of family-friendly fun\, giveaways\, games\, spec
- ial guests\, live performances\, and more as we celebrate Daiso’s new lo
- ok in the heart of San Francisco’s historic Japantown.\n\nGrand Reopenin
- g Weekend Highlights:\n• LIMITED-EDITION Daiso San Francisco Tote Bag in
-  three cute designs\, free with $30 purchase!• Pocky and Calbee giveaway
- s while supplies last• Gashapon games with fun surprises• Spin the pri
- ze wheel for a chance to win Daiso goodies• Special guests and performan
- ces throughout the weekend• Meet Daizo\, Daiso’s mascot\, and snap a p
- hoto together• Family-friendly activities and fun for all ages• Shop D
- aiso favorites\, new finds\, Japanese-inspired products\, and more\n📅 O
- ctober 2–4\, 2026\n\n📍Daiso Japantown – Japan Center MallsPeace Pla
- za22 Post St\, Ste 400San Francisco\, CA 94115\n\nWhether you’re a longt
- ime Daiso fan or discovering us for the first time\, come celebrate with u
- s and experience everything Daiso Japantown has to offer. Bring your frien
- ds and family\, play some games\, grab some giveaways\, meet Daizo\, and e
- xplore the store!\n\nGiveaways\, games\, appearances\, performances\, and 
- activities may vary by day and are available while supplies last.\n\nStore
-  Hours: Sun. – Thu. 9am and Fri. – Sat. 9am – 10pm\n\nFree\n\nTicket
- s: https://daisous.com/blogs/daiso-updates/daiso-japantown-grand-reopening
- \nDetails: https://sf.funcheap.com/daiso-japantown-grand-reopening-tote-gi
- veaways-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/823555
- 397_18639036061030480_4907258183476346622_n-scaled.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Japan Center Malls | Peace Plaza\, 22 Post St\, Ste 400\, San Fra
- ncisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/daiso-japantown-grand-reopening-tote-giveaways
- -sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dizney Gay: A Parody Drag Show
-DTSTART;TZID=America/Los_Angeles:20261004T190000
-DTEND;TZID=America/Los_Angeles:20261004T210000
-DTSTAMP:20261006T001200Z
-UID:dothebay-17742715@sf-cal
-SEQUENCE:0
-CATEGORIES:Variety
-DESCRIPTION:Dizney Gay: A Parody Drag Show\nSunday\, October 4 | ​Cobb's
-  Comedy Club\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/4/dizn
- ey-gay-a-parody-drag-show-tickets\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33952283/ecb273ac-e675-4560-a702-64c739f76f5e.jpg
-LAST-MODIFIED:20261006T001200Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/4/dizney-gay-a-parody-drag-show-ti
- ckets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Tech Week’s Free “DigitalOcean” 8a-8p Downtown Shuttle 20
  26 (Oct 5-9)
 DTSTART;TZID=America/Los_Angeles:20261005T080000
@@ -2632,27 +2571,6 @@ URL:https://dothebay.com/events/2026/10/10/an-evening-w-hieroglyphics-tick
  ets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Francisco Italian Heritage Festival & Parade
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20261011T195433Z
-UID:caldiscovery-festival-7ef3cc2c8f0d1f17@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:San Francisco Italian Heritage Festival & Parade\n\nEnjoy a fe
- stive afternoon of colorful floats\, traditional music\, and authentic Ita
- lian culture along the waterfront.\n\nPublished by Calendar Of Events\nCon
- tains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetai
- ls: https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
- -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
- ign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261011T195433Z
-TRANSP:TRANSPARENT
-URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-italian
- -heritage-festival-parade?utm_source=caldiscovery&utm_medium=ics&utm_campa
- ign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s 1st “Children’s Business Fair” w/ 40 Kid Entrepreneur
  s (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261011T090000
@@ -2686,9 +2604,9 @@ BEGIN:VEVENT
 SUMMARY:Inner Sunset Flea Market: Tricks\, Treats\, & Treasures
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T120000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17692000@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Shopping
 DESCRIPTION:Inner Sunset Flea Market\nTricks\, Treats\, & Treasures\nSunda
  y\, October 11 | 9th - 11th Irving Street | FREE\n\nLaunched in collaborat
@@ -2705,89 +2623,27 @@ DESCRIPTION:Inner Sunset Flea Market\nTricks\, Treats\, & Treasures\nSunda
  nJUNE 14th – “Celebrating Pride♡”\nJULY 12th – “Garden Party
  ”\nAUGUST 9th – “Dog Days of Summer”\nSEPTEMBER 13th – “A Tast
  e of Comedy Day”\nOCTOBER 11th – “Tricks\, Treats\, & Treasures”\n
- NOVEMBER 8th – “The Big Lunch & Annual Pie Contest”\n\nFree\n\nTicke
- ts: https://sunsetmercantilesf.com/innersunsetflea/\nDetails: https://doth
- ebay.com/events/2026/10/11/inner-sunset-flea-market-tricks-treats-treasure
- s\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/uniqlo-s
- f-grand-reopening-weekend-w-discounts-giveaways-oct-9-11-2/
+ NOVEMBER 8th – “The Big Lunch & Annual Pie Contest”\n\nFree\n\nDetai
+ ls: https://dothebay.com/events/2026/10/11/inner-sunset-flea-market-tricks
+ -treats-treasures\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funch
+ eap.com/uniqlo-sf-grand-reopening-weekend-w-discounts-giveaways-oct-9-11-2
+ /
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33707673/9b3718c1-9311-48b7-bba4-1b736677b4a7.jpg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Irving Street\, 800 Irving st\, San Francisco \, CA\, 94122
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/11/inner-sunset-flea-market-tricks
  -treats-treasures
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Whale’s Tail Closing Weekend | October 11
-DTSTART;TZID=America/Los_Angeles:20261011T120000
-DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-festival-3f39322bccae23b0@sf-cal
-SEQUENCE:0
-CATEGORIES:family,festival,food,music,outdoors
-DESCRIPTION:It’s the final weekend of The Whale’s Tail 2026\, come sen
- d us off in style! Bring the whole family (pups and kids welcome!) and enj
- oy live music\, food trucks\, lawn games\, and all-around outdoor fun with
-  a cold beverage and tasty eats! Set Times:12:15pm Matt Jaffe1:30pm Sergio
-  Vuskovic2:45pm Dan Agnello4:00pm Scott Ray Laws Food Trucks:Me […]\n\nP
- ublished by LIVE Events\nContains information from CalDiscovery (caldiscov
- ery.com)\, ODbL 1.0\n\nSource: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
-LOCATION:14th Ave East Meadow\, JFK Promenade\, Golden Gate Park
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay Area's Oktoberfest 2026 Crockett\, California
-DTSTART;TZID=America/Los_Angeles:20261011T120000
-DTEND;TZID=America/Los_Angeles:20261011T170000
-DTSTAMP:20261006T160356Z
-UID:caldiscovery-festival-599e6efbaa065629@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,free
-DESCRIPTION:🍺🥨🇩🇪 **BAY AREA — GET READY FOR OKTOBERFEST!** 
- 🇩🇪🥨🍺\n🎉 **THE 5TH ANNUAL RETURN OF THE BAY AREA’S OKTOBER
- FEST 2026 IS COMING TO CROCKETT!** 🎉\n📅 **Sunday\, October 11\, 2026
- **\n⏰ **12:00 PM – 5:00 PM**\n📍 **628 2nd Ave.\, Crockett\, CA 9452
- 5**\n🎟️ **FREE ADMISSION!**\n👨‍👩‍👧‍👦 **Family-Frien
- dly • All Ages Welcome**\n🍻 **WILLKOMMEN! — WELCOME!**\nCome spend 
- your Sunday celebrating Oktoberfest in beautiful **Historic Crockett** wit
- h live music\, Bavarian entertainment\, great food\, beer & wine\, an **OP
- EN CAR SHOW**\, axe throwing\, contests\, vendors\, dancing and plenty of 
- family fun!\n🚗🔥 **FREE OPEN CAR SHOW — BRING YOUR CAR & SHOW IT OF
- F!**\n**This is NOT just a classic car show!**\nGot a car you’re proud o
- f? **Bring it!**\n🚘 Classics • 🏎️ Sports Cars • 🔥 Muscle Ca
- rs • 🛞 Customs • ✨ Lowriders • 🏁 Imports • 🚗 Vintage & 
- Modern Cars — **and anything else you want to show off!**\n🎟️ **IT
- ’S FREE TO ENTER YOUR CAR!**\n**ALL KINDS OF CARS ARE WELCOME!**\nBring 
- your ride\, show it off\, meet other car enthusiasts and enjoy Oktoberfest
-  while you’re here!\n━━━━━━━━━━━━━━━━━
- ━\n🎶🇩🇪 **LIVE ENTERTAINMENT SCHEDULE**\n━━━━━━━
- ━━━━━━━━━━━\n🍺 **12:00 PM — Keg Tapping Ceremon
- y**\n🍻 **O’ZAPFT IS! — IT’S TAPPED!**\n🇩🇪 **12:30 PM – 1:
- 00 PM — Bavarian Dancers**\n🏆 **1:00 PM – 1:45 PM — Oktoberfest G
- ames & Contests**\n🎟️ Raffle — Win awesome Oktoberfest prizes!\n
- 🍺 Stein Holding Contest\n🎤 Yodeling Contest\n🪗🔥 **2:15 PM – 
- 5:00 PM — HEADLINER: ANDRE THIERRY!**\n🎶 **ZYDECO • BLUES • ROCK 
- • ACCORDION SOUL & MUCH MORE!**\nAndre Thierry and his b...\n\nPublished
-  by San Francisco Bay Area Moms\nContains information from CalDiscovery (c
- aldiscovery.com)\, ODbL 1.0\n\nDetails: https://sanfranciscomoms.com/event
- /bay-areas-oktoberfest-2026-crockett-california/?utm_source=caldiscovery&u
- tm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T160356Z
-TRANSP:TRANSPARENT
-URL:https://sanfranciscomoms.com/event/bay-areas-oktoberfest-2026-crockett
- -california/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
- isco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Cyanotype Printing: Sun Prints and Nature Designs on Pape
  r and Fabric
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T140000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17628110@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:The Arts
 DESCRIPTION:- Class Time: 12:00PM - 2:00PM\n\nIn this class\, we will intr
  oduce you to the beautiful art of cyanotype printing! This photographic pr
@@ -2810,51 +2666,24 @@ DESCRIPTION:- Class Time: 12:00PM - 2:00PM\n\nIn this class\, we will intr
  clothing that can take a hit of ink or two. We will have aprons for you to
   wear. We encourage you to bring objects from home\, such as leaves or sma
  ll\, flat branches. You may bring a photo negative printed...\n\n$59.75\n\
- nTickets: https://etix.prf.hn/click/camref:1011l3GdWo/pubref:dostuff/desti
- nation:https%3A%2F%2Fwww.etix.com%2Fticket%2Fp%2F87518156%2Fintro-to-cyano
- type-printingsun-prints-and-nature-designs-on-paper-and-fabric-san-francis
- co-workshopsf\nDetails: https://dothebay.com/events/2026/10/11/intro-to-cy
- anotype-printing-sun-prints-and-nature-designs-on-paper-and-fabric-tickets
- \nSource: DoTheBay
+ nDetails: https://dothebay.com/events/2026/10/11/intro-to-cyanotype-printi
+ ng-sun-prints-and-nature-designs-on-paper-and-fabric-tickets\nSource: DoTh
+ eBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33409070/c94f4b97-738c-4fa6-8550-dbd157fc5e72.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Workshop\, 1310 Haight St\, San Francisco \, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/11/intro-to-cyanotype-printing-sun
  -prints-and-nature-designs-on-paper-and-fabric-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Italian Heritage Parade 2026
-DTSTART;TZID=America/Los_Angeles:20261011T123000
-DTEND;TZID=America/Los_Angeles:20261011T153000
-DTSTAMP:20261006T002614Z
-UID:caldiscovery-festival-7c43f823c667628a@sf-cal
-SEQUENCE:0
-CATEGORIES:community,festival
-DESCRIPTION:Celebrate Italian Heritage Day with the Museo!\n\nJoin us as t
- he Museo takes part in the Italian Heritage Day Parade!\nLook for us ridin
- g along in a historic 1931 Ford AA Truck as we celebrate Italian heritage\
- , culture\, and community together.\n\nWant to join us on the truck? Space
-  is limited!\n\nCall the Museo at 415.673.2200 by October 8\, 2026 to rese
- rve your spot and receive information about where to meet.\n\nAnd if you w
- ant more information regarding the parade please check https://sfitalianhe
- ritage.org/\n\nPublished by Museo Italo Americano\nContains information fr
- om CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://sfmuseo.
- org/event/italian-parade-2026/?utm_source=caldiscovery&utm_medium=ics&utm_
- campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
-TRANSP:TRANSPARENT
-URL:https://sfmuseo.org/event/italian-parade-2026/?utm_source=caldiscovery
- &utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Improv(e) Your Dating Life
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261007T060815Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17910540@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Lecture/Education
 DESCRIPTION:Explore your dating tendencies\, expand your dating pool\, and
   live in the moment in this improv-based dating course. This is a single d
@@ -2863,14 +2692,12 @@ DESCRIPTION:Explore your dating tendencies\, expand your dating pool\, and
  Requirements: 18 Years +\nLocation: 2 Marina Blvd\, Fort Mason BATS Annex 
  - Building C\, Ste 365\, San Francisco\, CA 94123\nDirections: Enter Build
  ing C. Take the stairs or the elevator to the 3rd floor. Follow the signs 
- pointing to Suite 365.\n\n$23.18\, 18+\n\nTickets: https://consumer.pxf.io
- /APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fimprove-your-dating-life-
- tickets-1997921912222%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com
- /events/2026/10/11/improv-e-your-dating-life-tickets\nSource: DoTheBay\n\n
- Also listed on:\n- https://sf.funcheap.com/improve-dating-life-8/
+ pointing to Suite 365.\n\n$23.18\, 18+\n\nDetails: https://dothebay.com/ev
+ ents/2026/10/11/improv-e-your-dating-life-tickets\nSource: DoTheBay\n\nAls
+ o listed on:\n- https://sf.funcheap.com/improve-dating-life-8/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34745352/a3dd1ef9-d0d4-468a-969b-93a4e01ce464.jpg
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:BATS Bayfront Theatre\, 2 Marina Blvd Bldg B Fort Mason Center\, 
  San Francisco\, CA\, 94123
 TRANSP:TRANSPARENT
@@ -2907,22 +2734,21 @@ BEGIN:VEVENT
 SUMMARY:Melissa King - The Girl Who Became King
 DTSTART;TZID=America/Los_Angeles:20261011T160000
 DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17775922@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Literature
 DESCRIPTION:Join us at the Ferry Building for a meet-and-greet celebration
   of award-winning chef\, author\, television personality\, and activist Me
  lissa King to mark the release of her new memoir\, The Girl Who Became Kin
  g.\n\nThis intimate\, captivating\, and heartfelt memoir explores family\,
   food\, and Melissa's journey to finding her voice as a queer Chinese Amer
- ican chef.\n\nBook Passage Presents:\n\nTickets: https://bookpassage.com/e
- vent/melissa-king-girl-who-became-king\nDetails: https://dothebay.com/even
+ ican chef.\n\nBook Passage Presents:\n\nDetails: https://dothebay.com/even
  ts/2026/10/11/melissa-king-the-girl-who-became-king-tickets\nSource: DoThe
  Bay\n\nAlso listed on:\n- https://sf.funcheap.com/melissa-king-girl-king/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34109726/5e7e47df-008e-4a7a-a626-76d7ce102286.jpg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Book Passage San Francisco\, 1 Ferry Building\, San Francisco\, C
  A\, 94911
 TRANSP:TRANSPARENT
@@ -2933,9 +2759,9 @@ BEGIN:VEVENT
 SUMMARY:Bitch Talk Podcast 13th Anniversary Party
 DTSTART;TZID=America/Los_Angeles:20261011T160000
 DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261006T062917Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17926643@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Experiences
 DESCRIPTION:BAY AREAAA! It's our 13th anniversary and we wanna party with 
  you. LIVE music! Fun drinks! No basic bitches.\n\nWe're 13 years young and
@@ -2944,12 +2770,9 @@ DESCRIPTION:BAY AREAAA! It's our 13th anniversary and we wanna party with
   to help us get to our goal and the best 80s band out there - REWINDER - i
  s gonna keep you hoppin' on the dance floor. Take BART or MUNI and bring y
  our friends! This is an early party so don't worry\, you'll be home by you
- r Sunday bedtime.\n\nDonation\n\nTickets: https://consumer.pxf.io/APvP5J?u
- =https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbitch-talk-podcast-13th-anniversar
- y-party-tickets-1999631580887%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue\nDet
- ails: https://dothebay.com/events/2026/10/11/bitch-talk-podcast-13th-anniv
- ersary-party-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261006T062917Z
+ r Sunday bedtime.\n\nDonation\n\nDetails: https://dothebay.com/events/2026
+ /10/11/bitch-talk-podcast-13th-anniversary-party-tickets\nSource: DoTheBay
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Rock Bar - SF\, 80 29th Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/11/bitch-talk-podcast-13th-anniver
@@ -2960,9 +2783,9 @@ SUMMARY:Michael Douglas with Lance Gardner - One Helluva Ride (Calvary Pre
  sbyterian\, SF)
 DTSTART;TZID=America/Los_Angeles:20261011T160000
 DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261007T060815Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17929498@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Literature
 DESCRIPTION:Don't miss this extraordinary conversation with Academy Award-
  winning actor and producer Michael Douglas celebrating the release of his 
@@ -2975,14 +2798,13 @@ DESCRIPTION:Don't miss this extraordinary conversation with Academy Award-
  geously funny\, with an unflinching honesty about his sometimes bad-boy li
  fe.\nMichael will be joined in conversation by Lance Gardner the executive
   artistic director at Marin Theatre Company in Mill Valley.\n\nBook Passag
- e Presents:\n\nTickets: https://bookpassage.com/event/michael-douglas-one-
- helluva-ride-calvary-presbyterian-sf\nDetails: https://dothebay.com/events
- /2026/10/11/michael-douglas-with-lance-gardner-one-helluva-ride-calvary-pr
- esbyterian-sf-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.f
- uncheap.com/actor-michael-douglas-conversation-memoir-helluva-ride-sf/
+ e Presents:\n\nDetails: https://dothebay.com/events/2026/10/11/michael-dou
+ glas-with-lance-gardner-one-helluva-ride-calvary-presbyterian-sf-tickets\n
+ Source: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/actor-micha
+ el-douglas-conversation-memoir-helluva-ride-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34832156/bb680c63-48b3-4350-9163-9568033e70ad.jpg
-LAST-MODIFIED:20261007T060815Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Calvary Presbyterian Church - SF\, 2515 Fillmore Street\, San Fra
  ncisco\, CA\, 94115
 TRANSP:TRANSPARENT
@@ -9299,8 +9121,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261011T195433Z
-UID:caldiscovery-festival-47fc5b146503f3c7@sf-cal
+DTSTAMP:20261012T110211Z
+UID:caldiscovery-festival-1824b5a739ff8569@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -9310,7 +9132,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261011T195433Z
+LAST-MODIFIED:20261012T110211Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -10192,8 +10014,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261011T195433Z
-UID:caldiscovery-festival-f493274fbff92332@sf-cal
+DTSTAMP:20261012T110211Z
+UID:caldiscovery-festival-53675b88602f6283@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -10203,7 +10025,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261011T195433Z
+LAST-MODIFIED:20261012T110211Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -10949,8 +10771,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261011T195433Z
-UID:caldiscovery-festival-96ebbc6b858aa5b9@sf-cal
+DTSTAMP:20261012T110211Z
+UID:caldiscovery-festival-5c96aa1936399b16@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -10960,7 +10782,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261011T195433Z
+LAST-MODIFIED:20261012T110211Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -12937,8 +12759,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261011T195433Z
-UID:caldiscovery-festival-b80064c3ae73a45e@sf-cal
+DTSTAMP:20261012T110211Z
+UID:caldiscovery-festival-c0d2c9bd88560363@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -12947,7 +12769,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261011T195433Z
+LAST-MODIFIED:20261012T110211Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis

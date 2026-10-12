@@ -40,27 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:LIVE MUSIC: Color Green
-DTSTART;TZID=America/Los_Angeles:20261004T200000
-DTEND;TZID=America/Los_Angeles:20261004T220000
-DTSTAMP:20261006T001200Z
-UID:dothebay-17756973@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:LIVE MUSIC:\n\nColor Green\n\nPresented by (((folkYEAH!)))\n\n
- 7:00 PM Doors\n\n8:00 PM Music\n\n$20 ADV / $25 DOOR\n\nDetails: https://d
- othebay.com/events/2026/10/4/live-music-color-green-tickets-jaqbep0\nSourc
- e: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34021176/e32fa11a-6ffd-4816-a13c-b1d67951eaa4.jpg
-LAST-MODIFIED:20261006T001200Z
-LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
-  Francisco\, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/4/live-music-color-green-tickets-j
- aqbep0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chronovisor
 DTSTART;TZID=America/Los_Angeles:20261005T180000
 DTEND;TZID=America/Los_Angeles:20261005T200000
@@ -889,9 +868,9 @@ BEGIN:VEVENT
 SUMMARY:Showgirls
 DTSTART;TZID=America/Los_Angeles:20261011T124500
 DTEND;TZID=America/Los_Angeles:20261011T144500
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17830873@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:One of the most derided movies of the 20th century is also one
   of its most spectacularly misunderstood. The odd-couple tag team of Dutch
@@ -913,14 +892,12 @@ DESCRIPTION:One of the most derided movies of the 20th century is also one
  e have made are that a) Verhoeven and Eszterhas weren't trying to make som
  ething with humor (they were)\, and b) that the surface story is meant to 
  be taken at face value (it's not). Verhoemie don't play that.\n\nSHOWGIRLS
-  is a complicated\, satirical masterpiece that tes...\n\nTickets: https://
- drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-showgirls?cinemaId
- =0802&sessionId=21338\nDetails: https://dothebay.com/events/2026/10/11/sho
- wgirls-tickets\nSource: DoTheBay
+  is a complicated\, satirical masterpiece that tes...\n\nDetails: https://
+ dothebay.com/events/2026/10/11/showgirls-tickets\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34368075/0ee791a5-14eb-45d3-83bf-cc401c827f94.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT
@@ -930,9 +907,9 @@ BEGIN:VEVENT
 SUMMARY:9 to 5
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261006T191250Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17796494@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:Frameline & Another Planet Entertainment present\nA Tribute to
   Dolly Parton\n9 to 5\nFeaturing a drag performance by Peaches Christ\n\nS
@@ -957,13 +934,12 @@ DESCRIPTION:Frameline & Another Planet Entertainment present\nA Tribute to
  bers receive special access to this screening. Please log into your accoun
  t to...\n\nSold out\nFrameline & Another Planet Entertainment present: A T
  ribute to Dolly Parton\, Featuring Peaches Christ\nListed time is doors\n\
- nTickets: https://thecastro.com/events/9-to-5-261011\nDetails: https://dot
- hebay.com/events/2026/10/11/9-to-5-featuring-a-drag-performance-by-peaches
- -christ-tickets\nSource: DoTheBay
+ nDetails: https://dothebay.com/events/2026/10/11/9-to-5-featuring-a-drag-p
+ erformance-by-peaches-christ-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34206245/9025a38e-e221-484e-b6f6-1565ac13b46a.jpg
-LAST-MODIFIED:20261006T191250Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/11/9-to-5-featuring-a-drag-perform
@@ -973,9 +949,9 @@ BEGIN:VEVENT
 SUMMARY:Tenor: My Name is Pati
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T200000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17829131@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:Pene Pati & filmmaker Rebecca Tansley IN PERSON Sun\, Oct 11!\
  n\nTenor: My Name is Pati\, a new documentary that tells the remarkable st
@@ -990,15 +966,13 @@ DESCRIPTION:Pene Pati & filmmaker Rebecca Tansley IN PERSON Sun\, Oct 11!\
  n with Tenor filmmaker Rebecca Tansley on opening night.\n\nTICKETS ON SAL
  E\, NOW.\n\nRuntime\n\n1h 43m\n\nYear\n\n2026\n\nDirector\n\nRebecca Tansl
  ey\n\nFormat\n\nDCP\n\nCountry\n\nNew Zealand\n\nFirst Showing\n\nOctober 
- 11\, 2026\n\nCategories\n\nFeatured\n\nTickets: https://ticketing.uswest.v
- eezi.com/purchase/22004?siteToken=4m48btf3yavn7xjk5yxk6nc40c\nDetails: htt
- ps://dothebay.com/events/2026/10/11/tenor-my-name-is-pati-tickets\nSource:
-  DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/david-cay-johnston
- -ian-masters-oakland/
+ 11\, 2026\n\nCategories\n\nFeatured\n\nDetails: https://dothebay.com/event
+ s/2026/10/11/tenor-my-name-is-pati-tickets\nSource: DoTheBay\n\nAlso liste
+ d on:\n- https://sf.funcheap.com/david-cay-johnston-ian-masters-oakland/
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34359340/be162d6a-2d37-415c-aea7-dd29abf8cd57.jpg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/11/tenor-my-name-is-pati-tickets
@@ -1007,9 +981,9 @@ BEGIN:VEVENT
 SUMMARY:Elephant Gym: More Real Than Dreams
 DTSTART;TZID=America/Los_Angeles:20261011T190000
 DTEND;TZID=America/Los_Angeles:20261011T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17855941@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Elephant Gym successfully completed a world tour spanning 60 c
  ities across 23 countries. However\, behind this achievement lay an unseen
@@ -1031,13 +1005,12 @@ DESCRIPTION:Elephant Gym successfully completed a world tour spanning 60 c
  ly established their presence. Yet behind the glamorous stage\, there were
   deep struggles.\n\nBetween guitarist Tell Chang and bassist KT Changwho a
  re siblingsthere were conflicts between family ties and band dynamics. Dru
- mmer Chia-Chin Tu had to make the difficult decision to l...\n\nTickets: h
- ttps://ticketing.uswest.veezi.com/purchase/19867?siteToken=d2atbcege5knqsa
- vntt91g1250\nDetails: https://dothebay.com/events/2026/10/11/elephant-gym-
- more-real-than-dreams-tickets\nSource: DoTheBay
+ mmer Chia-Chin Tu had to make the difficult decision to l...\n\nDetails: h
+ ttps://dothebay.com/events/2026/10/11/elephant-gym-more-real-than-dreams-t
+ ickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34486296/5a2225bf-6ab6-435c-82e4-0988e628c137.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
@@ -1048,9 +1021,9 @@ BEGIN:VEVENT
 SUMMARY:Repo! The Genetic Opera
 DTSTART;TZID=America/Los_Angeles:20261011T193000
 DTEND;TZID=America/Los_Angeles:20261011T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261012T110211Z
 UID:dothebay-17830861@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:In the year 2056 – the not-so-distant future – an epidemic
   of organ failures devastates the planet. Out of the tragedy\, a savior em
@@ -1063,14 +1036,13 @@ DESCRIPTION:In the year 2056 – the not-so-distant future – an epidemic
  rld of GeneCo\, she is unable to turn back\, as all of her questions will 
  be answered at the wildly anticipated spectacular event: The Genetic Opera
  . The film features a goth rock/opera score sung by genre favorites Paul S
- orvino\, Anthony Stewart Head\, Sarah Brightman\, and Bill Moseley.\n\nTic
- kets: https://drafthouse.com/sf/show/movie-party-repo-the-genetic-opera?ci
- nemaId=0802&sessionId=21339\nDetails: https://dothebay.com/events/2026/10/
- 11/repo-the-genetic-opera-tickets\nSource: DoTheBay
+ orvino\, Anthony Stewart Head\, Sarah Brightman\, and Bill Moseley.\n\nDet
+ ails: https://dothebay.com/events/2026/10/11/repo-the-genetic-opera-ticket
+ s\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34368018/2693c23d-70d2-4899-9f1d-88e13d6e5c45.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261012T110211Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT

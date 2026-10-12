@@ -2700,4 +2700,22 @@ LOCATION:17th St between Hartford St and Castro St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fillmore After Dark Night Market
+DTSTART;TZID=America/Los_Angeles:20261211T120000
+DTEND;TZID=America/Los_Angeles:20261211T230000
+DTSTAMP:20261012T110211Z
+UID:sf-street-events-1554558-2026-12-11T12:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Ofarrell St from Fillmore St to Steiner St\n\nPermit s
+ tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
+ setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
+ ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.783188;-122.433528
+LAST-MODIFIED:20261012T110211Z
+LOCATION:Ofarrell St between Steiner St and Fillmore St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR
