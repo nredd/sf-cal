@@ -216,6 +216,22 @@ TRANSP:TRANSPARENT
 URL:https://www.sf.gov/location--san-francisco-city-hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHC: purple
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261013T065157Z
+UID:city-hall-lights-ics-17093a50bbb23e76@sf-cal
+SEQUENCE:0
+DESCRIPTION:Domestic Violence Awareness Month\n\nDetails: https://www.sf.g
+ ov/location--san-francisco-city-hall\nSource: SF City Hall lighting (via R
+ obelius/sf-city-hall-lighting-calendar)
+LAST-MODIFIED:20261013T065157Z
+LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
+ rancisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://www.sf.gov/location--san-francisco-city-hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHC: orange
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101

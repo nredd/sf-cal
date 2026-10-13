@@ -42,25 +42,6 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Fog City
-DTSTART;TZID=America/Los_Angeles:20261005T070000
-DTEND;TZID=America/Los_Angeles:20261005T220000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1609653-2026-10-05T07:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Steiner St from Clay St to Washington St\n\nPermit sta
- tus: Submitted\nTimes are SFMTA street-closure permit times and include se
- tup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: htt
- ps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending perm
- it)
-GEO:37.790942;-122.435938
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Steiner St between Clay St and Washington St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fog City
 DTSTART;TZID=America/Los_Angeles:20261006T100000
 DTEND;TZID=America/Los_Angeles:20261006T235900
 DTSTAMP:20261006T193028Z
