@@ -2718,4 +2718,59 @@ LOCATION:Ofarrell St between Steiner St and Fillmore St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Beach Farmers Market 2026
+DTSTART;TZID=America/Los_Angeles:20261212T060000
+DTEND;TZID=America/Los_Angeles:20261212T150000
+DTSTAMP:20261013T170024Z
+UID:sf-street-events-1429598-2026-12-12T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Greenwich St from Powell St to Via Bufano\; Greenwich 
+ St from Via Bufano to Columbus Ave\n\nPermit status: Permitted\nTimes are 
+ SFMTA street-closure permit times and include setup and teardown\nSource: 
+ DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yy
+ br\nSource: DataSF street closures
+GEO:37.802075;-122.411401
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Greenwich St between Columbus Ave and Powell St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fillmore Farmers' Market 2026
+DTSTART;TZID=America/Los_Angeles:20261212T070000
+DTEND;TZID=America/Los_Angeles:20261212T150000
+DTSTAMP:20261013T170024Z
+UID:sf-street-events-1365558-2026-12-12T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Ofarrell St from Fillmore St to Steiner St\n\nPermit s
+ tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
+ setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
+ ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.783188;-122.433528
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Ofarrell St between Fillmore St and Steiner St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayes Valley Farmers Market
+DTSTART;TZID=America/Los_Angeles:20261212T070000
+DTEND;TZID=America/Los_Angeles:20261212T150000
+DTSTAMP:20261013T170024Z
+UID:sf-street-events-1493851-2026-12-12T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Hayes St from Gough St to Octavia St\n\nPermit status:
+  Permitted\nTimes are SFMTA street-closure permit times and include setup 
+ and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:/
+ /data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.776786;-122.423746
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Hayes St between Octavia St and Gough St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR

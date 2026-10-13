@@ -1509,165 +1509,167 @@ TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fleet Week at PIER 39 (Oct. 7-11)
+SUMMARY:Fleet Fest at FIsherman’s Wharf
 DTSTART;TZID=America/Los_Angeles:20261011T100000
-DTEND;TZID=America/Los_Angeles:20261011T210000
-DTSTAMP:20261013T065157Z
-UID:funcheap-1641905@sf-cal
+DTEND;TZID=America/Los_Angeles:20261011T170000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-52738-20261011@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:Fleet Week at PIER 39 (Oct. 7-11)\nDemonstrate x DDW\nDid you 
- know that PIER 39 is THE place to experience the Fleet Week action? Enjoy 
- live music from military and local bands backed by front-row views of the 
- Bay\, spectacular ship sightings\, and unforgettable aerial performances o
- verhead. From the Parade of Ships to the Fleet Week Air Show\, discover al
- l the ways to celebrate Fleet Week from the waterfront at PIER 39!\nBeyond
-  the action on the Bay\, PIER 39 keeps the energy going with live performa
- nces throughout Fleet Week\, giving visitors even more to enjoy before and
-  after the day’s events. With waterfront dining\, shopping\, entertainme
- nt\, and unbeatable views all in one place\, PIER 39 is the ultimate home 
- base for experiencing Fleet Week in San Francisco.\nActive and retired mil
- itary members can also take advantage of special discounts at participatin
- g locations. Visit the PIER 39 website to learn more about available milit
- ary offers and start planning your Fleet Week visit.\n\nEntrance Plaza Sta
- ge Schedule\n\nDemonstrate x DDW\n\nWednesday\, 10/7\n\n12pm – 2pm – D
- J PAULY PAUL\nGet the Fleet Week party started in PIER 39’s Entrance Pla
- za with DJ Pauly Paul spinning all your favorite dance songs!\n\n5pm – 7
- pm – MOBILITY ROCK BAND\, USA AIR FORCE BAND OF THE GOLDEN WEST\nThe Uni
- ted States Air Force is bringing their Rock Band to the Entrance Plaza sta
- ge and will have you belting out classic and modern hits.\n\nThursday\, 10
- /8\n\n12pm – 2pm – DJ PAULY PAUL\nGet the Fleet Week party started in 
- PIER 39...\n\nFree\n\nTickets: https://www.pier39.com/fleetweek/\nDetails:
-  https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/\nSource: Funche
- ap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/P39_20
- 26_PFTF_Fleet-Week_FunCheapSF.png
-LAST-MODIFIED:20261013T065157Z
-LOCATION:Pier 39\, The Embarcadero\, San Francisco CA
+CATEGORIES:Fleet Fest
+DESCRIPTION:Sunday 10/11\n10:00 am - 5:00 pm\n\nThis event is free.\n\nThi
+ s celebration of our Nation’s sea services is a dynamic festival right o
+ n the pier.\n\nExperience performances by local musicians throughout the d
+ ay. Exhibitors include city organizations\, local businesses\, veteran sup
+ port organizations\, educational experiences\, and fun activities for kids
+  and parents alike. Grab a bite from our food truck lane and pop-up vendor
+ s\, and visit our bar for a variety of beverages while our stage rocks all
+  day long.\n\nDetails: https://fleetweeksf.org/events/fleet-fest/\nSource:
+  SF Fleet Week (fleetweeksf.org)
+GEO:37.808942611785;-122.41425574255
+LAST-MODIFIED:20261013T170024Z
+LOCATION:SkyStar Wheel\, San Francisco
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
+URL:https://fleetweeksf.org/events/fleet-fest/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Francisco Fleet Week 2026: Golden West Travis Brass Band
+SUMMARY:Ship Tours
+DTSTART;TZID=America/Los_Angeles:20261011T100000
+DTEND;TZID=America/Los_Angeles:20261011T160000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53432-20261011@sf-cal
+SEQUENCE:0
+CATEGORIES:Ship Tours
+DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
+ ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
+ o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
+GEO:37.808394303034;-122.40571975708
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Pier 35\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://fleetweeksf.org/events/ship-tours/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ship Tours
+DTSTART;TZID=America/Los_Angeles:20261011T100000
+DTEND;TZID=America/Los_Angeles:20261011T160000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53434-20261011@sf-cal
+SEQUENCE:0
+CATEGORIES:Ship Tours
+DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
+ ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
+ o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
+GEO:37.805222078782;-122.40128480585
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Pier 27\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://fleetweeksf.org/events/ship-tours/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USAF Band of Golden West Travis Brass Band
 DTSTART;TZID=America/Los_Angeles:20261011T110000
-DTEND;TZID=America/Los_Angeles:20261011T140000
-DTSTAMP:20261013T065157Z
-UID:funcheap-1638982@sf-cal
+DTEND;TZID=America/Los_Angeles:20261011T120000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53597-20261011@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/san-francisco-fleet-week-2026-golden-west-travis-brass-
- band/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261013T065157Z
-LOCATION:SkyStar Wheel Fisherman’s Wharf\, 2860 Taylor St\, San Francisc
- o\, CA 94133
+CATEGORIES:Music
+DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
+ ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
+ Check out our 2026 free concert calendar to see when we’re performing in
+  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
+ t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
+ ttps://sf.funcheap.com/san-francisco-fleet-week-2026-golden-west-travis-br
+ ass-band/
+GEO:37.8087407;-122.4142505
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/san-francisco-fleet-week-2026-golden-west-trav
- is-brass-band/
+URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Francisco Fleet Week 2026: Blue Angels Air Show
+SUMMARY:Air Show
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T065157Z
-UID:funcheap-1518332@sf-cal
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-52853-20261011@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/san-francisco-fleet-week-2024-blue-angels-air-show-3/\n
- Source: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261013T065157Z
-LOCATION:Marina Green\, Marina Blvd & Fillmore St.\, San Francisco CA
+CATEGORIES:Air Show
+DESCRIPTION:Held annually between the Golden Gate Bridge and Alcatraz\, th
+ e San Francisco Fleet Week Air Show Presented by United Airlines brings wo
+ rld-class aviation to one of the most iconic settings in the world.\n\nAt 
+ the heart of the Air Show is Marina Green\, home to the Marina Green Festi
+ val Center. General Admission is free. Unbeatable waterfront hospitality i
+ s available through the Air Show Network VIP Experience.\n\nHeadlined by t
+ he U.S. Navy Blue Angels\, the Air Show is also the only show in the Unite
+ d States to feature a commercial airliner\, the United 777\, performing a 
+ fully choreographed aerial demonstration over the Bay.\n\nDetails: https:/
+ /fleetweeksf.org/air-show/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
+ o listed on:\n- https://sf.funcheap.com/san-francisco-fleet-week-2024-blue
+ -angels-air-show-3/
+GEO:37.806806834918;-122.43850164123
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Marina Green\, San Francisco
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/san-francisco-fleet-week-2024-blue-angels-air-
- show-3/
+URL:https://fleetweeksf.org/air-show/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Francisco Fleet Week 2026: Band of the West Division Concert
+SUMMARY:US Naval Sea Cadet Corps Band of the West Division
 DTSTART;TZID=America/Los_Angeles:20261011T120000
-DTEND;TZID=America/Los_Angeles:20261011T150000
-DTSTAMP:20261013T065157Z
-UID:funcheap-1638983@sf-cal
+DTEND;TZID=America/Los_Angeles:20261011T130000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53599-20261011@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/san-francisco-fleet-week-2026-band-of-the-west-division
- -concert/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261013T065157Z
-LOCATION:SkyStar Wheel Fisherman’s Wharf\, 2860 Taylor St\, San Francisc
- o\, CA 94133
+CATEGORIES:Music
+DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
+ ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
+ Check out our 2026 free concert calendar to see when we’re performing in
+  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
+ t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
+ ttps://sf.funcheap.com/san-francisco-fleet-week-2026-band-of-the-west-divi
+ sion-concert/
+GEO:37.8087407;-122.4142505
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/san-francisco-fleet-week-2026-band-of-the-west
- -division-concert/
+URL:https://fleetweeksf.org/events/free-concert-series/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1st Marine Division Ceremonial Band
+DTSTART;TZID=America/Los_Angeles:20261011T123000
+DTEND;TZID=America/Los_Angeles:20261011T133000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53594-20261011@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
+ ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
+ Check out our 2026 free concert calendar to see when we’re performing in
+  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
+ t-series/\nSource: SF Fleet Week (fleetweeksf.org)
+GEO:37.8086037;-122.4125131
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Italian Heritage Parade\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://fleetweeksf.org/events/free-concert-series/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Band SW Parade Band
+DTSTART;TZID=America/Los_Angeles:20261011T123000
+DTEND;TZID=America/Los_Angeles:20261011T133000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53596-20261011@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
+ ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
+ Check out our 2026 free concert calendar to see when we’re performing in
+  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
+ t-series/\nSource: SF Fleet Week (fleetweeksf.org)
+GEO:37.8086037;-122.4125131
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Italian Heritage Parade\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Fleet Week 2026: Ceremonial Band (Italian Heritage Parade)
@@ -1709,44 +1711,24 @@ URL:https://sf.funcheap.com/sfs-fleet-week-2026-ceremonial-band-italian-he
  ritage-parade/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s Fleet Week 2026: Army Big Band Concert
+SUMMARY:191st Army Big Band
 DTSTART;TZID=America/Los_Angeles:20261011T140000
-DTEND;TZID=America/Los_Angeles:20261011T170000
-DTSTAMP:20261013T065157Z
-UID:funcheap-1638985@sf-cal
+DTEND;TZID=America/Los_Angeles:20261011T150000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53600-20261011@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-week-2026-army-big-band-concert/\nSource: Fun
- cheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261013T065157Z
-LOCATION:SkyStar Wheel Fisherman’s Wharf\, 2860 Taylor St\, San Francisc
- o\, CA 94133
+CATEGORIES:Music
+DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
+ ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
+ Check out our 2026 free concert calendar to see when we’re performing in
+  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
+ t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
+ ttps://sf.funcheap.com/sfs-fleet-week-2026-army-big-band-concert/
+GEO:37.8087407;-122.4142505
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-week-2026-army-big-band-concert/
+URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fleet Week Lunch on the California Hornblower
@@ -1774,44 +1756,26 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/fleet-week-lunch-california-hornblower/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s Fleet Week 2026: Division Brass Quintet / Woodwind Quintet
+SUMMARY:1st Marine Division Brass Quintet / Woodwind Quintet
 DTSTART;TZID=America/Los_Angeles:20261011T150000
-DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261013T065157Z
-UID:funcheap-1638986@sf-cal
+DTEND;TZID=America/Los_Angeles:20261011T160000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53595-20261011@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-week-2026-division-brass-quintet-woodwind-qui
- ntet-sf-zoo/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261013T065157Z
-LOCATION:Leaping Lemur Cafe\, 1 Zoo Rd\, San Francisco\, CA 94132
+CATEGORIES:Music
+DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
+ ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
+ Check out our 2026 free concert calendar to see when we’re performing in
+  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
+ t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
+ ttps://sf.funcheap.com/sfs-fleet-week-2026-division-brass-quintet-woodwind
+ -quintet-sf-zoo/
+GEO:37.7329134;-122.5027942
+LAST-MODIFIED:20261013T170024Z
+LOCATION:San Francisco Zoo - Leaping Lemur Cafe - FREE concert with paid a
+ dmission\, San Francisco
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-week-2026-division-brass-quintet-woo
- dwind-quintet-sf-zoo/
+URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saucy Sunday Day Party
@@ -1846,44 +1810,24 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/saucy-sunday-day-party-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s Fleet Week 2026: Band of Golden West (Pier 39)
+SUMMARY:USAF Band of Golden West – Mobility
 DTSTART;TZID=America/Los_Angeles:20261011T170000
-DTEND;TZID=America/Los_Angeles:20261011T200000
-DTSTAMP:20261013T065157Z
-UID:funcheap-1638987@sf-cal
+DTEND;TZID=America/Los_Angeles:20261011T180000
+DTSTAMP:20261013T170024Z
+UID:fleetweeksf-53598-20261011@sf-cal
 SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-week-2026-band-of-golden-west-pier-39/\nSourc
- e: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261013T065157Z
-LOCATION:Pier 39\, The Embarcadero\, San Francisco CA
+CATEGORIES:Music
+DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
+ ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
+ Check out our 2026 free concert calendar to see when we’re performing in
+  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
+ t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
+ ttps://sf.funcheap.com/sfs-fleet-week-2026-band-of-golden-west-pier-39/
+GEO:37.808673;-122.409821
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Pier 39\, San Francisco
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-week-2026-band-of-golden-west-pier-3
- 9/
+URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ship Tours

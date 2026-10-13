@@ -791,4 +791,23 @@ LOCATION:Ocean Ave between Mission St and Persia Ave\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BeChinatown's 7th Annual Christmas on Waverly Place
+DTSTART;TZID=America/Los_Angeles:20261212T080000
+DTEND;TZID=America/Los_Angeles:20261212T150000
+DTSTAMP:20261013T170024Z
+UID:sf-street-events-pending-1614621-2026-12-12T08:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Waverly Pl from Clay St to Washington St\n\nPermit sta
+ tus: Submitted\nTimes are SFMTA street-closure permit times and include se
+ tup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: htt
+ ps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending perm
+ it)
+GEO:37.794638;-122.406911
+LAST-MODIFIED:20261013T170024Z
+LOCATION:Waverly Pl between Washington St and Clay St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR
