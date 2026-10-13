@@ -56,24 +56,6 @@ TRANSP:TRANSPARENT
 URL:https://www.sf.gov/location--san-francisco-city-hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Mixer @ Maiden Lane
-DTSTART;TZID=America/Los_Angeles:20261006T070000
-DTEND;TZID=America/Los_Angeles:20261006T140000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1598008-2026-10-06T07:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Maiden Ln from Kearny St to Grant Ave\n\nPermit status
- : Permitted\nTimes are SFMTA street-closure permit times and include setup
-  and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:
- //data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.788329;-122.404356
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Maiden Ln between Kearny St and Grant Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Tech Week’s Free “DigitalOcean” 8a-8p Downtown Shuttle 20
  26 (Oct 5-9)
 DTSTART;TZID=America/Los_Angeles:20261006T080000
@@ -198,47 +180,6 @@ URL:https://sf.funcheap.com/sf-tech-week-free-cold-foam-float-day-corgi-ca
  fe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack” 
- (Every Tue/Thu)
-DTSTART;TZID=America/Los_Angeles:20261006T120000
-DTEND;TZID=America/Los_Angeles:20261006T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638780@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack
- ” (Every Tue/Thu)\nJon Bauer c/o Illuminate\nSan Francisco’s free lunc
- htime concert series is back. The Civic Center Soundtrack returns for its 
- third season starting Tuesday\, April 14\, 2026\, bringing live music to F
- ulton Plaza twice a week through October.\n\nConcerts take place Tuesdays 
- and Thursdays from 12 pm to 3 pm outside the San Francisco Public Library\
- , featuring three performers each day spanning a mix of genres and local t
- alent.\n\nNew for 2026: A rotating lineup of food trucks will join the fes
- tivities\, turning the plaza into a lively midday hangout for downtown wor
- kers\, residents\, and anyone looking for a free break with live music.\n\
- nLaunched in 2024\, the series has hosted more than 100 free concerts and 
- is part of ongoing efforts to activate public spaces in the Civic Center n
- eighborhood.\n\nCivic Center Soundtrack 2026\nWhen: Tuesdays & Thursdays\,
-  12 pm to 3 pmDates: April 14 through October 2026Where: Fulton Plaza (out
- side the Main Library)\, Civic CenterCost: Free\nView the full lineup\nBri
- ng your lunch or grab something from the food trucks and enjoy a free outd
- oor show in the heart of downtown.\n\nUpcoming SF’s Free Concerts & Food
-  Trucks: “Civic Center Soundtrack” (Every Tue/Thu) Events\nTue 10/6 SF
- ’s Free Concerts & Food Trucks: “Civic Center Soundtrack” (Every Tue
- /Thu)Thu 10/8 SF’s Free Concerts & Food Trucks: “Civic Center Soundtra
- ck” (Every Tue/Thu)Tue 10/13 SF’s Free Concerts & Food Trucks: “Civi
- c Center Sound...\n\nFree\n\nTickets: https://illuminate.org/venues/fulton
- -street-plaza/\nDetails: https://sf.funcheap.com/sfs-free-concerts-food-tr
- ucks-civic-center-soundtrack-every-tue-thu-50/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/04/Civic-
- Center-Soundtrack.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Fulton Plaza\, Fulton and Larkin\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-sou
- ndtrack-every-tue-thu-50/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Tech Week: Free “User Experience” Interactive Tech Art Exhi
  bition (Union Square)
 DTSTART;TZID=America/Los_Angeles:20261006T120000
@@ -269,114 +210,6 @@ LOCATION:User Experience\, 236 Powell St.\, San Francisco\, CA 94102
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-tech-week-free-user-experience-interactive-
  tech-art-exhibition-union-square/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1st Marine Division Brass Quintet
-DTSTART;TZID=America/Los_Angeles:20261006T123000
-DTEND;TZID=America/Los_Angeles:20261006T133000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53560-20261006@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/fleet-fest-2026-brass-quintet-tjpa-salesforce-park/
-GEO:37.7898491;-122.3963675
-LAST-MODIFIED:20261010T172246Z
-LOCATION:TJPA Salesforce Park\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Golden Gate Park Senior Center Outdoor Recreation Groundbreaking
-DTSTART;TZID=America/Los_Angeles:20261006T140000
-DTEND;TZID=America/Los_Angeles:20261006T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1640991@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:San Francisco Recreation & ParksSan Francisco Recreation and P
- ark and community members will hold a groundbreaking ceremony for a new ou
- tdoor recreation area at the Golden Gate Park Senior Center. The project w
- ill add fitness equipment\, seating\, and flexible lawn space for activiti
- es including dance\, tai chi\, yoga\, and Zumba. The Senior Center parking
-  lot will be closed for the event.\nOriginal Event Description:\nJoin Rec 
- and Park and community members for a groundbreaking ceremony for a new out
- door recreation area at the Golden Gate Park Senior Center (6101 Fulton St
- reet) on Tuesday\, October 6 from 2 to 3 p.m. The project will add fitness
-  equipment\, seating and flexible space on the small lawn behind the cente
- r for activities such as dance\, tai chi\, yoga and Zumba. Note that the S
- enior Center parking lot will be closed that day for the event. Learn more
-  about the project at the link in the bio! #sanfrancisco #goldengatepark #
- goldengateparkseniorcenter\n@sfrecpark\nSan Francisco Recreation & Parks\n
- The San Francisco Recreation and Park Department manages more than 230 par
- ks\, including Golden Gate Park\, Coit Tower and Dolores Park.\nlinktr.ee/
- SFRecpark\n\nFree\n\nTickets: https://www.instagram.com/p/DeH9M__SJmG/?utm
- _source=ig_web_copy_link&amp\;stkn=NTc4MTIwNjQ2YQ==\nDetails: https://sf.f
- uncheap.com/golden-gate-park-senior-center-outdoor-recreation-groundbreaki
- ng-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/839766
- 238_18632326183054727_7518007750178017436_n.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Golden Gate Park Senior Center\, 6101 Fulton Street\, San Francis
- co\, CA 94121
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/golden-gate-park-senior-center-outdoor-recreat
- ion-groundbreaking-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grupo de Asistencia Legal del Programa Latino
-DTSTART;TZID=America/Los_Angeles:20261006T150000
-DTEND;TZID=America/Los_Angeles:20261006T170000
-DTSTAMP:20261007T060815Z
-UID:dothebay-17732840@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:¿Busca ayuda para resolver cuestiones legales\, como asuntos 
- de inmigración y problemas relacionados con la vivienda y el alquiler?\n\
- nNos hemos asociado con el Panel de Referencia Legal en Materia de SIDA [A
- IDS Legal Referral Panel] y PODER para ofrecer asesoramiento sin cita prev
- ia y apoyo gratuitos a nuestros clientes y a la comunidad.\n\nPara obtener
-  más información o unirse al grupo\, póngase en contacto con Eduardo en
-  el 415-350-3315 o envíe un correo electrónico a esiqueiros@sfaf.org.\n\
- n__________________________________________________\n\nPrograma Latino Leg
- al Assistance Group\n\nLooking for assistance navigating legal issues incl
- uding immigration concerns and housing and rental issues?\n\nWe are partne
- ring with AIDS Legal Referral Panel and PODER to offer drop-in advice and 
- support for free to our clients and community.\n\nFor more information or 
- to join the group\, contact Eduardo at 415-350-3315 or esiqueiros@sfaf.org
- .\n\nDetails: https://dothebay.com/events/2026/10/6/grupo-de-asistencia-le
- gal-del-programa-latino-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261007T060815Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/6/grupo-de-asistencia-legal-del-pr
- ograma-latino-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grupos de Educación sobre Salud del Programa Latino
-DTSTART;TZID=America/Los_Angeles:20261006T150000
-DTEND;TZID=America/Los_Angeles:20261006T170000
-DTSTAMP:20261007T060815Z
-UID:dothebay-17732842@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:Únase a nosotros para aprender sobre el VIH\, la prevención\
- , los servicios sociales y mucho más. Este grupo está abierto a todas la
- s personas y se impartirá en español.\n\nPara obtener más información 
- o unirse al grupo\, comuníquese con Eduardo al 415-350-3315 o envíe un c
- orreo electrónico a esiqueiros@sfaf.org.\n\nPrograma Latino Health Educat
- ion Groups\n\nJoin us to learn about HIV\, prevention\, social services\, 
- and more. This group is open to all people and will be facilitated in Span
- ish.\n\nFor more information or to join the group\, contact Eduardo at 415
- -350-3315 or esiqueiros@sfaf.org.\n\nDetails: https://dothebay.com/events/
- 2026/10/6/grupos-de-educacion-sobre-salud-del-programa-latino-tickets\nSou
- rce: DoTheBay
-LAST-MODIFIED:20261007T060815Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/6/grupos-de-educacion-sobre-salud-
- del-programa-latino-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Made in SF: Handcrafted to High-Tech Manufacturing in Dogpatch
@@ -5044,26 +4877,17 @@ BEGIN:VEVENT
 SUMMARY:Air Show
 DTSTART;TZID=America/Los_Angeles:20261009T120000
 DTEND;TZID=America/Los_Angeles:20261009T160000
-DTSTAMP:20261006T002614Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52853-20261009@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Air Show
-DESCRIPTION:Held annually between the Golden Gate Bridge and Alcatraz\, th
- e San Francisco Fleet Week Air Show Presented by United Airlines brings wo
- rld-class aviation to one of the most iconic settings in the world.\n\nAt 
- the heart of the Air Show is Marina Green\, home to the Marina Green Festi
- val Center. General Admission is free. Unbeatable waterfront hospitality i
- s available through the Air Show Network VIP Experience.\n\nHeadlined by t
- he U.S. Navy Blue Angels\, the Air Show is also the only show in the Unite
- d States to feature a commercial airliner\, the United 777\, performing a 
- fully choreographed aerial demonstration over the Bay.\n\nDetails: https:/
- /fleetweeksf.org/air-show/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/san-francisco-fleet-week-air-show/
- \n- https://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-concert-hayes-v
- alley-park/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-conc
- ert-ghirardelli-square/
+DESCRIPTION:Details: https://fleetweeksf.org/air-show/\nSource: SF Fleet W
+ eek (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.com/san-fr
+ ancisco-fleet-week-air-show/\n- https://sf.funcheap.com/sfs-fleet-fest-202
+ 6-brass-band-concert-hayes-valley-park/\n- https://sf.funcheap.com/sfs-fle
+ et-fest-2026-brass-band-concert-ghirardelli-square/
 GEO:37.806806834918;-122.43850164123
-LAST-MODIFIED:20261006T002614Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Marina Green\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/air-show/
@@ -7583,17 +7407,16 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261010T010053Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53432-20261010@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/sfs-electric-dream-home-2026-mobil
- e-showroom-pier-35/\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7
- -11-2/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/sfs-electric-dream-home-2026-mobile-showroom-pier-35/\n- https://sf.fun
+ cheap.com/fleet-week-at-pier-39-oct-7-11-2/
 GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261010T010053Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 35\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -7602,17 +7425,16 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261010T010053Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53434-20261010@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/sfs-electric-dream-home-2026-mobil
- e-showroom-pier-35/\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7
- -11-2/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/sfs-electric-dream-home-2026-mobile-showroom-pier-35/\n- https://sf.fun
+ cheap.com/fleet-week-at-pier-39-oct-7-11-2/
 GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261010T010053Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 27\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -8775,24 +8597,15 @@ BEGIN:VEVENT
 SUMMARY:Air Show
 DTSTART;TZID=America/Los_Angeles:20261010T120000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52853-20261010@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Air Show
-DESCRIPTION:Held annually between the Golden Gate Bridge and Alcatraz\, th
- e San Francisco Fleet Week Air Show Presented by United Airlines brings wo
- rld-class aviation to one of the most iconic settings in the world.\n\nAt 
- the heart of the Air Show is Marina Green\, home to the Marina Green Festi
- val Center. General Admission is free. Unbeatable waterfront hospitality i
- s available through the Air Show Network VIP Experience.\n\nHeadlined by t
- he U.S. Navy Blue Angels\, the Air Show is also the only show in the Unite
- d States to feature a commercial airliner\, the United 777\, performing a 
- fully choreographed aerial demonstration over the Bay.\n\nDetails: https:/
- /fleetweeksf.org/air-show/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/san-francisco-fleet-week-2024-blue
- -angels-air-show-2/
+DESCRIPTION:Details: https://fleetweeksf.org/air-show/\nSource: SF Fleet W
+ eek (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.com/san-fr
+ ancisco-fleet-week-2024-blue-angels-air-show-2/
 GEO:37.806806834918;-122.43850164123
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Marina Green\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/air-show/
@@ -10853,21 +10666,14 @@ BEGIN:VEVENT
 SUMMARY:Fleet Fest at FIsherman’s Wharf
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T170000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52738-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Fleet Fest
-DESCRIPTION:Sunday 10/11\n10:00 am - 5:00 pm\n\nThis event is free.\n\nThi
- s celebration of our Nation’s sea services is a dynamic festival right o
- n the pier.\n\nExperience performances by local musicians throughout the d
- ay. Exhibitors include city organizations\, local businesses\, veteran sup
- port organizations\, educational experiences\, and fun activities for kids
-  and parents alike. Grab a bite from our food truck lane and pop-up vendor
- s\, and visit our bar for a variety of beverages while our stage rocks all
-  day long.\n\nDetails: https://fleetweeksf.org/events/fleet-fest/\nSource:
-  SF Fleet Week (fleetweeksf.org)
+DESCRIPTION:Details: https://fleetweeksf.org/events/fleet-fest/\nSource: S
+ F Fleet Week (fleetweeksf.org)
 GEO:37.808942611785;-122.41425574255
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:SkyStar Wheel\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/fleet-fest/
@@ -10876,15 +10682,15 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53432-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/fleet-week-at-pier-39-oct-7-11-3/
 GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 35\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -10893,15 +10699,15 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53434-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/fleet-week-at-pier-39-oct-7-11-3/
 GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 27\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -11063,19 +10869,15 @@ BEGIN:VEVENT
 SUMMARY:USAF Band of Golden West Travis Brass Band
 DTSTART;TZID=America/Los_Angeles:20261011T110000
 DTEND;TZID=America/Los_Angeles:20261011T120000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53597-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/san-francisco-fleet-week-2026-golden-west-travis-br
- ass-band/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/san-francisco-fleet-week-2026-golden-west-travis-brass-band/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -11226,24 +11028,15 @@ BEGIN:VEVENT
 SUMMARY:Air Show
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52853-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Air Show
-DESCRIPTION:Held annually between the Golden Gate Bridge and Alcatraz\, th
- e San Francisco Fleet Week Air Show Presented by United Airlines brings wo
- rld-class aviation to one of the most iconic settings in the world.\n\nAt 
- the heart of the Air Show is Marina Green\, home to the Marina Green Festi
- val Center. General Admission is free. Unbeatable waterfront hospitality i
- s available through the Air Show Network VIP Experience.\n\nHeadlined by t
- he U.S. Navy Blue Angels\, the Air Show is also the only show in the Unite
- d States to feature a commercial airliner\, the United 777\, performing a 
- fully choreographed aerial demonstration over the Bay.\n\nDetails: https:/
- /fleetweeksf.org/air-show/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/san-francisco-fleet-week-2024-blue
- -angels-air-show-3/
+DESCRIPTION:Details: https://fleetweeksf.org/air-show/\nSource: SF Fleet W
+ eek (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.com/san-fr
+ ancisco-fleet-week-2024-blue-angels-air-show-3/
 GEO:37.806806834918;-122.43850164123
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Marina Green\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/air-show/
@@ -11252,19 +11045,16 @@ BEGIN:VEVENT
 SUMMARY:US Naval Sea Cadet Corps Band of the West Division
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T130000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53599-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/san-francisco-fleet-week-2026-band-of-the-west-divi
- sion-concert/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/san-francisco-fleet-week-2026-band-of-the-west-division-concer
+ t/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -11396,17 +11186,14 @@ BEGIN:VEVENT
 SUMMARY:1st Marine Division Ceremonial Band
 DTSTART;TZID=America/Los_Angeles:20261011T123000
 DTEND;TZID=America/Los_Angeles:20261011T133000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53594-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)
 GEO:37.8086037;-122.4125131
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Italian Heritage Parade\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -11415,17 +11202,14 @@ BEGIN:VEVENT
 SUMMARY:Navy Band SW Parade Band
 DTSTART;TZID=America/Los_Angeles:20261011T123000
 DTEND;TZID=America/Los_Angeles:20261011T133000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53596-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)
 GEO:37.8086037;-122.4125131
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Italian Heritage Parade\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -11707,18 +11491,15 @@ BEGIN:VEVENT
 SUMMARY:191st Army Big Band
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T150000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53600-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-week-2026-army-big-band-concert/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/sfs-fleet-week-2026-army-big-band-concert/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -11778,19 +11559,16 @@ BEGIN:VEVENT
 SUMMARY:1st Marine Division Brass Quintet / Woodwind Quintet
 DTSTART;TZID=America/Los_Angeles:20261011T150000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53595-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-week-2026-division-brass-quintet-woodwind
- -quintet-sf-zoo/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/sfs-fleet-week-2026-division-brass-quintet-woodwind-quintet-sf
+ -zoo/
 GEO:37.7329134;-122.5027942
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:San Francisco Zoo - Leaping Lemur Cafe - FREE concert with paid a
  dmission\, San Francisco
 TRANSP:TRANSPARENT
@@ -12025,18 +11803,15 @@ BEGIN:VEVENT
 SUMMARY:USAF Band of Golden West – Mobility
 DTSTART;TZID=America/Los_Angeles:20261011T170000
 DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53598-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-week-2026-band-of-golden-west-pier-39/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/sfs-fleet-week-2026-band-of-golden-west-pier-39/
 GEO:37.808673;-122.409821
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 39\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -15558,37 +15333,37 @@ BEGIN:VEVENT
 SUMMARY:Free Waterfront Art Walk + Guided Sculpture Tours
 DTSTART;TZID=America/Los_Angeles:20261015T170000
 DTEND;TZID=America/Los_Angeles:20261015T200000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:funcheap-1642270@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoors
-DESCRIPTION:Downtown SFBig Art. Bay Views. Explore the Waterfront.\nWaterf
- ront Walkabout is back! San Francisco’s newest event series returns with
-  live music\, interactive craft activities\, and monumental art.\nWander a
- long the Big Art Loop – Portside at your own pace or sign up in advance 
- for an optional free guided art tour.\nWaterfront Walkabout\nThursday\, Oc
- tober 15\, 2026 | 5-8p\nEmbarcadero between Pier 14 & the Exploratorium\, 
- SF\nFREE | RSVP\nWHATS ON DECK\n\nCorpus (Pier 14): Visit the welcome boot
- h and meet the artist Michael Christian\nEchoes (Ferry Terminal Plaza): Dr
- op in to Paint & Sip\, interactive games with Playful SF\, or free piano o
- r guitar lessons with Daniel Lupo Music and the Chamber of Connection\nFer
- ry Building (Front Plaza): Enjoy free live music\, plus fresh oysters and 
- drink specials for purchase from Hog Island Oyster Co.\nCoralee (Pier 1/2)
- : Dive into mermaid crafts and enchanting water spirit storytelling with E
- n2Action and get $1 off Joyride Pizza\n️ Got Framed (Pier 7): Strike a p
- ose on the pier for free professional portraits and enjoy $10 Rose afterwa
- rds at Coqueta\n\nGUIDED ART TOURS\nJoin a free docent-led tour to hear th
- e stories behind the four featured sculptures! These 50-minute guided walk
- s depart from Pier 14 (at Corpus) and end at Pier 7.\n\n5:00 PM – Guided
-  Art Tour\n6:00 PM – Guided Art Tour\n7:00 PM – Guided Art Tour\n\nHow
-  to sign up for guided art tours: Space is limited—advance tour registra
- tion is required. To sign up\, please select the tour ticket type option d
- uri...\n\nFree\n\nTickets: https://downtownsf.org/things-to-do/big-art-loo
+DESCRIPTION:Masaki OmoriBig Art. Bay Views. Explore the Waterfront.\nWater
+ front Walkabout is back! San Francisco’s newest event series returns wit
+ h live music\, interactive craft activities\, and monumental art.\nWander 
+ along the Big Art Loop – Portside at your own pace or sign up in advance
+  for an optional free guided art tour.\nWaterfront Walkabout\nThursday\, O
+ ctober 15\, 2026 | 5-8p\nEmbarcadero between Pier 14 & the Exploratorium\,
+  SF\nFREE | RSVP\nWHATS ON DECK\n\nCorpus (Pier 14): Visit the welcome boo
+ th and meet the artist Michael Christian\nEchoes (Ferry Terminal Plaza): D
+ rop in to Paint & Sip\, interactive games with Playful SF\, or free piano 
+ or guitar lessons with Daniel Lupo Music and the Chamber of Connection\nFe
+ rry Building (Front Plaza): Enjoy free live music\, plus fresh oysters and
+  drink specials for purchase from Hog Island Oyster Co.\nCoralee (Pier 1/2
+ ): Dive into mermaid crafts and enchanting water spirit storytelling with 
+ En2Action and get $1 off Joyride Pizza\n️ Got Framed (Pier 7): Strike a 
+ pose on the pier for free professional portraits and enjoy $10 Rose afterw
+ ards at Coqueta\n\nGUIDED ART TOURS\nJoin a free docent-led tour to hear t
+ he stories behind the four featured sculptures! These 50-minute guided wal
+ ks depart from Pier 14 (at Corpus) and end at Pier 7.\n\n5:00 PM – Guide
+ d Art Tour\n6:00 PM – Guided Art Tour\n7:00 PM – Guided Art Tour\n\nHo
+ w to sign up for guided art tours: Space is limited—advance tour registr
+ ation is required. To sign up\, please select the tour ticket type option 
+ dur...\n\nFree\n\nTickets: https://downtownsf.org/things-to-do/big-art-loo
  p-portside\nDetails: https://sf.funcheap.com/free-waterfront-art-walk-guid
  ed-sculpture-tours-sf/\nSource: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Funche
  ap_WaterfrontWalkabout_2026-.png
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Embarcadero\, 4 Embarcadero Center\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-waterfront-art-walk-guided-sculpture-tour
@@ -15975,6 +15750,48 @@ LOCATION:The Gardens at Lake Merritt\, 666 Bellevue Ave. Oakland\, CA 9461
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/oaklands-2026-autumn-lights-festival-october-1
  517/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Lights On” SF’s Historic Broadway Sign Relighting + Sidewal
+ k Party (North Beach)
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261015T210000
+DTSTAMP:20261013T225222Z
+UID:funcheap-1642314@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Mabuhay GardensLights ON! marks the return of the restored BRO
+ ADWAY sign at the former Mabuhay Gardens building in North Beach. The free
+  sidewalk program includes remarks\, a dusk countdown and sign lighting\, 
+ plus samples from Francesca’s Cafe. Ticketed upstairs programming at On 
+ Broadway / Broadway Studios includes Michael Brunswick’s Live Canvas Art
+  Performance\, live music by GamperDrums\, a Filipino American History Mon
+ th tribute\, an exhibition preview\, a slideshow and tributes to Mabuhay G
+ ardens.\nThe 6-7 PM sidewalk gathering and sign-lighting countdown are fre
+ e with no ticket required. Upstairs admission from 7-9 PM starts at $5 for
+  Community tickets\; General admission is $25\, with optional $50 Supporte
+ r and $100 Sustaining Supporter tickets. Tickets include the same upstairs
+  access and are limited to 200 guests. Existing bulb backers may register 
+ upstairs for free while space remains.\nLocated in the heart of North Beac
+ h at 435 Broadway near Kearny\, the classic Mission-style building was bui
+ lt in 1919 by the Italian community and began its first incarnation as Gar
+ ibaldi Hall. In the 1930s it was a favorite ballroom for swing and jazz ni
+ ghts\, which saw the likes of Louis Armstrong grace its stage.\n\nIn the 
+ ’70s the venue was host to many memorable events including appearances f
+ rom Robin Williams\, Blondie and other now legendary rock bands. In the 
+ ’80s as “Mubuhay Gardens” it was the epicenter of the San Francisco 
+ punk scene with acts like the Go-Go’s\, The Dead Kennedys\, Iggy...\n\nF
+ ree\n\nTickets: https://www.eventbrite.com/e/lights-on-tickets-20028918494
+ 38\nDetails: https://sf.funcheap.com/lights-sfs-historic-broadway-sign-rel
+ ighting-sidewalk-party-north-beach/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/https-
+ 3A-2F-2Fcdn.evbuc_.com-2Fimages-2F1194955456-2F1134768160-2F1-2Foriginal.2
+ 0261003-014357.jpg
+LAST-MODIFIED:20261013T225222Z
+LOCATION:435 Broadway\, San Francisco\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/lights-sfs-historic-broadway-sign-relighting-s
+ idewalk-party-north-beach/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 HUMP! Film Festival
@@ -31667,6 +31484,47 @@ URL:https://dothebay.com/events/2026/10/24/party-bus-to-the-hay-maze-in-ha
  lf-moon-bay-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lit Crawl 2026: Epic 4-Hour Roaming Literature Fest w/ 250+ Author
+ s in the Mission
+DTSTART;TZID=America/Los_Angeles:20261024T170000
+DTEND;TZID=America/Los_Angeles:20261024T210000
+DTSTAMP:20261013T225222Z
+UID:funcheap-1478492@sf-cal
+SEQUENCE:0
+CATEGORIES:Literature
+DESCRIPTION:Tommy LauOne of the most anticipated literary nights of the ye
+ ar\, San Francisco’s Lit Crawl is a massive\, one-night literary pub cra
+ wl through San Francisco’s Mission District that caps off our annual Lit
+ quake Festival. Lit Crawl SF brings together 250+ authors\, 50+ events and
+  close to 5\,000 fans for the world’s largest free pop-up literary event
+ .\nStarted in 2004\, Lit Crawl cultivates a unique\, resonant brand: smart
+  and silly\, worldly and wacky\, with events presented in venues usual (ba
+ rs\, cafes\, galleries\, and bookstores) and unusual (tattoo parlors\, bar
+ bershops\, and laundromats).\n\nSee the Litcrawl Map for 2026\n\nLit Crawl
+  SF 2026\nSaturday\, October 24\, 2026 | 5:00pm–9:00pm | Mission Distric
+ t | FREE\nTAILGATE EVE\nPage Street Co-working and The Writers Grotto are 
+ hosting free pre-Crawl festivities!\n\nLit & Libations at The Writers Grot
+ to – 2:30pm–4:00pm – The Writers Grotto | 1663 Mission St\, Ste 602\
+ nWant to Read at Lit Crawl? A Pre-Crawl Tailgate – 3:00pm–4:00pm – P
+ age Street Co-working | 297 Page St\n\nPHASE 1: 5:00pm–6:00pm\n\nDr. Str
+ angebro: How I Learned to Stop Taking and Start Giving a Shit – Martuni
+ ’s\, 21+ | 4 Valencia St\nInvisible City: Letters from the Wilderness 
+ – St. John the Evangelist Episcopal Church | 1661 15th St\n¡ChALE con e
+ so!: Mujeres en Rebeldía – Muddy Waters | 521 Valencia St\nMommy Issues
+  – Blondie’s Bar\, 21+ | 540 Valencia St\nWithout a Net: 20 Super-shor
+ t\, Uncurated\, Uncensored\, Unrehearsed Pieces\, Freshly Written in the L
+ ast Hour – The Drawing Room: Annex | 5...\n\nFree\n\nTickets: https://ww
+ w.litquake.org/litcrawl\nDetails: https://sf.funcheap.com/lit-crawl-sf-epi
+ c-4hour-roaming-literature-festival-mission/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/10/102624
+ _LitCrawl_byTommyLau_082.jpg
+LAST-MODIFIED:20261013T225222Z
+LOCATION:All Over San Francisco\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/lit-crawl-sf-epic-4hour-roaming-literature-fes
+ tival-mission/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hike & Sip
 DTSTART;TZID=America/Los_Angeles:20261024T170000
 DTEND;TZID=America/Los_Angeles:20261024T190000
@@ -40404,6 +40262,42 @@ URL:https://sf.funcheap.com/halloween-night-market-kids-scream-zone-fillmo
  re-dark-2026-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nob Hill Halloween In The Park + Dog Costume Contest 2026
+DTSTART;TZID=America/Los_Angeles:20261031T160000
+DTEND;TZID=America/Los_Angeles:20261031T180000
+DTSTAMP:20261013T225222Z
+UID:funcheap-1642308@sf-cal
+SEQUENCE:0
+CATEGORIES:Free Food
+DESCRIPTION:Nob Hill AssociationThe Nob Hill Association hosts Halloween i
+ n the Park at Huntington Park\, with free candy for trick-or-treaters and 
+ a dog costume contest at 5:00 PM. Dogs may participate without advance reg
+ istration\, and pet prizes will be awarded to contest winners.\nOriginal E
+ vent Description:\nCalling all little ghosts\, goblins\, and four-legged f
+ riends! On Saturday\, October 31\, join the Nob Hill Association for festi
+ ve fun at our Halloween in the Park! Hosted at Huntington Park\, enjoy fre
+ e candy for trick-or-treaters\, show off your pup’s #Halloween spirit in
+  our Dog Costume Contest\, and celebrate the season with neighbors in one 
+ of San Francisco’s most beloved parks. This event is free and open to ev
+ eryone—we can’t wait to see your costumes! 🎃 Halloween in the Park 
+ 🕓 Saturday\, October 31\, 4 to 6 p.m. 📍 Huntington Park (California 
+ & Taylor Streets)\, San Francisco 🍬 Free candy giveaway for kids 🐶 D
+ og Costume Contest at 5 p.m.\, no sign-up needed\, prizes for winners! #No
+ bHill #NobHillSF #NobHillSanFrancisco #NobHillAssociation_\n@nobhillassoci
+ ation\nNob Hill Association\nDedicated to the improvement of San Francisco
+ ’s historic Nob Hill neighborhood\, Huntington Park\, and its neighbor c
+ ommunities.\nnobhillassociation.org\n\nFree\n\nTickets: https://www.instag
+ ram.com/p/DecYWIkmOlu/\nDetails: https://sf.funcheap.com/nob-hill-hallowee
+ n-park-dog-costume-contest-2026-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/847049
+ 634_1579742367524427_2551770371560381951_n.jpg
+LAST-MODIFIED:20261013T225222Z
+LOCATION:Huntington Park\, California St & Taylor St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/nob-hill-halloween-park-dog-costume-contest-20
+ 26-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trick or Treat - Randall St 2026
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T220000
@@ -42695,8 +42589,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261013T170024Z
-UID:caldiscovery-festival-d8232965ff98497a@sf-cal
+DTSTAMP:20261013T225222Z
+UID:caldiscovery-festival-bc64c25dd9891669@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -42706,7 +42600,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -46481,8 +46375,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261013T170024Z
-UID:caldiscovery-festival-2ee2d63b6318fa96@sf-cal
+DTSTAMP:20261013T225222Z
+UID:caldiscovery-festival-32e25a871592fc5c@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -46492,7 +46386,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -51257,8 +51151,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261013T170024Z
-UID:caldiscovery-festival-7cc18bd1a47b6976@sf-cal
+DTSTAMP:20261013T225222Z
+UID:caldiscovery-festival-b2486a3afcb55710@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -51268,7 +51162,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -65259,8 +65153,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261013T170024Z
-UID:caldiscovery-festival-e14c1c4bb0fab792@sf-cal
+DTSTAMP:20261013T225222Z
+UID:caldiscovery-festival-f735b3ee7369aa69@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -65269,7 +65163,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis

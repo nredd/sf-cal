@@ -41,23 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:1st Marine Division Brass Quintet
-DTSTART;TZID=America/Los_Angeles:20261006T123000
-DTEND;TZID=America/Los_Angeles:20261006T133000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53560-20261006@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/fleet-fest-2026-brass-quintet-tjpa-salesforce-park/
-GEO:37.7898491;-122.3963675
-LAST-MODIFIED:20261010T172246Z
-LOCATION:TJPA Salesforce Park\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Fire Credit Union 75th Anniversary Celebration
 DTSTART;TZID=America/Los_Angeles:20261006T170000
 DTEND;TZID=America/Los_Angeles:20261006T190000
@@ -625,26 +608,17 @@ BEGIN:VEVENT
 SUMMARY:Air Show
 DTSTART;TZID=America/Los_Angeles:20261009T120000
 DTEND;TZID=America/Los_Angeles:20261009T160000
-DTSTAMP:20261006T002614Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52853-20261009@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Air Show
-DESCRIPTION:Held annually between the Golden Gate Bridge and Alcatraz\, th
- e San Francisco Fleet Week Air Show Presented by United Airlines brings wo
- rld-class aviation to one of the most iconic settings in the world.\n\nAt 
- the heart of the Air Show is Marina Green\, home to the Marina Green Festi
- val Center. General Admission is free. Unbeatable waterfront hospitality i
- s available through the Air Show Network VIP Experience.\n\nHeadlined by t
- he U.S. Navy Blue Angels\, the Air Show is also the only show in the Unite
- d States to feature a commercial airliner\, the United 777\, performing a 
- fully choreographed aerial demonstration over the Bay.\n\nDetails: https:/
- /fleetweeksf.org/air-show/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/san-francisco-fleet-week-air-show/
- \n- https://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-concert-hayes-v
- alley-park/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-conc
- ert-ghirardelli-square/
+DESCRIPTION:Details: https://fleetweeksf.org/air-show/\nSource: SF Fleet W
+ eek (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.com/san-fr
+ ancisco-fleet-week-air-show/\n- https://sf.funcheap.com/sfs-fleet-fest-202
+ 6-brass-band-concert-hayes-valley-park/\n- https://sf.funcheap.com/sfs-fle
+ et-fest-2026-brass-band-concert-ghirardelli-square/
 GEO:37.806806834918;-122.43850164123
-LAST-MODIFIED:20261006T002614Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Marina Green\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/air-show/
@@ -1093,17 +1067,16 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261010T010053Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53432-20261010@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/sfs-electric-dream-home-2026-mobil
- e-showroom-pier-35/\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7
- -11-2/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/sfs-electric-dream-home-2026-mobile-showroom-pier-35/\n- https://sf.fun
+ cheap.com/fleet-week-at-pier-39-oct-7-11-2/
 GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261010T010053Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 35\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -1112,17 +1085,16 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261010T010053Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53434-20261010@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/sfs-electric-dream-home-2026-mobil
- e-showroom-pier-35/\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7
- -11-2/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/sfs-electric-dream-home-2026-mobile-showroom-pier-35/\n- https://sf.fun
+ cheap.com/fleet-week-at-pier-39-oct-7-11-2/
 GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261010T010053Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 27\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -1279,24 +1251,15 @@ BEGIN:VEVENT
 SUMMARY:Air Show
 DTSTART;TZID=America/Los_Angeles:20261010T120000
 DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52853-20261010@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Air Show
-DESCRIPTION:Held annually between the Golden Gate Bridge and Alcatraz\, th
- e San Francisco Fleet Week Air Show Presented by United Airlines brings wo
- rld-class aviation to one of the most iconic settings in the world.\n\nAt 
- the heart of the Air Show is Marina Green\, home to the Marina Green Festi
- val Center. General Admission is free. Unbeatable waterfront hospitality i
- s available through the Air Show Network VIP Experience.\n\nHeadlined by t
- he U.S. Navy Blue Angels\, the Air Show is also the only show in the Unite
- d States to feature a commercial airliner\, the United 777\, performing a 
- fully choreographed aerial demonstration over the Bay.\n\nDetails: https:/
- /fleetweeksf.org/air-show/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/san-francisco-fleet-week-2024-blue
- -angels-air-show-2/
+DESCRIPTION:Details: https://fleetweeksf.org/air-show/\nSource: SF Fleet W
+ eek (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.com/san-fr
+ ancisco-fleet-week-2024-blue-angels-air-show-2/
 GEO:37.806806834918;-122.43850164123
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Marina Green\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/air-show/
@@ -1512,21 +1475,14 @@ BEGIN:VEVENT
 SUMMARY:Fleet Fest at FIsherman’s Wharf
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T170000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52738-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Fleet Fest
-DESCRIPTION:Sunday 10/11\n10:00 am - 5:00 pm\n\nThis event is free.\n\nThi
- s celebration of our Nation’s sea services is a dynamic festival right o
- n the pier.\n\nExperience performances by local musicians throughout the d
- ay. Exhibitors include city organizations\, local businesses\, veteran sup
- port organizations\, educational experiences\, and fun activities for kids
-  and parents alike. Grab a bite from our food truck lane and pop-up vendor
- s\, and visit our bar for a variety of beverages while our stage rocks all
-  day long.\n\nDetails: https://fleetweeksf.org/events/fleet-fest/\nSource:
-  SF Fleet Week (fleetweeksf.org)
+DESCRIPTION:Details: https://fleetweeksf.org/events/fleet-fest/\nSource: S
+ F Fleet Week (fleetweeksf.org)
 GEO:37.808942611785;-122.41425574255
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:SkyStar Wheel\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/fleet-fest/
@@ -1535,15 +1491,15 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53432-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/fleet-week-at-pier-39-oct-7-11-3/
 GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 35\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -1552,15 +1508,15 @@ BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53434-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-3/
+DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
+ F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/fleet-week-at-pier-39-oct-7-11-3/
 GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 27\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
@@ -1569,19 +1525,15 @@ BEGIN:VEVENT
 SUMMARY:USAF Band of Golden West Travis Brass Band
 DTSTART;TZID=America/Los_Angeles:20261011T110000
 DTEND;TZID=America/Los_Angeles:20261011T120000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53597-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/san-francisco-fleet-week-2026-golden-west-travis-br
- ass-band/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/san-francisco-fleet-week-2026-golden-west-travis-brass-band/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -1590,24 +1542,15 @@ BEGIN:VEVENT
 SUMMARY:Air Show
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-52853-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Air Show
-DESCRIPTION:Held annually between the Golden Gate Bridge and Alcatraz\, th
- e San Francisco Fleet Week Air Show Presented by United Airlines brings wo
- rld-class aviation to one of the most iconic settings in the world.\n\nAt 
- the heart of the Air Show is Marina Green\, home to the Marina Green Festi
- val Center. General Admission is free. Unbeatable waterfront hospitality i
- s available through the Air Show Network VIP Experience.\n\nHeadlined by t
- he U.S. Navy Blue Angels\, the Air Show is also the only show in the Unite
- d States to feature a commercial airliner\, the United 777\, performing a 
- fully choreographed aerial demonstration over the Bay.\n\nDetails: https:/
- /fleetweeksf.org/air-show/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAls
- o listed on:\n- https://sf.funcheap.com/san-francisco-fleet-week-2024-blue
- -angels-air-show-3/
+DESCRIPTION:Details: https://fleetweeksf.org/air-show/\nSource: SF Fleet W
+ eek (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.com/san-fr
+ ancisco-fleet-week-2024-blue-angels-air-show-3/
 GEO:37.806806834918;-122.43850164123
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Marina Green\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/air-show/
@@ -1616,19 +1559,16 @@ BEGIN:VEVENT
 SUMMARY:US Naval Sea Cadet Corps Band of the West Division
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T130000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53599-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/san-francisco-fleet-week-2026-band-of-the-west-divi
- sion-concert/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/san-francisco-fleet-week-2026-band-of-the-west-division-concer
+ t/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -1637,17 +1577,14 @@ BEGIN:VEVENT
 SUMMARY:1st Marine Division Ceremonial Band
 DTSTART;TZID=America/Los_Angeles:20261011T123000
 DTEND;TZID=America/Los_Angeles:20261011T133000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53594-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)
 GEO:37.8086037;-122.4125131
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Italian Heritage Parade\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -1656,17 +1593,14 @@ BEGIN:VEVENT
 SUMMARY:Navy Band SW Parade Band
 DTSTART;TZID=America/Los_Angeles:20261011T123000
 DTEND;TZID=America/Los_Angeles:20261011T133000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53596-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)
 GEO:37.8086037;-122.4125131
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Italian Heritage Parade\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -1714,18 +1648,15 @@ BEGIN:VEVENT
 SUMMARY:191st Army Big Band
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T150000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53600-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-week-2026-army-big-band-concert/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/sfs-fleet-week-2026-army-big-band-concert/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -1759,19 +1690,16 @@ BEGIN:VEVENT
 SUMMARY:1st Marine Division Brass Quintet / Woodwind Quintet
 DTSTART;TZID=America/Los_Angeles:20261011T150000
 DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53595-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-week-2026-division-brass-quintet-woodwind
- -quintet-sf-zoo/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/sfs-fleet-week-2026-division-brass-quintet-woodwind-quintet-sf
+ -zoo/
 GEO:37.7329134;-122.5027942
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:San Francisco Zoo - Leaping Lemur Cafe - FREE concert with paid a
  dmission\, San Francisco
 TRANSP:TRANSPARENT
@@ -1813,18 +1741,15 @@ BEGIN:VEVENT
 SUMMARY:USAF Band of Golden West – Mobility
 DTSTART;TZID=America/Los_Angeles:20261011T170000
 DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261013T225222Z
 UID:fleetweeksf-53598-20261011@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-week-2026-band-of-golden-west-pier-39/
+DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
+ Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/sfs-fleet-week-2026-band-of-golden-west-pier-39/
 GEO:37.808673;-122.409821
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 39\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
