@@ -41,49 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SF Fire Credit Union 75th Anniversary Celebration
-DTSTART;TZID=America/Los_Angeles:20261006T170000
-DTEND;TZID=America/Los_Angeles:20261006T190000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1636997@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:SF Fire Credit UnionKick off Fleet Week in Noe Valley with SF 
- Fire Credit Union as we celebrate our 75th anniversary. Join us for a spec
- ial ribbon cutting at our Noe Valley Branch\, followed by live music from 
- the 1st Marine Division Brass Band in the Noe Valley Town Square.\nThe eve
- nt is free and open to the community. RSVP today to be automatically enter
- ed to win a $750 Term Certificate (with term of your choice). Winner will 
- be announced at the event so you must be present to win.\n\nFree\n\nTicket
- s: https://sffirecu.org/75years\nDetails: https://sf.funcheap.com/sf-fire-
- credit-union-75th-anniversary-celebration/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/image-
- 1.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:SF Fire Credit Union Noe Valley Branch / Noe Valley Town Square\,
-  3908 24th St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sf-fire-credit-union-75th-anniversary-celebrat
- ion/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1st Marine Division Brass Band
-DTSTART;TZID=America/Los_Angeles:20261006T180000
-DTEND;TZID=America/Los_Angeles:20261006T190000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53561-20261006@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/fleet-fest-2026-brass-band-concert-noe-valley-town-square/
-GEO:37.7513769;-122.4289406
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Noe Valley Town Square\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261007T100000
 DTEND;TZID=America/Los_Angeles:20261007T130000

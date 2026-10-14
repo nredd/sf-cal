@@ -40,67 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Ray Lau
-DTSTART;TZID=America/Los_Angeles:20261006T190000
-DTEND;TZID=America/Los_Angeles:20261006T210000
-DTSTAMP:20261007T060815Z
-UID:dothebay-17583431@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Ray Lau\nTuesday\, October 6 | ​Cobb's Comedy Club\n\n18+\nS
- old out\n\nDetails: https://dothebay.com/events/2026/10/6/ray-lau-tickets\
- nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33206999/94fe69a1-c907-4a8c-a19a-551c22f16d5b.png
-LAST-MODIFIED:20261007T060815Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/6/ray-lau-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brian Babylon
-DTSTART;TZID=America/Los_Angeles:20261006T193000
-DTEND;TZID=America/Los_Angeles:20261006T213000
-DTSTAMP:20261007T060815Z
-UID:dothebay-17612355@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Brian Babylon\nTuesday\, October 6 | ​Punch Line San Francis
- co\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/6/brian-babylon-
- tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sf
- s-iconic-punchline-comedy-club-secret-guest-list-brian-babylon/
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33336874/eb4da475-efb5-4005-b27b-0552c55c2375.png
-LAST-MODIFIED:20261007T060815Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/6/brian-babylon-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ray Lau
-DTSTART;TZID=America/Los_Angeles:20261006T211500
-DTEND;TZID=America/Los_Angeles:20261006T231500
-DTSTAMP:20261007T060815Z
-UID:dothebay-17207419@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Ray Lau\nTuesday\, October 6 | ​Cobb's Comedy Club\n\n18+\nS
- old out\n\nDetails: https://dothebay.com/events/2026/10/6/ray-lau-october-
- 6-tickets\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31423638/d6c8ddae-0020-4edd-8bf6-e98f9dc7c556.png
-LAST-MODIFIED:20261007T060815Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/6/ray-lau-october-6-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Circus of Bubbles Live
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T200000
@@ -1975,37 +1914,6 @@ URL:https://dothebay.com/events/2026/10/17/san-francisco-comedy-undergroun
  d-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oakland Comedy Festival 2026 - The Closer
-DTSTART;TZID=America/Los_Angeles:20261017T200000
-DTEND;TZID=America/Los_Angeles:20261017T213000
-DTSTAMP:20261013T170024Z
-UID:caldiscovery-comedy-47b79d204e0f036f@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,festival
-DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
- t Email: matthew@punchlinerecords.comCost: $28.52 - $39.19Link: https://ww
- w.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-199922022651
- 5Close out Oakland Comedy Festival with local legend Brent Weinbach! Bizar
- re\, brilliant stand-up at Fluid510.Closing out the festival is hometown l
- egend and master of the wonderfully weird\, Brent Weinbach (Conan\, Comedy
-  Central\, Adult Swim). If you’ve never experienced Brent live\, prepare
-  yourself for absolute masterclass deadpan\, bizarre sound effects\, and b
- its that make you think\, "Wait\, is he allowed to do that on stage?"\n\nP
- ublished by KGO\nContains information from CalDiscovery (caldiscovery.com)
- \, ODbL 1.0\n\nDetails: https://www.eventbrite.com/e/the-closer-oakland-co
- medy-festival-tickets-1999220226515?utm_source=caldiscovery&utm_medium=ics
- &utm_campaign=san-francisco-ca\nSource: CalDiscovery\n\nAlso listed on:\n-
-  https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
- 999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
- isco-ca
-LAST-MODIFIED:20261013T170024Z
-LOCATION:Fluid510 1544 Broadway Oakland\, CA
-TRANSP:TRANSPARENT
-URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
- s-1999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
- ancisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dean Evans: Les Pervers - Flop Fest!
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T220000
@@ -2498,6 +2406,49 @@ LOCATION:Abbey Tavern\, 4100 Geary Blvd\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/mirthquake-monday-live-comedy-in-the-richmond-
  w-5-drinks-sf-180/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Props: A Comedy Breakdown of the California Ballot
+DTSTART;TZID=America/Los_Angeles:20261020T190000
+DTEND;TZID=America/Los_Angeles:20261020T210000
+DTSTAMP:20261014T050109Z
+UID:dothebay-17952880@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Mad Props is a live variety show where Bay Area journalists br
+ eak down the decisions on your ballot\, with a little humor along the way.
+ \n\nMad Props is a live variety show where Bay Area journalists help you m
+ ake sense of the upcoming election — while also having a little fun! In 
+ six interactive presentations\, we’ll cover some of the most consequenti
+ al decisions this November\, both statewide and here in SF.\n\nCome for a 
+ drink and good laugh\, leave with a headstart on your ballot!\n\nYour Host
+ \nEli Benton Cohen is the creator of the Mad Props Voter Guide\, in collab
+ oration with the San Francisco Standard and KALW. When he’s not reading 
+ the state voter guide you threw away\, he’s probably at Berkeley Bowl.\n
+ \nThe Governor’s Race\nSophia Garrow is the Comedy Correspondent at the 
+ SF Standard. She asked both Becerra and Hilton hard hitting questions like
+  what is Mayor of San Francisco’s name\, what is their favorite girls’
+  sport\, and should the U.S. provide military aid to Israel. The answers m
+ ay surprise you.\n\nProp 40: The Billionaire Tax\nWill Harris and Matt She
+ ppard are reporters and producers at Uncuffed\, KALW’s podcast from insi
+ de California prisons. Will and Matt have long used comedy to understand l
+ ife on the inside\, and are looking forward to training the same wit on bi
+ llionaires.\n\nProp 39: Voter ID\nLaura Fitzgerald is a politics reporter 
+ at KQED.\n\nProps D\, E\, & F: Mayor Lurie’s Charter Reforms\nJoe Fitzge
+ rald Rodriguez is a politics reporter at the San Francisco Standard. His l
+ ove of...\n\nFree\nKALW Public Media\n\nTickets: https://consumer.pxf.io/A
+ PvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fmad-props-a-comedy-breakdow
+ n-of-the-california-ballot-tickets-2002248179203%3Faff%3Doddtdtcreator%26k
+ eep_tld%3Dtrue\nDetails: https://dothebay.com/events/2026/10/20/mad-props-
+ a-comedy-breakdown-of-the-california-ballot-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34943365/4581007b-6ab2-414f-bc1c-73d10c6ef4a5.jpg
+LAST-MODIFIED:20261014T050109Z
+LOCATION:KALW @ The Warfield Commons\, 988 Market St.\, 9th Fl\, San Franc
+ isco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/20/mad-props-a-comedy-breakdown-of
+ -the-california-ballot-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannah Jones
