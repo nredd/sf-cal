@@ -43,23 +43,6 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261007T100000
-DTEND;TZID=America/Los_Angeles:20261007T130000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-52794-20261007@sf-cal
-SEQUENCE:0
-CATEGORIES:Ship Tours
-DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
- F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
- om/fleet-week-pier-39/
-GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Pier 27\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/ship-tours/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ship Tours
-DTSTART;TZID=America/Los_Angeles:20261007T100000
 DTEND;TZID=America/Los_Angeles:20261007T160000
 DTSTAMP:20261010T172246Z
 UID:fleetweeksf-52795-20261007@sf-cal
@@ -75,41 +58,71 @@ TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1st Marine Division Brass Quintet
-DTSTART;TZID=America/Los_Angeles:20261007T113000
-DTEND;TZID=America/Los_Angeles:20261007T123000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53562-20261007@sf-cal
+SUMMARY:SF’s Fleet Fest 2026: USAF Band of Golden West Brass (Ghirardell
+ i Square)
+DTSTART;TZID=America/Los_Angeles:20261007T140000
+DTEND;TZID=America/Los_Angeles:20261007T170000
+DTSTAMP:20261014T214646Z
+UID:funcheap-1636689@sf-cal
 SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/sfs-fleet-fest-2026-brass-quintet-sf-va-medical-center/
-GEO:37.782044629643;-122.50506317382
-LAST-MODIFIED:20261010T172246Z
-LOCATION:SF VA Medical Center - Outdoor Picnic Tables behind canteen (buil
- ding 7)\, San Francisco
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
+ Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
+ oaring of jet engines and head down to SF’s northern waterfront for San 
+ Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
+ t Week returns October 4-12\, 2026\, bringing more than a full week of mil
+ itary bands\, ship tours\, the Parade of Ships\, community events\, and th
+ e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
+ t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
+ dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
+ w is presented by United and features the Blue Angels\, United Airlines 77
+ 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
+ , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
+ y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
+ uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
+ ly commercial airliner performing a fully choreographed act at a U.S. air 
+ show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
+ \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
+ Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
+ hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
+ PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
+  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
+ t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
+ ://sf.funcheap.com/sfs-fleet-fest-2026-usaf-band-of-golden-west-brass-ghir
+ ardelli-square/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
+ age-Ticker-3.jpg
+LAST-MODIFIED:20261014T214646Z
+LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
+ 9
 TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-usaf-band-of-golden-west-b
+ rass-ghirardelli-square/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:USAF Band of Golden West Brass
+SUMMARY:USAF Golden West Brass at Ghirardelli Square
 DTSTART;TZID=America/Los_Angeles:20261007T140000
-DTEND;TZID=America/Los_Angeles:20261007T150000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53566-20261007@sf-cal
+DTEND;TZID=America/Los_Angeles:20261007T170000
+DTSTAMP:20261014T214646Z
+UID:funcheap-1639615@sf-cal
 SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/sfs-fleet-fest-2026-usaf-band-of-golden-west-brass-ghirardelli
- -square/\n- https://sf.funcheap.com/usaf-golden-west-brass-ghirardelli-squ
- are/
-GEO:37.8058305;-122.4230122
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Ghirardelli Square\, San Francisco
+CATEGORIES:Live Music Event
+DESCRIPTION:GraphicJoin us at Ghirardelli Square as San Francisco celebrat
+ es Fleet Week with live music\, waterfront events\, and more.\nService mem
+ bers can also enjoy 15% off at participating retailers with valid ID. Here
+ ’s who’s participating:\n\nGhirardelli Chocolate\n\nGigi + Rosie\n\nBr
+ oad Street Oyster Co.\n\nCultivar\n\nHardware Coffee Co.\n\nLola\n\nPalett
+ e Tea House\n\nSan Francisco Brewing Co.\n\nVom Fass\n\nYap\n\nFree\n\nTic
+ kets: https://www.ghirardellisq.com/ongoing-events/2026/9/18/fleet-week-ev
+ ents-amp-offers\nDetails: https://sf.funcheap.com/usaf-golden-west-brass-g
+ hirardelli-square/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Instag
+ ram-4-5.jpg
+LAST-MODIFIED:20261014T214646Z
+LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
+ 9
 TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
+URL:https://sf.funcheap.com/usaf-golden-west-brass-ghirardelli-square/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Navy Band SW Woodwind Quintet
