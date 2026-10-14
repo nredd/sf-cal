@@ -968,17 +968,16 @@ BEGIN:VEVENT
 SUMMARY:Conundrum Chronicles StorySlam
 DTSTART;TZID=America/Los_Angeles:20261013T190000
 DTEND;TZID=America/Los_Angeles:20261013T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261014T120158Z
 UID:dothebay-17862291@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:10\n\nTickets: https://themarsh.ludus.com/show_page.php?show_i
- d=200512664\nDetails: https://dothebay.com/events/2026/10/13/conundrum-chr
- onicles-storyslam-tickets\nSource: DoTheBay
+DESCRIPTION:10\n\nDetails: https://dothebay.com/events/2026/10/13/conundru
+ m-chronicles-storyslam-tickets\nSource: DoTheBay
 GEO:37.7558531;-122.4212321
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34519588/152c2dee-4feb-4d4d-b784-f5fc6f5bbe33.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261014T120158Z
 LOCATION:The Marsh - San Francisco\, 1062 Valencia St\, San Francisco\, CA
  \, 94110
 TRANSP:TRANSPARENT
@@ -1031,22 +1030,21 @@ BEGIN:VEVENT
 SUMMARY:Longlegs
 DTSTART;TZID=America/Los_Angeles:20261013T193000
 DTEND;TZID=America/Los_Angeles:20261013T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261014T120158Z
 UID:dothebay-17884759@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:FBI Agent Lee Harker is a gifted new recruit assigned to the u
  nsolved case of an elusive serial killer. As the case takes complex turns\
  , unearthing evidence of the occult\, Harker discovers a personal connecti
  on to the merciless killer and must race against time to stop him before h
- e claims the lives of another innocent family.\n\nProjected on 35mm\n\nTic
- kets: https://ticketing.uswest.veezi.com/purchase/19904?siteToken=52wkfzmj
- pwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/events/2026/10/13/longle
- gs-tickets\nSource: DoTheBay
+ e claims the lives of another innocent family.\n\nProjected on 35mm\n\nDet
+ ails: https://dothebay.com/events/2026/10/13/longlegs-tickets\nSource: DoT
+ heBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34623038/794e3c71-a1ca-4677-b94e-ff3346869598.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261014T120158Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/13/longlegs-tickets
@@ -1464,6 +1462,47 @@ URL:https://sf.funcheap.com/salvi-soul-encuentro-2026-sfs-free-salvadoran-
  culture-festival-oct-14-18/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CRANE Watch Party: Shipyard Crane Light Show (Oct. 16-17)
+DTSTART;TZID=America/Los_Angeles:20261016T180000
+DTEND;TZID=America/Los_Angeles:20261016T220000
+DTSTAMP:20261014T120158Z
+UID:funcheap-1642325@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:CRANE Watch Party: Shipyard Crane Light Show (Oct. 16-17)\nShi
+ pyard Trust for the Arts\nThe historic gantry crane at Hunters Point Shipy
+ ard comes to life in CRANE\, a large-scale work of public art in light\, o
+ riginal music and projection. It honors the story of the Shipyard and Bayv
+ iew Hunters Point\, and the people who built it\, worked it and lived it. 
+ CRANE is the final event in the San Francisco Arts Commission’s Shaping 
+ Legacy series.\nOn Friday\, October 16 and Saturday\, October 17\, watch t
+ he performance from Building 101\, the Shipyard’s artist studio building
+ \, more than half a mile across the Shipyard from the crane. The live feed
+  from the crane is projected large on the building wall.\nCRANE Watch Part
+ y\nFriday & Saturday\, October 16-17\, 2026\nBldg. 101\, Hunters Point Shi
+ pyard\, 451 Galvez Ave.\, SF\nTickets: $10–$75\, with seated options in 
+ Areas 1 and 2 and standing General Admission at $25. Bayview Hunters Point
+  (94124) residents can enjoy a special $10 community ticket.\nIf ticket co
+ sts are a barrier\, you can request financial assistance through this form
+ .\nFULL SCHEDULE:\n\n5:30 pm Doors open\n6:00 pm Reception: Open Studios p
+ review exhibition and art auction in the gallery\, food vendors and a bar 
+ outside\, live jazz by Guitar Trifecta\n7:45 pm The Dr. George W. Davis Se
+ nior Center Choir (live on Saturday\; on the livestream on Friday)\n8:00 t
+ o 8:40 pm CRANE\nAfter the show\, the crane stays lit until 9:15 and the g
+ allery stays open until 10:00\, with the artists back from the crane pier.
+ ..\n\n$10.00\n\nTickets: https://shipyardartists.com/crane\nDetails: https
+ ://sf.funcheap.com/crane-watch-party-shipyard-crane-light-show-oct-1617/\n
+ Source: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/CRANE_
+ Funcheap_listing_Building101_1600x1280.jpg
+LAST-MODIFIED:20261014T120158Z
+LOCATION:Hunters Point Shipyard\, Horn Ave\, Building 101\, San Francisco\
+ , CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/crane-watch-party-shipyard-crane-light-show-oc
+ t-1617/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Lit Laugh Lyric” Haunted Spoken Word + Eerie Comedy (North Be
  ach)
 DTSTART;TZID=America/Los_Angeles:20261016T190000
@@ -1813,6 +1852,47 @@ LAST-MODIFIED:20261006T001200Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/the-vourdalak-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRANE Watch Party: Shipyard Crane Light Show (Oct. 16-17)
+DTSTART;TZID=America/Los_Angeles:20261017T180000
+DTEND;TZID=America/Los_Angeles:20261017T220000
+DTSTAMP:20261014T120158Z
+UID:funcheap-1642442@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:CRANE Watch Party: Shipyard Crane Light Show (Oct. 16-17)\nShi
+ pyard Trust for the Arts\nThe historic gantry crane at Hunters Point Shipy
+ ard comes to life in CRANE\, a large-scale work of public art in light\, o
+ riginal music and projection. It honors the story of the Shipyard and Bayv
+ iew Hunters Point\, and the people who built it\, worked it and lived it. 
+ CRANE is the final event in the San Francisco Arts Commission’s Shaping 
+ Legacy series.\nOn Friday\, October 16 and Saturday\, October 17\, watch t
+ he performance from Building 101\, the Shipyard’s artist studio building
+ \, more than half a mile across the Shipyard from the crane. The live feed
+  from the crane is projected large on the building wall.\nCRANE Watch Part
+ y\nFriday & Saturday\, October 16-17\, 2026\nBldg. 101\, Hunters Point Shi
+ pyard\, 451 Galvez Ave.\, SF\nTickets: $10–$75\, with seated options in 
+ Areas 1 and 2 and standing General Admission at $25. Bayview Hunters Point
+  (94124) residents can enjoy a special $10 community ticket.\nIf ticket co
+ sts are a barrier\, you can request financial assistance through this form
+ .\nFULL SCHEDULE:\n\n5:30 pm Doors open\n6:00 pm Reception: Open Studios p
+ review exhibition and art auction in the gallery\, food vendors and a bar 
+ outside\, live jazz by Guitar Trifecta\n7:45 pm The Dr. George W. Davis Se
+ nior Center Choir (live on Saturday\; on the livestream on Friday)\n8:00 t
+ o 8:40 pm CRANE\nAfter the show\, the crane stays lit until 9:15 and the g
+ allery stays open until 10:00\, with the artists back from the crane pier.
+ ..\n\n$10.00\n\nTickets: https://shipyardartists.com/crane\nDetails: https
+ ://sf.funcheap.com/crane-watch-party-shipyard-crane-light-show-oct-16-17/\
+ nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/CRANE_
+ Funcheap_listing_Building101_1600x1280.jpg
+LAST-MODIFIED:20261014T120158Z
+LOCATION:Hunters Point Shipyard\, Horn Ave\, Building 101\, San Francisco\
+ , CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/crane-watch-party-shipyard-crane-light-show-oc
+ t-16-17/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Make Them Hear You: An SFGMC Cabaret

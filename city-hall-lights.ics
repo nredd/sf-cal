@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: green
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-DTSTAMP:20261006T193603Z
-UID:city-hall-lights-ics-bec7aede5084fd66@sf-cal
-SEQUENCE:0
-DESCRIPTION:Liver Disease & Liver Cancer Awareness Month\n\nDetails: https
- ://www.sf.gov/location--san-francisco-city-hall\nSource: SF City Hall ligh
- ting (via Robelius/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261006T193603Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: red/yellow
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010

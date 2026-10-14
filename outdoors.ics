@@ -4966,6 +4966,40 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-beginner-parkour-urban-ninja-class-131/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2nd Sunday Serenades
+DTSTART;TZID=America/Los_Angeles:20261213T120000
+DTEND;TZID=America/Los_Angeles:20261213T140000
+DTSTAMP:20261014T120158Z
+UID:sfrecpark-main-b4c78f957f58b46e@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd
+  Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10414\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261014T120158Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Dunes Community Cleanup
+DTSTART;TZID=America/Los_Angeles:20261213T130000
+DTEND;TZID=America/Los_Angeles:20261213T150000
+DTSTAMP:20261014T120158Z
+UID:sfrecpark-main-214050831c7aa98b@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes on the 2nd Sunday of the month for a 
+ Community Cleanup Day from 1 pm - 3 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10420\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261014T120158Z
+LOCATION:Sunset Dunes and Upper Great Highway - 1611 Upper Great Highway S
+ an Francisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Midnight Mystery Ride (Every Third Saturday)
 DTSTART;TZID=America/Los_Angeles:20261219T235900
 DTEND;TZID=America/Los_Angeles:20261220T025900
