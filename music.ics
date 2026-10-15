@@ -40,6 +40,47 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack” 
+ (Every Tue/Thu)
+DTSTART;TZID=America/Los_Angeles:20261008T120000
+DTEND;TZID=America/Los_Angeles:20261008T150000
+DTSTAMP:20261015T212936Z
+UID:funcheap-1638781@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack
+ ” (Every Tue/Thu)\nJon Bauer c/o Illuminate\nSan Francisco’s free lunc
+ htime concert series is back. The Civic Center Soundtrack returns for its 
+ third season starting Tuesday\, April 14\, 2026\, bringing live music to F
+ ulton Plaza twice a week through October.\n\nConcerts take place Tuesdays 
+ and Thursdays from 12 pm to 3 pm outside the San Francisco Public Library\
+ , featuring three performers each day spanning a mix of genres and local t
+ alent.\n\nNew for 2026: A rotating lineup of food trucks will join the fes
+ tivities\, turning the plaza into a lively midday hangout for downtown wor
+ kers\, residents\, and anyone looking for a free break with live music.\n\
+ nLaunched in 2024\, the series has hosted more than 100 free concerts and 
+ is part of ongoing efforts to activate public spaces in the Civic Center n
+ eighborhood.\n\nCivic Center Soundtrack 2026\nWhen: Tuesdays & Thursdays\,
+  12 pm to 3 pmDates: April 14 through October 2026Where: Fulton Plaza (out
+ side the Main Library)\, Civic CenterCost: Free\nView the full lineup\nBri
+ ng your lunch or grab something from the food trucks and enjoy a free outd
+ oor show in the heart of downtown.\n\nUpcoming SF’s Free Concerts & Food
+  Trucks: “Civic Center Soundtrack” (Every Tue/Thu) Events\nTue 10/6 SF
+ ’s Free Concerts & Food Trucks: “Civic Center Soundtrack” (Every Tue
+ /Thu)Thu 10/8 SF’s Free Concerts & Food Trucks: “Civic Center Soundtra
+ ck” (Every Tue/Thu)Tue 10/13 SF’s Free Concerts & Food Trucks: “Civi
+ c Center Sound...\n\nFree\n\nTickets: https://illuminate.org/venues/fulton
+ -street-plaza/\nDetails: https://sf.funcheap.com/sfs-free-concerts-food-tr
+ ucks-civic-center-soundtrack-every-tue-thu-51/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/04/Civic-
+ Center-Soundtrack.jpg
+LAST-MODIFIED:20261015T212936Z
+LOCATION:Fulton Plaza\, Fulton and Larkin\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-sou
+ ndtrack-every-tue-thu-51/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Catherine DeNuvaring
 DTSTART;TZID=America/Los_Angeles:20261008T183000
 DTEND;TZID=America/Los_Angeles:20261008T203000
@@ -2003,44 +2044,6 @@ LOCATION:Fulton Plaza\, Fulton and Larkin\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-sou
  ndtrack-every-tue-thu-53/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Richard Howell’s John Coltrane Tribute
-DTSTART;TZID=America/Los_Angeles:20261015T123000
-DTEND;TZID=America/Los_Angeles:20261015T133000
-DTSTAMP:20261006T172218Z
-UID:ybgfestival-76fd3a8a555f7fd4@sf-cal
-SEQUENCE:0
-CATEGORIES:Music,Thursday Lunchtime
-DESCRIPTION:The 100th anniversary of John Coltrane’s birthday has inspir
- ed dozens of performances across the Bay Area this year\, but no artist is
-  better equipped to evoke the legacy of the saxophone titan and spiritual 
- seeker than Richard Howell. An acclaimed musician\, composer and educator\
- , he defines his performances as “Bridge Music\,” a jazz pathway that 
- creates sonic connection across obstacles and differences. It’s music th
- at celebrates diversity as it bridges\, unites and merges the experience o
- f all listeners\, an approach rooted in the spirit of John Coltrane’s 
- “A Love Supreme.” Howell\, who spent years on the road with Etta James
- \, also embraces the contradiction of James Brown’s simple yet intricate
-  African-inspired rhythmic concepts and the deep soulfulness of the Isley 
- Brothers. As a saxophonist and vocalist\, he has a gift for connecting to 
- multi-generational audiences with an abiding spirituality that invites all
-  listeners to partake. He’s particularly eager to present an afternoon h
- onoring the spirit and music of John Coltrane\, he explains. “I’ve had
-  the blessing of a close relationship with his son\, Ravi Coltrane\, as my
-  son Elé has been part of Ravi’s rhythm section as a drummer for the pa
- st seven years. What I’m envisioning is an acoustic jazz quartet – ten
- or saxophone\, acoustic piano\, bass and drums – rooted in the Coltrane 
- tradition\, but also reflecting the living continuum of that music.”\n\n
- Details: https://ybgfestival.org/event/richard-howells-john-coltrane-tribu
- te-2026/\nSource: Yerba Buena Gardens Festival
-GEO:37.784773;-122.402658
-LAST-MODIFIED:20261006T172218Z
-LOCATION:Great Lawn\, Yerba Buena Gardens\, Mission St. between 3rd & 4th 
- Sts.\, San Francisco\, CA\, 94103\, United States
-TRANSP:TRANSPARENT
-URL:https://ybgfestival.org/event/richard-howells-john-coltrane-tribute-20
- 26/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Art Loop: “Waterfront Walkabout” Free SF Art Stroll (Embar
@@ -5593,19 +5596,20 @@ BEGIN:VEVENT
 SUMMARY:Protomartyr
 DTSTART;TZID=America/Los_Angeles:20261024T200000
 DTEND;TZID=America/Los_Angeles:20261024T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261015T212936Z
 UID:dothebay-17583296@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Protomartyr\nSaturday\, October 24 | August Hall\n\nAll Ages\n
- \nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoS
- tuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fprotomartyr-san-francisco-cali
- fornia-10-24-2026%2Fevent%2F1C0064E3A259ADCA\nDetails: https://dothebay.co
- m/events/2026/10/24/protomartyr-tickets\nSource: DoTheBay
+DESCRIPTION:Protomartyr\nwith Accessory\n\nSaturday\, October 24 | August 
+ Hall\n\nAll Ages\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167
+ /4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fprotomartyr-
+ san-francisco-california-10-24-2026%2Fevent%2F1C0064E3A259ADCA\nDetails: h
+ ttps://dothebay.com/events/2026/10/24/protomartyr-tickets\nSource: DoTheBa
+ y
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33206535/29e1a6ad-6ffe-427b-b2c5-bdd977d67489.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261015T212936Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/protomartyr-tickets
@@ -6458,20 +6462,21 @@ BEGIN:VEVENT
 SUMMARY:Ax and the Hatchetmen
 DTSTART;TZID=America/Los_Angeles:20261028T200000
 DTEND;TZID=America/Los_Angeles:20261028T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261015T212936Z
 UID:dothebay-17374583@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:The Late Checkout Tour 2026\nAx and the Hatchetmen\nWednesday\
- , October 28 | August Hall\n\n5+\nThe Late Checkout Tour 2026\n\nTickets: 
- https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=http
- s%3A%2F%2Fwww.ticketmaster.com%2Fax-and-the-hatchetmen-the-late-san-franci
- sco-california-10-28-2026%2Fevent%2F1C0064ABAD33F4FD\nDetails: https://dot
- hebay.com/events/2026/10/28/ax-the-hatchetmen-tickets\nSource: DoTheBay
+DESCRIPTION:The Late Checkout Tour 2026\nAx and the Hatchetmen\nwith The R
+ are Occasions\n\nWednesday\, October 28 | August Hall\n\n5+\nThe Late Chec
+ kout Tour 2026\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4
+ 272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fax-and-the-hat
+ chetmen-the-late-san-francisco-california-10-28-2026%2Fevent%2F1C0064ABAD3
+ 3F4FD\nDetails: https://dothebay.com/events/2026/10/28/ax-the-hatchetmen-t
+ ickets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32199463/0168e74a-030b-44b0-af1d-25d6e0ff896c.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261015T212936Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/28/ax-the-hatchetmen-tickets
@@ -7360,6 +7365,41 @@ URL:https://dothebay.com/events/2026/10/31/dj-mandy-presents-the-raveyard-
  tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dayfall: Glitterati
+DTSTART;TZID=America/Los_Angeles:20261031T190000
+DTEND;TZID=America/Los_Angeles:20261031T210000
+DTSTAMP:20261015T212936Z
+UID:dothebay-17959600@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:The Unicorn Syndicate Presents\nDayfall: Glitterati\nSaturday\
+ , October 31 | Rooftop at VIA\n\nDAYFALL returns with GLITTERATI\, a speci
+ al Halloween edition of its signature house music experience\, taking over
+  the Rooftop at Hotel VIA.\n\nInspired by the glamour\, freedom\, and deca
+ dence of disco’s golden era\, GLITTERATI brings together soulful house\,
+  disco-infused rhythms\, immersive visuals\, curated art\, and a vibrant c
+ reative community for an unforgettable evening above the city.\n\nSet agai
+ nst the San Francisco skyline\, expect captivating music\, atmospheric lig
+ hting\, elevated bites and cocktails\, and an intimate setting designed fo
+ r dancing\, connection\, and self-expression.\n\nThe perfect opening chapt
+ er to your Halloween night\, GLITTERATI invites you to dress up\, dance\, 
+ and celebrate in style before the night takes you wherever comes next.\n\n
+ Disco glamour is encouraged. Think shimmering fabrics\, metallics\, bold s
+ ilhouettes\, vintage elegance\, and unapologetic individuality.\n\nCome fo
+ r the music. Dress for the moment. Stay for the experience.\n\n21+\nThe Un
+ icorn Syndicate Presents\n\nTickets: https://consumer.pxf.io/APvP5J?u=http
+ s%3A%2F%2Fwww.eventbrite.com%2Fe%2Fglitterati-by-dayfall-tickets-200280320
+ 7307%3Faff%3DDoTheBay\nDetails: https://dothebay.com/events/2026/10/31/day
+ fall-glitterati-halloween-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34977560/c0ba21ba-dad1-4b54-af16-678fc6dba038.jpg
+LAST-MODIFIED:20261015T212936Z
+LOCATION:Rooftop at VIA\, 138 King St\, San Francisco\, CA\, 94107
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/31/dayfall-glitterati-halloween-ti
+ ckets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 SF Symphony: Elim Chan Conducts Adams Mendelssohn + Brahms (O
  ct. 29-31)
 DTSTART;TZID=America/Los_Angeles:20261031T193000
@@ -7858,22 +7898,22 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/1/six60-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Baby Smoove Live! - The Purple Heart Tour
+SUMMARY:Baby Smoove
 DTSTART;TZID=America/Los_Angeles:20261101T200000
 DTEND;TZID=America/Los_Angeles:20261101T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261015T212936Z
 UID:dothebay-17877376@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:All Ages\n\nTickets: https://ticketmaster.evyy.net/c/253185/26
- 4167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fbaby-smo
- ove-live-the-purple-heart-san-francisco-california-11-01-2026%2Fevent%2F1C
- 006532269EDBCF\nDetails: https://dothebay.com/events/2026/11/1/baby-smoove
- -live-the-purple-heart-tour-tickets\nSource: DoTheBay
+DESCRIPTION:5+\nThe Purple Heart Tour\n\nTickets: https://ticketmaster.evy
+ y.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmast
+ er.com%2Fbaby-smoove-live-the-purple-heart-san-francisco-california-11-01-
+ 2026%2Fevent%2F1C006532269EDBCF\nDetails: https://dothebay.com/events/2026
+ /11/1/baby-smoove-live-the-purple-heart-tour-tickets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34589264/7cf0a218-663c-4130-aefc-0cd87fa842a3.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261015T212936Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/1/baby-smoove-live-the-purple-hear
@@ -9177,6 +9217,36 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/9/sienna-spiro-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karaoke: NightZ @ Z
+DTSTART;TZID=America/Los_Angeles:20261109T190000
+DTEND;TZID=America/Los_Angeles:20261109T210000
+DTSTAMP:20261015T212936Z
+UID:dothebay-17956742@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Join us for Karaoke in Z Space's spacious lobby-the perfect ch
+ ance to cut loose and belt out your favorite tunes while enjoying a few dr
+ inks with your friends. Whether you like torch songs or bangers\, whether 
+ you are country or rock n' roll\, whether you are an operatic star or punk
+  rock screamer\, this is your chance to shine. All skill levels are welcom
+ e in our judgement free zone!\n\nHappy Hour is from 7pm - 8pm! Join us for
+  our 3\, 2\, 1\, deal - $3 off cocktails\, $2 off wine\, and $1 off beer. 
+ While we have a full bar and some snacks for sale\, please feel free to br
+ ing your own dinner or have food delivered to our space. No outside bevera
+ ges\, please.\n\nReservations are highly encouraged for this FREE event\, 
+ so we know roughly how many people to expect. Thank you!\n\nFree RSVP.\n\n
+ Presented by Z Space\n\nFree\nZ Space\n\nTickets: http://www.zspace.org\nD
+ etails: https://dothebay.com/events/2026/11/9/karaoke-nightz-z-tickets\nSo
+ urce: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34962768/22b7278f-662d-46d2-8e38-df97ee041b93.jpg
+LAST-MODIFIED:20261015T212936Z
+LOCATION:Z Space - Steindler Stage\, 450 Florida St\, San Francisco\, CA\,
+  94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/9/karaoke-nightz-z-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weston Estate
@@ -12098,6 +12168,43 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/q-marsden-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Concert & Evensong at St. Luke's Episcopal Church: Eric Choate
+DTSTART;TZID=America/Los_Angeles:20261122T151500
+DTEND;TZID=America/Los_Angeles:20261122T171500
+DTSTAMP:20261015T212936Z
+UID:dothebay-17956753@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Sun\, Nov 22\, 3:15pm Concert\; 4:00pm Evensong\n\nJoin us at 
+ St. Luke's Episcopal Church in San Francisco\nSt. Luke's Episcopal Church 
+ warmly invites you to an afternoon of inspiring music and reflection at 17
+ 55 Clay Street (@ Van Ness)\, San Francisco\, CA 94109.\nFor directions or
+  more information\, visit www.stlukessf.org\nor contact us at (415) 673-73
+ 27 * office@stlukessf.org\n\nComplimentary parking is available at the Old
+  First Garage (1725 Sacramento St.)\n\n3:15pm- Organ Concert-Eric Choate\n
+ Eric Choate is a composer\, conductor\, and organist whose music has been 
+ praised for its "highly inventive approach to the interleaving of polyphon
+ ic voices" (The Rehearsal Studio) and described as "rapturous" and "quietl
+ y majestic" (Textura.org). His works are published by E.C. Schirmer and VO
+ CES8 Publishing\, with recordings on the Priory Records\, Arsis Audio and 
+ Ulysses Arts labels. His music has been performed by artists including VOC
+ ES8\, musicians of the San Francisco Symphony\, Berkeley Symphony\, Americ
+ an Bach Soloists\, Las Cruces Symphony\, Friction Quartet\, Brian Thorsett
+ \, and choirs worldwide.\n\n4:00pm- Evensong with St. Luke's Choir\n\nFree
+ \n\nPresented by St. Luke's Episcopal Church.\n\nFree\nSt. Luke's Episcopa
+ l Church\n\nTickets: https://www.stlukessf.org/welcome\nDetails: https://d
+ othebay.com/events/2026/11/22/concert-evensong-at-st-luke-s-episcopal-chur
+ ch-eric-choate-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34962846/012bc091-5978-4665-9c97-40d6f1fdcf33.jpg
+LAST-MODIFIED:20261015T212936Z
+LOCATION:St. Luke's Episcopal Church\, 1755 Clay St\, San Francisco\, CA\,
+  94109
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/22/concert-evensong-at-st-luke-s-e
+ piscopal-church-eric-choate-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Legends Awards
 DTSTART;TZID=America/Los_Angeles:20261122T180000
 DTEND;TZID=America/Los_Angeles:20261122T200000
@@ -14651,6 +14758,50 @@ LAST-MODIFIED:20261014T214646Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/13/dimensions-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Willi Carlisle
+DTSTART;TZID=America/Los_Angeles:20261214T200000
+DTEND;TZID=America/Los_Angeles:20261214T220000
+DTSTAMP:20261015T212936Z
+UID:dothebay-17614469@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
+ to show.\n\nAnother Planet Entertainment Presents\n\nTickets: https://tick
+ etmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fww
+ w.ticketweb.com%2Fevent%2Fwilli-carlisle-the-independent-tickets%2F1424968
+ 4%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefr
+ om%3DCFC_BUYAT_234705\nDetails: https://dothebay.com/events/2026/12/14/wil
+ li-carlisle-tickets\nSource: DoTheBay
+GEO:37.7755362;-122.4376556
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33346782/47ab167c-4a8f-41ff-a612-ddee36ad8e63.jpg
+LAST-MODIFIED:20261015T212936Z
+LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
+ 117
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/14/willi-carlisle-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hunxho
+DTSTART;TZID=America/Los_Angeles:20261214T200000
+DTEND;TZID=America/Los_Angeles:20261214T220000
+DTSTAMP:20261015T212936Z
+UID:dothebay-17877378@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:All Ages\n\nTickets: https://ticketmaster.evyy.net/c/253185/26
+ 4167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fhunxho-s
+ an-francisco-california-12-14-2026%2Fevent%2F1C006536D0E89103\nDetails: ht
+ tps://dothebay.com/events/2026/12/14/hunxho-tickets\nSource: DoTheBay
+GEO:37.7875878;-122.4096056
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34589266/7151c72b-3af4-42b7-a472-04fabb5cc5f4.jpg
+LAST-MODIFIED:20261015T212936Z
+LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/14/hunxho-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free 5th Annual Holiday Caroling w/ Cider + Treats (Novato)
