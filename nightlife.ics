@@ -40,29 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Transformaciones
-DTSTART;TZID=America/Los_Angeles:20261007T150000
-DTEND;TZID=America/Los_Angeles:20261007T170000
-DTSTAMP:20261008T104232Z
-UID:dothebay-17551152@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:Grupo de Apoyo para TGNCI (Transgénero\, Género No Conforme\
- , No Binario e Intersex) Latine inmigrantes\n\nEL GRUPO SE FACILITA EN ESP
- AÑOL Con Dr. Silvia Sandoval\n\nEl 1er y 3er Miércoles\n\n3:00 a 5:00pm\
- n\n940 Howard St.\n\nSe servira una comida\n\nPara más información: ista
- iti@sfaf.org | 415-738-3544\n\nMade possible through funding by ViiV Healt
- hcare\, Gilead Sciences\, and Elizabeth Taylor AIDS Foundation\n\nDetails:
-  https://dothebay.com/events/2026/10/7/transformaciones-tickets\nSource: D
- oTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33050799/63cf2c2f-6f24-45ce-98c9-68a7974c2505.png
-LAST-MODIFIED:20261008T104232Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/7/transformaciones-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
 DTSTART;TZID=America/Los_Angeles:20261007T163000
 DTEND;TZID=America/Los_Angeles:20261007T220000
@@ -94,30 +71,6 @@ URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-67
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bark-Cade
-DTSTART;TZID=America/Los_Angeles:20261007T170000
-DTEND;TZID=America/Los_Angeles:20261007T190000
-DTSTAMP:20261008T104232Z
-UID:dothebay-17425482@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:Have you been craving a casual weeknight hangout with friends\
- , gear optional\, where you can sprawl out on the mats\, play some video g
- ames\, or curl up under blankets with popcorn and cartoons? Then come chec
- k out BarkCade at Lone Star Saloon. Think of it as a low-effort\, low-inte
- nsity midweek reset.\n\nMark your calendars and hope to see you at BarkCad
- e from 5-9 PM. No cover\, come hang out and play\n\nFree\n\nDetails: https
- ://dothebay.com/events/2026/10/7/bark-cade-tickets\nSource: DoTheBay
-GEO:37.77216749999999;-122.4108778
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32438742/90993df0-685b-4539-a53c-4df66cec1b72.png
-LAST-MODIFIED:20261008T104232Z
-LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
- 103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/7/bark-cade-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Tech Week: Free High-Tech Meets High-Fashion Night
 DTSTART;TZID=America/Los_Angeles:20261007T180000
 DTEND;TZID=America/Los_Angeles:20261008T010000
@@ -144,96 +97,6 @@ LOCATION:Madarae\, 46 Minna Street\, San Francisco\, CA 94105
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-tech-week-free-hightech-meets-highfashion-n
  ight/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 LGBTQIA+ Self-Defense Class: Sliding Scale (Oakland)
-DTSTART;TZID=America/Los_Angeles:20261007T180000
-DTEND;TZID=America/Los_Angeles:20261007T203000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639897@sf-cal
-SEQUENCE:0
-CATEGORIES:Lgbtq
-DESCRIPTION:Submitted by the Event OrganizerNynke KoopmansQueer\, trans\, 
- gay\, lesbian\, and allies\, Self Defense Class\nPractice boundary setting
- \, bystander intervention\, de-escalation\, and physical skills. This Leve
- l One Self Defense class is for folks who identify as LGBTQIA+ and their a
- llies.\n\nOctober 7th\, 2026\, 6-830pm\, Oakland. $10-50 sliding scale (No
-  one turned away for lack of funds)\n\nEmail for registration: SelfEmpower
- mentSD@gmail.com (must be registered to participate\, register early to re
- serve your spot!)\n12 awesome instructors/assistants ready to support you 
- in getting trained up!\n\nhttps://www.instagram.com/reel/DdEv2cCuEUq/?stkn
- =azV3Y3RwOTZwYnNi\n\nFree\n\nTickets: https://www.instagram.com/reel/DdEv2
- cCuEUq/?stkn=azV3Y3RwOTZwYnNi\nDetails: https://sf.funcheap.com/2026-lgbtq
- ia-selfdefense-class-sliding-scale-oakland/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/lgbtqi
- a-jpeg.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Self Defense Studio\, Oakland
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/2026-lgbtqia-selfdefense-class-sliding-scale-o
- akland/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Takeover Wednesdays: Industry Night - DJ Chicken Skratch - Wednesd
- ay\, October 7\, 2026
-DTSTART;TZID=America/Los_Angeles:20261007T190000
-DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261008T104232Z
-UID:dothebay-17818910@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:We're happy to welcome DJ\n\nChicken Skratch back to Cigar Bar
- \nfor a Takeover Wednesdays patio set.\nSet in Cigar Bar's open-air courty
- ard\, Takeover Wednesdays\nbrings together eclectic music\, craft cocktail
- s\, food\, and a relaxed midweek\natmosphere in the heart of San Francisco
- .\n\nExpect a genre-bending soundtrack\, community-focused energy\,\nand p
- lenty of room for the night to evolve from laid-back listening into\ndanci
- ng.\n\nHappy Hour drink specials!\n\nCourtyard atmosphere.\n\nEclectic gro
- oves.\n\nNo cover | 21+\nTime: 7:00-10:00 PM.\n\nLocation: 850 Montgomery 
- St.\, San Francisco.\n\nMust be 21+\n\nFree\nCigar Bar & Grill PRESENTS:\n
- \nDetails: https://dothebay.com/events/2026/10/7/takeover-wednesdays-indus
- try-night-dj-chickenscratch-wednesday-october-7-2026-tickets\nSource: DoTh
- eBay
-GEO:37.79715729999999;-122.4034061
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34310370/e30a6e9d-17bf-4f58-8461-9362b95b926e.jpg
-LAST-MODIFIED:20261008T104232Z
-LOCATION:Cigar Bar & Grill\, 850 Montgomery St.\, San Francisco\, CA\, 941
- 33
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/7/takeover-wednesdays-industry-nig
- ht-dj-chickenscratch-wednesday-october-7-2026-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Play X Land
-DTSTART;TZID=America/Los_Angeles:20261007T210000
-DTEND;TZID=America/Los_Angeles:20261007T230000
-DTSTAMP:20261008T104232Z
-UID:dothebay-17699156@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night 
- hosted by Cat Club in partnership with the Leather Alliance in San Francis
- co.\n\n——\n\nGo-Go's live and onstage! Don't forget to bring your tip 
- money\n\nOne of a kind dungeon featuring guest hosts and performances\, as
-  well as furniture and suspension hooks\, and toys that you are more than 
- welcome to play with!\n\n——\n\n9pm-2am\n\n$10 in Fetishwear / $20 in S
- treet Clothes\n\n——\n\nTHE CAT CLUB\n\n1190 Folsom\, SF 21+\n\n(wednes
- days)\n\n(more info)\n\nNO PHOTOS - No photos are allowed to be taken insi
- de the club during this event. No photos may be taken of patrons at any ti
- me without consent.\n\nNO TOUCHING WITHOUT CONSENT - This is a general rul
- e for all events at Cat Club and this event is no exception. DO NOT TOUCH 
- ANY INDIVIDUAL WITHOUT OBTAINING CONSENT. Consent means an ENTHUSIASTIC YE
- S.Whatever it is\, the way you tell your story online can make all the dif
- ference.\n\n$10\n\nDetails: https://dothebay.com/events/2026/10/7/play-x-l
- and-tickets\nSource: DoTheBay
-GEO:37.77541739999999;-122.409985
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33742823/55487b79-2d55-4458-a349-be3a02ad51bf.jpg
-LAST-MODIFIED:20261008T104232Z
-LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/7/play-x-land-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Grupo de Apoyo Latino

@@ -42,159 +42,6 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Ship Tours
-DTSTART;TZID=America/Los_Angeles:20261007T100000
-DTEND;TZID=America/Los_Angeles:20261007T160000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-52795-20261007@sf-cal
-SEQUENCE:2
-CATEGORIES:Ship Tours
-DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
- F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
- om/fleet-week-pier-39/
-GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Pier 35\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/ship-tours/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF’s Fleet Fest 2026: USAF Band of Golden West Brass (Ghirardell
- i Square)
-DTSTART;TZID=America/Los_Angeles:20261007T140000
-DTEND;TZID=America/Los_Angeles:20261007T170000
-DTSTAMP:20261014T214646Z
-UID:funcheap-1636689@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-fest-2026-usaf-band-of-golden-west-brass-ghir
- ardelli-square/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261014T214646Z
-LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
- 9
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-fest-2026-usaf-band-of-golden-west-b
- rass-ghirardelli-square/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:USAF Golden West Brass at Ghirardelli Square
-DTSTART;TZID=America/Los_Angeles:20261007T140000
-DTEND;TZID=America/Los_Angeles:20261007T170000
-DTSTAMP:20261014T214646Z
-UID:funcheap-1639615@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:GraphicJoin us at Ghirardelli Square as San Francisco celebrat
- es Fleet Week with live music\, waterfront events\, and more.\nService mem
- bers can also enjoy 15% off at participating retailers with valid ID. Here
- ’s who’s participating:\n\nGhirardelli Chocolate\n\nGigi + Rosie\n\nBr
- oad Street Oyster Co.\n\nCultivar\n\nHardware Coffee Co.\n\nLola\n\nPalett
- e Tea House\n\nSan Francisco Brewing Co.\n\nVom Fass\n\nYap\n\nFree\n\nTic
- kets: https://www.ghirardellisq.com/ongoing-events/2026/9/18/fleet-week-ev
- ents-amp-offers\nDetails: https://sf.funcheap.com/usaf-golden-west-brass-g
- hirardelli-square/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Instag
- ram-4-5.jpg
-LAST-MODIFIED:20261014T214646Z
-LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
- 9
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/usaf-golden-west-brass-ghirardelli-square/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Navy Band SW Woodwind Quintet
-DTSTART;TZID=America/Los_Angeles:20261007T150000
-DTEND;TZID=America/Los_Angeles:20261007T160000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53564-20261007@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/sfs-fleet-fest-2026-navy-band-sw-woodwind-quintet-grace-cathed
- ral/
-GEO:37.7918593;-122.4133739
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Grace Cathedral\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1st Marine Division Brass Band
-DTSTART;TZID=America/Los_Angeles:20261007T170000
-DTEND;TZID=America/Los_Angeles:20261007T180000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53563-20261007@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/sfs-fleet-fest-2026-brass-band-concert-grace-cathedral/
-GEO:37.7916333;-122.4124837
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Huntington Park (Nob Hill)\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Navy Band SW Brass Band
-DTSTART;TZID=America/Los_Angeles:20261007T170000
-DTEND;TZID=America/Los_Angeles:20261007T180000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53565-20261007@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/sfs-fleet-fest-2026-navy-band-sw-brass-band-japantown/
-GEO:37.78609123178;-122.42991563587
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Osaka Way in Japantown\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:USAF Band of Golden West – Mobility
-DTSTART;TZID=America/Los_Angeles:20261007T170000
-DTEND;TZID=America/Los_Angeles:20261007T180000
-DTSTAMP:20261010T172246Z
-UID:fleetweeksf-53567-20261007@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Details: https://fleetweeksf.org/events/free-concert-series/\n
- Source: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.f
- uncheap.com/sfs-fleet-fest-2026-usaf-band-of-golden-west-mobility-pier-39/
-GEO:37.808673;-122.409821
-LAST-MODIFIED:20261010T172246Z
-LOCATION:Pier 39\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261008T100000
 DTEND;TZID=America/Los_Angeles:20261008T160000
 DTSTAMP:20261010T172246Z
@@ -1151,26 +998,25 @@ BEGIN:VEVENT
 SUMMARY:Navy Band SW Brass Band
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261012T110211Z
+DTSTAMP:20261015T044918Z
 UID:fleetweeksf-53587-20261010@sf-cal
-SEQUENCE:8
+SEQUENCE:9
 CATEGORIES:Music
 DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
  ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
  Check out our 2026 free concert calendar to see when we’re performing in
   your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
  t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://dothebay.com/events/weekly/sat/off-the-grid-treasure-island-tickets
- \n- https://dothebay.com/events/2026/10/10/india-basin-fleet-week-family-d
- ay-tickets\n- https://dothebay.com/events/2026/10/10/dirtybird-x-off-the-g
- rid-fleet-week-treasure-island-tickets\n- https://sf.funcheap.com/sfs-flee
- t-fest-2026-navy-band-sw-brass-band-fleet-fest/\n- https://sf.funcheap.com
- /free-boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\n- https:/
- /sf.funcheap.com/2026-fleet-week-family-day-waterfront-concert-free-boat-r
- ides-india-basin/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-sw-brass-
- band-fleet-fest/
+ ttps://dothebay.com/events/2026/10/10/india-basin-fleet-week-family-day-ti
+ ckets\n- https://dothebay.com/events/2026/10/10/dirtybird-x-off-the-grid-f
+ leet-week-treasure-island-tickets\n- https://sf.funcheap.com/sfs-fleet-fes
+ t-2026-navy-band-sw-brass-band-fleet-fest/\n- https://sf.funcheap.com/free
+ -boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\n- https://sf.f
+ uncheap.com/2026-fleet-week-family-day-waterfront-concert-free-boat-rides-
+ india-basin/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-sw-brass-band-
+ fleet-fest/
 GEO:37.769322;-122.4315934
-LAST-MODIFIED:20261012T110211Z
+LAST-MODIFIED:20261015T044918Z
 LOCATION:K9 Heroes - Duboce Park\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -1375,26 +1221,25 @@ BEGIN:VEVENT
 SUMMARY:Navy Band SW Brass Band
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261012T110211Z
+DTSTAMP:20261015T044918Z
 UID:fleetweeksf-53589-20261010@sf-cal
-SEQUENCE:8
+SEQUENCE:9
 CATEGORIES:Music
 DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
  ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
  Check out our 2026 free concert calendar to see when we’re performing in
   your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
  t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://dothebay.com/events/weekly/sat/off-the-grid-treasure-island-tickets
- \n- https://dothebay.com/events/2026/10/10/india-basin-fleet-week-family-d
- ay-tickets\n- https://dothebay.com/events/2026/10/10/dirtybird-x-off-the-g
- rid-fleet-week-treasure-island-tickets\n- https://sf.funcheap.com/sfs-flee
- t-fest-2026-navy-band-sw-brass-band-fleet-fest/\n- https://sf.funcheap.com
- /free-boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\n- https:/
- /sf.funcheap.com/2026-fleet-week-family-day-waterfront-concert-free-boat-r
- ides-india-basin/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-sw-brass-
- band-fleet-fest/
+ ttps://dothebay.com/events/2026/10/10/india-basin-fleet-week-family-day-ti
+ ckets\n- https://dothebay.com/events/2026/10/10/dirtybird-x-off-the-grid-f
+ leet-week-treasure-island-tickets\n- https://sf.funcheap.com/sfs-fleet-fes
+ t-2026-navy-band-sw-brass-band-fleet-fest/\n- https://sf.funcheap.com/free
+ -boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\n- https://sf.f
+ uncheap.com/2026-fleet-week-family-day-waterfront-concert-free-boat-rides-
+ india-basin/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-sw-brass-band-
+ fleet-fest/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261012T110211Z
+LAST-MODIFIED:20261015T044918Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -1758,5 +1603,46 @@ LAST-MODIFIED:20261005T235648Z
 LOCATION:Golden Gate Park Bandshell\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off the Grid Treasure Island
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T130000
+DTSTAMP:20261015T044918Z
+UID:dothebay-17260589@sf-cal
+SEQUENCE:0
+CATEGORIES:Food & Drink
+DESCRIPTION:Off the Grid Treasure Island\nSaturdays | 11am–4pm | Citysid
+ e Park\, Treasure Island\n\nRSVP FOR YOUR FREE ROUNDTRIP FERRY PASS!\n\nTw
+ o Saturdays left on the island!\n\nOff the Grid Treasure Island wraps its 
+ fall season with two big Saturdays at Cityside Park. First comes a Fleet W
+ eek takeover with Dirtybird x EMPIRE on October 10\, then a pet-friendly f
+ inale on October 17!\n\nAdmission is free\, and complimentary ferry servic
+ e from the San Francisco Ferry Building is available with RSVP.\n\nSaturda
+ y\, Oct 10: Fleet Week on Treasure Island\nDirtybird x EMPIRE take over th
+ e stage\, alongside our biggest food lineup of the fall. Fleet Week's air 
+ show is on the same weekend\, with the Blue Angels flying over the Bay. Br
+ ing a blanket\, grab lunch and look up.\n\nSaturday\, Oct 17: Paws on the 
+ Bay\, The Finale\nClose out the season with your four-legged crew. Her DJ 
+ Club is on the decks for a pet-friendly send-off on the lawn.\n\nWhat to E
+ xpect:\n\nFree Ferry from San Francisco\nRSVP for a free ferry pass coveri
+ ng two adults and two children!\nEach pass is valid for one guest and one 
+ free roundtrip ferry ride to and from Off the Grid Treasure Island. Passes
+  are limited and do not reserve or guarantee a specific ferry departure ti
+ me.\n\nOne Island. OTG Creators. Multiple Cuisines.\nEach Saturday\, more 
+ than 15 food creators serve Vietnamese\, Korean\, Japanese\, Hawaiian\, Me
+ xican\, Italian\, German\, BBQ\, fried chicken\, sandwiches and sweets. Th
+ ere's something for every craving\, from go-to favorites to something enti
+ rely...\n\nFree\nOff the Grid Presents\n\nTickets: https://offthegrid.com/
+ treasureisland/\nDetails: https://dothebay.com/events/weekly/sat/off-the-g
+ rid-treasure-island-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/31665304/885c1fe6-f714-4d63-a71e-9afd592d3e9f.png
+LAST-MODIFIED:20261015T044918Z
+LOCATION:Cityside Park\, Treasure Island\, 387 Avenue of the Palms\, San F
+ rancisco\, CA\, 94130
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/sat/off-the-grid-treasure-island-ti
+ ckets
 END:VEVENT
 END:VCALENDAR

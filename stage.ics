@@ -40,38 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Queen Budapest
-DTSTART;TZID=America/Los_Angeles:20261007T190000
-DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261008T104232Z
-UID:dothebay-17829784@sf-cal
-SEQUENCE:2
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:On July 27\, 1986\, Queen performed the largest-ever stadium c
- oncert at the Népstadion in Budapest in front of 80\,000 ecstatic fans.\n
- \nThe concert was part of the famed Magic Tour\, which was the last time t
- he band toured with lead singer Freddie Mercury. Now\, this original conce
- rt film has been beautifully rescanned and remastered in 4K alongside a dy
- namic new audio mix\, featuring many of Queen's favorite tracks— "Bohemi
- an Rhapsody\,” "Crazy Little Thing Called Love\," "I Want To Break Free
- ” and "We Are The Champions."\n\nWith three years to go before the fall 
- of the Berlin Wall\, this was the first Western rock concert performed in 
- a stadium behind the then Iron Curtain. It was of such significance to the
-  Hungarian authorities and film industry that a group of the country’s t
- op film cameramen and technicians were brought together to film it for pos
- terity.\n\nThis film can be used with loyalty cards or our 2026 annual Cin
- emaSF passes\n\nDetails: https://dothebay.com/events/2026/10/7/queen-budap
- est-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
- m/5-grand-lake-theater-movie-night-oakland-originals-live-qa/
-GEO:37.7760419;-122.498063
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34363032/824467cd-09f2-4e6f-9d71-d6009f243f17.jpg
-LAST-MODIFIED:20261008T104232Z
-LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/7/queen-budapest-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Underground Labs: Kronos
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T220000
@@ -105,54 +73,6 @@ LOCATION:Studio 1\, San Francisco State University\, 1756 Holloway Ave\, S
  an Francisco\, CA 94132
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/underground-labs-kronos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Love Massacre
-DTSTART;TZID=America/Los_Angeles:20261007T193000
-DTEND;TZID=America/Los_Angeles:20261007T213000
-DTSTAMP:20261008T104232Z
-UID:dothebay-17873055@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:HI NRG presents:\n\nLOVE MASSACRE\n\nSet in a surprisingly min
- imalist San Francisco\, Patrick Tam’s stylish slasher movie manages to e
- voke both Antonioni and Mario Bava in this tale of a ravishing young co-ed
-  (Brigitte Lin) whose studly boyfriend (Chang Kuo-chu) turns into a dement
- ed stalker after the suicide of his sister.\n\nFor our Annual Pass Members
-  and Loyalty Card Holders:\n\nTickets for this film can be acquired in-per
- son at the Box Office with loyalty cards or our Annual CinemaSF passes.\n\
- nHI NRG curated DJ SET at 7:00 PM | FILM at 7:30 PM\n\nDetails: https://do
- thebay.com/events/2026/10/7/love-massacre-tickets-d0qvjqk\nSource: DoTheBa
- y
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34570114/48775575-763b-408c-afaa-cb4122ee8c51.jpg
-LAST-MODIFIED:20261008T104232Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/7/love-massacre-tickets-d0qvjqk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sf Party
-DTSTART;TZID=America/Los_Angeles:20261007T200000
-DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261008T104232Z
-UID:dothebay-17923752@sf-cal
-SEQUENCE:1
-CATEGORIES:Dance
-DESCRIPTION:GOTH NITE RETURNS OCTOBER 26 NYC & OCTOBER 28 SF\n\n$20 Single
-  Ticket\n\nParty Pass — 5-pack & 10-pack discounts available\n\nClass Se
- ries Set: 8 PM\n\nLine Dance Lessons: 8:30 & 10:00 PM\n\nOpen floor reques
- ts all night\n\nGet Ready\n\nDress to dance — wear leather-soled shoes o
- r sneakers\n\nNo partner needed — come as you are!\n\n21+\n\nPhoto: Andy
-  Antezana Careaga\n\n$20\, 21+\n\nDetails: https://dothebay.com/events/202
- 6/10/7/sf-party-tickets\nSource: DoTheBay
-GEO:37.7634058;-122.4079386
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34802993/33769ce6-a380-4cd9-967b-b7cbad147a4a.png
-LAST-MODIFIED:20261008T104232Z
-LOCATION:Verdi Club\, 2424 Mariposa Street\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/7/sf-party-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The History of Concrete
@@ -3355,6 +3275,36 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/they-live-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thick & Tired: A Drag Show
+DTSTART;TZID=America/Los_Angeles:20261025T180000
+DTEND;TZID=America/Los_Angeles:20261025T200000
+DTSTAMP:20261015T044918Z
+UID:dothebay-17956305@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:It’s every gay’s favorite holiday season: Halloween!\nCum 
+ get Spooky Ooky Dooky with us at Thick & Tired October\, our 3rd show!!\n\
+ nSunday\, October 25th at Madrone Art Bar from 6-8pm for some spooky\, sil
+ ly\, slutty fun!\n\nBack for our 3rd installment of your favorite new show
+ \, Thick & Tired! Now thicker and more tired! We’re spooky and sleepy! W
+ e’re fat and festive!\n\nFeaturing:\nFierce Fat Femme @fiercefatfemme\nM
+ iss Bea Haven @missbea_haven\n\nSuggested donation: $10\n\nDoors at 5pm\nS
+ how at 6pm\n\nHosted and Produced by:\nAli Scat @ali.scat.meow\nGlamputee 
+ @glamputee\n\nAccess Features: Madrone is an ADA compliant venue. More inf
+ o about access features can be found on the Madrone Art Bar website. With 
+ specific questions\, please reach out to the organizers via DMs. Masking i
+ s encouraged.\n\nPoster Art by: Holly Graphics @hollys.graphics\n\nFree\nO
+ asis Arts x Madrone\n\nDetails: https://dothebay.com/events/2026/10/25/thi
+ ck-tired-a-drag-show-tickets\nSource: DoTheBay
+GEO:37.7742426;-122.4373238
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34960587/3c0e0b9a-71d5-4805-a87c-bf8e60c0d866.jpg
+LAST-MODIFIED:20261015T044918Z
+LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA\, 94117
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/25/thick-tired-a-drag-show-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$10 Off Tix: SF’s “Terror Vault” 1874 Halloween Haunt (2026)

@@ -41,25 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:ER Taylor Elementary School Street Block Party
-DTSTART;TZID=America/Los_Angeles:20261007T120000
-DTEND;TZID=America/Los_Angeles:20261007T160000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1600750-2026-10-07T12:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Somerset St from Burrows St to Bacon St\n\nPermit stat
- us: Application In Review\nTimes are SFMTA street-closure permit times and
-  include setup and teardown\nSource: DataSF Temporary Street Closures\n\nD
- etails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (p
- ending permit)
-GEO:37.727199;-122.407804
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Somerset St between Bacon St and Burrows St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Double Ten Celebration
 DTSTART;TZID=America/Los_Angeles:20261010T130000
 DTEND;TZID=America/Los_Angeles:20261010T170000
