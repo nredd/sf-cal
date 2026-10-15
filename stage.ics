@@ -40,41 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Underground Labs: Kronos
-DTSTART;TZID=America/Los_Angeles:20261007T190000
-DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639645@sf-cal
-SEQUENCE:0
-CATEGORIES:Theater Performance
-DESCRIPTION:Submitted by the Event OrganizerKronos\nGo behind the scenes w
- ith the Kronos Quartet as they rehearse new works and share a look at thei
- r creative process. In the process\, Kronos has become one of the most cel
- ebrated and influential groups of our era\, performing thousands of concer
- ts worldwide\, releasing more than 70 recordings of extraordinary breadth 
- and creativity\, and collaborating with many of the world’s most accompl
- ished composers and performers. Through its nonprofit organization\, Krono
- s Performing Arts Association (KPAA)\, Kronos has commissioned more than 1
- \,100 works and arrangements for string quartet—including the recently c
- ompleted 50 for the Future library of free\, educational repertoire. Krono
- s has received more than 40 awards\, including three Grammy Awards and the
-  Polar Music\, Avery Fisher\, and Edison Klassiek Oeuvre Prizes—among th
- e most prestigious awards given to musicians. In 2024\, the Library of Con
- gress announced its acquisition of the Archive of Kronos Quartet/Kronos Pe
- rforming Arts Association\, a collection that includes 50 years’ worth o
- f manuscripts\, instruments\, costumes\, video and audio recordings\, phot
- ographs\, and more.\n\nFree\n\nTickets: https://lcalive.org/public/events/
- 496c1896-1a0a-4d86-bbd4-eb41acb25225\nDetails: https://sf.funcheap.com/und
- erground-labs-kronos/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Screen
- shot-2026-09-28-at-1.14.23-PM.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Studio 1\, San Francisco State University\, 1756 Holloway Ave\, S
- an Francisco\, CA 94132
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/underground-labs-kronos/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The History of Concrete
 DTSTART;TZID=America/Los_Angeles:20261008T173000
 DTEND;TZID=America/Los_Angeles:20261008T193000
@@ -1000,9 +965,9 @@ BEGIN:VEVENT
 SUMMARY:FOGCUTTER FILM SERIES: VOLUME 26 - The Buddy Holly Story
 DTSTART;TZID=America/Los_Angeles:20261014T180000
 DTEND;TZID=America/Los_Angeles:20261014T200000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261015T113924Z
 UID:dothebay-17884686@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:FOGCUTTER FILM SERIES VOLUME 26\n\nTHE BUDDY HOLLY STORY (1978
  )\n\nThe Fogcutter Film Series\n\nhosted by guest host Chuck Prophet\n\nwi
@@ -1025,13 +990,11 @@ DESCRIPTION:FOGCUTTER FILM SERIES VOLUME 26\n\nTHE BUDDY HOLLY STORY (1978
  e covered his compositions. Chuck often collaborates with his wife Stephan
  ie Finch who is a talented singer\, keyboardist and guitarist.\n\nChuck Pr
  ophet's musical journey began with Green on Red where he toured and record
- ed d...\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20026?site
- Token=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay.com/events/202
- 6/10/14/fogcutter-film-series-volume-26-the-buddy-holly-story-tickets\nSou
- rce: DoTheBay
+ ed d...\n\nDetails: https://dothebay.com/events/2026/10/14/fogcutter-film-
+ series-volume-26-the-buddy-holly-story-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34622624/8edd5da5-9912-4c5f-a751-8e3239ef7482.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261015T113924Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/14/fogcutter-film-series-volume-26
@@ -1083,22 +1046,20 @@ BEGIN:VEVENT
 SUMMARY:Event Horizon
 DTSTART;TZID=America/Los_Angeles:20261014T193000
 DTEND;TZID=America/Los_Angeles:20261014T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261015T113924Z
 UID:dothebay-17884758@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:In 2047\, a group of astronauts are sent to investigate and sa
  lvage the starship Event Horizon which disappeared mysteriously seven year
  s before on its maiden voyage. However\, it soon becomes evident that some
  thing sinister resides in its corridors.\n\nThis film can be used with loy
- alty cards or our 2026 annual CinemaSFBay passes\n\nTickets: https://ticke
- ting.uswest.veezi.com/purchase/19906?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\
- nDetails: https://dothebay.com/events/2026/10/14/event-horizon-tickets\nSo
- urce: DoTheBay
+ alty cards or our 2026 annual CinemaSFBay passes\n\nDetails: https://dothe
+ bay.com/events/2026/10/14/event-horizon-tickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34623025/d0b12371-6739-4eea-bed5-ae2cea24b352.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261015T113924Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/14/event-horizon-tickets
@@ -1107,22 +1068,21 @@ BEGIN:VEVENT
 SUMMARY:Sf Party
 DTSTART;TZID=America/Los_Angeles:20261014T200000
 DTEND;TZID=America/Los_Angeles:20261014T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261015T113924Z
 UID:dothebay-17923753@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Dance
 DESCRIPTION:GOTH NITE RETURNS OCTOBER 26 NYC & OCTOBER 28 SF\n\n$20 Single
   Ticket\n\nParty Pass — 5-pack & 10-pack discounts available\n\nBeginner
   + Intermediate PTwo-Step Lesson with Marianne: 8:00 PM\n\nLine Dance Less
  ons: 9:30PM\n\nOpen floor requests all night\n\nGet Ready\n\nDress to danc
  e — wear leather-soled shoes or sneakers\n\nNo partner needed — come a
- s you are!\n\n21+\n\nPhoto: Andy Antezana Careaga\n\n$20\, 21+\n\nTickets:
-  https://www.scuff.us/performances/rbkfdy36\nDetails: https://dothebay.com
- /events/2026/10/14/sf-party-tickets\nSource: DoTheBay
+ s you are!\n\n21+\n\nPhoto: Andy Antezana Careaga\n\n$20\, 21+\n\nDetails:
+  https://dothebay.com/events/2026/10/14/sf-party-tickets\nSource: DoTheBay
 GEO:37.7634058;-122.4079386
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34803000/ae57308f-975f-4fcb-9264-d30e4d8e0fd9.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261015T113924Z
 LOCATION:Verdi Club\, 2424 Mariposa Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/14/sf-party-tickets

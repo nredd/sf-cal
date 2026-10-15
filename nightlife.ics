@@ -40,65 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
-DTSTART;TZID=America/Los_Angeles:20261007T163000
-DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634902@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
- ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
- :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
- nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
- r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
- 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
- 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/7 $1 Wing Wed
- nesdays at Underdogs Cantina (SoMa)Wed 10/14 $1 Wing Wednesdays at Underdo
- gs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underdogs Cantina (SoMa)W
- ed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please 
- double check event information with the event organizer as events can be c
- anceled\, details can change after they are added to our calendar\, and er
- rors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-we
- dnesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-un
- derdogs-cantina-soma-67/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
- __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-67
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF Tech Week: Free High-Tech Meets High-Fashion Night
-DTSTART;TZID=America/Los_Angeles:20261007T180000
-DTEND;TZID=America/Los_Angeles:20261008T010000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634255@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:Submitted by the Event OrganizerCanvaXchange Fashion is launch
- ing its beta platform at THE STYLE UPGRADE\, an experiential event celebra
- ting the brilliant people\, unique personalities\, and vibrant culture def
- ining the San Francisco tech ecosystem.\nWe’re bringing together a highl
- y curated room of founders\, investors\, builders\, and creative operators
-  to playfully explore identity\, status\, and ambition through a showcase 
- where high-tech seamlessly meets high-fashion.\n\nThis event is a part of 
- #SFTechWeek—a week of events hosted by VCs and startups to bring togethe
- r the tech ecosystem. Learn more at www.tech-week.com.\n\nFree\n\nTickets:
-  https://partiful.com/e/jFlyp24yKyMBUcXgHv6v\nDetails: https://sf.funcheap
- .com/sf-tech-week-free-hightech-meets-highfashion-night/\nSource: Funcheap
-  SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/Xchang
- e-Fashion_THE-STYLE-UPGRADE-1x1-1.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Madarae\, 46 Minna Street\, San Francisco\, CA 94105
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sf-tech-week-free-hightech-meets-highfashion-n
- ight/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Grupo de Apoyo Latino
 DTSTART;TZID=America/Los_Angeles:20261008T150000
 DTEND;TZID=America/Los_Angeles:20261008T170000
@@ -1011,19 +952,19 @@ BEGIN:VEVENT
 SUMMARY:TransLife Drop-In
 DTSTART;TZID=America/Los_Angeles:20261014T130000
 DTEND;TZID=America/Los_Angeles:20261014T150000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261015T113924Z
 UID:dothebay-17551150@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:TransLife empowers and supports group members with whatever th
  ey are going through. We understand that life as a trans woman\, trans man
  \, or gender-fluid individual can be tough. Our group brings a blend of sp
  irituality\, friendship and community to give the support you need and the
   family you long for. Come join us.\n\nQuestions? Email Translife@sfaf.org
-  or call 415-487-8090.\n\nGroup held at 940 Howard St.\n\nTickets: https:/
- /www.sfaf.org/event/translife-drop-in-2/2026-10-14/\nDetails: https://doth
- ebay.com/events/2026/10/14/translife-drop-in-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261006T001200Z
+  or call 415-487-8090.\n\nGroup held at 940 Howard St.\n\nDetails: https:/
+ /dothebay.com/events/2026/10/14/translife-drop-in-tickets\nSource: DoTheBa
+ y
+LAST-MODIFIED:20261015T113924Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/14/translife-drop-in-tickets
@@ -1064,9 +1005,9 @@ SUMMARY:Takeover Wednesdays: Industry Night - DJ Mr. 45 - October 14\, 202
  6
 DTSTART;TZID=America/Los_Angeles:20261014T190000
 DTEND;TZID=America/Los_Angeles:20261014T210000
-DTSTAMP:20261009T182357Z
+DTSTAMP:20261015T113924Z
 UID:dothebay-17940409@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Takeover Wednesdays keeps the groove alive at Bochica @ Cigar 
  Bar with DJ Mr. 45. Set in Cigar Bar's courtyard\, Takeover Wednesdays bri
@@ -1075,13 +1016,12 @@ DESCRIPTION:Takeover Wednesdays keeps the groove alive at Bochica @ Cigar
  ing\, house\, disco\, funk\, and eclectic grooves.\n\nHappy Hour drink spe
  cials.\nCourtyard atmosphere.\nNo cover.\n\nVenue: Cigar Bar & Grill\, 850
   Montgomery St.\, San Francisco.\n\nMust be 21+\n\nFree\nCigar Bar & Grill
-  PRESENTS:\n\nTickets: https://www.cigarbarandgrill.com/index.php/entertai
- nment\nDetails: https://dothebay.com/events/2026/10/14/takeover-wednesdays
- -industry-night-dj-mr-45-october-14-2026-tickets\nSource: DoTheBay
+  PRESENTS:\n\nDetails: https://dothebay.com/events/2026/10/14/takeover-wed
+ nesdays-industry-night-dj-mr-45-october-14-2026-tickets\nSource: DoTheBay
 GEO:37.79715729999999;-122.4034061
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34884149/e88015e1-d186-4488-bf14-ad1fefdb7894.jpg
-LAST-MODIFIED:20261009T182357Z
+LAST-MODIFIED:20261015T113924Z
 LOCATION:Cigar Bar & Grill\, 850 Montgomery St.\, San Francisco\, CA\, 941
  33
 TRANSP:TRANSPARENT
@@ -1092,9 +1032,9 @@ BEGIN:VEVENT
 SUMMARY:Play X Land
 DTSTART;TZID=America/Los_Angeles:20261014T210000
 DTEND;TZID=America/Los_Angeles:20261014T230000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261015T113924Z
 UID:dothebay-17699153@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night 
  hosted by Cat Club in partnership with the Leather Alliance in San Francis
@@ -1109,13 +1049,12 @@ DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night
  e for all events at Cat Club and this event is no exception. DO NOT TOUCH 
  ANY INDIVIDUAL WITHOUT OBTAINING CONSENT. Consent means an ENTHUSIASTIC YE
  S.Whatever it is\, the way you tell your story online can make all the dif
- ference.\n\n$10\n\nTickets: https://www.sfcatclub.com/calendar/sgzbsw3ltzj
- ngjx-8yj6x-hzsr2-8tx5a-bh2wx-jppm3-d23d2-rg96m-n5tyf\nDetails: https://dot
- hebay.com/events/2026/10/14/play-x-land-tickets\nSource: DoTheBay
+ ference.\n\n$10\n\nDetails: https://dothebay.com/events/2026/10/14/play-x-
+ land-tickets\nSource: DoTheBay
 GEO:37.77541739999999;-122.409985
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33742810/239ffb4b-e57e-4baa-be53-fada801cb866.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261015T113924Z
 LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/14/play-x-land-tickets
@@ -1948,6 +1887,34 @@ LOCATION:Monarch Lounge\, 101 6th St.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/revolutions-staxx-of-wax-ticket
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ XJEEZY at LVL55 - Hiphop Room Saturdays
+DTSTART;TZID=America/Los_Angeles:20261017T220000
+DTEND;TZID=America/Los_Angeles:20261018T000000
+DTSTAMP:20261015T113924Z
+UID:dothebay-17957426@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:LVL55 HIPHOP ROOM SATURDAYS\nJoin us inside Temple SF's HipHop
+  room in the LVL55 Room every Saturday Night! Featuring Hiphop\, Throwback
+ s\, Club Hits every Saturday night Plus featuring some of the Bays Best Hi
+ phop Djs!\nFREE before 11 pm with RSVP\nFeaturing some of the Bay Area's b
+ est Hiphop & Open Format Djs for LVL55 at Temple SF\nVIP table specials ar
+ e availalble!\nFor VIP table reservations text/call +1.415.696.9512 or ema
+ il vip@templesf.com\n21+\n\n21+\; free before 11 PM with RSVP\; GA $17.89 
+ including fees and taxes\nLVL55 Presents\n\nTickets: https://www.tixr.com/
+ groups/templesf/events/dj-xjeezy-at-lvl55-hiphop-room-saturdays-210982\nDe
+ tails: https://dothebay.com/events/2026/10/17/dj-xjeezy-at-lvl55-hiphop-ro
+ om-saturdays-tickets\nSource: DoTheBay
+GEO:37.7879716;-122.3972152
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34965969/ee2a72b2-ccd0-4b91-b708-874223cbbdb9.jpg
+LAST-MODIFIED:20261015T113924Z
+LOCATION:Temple\, 540 Howard St\, San Francisco\, CA\, 94105
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/17/dj-xjeezy-at-lvl55-hiphop-room-
+ saturdays-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:rooftop party w/ Atish & Nikita at the Via Hotel
