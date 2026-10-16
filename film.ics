@@ -40,31 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Ski + Snowboard Film Premiere: “Actually\, It Is Rocket Science
- ”
-DTSTART;TZID=America/Los_Angeles:20261008T193000
-DTEND;TZID=America/Los_Angeles:20261008T223000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1631626@sf-cal
-SEQUENCE:0
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerTeton Gravity ResearchTeton Gr
- avity Research brings “Actually\, It Is Rocket Science” to the Palace 
- of Fine Arts\, an all-new ski and snowboard film. Join us for a night of b
- ig-mountain skiing\, snowboarding\, and adventure on the big screen. Ticke
- ts and info: https://tetongravity.myeventscenter.com/event/San-Francisco-C
- a-Palace-Of-Fine-Arts-128567\n\n$22.00\n\nTickets: https://tetongravity.my
- eventscenter.com/event/San-Francisco-Ca-Palace-Of-Fine-Arts-128567\nDetail
- s: https://sf.funcheap.com/ski-snowboard-film-premiere-rocket-science-sf/\
- nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/TGR-Ro
- cket-Science_18x24-NEW1.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA 94123
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/ski-snowboard-film-premiere-rocket-science-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Outdoor Movie Night 2026 w/ Free Food + Free Popcorn (Parksid
  e/Sunset)
 DTSTART;TZID=America/Los_Angeles:20261009T173000
@@ -1435,9 +1410,9 @@ BEGIN:VEVENT
 SUMMARY:2026 HUMP! Film Festival
 DTSTART;TZID=America/Los_Angeles:20261015T183000
 DTEND;TZID=America/Los_Angeles:20261015T203000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17913352@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:HUMP! returns with an entirely new collection of short films f
  or Fall 2026.\n\nFor over two decades\, HUMP! has been a platform for inde
@@ -1447,14 +1422,12 @@ DESCRIPTION:HUMP! returns with an entirely new collection of short films f
   present work that is as thoughtful as it is provocative.\n\nVisit HUMP! F
  ilm Fest for more info!\n\nRuntime\n\n2h 0m\n\nYear\n\n2026\n\nDirector\n\
  nVarious\n\nFormat\n\nDigital\n\nFirst Showing\n\nOctober 15\, 2026\n\nCat
- egories\n\nTickets: https://btt.boldtypetickets.com/events/186402970/2026-
- hump-film-festival-fall-season-san-francisco-ca-roxie?ref=venue\nDetails: 
- https://dothebay.com/events/2026/10/15/2026-hump-film-festival-tickets\nSo
- urce: DoTheBay
+ egories\n\nDetails: https://dothebay.com/events/2026/10/15/2026-hump-film-
+ festival-tickets\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34757524/2e319b6c-1bd5-439e-926f-415ba76ee6bb.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/15/2026-hump-film-festival-tickets
@@ -1463,9 +1436,9 @@ BEGIN:VEVENT
 SUMMARY:Street Fighter (2026)
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17874228@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Set in 1993\, estranged Street Fighters Ryu (Andrew Koji) and 
  Ken Masters (Noah Centineo) are thrown back into combat when the mysteriou
@@ -1475,13 +1448,12 @@ DESCRIPTION:Set in 1993\, estranged Street Fighters Ryu (Andrew Koji) and
  er and the demons of their past. And if they don’t\, it’s GAME OVER! H
  elmed by director Kitao Sakurai\, STREET FIGHTER is set to bring the battl
  e from the arcade to the big screen with Hadoukens\, roundhouses\, and all
-  your favorite characters.\n\nTickets: https://drafthouse.com/sf/show/stre
- et-fighter-2026?cinemaId=0802&sessionId=21867\nDetails: https://dothebay.c
- om/events/2026/10/15/street-fighter-2026-tickets\nSource: DoTheBay
+  your favorite characters.\n\nDetails: https://dothebay.com/events/2026/10
+ /15/street-fighter-2026-tickets\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34575731/9cd3fb84-7d82-40b2-aa53-c078f50dc16a.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT
@@ -1491,9 +1463,9 @@ BEGIN:VEVENT
 SUMMARY:2026 HUMP! Film Festival
 DTSTART;TZID=America/Los_Angeles:20261015T210000
 DTEND;TZID=America/Los_Angeles:20261015T230000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17913353@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:HUMP! returns with an entirely new collection of short films f
  or Fall 2026.\n\nFor over two decades\, HUMP! has been a platform for inde
@@ -1503,14 +1475,12 @@ DESCRIPTION:HUMP! returns with an entirely new collection of short films f
   present work that is as thoughtful as it is provocative.\n\nVisit HUMP! F
  ilm Fest for more info!\n\nRuntime\n\n2h 0m\n\nYear\n\n2026\n\nDirector\n\
  nVarious\n\nFormat\n\nDigital\n\nFirst Showing\n\nOctober 15\, 2026\n\nCat
- egories\n\nTickets: https://btt.boldtypetickets.com/events/186402970/2026-
- hump-film-festival-fall-season-san-francisco-ca-roxie?ref=venue\nDetails: 
- https://dothebay.com/events/2026/10/15/2026-hump-film-festival-tickets-d0q
- 5bmk\nSource: DoTheBay
+ egories\n\nDetails: https://dothebay.com/events/2026/10/15/2026-hump-film-
+ festival-tickets-d0q5bmk\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34757535/9a142101-3177-4392-93ea-39fe8359bbe0.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/15/2026-hump-film-festival-tickets

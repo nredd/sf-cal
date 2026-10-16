@@ -40,30 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Matt Berkeley & The Electronic Folk
-DTSTART;TZID=America/Los_Angeles:20261008T210000
-DTEND;TZID=America/Los_Angeles:20261009T010000
-DTSTAMP:20261009T104206Z
-UID:caldiscovery-comedy-689d0b8d905c9384@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,music
-DESCRIPTION:A wide-ranging night of musical and comic performances led by 
- Matt Berkeley at Tupelo.\nMatt Berkeley & The Electrictronic Folk is a San
-  Francisco Bay Area-based group known for playing a mix of dubfunk Soul mu
- sic. The band features Matt Berkeley on keyboards and vocals\, along with 
- a rotating lineup that includes musicians like Dylan Greengard on guitar a
- nd Nate Pedley on bass.\n\nPublished by offbeatSF\nContains information fr
- om CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://offbeats
- f.com/event/matt-berkeley-variety-show-3/2026-10-08/?utm_source=caldiscove
- ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261009T104206Z
-LOCATION:Tupelo\, 1337 Grant Ave\, San Francisco\, CA\, 94133\, United Sta
- tes
-TRANSP:TRANSPARENT
-URL:https://offbeatsf.com/event/matt-berkeley-variety-show-3/2026-10-08/?u
- tm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Emil Wakim
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T210000
@@ -1019,20 +995,17 @@ BEGIN:VEVENT
 SUMMARY:Rocky Dale Davis
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17294964@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Rocky Dale Davis\nThursday\, October 15 | Cobb's Comedy Club\n
- \n18+\nSold out\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/
- 4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Frocky-dale-da
- vis-san-francisco-california-10-15-2026%2Fevent%2F1C00649CEB96EFD2\nDetail
- s: https://dothebay.com/events/2026/10/15/rocky-dale-davis-tickets\nSource
- : DoTheBay
+ \n18+\nSold out\n\nDetails: https://dothebay.com/events/2026/10/15/rocky-d
+ ale-davis-tickets\nSource: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31832322/3b4f9803-1a52-407b-8751-1e0dd646d62e.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -1042,20 +1015,17 @@ BEGIN:VEVENT
 SUMMARY:Laura Ramoso
 DTSTART;TZID=America/Los_Angeles:20261015T193000
 DTEND;TZID=America/Los_Angeles:20261015T213000
-DTSTAMP:20261016T043925Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17180928@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:The Calm Down Tour\nLaura Ramoso\nThursday\, October 15 | The 
- Masonic\n\nThe Calm Down Tour\n\nTickets: https://ticketmaster.evyy.net/c/
- 253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2
- Flaura-ramoso-the-calm-down-tour-san-francisco-california-10-15-2026%2Feve
- nt%2F1C00646ADE314B8A\nDetails: https://dothebay.com/events/2026/10/15/lau
- ra-ramoso-the-calm-down-tour-tickets\nSource: DoTheBay
+ Masonic\n\nThe Calm Down Tour\n\nDetails: https://dothebay.com/events/2026
+ /10/15/laura-ramoso-the-calm-down-tour-tickets\nSource: DoTheBay
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31296377/a9ba8d96-9b72-4872-b795-39d838ba0d6d.png
-LAST-MODIFIED:20261016T043925Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/15/laura-ramoso-the-calm-down-tour
@@ -1098,19 +1068,17 @@ BEGIN:VEVENT
 SUMMARY:Aaron Weber
 DTSTART;TZID=America/Los_Angeles:20261015T200000
 DTEND;TZID=America/Los_Angeles:20261015T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17238236@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Aaron Weber\nThursday\, October 15 | Punch Line San Francisco\
- n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Shar
- edId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Faaron-weber-san-franci
- sco-california-10-15-2026%2Fevent%2F1C00648AB1CEDDD4\nDetails: https://dot
- hebay.com/events/2026/10/15/aaron-weber-tickets\nSource: DoTheBay
+ n\n18+\n\nDetails: https://dothebay.com/events/2026/10/15/aaron-weber-tick
+ ets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31562322/e2937f13-8719-459b-8486-838b132f413f.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1537,6 +1505,48 @@ LOCATION:Church of Clown\, 2400 Bayshore Blvd\, San Francisco\, CA\, 94134
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/falsettos-and-sunsets-flop-fest
  -tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
+DTSTART;TZID=America/Los_Angeles:20261017T190000
+DTEND;TZID=America/Los_Angeles:20261017T210000
+DTSTAMP:20261016T113307Z
+UID:caldiscovery-comedy-f53af1d97e2a8e13@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,theater
+DESCRIPTION:⭐ The hit burlesque parody The Empire Strips Back: A Burlesq
+ ue Parody is making its way to San Francisco! This audience fave drops cla
+ ssic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟
+ ️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark
+  Side is calling you back! Returning fans can now enjoy an exclusive disco
+ unt on their next visit to this hit burlesque parody. Use code STRIPBACKAG
+ AIN at checkout to get 30% off your next booking.\nTickets for The Empire 
+ Strips Back in San Francisco\n🎫 General Admission – includes entry to
+  the experience\n🎫 Rebel Package – includes express entry to the expe
+ rience + a t-shirt (depending on size availability\, another merch item li
+ ke panties\, lightsaber\, poster\, or calendar could be offered in exchang
+ e for the shirt)\n👉 For large groups (8+ people)\, reserve your tickets
+  here\n🪑 Seats are assigned upon arrival at the venue on a first-come\,
+  first-served basis in the selected zone (Zone A\, Zone B\, Zone C\, Emper
+ or’s Zone\, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy 
+ far\, far away\, to a world of burlesque fantasy\n🌌 Hilarious parody\, 
+ menacing and risqué dance\, and even the droids you’re looking for\n✨
+  Your favourite characters are scantily clad\, seriously sultry\, and live
+  on stage\n⭐ Previously sold-out in London\, Seattle\, Chicago\, New Yor
+ k\, Montreal\, LA\, San Francisco\, and more\nGeneral Info\n📅 Dates: ch
+ oose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n
+ – Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...\n\nPublished 
+ by Mission Local\nContains information from CalDiscovery (caldiscovery.com
+ )\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/victoria-theatre-t
+ he-empire-strips-back-a-burlesque-parody/2026-10-17/1/?utm_source=caldisco
+ very&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261016T113307Z
+LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA\, 94103\, Un
+ ited States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/victoria-theatre-the-empire-strips-back
+ -a-burlesque-parody/2026-10-17/1/?utm_source=caldiscovery&utm_medium=ics&u
+ tm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daniel Sloss
@@ -3979,20 +3989,21 @@ BEGIN:VEVENT
 SUMMARY:Cobb's Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17752166@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Cobb's Comedy Showcase\nSunday\, November 1 | ​​Cobb's Com
  edy Club\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/
  4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcobbs-comedy-
  showcase-san-francisco-california-11-01-2026%2Fevent%2F1C0065119A2E9FC9\nD
  etails: https://dothebay.com/events/2026/11/1/cobb-s-comedy-showcase-ticke
- ts\nSource: DoTheBay
+ ts\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/secret-
+ guest-list-cobbs-free-comedy-nights-cobbs-comedy-showcase-4/
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33998798/b91fc591-1112-4cfb-ae7f-0a198185ceed.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -6667,9 +6678,9 @@ BEGIN:VEVENT
 SUMMARY:Really Funny Comedians (Who Happen to Be Women) w/ Mary Houlihan
 DTSTART;TZID=America/Los_Angeles:20261122T190000
 DTEND;TZID=America/Los_Angeles:20261122T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17778487@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Really Funny Comedians (Who Happen to Be Women)\nwith Mary Hou
  lihan\nSunday\, November 22 | ​Cobb's Comedy Club\n\n18+\n\nTickets: htt
@@ -6677,11 +6688,13 @@ DESCRIPTION:Really Funny Comedians (Who Happen to Be Women)\nwith Mary Hou
  A%2F%2Fwww.ticketmaster.com%2Freally-funny-comedians-who-happen-to-san-fra
  ncisco-california-11-22-2026%2Fevent%2F1C006519EE4CF0FE\nDetails: https://
  dothebay.com/events/2026/11/22/really-funny-comedians-who-happen-to-be-wom
- en-with-mary-houlihan-tickets\nSource: DoTheBay
+ en-with-mary-houlihan-tickets\nSource: DoTheBay\n\nAlso listed on:\n- http
+ s://sf.funcheap.com/secret-guest-list-cobbs-free-comedy-nights-really-funn
+ y-comedians-who-happen-to-be-women/
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34120847/f33bdd7b-6283-44b7-a298-2e55a8a9a769.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -6781,6 +6794,50 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/24/joe-klocek-friends-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secret Guest List: Cobb’s Free Comedy Nights (“Get it?!” Gam
+ eshow)
+DTSTART;TZID=America/Los_Angeles:20261125T190000
+DTEND;TZID=America/Los_Angeles:20261125T210000
+DTSTAMP:20261016T113307Z
+UID:funcheap-1642753@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Cobb’s Free 2026 Comedy Nights (Secret Guest List)\nCobbs Co
+ medy Club\nCobb’s Comedy Club has a secret guestlist for a handpicked gr
+ oup of shows at SF’s biggest comedy club.\nEvery month they handpick som
+ e of SF’s top local comedians to showcase for you – often with credits
+  like SF Sketchfest\, NBC\, Comedy Central and more.\nSecret Guest List: C
+ obb’s Free Comedy Nights\nCobb’s Comedy Club\, 915 Columbus Ave.\, SF\
+ nFREE with RSVP (otherwise tickets are $18-26).\n– Must RSVP no later th
+ an 1 hour before showtime\nFree Comedy Shows 2026\n\n/// Sunday\, October 
+ 18 – 7pm – Drag-Up Comedy\n/// Wednesday\, October 21 – 7:30pm – C
+ omedy Allstars featuring Anthony Locascio\n/// Saturday\, October 31 – 8
+ pm – A Ghostly\, Ghastly Get It?! Gameshow\n/// Sunday\, November 1 – 
+ 7pm – Cobb’s Comedy Showcase\n/// Sunday\, November 22 – 7pm – Rea
+ lly Funny Comedians Who Happen to be Women\n/// Wednesday\, November 25 
+ – 7pm – “Get it?!” Gameshow\n/// Sunday\, November 29 – 7pm – 
+ Comedy Allstars\n\nLike all things in life\, lineups are subject to change
+  and each show may vary. RSVP required\, but admission is first come first
+  served. Like most comedy clubs there is a two-drink minimum.\n\nUpcoming 
+ Cobb’s Free 2026 Comedy Nights (Secret Guest List) Events\nSun 10/18 Sec
+ ret Guest List: Cobb’s Free Comedy Nights (Drag-Up Comedy)Wed 10/21 Secr
+ et Guest List: Cobb’s Free Comedy Nights (Comedy Allstars feat. Anthony 
+ Locascio)Sat 10/31 Secret Guest List: Cobb’s Free Comedy Nights (A Ghost
+ ly\, Ghastly Get It?! Gameshow)Sun 11/1 Secret Guest L...\n\nFree\n\nTicke
+ ts: https://www.eventbrite.com/e/secret-guest-list-cobbs-free-comedy-night
+ s-summer-2023-tickets-686285005927\nDetails: https://sf.funcheap.com/secre
+ t-guest-list-cobbs-free-comedy-nights-get-it-gameshow-5/\nSource: Funcheap
+  SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2017/01/https_
+ __cdn.evbuc_.com_images_29308362_893605758_1_original1.jpg
+LAST-MODIFIED:20261016T113307Z
+LOCATION:Cobb’s Comedy Club\, 915 Columbus Ave\, San Francisco\, CA 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/secret-guest-list-cobbs-free-comedy-nights-get
+ -it-gameshow-5/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steve Furey
@@ -7136,20 +7193,21 @@ BEGIN:VEVENT
 SUMMARY:Cobb's Comedy Allstars
 DTSTART;TZID=America/Los_Angeles:20261129T190000
 DTEND;TZID=America/Los_Angeles:20261129T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261016T113307Z
 UID:dothebay-17834034@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Cobb's Comedy Allstars\nSunday\, November 29 | ​Cobb's Comed
  y Club\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/42
  72?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcobbs-comedy-al
  lstars-san-francisco-california-11-29-2026%2Fevent%2F1C0065283C358BD7\nDet
  ails: https://dothebay.com/events/2026/11/29/cobb-s-comedy-allstars-ticket
- s\nSource: DoTheBay
+ s\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/secret-g
+ uest-list-cobbs-free-comedy-nights-comedy-allstars-3/
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34381652/c4233cd9-b595-4426-93f5-d8002a79d1ca.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261016T113307Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
