@@ -40,46 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SF’s “Electric Dream Home 2026” Mobile Showroom (Oct. 8-10)
-DTSTART;TZID=America/Los_Angeles:20261008T100000
-DTEND;TZID=America/Los_Angeles:20261008T180000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1640190@sf-cal
-SEQUENCE:0
-CATEGORIES:Nature
-DESCRIPTION:SF’s “Electric Dream Home 2026” Mobile Showroom (Oct. 8-
- 10)\nElectric Dream Home 2026: Test Modern Appliances (SF)\nElectric Dream
-  Home is a mobile electric-appliance showroom appearing at Civic Center Pl
- aza on October 8\, 2026 and Pier 35 on the Embarcadero on October 10\, 202
- 6. Visitors can explore electric appliances in a home-like setting\, inclu
- ding induction cooktops\, heat pumps\, and electric fireplaces\, while lea
- rning about their air-quality\, comfort\, performance\, and climate benefi
- ts.\nCome experience the Electric Dream Home:\nThursday\, October 8\, 10am
-  to 6pm — Civic Center Plaza\nSaturday\, October 10\, 10am to 5pm — Pi
- er 35 on the Embarcadero\nOriginal Event Description:\nElectric Dream Home
-  is coming to San Francisco from October 8 to 10. This mobile display lets
-  you explore electric appliances in a home-like setting and imagine how th
- ey might fit into your life. Join us to explore and learn how to improve a
- ir quality in your home.\nCome experience the Electric Dream Home:\nThursd
- ay\, October 8\, 10am to 6pm — Civic Center Plaza\nSaturday\, October 10
- \, 10am to 5pm — Pier 35 on the Embarcadero\nThe shift from gas to elect
- ric is already underway\, with the Bay Area Air District finalizing zero e
- missions water heater rules this November. Modern appliances make everyday
-  life more convenient and comfortable while helping San Francisco build a 
- healthier\, climate-friendly future. The Electric Dream Home gives you the
-  chance to see that performance for yourself!\nThe Electric Dream Home is 
- a m...\n\nFree\n\nTickets: https://www.sfenvironment.org/blog/five-reasons
- -why-life-better-electric\nDetails: https://sf.funcheap.com/sfs-electric-d
- ream-home-2026-mobile-showroom-oct-810/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/photov
- 2_dreamhome_email_0.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Civic Center Plaza\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-electric-dream-home-2026-mobile-showroom-o
- ct-810/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nevada City All-Inclusive Foraging Retreat w/ Sauna + Yuba River S
  wims (Oct 8-12)
 DTSTART;TZID=America/Los_Angeles:20261008T150000
@@ -118,27 +78,6 @@ LAST-MODIFIED:20261007T060815Z
 LOCATION:TBA\, Nevada City
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/nevada-city-foraging-campout/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NightLife: Buggin' Out
-DTSTART;TZID=America/Los_Angeles:20261008T180000
-DTEND;TZID=America/Los_Angeles:20261008T200000
-DTSTAMP:20261009T104206Z
-UID:dothebay-17799226@sf-cal
-SEQUENCE:1
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Small but mighty. Take a closer look at how insects help keep 
- our world buzzing\, blooming\, and thriving. Stay tuned for more programmi
- ng info!\n\nDetails: https://dothebay.com/events/2026/10/8/nightlife-buggi
- n-out-tickets\nSource: DoTheBay
-GEO:37.7698646;-122.4660947
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34222675/daa10c67-ef9a-4edd-b527-d01c728144a4.jpg
-LAST-MODIFIED:20261009T104206Z
-LOCATION:California Academy of Sciences\, 55 Music Concourse Drive\, San F
- rancisco\, CA\, 94118
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/8/nightlife-buggin-out-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
@@ -931,22 +870,6 @@ LOCATION:Embarcadero\, 4 Embarcadero Center\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-waterfront-art-walk-guided-sculpture-tour
  s-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261015T173000
-DTEND;TZID=America/Los_Angeles:20261015T183000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-487d88b899478600@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10527\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NightLife: October 15
