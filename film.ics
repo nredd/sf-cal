@@ -2281,9 +2281,9 @@ BEGIN:VEVENT
 SUMMARY:United Nations Association Film Festival
 DTSTART;TZID=America/Los_Angeles:20261021T190000
 DTEND;TZID=America/Los_Angeles:20261021T210000
-DTSTAMP:20261007T133325Z
+DTSTAMP:20261016T211839Z
 UID:dothebay-17927133@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:The 29th United Nations Association Film Festival continues We
  dnesday\, Oct. 21\, in San Francisco with an evening of documentaries expl
@@ -2306,11 +2306,13 @@ DESCRIPTION:The 29th United Nations Association Film Festival continues We
  ps://www.unaff.org/2026/tickets.html\nDetails: https://dothebay.com/events
  /2026/10/21/united-nations-association-film-festival-tickets\nSource: DoTh
  eBay\n\nAlso listed on:\n- https://sf.funcheap.com/future-day-comedy-show-
- claudia-wells-jennifer-parker-film/
+ claudia-wells-jennifer-parker-film/\n- https://www.indybay.org/newsitems/2
+ 026/10/12/18889276.php?utm_source=caldiscovery&utm_medium=ics&utm_campaign
+ =san-francisco-ca
 GEO:37.7843591;-122.3885501
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34821763/00c97041-b8a9-4e96-8d06-e61644c3336e.jpg
-LAST-MODIFIED:20261007T133325Z
+LAST-MODIFIED:20261016T211839Z
 LOCATION:Delancey Street Screening Room\, 600 The Embarcadero\, San Franci
  sco\, CA\, 94107
 TRANSP:TRANSPARENT
@@ -5535,6 +5537,31 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/11/tron-4k-restoration-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dazed and Confused
+DTSTART;TZID=America/Los_Angeles:20261212T143000
+DTEND;TZID=America/Los_Angeles:20261212T163000
+DTSTAMP:20261016T211839Z
+UID:dothebay-17962347@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Dazed and Confused\, 1993 Directed by Richard Linklater\n\nSEE
+  IT WITH A BUD.\n\nThe adventures of a group of Texas teens on their last 
+ day of school in 1976\, centering on student Randall Floyd\, who moves eas
+ ily among stoners\, jocks and geeks. Floyd is a star athlete\, but he also
+  likes smoking weed\, which presents a conundrum when his football coach d
+ emands he sign a no drugs pledge.\n\nTickets: https://ticketing.uswest.vee
+ zi.com/purchase/20215?siteToken=d2atbcege5knqsavntt91g1250\nDetails: https
+ ://dothebay.com/events/2026/12/12/dazed-and-confused-tickets\nSource: DoTh
+ eBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34989043/362d716d-c414-4c77-9354-0ec54dd3f656.jpg
+LAST-MODIFIED:20261016T211839Z
+LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
+  Francisco\, CA\, 94117
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/12/dazed-and-confused-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Floating Features: National Lampoon’s Christmas Vacation
 DTSTART;TZID=America/Los_Angeles:20261212T183000
 DTEND;TZID=America/Los_Angeles:20261212T203000
@@ -5633,6 +5660,32 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:The Knockout\, 3223 Mission St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-149/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART;TZID=America/Los_Angeles:20261215T180000
+DTEND;TZID=America/Los_Angeles:20261215T200000
+DTSTAMP:20261016T211839Z
+UID:dothebay-17749481@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:When Denis Villeneuve hit the US scene with PRISONERS\, who co
+ uld have known he’d eventually be whispering to sand worms and communing
+  with the desert on the biggest cinematic scale imaginable?\n\nNow Paul At
+ reides is an emperor\, Chani is back\, rebellion is brewing\, and the bill
+  for all that power has finally come due. Zendaya caps a truly impressive 
+ 2026 in the hugely anticipated finale that demands the biggest screen you 
+ can find.\n\nTickets: https://drafthouse.com/sf/show/dune-part-three?cinem
+ aId=0802&sessionId=20521\nDetails: https://dothebay.com/events/2026/12/15/
+ dune-part-three-tickets\nSource: DoTheBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33985760/0ebb1778-dd11-4a2f-bd79-4b73319b8753.jpg
+LAST-MODIFIED:20261016T211839Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/15/dune-part-three-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3rd Annual “A Very Purple NYE” w/ Purple Rain And Sign “O”
