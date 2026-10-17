@@ -111,24 +111,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sotheby's
-DTSTART;TZID=America/Los_Angeles:20261010T080000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1583261-2026-10-10T08:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Minna St from 04th St to 05th St\n\nPermit status: Per
- mitted\nTimes are SFMTA street-closure permit times and include setup and 
- teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://dat
- a.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.78317;-122.404822
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Minna St between 04th St and 05th St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paseo Artiistico 10 Year Block Party
 DTSTART;TZID=America/Los_Angeles:20261010T080000
 DTEND;TZID=America/Los_Angeles:20261010T200000
@@ -145,47 +127,6 @@ LAST-MODIFIED:20261006T193028Z
 LOCATION:Harrison St between 24th St and 23rd St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fleet Fest 2026: Navy Bands & Food Trucks (Fisherman’s Wharf)
-DTSTART;TZID=America/Los_Angeles:20261010T090000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1636447@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026\n
- Air Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan Fr
- ancisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sche
- dule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 PM
-  | San Francisco Waterfront\n– Thursday afternoon: Each year there are t
- ypically Blue Angels “test flights” on Thursday.\nAlthough it’s not 
- the full a...\n\nFree\n\nTickets: https://fleetweeksf.org/events/fleet-fes
- t/\nDetails: https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-truck
- s-fishermans-wharf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Fisherman's Wharf - SkyStar Wheel and Pier 27\, 2860 Taylor St\, 
- San Francisco\, CA 94111
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks-fisherm
- ans-wharf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Block Party - 47th Ave Annual
@@ -308,127 +249,6 @@ URL:https://sf.funcheap.com/free-legion-of-honor-museum-day-for-bay-area-r
  esidents-every-saturday-337/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Coffee Social (Elizabeth Taylor 50-Plus Network)
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261011T055613Z
-UID:dothebay-16869108@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:Held every Saturday\, at 10 am\, members and prospective membe
- rs of the Elizabeth Taylor 50-Plus network gather for coffee and community
-  at a local coffee shop.\n\nTo join us\, contact us at 50plusnetwork@sfaf.
- org for more information or call 415-728-3116.\n\nDetails: https://dotheba
- y.com/events/2026/10/10/community-coffee-social-elizabeth-taylor-50-plus-n
- etwork-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261011T055613Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/community-coffee-social-elizabe
- th-taylor-50-plus-network-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildlife Conservation Expo
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17794987@sf-cal
-SEQUENCE:1
-CATEGORIES:Lecture/Education
-DESCRIPTION:This October\, the Wildlife Conservation Network will gather t
- ogether the most remarkable conservationists in the field\, and give you a
-  chance to connect with them. At the Wildlife Conservation Expo\, conserva
- tionists on the front lines will bring you into their world—sharing firs
- thand stories in candid presentations and one-on-one conversations. Join u
- s\, connect with them\, and be inspired.\n\nStories You Won't Hear Anywher
- e Else:\nTravel from the golden savannas of Africa to the icy shores of An
- tarctica in the span of an afternoon. Conservationists will give you an ex
- clusive look behind the scenes of their work—the daily challenges\, the 
- threats they're racing against\, and the breakthroughs that give them hope
- . And remember to bring your questions with you\, because this is your cha
- nce to ask them directly.\n\nMeet Conservationists from Across the Globe:\
- nPut faces to the stories. Between sessions\, you'll be able to speak dire
- ctly with the conservationists presenting—ask a follow-up question\, lea
- rn more about their work\, or simply thank them for what they do. It's an 
- opportunity for real connection that goes far beyond any presentation or t
- alk.\n\nDiscover International Artisans:\nStep into a marketplace where ev
- ery purchase means something. Browse handcrafted treasures from artisans a
- round the world\, and know that in bringing home a piece of their story\, 
- you're also supporting their communities and the conservation work that pr
- otects the landscapes they call home.\n\nCelebrate with a Comm...\n\n$80\n
- Wildlife Conservation Network\n\nDetails: https://dothebay.com/events/2026
- /10/10/wildlife-conservation-expo-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34199159/9294b624-150e-479e-a951-ffafbef1676c.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Mission Bay Conference Center\, San Francisco\, 1675 Owens Street
- \, San Francisco\, CA\, 94158
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/wildlife-conservation-expo-tick
- ets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wallace & Gromit: The Curse of the Were-Rabbit
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17893637@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Wallace & Gromit: The Curse of the Were-Rabbit is a delightful
-  adventure. Daffy\, cheese-loving inventor Wallace and his faithful dog Gr
- omit become heroes in stopping a crime spree. They learn that a giant\, fu
- zzy creature is stealing the town's produce and the not-completely-dynamic
-  duo set out to capture the beast and save the day.\n\nCinema SF Bay is pr
- oud to announce that our Saturday & Sunday morning POPCORN PALACE movie sc
- reenings at the 4 STAR will continue to be presented FREE OF CHARGE in 202
- 6!\n\nThanks to an incredibly generous grant we will be showing you fantas
- tic family-friendly movies every weekend at 10:00 AM! Perfect for everythi
- ng from birthday get-togethers to casual stop-ins\, so bring the whole fam
- ily over to the 4 STAR THEATER for community movies together.\n\nReservati
- ons will be first-come-first-serve when the box office opens thirty minute
- s before the screening on the day of the show. We look forward to seeing y
- ou at the movies!\n\nDetails: https://dothebay.com/events/2026/10/10/walla
- ce-gromit-the-curse-of-the-were-rabbit-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34665081/b9e63bda-a13d-4fda-995c-1002327f3251.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/wallace-gromit-the-curse-of-the
- -were-rabbit-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sketching with Sami: Landscapitos
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17913952@sf-cal
-SEQUENCE:1
-CATEGORIES:The Arts
-DESCRIPTION:If you're a beginner who wants to learn about field sketching 
- or an advanced illustrator who wants a reason to explore the Gardens of Go
- lden Gate Park\, join science illustrator Sami Chang as she explores the S
- an Francisco Botanical Garden. You will learn some tips and tricks on how 
- to get accurate sketches and try your hand at different methods of field s
- ketching. This is a great opportunity to explore - or simply sit and enjoy
-  - all of the natural beauty the gardens have to offer.\n\nIn this worksho
- p\, you will visit multiple areas of the garden\, sketching the various la
- ndscapes by creating small thumbnails rather than one large landscape.\n\n
- $25-50.\n\nPresented by Gardens of Golden Gate Park\n\n$25-50.\nGardens of
-  Golden Gate Park\n\nDetails: https://dothebay.com/events/2026/10/10/sketc
- hing-with-sami-landscapitos-tickets\nSource: DoTheBay
-GEO:37.7659829;-122.466466
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34760094/bf8d1844-a1b9-4b10-9966-2d0e8d0ab9d6.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:San Francisco Botanical Garden\, 9th Ave & Lincoln Way\, San Fran
- cisco\, CA\, 94122
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/sketching-with-sami-landscapito
- s-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ship Tours
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T160000
@@ -463,28 +283,6 @@ LAST-MODIFIED:20261013T225222Z
 LOCATION:Pier 27\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/ship-tours/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:K9 Heroes
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261010T215006Z
-UID:fleetweeksf-53452-20261010@sf-cal
-SEQUENCE:5
-CATEGORIES:Attraction
-DESCRIPTION:Bring your family and furry friends and see how these four-leg
- ged friends have become heroes to so many.\n\nWhether in the field or in t
- he home\, military and civilian working dogs save and change lives.\n\nFle
- et Week celebrates these K9 Heroes.\n\nDetails: https://fleetweeksf.org/ev
- ents/k9-heroes/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on
- :\n- https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-ind
- ian-market-berkeley/\n- https://sf.funcheap.com/great-elephant-migration-3
- 0-elephant-sculptures-downtown-livermore/
-GEO:37.7698405;-122.4324851
-LAST-MODIFIED:20261010T215006Z
-LOCATION:Duboce Park\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/k9-heroes/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fleet Fest at Fisherman’s Wharf
@@ -523,77 +321,49 @@ TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/fleet-fest/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Step Into Wonder – Deep Dive Workshop
+SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
+ y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634419@sf-cal
+DTEND;TZID=America/Los_Angeles:20261010T180000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1639156@sf-cal
 SEQUENCE:0
-CATEGORIES:Art Museums
-DESCRIPTION:Submitted by the Event OrganizerPriscila Soares\n\nGo beyond t
- he surface of creativity with Step Into Wonder: Deep Dive\, an intimate\, 
- guided art experience for adults at Mare Island Art Studios.\nLed by artis
- t Priscila Soares\, this three-hour session uses art-making\, creative pro
- mpts and reflection to explore what happens when we quiet the inner critic
- \, let go of expectations and give ourselves permission to create freely.\
- n\nNo artistic experience is needed. The focus isn’t on making something
-  “good”—it’s on curiosity\, expression and discovering what can em
- erge when you stop trying to control the outcome.\nSet within the immersiv
- e Step Into Wonder installation\, surrounded by glowing sculptures and a t
- ransformed gallery environment\, the Deep Dive offers a smaller\, more int
- entional experience for those who want to explore the deeper side of The L
- etting Go Art Experience.\nCome as you are. Get messy. Follow your intuiti
- on. See what happens when you let go.\nOctober 10 & 24 • 10 AM–1 PM18+
-  • $45 • Limited to 15 participantsMare Island Art Studios\, 110 Pinta
- do St.\, Vallejo\n\n$45.00\n\nTickets: https://thelettinggoartexperience.c
- om/all-events/\nDetails: https://sf.funcheap.com/step-deep-dive-workshop/\
- nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/step-i
- nto-wonder-deep-dive-fb-banner.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Mare Island Art Studios\, 110 Pintado St. Vallejo
+CATEGORIES:Eating Drinking
+DESCRIPTION:Indigenous Peoples Day Powwow Committee34th Annual Berkeley In
+ digenous Peoples Day\nPowwow & Indian Market\n534 Years of Resistance & Re
+ newal\n\nBerkeley’s Indigenous Peoples Day Committee invites the public 
+ to celebrate the 34th Annual Indigenous Peoples Day Powwow & Indian Market
+  on Saturday\, October 10\, 2026\, at M.L.K. Civic Center Park from 10:00 
+ am to 6:00 pm. This free\, family-friendly celebration will bring together
+  Native American dancers\, drummers\, artists\, craftspeople\, food vendor
+ s\, and community members for a day of culture\, ceremony\, celebration\, 
+ and community.\nThe Powwow will feature powwow dancing and drumming\, alon
+ g with competition dancing. There will also be Gourd dancing and songs\, d
+ ance specials\, Intertribals and Round Dances that everyone is invited to 
+ join. Children are welcome.\nWhat:\nBerkeley’s 34th Annual Indigenous Pe
+ oples Day Powwow & Indian Market\nWhen:\nSaturday\, October 10\, 2026\n10 
+ a.m.– 6 p.m.\nGrand Entry: 1 p.m.\nWhere:\nM.L.K. Civic Center Park\nAll
+ ston Way at M.L. King\, Jr. Way\nBerkeley\, California\nHead Staff\nCo-MCs
+ : Randy Pico (Luiseño) & Aurora Mamea (Blackfeet)\nHead Man: Daniel Leroy
+  (Omaha/Ponca/Pomo)\nHead Lady: Alexa Gorospe (Laguna Pueblo/Ohkay’Owing
+ eh)\nArena Director: JoeFox Hopper (Pomo/Laguna Pueblo/Native Hawaiian)\nH
+ ost Northern Drum: All Nations (Oakland\, CA)\nHost Southern Drum: So Ex S
+ tyle (Manteca\, CA)\nHead Gourd Dancer: Frankie Hoskie Jr. (Diné/Apache)\
+ nAll Powwow drums and dancers are welcome.\nSpecial Events\nHead Man’s G
+ rass Special All...\n\nFree\n\nTickets: https://www.facebook.com/events/17
+ 72629940588616/?acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%
+ 22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22search_results%22%2C%22surfac
+ e%22%3A%22search%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D\nDetails: https
+ ://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indian-market
+ -berkeley/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/IPD-PW
+ -Flyer-9.4.2026-1-latest.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Martin Luther King Jr. Civic Center Park\, 2151 Martin Luther Kin
+ g Jr Way\, Berkeley
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/step-deep-dive-workshop/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Outdoor Painting Gathering at the Palace of Fine Arts
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639103@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:© Out There WatercolorsFree outdoor painting gathering at the
-  Palace of Fine Arts.\nCome paint with us. Sign up at Painters Unite to he
- ar about future gatherings.\nPainters Unite is a free gathering for anyone
-  who wants to slow down and paint outdoors\, together. No class\, no press
- ure\, nothing for sale.\nI’m Marco Flavio\, a watercolor teacher here in
-  the city. I started this because so many people told me they wanted more 
- time to paint and to be around others\, and I think that shouldn’t have 
- to cost anything. I’ll be painting right alongside you\, same as everyon
- e.\n\nThis time we’re meeting at the Palace of Fine Arts\, at the inters
- ection of Baker Street and Beach Street at 10AM. From there we’ll have a
-  beautiful view across the lagoon toward the Palace\, with the architectur
- e\, water\, and reflections all in front of us. It’s a great opportunity
-  to play with reflections in watercolor and simplify a pretty spectacular 
- scene into a painting.\nAs always\, I’ll bring a few small challenges\, 
- different ways of seeing and painting what’s in front of us. I’ll also
-  have a limited number of pre-drawings of the Palace of Fine Arts on water
- color paper\, first come\, first served\, for beginners who’d like a sta
- rting point. Take a challenge\, use a pre-draw\, or simply find a spot and
-  paint. No experience needed.\nBring a sketchbook and something to draw or
-  paint with. If you have a watercolor kit\, bring it. A folding or camping
-  chair is welcome\, or a mat or blanket to sit on. Anything that makes it 
- comfo...\n\nFree\n\nTickets: https://www.outtherewatercolors.com/painters-
- unite\nDetails: https://sf.funcheap.com/free-outdoor-painting-gathering-pa
- lace-fine-arts-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_88
- 85.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA 94123
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-outdoor-painting-gathering-palace-fine-ar
- ts-sf/
+URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
+ an-market-berkeley/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNIQLO SF Grand Reopening Weekend w/ Discounts & Giveaways (Oct. 9
@@ -638,45 +408,46 @@ URL:https://sf.funcheap.com/uniqlo-sf-grand-reopening-weekend-w-discounts-
  giveaways-oct-9-11/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Golden Gate Park Walking Tour: East End History Walk
+SUMMARY:“The Great Elephant Migration” 30 Elephant Sculptures (Downtow
+ n Livermore)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261008T185326Z
-UID:funcheap-1641713@sf-cal
+DTEND;TZID=America/Los_Angeles:20261010T210000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1641105@sf-cal
 SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Join San Francisco Recreation and Parks Historian-in-Residence
-  Christopher Pollock for an easy-to-moderate walking tour of Golden Gate P
- ark’s east end. Beginning at the Conservatory of Flowers\, the free RSVP
- -required walk covers the park’s history and landmarks including the Nat
- ional AIDS Memorial Grove\, Shakespeare Garden and Music Concourse\, where
-  the tour concludes.\nAdmission to the Gardens of Golden Gate Park is free
-  for San Francisco residents\, veterans\, Museums for All/EBT participants
- \, and Gardens members.\nNon-SF residents require paid admission to visit 
- the Conservatory of Flowers.\n\nOriginal Event Description:\n_Walking Tour
-  of Golden Gate Park’s East End on October 10 Join Rec and Park Historia
- n-in-Residence Christopher Pollock for a walking tour beginning at the Con
- servatory of Flowers (100 John F. Kennedy Drive) on Saturday\, October 10 
- from 10 a.m. to noon. The tour will explore the park’s history and landm
- arks\, including the National AIDS Memorial Grove\, Shakespeare Garden\, M
- usic Concourse and more\nWalking Tour of Golden Gate Park\nOctober 10 @ 10
- :00 am – 12:00 pm Free\nRSVP\nThis is a free community program. Please c
- onsider supporting the Gardens of Golden Gate Park with a recommended dona
- tion of $5-20. Your support helps us connect people to plants\, the planet
- \, and each other.\nSaturday\, October 10\, 2026\n10am-12pm\nConservatory 
- of Flowers (Meet-up Location)\nRSVP Required\nAbout the Program\nJoin Chri
- stopher Pollock\, Historian-in-Residence for the San Francisco Recreatio..
- .\n\nFree\n\nTickets: https://gggp.org/event/walking-tour-of-golden-gate-p
- ark-2/\nDetails: https://sf.funcheap.com/free-golden-gate-park-walking-tou
- r-east-history-walk-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/unname
- d-54.jpg
-LAST-MODIFIED:20261008T185326Z
-LOCATION:Conservatory of Flowers\, 100 John F Kennedy Dr\, San Francisco\,
-  CA 94118
+CATEGORIES:Theater Performance
+DESCRIPTION:Three Thirty-Three ArtsThe Great Elephant Migration: A Family 
+ Gathering opens in Downtown Livermore with a welcome and blessing ceremony
+  at Stockmen’s Park\, including a cultural dance performance and custom 
+ textile artwork. The installation features 30 life-size handcrafted elepha
+ nt sculptures by Indigenous artisans at Bankhead Plaza and Stockmen’s Pa
+ rk from October 10 through December 6. Opening-day programming also includ
+ es the Livermore ArtWalk and an evening Dandiya celebration among the elep
+ hant sculptures.\nOriginal Event Description:\n🐘The Elephants are Comin
+ g to Downtown Livermore\nJoin us this Saturday\, October 10th at 10 AM to 
+ welcome The Great Elephant Migration: A Family Gathering!\nFor the next tw
+ o months (Oct 10 – Dec 6)\, 30 life-size\, handcrafted elephants made by
+  Indigenous artisans via @theerealeleco will grace Bankhead Plaza and Stoc
+ kmen’s Park. This intimate herd brings the same joy\, magic and purpose 
+ to smaller communities\, gardens and cultural spaces. It carries the heart
+  of the flagship exhibition\, but in a smaller\, nimbler format\, allowing
+  these wonderful elephants to wander into places where the full herd simpl
+ y can’t.\nSATURDAY\, OCT 10TH SCHEDULE:\n✨10:00 AM | Welcome & Blessin
+ g of the Elephants\nStockmen’s Park\nCeremonial blessing of the herd\, a
+  cultural dance performance by @vishwashanthidance\, and custom artwork te
+ xtiles by @artistsiaaa (Indian American Artists Association)\n🎨11:00 AM
+  – 5:00 PM | Livermore ArtWalk\nFirst Street between Maple & S. Livermor
+ e...\n\nFree\n\nTickets: https://www.333arts.org/gem\nDetails: https://sf.
+ funcheap.com/great-elephant-migration-30-elephant-sculptures-downtown-live
+ rmore/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/836635
+ 232_18562872409076431_722015364464872399_n.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Stockmen’s Park\, N. Livermore Avenue and Railroad Avenue\, Liv
+ ermore
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-golden-gate-park-walking-tour-east-histor
- y-walk-sf/
+URL:https://sf.funcheap.com/great-elephant-migration-30-elephant-sculpture
+ s-downtown-livermore/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Block Party - Connecticut St 14th Annual
@@ -714,38 +485,6 @@ LOCATION:Brentwood Ave between Valdez Ave and Hazelwood Ave\, San Francisc
  o
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Nature Adventures: Spiders
-DTSTART;TZID=America/Los_Angeles:20261010T103000
-DTEND;TZID=America/Los_Angeles:20261010T123000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1637003@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Submitted by the Event OrganizerChabot Staff$25 Adult\, $35 Ki
- ds (Age 3-8)\, Members get $15 off per ticket\nYour Ticket Includes Center
-  Admission – a $19-24 Value Per Ticket!\nBuy Tickets\n\nExplore\, learn\
- , and connect with nature during Family Nature Adventures! Join us every 2
- nd Saturday March – November for an unforgettable journey into the stunn
- ing parks surrounding Chabot Space & Science Center. Each month features a
- n exciting new theme\, from the tiny world of insects to the grandeur of t
- owering redwood trees.\n\nThis Months Theme: Spidey Spectacular – Advent
- ures with Arachnids!\nSpin your way into the fascinating world of spiders 
- and arachnids! This month’s adventure is packed with discovery and excit
- ement:\nInteractive Workshop: Learn all about native spiders\, their incre
- dible adaptations\, and even how they behave in space.\nSpider Safari: Gra
- b a magnifying glass and set off into the redwood forest to find hidden sp
- iders\, marvel at their intricate webs\, and explore their natural habitat
- .\n\n$25.00\n\nTickets: https://chabotspace.org/calendar/family-nature-adv
- entures-spiders/\nDetails: https://sf.funcheap.com/family-nature-adventure
- s-spiders/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/202510
- 11_115845.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Chabot Space & Science Center\, 10000 Skyline Blvd. Oakland\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/family-nature-adventures-spiders/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sports Basement (
@@ -789,289 +528,6 @@ LOCATION:Sports Basement Bryant Street\, 1590 Bryant Street\, 5th Floor\,
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-gallery-s
  ports-basement-bryant-street/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Makers Market™ Local Artist Street Fair @ Santana Row
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-16889234@sf-cal
-SEQUENCE:1
-CATEGORIES:Shopping
-DESCRIPTION:The Makers Market™ Local Artist Street Fair is returning to 
- Santana Row\, featuring a vibrant lineup of local artisans\, makers\, and 
- small businesses\, just in time for Halloween fun and early holiday shoppi
- ng. Step into the cozy magic of Fall with festive flair\, creative energy\
- , and handcrafted treasures made right here in the Bay Area!\n\nWHEN? Satu
- rday\, October 10 | 11am - 6pm\n\nWHERE? Santana Row in San Jose\, CA\n\n-
-  65 local makers\n\n- Handmade jewelry\, pottery\, fragrances\, candles\, 
- bath and body\, crochet\, apparel\, leather goods\, and more!\n\n- Kid- an
- d pet-friendly\n\n- Enjoy live music by local musicians\n\n- This is a sip
-  and stroll event! Treat yourself to tasty food and drinks in the surround
- ing restaurants and bars.\n\n- Stop into our brick-and-mortar store adjace
- nt to the fair and shop even more unique\, American-made products.\n\nShar
- e with your shopping buddies and mark your calendars! Can't wait to see yo
- u there!\n\n- - -\n\nAre you a maker looking to sell your products at the 
- Local Artist Street Fair? Register here: https://makersmarket.us/maker-reg
- istration/\n\n- - -\n\nMakers Market is locally founded and independently 
- owned\, with brick-and-mortar stores in Alpharetta\, Napa\, Santana Row\, 
- Lafayette\, and Mill Valley. We aim to bring you products that honor the i
- deals of American craftsmanship and are modern\, handmade\, and sustainabl
- y produced. Join us in our mission of Rebuilding the Legacy of American Ma
- de\, while supporting our local artists\, local economies\, and the commun
- ity. Come vis...\n\nDetails: https://dothebay.com/events/2026/10/10/makers
- -market-local-artist-street-fair-santana-row-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/29888612/6957139d-85e8-4f91-8773-1687dc9b952d.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:SociableKIT
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/makers-market-local-artist-stre
- et-fair-santana-row-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Makers Market™ Local Artist Street Fair @ Santana Row
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-16931833@sf-cal
-SEQUENCE:1
-CATEGORIES:Shopping
-DESCRIPTION:The Makers Market™ Local Artist Street Fair is returning to 
- Santana Row\, featuring a vibrant lineup of local artisans\, makers\, and 
- small businesses\, just in time for Halloween fun and early holiday shoppi
- ng. Step into the cozy magic of Fall with festive flair\, creative energy\
- , and handcrafted treasures made right here in the Bay Area!\n\nWHEN? Satu
- rday\, October 10 | 11am - 6pm\n\nWHERE? Santana Row in San Jose\, CA\n\n-
-  65 local makers\n\n- Handmade jewelry\, pottery\, fragrances\, candles\, 
- bath and body\, crochet\, apparel\, leather goods\, and more!\n\n- Kid- an
- d pet-friendly\n\n- Enjoy live music by local musicians\n\n- This is a sip
-  and stroll event! Treat yourself to tasty food and drinks in the surround
- ing restaurants and bars.\n\n- Stop into our brick-and-mortar store adjace
- nt to the fair and shop even more unique\, American-made products.\n\nShar
- e with your shopping buddies and mark your calendars! Can't wait to see yo
- u there!\n\n- - -\n\nAre you a maker looking to sell your products at the 
- Local Artist Street Fair? Register here: https://makersmarket.us/maker-reg
- istration/\n\n- - -\n\nMakers Market is locally founded and independently 
- owned\, with brick-and-mortar stores in Alpharetta\, Napa\, Santana Row\, 
- Lafayette\, and Mill Valley. We aim to bring you products that honor the i
- deals of American craftsmanship and are modern\, handmade\, and sustainabl
- y produced. Join us in our mission of Rebuilding the Legacy of American Ma
- de\, while supporting our local artists\, local economies\, and the commun
- ity. Come vis...\n\nDetails: https://dothebay.com/events/2026/10/10/makers
- -market-local-artist-street-fair-santana-row-tickets-lwmrzge\nSource: DoTh
- eBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/30092029/33c0a683-e0ad-40be-9765-3e771422e5e2.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:377 Santana Row\, San Francisco\, CA\, 94116
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/makers-market-local-artist-stre
- et-fair-santana-row-tickets-lwmrzge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heather Hardcastle\, The Flour Craft Bakery & Cafe Cookbook
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17654583@sf-cal
-SEQUENCE:3
-CATEGORIES:Shopping
-DESCRIPTION:Saturday\, October 10\, 2026\, 11:00 am - 11:45 am\n\nStop by 
- the Foodwise Classroom for a cooking demo featuring the seasonal bounty of
-  the Ferry Plaza Farmers Market.\n\nHeather Hardcastle is the chef and fou
- nder of Flour Craft Bakery & Café\, a beloved Marin County institution sh
- e opened in 2010. For more than 15 years long before gluten-free went main
- stream she has quietly reshaped the conversation around gluten-free food b
- y building Flour Craft around what people genuinely love to eat\, rather t
- han what they have to do without. Her beautiful pastries\, thoughtful seas
- onal cooking\, and California-inspired sensibility have grown the bakery\,
-  with locations in Mill Valley and San Anselmo\, into one of the Bay Areas
-  most cherished gluten-free destinations\, drawing a fiercely loyal commun
- ity that returns simply because they love the food.\n\nHeather is also the
-  author of The Flour Craft Bakery & Cafe Cookbook: Inspired Gluten Free Re
- cipes for Breakfast\, Lunch\, Tea\, and Celebrations\, a collection of app
- roachable\, seasonal recipes that reflect her belief that everyone deserve
- s exceptional food. At this event\, Heather will lead a live cooking demon
- stration\, followed by a signing of her cookbook a chance to cook alongsid
- e her\, taste her approach to gluten-free baking\, and take home a signed 
- copy.\n\nAll demos take place in the Foodwise Classroom (green tent in fro
- nt of the Ferry Building) and are free to the public\, with recipes and sa
- mples for all.\n\nThe demo will be followed by a book signing w...\n\nDeta
- ils: https://dothebay.com/events/2026/10/10/heather-hardcastle-the-flour-c
- raft-bakery-cafe-cookbook-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33535004/e445e13f-93a0-4679-84f9-8dd6fcc7f705.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Ferry Plaza
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/heather-hardcastle-the-flour-cr
- aft-bakery-cafe-cookbook-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sesame Street and The Great Elephant Adventure: Family Screening &
-  Activities
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17811244@sf-cal
-SEQUENCE:1
-CATEGORIES:Lecture/Education
-DESCRIPTION:Details: https://dothebay.com/events/2026/10/10/sesame-street-
- and-the-great-elephant-adventure-family-screening-activities-tickets\nSour
- ce: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34278155/ce705e2d-2d59-4ed3-859d-036dc6418d77.png
-LAST-MODIFIED:20261011T055613Z
-LOCATION:KQED LIVE\, The Commons\, KQED Headquarters - 2601 Mariposa Stree
- t\, San Francisco\, CA 94110\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/sesame-street-and-the-great-ele
- phant-adventure-family-screening-activities-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Workshop | Making Room: A Cyanotype Walk Through the Castro
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17853532@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:LOCATION\n\nGLBT Historical Society Museum\n\n4127 18th Street
- \n\nSan Francisco\, CA 94114\n\nADMISSION\n\n$20 (includes materials fee)\
- ; Free for GLBT Historical Society Members*\n\nRSVP and reserve tickets he
- re\n\nInspired by Where We Made Room\, this workshop sends you out into th
- e Castro for a walking and blind contour drawing session\, capturing the b
- uildings and streets that have held queer life for generations. Back at th
- e museum\, we'll trace those sketches onto transparency paper to create ne
- gatives\, then head outside again to turn them into cyanotype prints using
-  sun print paper—letting the sun fix your drawings into deep Prussian bl
- ue.\n\nJust as Landeta's silks layer archival exteriors with imagined inte
- riors to blur document and dream\, your prints will hold both what's actua
- lly there on the block and the loose\, intuitive line your hand found alon
- g the way.\n\nNo drawing experience necessary\, all materials provided. We
- ar shoes ready for a walk.\n\n*Due to the materials cost for this event\, 
- GLBT Historical Society Members are limited for one (1) free ticket to thi
- s program.\n\nPhoto: Jasmine Singh Rosado\n\nAleo Landeta (they/them) is i
- s a trans and Latine visual artist and educator based in Oakland whose pra
- ctice spans drawing\, painting\, installation\, and public programming. Th
- eir work centers queer joy as liberation\, drawing from lived experience a
- nd the communities that have held space for them to live authentically. Th
- ey have been exhibited at MACLA\, Bedford Gallery\, Berkeley Art Center\, 
- a...\n\n$20\n\nDetails: https://dothebay.com/events/2026/10/10/workshop-ma
- king-room-a-cyanotype-walk-through-the-castro-tickets\nSource: DoTheBay
-GEO:37.7608609;-122.4356584
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34483965/fdca3ef5-1f00-4bd4-a85b-5e2f95fe9fc1.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:GLBT History Museum\, 4127 18th St\, San Francisco\, CA\, 94114
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/workshop-making-room-a-cyanotyp
- e-walk-through-the-castro-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Story Exchange: An Interactive Storytelling Event
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17900435@sf-cal
-SEQUENCE:2
-CATEGORIES:Experiences
-DESCRIPTION:Mission StageWorks invites you to The Story Exchange\, a guide
- d storytelling experience that leads participants through a sharing of tru
- e stories to build rewarding\, real-time encounters. With a supportive spa
- ce and story prompts\, participants step into the role of storyteller with
- out the pressure of performing. Enjoy an evening meeting people\, discover
- ing connections\, and finding community through inspired exchanges and mea
- ningful moments.\n\nSliding scale $20-40\, promo 2-for-1 ticket\n\nDetails
- : https://dothebay.com/events/2026/10/10/the-story-exchange-an-interactive
- -storytelling-event-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https:
- //sf.funcheap.com/story-exchange-interactive-storytelling-event-2/
-LAST-MODIFIED:20261011T055613Z
-LOCATION:The Fold\, 3359 26th St\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/the-story-exchange-an-interacti
- ve-storytelling-event-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Film: Sesame Street and the Great Elephant Adventure
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17913953@sf-cal
-SEQUENCE:2
-CATEGORIES:Film
-DESCRIPTION:Elmo and the Sesame Street friends embark on a once-in-a-lifet
- ime African safari adventure. After adopting an orphaned elephant online\,
-  Elmo\, Abby and Nina travel to The Sheldrick Wildlife Trust in Kenya to m
- eet the young elephant and the keepers who care for her. In Sesame Street'
- s first-ever safari\, our friends embark on an unforgettable journey of di
- scovery\, taking them from the caring confines of the elephant sanctuary t
- o the unpredictable African bush\, where they come face to face with some 
- of nature's most iconic wildlife\, including lions\, zebras\, giraffes and
-  hippos. For ages 3-8 and their caregivers.\n\nFollowing the screening\, a
-  fun crafting activity will take place outside the auditorium.\n\nPresente
- d in collaboration with Sesame Workshop.\n\nFree\n\nPresented by San Franc
- isco Public Library\n\nFree\nSan Francisco Public Library\n\nDetails: http
- s://dothebay.com/events/2026/10/10/film-sesame-street-and-the-great-elepha
- nt-adventure-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.fu
- ncheap.com/free-kids-safari-film-sesame-streets-elephant-adventure-crafts-
- sf-main-library/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34760101/6d567ca5-dc30-4488-b733-61ae83274926.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Koret Auditorium (SF Public Library)\, 100 Larkin St\, San Franci
- sco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/film-sesame-street-and-the-grea
- t-elephant-adventure-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1st Marine Division Brass Band
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261006T001646Z
-UID:fleetweeksf-53584-20261010@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-concert-fleet-fest/
-GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Navy Band SW Brass Band
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261015T044918Z
-UID:fleetweeksf-53587-20261010@sf-cal
-SEQUENCE:9
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://dothebay.com/events/2026/10/10/india-basin-fleet-week-family-day-ti
- ckets\n- https://dothebay.com/events/2026/10/10/dirtybird-x-off-the-grid-f
- leet-week-treasure-island-tickets\n- https://sf.funcheap.com/sfs-fleet-fes
- t-2026-navy-band-sw-brass-band-fleet-fest/\n- https://sf.funcheap.com/free
- -boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\n- https://sf.f
- uncheap.com/2026-fleet-week-family-day-waterfront-concert-free-boat-rides-
- india-basin/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-sw-brass-band-
- fleet-fest/
-GEO:37.769322;-122.4315934
-LAST-MODIFIED:20261015T044918Z
-LOCATION:K9 Heroes - Duboce Park\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pulmonary Hypertension Wellness Expo (South SF)
@@ -1363,6 +819,87 @@ URL:https://sf.funcheap.com/huge-fancreated-lego-brick-exhibition-sfs-ston
  estown-oct-10-nov-15/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF’s Fleet Fest 2026: Brass Band Concert (Fleet Fest)
+DTSTART;TZID=America/Los_Angeles:20261010T110000
+DTEND;TZID=America/Los_Angeles:20261010T140000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1638958@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
+ Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
+ oaring of jet engines and head down to SF’s northern waterfront for San 
+ Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
+ t Week returns October 4-12\, 2026\, bringing more than a full week of mil
+ itary bands\, ship tours\, the Parade of Ships\, community events\, and th
+ e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
+ t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
+ dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
+ w is presented by United and features the Blue Angels\, United Airlines 77
+ 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
+ , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
+ y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
+ uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
+ ly commercial airliner performing a fully choreographed act at a U.S. air 
+ show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
+ \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
+ Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
+ hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
+ PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
+  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
+ t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
+ ://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-concert-fleet-fest/\nSou
+ rce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
+ age-Ticker-3.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:SkyStar Wheel Fisherman’s Wharf\, 2860 Taylor St\, San Francisc
+ o\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-concert-fleet-f
+ est/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Fleet Fest 2026: Navy Band SW Brass Band (K9 Heroes)
+DTSTART;TZID=America/Los_Angeles:20261010T110000
+DTEND;TZID=America/Los_Angeles:20261010T140000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1638959@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
+ Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
+ oaring of jet engines and head down to SF’s northern waterfront for San 
+ Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
+ t Week returns October 4-12\, 2026\, bringing more than a full week of mil
+ itary bands\, ship tours\, the Parade of Ships\, community events\, and th
+ e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
+ t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
+ dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
+ w is presented by United and features the Blue Angels\, United Airlines 77
+ 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
+ , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
+ y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
+ uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
+ ly commercial airliner performing a fully choreographed act at a U.S. air 
+ show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
+ \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
+ Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
+ hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
+ PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
+  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
+ t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
+ ://sf.funcheap.com/sfs-fleet-fest-2026-navy-band-sw-brass-band-fleet-fest/
+ \nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
+ age-Ticker-3.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Duboce Park\, Duboce and Noe\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-navy-band-sw-brass-band-fl
+ eet-fest/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:5th Annual Spooktacular Halloween & Oddities Market (Crockett)
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261011T040000
@@ -1388,34 +925,74 @@ URL:https://sf.funcheap.com/5th-annual-spooktacular-halloween-oddities-mar
  ket-crockett/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlie and the Tropicales (Stanford)
+SUMMARY:Free Boat Rides + Fleet Week Waterfront Fun at India Basin Park
 DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261007T060815Z
-UID:funcheap-1639913@sf-cal
+DTEND;TZID=America/Los_Angeles:20261010T150000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1639921@sf-cal
 SEQUENCE:0
 CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event Organizern/aFamily Music Concert:\nBing
-  Nursery School’s Performance Series presents an interactive and fun fam
- ily music concert featuring Charlie and The Tropicales\, a Caribbean-style
-  band from New Orleans\, on Saturday\, October 10\, 2026\, at 11:00 a.m. a
- t Dinkelspiel Auditorium. Tickets can be purchased here and are expected t
- o sell out! Appropriate for children of all ages!\n\n$10.00\n\nTickets: ht
- tps://www.eventbrite.com/e/bing-nursery-school-performance-series-charlie-
- and-the-tropicales-tickets-1999707235171?lid=0sdzs95i1xix&amp\;utm_source=
- braze&amp\;utm_medium=ebml&amp\;utm_campaign=clpo_ceex_lcm_fad_mec_mc_mum_
- 0_0_eventpublished&amp\;utm_term=Main_EventPublishedSubPaid_HeroSummary_ot
- her%20feature%20usage&amp\;utm_content=d83bc845-0544-4274-a9dd-e152eac1a1f
- 7__6a99a81b8572cc34130f2736f0bc6842__f605d558-54e9-4fbc-aef1-2c09bcef5c27\
- nDetails: https://sf.funcheap.com/charlie-tropicales-stanford/\nSource: Fu
- ncheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Charli
- e-and-the-Tropicales.jpg
-LAST-MODIFIED:20261007T060815Z
-LOCATION:Dinkelspiel Auditorium (Stanford)\, 471 Lagunita Dr.\, San Franci
- sco\, CA
+DESCRIPTION:Celebrate Fleet Week at the park with a FREE concert\, boat ri
+ des\, games\, military challenges\, kids’ swag\, community resources\, a
+ nd more!\n\nJoin us for Fleet Week Family Day at India Basin Waterfront Pa
+ rk and celebrate Fleet Week on the water! Bring out the whole family out f
+ or a free afternoon filled with live music\, outdoor games\, military chal
+ lenges\, free boat rides\, kids’ giveaways\, community resources\, and m
+ ore. Enjoy a special performance by the U.S Air Force Band of the Golden W
+ est Brass while connecting with neighbors and community partners. This fam
+ ily-friendly event is free and open to the community\, so come ready for a
+  fun day on the waterfront!\n\nFree\n\nTickets: https://www.eventbrite.com
+ /e/fleet-week-family-day-tickets-2002638658136\nDetails: https://sf.funche
+ ap.com/free-boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\nSou
+ rce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Fleet-
+ Week-Family-Day.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:India Basin Waterfront Park\, 900 Innes Ave\, San Francisco\, CA 
+ 94124
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/charlie-tropicales-stanford/
+URL:https://sf.funcheap.com/free-boat-rides-fleet-week-waterfront-fun-indi
+ a-basin-park-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Fleet Week Family Day: Waterfront Concert + Free Boat Rides (
+ India Basin)
+DTSTART;TZID=America/Los_Angeles:20261010T110000
+DTEND;TZID=America/Los_Angeles:20261010T150000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1640378@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Fleet Week is coming to the Bayview! 🇺🇸\nCelebrate Fleet
+  Week and the Bayview-Hunters Point community with a free concert featurin
+ g Golden West Brass\, part of the U.S. Air Force Band of the Golden West. 
+ Kids and families can also enjoy military challenges\, outdoor games and c
+ ontests\, Fleet Week swag\, free boat rides\, community rowing\, and more.
+ \nMusical Feature\nGolden West Brass\nU.S. Air Force Band of the Golden We
+ st\nWhat to Expect\n\nFree live concert\nOutdoor games and contests with m
+ ilitary service members\nMilitary challenges and activities\nFleet Week sw
+ ag for kids\nFree boat rides and community rowing with Rocking the Boat\nC
+ ommunity resources\nFamily-friendly activities\nSafer Streets demonstratio
+ n and neighborhood block party\n\nEvent Locations\nFamily Day & Concert\nI
+ ndia Basin Waterfront Park\n900 Innes Ave\nSan Francisco\, CA\n\nSafer Str
+ eets Demonstration\nBetween Hunters Point Blvd. and Innes Ave.\nSaturday\,
+  October 10\, 2026\n11:00 AM–3:00 PM\nThe celebration is part of a weeke
+ nd-long Safer Streets demonstration on Innes Avenue and Hunters Point Boul
+ evard\, with temporary street changes taking place Friday\, October 9 thro
+ ugh Sunday\, October 11.\nCome out with your family\, enjoy the music and 
+ activities\, connect with your neighbors\, and celebrate Fleet Week in the
+  Bayview!\nFREE & OPEN TO THE COMMUNITY\n\nFree\n\nTickets: https://www.ev
+ entbrite.com/e/india-basin-fleet-week-family-day-tickets-2002767738218?aff
+ =oddtdtcreator\nDetails: https://sf.funcheap.com/2026-fleet-week-family-da
+ y-waterfront-concert-free-boat-rides-india-basin/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/India-
+ Basin-Fleet-Week-Family-Day.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:India Basin Waterfront Park\, 900 Innes Ave\, San Francisco\, CA 
+ 94124
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-concert-
+ free-boat-rides-india-basin/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Davingy SF Open Studios
@@ -1511,111 +1088,44 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reclaimed Riffs: A Punk Rock & Art Party
-DTSTART;TZID=America/Los_Angeles:20261010T113000
-DTEND;TZID=America/Los_Angeles:20261010T133000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17714878@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:Punk\, photography\, and wearable art collide at Building Reso
- urces. Xan Blood Walker's exhibition combines images of abandoned spaces\,
-  underground culture\, and California's margins with an outdoor all-ages c
- oncert featuring four Bay Area punk bands. The event celebrates creativity
- \, community\, and art made far from traditional gallery walls.\n\nFree\nL
- isted time is doors\n\nDetails: https://dothebay.com/events/2026/10/10/rec
- laimed-riffs-a-punk-rock-art-party-tickets\nSource: DoTheBay
-GEO:37.7457391;-122.3854465
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33814938/648da55f-1ef2-4535-9eb5-93597f46e13f.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Building REsources\, 701 Amador Street\, San Francisco\, CA\, 941
- 24
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/reclaimed-riffs-a-punk-rock-art
- -party-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aquarium of the Bay Fleet Week Watch Party
 DTSTART;TZID=America/Los_Angeles:20261010T113000
-DTEND;TZID=America/Los_Angeles:20261010T133000
-DTSTAMP:20261011T130056Z
-UID:dothebay-17738855@sf-cal
-SEQUENCE:4
-CATEGORIES:Experiences
-DESCRIPTION:Celebrate Fleet Week on October 10\, 2026 with spectacular vie
- ws from Aquarium of the Bay’s private outdoor balconies overlooking the 
- San Francisco Bay. Enjoy catered food and drinks\, watch the air show* ove
- rhead\, and explore the Aquarium throughout the day.\nLimited Capacity: Re
- serve your spot before tickets sell out.\n\nWHAT’S INCLUDED\nYour Fleet 
- Week Watch Party ticket includes:\nPrivate balcony access overlooking the 
- Bay and PIER 39\nFleet Week Air Show viewing*\nCatered lunch\nBeverages\nS
- ame-day Aquarium general admission\nIn-and-out privileges during the event
-  with your event wristband\n*Air show is managed by 3rd party company. Aqu
- arium is not responsible if weather conditions or alteration of lineup of 
- performances affects viewing.\n\nEvent tickets are non-refundable.\nAquari
- um general admission is included with your Fleet Week Watch Party ticket.\
- nThe Watch Party runs from 11:30 AM – 4:00 PM. The Aquarium remains open
-  until 5:00 PM\, with last entry at 4:30 PM.\nFood and beverages are avail
- able while supplies last and may not be brought inside Aquarium exhibit ar
- eas.\nSeating is first come\, first served and cannot be held for guests w
- ho have not arrived.\nGuests ages 21+ must present a valid government-issu
- ed photo ID to redeem adult beverage tickets.\nAnimals are not permitted\,
-  with the exception of trained service animals.\n*The Fleet Week Air Show 
- is produced and managed by a third party. Air show schedules\, performers\
- , viewing conditions\, or the event itself may change or be cancele...\n\n
- $65 per person\n\nDetails: https://dothebay.com/events/2026/10/10/aquarium
- -of-the-bay-fleet-week-watch-party-tickets\nSource: DoTheBay\n\nAlso liste
- d on:\n- https://sf.funcheap.com/aquarium-bay-fleet-week-watch-party/
-GEO:37.8081343;-122.4096086
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33931243/d175d4b8-42bd-46d8-8f0d-ebf713c5fe3f.jpg
-LAST-MODIFIED:20261011T130056Z
-LOCATION:Aquarium of The Bay\, The Embarcadero and Beach St\, San Francisc
- o\, CA\, 94133
+DTEND;TZID=America/Los_Angeles:20261010T160000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1632322@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerAquarium of the BayCelebrate F
+ leet Week on October 10\, 2026 with spectacular views from Aquarium of the
+  Bay’s private outdoor balconies overlooking the San Francisco Bay. Enjo
+ y catered food and drinks\, watch the air show* overhead\, and explore the
+  Aquarium throughout the day.\nLimited Capacity: Reserve your spot before 
+ tickets sell out.\n\nWhat’s Incldued\nYour Fleet Week Watch Party ticket
+  includes:\n\nPrivate balcony access overlooking the Bay and PIER 39\nFlee
+ t Week Air Show viewing*\nCatered lunch\nBeverages\nSame-day Aquarium gene
+ ral admission\nIn-and-out privileges during the event with your event wris
+ tband\n\n*Air show is managed by 3rd party company. Aquarium is not respon
+ sible if weather conditions or alteration of lineup of performances affect
+ s viewing.\n\nEvent tickets are non-refundable.\nAquarium general admissio
+ n is included with your Fleet Week Watch Party ticket.\nThe Watch Party ru
+ ns from 11:30 AM – 4:00 PM. The Aquarium remains open until 5:00 PM\, wi
+ th last entry at 4:30 PM.\nFood and beverages are available while supplies
+  last and may not be brought inside Aquarium exhibit areas.\nSeating is fi
+ rst come\, first served and cannot be held for guests who have not arrived
+ .\nGuests ages 21+ must present a valid government-issued photo ID to rede
+ em adult beverage tickets.\nAnimals are not permitted\, with the exception
+  of trained service animals.\n*The Fleet Week Air Show is produced and man
+ aged by a third party. Air show schedules\, performers\, viewing con...\n\
+ n$65.00\n\nTickets: https://www.aquariumofthebay.org/fleetweek/\nDetails: 
+ https://sf.funcheap.com/aquarium-bay-fleet-week-watch-party/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/Flyer-
+ FleetWeek-WatchParty-2026-2000x2588px-V1.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Aquarium of the Bay\, Embarcadero and Beach St.\, San Francisco\,
+  CA
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/aquarium-of-the-bay-fleet-week-
- watch-party-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live on Larkin: Little Saigon Edition
-DTSTART;TZID=America/Los_Angeles:20261010T120000
-DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261011T130056Z
-UID:dothebay-17585671@sf-cal
-SEQUENCE:3
-CATEGORIES:Variety
-DESCRIPTION:Tenderloin Community Benefit District\, Into The Streets\, Ten
- derloin Merchants & Tenderloin Eats present\nLive on Larkin: Little Saigon
-  Edition\nSaturday\, October 10 | Larkin St. between Eddy & O'Farrell\n\nL
- ive on Larkin – a new series of free street events on Larkin Street!\n\n
- Come out and celebrate in the Tenderloin\, one of San Francisco’s most v
- ibrant cultural crossroads\, and discover why it’s one of the best desti
- nations for amazing food\, art\, and history. Check out live music\, perfo
- rmances\, free activities & games\, vendors\, and more!\n\nOctober 10: Lit
- tle Saigon Edition\nFeaturing: Pumpkin Patch\, Balloon Bubble House\, Wear
- able Crafts\, Karaoke\, and Games\, wellness vendors\, food + beverage ven
- dors\, live music\, and more!\n\nDANCE:\n\nJohnny Huy Nguyễn\nSebastian 
- Lê\n\nDJ SET:\n\nKat Lê\nCyn Phươnganh Lê\n\nLIVE BANDS:\n\nGreen Sou
- nd Band\nRebirth Canal\nJammaster Vu\nVictoria Thúy Vi\nToan\nSab Star\n\
- nSave the date for these Live on Larkin Events:\n2nd Saturdays\, 5-10PM:\n
- \nOctober 10\, 2026\n\nDecember 12\, 2026\n\nRSVP Deals\nRise over Run at 
- the Timbri Hotel\nKeep the fun going after Live on Larkin! Show your Live 
- on Larkin Eventbrite ticket on the day of Live on Larkin events and receiv
- e 20% off food and beverage purchases from 5:00–10:30 pm.\n\nPresented b
- y Tenderloin Community Benefit District\, Into The Streets\, Tenderloin Me
- rchants\, and Tenderloin Eats.\n\nIn partnership with Discover Tenderloin.
- \n\nLive on Larkin is a project of Larkin St. Revival TLCBD.org/larkin\, w
- ith funding generously provided by Chris Lars...\n\nFree\nTenderloin Commu
- nity Benefit District\, Into The Streets\, Tenderloin Merchants & Tenderlo
- in Eats present\n\nDetails: https://dothebay.com/events/2026/10/10/live-on
- -larkin-october-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33216742/37cf92ae-e30d-4913-b419-fc43fb8f156b.jpg
-LAST-MODIFIED:20261011T130056Z
-LOCATION:Larkin & Eddy St\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/live-on-larkin-october-tickets
+URL:https://sf.funcheap.com/aquarium-bay-fleet-week-watch-party/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air Show
@@ -1635,47 +1145,112 @@ TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/air-show/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:USAF Band of Golden West – Rock Band Mobility
+SUMMARY:SF’s Fleet Fest 2026: Band of Golden West – Rock Band (Fleet F
+ est)
 DTSTART;TZID=America/Los_Angeles:20261010T120000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261006T001646Z
-UID:fleetweeksf-53591-20261010@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-rock-band-f
- leet-fest/
-GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
+DTEND;TZID=America/Los_Angeles:20261010T150000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1638960@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
+ Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
+ oaring of jet engines and head down to SF’s northern waterfront for San 
+ Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
+ t Week returns October 4-12\, 2026\, bringing more than a full week of mil
+ itary bands\, ship tours\, the Parade of Ships\, community events\, and th
+ e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
+ t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
+ dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
+ w is presented by United and features the Blue Angels\, United Airlines 77
+ 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
+ , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
+ y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
+ uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
+ ly commercial airliner performing a fully choreographed act at a U.S. air 
+ show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
+ \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
+ Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
+ hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
+ PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
+  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
+ t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
+ ://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-rock-band-fleet
+ -fest/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
+ age-Ticker-3.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:SkyStar Wheel Fisherman’s Wharf\, 2860 Taylor St\, San Francisc
+ o\, CA 94133
 TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-rock-b
+ and-fleet-fest/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:191st Army Jazz Ensemble
+SUMMARY:SF’s Fleet Fest 2026: Army Jazz Ensemble (Ghirardelli Square)
 DTSTART;TZID=America/Los_Angeles:20261010T120000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T130056Z
-UID:fleetweeksf-53593-20261010@sf-cal
-SEQUENCE:4
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-fest-2026-army-jazz-ensemble-ghirardelli-
- square/\n- https://sf.funcheap.com/army-pop-band-flam-jam-ghirardelli-squa
- re/
-GEO:37.8058305;-122.4230122
-LAST-MODIFIED:20261011T130056Z
-LOCATION:Ghirardelli Square\, San Francisco
+DTEND;TZID=America/Los_Angeles:20261010T150000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1638961@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
+ Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
+ oaring of jet engines and head down to SF’s northern waterfront for San 
+ Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
+ t Week returns October 4-12\, 2026\, bringing more than a full week of mil
+ itary bands\, ship tours\, the Parade of Ships\, community events\, and th
+ e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
+ t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
+ dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
+ w is presented by United and features the Blue Angels\, United Airlines 77
+ 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
+ , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
+ y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
+ uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
+ ly commercial airliner performing a fully choreographed act at a U.S. air 
+ show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
+ \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
+ Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
+ hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
+ PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
+  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
+ t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
+ ://sf.funcheap.com/sfs-fleet-fest-2026-army-jazz-ensemble-ghirardelli-squa
+ re/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
+ age-Ticker-3.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
+ 9
 TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-army-jazz-ensemble-ghirard
+ elli-square/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army Pop Band “Flam Jam” in Ghirardelli Square
+DTSTART;TZID=America/Los_Angeles:20261010T120000
+DTEND;TZID=America/Los_Angeles:20261010T150000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1639631@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event OrganizerSelf DesignedJoin us at Ghirar
+ delli Square as San Francisco celebrates Fleet Week with live music\, wate
+ rfront events\, and more.\nService members can also enjoy 15% off at parti
+ cipating retailers with valid ID. Here’s who’s participating:\n\nGhira
+ rdelli Chocolate\nGigi Rose\nGigi + Rosie\nBroad Street Oyster Co.\nCultiv
+ ar\nHardware Coffee Co.\nLola\nPalette Tea House\nSan Francisco Brewing Co
+ .\nVom Fass\nYap\n\nFree\n\nTickets: https://www.ghirardellisq.com/ongoing
+ -events/2026/9/18/fleet-week-events-amp-offers\nDetails: https://sf.funche
+ ap.com/army-pop-band-flam-jam-ghirardelli-square/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Instag
+ ram-4-52.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
+ 9
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/army-pop-band-flam-jam-ghirardelli-square/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fleet Week Blue Angels + Bubbles w/ Seafood Tower
@@ -1706,92 +1281,6 @@ LOCATION:McCormick & Kuletos\, 900 North Point St\, San Francisco\, CA 941
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/fleet-week-blue-angels-bubbles-seafood-tower-s
  f/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Follow the Music
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17687565@sf-cal
-SEQUENCE:4
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Free RSVP\n\nSince launching in 2023 Follow the Music has been
-  at the forefront of a rising movement promoting arts education around the
-  Bay Area. The nonprofit organization introduces its next phase with an em
- erging artists music festival designed to showcase aspiring young musician
- s. Bringing families and young people from all over the region to the urba
- n oasis of the Gardens\, Follow the Music celebrates the Bay Area’s unri
- valed cultural heritage by building a bridge between that legacy and the y
- oung people carrying it forward. Featuring musicians ages 14-25\, the even
- t includes musicians from the San Francisco Community Music Center\, Oakla
- nd School for the Arts\, SFJAZZ\, GLIDE Memorial Church\, Blue Bear School
-  of Music\, Elevate Oakland\, Enriching Lives Through Music and other orga
- nizations. Drawing on the Bay Area’s cultural diversity\, the lineup cro
- sses genres from classical and jazz to soul\, rock and Latin jazz. It also
-  features guest speakers from music\, sports and popular culture. A commun
- ity resource fair provides families and students with opportunities to con
- nect directly with many Bay Area music education programs while learning a
- bout classes and scholarships. The muse can take many pathways and Follow 
- the Music is here to ensure that all are open.\n\nOakland Rising\, a colle
- ctive developed in partnership with Follow the Music\, anchors the program
- . The group includes B. Deveaux\, August Lee Stevens and Naima\, all risin
- g stars continuing Oakland’s fervent musical and cultur...\n\nDetails: h
- ttps://dothebay.com/events/2026/10/10/follow-the-music-tickets\nSource: Do
- TheBay
-GEO:37.7850153;-122.4023464
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33683367/639deabf-30e0-4c94-8171-dc6236553fae.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
- ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/follow-the-music-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Chinese Ghost Story
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17912995@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:In this martial arts film\, Ning Choi-san (Leslie Cheung)\, a 
- traveling tax collector\, takes shelter for the night in an abandoned temp
- le. When he meets the lovely maiden Nip Siu-sin (Tsu-hsien Wang)\, Ning im
- mediately falls for her. Unfortunately\, Ning later discovers that she is 
- a ghost who is forced to serve a cruel demon\, and he resolves to save her
-  from the evil spirit. Enlisting the aid of Taoist warrior Yin Chik-hsia (
- Ma Wu)\, Ning ventures into a supernatural realm to save Nip's soul.\n\nDe
- tails: https://dothebay.com/events/2026/10/10/a-chinese-ghost-story-ticket
- s\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34756242/f63515ba-34d7-47ff-ae54-fae8a11b820a.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
-  Francisco\, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/a-chinese-ghost-story-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:USAF Band of Golden West Brass
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261006T001646Z
-UID:fleetweeksf-53592-20261010@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-brass-bayvi
- ew/
-GEO:37.7321975;-122.3757558
-LAST-MODIFIED:20261006T001646Z
-LOCATION:India Basin Waterfront Park in Bayview\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden State Pie Competition (Potrero Hill)
@@ -1861,6 +1350,47 @@ LOCATION:Downtown Martinez Participating Businesses\, 649 Main St. Martine
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/14th-annual-zombie-brew-crawl-downtown-martine
  z/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Fleet Fest 2026: Band of Golden West Brass (Bayview)
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261010T160000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1638962@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
+ Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
+ oaring of jet engines and head down to SF’s northern waterfront for San 
+ Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
+ t Week returns October 4-12\, 2026\, bringing more than a full week of mil
+ itary bands\, ship tours\, the Parade of Ships\, community events\, and th
+ e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
+ t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
+ dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
+ w is presented by United and features the Blue Angels\, United Airlines 77
+ 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
+ , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
+ y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
+ uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
+ ly commercial airliner performing a fully choreographed act at a U.S. air 
+ show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
+ \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
+ Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
+ hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
+ PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
+  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
+ t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
+ ://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-brass-bayview/\
+ nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
+ age-Ticker-3.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:India Basin Waterfront Park\, 900 Innes Ave\, San Francisco\, CA 
+ 94124
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-brass-
+ bayview/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Music Room
@@ -2131,25 +1661,18 @@ BEGIN:VEVENT
 SUMMARY:Navy Band SW Brass Band
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261015T044918Z
+DTSTAMP:20261017T204148Z
 UID:fleetweeksf-53589-20261010@sf-cal
-SEQUENCE:9
+SEQUENCE:10
 CATEGORIES:Music
 DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
  ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
  Check out our 2026 free concert calendar to see when we’re performing in
   your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
  t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://dothebay.com/events/2026/10/10/india-basin-fleet-week-family-day-ti
- ckets\n- https://dothebay.com/events/2026/10/10/dirtybird-x-off-the-grid-f
- leet-week-treasure-island-tickets\n- https://sf.funcheap.com/sfs-fleet-fes
- t-2026-navy-band-sw-brass-band-fleet-fest/\n- https://sf.funcheap.com/free
- -boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\n- https://sf.f
- uncheap.com/2026-fleet-week-family-day-waterfront-concert-free-boat-rides-
- india-basin/\n- https://sf.funcheap.com/sfs-fleet-fest-2026-sw-brass-band-
- fleet-fest/
+ ttps://sf.funcheap.com/sfs-fleet-fest-2026-sw-brass-band-fleet-fest/
 GEO:37.8087407;-122.4142505
-LAST-MODIFIED:20261015T044918Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:Fleet Fest (SkyStar Wheel\, Fisherman's Wharf)\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://fleetweeksf.org/events/free-concert-series/
@@ -12642,9 +12165,9 @@ BEGIN:VEVENT
 SUMMARY:4-Star Halloween Cartoon Special
 DTSTART;TZID=America/Los_Angeles:20261017T100000
 DTEND;TZID=America/Los_Angeles:20261017T120000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17893635@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:This weekend\, the 4-Star offers up a festively programmed blo
  ck of Halloween cartoons to go with the season! You’re in for a program 
@@ -12663,10 +12186,11 @@ DESCRIPTION:This weekend\, the 4-Star offers up a festively programmed blo
  ward to seeing you at the movies!\n\nTickets: https://www.4-star-movies.co
  m/calendar-of-events/halloween-cartoons-sat\nDetails: https://dothebay.com
  /events/2026/10/17/4-star-halloween-cartoon-special-tickets\nSource: DoThe
- Bay
+ Bay\n\nAlso listed on:\n- https://sf.funcheap.com/free-halloween-cartoon-m
+ orning-4-star-theater-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34665066/68515d5e-3aa9-45df-807b-b661d67e6ac7.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/4-star-halloween-cartoon-specia
@@ -12773,6 +12297,79 @@ URL:https://sf.funcheap.com/rocky-mountain-nursery-school-sidewalk-sale-sf
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Families Out Loud San Francisco: Family Building & Surrogacy Confe
+ rence
+DTSTART;TZID=America/Los_Angeles:20261017T100000
+DTEND;TZID=America/Los_Angeles:20261018T040000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1637398@sf-cal
+SEQUENCE:0
+CATEGORIES:Lgbtq
+DESCRIPTION:Submitted by the Event OrganizerFamilies Out LoudFamilies Out 
+ Loud\, a 501(c)(3) nonprofit\, is bringing its family building conference 
+ to San Francisco: two days of honest education for anyone building a famil
+ y through IVF\, surrogacy\, or donor conception. Expert panels with fertil
+ ity doctors\, attorneys\, and financial advisors\; real stories from paren
+ ts\; and an expo to meet providers one-on-one. LGBTQ+ welcoming. Tickets f
+ rom $40\, includes Friday night cocktail party and Saturday brunch. Friday
+ \, October 16\, 6:00-8:00 PM: welcome kickoff and cocktail party (drinks a
+ nd hors d’oeuvres included). Saturday\, October 17\, 10:00 AM-4:00 PM: c
+ onference day with expert panels\, parent stories\, and the Family Buildin
+ g Partner Interactive Expo\; check-in opens at 9:00 AM. Note: the San Fran
+ cisco venue is to be announced\; check the ticket page for updates.\n\n$40
+ .00\n\nTickets: https://familiesoutloudevents.com/events/san-francisco\nDe
+ tails: https://sf.funcheap.com/families-loud-san-francisco-family-building
+ -surrogacy-conference/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Septem
+ ber.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:San Francisco Marriott Marquis\, 780 Mission St\, San Francisco\,
+  CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/families-loud-san-francisco-family-building-su
+ rrogacy-conference/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seed and Soul Club’s Fall Swap
+DTSTART;TZID=America/Los_Angeles:20261017T100000
+DTEND;TZID=America/Los_Angeles:20261017T140000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1638299@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Submitted by the Event OrganizerZeldric TamayoJoin the Seed an
+ d Soul Club for our last plant swap in San Francisco for 2026! This time\,
+  we’re heading to City College of San Francisco’s Horticulture and Flo
+ ristry Department. You’ll get to learn from the department’s instructo
+ rs\, explore their greenhouses\, and enjoy some of Julia’s delicious pie
+ s.\nWe’re also teaming up with the department to spread the word about t
+ heir free classes for San Francisco residents. If you’ve ever wanted to 
+ go deeper than a swap\, this is where to start.\n\nEvent Highlights:\n\nTh
+ e Signature SSC Plant Swap. Bring a healthy plant\, leave with a new one. 
+ Our coordinated exchange is built so everyone goes home with something the
+ y’re excited about.New to this? Read our process before you come.\nPick 
+ Your Plant Adventure. Choose one: take a self-guided tour of the City Coll
+ ege greenhouses\, sit in on a horticulture or floristry class happening th
+ at day\, or watch a demo on mounting epiphytes\nCCSF Plant Sale. The depar
+ tment will be selling plants on-site\, and every purchase goes toward mate
+ rials and supplies for their classes.\nJulia’s Pies Is Back. Our favorit
+ e pie stand returns\, so plan your slice around the swap.\nCommunity Impac
+ t. Leftover plants from the swap go straight to the CCSF Horticulture Depa
+ rtment’s programs and students’ classwork\, so your plants keep teachi
+ ng long after the swap ends.\n\nTo participate in our signature swap\, adv
+ ance registration is required. Spots are limited for a seamless experience
+ \,...\n\n$20.00\n\nTickets: https://www.seedandsoulclub.org/upcoming-swaps
+ /fallswap2026\nDetails: https://sf.funcheap.com/seed-soul-clubs-fall-swap/
+ \nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Fall-S
+ wap-for-website.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:City College of San Francisco (Ocean Campus)\, 50 Frida Kahlo Way
+ \, San Francisco\, CA 94112
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/seed-soul-clubs-fall-swap/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Chalk Art Event (El Cerrito)
 DTSTART;TZID=America/Los_Angeles:20261017T100000
 DTEND;TZID=America/Los_Angeles:20261017T130000
@@ -12836,6 +12433,35 @@ URL:https://sf.funcheap.com/filipino-american-international-book-festival-
  sf-main-library/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calle24 Cafecito Tour
+DTSTART;TZID=America/Los_Angeles:20261017T100000
+DTEND;TZID=America/Los_Angeles:20261017T120000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1641114@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerMission LoteríaExplore the fl
+ avors\, murals\, bakeries\, and cultural landmarks of San Francisco’s Ca
+ lle 24 Latino Cultural District.\nJoin Mission Lotería and Calle 24 Latin
+ o Cultural District for a brand-new guided Cafecito Tour along 24th Street
+  in the heart of the Mission.\n\nThis weekend walking experience brings to
+ gether two of the neighborhood’s greatest treasures: its rich Latino cul
+ tural history and its beloved cafés and panaderías. Along the way\, gues
+ ts will enjoy special tastings\, visit iconic local businesses\, discover 
+ meaningful public art\, and learn more about the people and stories that h
+ ave shaped Calle 24.\nBring your walking shoes\, and get ready to experien
+ ce 24th Street one cafecito sip\, one pan dulce bite\, and one majestic mu
+ ral at a time.\n\n$33.43\n\nTickets: https://www.eventbrite.com/e/calle24-
+ cafecito-tour-tickets-2002982036189?discount=SF-FUNCHEAP\nDetails: https:/
+ /sf.funcheap.com/calle24-cafecito-tour/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Cafeci
+ to-Tour-Event-Headers-2.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Double Shot Coffee\, 3077 24th Street\, San Francisco\, CA 94110
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/calle24-cafecito-tour/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Community Health Fair – Free Health Screenings (San Leandro
  )
 DTSTART;TZID=America/Los_Angeles:20261017T100000
@@ -12897,22 +12523,6 @@ LAST-MODIFIED:20261006T193028Z
 LOCATION:Surrey St between Van Buren St and Swiss Ave\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261017T100000
-DTEND;TZID=America/Los_Angeles:20261017T110000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-853aaca87c82b64a@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10547\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Filipino American International Book Festival 2026 (SF Main Librar
@@ -13070,9 +12680,9 @@ BEGIN:VEVENT
 SUMMARY:Code Ninjas Stonestown - Grand Opening! - Fall STEM Discovery Day
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T130000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17955842@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Arts & Family
 DESCRIPTION:Join us in person for Code Ninjas Stonestown’s grand opening
   and a fun\, hands-on Fall STEM Discovery Day!\nCode Ninjas Stonestown Gra
@@ -13091,10 +12701,12 @@ DESCRIPTION:Join us in person for Code Ninjas Stonestown’s grand opening
  PvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fcode-ninjas-stonestown-gran
  d-opening-fall-stem-discovery-day-tickets-2003247877327\nDetails: https://
  dothebay.com/events/2026/10/17/code-ninjas-stonestown-grand-opening-fall-s
- tem-discovery-day-tickets\nSource: DoTheBay
+ tem-discovery-day-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://
+ sf.funcheap.com/free-code-ninjas-fall-stem-discovery-day-grand-opening-sto
+ nestown/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34957574/2f6785ce-27bb-45b7-bdb8-1171ab452e7e.jpg
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:Code Ninjas Stonestown\, 595 Buckingham Way\, San Francisco\, CA\
  , 94132
 TRANSP:TRANSPARENT
@@ -13141,6 +12753,46 @@ LOCATION:695 Avenue of the Palms\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/off-the-grid-2026-treasure-island-w-free-kites
  -free-ferry-rides-fall-2026-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Run Bayview 5K 2026 – Charity Run
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T150000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1635893@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Submitted by the Event OrganizerAnthony WeaverLace up your sho
+ es for the third annual We Run Bayview 5K on Saturday\, October 17\, 2026\
+ , a community-focused 5K organized by Young community Developers (YCD) cel
+ ebrating movement\, wellness\, local businesses\, and the Bayview-Hunters 
+ Point neighborhood.\nThe point-to-point race begins at Candlestick Point S
+ tate Recreation Area and travels through Bayview’s iconic Third Street c
+ orridor\, finishing at the District 10 Health Fest at the Southeast Commun
+ ity Center. The course is designed for runners and walkers of all levels\,
+  so whether you’re a seasoned runner or simply looking for a fun way to 
+ get active with friends and family\, you’re welcome to join!\n\nBut this
+  isn’t just a race. Every registration helps support the launch of a Hea
+ lthy Food Bank initiative\, expanding access to fresh\, nutritious food an
+ d wellness resources for Bayview residents.\nAnd there’s a tasty bonus: 
+ every registered participant receives a meal voucher that can be exchanged
+  for a meal at a participating local business along the Third Street corri
+ dor. Run through Bayview\, celebrate at the finish line\, and then support
+  neighborhood restaurants.\nAfter crossing the finish line\, participants 
+ can also enjoy the District 10 Health Fest\, connecting with local organiz
+ ations\, health resources\, and community partners. This event is family-f
+ riendly\, pet-friendly and welcoming to runners\, walkers\, families\, and
+  all fitness levels. The Bayview shuttle will also be available to t...\n\
+ n$30.00\n\nTickets: https://raceroster.com/events/2026/139958/we-run-bayvi
+ ew-5k\nDetails: https://sf.funcheap.com/run-bayview-5k-2026-charity-run/\n
+ Source: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/WRB-5K
+ -2026-Flyer.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Candlestick Point State Recreation Area\, 400 Hunters Point Expre
+ ssway\, San Francisco\, CA 94124
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/run-bayview-5k-2026-charity-run/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco Photobook Fair w/ 40+ Publishers (Oct. 17-18)
@@ -13401,22 +13053,6 @@ DESCRIPTION:Happening at Civic Center Plaza\, the 3rd annual Keepin’ It
 LAST-MODIFIED:20261008T185326Z
 TRANSP:TRANSPARENT
 URL:https://sfciviccenter.org/event/keepin-it-safe-in-the-city/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261017T110000
-DTEND;TZID=America/Los_Angeles:20261017T120000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-259b9ffbd777f3a2@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10561\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Vampiro
@@ -13782,6 +13418,33 @@ URL:https://sf.funcheap.com/sfs-free-salvadoran-culture-festival-bike-tour
  -the-mission/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Walk It. Shop It\, Crockett
+DTSTART;TZID=America/Los_Angeles:20261017T120000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1642443@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event Organizersylvia holdenTucked along the 
+ Carquinez Strait\, Crockett is inviting the Bay Area to discover its indep
+ endent shops\, vintage finds\, local artists\, and small-town charm.\nOn S
+ aturday\, October 17\, from noon to 5 PM\, Walk It Shop It brings together
+  downtown merchants and pop-up vendors for an afternoon of shopping\, stro
+ lling\, and discovering something unexpected. Visitors can pick up a map a
+ t any participating shop\, explore the neighborhood while collecting signa
+ tures\, and enter a community raffle once completed.\n\nSaturday\, October
+  17 | Noon–5 PM\nDowntown Crockett\, California\nFree admission | All we
+ lcome\n\nFree\n\nTickets: https://www.facebook.com/events/1005290312601223
+ /\nDetails: https://sf.funcheap.com/walk-shop-crockett-2/\nSource: Funchea
+ p SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Walk-I
+ t-Web-Octb.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Monarch Store\, 1308 Pomona Street
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/walk-shop-crockett-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZYZZYVA Movie Matinee with Ingrid Rojas Contreras: Amarcord (35mm)
 DTSTART;TZID=America/Los_Angeles:20261017T123000
 DTEND;TZID=America/Los_Angeles:20261017T143000
@@ -13893,40 +13556,6 @@ LAST-MODIFIED:20261006T193028Z
 LOCATION:48th Ave between Irving St and Lincoln Way\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United Nations Association Film Festival | Free UNAFF & Kids Progr
- am
-DTSTART;TZID=America/Los_Angeles:20261017T130000
-DTEND;TZID=America/Los_Angeles:20261017T134500
-DTSTAMP:20261006T172218Z
-UID:caldiscovery-festival-2551c3f8895e5b14@sf-cal
-SEQUENCE:1
-CATEGORIES:family,festival,film,free
-DESCRIPTION:Category: Festivals / ParadesContact Phone: (650) 724-5544Cont
- act Email: info@unaff.orgCost: FreeLink: https://www.unaff.org/The 29th Un
- ited Nations Association Film Festival presents free programming for kids 
- on Saturday\, Oct. 17\, in Palo Alto\, featuring two short documentaries.T
- he program opens with the world premiere of "The Fixer\," a 12-minute stop
- -motion documentary from local filmmakers Mimi Chakarova and Lydia Chávez
- . The film follows a 10-year-old girl determined to fix what is broken in 
- a fragile world.The program continues with "Under the Canopy\," directed b
- y Michal Krawczyk. Set in Colombia’s Andean-Amazon Piedmont\, the docume
- ntary follows a community-led effort to map biodiversity and restore fores
- ts while preserving Indigenous ecological knowledge.**Admission is free.**
-  This special UNAFF & Kids Program offers an opportunity to see two short 
- documentaries suitable for all audiences. The 29th UNAFF runs Oct. 15-25\,
-  2026\, with the theme “Passion for Change.” The festival features fil
- ms addressing human rights issues\, including the environment\, women’s 
- rights\, racism and peace\, and engages audiences throughout the Bay Area.
- \n\nPublished by KGO\nContains information from CalDiscovery (caldiscovery
- .com)\, ODbL 1.0\n\nDetails: https://www.unaff.org/?utm_source=caldiscover
- y&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T172218Z
-LOCATION:Mitchell Park Community Center 3700 Middlefield Road Palo Alto
-TRANSP:TRANSPARENT
-URL:https://www.unaff.org/?utm_source=caldiscovery&utm_medium=ics&utm_camp
- aign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:District 8 Castro Family Summit
@@ -14113,6 +13742,117 @@ URL:https://sf.funcheap.com/kings-vote-early-march-rolling-block-party-mis
  sion-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free United Nations Association Film Festival (Palo Alto)
+DTSTART;TZID=America/Los_Angeles:20261017T130000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1640855@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Still from THE FIXER\, directed by Mimi Chakarova and Lydia Ch
+ ávez\n\nThe 29th United Nations Association Film Festival presents free p
+ rogramming for kids on Saturday\, Oct. 17\, in Palo Alto\, featuring two s
+ hort documentaries.\nThe program opens with the world premiere of “The F
+ ixer\,” a 12-minute stop-motion documentary from local filmmakers Mimi C
+ hakarova and Lydia Chávez. The film follows a 10-year-old girl determined
+  to fix what is broken in a fragile world.\nThe program continues with “
+ Under the Canopy\,” directed by Michal Krawczyk. Set in Colombia’s And
+ ean-Amazon Piedmont\, the documentary follows a community-led effort to ma
+ p biodiversity and restore forests while preserving Indigenous ecological 
+ knowledge.\n\n**Admission is free.** This special UNAFF & Kids Program off
+ ers an opportunity to see two short documentaries suitable for all audienc
+ es. The 29th UNAFF runs Oct. 15-25\, 2026\, with the theme “Passion for 
+ Change.” The festival features films addressing human rights issues\, in
+ cluding the environment\, women’s rights\, racism and peace\, and engage
+ s audiences throughout the Bay Area.\n\nFree\n\nTickets: https://www.unaff
+ .org/\nDetails: https://sf.funcheap.com/free-united-nations-association-fi
+ lm-festival-palo-alto/\nSource: Funcheap SF\n\nAlso listed on:\n- https://
+ www.unaff.org/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fra
+ ncisco-ca
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/f_FIXE
+ R.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Mitchell Park Community Center\, 3700 Middlefield Road\, Palo Alt
+ o
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-united-nations-association-film-festival-
+ palo-alto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Ass Bluegrass at The Kilowatt
+DTSTART;TZID=America/Los_Angeles:20261017T130000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1641522@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Saturday\, October 17th 1-5pm at The Kilowatt in San Francisco
+ \nWes Urbaniak & The Mountain Folk w/ Natasha James + JonEmery\nFREE SHOW\
+ n\nWes Urbaniak\nWes Urbaniak is an amalgamation of songwriting\, storytel
+ ling and unique craftsmanship. His music is real\, honest\, bold and a lit
+ tle odd in the best way possible. The experiences of his life have created
+  stories through his songs. He pushes the limits within the human mind whi
+ le opening up the possibilities for the human spirit to explore what’s d
+ welling within. His whole world is a wonderfully delirious imagination ren
+ dered into reality. https://wesurbaniak.com/\nNatsha James\nNATASHA JAMES 
+ is known for taking Roots music styles\, turning them on their head\, comb
+ ining them\, and coming out with tunes that are completely unique but tota
+ lly familiar at the same time. https://www.natashajames.com/\nChuck “Jon
+ Emery” Dodds\nWTF Chuck “JonEmery” Dodds\, is a singer-songwriter kn
+ own for walking the line between heart\, humility and humor\, delivering s
+ ongs that are honest\, and unassumingly\, uplifting. https://whatthefuckch
+ uck.com/\n\nFree\n\nTickets: https://www.facebook.com/events/2856128494773
+ 032\nDetails: https://sf.funcheap.com/bad-ass-bluegrass-kilowatt-sf/\nSour
+ ce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/839793
+ 170_1793084935167983_568514657847918960_n.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Kilowatt\, 3160 16th Street  San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/bad-ass-bluegrass-kilowatt-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Explore SF’s Punk Rock Fashion + Underground Art Space
+DTSTART;TZID=America/Los_Angeles:20261017T130000
+DTEND;TZID=America/Los_Angeles:20261017T180000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1642797@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Punk MajestyJoin us Saturdays 1-6 PM for Nocturne\, a new unde
+ rground group art exhibition at the Punk Majesty Fashion Showroom + Galler
+ y.\nNocturne brings together an eclectic group of local artists working ac
+ ross different styles and mediums. With no prescribed theme\, the exhibiti
+ on is a carefully selected mix of original work\, individual perspectives\
+ , and unexpected discoveries.\nSpend the evening exploring the exhibition\
+ , meeting artists\, having a drink\, and experiencing one of San Francisco
+ ’s more unexpected independent art and fashion spaces.\n\nAbout Punk Maj
+ esty\nPunk Majesty is San Francisco’s only punk- and rock ’n’ roll-i
+ nspired fashion Showroom + underground art gallery.\nPunk Majesty brings t
+ ogether one-of-a-kind upcycled fashion\, curated rock ’n’ roll vintage
+ \, independent designers\, accessories\, and original art in a space roote
+ d in music\, fashion\, art\, and underground culture.\nThe Showroom regula
+ rly hosts rotating art exhibitions\, live music\, special events\, and com
+ munity gatherings while serving as the home of the Punk Majesty fashion la
+ bel.\nFeatured Artists\nRob Ginsberg (DASA) • Sonja Kremer • Inas Al-S
+ oqi • Fog Den • Steven Reece • Ona Gauthier • Tony Guaraldi-Brown 
+ • Ragini Sharma • Patricia Araujo • Lulu M • Ruben Garcia • Mast
+ erpieces by Moola • Brother Benwa\nPunk Majesty\n1124 Sutter St.\nSan Fr
+ ancisco\nFashion • Art • Community • Libations\nThe underground gall
+ ery is accessible by stairs and is not ADA accessible.\n\nFree\n\nTickets:
+  https://www.eventbrite.com/e/nocturne-group-art-show-punk-majesty-fashion
+ -vintage-art-tickets-2003520804660?aff=oddtdtcreator\nDetails: https://sf.
+ funcheap.com/explore-sfs-punk-rock-fashion-underground-art-space/\nSource:
+  Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Black-
+ White-Minimalist-3D-Art-Expo-Poster-Instagram-Post-45.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Punk Majesty\, 1124 Sutter Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/explore-sfs-punk-rock-fashion-underground-art-
+ space/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Let the Right One In
 DTSTART;TZID=America/Los_Angeles:20261017T131500
 DTEND;TZID=America/Los_Angeles:20261017T151500
@@ -14210,6 +13950,87 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/the-ceremony-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GalaXic Baseball League Book Signing with Acky Bright
+DTSTART;TZID=America/Los_Angeles:20261017T140000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1640296@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerAcky BrightRenowned manga arti
+ st Acky Bright celebrates the release of GalaXic Baseball League with a Ki
+ nokuniya book signing. The sci-fi sports manga\, created with VIZ Media\, 
+ OneTeam Partners\, and the MLB Players Association\, reimagines MLB stars 
+ like Aaron Judge\, Shohei Ohtani\, and Jazz Chisholm Jr. as manga heroes i
+ n an interplanetary baseball league. Acky\, known for his sketch-free\, si
+ ngle-pen live drawing\, will discuss his creative process\, sign copies\, 
+ and perform a reading. Every attendee will receive a free exclusive poster
+  to celebrate the book’s release.\n\nFree\n\nTickets: https://www.viz.co
+ m/galaxic-baseball-league\nDetails: https://sf.funcheap.com/galaxic-baseba
+ ll-league-book-signing-acky-bright/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/GalaXi
+ cBaseballLeague_GN01_.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Kinokuniya San Francisco\, 1581 Webster Street\, San Francisco\, 
+ CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/galaxic-baseball-league-book-signing-acky-brig
+ ht/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breathwork: An Invitation to Slow Down
+DTSTART;TZID=America/Los_Angeles:20261017T140000
+DTEND;TZID=America/Los_Angeles:20261017T153000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1640679@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports Fitness
+DESCRIPTION:Submitted by the Event OrganizerLaura LinFeeling stressed\, an
+ xious\, & overwhelmed?\nWe live in an era where these feelings have become
+  our norm when joy\, bliss and peace should be our baseline way of being i
+ nstead.\n\nBreathwork is an embodiment practice where we use conscious bre
+ athing to get grounded\, break down stagnant energy in our bodies and acce
+ ss a clearer\, lighter\, calmer you.\nOur Facilitator: Laura Lin has a BS 
+ in Human Development and is a Certified Health Coach. Her coaching trainin
+ g is based on cognitive and somatic practices including principles from In
+ stitute of Integrative Nutrition\, Isha Foundations’s Inner Engineering 
+ yogic practices\, and Internal Family Systems’s parts work. She is also 
+ a trauma informed breathwork facilitator through PAUSE Breathwork.\n\nFree
+ \n\nTickets: https://partiful.com/e/DN4GsjjetOKOWtUBI5q7?c=DcOdfRaA\nDetai
+ ls: https://sf.funcheap.com/breathwork-invitation-slow/\nSource: Funcheap 
+ SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Image-
+ 8-28-26-at-4.15-PM-2.jpeg-2.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Yik Oi Huang Peace and Friendship Park\, 251 Leland Avenue\, San 
+ Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/breathwork-invitation-slow/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Celebration of Voting in Mountain View
+DTSTART;TZID=America/Los_Angeles:20261017T140000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1642791@sf-cal
+SEQUENCE:0
+CATEGORIES:Free Food
+DESCRIPTION:Blue TurnJoin your neighbors on Saturday\, October 17\, from 2
+ –4 pm at Pioneer Memorial Park for a free afternoon of music\, kids’ a
+ ctivities\, games\, community groups\, and donut holes! Bring your ballot 
+ if you have it: there’s a ballot drop box nearby\, and we’ll have frie
+ ndly\, nonpartisan voting information and assistance available. Ballot or 
+ no ballot\, young or old\, come celebrate voting!\n\nFree\n\nTickets: http
+ s://mobilize.us/s/Dptups\nDetails: https://sf.funcheap.com/neighborhood-ce
+ lebration-voting-mountain-view/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/mobili
+ ze.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Pioneer Memorial Park\, 1146 Church St\, Mountain View
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/neighborhood-celebration-voting-mountain-view/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Block Party - 10th Ave Loma Prieta Earthquake Anniversary
 DTSTART;TZID=America/Los_Angeles:20261017T140000
 DTEND;TZID=America/Los_Angeles:20261017T213000
@@ -14226,6 +14047,25 @@ LAST-MODIFIED:20261006T193028Z
 LOCATION:10th Ave between Lake St and California St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storytellers Unite: Free 90-Minute Craft Salon (Los Gatos)
+DTSTART;TZID=America/Los_Angeles:20261017T150000
+DTEND;TZID=America/Los_Angeles:20261017T163000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1640614@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerA small curated salon on story
+ telling craft at Los Gatos Coffee Roasting Company. 90 minute conversation
+ . 10 spots. Application required. Free.\n\nFree\n\nTickets: https://luma.c
+ om/x6uywmqs\nDetails: https://sf.funcheap.com/storytellers-unite-free-90mi
+ nute-craft-salon-los-gatos/\nSource: Funcheap SF
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Los Gatos Coffee Roasting Company\, 101 W Main St\, Los Gatos
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/storytellers-unite-free-90minute-craft-salon-l
+ os-gatos/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Girl Walks Home Alone
@@ -14259,6 +14099,47 @@ LAST-MODIFIED:20261006T001200Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/a-girl-walks-home-alone-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watch “Niu Lai” Indie Film: China’s So-Bad-It’s-Good Anima
+ ted Hit
+DTSTART;TZID=America/Los_Angeles:20261017T153000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1642706@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:tiatLets watch Niu Lai together <3\n​Niu Lai (Chinese: 牛
+ 来\; pinyin: Niú Lái\; literally “Here Comes the Cow” or “The Bul
+ l is Coming”) is a viral 2026 Chinese animated indie film that became a 
+ massive “so bad\, it’s good” box office sleeper hit.\n​​⭑.ᐟ 
+ More on Niu Lai\n\n​Niu Lai is an 86-minute abstract adventure following
+  a timid newborn calf who grows into a braver ox through a dream-like jour
+ ney alongside his mother and other forest animals.\n\n​It was made over 
+ a five-year period by a mother-and-son duo\, director Xin Yumeng and write
+ r/composer Sun Lifang\, who handled the script\, animation\, voice acting\
+ , and soundtrack almost entirely by themselves.\n\n​Created on a tiny bu
+ dget (reported around $200 to a few thousand yuan) using basic architectur
+ al modeling and design software like SketchUp on secondhand hardware.\n\n
+ ​After opening to almost no audience and earning just a few thousand yua
+ n in its first week\, clips of its stiff\, glitchy\, and surreal computer-
+ generated imagery spread across Chinese social media.\n\n​Online ridicul
+ e turned into genuine curiosity and cult-classic status\, driving audience
+ s to theaters en masse and pushing its gross past $9 million (making it on
+ e of the most profitable films relative to its budget). Audiences often co
+ ntrasted its earnest\, human-made charm with slick\, AI-generated content.
+ \n\n​​⭑.ᐟ Chinamaxxing\n​A group exhibition on view 9/25 – 10/
+ 17 at TIAT in SF ⭑.ᐟ\n​Drink hot water. Learn the characters. Buy th
+ e robot dog. Imagine the future happening somewhe...\n\nFree\n\nTickets: h
+ ttps://luma.com/niulai\nDetails: https://sf.funcheap.com/watch-niu-lai-ind
+ ie-film-chinas-sobaditsgood-animated-hit-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/gulfne
+ ws_2026-08-18_n9up7len_cow.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:tiat\, 151 Powell St. San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/watch-niu-lai-indie-film-chinas-sobaditsgood-a
+ nimated-hit-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Market Street Arts & Theater Festival
@@ -14449,6 +14330,31 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-fall-family-festival-sfs-fulton-plaza/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Floor: A Factory Open House (Downtown SF)
+DTSTART;TZID=America/Los_Angeles:20261017T160000
+DTEND;TZID=America/Los_Angeles:20261017T220000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1641516@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco helped give the world blue jeans. Holy Stitch! F
+ actory Fellowship is opening its factory doors at 1059 Market Street Stree
+ t – see industrial sewing machines run\, meet the young people learning 
+ to make jeans in San Francisco\, and hear where Made on Market goes next. 
+ Part of the $250\,000 Made on Market campaign supporting the nonprofit fac
+ tory-school. All ages welcome.\n\nWhat makes it unique: a working denim fa
+ ctory-school in Mid-Market opening its doors\; visitors watch jeans being 
+ made on industrial machines and meet the youth apprentices learning the cr
+ aft.\n\nFree\n\nTickets: https://givebutter.com/c/madeonmarketholystitch\n
+ Details: https://sf.funcheap.com/open-floor-factory-open-house-downtown-sf
+ /\nSource: Funcheap SF
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Holy Stitch! Factory Fellowship\, 1059 Market Street\, San Franci
+ sco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/open-floor-factory-open-house-downtown-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oktoberfest at SideTrack - October 16 & 17
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T220000
@@ -14490,9 +14396,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Fashion Festival
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T190000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17801527@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Festival
 DESCRIPTION:San Francisco Fashion Festival returns Saturday\, October 17 a
  t Gray Area / Grand Theater — and the room sells out every year.\nThis y
@@ -14512,10 +14418,11 @@ DESCRIPTION:San Francisco Fashion Festival returns Saturday\, October 17 a
  ars.\n\n150-250\nSF Fashion\n\nTickets: https://www.sffashionpr.com/events
  /san-francisco-fashion-festival-2026-golden\nDetails: https://dothebay.com
  /events/2026/10/17/san-francisco-fashion-festival-tickets\nSource: DoTheBa
- y
+ y\n\nAlso listed on:\n- https://sf.funcheap.com/san-francisco-fashion-fest
+ ival-2026-golden/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34801237/017b71dd-4d3f-4ea4-98ee-7d0e40f3af8d.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:Gray Area / Grand Theater\, 2665 Mission Street\, San Francisco\,
   CA\, 94110
 TRANSP:TRANSPARENT
@@ -14616,6 +14523,67 @@ LOCATION:International Art Museum of America\, 1023 Market Street between
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/brad-barton-magician-200-channe
  ls-vaudeville-exotica-market-st-fest-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 TEL HI Fall Fundraiser
+DTSTART;TZID=America/Los_Angeles:20261017T170000
+DTEND;TZID=America/Los_Angeles:20261017T213000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1634980@sf-cal
+SEQUENCE:0
+CATEGORIES:Community
+DESCRIPTION:Submitted by the Event OrganizerTEL HIJoin Us for TEL HI’s 2
+ 026 Fall Fundraiser\nSaturday\, October 17\, 2026\, from 5:00 to 9:30 PM i
+ n TEL HI’s Gym\nEnjoy an evening of comedy with emcee Jesse Fernandez\, 
+ freshly prepared paella\, and unlimited local craft beer and wine\, all wh
+ ile supporting TEL HI!\n\nLearn more!\nTickets\n\nGeneral Admission: $135\
+ nEarly Bird: $120 through September 26\nChildcare: $30 per child\, includi
+ ng dinner\n\nTickets must be purchased in advance. Space is limited!\nClic
+ k here to purchase tickets.\nAll proceeds will help renovate TEL HI’s gy
+ m\, an important community space where children learn and play\, neighbors
+  come together\, and older adults stay active and connected.\n\n$120.00\n\
+ nTickets: https://TELHIFF2026.givesmart.com\nDetails: https://sf.funcheap.
+ com/2026-tel-fall-fundraiser/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Fall-F
+ undraiser-Logo_V4.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:TEL HI Gym\, 555 Chestnut Street San Francisco\, CA 94133 United 
+ States
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/2026-tel-fall-fundraiser/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hike & Sip
+DTSTART;TZID=America/Los_Angeles:20261017T170000
+DTEND;TZID=America/Los_Angeles:20261017T213000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1637361@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Submitted by the Event OrganizerChabot StaffAdults 21+\, $40\n
+ Members receive $15 off\nGuided Stroll Immersive Trek\n\nExperience an unf
+ orgettable evening of nature\, history\, and stargazing with Hike & Sip\, 
+ a program designed for adults 21 and over. Explore the majestic Redwood fo
+ rest\, guided by Chabot’s knowledgeable outdoor educators\, and learn ab
+ out the ecosystem\, the cultural heritage of the Ohlone peoples\, and Oakl
+ and’s rich history.\n\nEnjoy a beautiful sunset hike with two options to
+  suit your pace:\nImmersive Trek: 5:00 PM\, between 2.5-3.5 miles\, approx
+ imately 120 minutes.\nGuided Stroll: 7:30 PM\, between 1.5-2 miles\, appro
+ ximately 90 minutes.\n\nAfter your hike\, unwind on Chabot’s Observation
+  Deck with drinks and charcuterie. End the night with stargazing through t
+ elescopes (weather permitting) and star stories brought to life under the 
+ night skys.\nTickets include two drink tickets (beer\, wine\, or non-alcoh
+ olic beverages) and refreshments. This program is for adults 21+.\nFor a c
+ omfortable experience\, we recommend wearing layers\, sturdy shoes\, and b
+ ringing a water bottle\, mosquito repellent\, and a flashlight for evening
+  hikes.\n\n$40.00\n\nTickets: https://chabotspace.org/calendar/hike-sip-12
+ /\nDetails: https://sf.funcheap.com/hike-sip-4/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_16
+ 97.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Chabot Space & Science Center\, 10000 Skyline Blvd. Oakland\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/hike-sip-4/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Sanctuary” Exhibition Opening
@@ -14984,6 +14952,43 @@ URL:https://dothebay.com/events/2026/10/17/falsettos-and-sunsets-flop-fest
  -tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adrian West Band
+DTSTART;TZID=America/Los_Angeles:20261017T183000
+DTEND;TZID=America/Los_Angeles:20261017T213000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1640754@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event OrganizerAdrian WestSix-piece Adrian We
+ st Band returns to The Fourth Bore Taproom & Grill in Orinda! We’ll play
+  a fun mix of originals\, instrumentals and covers + a couple jazz tunes. 
+ Free show from 6:30 – 9:30pm. All ages welcome.\nInstrumentation: 2 voca
+ lists\, acoustic guitar\, elec. violin\, piano\, upright bass\, alto sax\,
+  drums\, percussion\, live looping\n\nAdrian West – vocals\, acoustic gu
+ itar\, elec. violin & live looping\nMichael Echaniz on piano\nTBD – voca
+ ls\, percussion\nChris Haag – alto sax\nAaron Germain – upright bass\n
+ Andrew Griffin – drums\nOakland-based Adrian West Band is an up-to-six-p
+ iece acoustic rock ensemble that plays catchy originals\, fun instrumental
+ s\, the odd cover song and a little jazz. To some they sound like a cross 
+ between Paul Simon and Talking Heads.\nAdrian enjoys setting philosophical
+  lyrics to joyful music. His topics may veer a tad dark at times but the u
+ nderlying music is uplifting\, giving the listener a richly layered experi
+ ence. Whether he’s telling a story about a skinny-dipping episode gone a
+ wry or grappling with some major challenge facing humanity\, his lyrics ar
+ e infused with equal parts hope\, realism and whimsy.\nMore info about the
+  band at www.adrianwest.com\nThe Fourth Bore Taproom & Grill offers Americ
+ an mains\, cocktails & housemade beers served in chill industrial-edged br
+ ewpub with a patio. More info at www.thefourthbore.com\n\nFree\n\nTickets:
+  https://adrianwest.com\nDetails: https://sf.funcheap.com/adrian-west-band
+ -34/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Backro
+ om-6-piece-med-res-w-logo.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Fourth Bore\, 2 Theatre Square #134\, Orinda
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/adrian-west-band-34/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T210000
@@ -15350,9 +15355,9 @@ BEGIN:VEVENT
 SUMMARY:“Crazy Funny Asians” Free Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T223000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261017T204148Z
 UID:funcheap-1636604@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy Event Types Event
 DESCRIPTION:“Crazy Funny Asians” Free Comedy Showcase (SF)\nHellaFunny
  \nInspired by the blockbuster movie\, see some of the Bay Area’s top com
@@ -15364,28 +15369,106 @@ DESCRIPTION:“Crazy Funny Asians” Free Comedy Showcase (SF)\nHellaFunny
  \nThe Function Comedy Club\, 1414 Market St.\, SF\nFREE with RSVP (Donatio
  ns appreciated – bring cash) – limited to first 50\nDidn’t Get Ticke
  ts? We’ll have 20 door tickets ($25) available for each show – Show up
-  early to snag them!\nTickets\n– FREE with Eventbrite RSVP – Donations
-  appreciated – bring cash\n– Maximum Two Comp Tickets Per Person – I
- f you have additional guests you’d like to bring\, they must RSVP separa
- tely\n– $25 door (without RSVP)\n– Lineup subject to change\n– Admis
- sion is first come first served\n– Like most comedy clubs\, there is a t
- wo-drink minimum to help support our local bar scene.\nHosted by K. Cheng 
- (NBC’s Stand Up for Diversity\, Khmers of Comedy\, Host SF Chinese New Y
- ear Parade Pre-Show)\nCrazy Funny Asians Comedy Lineup\nEvery week is a ne
- w lineup. Here are some of our favorites you might see…\n\nJeen Yee-Tomm
- y Ts\nChris Posadas-Tommy Ts\nShawn Felipe-WorldAsia TV\, Sprint Comedy\nN
- icole Tran- Tommy T’s\nRyan Chan- Opened for Earthquake\nMoon Choe- SF S
- ketchfest\nAndrew Orofolo-SF Punchline\nPlus many...\n\nFree\n\nTickets: h
- ttps://www.eventbrite.com/e/crazy-funny-asians-live-comedy-show-tickets-16
- 2483976949?aff=FCWebsite\nDetails: https://sf.funcheap.com/crazy-funny-asi
- ans-free-comedy-showcase-sf-100/\nSource: Funcheap SF
+  early to snag them!\n\nTickets\n– FREE with Eventbrite RSVP – Donatio
+ ns appreciated – bring cash\n– Maximum Two Comp Tickets Per Person –
+  If you have additional guests you’d like to bring\, they must RSVP sepa
+ rately\n– $25 door (without RSVP)\n– Lineup subject to change\n– Adm
+ ission is first come first served\n– Like most comedy clubs\, there is a
+  two-drink minimum to help support our local bar scene.\nHosted by K. Chen
+ g (NBC’s Stand Up for Diversity\, Khmers of Comedy\, Host SF Chinese New
+  Year Parade Pre-Show)\nCrazy Funny Asians Comedy Lineup\nEvery week is a 
+ new lineup. Here are some of our favorites you might see…\n\nJeen Yee-To
+ mmy Ts\nChris Posadas-Tommy Ts\nShawn Felipe-WorldAsia TV\, Sprint Comedy\
+ nNicole Tran- Tommy T’s\nRyan Chan- Opened for Earthquake\nMoon Choe- SF
+  Sketchfest\nAndrew Orofolo-SF Punchline\nPlus many...\n\nFree\n\nTickets:
+  https://www.eventbrite.com/e/crazy-funny-asians-live-comedy-show-tickets-
+ 162483976949?aff=FCWebsite\nDetails: https://sf.funcheap.com/crazy-funny-a
+ sians-free-comedy-showcase-sf-100/\nSource: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/08/CrazyF
  unnyAsians-e1535334557269.jpg
-LAST-MODIFIED:20261006T001646Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-100
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jean-Baptiste Phou: Coming Out of My Skin
+DTSTART;TZID=America/Los_Angeles:20261017T190000
+DTEND;TZID=America/Los_Angeles:20261017T203000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1642738@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerHeadshots submitted to Litquak
+ e by participantsPart of Litquake’s Words Around the World\nSponsored by
+  Center for the Art of Translation\nCo-presented with Villa Albertine\nHav
+ ing grown up as a Cambodian immigrant in France\, Jean-Baptiste Phou has l
+ ong explored the challenges and contradictions of the Asian diaspora exper
+ ience throughout his artistic career. However\, up until now\, he’s alwa
+ ys been careful not to raise issues of sexuality—in particular\, his hom
+ osexuality. In his recent memoir\, Coming Out of My Skin\, the artist shif
+ ts his focus to examining the role his ethnic origin has played in the con
+ struction of his sexual identity and his romantic relationships in a predo
+ minantly white environment. An astute observer of the various ways in whic
+ h his body has been perceived\, Phou asks: how does a marginalized person 
+ develop emotionally and build\, reclaim\, and express their sexuality? How
+  does this inform the experience of a queer Asian person navigating predom
+ inantly white cultural spaces? In conversation with César Cadabes\, Artis
+ tic Director for the GLBTQ Asian Pacific Alliance (GAPA) Theatre. Doors at
+  6:30pm\n\nFree\n\nTickets: https://www.eventbrite.com/e/jean-baptiste-pho
+ u-coming-out-of-my-skin-tickets-1999616387443?aff=oddtdtcreator&amp\;keep_
+ tld=true\nDetails: https://sf.funcheap.com/jeanbaptiste-phou-coming-skin/\
+ nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/7_10_1
+ 7-Jean-Baptiste-Phou-IG.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Telegraph Hill Books\, 1501 Grant Avenue\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/jeanbaptiste-phou-coming-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Comedy Night: SF’s 1st Ever “Market Street Arts & Theater
+  Festival (7p + 9p Shows)
+DTSTART;TZID=America/Los_Angeles:20261017T190000
+DTEND;TZID=America/Los_Angeles:20261017T223000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1642951@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:HellaFunny\n\nTop comics highlight 1-day Market Street Arts & 
+ Theater Festival at The Function on Saturday\, October 17\, 2026\n\nMarket
+  Street Arts & Theater Festival: Free Comedy Night at The FunctionCelebrat
+ e the first-ever Market Street Arts & Theater Festival with a night of FRE
+ E comedy at The Function\, voted “Best Comedy Venue” in the Bay Guardi
+ an / 48 Hills Best of the Bay 2026 readers’ poll!\nFREE with RSVP (21+ o
+ nly)\nOn Saturday\, October 17\, 2026\, Market Street transforms into a wa
+ lkable arts spectacle\, bringing together independent venues\, homegrown a
+ rtists\, and landmark theaters for one night of performances and discoveri
+ es.\n——–\nNEW!!! THE FUNCTION – Winner: “Best Comedy Venue” 
+ – Bay Guardian / 48 Hills Best of the Bay 2026!!\n——-\nJoin the cele
+ bration at The Function with two stand-up comedy shows featuring rising Ba
+ y Area comics and special guests. General admission is FREE (normally $25)
+ \, or upgrade to VIP for $35.\nCOMEDY SHOWTIMES\nSaturday\, October 17\, 2
+ 026 – 7:00pm & 9:00pm\n\nFREE General Admission – normally $25\n$35 VI
+ P Tickets\nLimited seating available\n\nTHE COMEDY SHOW\nExpect a 70+ minu
+ te showcase featuring 4–5 comedians per show in an intimate venue built 
+ for live comedy. The Function regularly features comics with credits inclu
+ ding Cobb’s\, Punch Line\, SF Sketchfest\, Cheaper Than Therapy\, Thrive
+  City\, The Battery\, and more.\nCome for the laughs\, grab a cocktail\, a
+ nd make The Function part of your Market Street festival night.\nABOUT THE
+  FESTIVAL\nThe inaugural Market St...\n\nFree\n\nTickets: https://www.even
+ tbrite.com/e/free-comedy-night-sfs-market-street-arts-theater-festival-202
+ 6-tickets-2003466952587\nDetails: https://sf.funcheap.com/free-comedy-nigh
+ t-sfs-1st-market-street-arts-theater-festival-7p-9p-shows/\nSource: Funche
+ ap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Eventb
+ rite-banner-with-uppercase-address.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-comedy-night-sfs-1st-market-street-arts-t
+ heater-festival-7p-9p-shows/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Horror of Dracula
@@ -15532,8 +15615,8 @@ BEGIN:VEVENT
 SUMMARY:Oakland Comedy Festival 2026 - The Closer
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T213000
-DTSTAMP:20261017T105245Z
-UID:caldiscovery-festival-47b79d204e0f036f@sf-cal
+DTSTAMP:20261017T204148Z
+UID:caldiscovery-comedy-47b79d204e0f036f@sf-cal
 SEQUENCE:0
 CATEGORIES:comedy,festival
 DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
@@ -15552,7 +15635,7 @@ DESCRIPTION:Category: Festivals / ParadesContact Name: Matthew LayneContac
   https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-tickets-1
  999220226515?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
  isco-ca
-LAST-MODIFIED:20261017T105245Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:Fluid510 1544 Broadway Oakland\, CA
 TRANSP:TRANSPARENT
 URL:https://www.eventbrite.com/e/the-closer-oakland-comedy-festival-ticket
@@ -16117,19 +16200,20 @@ BEGIN:VEVENT
 SUMMARY:Revolutions: Staxx of Wax
 DTSTART;TZID=America/Los_Angeles:20261017T213000
 DTEND;TZID=America/Los_Angeles:20261017T233000
-DTSTAMP:20261013T065157Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17950084@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Revolutions: Staxx of Wax is back Saturday Oct. 17th\, in the 
  Monarch Lounge. We’re hypoed to have special guest Greg Eversoul lay dow
  n some wax with us\, 9:30 - Close\, No Cover. https://www.facebook.com/rev
  olutionsstaxxofwax\n\nFree 21+\nFinely Tuned Presents:\n\nTickets: https:/
  /www.facebook.com/revolutionsstaxxofwax\nDetails: https://dothebay.com/eve
- nts/2026/10/17/revolutions-staxx-of-wax-tickets\nSource: DoTheBay
+ nts/2026/10/17/revolutions-staxx-of-wax-tickets\nSource: DoTheBay\n\nAlso 
+ listed on:\n- https://sf.funcheap.com/revolutions-staxx-wax-3/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34929471/771b2046-2e6e-4880-93da-835e7b2df909.jpg
-LAST-MODIFIED:20261013T065157Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:Monarch Lounge\, 101 6th St.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/revolutions-staxx-of-wax-ticket
@@ -31899,6 +31983,30 @@ URL:https://dothebay.com/events/2026/10/29/practical-magic-2-movie-night-a
  t-oracle-park-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Another Lamp Show VIP Preview
+DTSTART;TZID=America/Los_Angeles:20261029T180000
+DTEND;TZID=America/Los_Angeles:20261029T200000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17967027@sf-cal
+SEQUENCE:0
+CATEGORIES:The Arts
+DESCRIPTION:$200\n500 Capp Street Presents:\n\nTickets: https://events.hum
+ anitix.com/another-lamp-show/tickets?_gl=1*1i3f1rl*_gcl_au*MTAzNTk2MDQxMi4
+ xNzg2NDcxNjky*_ga*ODY1ODY4MDY1LjE3Nzg2MTM1MTM.*_ga_LHKW5FR9N6*czE3OTE0ODQw
+ MjgkbzQ3JGcxJHQxNzkxNDg0Mzg3JGo2MCRsMCRoMA..\nDetails: https://dothebay.co
+ m/events/2026/10/29/another-lamp-show-vip-preview-tickets\nSource: DoTheBa
+ y
+GEO:37.7585649;-122.4181814
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35010500/2664c600-11f4-4c17-ad6a-4070ca97e5e9.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:500 Capp Street\, the David Ireland House\, 500 Capp Street\, San
+  Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/another-lamp-show-vip-preview-t
+ ickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$10 Off Tix: SF’s “Terror Vault” 1874 Halloween Haunt (Final
   Week 2026)
 DTSTART;TZID=America/Los_Angeles:20261029T180000
@@ -33412,6 +33520,30 @@ LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/it-s-the-great-pumpkin-charlie-
  brown-tickets-wr1pzp3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Another Lamp Show Public Opening Reception
+DTSTART;TZID=America/Los_Angeles:20261030T180000
+DTEND;TZID=America/Los_Angeles:20261030T200000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17967026@sf-cal
+SEQUENCE:0
+CATEGORIES:The Arts
+DESCRIPTION:$10\n500 Capp Street Presents:\n\nTickets: https://events.huma
+ nitix.com/another-lamp-show-opening-reception/tickets?_gl=1*85jyow*_gcl_au
+ *MTAzNTk2MDQxMi4xNzg2NDcxNjky*_ga*ODY1ODY4MDY1LjE3Nzg2MTM1MTM.*_ga_LHKW5FR
+ 9N6*czE3OTE0ODQwMjgkbzQ3JGcxJHQxNzkxNDg0Mzg4JGo1OSRsMCRoMA..\nDetails: htt
+ ps://dothebay.com/events/2026/10/30/another-lamp-show-public-opening-recep
+ tion-tickets\nSource: DoTheBay
+GEO:37.7585649;-122.4181814
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35010495/e3b375e4-455c-4629-82cd-5e0941c4a81c.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:500 Capp Street\, the David Ireland House\, 500 Capp Street\, San
+  Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/30/another-lamp-show-public-openin
+ g-reception-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mission Rock Fall Friday Night Movies - Coco
@@ -37704,9 +37836,9 @@ BEGIN:VEVENT
 SUMMARY:Tenderloin Street Fair: Día de Muertos Celebration 2026
 DTSTART;TZID=America/Los_Angeles:20261101T140000
 DTEND;TZID=America/Los_Angeles:20261101T160000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17926550@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Variety
 DESCRIPTION:Tenderloin Community Benefit District\, Into The Streets SF & 
  Civic Joy Fund present\nTenderloin Street Fair: Día de Muertos Celebratio
@@ -37719,26 +37851,26 @@ DESCRIPTION:Tenderloin Community Benefit District\, Into The Streets SF &
  in rock and more: Agua Pura brings the salsa\, Combo Tezeta gets psychedel
  ic with Peruvian cumbia\, chicha and música tropical\, and Soucano serves
   up Latin rock and soul—plus música mexicana from Rica Montes\, Banda L
- a Tóxica\, Mariachi Tradición Mexicana and Trio Sol de México.\n\nRoote
- d in the traditions of San Francisco’s diverse Latino communities\, the 
- celebration invites everyone to honor the holiday with ofrendas\, enjoy de
- licious food\, and celebrate life through music\, dance\, community\, and 
- friends.\n\nFill the streets with us for live music\, lucha libre\, local 
- food and vendors\, a Kids Zone\, face painting\, arts + crafts\, Lotería\
- , hands-on cultural activities\, an outdoor bar\, and more.\n\nBring your 
- family\, bring your friends\, and join us in making this yearly tradition 
- come to life.\n\nFree and open to all ages!\n__\n\n¡Celebra el Día de Mu
- ertos en la Feria Tenderloin!\n\nAcompáñanos el domingo 1 de noviembre\,
-  de 2 a 8 PM\, para una gran f...\n\nFree\nTenderloin Community Benefit Di
- strict\, Into The Streets SF & Civic Joy Fund present\n\nTickets: https://
- consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ftenderloin
- -street-fair-presents-dia-de-muertos-celebration-2026-tickets-200230537828
- 7%3Faff%3Daffiliate3\nDetails: https://dothebay.com/events/2026/11/1/tende
- rloin-street-fair-dia-de-muertos-celebration-2026-tickets\nSource: DoTheBa
- y
+ a Tóxica\, Mariachi Tradición Mexicana and Trio Sol de México.\n\nMain 
+ Stage\n\n2:00–3:00 PM — Soucano\n3:30–4:30 PM — Agua Pura\n5:30–
+ 6:30 PM — Combo Tezeta\n7:00–8:00 PM — Banda La Toxica\n\nLucha Libr
+ e Stage\n\n2:15–3:15 PM — Farsante\n3:45–4:45 PM — El Rica Montes\
+ nIn between luchas — Sonido Killer\n\nRooted in the traditions of San Fr
+ ancisco’s diverse Latino communities\, the celebration invites everyone 
+ to honor the holiday with ofrendas\, enjoy delicious food\, and celebrate 
+ life through music\, dance\, community\, and friends.\n\nFill the streets 
+ with us for live music\, lucha libre\, local food and vendors\, a Kids Zon
+ e\, face painting\, arts + crafts\, Lotería\, hands-on cultural activitie
+ s\, an outdoor bar\, and more.\n\nBring your family\, b...\n\nFree\nTender
+ loin Community Benefit District\, Into The Streets SF & Civic Joy Fund pre
+ sent\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventb
+ rite.com%2Fe%2Ftenderloin-street-fair-presents-dia-de-muertos-celebration-
+ 2026-tickets-2002305378287%3Faff%3Daffiliate3\nDetails: https://dothebay.c
+ om/events/2026/11/1/tenderloin-street-fair-dia-de-muertos-celebration-2026
+ -tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34818995/47a25104-b388-4326-ae81-186ce9db8789.png
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:The Tenderloin
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/1/tenderloin-street-fair-dia-de-mu
@@ -38348,8 +38480,8 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos Procession & Festival of Altars 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261017T154147Z
-UID:caldiscovery-festival-cff8925f91f86550@sf-cal
+DTSTAMP:20261017T204148Z
+UID:caldiscovery-festival-2f254f3794542a94@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
@@ -38359,7 +38491,7 @@ DESCRIPTION:Día de los Muertos Procession & Festival of Altars 2026\n\nWi
  com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calend
  ar/da-de-los-muertos-procession-festival-of-altars-2026?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261017T154147Z
+LAST-MODIFIED:20261017T204148Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  cession-festival-of-altars-2026?utm_source=caldiscovery&utm_medium=ics&utm
@@ -41356,23 +41488,33 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/zoolights-san-francisco-zoo-nov-6jan-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Destination: Cosmos--An Experiential Sound Voyage by Christopher W
- illits and Envelop
+SUMMARY:Destination: Cosmos–An Experiential Sound Voyage by Christopher 
+ Willits + Envelop
 DTSTART;TZID=America/Los_Angeles:20261106T180000
 DTEND;TZID=America/Los_Angeles:20261106T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17811263@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Lecture/Education
-DESCRIPTION:Tickets: https://www.kqed.org/event/6823/destination-cosmos-an
- -experiential-sound-voyage-by-christopher-willits-and-envelop\nDetails: ht
- tps://dothebay.com/events/2026/11/6/destination-cosmos-an-experiential-sou
- nd-voyage-by-christopher-willits-and-envelop-tickets\nSource: DoTheBay
+DESCRIPTION:Destination: Cosmos\nAn Experiential Sound Voyage by Christoph
+ er Willits and Envelop\n\nFriday\, November 6 | The Loom\, Oakland\n\nEigh
+ ty years ago\, for the very first time\, humanity laid eyes on the first p
+ icture of Earth taken from space. In celebration of the 80th anniversary\,
+  KQED\, sound artist Christopher Willits\, Envelop and Chabot Space & Scie
+ nce Center are launching you into the deep cosmos. Step inside a 360-degre
+ e sphere of mesmerizing light and 3D immersive sound. The listening experi
+ ence is a mix of Christopher Willits’ live ambient performance and his a
+ cclaimed score SPACE\, woven with rocket launches and the distinct electro
+ magnetic hum of stars\, planets\, and the galaxy.\n\nDon’t miss this unf
+ orgettable\, multi-sensory moment to get together in honor of our blue pla
+ net and beyond.\n\n$45-$55\, All ages\nKQED Live Presents\n\nTickets: http
+ ://tixr.com/pr/DTBCosmos/204379\nDetails: https://dothebay.com/events/2026
+ /11/6/destination-cosmos-an-experiential-sound-voyage-by-christopher-willi
+ ts-and-envelop-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34278252/83f844e2-8960-4f39-ad81-a3accc760f43.png
-LAST-MODIFIED:20261006T003107Z
-LOCATION:KQED LIVE\, The Commons\, KQED Headquarters - 2601 Mariposa Stree
- t\, San Francisco\, CA 94110\, San Francisco\, CA
+ et/34278252/ede327a6-65fb-409d-9f4d-ace2bc45e039.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Loom
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/destination-cosmos-an-experienti
  al-sound-voyage-by-christopher-willits-and-envelop-tickets
@@ -42273,8 +42415,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Coffee Festival 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261017T154147Z
-UID:caldiscovery-festival-76e029c01c305e76@sf-cal
+DTSTAMP:20261017T204148Z
+UID:caldiscovery-festival-8258638d9cbdc03d@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
@@ -42284,7 +42426,7 @@ DESCRIPTION:San Francisco Coffee Festival 2026\n\nThis event brings togeth
  www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-festival-202
  6?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
  urce: CalDiscovery
-LAST-MODIFIED:20261017T154147Z
+LAST-MODIFIED:20261017T204148Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-coffee-
  festival-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
@@ -44385,33 +44527,37 @@ LAST-MODIFIED:20261006T002614Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF Diwali (Festival of Lights) and Kids Diwali Celebration
+SUMMARY:San Francisco Diwali & New Year Celebration 2026: Free Family Fest
+ ival
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T140000
-DTSTAMP:20261017T043703Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17955484@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Festival
-DESCRIPTION:Celebrate Diwali with the whole family! Admission\, food\, and
-  all activities are FREE.\n\nAnnakut Darshan: A grand display of hundreds 
- of vegetarian dishes offered in devotion.\nImmersive Cultural Exhibition: 
- Discover the rich traditions and meaning of Hinduism and Diwali.\nKids’ 
- Diwali Carnival: Explore the five days of Diwali through interactive activ
- ities\, arts & crafts\, inflatables\, carnival games\, face painting\, and
-  mehndi (henna).\nFree Food: Enjoy delicious vegetarian food.\nĀrti: Trad
- itional Hindu prayer ceremony every hour\, starting at 12 PM. Open to all.
- \n\nSpread the joy of Diwali: If you're able\, bring a new\, packaged\, un
- wrapped toy to support the San Francisco Fire Department’s Annual Toy Dr
- ive. Donations are completely optional.\n\nFree\nSan Francisco Shri Swamin
- arayan Hindu Mandir presents\n\nTickets: https://tinyurl.com/sfdiwali2026\
- nDetails: https://dothebay.com/events/2026/11/8/sf-diwali-festival-of-ligh
- ts-and-kids-diwali-celebration-tickets\nSource: DoTheBay\n\nAlso listed on
- :\n- https://sanfranciscomoms.com/event/san-francisco-diwali-festival-of-l
- ights-and-kids-diwali-celebration/?utm_source=caldiscovery&utm_medium=ics&
- utm_campaign=san-francisco-ca
+DESCRIPTION:Celebrate Diwali\, the Festival of Lights\, with a FREE\, fami
+ ly-friendly festival at the Shri Swaminarayan Hindu Temple in San Francisc
+ o (333 Tunnel Ave\, San Francisco\, CA 94143)!\n\nExperience the vibrant c
+ olors\, traditions\, and spirit of Diwali through cultural exhibits\, deli
+ cious vegetarian food\, and exciting activities for all ages.\n\nFestival 
+ Highlights:\nGrand Annakut Display: Marvel at a breathtaking display of hu
+ ndreds of vegetarian dishes offered in devotion.\n\nImmersive Cultural Exh
+ ibition: Discover the traditions\, values\, and significance of Hinduism a
+ nd Diwali.\n\nKids' Diwali Celebration: Explore the five days of Diwali th
+ rough interactive experiences\, arts & crafts\, inflatables\, carnival gam
+ es\, face painting\, and mehndi (henna).\n\nFree Vegetarian Food: Enjoy de
+ licious food with family and friends.\n\nTraditional Ārti: Experience a H
+ indu prayer ceremony every hour\, starting at 12 PM. Open to everyone.\n\n
+ FREE ADMISSION • FREE FOOD • FREE ACTIVITIES\n\nFree\nSan Francisco Sh
+ ri Swaminarayan Hindu Mandir presents\n\nTickets: https://tinyurl.com/sfdi
+ wali2026\nDetails: https://dothebay.com/events/2026/11/8/sf-diwali-festiva
+ l-of-lights-and-kids-diwali-celebration-tickets\nSource: DoTheBay\n\nAlso 
+ listed on:\n- https://sanfranciscomoms.com/event/san-francisco-diwali-fest
+ ival-of-lights-and-kids-diwali-celebration/?utm_source=caldiscovery&utm_me
+ dium=ics&utm_campaign=san-francisco-ca
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34955572/b439daba-20d7-4665-a769-f9958b4370f4.jpg
-LAST-MODIFIED:20261017T043703Z
+ et/34996478/ececd35a-0dcb-4cfa-a2e6-c21949cb6091.jpg
+LAST-MODIFIED:20261017T204148Z
 LOCATION:BAPS Shri Swaminarayan Mandir\, 333 Tunnel Avenue\, San Francisco
  \, CA\, 94134
 TRANSP:TRANSPARENT
@@ -44753,6 +44899,42 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/everything-for-sale-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edward Said: Between Worlds
+DTSTART;TZID=America/Los_Angeles:20261108T164500
+DTEND;TZID=America/Los_Angeles:20261108T184500
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963789@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Another Planet Entertainment Presents\nThe 30th Arab Film Fest
+ ival\nEdward Said: Between Worlds\nSunday\, November 8 | The Castro\n\nThe
+  flagship event of the Arab Film and Media Institute\, the Arab Film Festi
+ val is the longest running independent festival of its kind in North Ameri
+ ca. This year we are celebrating our 30th anniversary!\n\nLaunched in 1996
+ \, the festival’s mission is to present the best of contemporary films t
+ hat illuminate the richness of Arab culture through authentic narratives a
+ nd images\, providing insight into the beauty and complexity of the Arab w
+ orld.\n\nThe festival also offers special programming to local audiences\,
+  and unprecedented access to the diversity and range of authentic Arab exp
+ eriences. The festival has gained an international reputation for excellen
+ ce and offers its audiences access to media that reflects the lives of und
+ er-represented and provocative themes and groups on a cultural and societa
+ l level.\n\nThe 30th edition of the Arab Film Festival will open on Thursd
+ ay Nov. 5th at the AMC Kabuki 8 in San Francisco. The festival will run th
+ rough Saturday Nov. 14th.\n\nall ages\nAnother Planet Entertainment Presen
+ ts: The 30th Arab Film Festival\nListed time is doors\n\nTickets: https://
+ thecastro.com/events/edward-said-between-worlds\nDetails: https://dothebay
+ .com/events/2026/11/8/edward-said-between-worlds-tickets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34996209/98df486e-ea55-4ed4-a839-389076a2f5d0.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/8/edward-said-between-worlds-ticke
+ ts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hold on to Your Music: A Mother's Legacy
@@ -46157,19 +46339,19 @@ URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-72
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dj Chopped T
+SUMMARY:Cherrybomb Presents A Monthly Fundraiser
 DTSTART;TZID=America/Los_Angeles:20261111T180000
 DTEND;TZID=America/Los_Angeles:20261111T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17830478@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
  ebay.com/events/2026/11/11/dj-chopped-t-tickets\nSource: DoTheBay
 GEO:37.7552647;-122.4193588
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34369702/bf111d4a-5d19-4f3d-9f52-7739686d06e6.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/11/dj-chopped-t-tickets
@@ -47421,6 +47603,29 @@ URL:https://dothebay.com/events/2026/11/12/ezra-collective-here-because-of
  -hope-tour-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Navid Izadi: AYANDE — A Celebration of Life & Music
+DTSTART;TZID=America/Los_Angeles:20261112T210000
+DTEND;TZID=America/Los_Angeles:20261112T230000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17957702@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Join us at Monarch on Thursday 11/12\, for a special night cel
+ ebrating the life and music of Navid Izadi and his posthumous debut album!
+ \n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite
+ .com%2Fe%2Fnavid-izadi-ayande-a-celebration-of-life-music-tickets-20034254
+ 56471\nDetails: https://dothebay.com/events/2026/11/12/navid-izadi-ayande-
+ a-celebration-of-life-music-tickets\nSource: DoTheBay
+GEO:37.7809743;-122.4084128
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34967528/a4ffc69e-dda1-4c7d-8efa-8da7c1c43e24.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Monarch\, 101 Sixth St.\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/12/navid-izadi-ayande-a-celebratio
+ n-of-life-music-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Every Thursday: “Inner Circle” Dance Party at White Rabbit
 DTSTART;TZID=America/Los_Angeles:20261112T210000
 DTEND;TZID=America/Los_Angeles:20261113T010000
@@ -47558,8 +47763,8 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hip-Hop Dance Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261017T154147Z
-UID:caldiscovery-festival-c7301afa10032aa4@sf-cal
+DTSTAMP:20261017T204148Z
+UID:caldiscovery-festival-96fe8d61103c3fdc@sf-cal
 SEQUENCE:0
 CATEGORIES:dance,festival,music
 DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
@@ -47569,7 +47774,7 @@ DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
   1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
  cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
  mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261017T154147Z
+LAST-MODIFIED:20261017T204148Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
  -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
@@ -53100,28 +53305,6 @@ URL:https://dothebay.com/events/2026/11/19/the-pancakes-booze-art-show-tic
  kets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Out Loud: Queer Concert at Night Heron feat. MicahTron\, Hugo De L
- a Lune and more
-DTSTART;TZID=America/Los_Angeles:20261119T190000
-DTEND;TZID=America/Los_Angeles:20261119T210000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17852827@sf-cal
-SEQUENCE:0
-CATEGORIES:Lecture/Education
-DESCRIPTION:Tickets: https://www.kqed.org/event/6831/out-loud-queer-concer
- t-at-night-heron-feat-micahtron-hugo-de-la-lune-and-more\nDetails: https:/
- /dothebay.com/events/2026/11/19/out-loud-queer-concert-at-night-heron-feat
- -micahtron-hugo-de-la-lune-and-more-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34471348/e8d86984-de2c-4f4b-82cf-60d4382b69c2.png
-LAST-MODIFIED:20261006T003107Z
-LOCATION:KQED LIVE\, The Commons\, KQED Headquarters - 2601 Mariposa Stree
- t\, San Francisco\, CA 94110\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/19/out-loud-queer-concert-at-night
- -heron-feat-micahtron-hugo-de-la-lune-and-more-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bachata Party with JAS Latin Dance - Thursday\, November 19\, 2026
 DTSTART;TZID=America/Los_Angeles:20261119T190000
 DTEND;TZID=America/Los_Angeles:20261119T210000
@@ -56104,6 +56287,28 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/22/really-funny-comedians-who-happ
  en-to-be-women-with-mary-houlihan-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punksgiving! Janky Band\, Sparkle Plenty and PLAQ
+DTSTART;TZID=America/Los_Angeles:20261122T190000
+DTEND;TZID=America/Los_Angeles:20261122T210000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963865@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:FREE LIVE LOCAL MUSIC AT KILOWATT\n\nPresented by Kilowatt.\n\
+ nThis is a 21+ event\n\nFree\nPresented by Kilowatt.\n\nTickets: https://l
+ ink.dice.fm/K69599b27bca?pid=717f1d8a\nDetails: https://dothebay.com/event
+ s/2026/11/22/punksgiving-janky-band-sparkle-plenty-and-plaq-tickets\nSourc
+ e: DoTheBay
+GEO:37.7650767;-122.423278
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34996545/8092da4e-10ef-4f31-8acc-db471ea1ed63.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/22/punksgiving-janky-band-sparkle-
+ plenty-and-plaq-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boston Manor
@@ -59385,6 +59590,45 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/1/dj-lotta-notta-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Small Town Gay Bar
+DTSTART;TZID=America/Los_Angeles:20261201T183000
+DTEND;TZID=America/Los_Angeles:20261201T203000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963791@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment Presents\n20th Anniversary\nSmall
+  Town Gay Bar\nHosted by Peaches Christ w/ special guest Director Malcolm 
+ Ingram\nTuesday\, December 1 | The Castro\n\nTwo decades ago\, director Ma
+ lcolm Ingram shined a beautiful\, raw\, and deeply moving spotlight on the
+  resilience of LGBTQ+ communities in the Deep South with his groundbreakin
+ g documentary\, Small Town Gay Bar. This year\, we are bringing it back to
+  San Francisco’s most iconic silver screen.\n\nSmall Town Gay Bar is a t
+ ribute to the resiliency of gays living in rural areas throughout America.
+  A moving portrait of men and women fighting to create and maintain commun
+ ity for themselves in the face of great opposition\, hypocrisy and prejudi
+ ce in a largely ignored subculture of discreet backdoor entrances and hush
+ ed sexual expression in small town Mississippi.\n\nExperience the film lik
+ e never before with a gorgeous\, brand-new 4K restoration print that captu
+ res every ounce of heart\, struggle\, and triumph in crystal-clear definit
+ ion. Following the screening\, Peaches will sit down with special guest di
+ rector Malcolm Ingram for an exclusive\, live Q&A diving deep into the leg
+ acy of the film\, behind-the-scenes secrets\, and how the landscape of que
+ er safe spaces has evolved over the last twenty years.\n\nDon’t miss thi
+ s rare opportunity to celebrate queer history\, cinema\, and community at 
+ the Castro Theatre!\n\nall ages\nAnother Planet Entertainment Presents: 20
+ th Anniversary\nListed time is doors\n\nTickets: https://thecastro.com/eve
+ nts/small-town-gay-bar\nDetails: https://dothebay.com/events/2026/12/1/sma
+ ll-town-gay-bar-tickets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34996220/dbf23b43-8387-42ed-af04-79ff8bd39f93.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/1/small-town-gay-bar-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comedy Allstars
 DTSTART;TZID=America/Los_Angeles:20261201T193000
 DTEND;TZID=America/Los_Angeles:20261201T213000
@@ -60308,6 +60552,41 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/2/play-x-land-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cameron Winter at Carnegie Hall
+DTSTART;TZID=America/Los_Angeles:20261202T211500
+DTEND;TZID=America/Los_Angeles:20261202T231500
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963784@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Late Screening!\n\nAnother Planet Entertainment presents\n\nA 
+ Janus Films and Criterion Release\nCameron Winter at Carnegie Hall\nDirect
+ ed by Paul Thomas Anderson\nPresented in 35mm\n\nWednesday\, December 2 | 
+ The Castro\n\nCameron Winter\, in December 2025\, after a months-long sold
+ -out tour with his band Geese\, returned to New York to play a single show
+  at Carnegie Hall. This is the movie.\n\nDirected and shot on 35mm and 16m
+ m by Oscar-winning filmmaker Paul Thomas Anderson (One Battle After Anothe
+ r)\, the crew includes filmmaker and actor Benny Safdie (The Smashing Mach
+ ine) and music producer Ariel Rechtshaid (Grammy winner for albums with Va
+ mpire Weekend and Adele).\n\nGQ praised Cameron Winter’s show at Carnegi
+ e Hall as “staggeringly good\,” and Nick Cave said he has a “a glori
+ ous\, emotive voice with brilliant\, blistering words\, a racked and wondr
+ ous thing.” Winter’s solo album Heavy Metal was named one of the best 
+ of the year by Pitchfork\, Rolling Stone\, Paste and Mojo and Geese’s la
+ st record Getting Killed was named the best album of 2025 by The New Yorke
+ r\, NME\, and Stereogum.\n\nAll Ages\nSold out\nAnother Planet Entertainme
+ nt presents\nListed time is doors\n\nTickets: https://thecastro.com/events
+ /cameron-winter-at-carnegie-hall-261202-late\nDetails: https://dothebay.co
+ m/events/2026/12/2/cameron-winter-at-carnegie-hall\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34996187/ca767591-8ed0-46d3-ac29-2ddb5d3fc3c1.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/2/cameron-winter-at-carnegie-hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeremiah Chiu
@@ -61646,6 +61925,30 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/4/music-for-the-masses-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nirosta Steel
+DTSTART;TZID=America/Los_Angeles:20261204T210000
+DTEND;TZID=America/Los_Angeles:20261204T230000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17953162@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
+ to show.\n\n$34.01\, 21+\nAnother Planet Entertainment Presents\n\nTickets
+ : https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=ht
+ tps%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fnirosta-steel-the-independent-tick
+ ets%2F14372924%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_23
+ 4705%26camefrom%3DCFC_BUYAT_234705\nDetails: https://dothebay.com/events/2
+ 026/12/4/nirosta-steel-tickets\nSource: DoTheBay
+GEO:37.7755362;-122.4376556
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34944657/4da94736-1264-4add-ad22-144a23bf268c.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
+ 117
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/4/nirosta-steel-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kyle Kinane
 DTSTART;TZID=America/Los_Angeles:20261204T211500
 DTEND;TZID=America/Los_Angeles:20261204T231500
@@ -62605,8 +62908,8 @@ BEGIN:VEVENT
 SUMMARY:Illuminate SF Festival of Light
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261017T154147Z
-UID:caldiscovery-festival-edb2dd8abd28f158@sf-cal
+DTSTAMP:20261017T204148Z
+UID:caldiscovery-festival-71905f3d3be04fbb@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
@@ -62615,7 +62918,7 @@ DESCRIPTION:Illuminate SF Festival of Light\n\nDiscover over 60 breathtaki
  discovery.com)\, ODbL 1.0\n\nDetails: https://www.hotelcaza.com/explore/ev
  ent-calendar/illuminate-sf-festival-of-light?utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261017T154147Z
+LAST-MODIFIED:20261017T204148Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
@@ -65009,6 +65312,29 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/11/the-bobby-lees-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:As You Like It Unedited: Open to Close with Axel Boman
+DTSTART;TZID=America/Los_Angeles:20261211T210000
+DTEND;TZID=America/Los_Angeles:20261211T230000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17957703@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:On December 11\, Axel Boman returns to Monarch for his first o
+ pen-to-close set with AYLI.\n\nTickets: https://consumer.pxf.io/APvP5J?u=h
+ ttps%3A%2F%2Fwww.eventbrite.com%2Fe%2Fas-you-like-it-unedited-open-to-clos
+ e-with-axel-boman-tickets-2003388876058\nDetails: https://dothebay.com/eve
+ nts/2026/12/11/as-you-like-it-unedited-open-to-close-with-axel-boman-ticke
+ ts\nSource: DoTheBay
+GEO:37.7809743;-122.4084128
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34967533/0632ba94-b2bb-41ba-af61-01613e7afb22.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Monarch\, 101 Sixth St.\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/11/as-you-like-it-unedited-open-to
+ -close-with-axel-boman-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Maz Jobrani
 DTSTART;TZID=America/Los_Angeles:20261211T211500
 DTEND;TZID=America/Los_Angeles:20261211T231500
@@ -66056,8 +66382,8 @@ BEGIN:VEVENT
 SUMMARY:Parol Lantern Festival and Parade
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261017T154147Z
-UID:caldiscovery-festival-634b8b016f1bf345@sf-cal
+DTSTAMP:20261017T204148Z
+UID:caldiscovery-festival-908259b5857ce768@sf-cal
 SEQUENCE:0
 CATEGORIES:festival
 DESCRIPTION:Parol Lantern Festival and Parade\n\nExperience a magical even
@@ -66067,7 +66393,7 @@ DESCRIPTION:Parol Lantern Festival and Parade\n\nExperience a magical even
  nDetails: https://www.hotelcaza.com/explore/event-calendar/parol-lantern-f
  estival-and-parade?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san
  -francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261017T154147Z
+LAST-MODIFIED:20261017T204148Z
 TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/parol-lantern-festiva
  l-and-parade?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franc
@@ -66851,6 +67177,346 @@ LOCATION:UN Plaza\, Market St. & Hyde St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/biblio-bistro-farmers-market-cooking-school-un
  -plaza-123/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TransLife Galaxy Mental Health Series
+DTSTART;TZID=America/Los_Angeles:20261216T130000
+DTEND;TZID=America/Los_Angeles:20261216T150000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17805035@sf-cal
+SEQUENCE:0
+CATEGORIES:LGBTQ
+DESCRIPTION:Community-based mental health facilitators share coping skills
+  and trauma resiliency techniques that help develop life-rebuilding practi
+ ces. This group is designed for transgender\, gender non-conforming\, non-
+ binary\, and other TGNCI+ community members.\n\nTo attend\, please email a
+ stephens@sfaf.org.\n\nTickets: https://resources.sfaf.org/event/translife-
+ galaxy-mental-health-series-3/2026-12-16/\nDetails: https://dothebay.com/e
+ vents/2026/12/16/translife-galaxy-mental-health-series-tickets\nSource: Do
+ TheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34248826/ae60d22a-ff94-4b00-a1e0-f67bd359029a.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/translife-galaxy-mental-health-
+ series-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformaciones
+DTSTART;TZID=America/Los_Angeles:20261216T150000
+DTEND;TZID=America/Los_Angeles:20261216T170000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17805037@sf-cal
+SEQUENCE:0
+CATEGORIES:LGBTQ
+DESCRIPTION:Grupo de Apoyo para TGNCI (Transgénero\, Género No Conforme\
+ , No Binario e Intersex) Latine inmigrantes\n\nEL GRUPO SE FACILITA EN ESP
+ AÑOL Con Dr. Silvia Sandoval\n\nEl 1er y 3er Miércoles\n\n3:00 a 5:00pm\
+ n\n940 Howard St.\n\nSe servira una comida\n\nPara más información: ista
+ iti@sfaf.org | 415-738-3544\n\nMade possible through funding by ViiV Healt
+ hcare\, Gilead Sciences\, and Elizabeth Taylor AIDS Foundation\n\nTickets:
+  https://resources.sfaf.org/event/transformaciones-2/2026-12-16/\nDetails:
+  https://dothebay.com/events/2026/12/16/transformaciones-tickets\nSource: 
+ DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34248836/471e447b-ea0c-4b96-9039-c26987e63e5d.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/transformaciones-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf The Musical
+DTSTART;TZID=America/Los_Angeles:20261216T193000
+DTEND;TZID=America/Los_Angeles:20261216T213000
+DTSTAMP:20261017T204148Z
+UID:dothebay-16354638@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Tickets: https://www.broadwaysf.com/events/elf-the-musical/\nD
+ etails: https://dothebay.com/events/2026/12/16/elf-the-musical-tickets\nSo
+ urce: DoTheBay
+GEO:37.7825715;-122.4110742
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/27341328/7b005d8f-82b4-4856-a8e5-17eeb79b081b.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/elf-the-musical-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emily Catalano
+DTSTART;TZID=America/Los_Angeles:20261216T193000
+DTEND;TZID=America/Los_Angeles:20261216T213000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17581250@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Emily Catalano\nWednesday\, December 16 | Punch Line San Franc
+ isco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
+ ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Femily-catalano-sa
+ n-francisco-california-12-16-2026%2Fevent%2F1C0064E6CF5F1DB5\nDetails: htt
+ ps://dothebay.com/events/2026/12/16/emily-catalano-tickets\nSource: DoTheB
+ ay
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33196106/86398e06-df0c-4d7b-bc29-b186e27ea88a.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/emily-catalano-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ian Fidance
+DTSTART;TZID=America/Los_Angeles:20261216T193000
+DTEND;TZID=America/Los_Angeles:20261216T213000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17778486@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Ian Fidance\nWednesday\, December 16 | ​Cobb's Comedy Club\n
+ \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
+ dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fian-fidance-san-francis
+ co-california-12-16-2026%2Fevent%2F1C006519145C6134\nDetails: https://doth
+ ebay.com/events/2026/12/16/ian-fidance-tickets\nSource: DoTheBay
+GEO:37.802989;-122.4143902
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34120842/e68e96df-f4a8-4641-b9ff-7463e97b8d35.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/ian-fidance-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pokey LaFarge
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17352623@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Another Planet Entertainment Presents\nPokey LaFarge\nwith Cic
+ ada Rhythm\nWednesday\, December 16 | Bimbo's 365 Club\n\nFor two decades\
+ , Pokey LaFarge has walked his own effortlessly cool road as an exceptiona
+ lly iconoclastic troubadour – forthright\, genuine\, and markedly keen t
+ o put it all out there. Rent Money now sees him pushing forward yet again 
+ in what can be safely declared his finest collection to date\, both as an 
+ heartfelt expression of personal experience and as no-nonsense social comm
+ entary. With its twanging guitars\, plucky rhythms\, and undeniably captiv
+ ating melodies\, the album soars and swings\, its joyous refrains belying 
+ the inescapable undercurrent of constant worry and angst that permeates th
+ ese troubled times. As always\, the Illinois native deftly traverses the g
+ enre boundaries\, seamlessly integrating the myriad strains of 20th-centur
+ y American music with a freewheeling command of earnest songcraft\, inspir
+ ed performance\, and subversive creativity. Rent Money stands tall as an i
+ ndisputable high-water mark for Pokey LaFarge – a defining collection fr
+ om a one-of-a-kind artist of rare ingenuity and uncommon candor\, now as e
+ ver\, determinedly crafting a sure-footed brand of deeply human music all 
+ his own.\n\n“People are always going to tell you what they think you sho
+ uld play\,” says Pokey LaFarge\, “what you should sing about\, how you
+  should sound\, how you should look\, how you should act. And I’ve alway
+ s just been like\, nah. Nope. I’ve just completely gone my own way\, and
+ ...\n\n21+\nAnother Planet Entertainment Presents\n\nTickets: https://tick
+ etmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fww
+ w.ticketweb.com%2Fevent%2Fpokey-lafarge-bimbos-365-club-tickets%2F14903433
+ \nDetails: https://dothebay.com/events/2026/12/16/pokey-lafarge-tickets\nS
+ ource: DoTheBay
+GEO:37.8036989;-122.4156675
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/32094605/3377c321-bb2a-4589-baa1-9c612e7ca9f5.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/pokey-lafarge-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BFF.FM presents KARAOKE @ The Make Out Room hosted by BFF.fm DJs
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17686345@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
+ ebay.com/events/2026/12/16/bff-fm-presents-karaoke-the-make-out-room-hoste
+ d-by-bff-fm-djs-tickets\nSource: DoTheBay
+GEO:37.7552647;-122.4193588
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33692276/0a074d4c-7513-4968-8c7b-2fda9a93e47d.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/bff-fm-presents-karaoke-the-mak
+ e-out-room-hosted-by-bff-fm-djs-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yung Gravy
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17766985@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:The Joyrider Tour\nYung Gravy\nWednesday\, December 16 | The F
+ illmore\n\nVIP Meet & Greet Package Description - One (1) GA Ticket for en
+ try - One (1) sit-down Meet & Greet with Yung Gravy - One (1) photo and/or
+  video with Yung Gravy on your own phone - One (1) autograph - 10-minute g
+ roup Q&A with Yung Gravy & friends - First choice of a spot in the audienc
+ e - One (1) free piece of exclusive merchandise - Early Access to merch ta
+ ble *The Meet & Greet experience will start promptly two (2) hours prior t
+ o door time. If you arrive any later\, you are at risk of not being admitt
+ ed to the experience. Q&A / Early Entry Package Description: - One (1) GA 
+ Ticket for entry - 10-minute group Q&A with Yung Gravy & friends - First c
+ hoice of a spot in the audience - One (1) free piece of exclusive merchand
+ ise - Early Access to merch table *The Early Entry experience will start p
+ romptly one (1) hour prior to door time. If you arrive any later\, you are
+  at risk of not being admitted to the experience.\n\nThe Joyrider Tour\n\n
+ Tickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStu
+ ff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fyung-gravy-the-joyrider-tour-san
+ -francisco-california-12-16-2026%2Fevent%2F1C006515F563DE3C\nDetails: http
+ s://dothebay.com/events/2026/12/16/yung-gravy-the-joyrider-tour-tickets\nS
+ ource: DoTheBay
+GEO:37.7840042;-122.4331332
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34068993/faa39db4-ccd6-4961-b64b-1da58de70887.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/yung-gravy-the-joyrider-tour-ti
+ ckets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holidazed
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17860363@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Get Holidazed with Shotz: a one-night-only holiday spectacular
+  and fundraiser benefiting the revived short-play festival.\n\nHosted by J
+ ayme Catalano and Maryssa Wanlass\, the evening will feature original shor
+ t plays\, live musical numbers from Bay Area favorites\, music direction a
+ nd live accompaniment by Armando Fox\, a visit from Santa Claus\, and a sp
+ ecial guest performance. Join us for an evening filled with theatre\, musi
+ c\, warmth\, and a little seasonal mischief\, all in support of Shotz and 
+ its next chapter.\n\n$31.66 - $45.55\nAmiosWest Presents\n\nTickets: https
+ ://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%
+ 2F%2Fwww.ticketweb.com%2Fevent%2Fshotz-holidazed-feinsteins-at-the-nikko-t
+ ickets%2F14308064%3FREFID%3Dclientsitewp%26_gl%3D1%2A1u3mh76%2A_ga%2AMTA5O
+ DMxOTg1MC4xNzg2OTE5MzI4%2A_ga_QZYBCNFRRT%2AczE3ODk3NDM5NTEkbzkkZzAkdDE3ODk
+ 3NDM5NTEkajYwJGwwJGgw\nDetails: https://dothebay.com/events/2026/12/16/hol
+ idazed-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34507817/7399f8a9-ff3c-4b88-9639-90bf276a0849.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Feinstein's at the Nikko(San Francisco)\, 222 Mason Street\, San 
+ Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/holidazed-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Labiahead - California Tour 2026 - 2 Nights!
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17883055@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
+ to show.\n\n$36.59\, 21+\nAnother Planet Entertainment Presents\n\nTickets
+ : https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=ht
+ tps%3A%2F%2Fwww.ticketweb.com%2Fevent%2Flabiahead-california-tour-the-inde
+ pendent-tickets%2F14339454%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3D
+ aff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705\nDetails: https://dothebay.
+ com/events/2026/12/16/labiahead-california-tour-2026-2-nights-tickets\nSou
+ rce: DoTheBay
+GEO:37.7755362;-122.4376556
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34615683/f9cbeb36-1801-45dc-8175-70172bad737f.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
+ 117
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/labiahead-california-tour-2026-
+ 2-nights-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIVE MUSIC: Robber Robber
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963076@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Throwin’ Bo’s presents:\n\nRobber Robber\n\nPinpointing th
+ e specific catalyst for an avalanche can be slippery — any combination o
+ f classic elements\, human interference\, or freak accident can trigger di
+ saster — and documenting these precise moments often rests on serendipit
+ ous reflexes. On Two Wheels Move the Soul\, Robber Robber offer themselves
+  as ignition and capture every sound in the wake. Involuntarily thrust int
+ o the throws of rootless nomadism\, Robber Robber ringleader Nina Cates co
+ llects a series of pressurized vignettes to assemble the Burlington quarte
+ t’s thrillingly explosive sophomore album.\n\nTwo Wheels Move the Soul w
+ as written and recorded throughout the winter of 2024 and 2025\, a season 
+ of Cates’ life characterized by near-constant upheaval. In January of 20
+ 25\, Cates (and Robber Robber co-founder) Zack James were displaced from t
+ heir longtime home at the behest of a landlord’s call to have their buil
+ ding demolished. In a moment’s notice — and amidst a particularly brut
+ al Vermont winter — Cates and James were left to fend for themselves. Lu
+ ckily\, the two were able to tap a deep well of support within their commu
+ nity\, finding respite on the couches of Lily Seabird\, Greg Freeman\, and
+  Thus Love’s Echo Mars. An unused attic provided their longest arrangeme
+ nt.\n\nThe personal and economic chaos of living at the mercy of nameless 
+ powers-that-be redirected into a hyperfocused attention on Two Wheels Move
+  the Soul. Returning to Little Jamaica Studios — one of the sites for th
+ ...\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbr
+ ite.com%2Fe%2F2003359267498%3Faff%3Doddtdtcreator\nDetails: https://dotheb
+ ay.com/events/2026/12/16/live-music-robber-robber-tickets\nSource: DoTheBa
+ y
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34992703/299540d1-483e-48d5-ac1a-6ad9dc36f2a2.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/live-music-robber-robber-ticket
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Play X Land
+DTSTART;TZID=America/Los_Angeles:20261216T210000
+DTEND;TZID=America/Los_Angeles:20261216T230000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17904893@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night 
+ hosted by Cat Club in partnership with the Leather Alliance in San Francis
+ co.\n\n——\n\nGo-Go's live and onstage! Don't forget to bring your tip 
+ money\n\nOne of a kind dungeon featuring guest hosts and performances\, as
+  well as furniture and suspension hooks\, and toys that you are more than 
+ welcome to play with!\n\n——\n\n9pm-2am\n\n$10 in Fetishwear / $20 in S
+ treet Clothes\n\n——\n\nTHE CAT CLUB\n\n1190 Folsom\, SF 21+\n\n(wednes
+ days)\n\n(more info)\n\nNO PHOTOS - No photos are allowed to be taken insi
+ de the club during this event. No photos may be taken of patrons at any ti
+ me without consent.\n\nNO TOUCHING WITHOUT CONSENT - This is a general rul
+ e for all events at Cat Club and this event is no exception. DO NOT TOUCH 
+ ANY INDIVIDUAL WITHOUT OBTAINING CONSENT. Consent means an ENTHUSIASTIC YE
+ S.Whatever it is\, the way you tell your story online can make all the dif
+ ference.\n\n$10\n\nTickets: https://www.sfcatclub.com/calendar/sgzbsw3ltzj
+ ngjx-8yj6x-hzsr2-8tx5a-bh2wx-jppm3-d23d2-rg96m-n5tyf-zelb6-hjkwx-lwdjy\nDe
+ tails: https://dothebay.com/events/2026/12/16/play-x-land-tickets\nSource:
+  DoTheBay
+GEO:37.77541739999999;-122.409985
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34718029/53f9a70e-07c8-4bf9-b0c1-15d1b10defc2.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/play-x-land-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free 5th Annual Holiday Caroling w/ Cider + Treats (Novato)

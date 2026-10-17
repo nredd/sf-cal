@@ -40,64 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Film: Sesame Street and the Great Elephant Adventure
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T130000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17913953@sf-cal
-SEQUENCE:2
-CATEGORIES:Film
-DESCRIPTION:Elmo and the Sesame Street friends embark on a once-in-a-lifet
- ime African safari adventure. After adopting an orphaned elephant online\,
-  Elmo\, Abby and Nina travel to The Sheldrick Wildlife Trust in Kenya to m
- eet the young elephant and the keepers who care for her. In Sesame Street'
- s first-ever safari\, our friends embark on an unforgettable journey of di
- scovery\, taking them from the caring confines of the elephant sanctuary t
- o the unpredictable African bush\, where they come face to face with some 
- of nature's most iconic wildlife\, including lions\, zebras\, giraffes and
-  hippos. For ages 3-8 and their caregivers.\n\nFollowing the screening\, a
-  fun crafting activity will take place outside the auditorium.\n\nPresente
- d in collaboration with Sesame Workshop.\n\nFree\n\nPresented by San Franc
- isco Public Library\n\nFree\nSan Francisco Public Library\n\nDetails: http
- s://dothebay.com/events/2026/10/10/film-sesame-street-and-the-great-elepha
- nt-adventure-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.fu
- ncheap.com/free-kids-safari-film-sesame-streets-elephant-adventure-crafts-
- sf-main-library/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34760101/6d567ca5-dc30-4488-b733-61ae83274926.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Koret Auditorium (SF Public Library)\, 100 Larkin St\, San Franci
- sco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/film-sesame-street-and-the-grea
- t-elephant-adventure-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Chinese Ghost Story
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17912995@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:In this martial arts film\, Ning Choi-san (Leslie Cheung)\, a 
- traveling tax collector\, takes shelter for the night in an abandoned temp
- le. When he meets the lovely maiden Nip Siu-sin (Tsu-hsien Wang)\, Ning im
- mediately falls for her. Unfortunately\, Ning later discovers that she is 
- a ghost who is forced to serve a cruel demon\, and he resolves to save her
-  from the evil spirit. Enlisting the aid of Taoist warrior Yin Chik-hsia (
- Ma Wu)\, Ning ventures into a supernatural realm to save Nip's soul.\n\nDe
- tails: https://dothebay.com/events/2026/10/10/a-chinese-ghost-story-ticket
- s\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34756242/f63515ba-34d7-47ff-ae54-fae8a11b820a.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
-  Francisco\, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/a-chinese-ghost-story-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Music Room
 DTSTART;TZID=America/Los_Angeles:20261010T140000
 DTEND;TZID=America/Los_Angeles:20261010T160000
@@ -1604,6 +1546,43 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/the-craft-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free United Nations Association Film Festival (Palo Alto)
+DTSTART;TZID=America/Los_Angeles:20261017T130000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1640855@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Still from THE FIXER\, directed by Mimi Chakarova and Lydia Ch
+ ávez\n\nThe 29th United Nations Association Film Festival presents free p
+ rogramming for kids on Saturday\, Oct. 17\, in Palo Alto\, featuring two s
+ hort documentaries.\nThe program opens with the world premiere of “The F
+ ixer\,” a 12-minute stop-motion documentary from local filmmakers Mimi C
+ hakarova and Lydia Chávez. The film follows a 10-year-old girl determined
+  to fix what is broken in a fragile world.\nThe program continues with “
+ Under the Canopy\,” directed by Michal Krawczyk. Set in Colombia’s And
+ ean-Amazon Piedmont\, the documentary follows a community-led effort to ma
+ p biodiversity and restore forests while preserving Indigenous ecological 
+ knowledge.\n\n**Admission is free.** This special UNAFF & Kids Program off
+ ers an opportunity to see two short documentaries suitable for all audienc
+ es. The 29th UNAFF runs Oct. 15-25\, 2026\, with the theme “Passion for 
+ Change.” The festival features films addressing human rights issues\, in
+ cluding the environment\, women’s rights\, racism and peace\, and engage
+ s audiences throughout the Bay Area.\n\nFree\n\nTickets: https://www.unaff
+ .org/\nDetails: https://sf.funcheap.com/free-united-nations-association-fi
+ lm-festival-palo-alto/\nSource: Funcheap SF\n\nAlso listed on:\n- https://
+ www.unaff.org/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fra
+ ncisco-ca
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/f_FIXE
+ R.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Mitchell Park Community Center\, 3700 Middlefield Road\, Palo Alt
+ o
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-united-nations-association-film-festival-
+ palo-alto/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Ceremony
 DTSTART;TZID=America/Los_Angeles:20261017T140000
 DTEND;TZID=America/Los_Angeles:20261017T160000
@@ -1629,6 +1608,47 @@ LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
  , CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/the-ceremony-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watch “Niu Lai” Indie Film: China’s So-Bad-It’s-Good Anima
+ ted Hit
+DTSTART;TZID=America/Los_Angeles:20261017T153000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1642706@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:tiatLets watch Niu Lai together <3\n​Niu Lai (Chinese: 牛
+ 来\; pinyin: Niú Lái\; literally “Here Comes the Cow” or “The Bul
+ l is Coming”) is a viral 2026 Chinese animated indie film that became a 
+ massive “so bad\, it’s good” box office sleeper hit.\n​​⭑.ᐟ 
+ More on Niu Lai\n\n​Niu Lai is an 86-minute abstract adventure following
+  a timid newborn calf who grows into a braver ox through a dream-like jour
+ ney alongside his mother and other forest animals.\n\n​It was made over 
+ a five-year period by a mother-and-son duo\, director Xin Yumeng and write
+ r/composer Sun Lifang\, who handled the script\, animation\, voice acting\
+ , and soundtrack almost entirely by themselves.\n\n​Created on a tiny bu
+ dget (reported around $200 to a few thousand yuan) using basic architectur
+ al modeling and design software like SketchUp on secondhand hardware.\n\n
+ ​After opening to almost no audience and earning just a few thousand yua
+ n in its first week\, clips of its stiff\, glitchy\, and surreal computer-
+ generated imagery spread across Chinese social media.\n\n​Online ridicul
+ e turned into genuine curiosity and cult-classic status\, driving audience
+ s to theaters en masse and pushing its gross past $9 million (making it on
+ e of the most profitable films relative to its budget). Audiences often co
+ ntrasted its earnest\, human-made charm with slick\, AI-generated content.
+ \n\n​​⭑.ᐟ Chinamaxxing\n​A group exhibition on view 9/25 – 10/
+ 17 at TIAT in SF ⭑.ᐟ\n​Drink hot water. Learn the characters. Buy th
+ e robot dog. Imagine the future happening somewhe...\n\nFree\n\nTickets: h
+ ttps://luma.com/niulai\nDetails: https://sf.funcheap.com/watch-niu-lai-ind
+ ie-film-chinas-sobaditsgood-animated-hit-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/gulfne
+ ws_2026-08-18_n9up7len_cow.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:tiat\, 151 Powell St. San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/watch-niu-lai-indie-film-chinas-sobaditsgood-a
+ nimated-hit-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Forbidden Forest: A Harry Potter Party (Mayes Oyster House)
@@ -5126,6 +5146,45 @@ URL:https://dothebay.com/events/2026/11/29/new-people-an-eye-for-an-eye-ti
  ckets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Small Town Gay Bar
+DTSTART;TZID=America/Los_Angeles:20261201T183000
+DTEND;TZID=America/Los_Angeles:20261201T203000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963791@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment Presents\n20th Anniversary\nSmall
+  Town Gay Bar\nHosted by Peaches Christ w/ special guest Director Malcolm 
+ Ingram\nTuesday\, December 1 | The Castro\n\nTwo decades ago\, director Ma
+ lcolm Ingram shined a beautiful\, raw\, and deeply moving spotlight on the
+  resilience of LGBTQ+ communities in the Deep South with his groundbreakin
+ g documentary\, Small Town Gay Bar. This year\, we are bringing it back to
+  San Francisco’s most iconic silver screen.\n\nSmall Town Gay Bar is a t
+ ribute to the resiliency of gays living in rural areas throughout America.
+  A moving portrait of men and women fighting to create and maintain commun
+ ity for themselves in the face of great opposition\, hypocrisy and prejudi
+ ce in a largely ignored subculture of discreet backdoor entrances and hush
+ ed sexual expression in small town Mississippi.\n\nExperience the film lik
+ e never before with a gorgeous\, brand-new 4K restoration print that captu
+ res every ounce of heart\, struggle\, and triumph in crystal-clear definit
+ ion. Following the screening\, Peaches will sit down with special guest di
+ rector Malcolm Ingram for an exclusive\, live Q&A diving deep into the leg
+ acy of the film\, behind-the-scenes secrets\, and how the landscape of que
+ er safe spaces has evolved over the last twenty years.\n\nDon’t miss thi
+ s rare opportunity to celebrate queer history\, cinema\, and community at 
+ the Castro Theatre!\n\nall ages\nAnother Planet Entertainment Presents: 20
+ th Anniversary\nListed time is doors\n\nTickets: https://thecastro.com/eve
+ nts/small-town-gay-bar\nDetails: https://dothebay.com/events/2026/12/1/sma
+ ll-town-gay-bar-tickets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34996220/dbf23b43-8387-42ed-af04-79ff8bd39f93.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/1/small-town-gay-bar-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cameron Winter at Carnegie Hall
 DTSTART;TZID=America/Los_Angeles:20261202T183000
 DTEND;TZID=America/Los_Angeles:20261202T203000
@@ -5161,6 +5220,41 @@ LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/2/cameron-winter-at-carnegie-hall-
  directed-by-paul-thomas-anderson-presented-in-35mm-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cameron Winter at Carnegie Hall
+DTSTART;TZID=America/Los_Angeles:20261202T211500
+DTEND;TZID=America/Los_Angeles:20261202T231500
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963784@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Late Screening!\n\nAnother Planet Entertainment presents\n\nA 
+ Janus Films and Criterion Release\nCameron Winter at Carnegie Hall\nDirect
+ ed by Paul Thomas Anderson\nPresented in 35mm\n\nWednesday\, December 2 | 
+ The Castro\n\nCameron Winter\, in December 2025\, after a months-long sold
+ -out tour with his band Geese\, returned to New York to play a single show
+  at Carnegie Hall. This is the movie.\n\nDirected and shot on 35mm and 16m
+ m by Oscar-winning filmmaker Paul Thomas Anderson (One Battle After Anothe
+ r)\, the crew includes filmmaker and actor Benny Safdie (The Smashing Mach
+ ine) and music producer Ariel Rechtshaid (Grammy winner for albums with Va
+ mpire Weekend and Adele).\n\nGQ praised Cameron Winter’s show at Carnegi
+ e Hall as “staggeringly good\,” and Nick Cave said he has a “a glori
+ ous\, emotive voice with brilliant\, blistering words\, a racked and wondr
+ ous thing.” Winter’s solo album Heavy Metal was named one of the best 
+ of the year by Pitchfork\, Rolling Stone\, Paste and Mojo and Geese’s la
+ st record Getting Killed was named the best album of 2025 by The New Yorke
+ r\, NME\, and Stereogum.\n\nAll Ages\nSold out\nAnother Planet Entertainme
+ nt presents\nListed time is doors\n\nTickets: https://thecastro.com/events
+ /cameron-winter-at-carnegie-hall-261202-late\nDetails: https://dothebay.co
+ m/events/2026/12/2/cameron-winter-at-carnegie-hall\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34996187/ca767591-8ed0-46d3-ac29-2ddb5d3fc3c1.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/2/cameron-winter-at-carnegie-hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Crooked Jades (10th Album Release)

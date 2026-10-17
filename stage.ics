@@ -40,35 +40,46 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Wallace & Gromit: The Curse of the Were-Rabbit
+SUMMARY:“The Great Elephant Migration” 30 Elephant Sculptures (Downtow
+ n Livermore)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17893637@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Wallace & Gromit: The Curse of the Were-Rabbit is a delightful
-  adventure. Daffy\, cheese-loving inventor Wallace and his faithful dog Gr
- omit become heroes in stopping a crime spree. They learn that a giant\, fu
- zzy creature is stealing the town's produce and the not-completely-dynamic
-  duo set out to capture the beast and save the day.\n\nCinema SF Bay is pr
- oud to announce that our Saturday & Sunday morning POPCORN PALACE movie sc
- reenings at the 4 STAR will continue to be presented FREE OF CHARGE in 202
- 6!\n\nThanks to an incredibly generous grant we will be showing you fantas
- tic family-friendly movies every weekend at 10:00 AM! Perfect for everythi
- ng from birthday get-togethers to casual stop-ins\, so bring the whole fam
- ily over to the 4 STAR THEATER for community movies together.\n\nReservati
- ons will be first-come-first-serve when the box office opens thirty minute
- s before the screening on the day of the show. We look forward to seeing y
- ou at the movies!\n\nDetails: https://dothebay.com/events/2026/10/10/walla
- ce-gromit-the-curse-of-the-were-rabbit-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34665081/b9e63bda-a13d-4fda-995c-1002327f3251.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
+DTEND;TZID=America/Los_Angeles:20261010T210000
+DTSTAMP:20261017T204148Z
+UID:funcheap-1641105@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Three Thirty-Three ArtsThe Great Elephant Migration: A Family 
+ Gathering opens in Downtown Livermore with a welcome and blessing ceremony
+  at Stockmen’s Park\, including a cultural dance performance and custom 
+ textile artwork. The installation features 30 life-size handcrafted elepha
+ nt sculptures by Indigenous artisans at Bankhead Plaza and Stockmen’s Pa
+ rk from October 10 through December 6. Opening-day programming also includ
+ es the Livermore ArtWalk and an evening Dandiya celebration among the elep
+ hant sculptures.\nOriginal Event Description:\n🐘The Elephants are Comin
+ g to Downtown Livermore\nJoin us this Saturday\, October 10th at 10 AM to 
+ welcome The Great Elephant Migration: A Family Gathering!\nFor the next tw
+ o months (Oct 10 – Dec 6)\, 30 life-size\, handcrafted elephants made by
+  Indigenous artisans via @theerealeleco will grace Bankhead Plaza and Stoc
+ kmen’s Park. This intimate herd brings the same joy\, magic and purpose 
+ to smaller communities\, gardens and cultural spaces. It carries the heart
+  of the flagship exhibition\, but in a smaller\, nimbler format\, allowing
+  these wonderful elephants to wander into places where the full herd simpl
+ y can’t.\nSATURDAY\, OCT 10TH SCHEDULE:\n✨10:00 AM | Welcome & Blessin
+ g of the Elephants\nStockmen’s Park\nCeremonial blessing of the herd\, a
+  cultural dance performance by @vishwashanthidance\, and custom artwork te
+ xtiles by @artistsiaaa (Indian American Artists Association)\n🎨11:00 AM
+  – 5:00 PM | Livermore ArtWalk\nFirst Street between Maple & S. Livermor
+ e...\n\nFree\n\nTickets: https://www.333arts.org/gem\nDetails: https://sf.
+ funcheap.com/great-elephant-migration-30-elephant-sculptures-downtown-live
+ rmore/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/836635
+ 232_18562872409076431_722015364464872399_n.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Stockmen’s Park\, N. Livermore Avenue and Railroad Avenue\, Liv
+ ermore
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/wallace-gromit-the-curse-of-the
- -were-rabbit-tickets
+URL:https://sf.funcheap.com/great-elephant-migration-30-elephant-sculpture
+ s-downtown-livermore/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spicy Soiree: No Immigrants No Spice
@@ -1125,9 +1136,9 @@ BEGIN:VEVENT
 SUMMARY:4-Star Halloween Cartoon Special
 DTSTART;TZID=America/Los_Angeles:20261017T100000
 DTEND;TZID=America/Los_Angeles:20261017T120000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T204148Z
 UID:dothebay-17893635@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:This weekend\, the 4-Star offers up a festively programmed blo
  ck of Halloween cartoons to go with the season! You’re in for a program 
@@ -1146,10 +1157,11 @@ DESCRIPTION:This weekend\, the 4-Star offers up a festively programmed blo
  ward to seeing you at the movies!\n\nTickets: https://www.4-star-movies.co
  m/calendar-of-events/halloween-cartoons-sat\nDetails: https://dothebay.com
  /events/2026/10/17/4-star-halloween-cartoon-special-tickets\nSource: DoThe
- Bay
+ Bay\n\nAlso listed on:\n- https://sf.funcheap.com/free-halloween-cartoon-m
+ orning-4-star-theater-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34665066/68515d5e-3aa9-45df-807b-b661d67e6ac7.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T204148Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/4-star-halloween-cartoon-specia
@@ -6686,6 +6698,96 @@ LAST-MODIFIED:20261016T211839Z
 LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/15/elf-the-musical-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf The Musical
+DTSTART;TZID=America/Los_Angeles:20261216T193000
+DTEND;TZID=America/Los_Angeles:20261216T213000
+DTSTAMP:20261017T204148Z
+UID:dothebay-16354638@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Tickets: https://www.broadwaysf.com/events/elf-the-musical/\nD
+ etails: https://dothebay.com/events/2026/12/16/elf-the-musical-tickets\nSo
+ urce: DoTheBay
+GEO:37.7825715;-122.4110742
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/27341328/7b005d8f-82b4-4856-a8e5-17eeb79b081b.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/elf-the-musical-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holidazed
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17860363@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Get Holidazed with Shotz: a one-night-only holiday spectacular
+  and fundraiser benefiting the revived short-play festival.\n\nHosted by J
+ ayme Catalano and Maryssa Wanlass\, the evening will feature original shor
+ t plays\, live musical numbers from Bay Area favorites\, music direction a
+ nd live accompaniment by Armando Fox\, a visit from Santa Claus\, and a sp
+ ecial guest performance. Join us for an evening filled with theatre\, musi
+ c\, warmth\, and a little seasonal mischief\, all in support of Shotz and 
+ its next chapter.\n\n$31.66 - $45.55\nAmiosWest Presents\n\nTickets: https
+ ://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%
+ 2F%2Fwww.ticketweb.com%2Fevent%2Fshotz-holidazed-feinsteins-at-the-nikko-t
+ ickets%2F14308064%3FREFID%3Dclientsitewp%26_gl%3D1%2A1u3mh76%2A_ga%2AMTA5O
+ DMxOTg1MC4xNzg2OTE5MzI4%2A_ga_QZYBCNFRRT%2AczE3ODk3NDM5NTEkbzkkZzAkdDE3ODk
+ 3NDM5NTEkajYwJGwwJGgw\nDetails: https://dothebay.com/events/2026/12/16/hol
+ idazed-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34507817/7399f8a9-ff3c-4b88-9639-90bf276a0849.jpg
+LAST-MODIFIED:20261017T204148Z
+LOCATION:Feinstein's at the Nikko(San Francisco)\, 222 Mason Street\, San 
+ Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/holidazed-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIVE MUSIC: Robber Robber
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261017T204148Z
+UID:dothebay-17963076@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Throwin’ Bo’s presents:\n\nRobber Robber\n\nPinpointing th
+ e specific catalyst for an avalanche can be slippery — any combination o
+ f classic elements\, human interference\, or freak accident can trigger di
+ saster — and documenting these precise moments often rests on serendipit
+ ous reflexes. On Two Wheels Move the Soul\, Robber Robber offer themselves
+  as ignition and capture every sound in the wake. Involuntarily thrust int
+ o the throws of rootless nomadism\, Robber Robber ringleader Nina Cates co
+ llects a series of pressurized vignettes to assemble the Burlington quarte
+ t’s thrillingly explosive sophomore album.\n\nTwo Wheels Move the Soul w
+ as written and recorded throughout the winter of 2024 and 2025\, a season 
+ of Cates’ life characterized by near-constant upheaval. In January of 20
+ 25\, Cates (and Robber Robber co-founder) Zack James were displaced from t
+ heir longtime home at the behest of a landlord’s call to have their buil
+ ding demolished. In a moment’s notice — and amidst a particularly brut
+ al Vermont winter — Cates and James were left to fend for themselves. Lu
+ ckily\, the two were able to tap a deep well of support within their commu
+ nity\, finding respite on the couches of Lily Seabird\, Greg Freeman\, and
+  Thus Love’s Echo Mars. An unused attic provided their longest arrangeme
+ nt.\n\nThe personal and economic chaos of living at the mercy of nameless 
+ powers-that-be redirected into a hyperfocused attention on Two Wheels Move
+  the Soul. Returning to Little Jamaica Studios — one of the sites for th
+ ...\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbr
+ ite.com%2Fe%2F2003359267498%3Faff%3Doddtdtcreator\nDetails: https://dotheb
+ ay.com/events/2026/12/16/live-music-robber-robber-tickets\nSource: DoTheBa
+ y
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34992703/299540d1-483e-48d5-ac1a-6ad9dc36f2a2.png
+LAST-MODIFIED:20261017T204148Z
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/16/live-music-robber-robber-ticket
+ s
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Lift Every Voice” Free MLK Day Gospel/Blues Concert at SF’s
