@@ -40,88 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:NightFlow Debut: House Party w/ 2 Local DJs (Mission)
-DTSTART;TZID=America/Los_Angeles:20261009T193000
-DTEND;TZID=America/Los_Angeles:20261009T233000
-DTSTAMP:20261007T060815Z
-UID:funcheap-1640489@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerHeartLabSF.comNIGHTFLOW — A 
- HeartLab House Party We’re personally inviting you. 🫵\n​This is the
-  one we’ve been dreaming up.\n​NightFlow is HeartLab’s brand new soc
- ial party series — and this is the very first one. We’re kicking off t
- his experiment and we want you in the room for the beginning of something 
- special.\n​The vision: a monthly home for connection\, dancing\, and gen
- uine good vibes — rotating DJs\, familiar faces\, new friends\, and the 
- kind of night that makes you forget what time it is.\n​The Vibe\n​Hear
- tLab is San Francisco’s favorite living room — a cozy 1\,000 sq ft Mis
- sion space featuring a 15-foot daybed\, warm lighting\, and a container th
- at always feels like home. For NightFlow we’re turning it into a full ho
- use party experience:\n​ Live sets from two local DJs spinning deep hous
- e\, Afro house\, nu-disco and tech house Elixir bar + tea lounge ️ Loung
- e areas to connect\, catch up\, or melt into the music Games and surprise 
- offerings throughout the night\n​Perfect if you’re coming straight fro
- m All Day I Dream at Golden Gate Park — or skipping the festival entirel
- y and letting your hair down right here with us.\n​Your DJs for the Nigh
- t\n​DJ Trim — Weaving together nu-disco\, house\, and tech house into 
- sets that move your body and lift your spirit. @trim.dj\n​DJ Bobwire —
-  Deep house and Afro house beats that melt the stress away\, get your feet
-  moving\, and leave your mood elevated. @bobbymcez\n​Want to contribute?
- \n​We’re looking for a small team of volu...\n\n$15.00\n\nTickets: htt
- ps://luma.com/f99vxc7g\nDetails: https://sf.funcheap.com/nightflow-debut-h
- ouse-party-2-local-djs-mission/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/d5e637
- 3c-b798-43b6-990b-ce8b23014997.jpg.avif
-LAST-MODIFIED:20261007T060815Z
-LOCATION:HeartLab\, 3095 21st street
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/nightflow-debut-house-party-2-local-djs-missio
- n/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feral Friday San Francisco Square Dance
-DTSTART;TZID=America/Los_Angeles:20261009T200000
-DTEND;TZID=America/Los_Angeles:20261009T220000
-DTSTAMP:20261007T060815Z
-UID:funcheap-1641300@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerL KeirA community dance in the
-  heart of the Mission District. With Live Music at the historic Polish Clu
- b: it is fun\, it is frisky!\nNo experience necessary\, bring your pals or
-  come on your own\; all dances taught\, all ages and people welcome.\n\nA 
- free Old Time Music Jam kicks things off starting at 6:30\, til 8pm\nOur m
- otto: “”Way more fun than you might think!”\n\n$20.00\n\nTickets: ht
- tps://www.instagram.com/feralfridaysfsquaredance\nDetails: https://sf.func
- heap.com/feral-friday-san-francisco-square-dance-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/4DB071
- 32-AAF1-4DB6-9FF1-64BF189C22BF.jpg
-LAST-MODIFIED:20261007T060815Z
-LOCATION:The Polish Club\, 3040 22nd St\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/feral-friday-san-francisco-square-dance-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riordan
-DTSTART;TZID=America/Los_Angeles:20261009T220000
-DTEND;TZID=America/Los_Angeles:20261010T000000
-DTSTAMP:20261010T095844Z
-UID:dothebay-17611218@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:DJ Dials & 1015 Folsom Present\nRiordan\nFriday\, October 9 | 
- 1015 Folsom\n\n$25-$30\, 21+\nDJ Dials & 1015 Folsom Present\n\nDetails: h
- ttps://dothebay.com/events/2026/10/9/riordan-tickets\nSource: DoTheBay
-GEO:37.7781117;-122.4058001
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33592684/a7356364-d63f-4ad9-a6c9-34311c975bac.jpg
-LAST-MODIFIED:20261010T095844Z
-LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/9/riordan-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNIQLO SF Grand Reopening Weekend w/ Discounts & Giveaways (Oct. 9
  -11)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
@@ -1965,9 +1883,9 @@ BEGIN:VEVENT
 SUMMARY:Oktoberfest at SideTrack in Pleasanton
 DTSTART;TZID=America/Los_Angeles:20261016T170000
 DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261006T160356Z
+DTSTAMP:20261017T105245Z
 UID:funcheap-1637866@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Live Music Event
 DESCRIPTION:Submitted by the Event OrganizerSideTrack Bar + GrillIt’s ti
  me to take out your lederhosen and dirndl dress! SideTrack’s Oktoberfest
@@ -1991,12 +1909,10 @@ DESCRIPTION:Submitted by the Event OrganizerSideTrack Bar + GrillIt’s ti
  n is free with food and drink tickets available at the door.\nGuarantee yo
  ur seat and reserve food and beverage packages in advance for F...\n\nFree
  \n\nTickets: https://www.sidetrackeats.com/oktoberfest/\nDetails: https://
- sf.funcheap.com/oktoberfest-sidetrack-pleasanton/\nSource: Funcheap SF\n\n
- Also listed on:\n- https://www.sidetrackeats.com/oktoberfest/?utm_source=c
- aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ sf.funcheap.com/oktoberfest-sidetrack-pleasanton/\nSource: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/ST-Okt
  oberfest-Poster-No-QR-Codes-2026.png
-LAST-MODIFIED:20261006T160356Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:SideTrack Bar + Grill\, 30 West Angela Street\, Pleasanton
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/oktoberfest-sidetrack-pleasanton/
@@ -2032,22 +1948,18 @@ BEGIN:VEVENT
 SUMMARY:Sara Bareilles
 DTSTART;TZID=America/Los_Angeles:20261016T180000
 DTEND;TZID=America/Los_Angeles:20261016T200000
-DTSTAMP:20261006T191250Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17439616@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Sara Bareilles\nFriday\, October 16 | ​Bill Graham Civic Aud
  itorium\n\nall ages\nSold out\nAnother Planet Entertianment Presents: The 
- Good Grief Tour\nListed time is doors\n\nTickets: https://ticketmaster.evy
- y.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmast
- er.com%2Fsara-bareilles-the-good-grief-tour-san-francisco-california-10-16
- -2026%2Fevent%2F1C0064C1F394888C%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26bran
- d%3Danotherplanet\nDetails: https://dothebay.com/events/2026/10/16/sara-ba
- reilles-tickets\nSource: DoTheBay
+ Good Grief Tour\nListed time is doors\n\nDetails: https://dothebay.com/eve
+ nts/2026/10/16/sara-bareilles-tickets\nSource: DoTheBay
 GEO:37.77814499999999;-122.4174374
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32511896/e207376b-8e9c-4cf3-926b-3db5e012139b.jpg
-LAST-MODIFIED:20261006T191250Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Bill Graham Civic Auditorium\, 99 Grove Street\, San Francisco\, 
  CA\, 94102
 TRANSP:TRANSPARENT
@@ -2057,9 +1969,9 @@ BEGIN:VEVENT
 SUMMARY:Iron & Wine
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-16929979@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment presents\nIron & Wine\n\nFriday\,
   October 16 | The Castro\n\n“I’ve always wanted to use that title\,”
@@ -2083,16 +1995,12 @@ DESCRIPTION:Another Planet Entertainment presents\nIron & Wine\n\nFriday\,
  ther but have distinct identities and are defined as much by their differe
  nces as their similarities.\n\nLight Verse (2024) took its name from a for
  m of poetry that m...\n\nall ages\nSold out\nAnother Planet Entertainment 
- presents\nListed time is doors\n\nTickets: https://ticketmaster.evyy.net/c
- /253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%
- 2Firon-wine-san-francisco-california-10-16-2026%2Fevent%2F1C00643EF001AC85
- %3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet\nDetails: http
- s://dothebay.com/events/2026/10/16/iron-wine-ken-pomeroy-tickets\nSource: 
- DoTheBay
+ presents\nListed time is doors\n\nDetails: https://dothebay.com/events/202
+ 6/10/16/iron-wine-ken-pomeroy-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30082985/c57af956-9825-4fe9-80ab-1332f448c8c1.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/iron-wine-ken-pomeroy-tickets
@@ -2101,9 +2009,9 @@ BEGIN:VEVENT
 SUMMARY:Dom Dolla
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17490102@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Goldenvoice Presents\nDom Dolla\nwith DJ Seinfeld b2b HAAi\, S
  kiis b2b Clearcast\n\nFriday\, October 16 | Cow Palace\n\nTHIS EVENT IS 18
@@ -2127,13 +2035,12 @@ DESCRIPTION:Goldenvoice Presents\nDom Dolla\nwith DJ Seinfeld b2b HAAi\, S
  an w/ Nelly Furtado\, Saving Up\, girl$\, CAVE w/ Tove Lo\,\nDreamin ft. D
  aya and Don’t Worry Baby’ w/ Tiga\, which has seen Dom’s catalog sur
  pass 1.5\nBILLION str...\n\n18+\nGoldenvoice Presents\nListed time is door
- s\n\nTickets: https://www.axs.com/events/1485548/dom-dolla-tickets?cid=usa
- ffdostuff\nDetails: https://dothebay.com/events/2026/10/16/dom-dolla-cow-p
- alace-tickets\nSource: DoTheBay
+ s\n\nDetails: https://dothebay.com/events/2026/10/16/dom-dolla-cow-palace-
+ tickets\nSource: DoTheBay
 GEO:37.70676539999999;-122.418738
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32755899/b4b1f6aa-9045-417f-bd52-72164af716be.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Cow Palace\, 2600 Geneva Avenue\, Daly City\, CA\, 94014
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/dom-dolla-cow-palace-tickets
@@ -2142,22 +2049,21 @@ BEGIN:VEVENT
 SUMMARY:The Seshen\, Sweet Lew\, Cardboard People
 DTSTART;TZID=America/Los_Angeles:20261016T193000
 DTEND;TZID=America/Los_Angeles:20261016T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17464021@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Fri\n\nday October 16\n2026\n\n7:30PM\n\ndoors\n\n-- music at 
  8\n\n:30PM\n\n21 AND OVER\n\n$\n\n17\n\nin\nadvance\n\n/\n$20\n\nat the do
  or\n\n$22.01 in advance [17 face value +5.01 service fee]\n\nThe Seshen\n\
  n10-year Anniversary of Flames & Figures\n\nelectronic\, R&B\n\nSweet Lew\
- n\nChicano Southwest Soul\n\nCardboard People\n\nIndie-Soul-Artpop\n\nTick
- ets: http://www.bottomofthehill.com/stubmatic/event20261016.html\nDetails:
-  https://dothebay.com/events/2026/10/16/the-seshen-sweet-lew-cardboard-peo
- ple-tickets\nSource: DoTheBay
+ n\nChicano Southwest Soul\n\nCardboard People\n\nIndie-Soul-Artpop\n\nDeta
+ ils: https://dothebay.com/events/2026/10/16/the-seshen-sweet-lew-cardboard
+ -people-tickets\nSource: DoTheBay
 GEO:37.7649597;-122.3964408
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32628042/e95044bc-0c2d-4a6f-a024-2efb93395c38.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Bottom Of The Hill\, 1233 17th Street\, San Francisco\, CA\, 9410
  7
 TRANSP:TRANSPARENT
@@ -2200,18 +2106,16 @@ BEGIN:VEVENT
 SUMMARY:The Jungle Giants
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17375322@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:$29.50-$35\nGoldenvoice Presents\n\nTickets: https://wl.seetic
- kets.us/event/the-jungle-giants/690946?afflky=GreatAmericanMusicHall\nDeta
- ils: https://dothebay.com/events/2026/10/16/the-jungle-giants-tickets\nSou
- rce: DoTheBay
+DESCRIPTION:$29.50-$35\nGoldenvoice Presents\n\nDetails: https://dothebay.
+ com/events/2026/10/16/the-jungle-giants-tickets\nSource: DoTheBay
 GEO:37.7848325;-122.418809
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32252332/c3598cb1-370d-46af-8f7e-f0718bcfe378.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Great American Music Hall\, 859 O'farrell Street\, San Francisco\
  , CA\, 94109
 TRANSP:TRANSPARENT
@@ -2221,9 +2125,9 @@ BEGIN:VEVENT
 SUMMARY:An Evening With moe.
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17436042@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Goldenvoice Presents\nAn Evening With moe.\n\nFriday\, October
   16 | ​The Regency Ballroom\n\nAl Schnier (guitars\, vocals) * Chuck Gar
@@ -2246,13 +2150,12 @@ DESCRIPTION:Goldenvoice Presents\nAn Evening With moe.\n\nFriday\, October
  eer fun of it. The band followed a handful of cassette-only releases with 
  1992's FATBOY\, recorded in an apartment studio above Buffalo's Top Shelf 
  Guitars with a bird's eye view of Mighty Taco.\n\n"We liked music\, we l..
- .\n\nGoldenvoice Presents\n\nTickets: https://www.theregencyballroom.com/e
- vents/detail/?event_id=1468095\nDetails: https://dothebay.com/events/2026/
- 10/16/an-evening-with-moe-tickets\nSource: DoTheBay
+ .\n\nGoldenvoice Presents\n\nDetails: https://dothebay.com/events/2026/10/
+ 16/an-evening-with-moe-tickets\nSource: DoTheBay
 GEO:37.7879104;-122.4215079
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32490785/5f8a147b-90a0-4a08-bf2e-8627ecfe1ba6.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:The Regency Ballroom\, 1290 Sutter Street\, San Francisco\, CA\, 
  94109
 TRANSP:TRANSPARENT
@@ -2262,19 +2165,17 @@ BEGIN:VEVENT
 SUMMARY:Neurosis
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17617915@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Neurosis\nFriday\, October 16 | The Fillmore\n\nSold out\n\nTi
- ckets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff
- &u=https%3A%2F%2Fwww.ticketmaster.com%2Fneurosis-san-francisco-california-
- 10-16-2026%2Fevent%2F1C0064E1FA1668C6\nDetails: https://dothebay.com/event
- s/2026/10/16/neurosis-tickets\nSource: DoTheBay
+DESCRIPTION:Neurosis\nFriday\, October 16 | The Fillmore\n\nSold out\n\nDe
+ tails: https://dothebay.com/events/2026/10/16/neurosis-tickets\nSource: Do
+ TheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33363776/0df879c1-8ebf-4800-95c8-b5dd95541c28.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/neurosis-tickets
@@ -2283,19 +2184,17 @@ BEGIN:VEVENT
 SUMMARY:Actress
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17670543@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Actress\nFriday\, October 16 | August Hall\n\nAll Ages\n\nTick
- ets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u
- =https%3A%2F%2Fwww.ticketmaster.com%2Factress-san-francisco-california-10-
- 16-2026%2Fevent%2F1C0064FCC9A512C4\nDetails: https://dothebay.com/events/2
- 026/10/16/actress-tickets\nSource: DoTheBay
+DESCRIPTION:Actress\nFriday\, October 16 | August Hall\n\nAll Ages\n\nDeta
+ ils: https://dothebay.com/events/2026/10/16/actress-tickets\nSource: DoThe
+ Bay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33611038/ec46e97a-652e-4184-afc6-707a1933ab01.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/actress-tickets
@@ -2304,21 +2203,19 @@ BEGIN:VEVENT
 SUMMARY:Tainted Love
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17673520@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:This event is 21 and over. Any ticket holder unable to present
   valid identification indicating that they are at least 21 years of age wi
  ll not be admitted to this event\, and will not be eligible for a refund.\
- n\n$36.40\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?S
- haredId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Ftainted-love-b
- imbos-365-club-tickets%2F14997763\nDetails: https://dothebay.com/events/20
- 26/10/16/tainted-love-tickets\nSource: DoTheBay
+ n\n$36.40\n\nDetails: https://dothebay.com/events/2026/10/16/tainted-love-
+ tickets\nSource: DoTheBay
 GEO:37.8036989;-122.4156675
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33623766/0f811999-5156-4a11-88b2-184f05aefdf8.png
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA\, 94133
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/tainted-love-tickets
@@ -2327,9 +2224,9 @@ BEGIN:VEVENT
 SUMMARY:Jessie Ware
 DTSTART;TZID=America/Los_Angeles:20261016T203000
 DTEND;TZID=America/Los_Angeles:20261016T223000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17234006@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Goldenvoice Presents\nThe Superbloom Tour 2026\nJessie Ware\nw
  ith Dhruv\n\nFriday\, October 16 | The Warfield\n\nMercury Prize and 6-tim
@@ -2345,14 +2242,13 @@ DESCRIPTION:Goldenvoice Presents\nThe Superbloom Tour 2026\nJessie Ware\nw
  good vibes and a generosity of spirit. And groove. So. Much. Groove. Yet T
  hat! Feels Good! also resounds with an ebullient ease\; an unforced and un
  hurried spirit runs throughout each and every one of the 10 tracks.\n\nAll
-  Ages\nSold out\nGoldenvoice Presents: The Superbloom Tour 2026\n\nTickets
- : https://www.axs.com/events/1400483/jessie-ware-tickets?skin=warfield&src
- =AEGLIVE_WWRFLSFO022715VEN001?cid=usaffdostuff\nDetails: https://dothebay.
- com/events/2026/10/16/jessie-ware-tickets\nSource: DoTheBay
+  Ages\nSold out\nGoldenvoice Presents: The Superbloom Tour 2026\n\nDetails
+ : https://dothebay.com/events/2026/10/16/jessie-ware-tickets\nSource: DoTh
+ eBay
 GEO:37.7827039;-122.4103578
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31543659/f669809e-5869-4f66-83c3-776c777924f1.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:The Warfield\, 982 Market St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/jessie-ware-tickets
@@ -2361,21 +2257,17 @@ BEGIN:VEVENT
 SUMMARY:This is Lorelei
 DTSTART;TZID=America/Los_Angeles:20261016T210000
 DTEND;TZID=America/Los_Angeles:20261016T230000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17350239@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
- to show.\n\nAnother Planet Entertainment Presents\n\nTickets: https://tick
- etmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fww
- w.ticketweb.com%2Fevent%2Fthis-is-lorelei-the-independent-tickets%2F149083
- 03%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camef
- rom%3DCFC_BUYAT_234705\nDetails: https://dothebay.com/events/2026/10/16/th
- is-is-lorelei-tickets\nSource: DoTheBay
+ to show.\n\nAnother Planet Entertainment Presents\n\nDetails: https://doth
+ ebay.com/events/2026/10/16/this-is-lorelei-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32083654/d3c25af5-c1db-4057-a86c-5d0514414862.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -2385,21 +2277,19 @@ BEGIN:VEVENT
 SUMMARY:Detroit Love w/ Carl Craig & Moodymann
 DTSTART;TZID=America/Los_Angeles:20261016T210000
 DTEND;TZID=America/Los_Angeles:20261016T230000
-DTSTAMP:20261010T010053Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17704064@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:PW 16-Year Anniversary Night Two\nDetroit Love with Carl Craig
   & Moodymann\nFriday\, October 16 | Public Works\n\n$68.92\nPW 16-Year Ann
- iversary Night Two\n\nTickets: https://www.tixr.com/groups/publicsf/events
- /pw-16-year-anniversary-night-two-detroit-love-with-carl-craig-moodymann-2
- 01917?utm_source=publicsf&utm_medium=venuewebsite\nDetails: https://dotheb
- ay.com/events/2026/10/16/pw-16-year-anniversary-night-one-detroit-love-wit
- h-carl-craig-moodymann-tickets\nSource: DoTheBay
+ iversary Night Two\n\nDetails: https://dothebay.com/events/2026/10/16/pw-1
+ 6-year-anniversary-night-one-detroit-love-with-carl-craig-moodymann-ticket
+ s\nSource: DoTheBay
 GEO:37.7688759;-122.4194268
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34888577/4e75a1b9-ac82-47c9-bd3e-2b18bb07e5cd.jpg
-LAST-MODIFIED:20261010T010053Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/pw-16-year-anniversary-night-on
@@ -2409,21 +2299,20 @@ BEGIN:VEVENT
 SUMMARY:NOMADZ X DARNA
 DTSTART;TZID=America/Los_Angeles:20261016T220000
 DTEND;TZID=America/Los_Angeles:20261017T000000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17800952@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:NOMADZ X DARNA\nFriday\, October 16 | 1015 Folsom\n\nThe Bay A
  rea's two most iconic global parties\, Nomadz x Darna\, take over 1015 Fol
  som on October 16\n\nExperience the sounds of the Middle East\, Latin Amer
  ica\, Africa\, South Asian and beyond fused with electronic music. All und
- er one roof. This is the event of the YEAR.\n\nTickets: https://www.darnae
- vents.us/\nDetails: https://dothebay.com/events/2026/10/16/nomadz-x-darna-
- tickets\nSource: DoTheBay
+ er one roof. This is the event of the YEAR.\n\nDetails: https://dothebay.c
+ om/events/2026/10/16/nomadz-x-darna-tickets\nSource: DoTheBay
 GEO:37.7781117;-122.4058001
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34728390/00a41d7b-3937-4423-9816-9e48fbdab5ab.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/16/nomadz-x-darna-tickets
@@ -4547,6 +4436,31 @@ LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/eazybaked-presented-by-public-w
  orks-insomniac-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOMBIE PROM - Halloween Costume Ball w/ The Widdler\, Mimosa & Mor
+ e
+DTSTART;TZID=America/Los_Angeles:20261023T210000
+DTEND;TZID=America/Los_Angeles:20261023T230000
+DTSTAMP:20261017T105245Z
+UID:dothebay-17823531@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Zombie Prom returns with The Widdler\, MiMOSA & FREE PROM PHOT
+ OS! A Bass Dripping Costume Ball with MalLabel & Soundpieces Crews\n\n21+\
+ nMalLabel + Sparklpieces present\nListed time is doors\n\nTickets: https:/
+ /consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fzombie-pr
+ om-the-widdler-mimosa-more-halloween-costume-ball-tickets-1996054870851%3F
+ aff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/10/23/zombi
+ e-prom-the-widdler-more-halloween-costume-ball-tickets\nSource: DoTheBay
+GEO:37.7674263;-122.4062869
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34990318/c255dbdb-bb5f-4be9-8436-71e6270d0e20.jpg
+LAST-MODIFIED:20261017T105245Z
+LOCATION:The Great Northern\, 119 Utah Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/23/zombie-prom-the-widdler-more-ha
+ lloween-costume-ball-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CID x Maesic
@@ -6827,9 +6741,9 @@ BEGIN:VEVENT
 SUMMARY:Dayfall: Glitterati
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T210000
-DTSTAMP:20261016T211839Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17959600@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:The Unicorn Syndicate Presents\nDayfall: Glitterati\nSaturday\
  , October 31 | Rooftop at VIA\n\nDAYFALL returns with GLITTERATI\, a speci
@@ -6846,13 +6760,13 @@ DESCRIPTION:The Unicorn Syndicate Presents\nDayfall: Glitterati\nSaturday\
  Disco glamour is encouraged. Think shimmering fabrics\, metallics\, bold s
  ilhouettes\, vintage elegance\, and unapologetic individuality.\n\nCome fo
  r the music. Dress for the moment. Stay for the experience.\n\n21+\nThe Un
- icorn Syndicate Presents\n\nTickets: https://consumer.pxf.io/APvP5J?u=http
- s%3A%2F%2Fwww.eventbrite.com%2Fe%2Fglitterati-by-dayfall-tickets-200280320
- 7307%3Faff%3DDoTheBay\nDetails: https://dothebay.com/events/2026/10/31/day
- fall-glitterati-halloween-tickets\nSource: DoTheBay
+ icorn Syndicate Presents\n\nTickets: https://www.eventbrite.com/e/glittera
+ ti-by-dayfall-tickets-2002803207307?aff=DoTheBay\nDetails: https://dotheba
+ y.com/events/2026/10/31/dayfall-glitterati-halloween-tickets\nSource: DoTh
+ eBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34977560/4f334e84-2cc4-42ca-a593-53b772c07a38.jpg
-LAST-MODIFIED:20261016T211839Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Rooftop at VIA\, 138 King St\, San Francisco\, CA\, 94107
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/dayfall-glitterati-halloween-ti

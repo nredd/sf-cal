@@ -41,46 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Fridays on Front Street
-DTSTART;TZID=America/Los_Angeles:20261009T080000
-DTEND;TZID=America/Los_Angeles:20261009T235900
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1485643-2026-10-09T08:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Front St from Halleck St to Sacramento St\; Halleck St
-  from Front St to Battery St\; Front St from California St to Halleck St\n
- \nPermit status: Permitted\nTimes are SFMTA street-closure permit times an
- d include setup and teardown\nSource: DataSF Temporary Street Closures\n\n
- Details: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.794064;-122.398925
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Front St between California St and Sacramento St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chinatown Night Market 2026
-DTSTART;TZID=America/Los_Angeles:20261009T130000
-DTEND;TZID=America/Los_Angeles:20261009T235900
-DTSTAMP:20261017T043703Z
-UID:sf-street-events-1472713-2026-10-09T13:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Grant Ave from California St to Sacramento St\; Grant 
- Ave from Commercial St to Clay St\; Grant Ave from Clay St to Washington S
- t\; Grant Ave from Washington St to Jackson St\; Grant Ave from Sacramento
-  St to Commercial St\; Grant Ave from Jackson St to Pacific Ave\n\nPermit 
- status: Permitted\nTimes are SFMTA street-closure permit times and include
-  setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: 
- https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.792915;-122.406034
-LAST-MODIFIED:20261017T043703Z
-LOCATION:Grant Ave between Sacramento St and Clay St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Beach Farmers Market 2026
 DTSTART;TZID=America/Los_Angeles:20261010T060000
 DTEND;TZID=America/Los_Angeles:20261010T150000

@@ -41,22 +41,6 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:CHC: red/yellow
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-DTSTAMP:20261006T193603Z
-UID:city-hall-lights-ics-ca1d9fb344a53dca@sf-cal
-SEQUENCE:0
-DESCRIPTION:National Day of Spain\n\nDetails: https://www.sf.gov/location-
- -san-francisco-city-hall\nSource: SF City Hall lighting (via Robelius/sf-c
- ity-hall-lighting-calendar)
-LAST-MODIFIED:20261006T193603Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHC: red/yellow
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 DTSTAMP:20261006T193603Z

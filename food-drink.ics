@@ -40,39 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Elijah Craig Old Fashioned Week: The Tavern Trail (Oct. 9-18)
-DTSTART;TZID=America/Los_Angeles:20261009T000000
-DTEND;TZID=America/Los_Angeles:20261009T235900
-DTSTAMP:20261006T191250Z
-UID:funcheap-1640312@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Submitted by the Event OrganizerElijah Craig’s Old Fashioned
-  Week returns for its seventh year from October 9–18\, inviting bourbon 
- fans across the country to enjoy creative takes on the iconic cocktail whi
- le supporting the hospitality community. New this year\, the Old Fashioned
-  Tavern Trail spotlights 70 destinations nationwide – from historic tave
- rns to modern gathering places – that foster community\, connection and 
- a shared appreciation for great bourbon.\nFor every Old Fashioned sold at 
- participating establishments during Old Fashioned Week\, Elijah Craig will
-  donate $1 to the Southern Smoke Foundation\, which provides emergency rel
- ief and no-cost mental health services to hospitality workers in need. To 
- date\, Elijah Craig has pledged more than $600\,000 to Southern Smoke Foun
- dation and other hospitality organizations.\n\nA few stops along the Taver
- n Trail in San Francisco include:\n\nElixer\n\nComstock Saloon\n\nOld Ship
-  Saloon\n\nTo explore the complete Tavern Trail and find additional partic
- ipating bars\, visit the “Find a Bar” tool at OldFashionedWeek.com.\n\
- nFree\n\nTickets: https://oldfashionedweek.com/find-bars\nDetails: https:/
- /sf.funcheap.com/elijah-craig-fashioned-week-tavern-trail-oct-918/\nSource
- : Funcheap SF
-LAST-MODIFIED:20261006T191250Z
-LOCATION:Elixir\, Comstock Saloon and Old Ship Saloon\, 155 Columbus Ave\,
-  San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/elijah-craig-fashioned-week-tavern-trail-oct-9
- 18/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sports Basement (
  Bryant Street)
 DTSTART;TZID=America/Los_Angeles:20261010T103000
@@ -1452,9 +1419,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Halloween Bar Crawl 2026
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261014T050109Z
+DTSTAMP:20261017T105245Z
 UID:dothebay-17766269@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Food & Drink
 DESCRIPTION:CrawlSF Presents\nSan Francisco Halloween Bar Crawl 2026\nSatu
  rday\, October 24 | Mayes Oyster House\n\nA great Halloween costume deserv
@@ -1480,11 +1447,12 @@ DESCRIPTION:CrawlSF Presents\nSan Francisco Halloween Bar Crawl 2026\nSatu
  s\, take gro...\n\n$12 - $45\, 21+\nCrawlSF Presents\n\nTickets: https://c
  rawlsf.com/events/crawloween-san-francisco-halloween-pub-crawl/\nDetails: 
  https://dothebay.com/events/2026/10/24/san-francisco-halloween-bar-crawl-2
- 026-tickets\nSource: DoTheBay
+ 026-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
+ m/sfs-epic-halloween-pub-crawl-crawloween-2026-oct-24-nov-1/
 GEO:37.788296;-122.4205566
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34065248/c69e5eb9-69a0-4853-bd22-81397ede786a.jpg
-LAST-MODIFIED:20261014T050109Z
+LAST-MODIFIED:20261017T105245Z
 LOCATION:Mayes Oyster House\, 1233 Polk St.\, San Francisco\, CA\, 94109
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/san-francisco-halloween-bar-cra
