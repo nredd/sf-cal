@@ -56,61 +56,6 @@ LAST-MODIFIED:20261006T002614Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:North Beach Farmers Market 2026
-DTSTART;TZID=America/Los_Angeles:20261010T060000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1429598-2026-10-10T06:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Greenwich St from Powell St to Via Bufano\; Greenwich 
- St from Via Bufano to Columbus Ave\n\nPermit status: Permitted\nTimes are 
- SFMTA street-closure permit times and include setup and teardown\nSource: 
- DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yy
- br\nSource: DataSF street closures
-GEO:37.802075;-122.411401
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Greenwich St between Columbus Ave and Powell St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fillmore Farmers' Market 2026
-DTSTART;TZID=America/Los_Angeles:20261010T070000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1365558-2026-10-10T07:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Ofarrell St from Fillmore St to Steiner St\n\nPermit s
- tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
- setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
- ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.783188;-122.433528
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Ofarrell St between Fillmore St and Steiner St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hayes Valley Farmers Market
-DTSTART;TZID=America/Los_Angeles:20261010T070000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1493851-2026-10-10T07:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Hayes St from Gough St to Octavia St\n\nPermit status:
-  Permitted\nTimes are SFMTA street-closure permit times and include setup 
- and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:/
- /data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.776786;-122.423746
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Hayes St between Octavia St and Gough St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paseo Artiistico 10 Year Block Party
 DTSTART;TZID=America/Los_Angeles:20261010T080000
 DTEND;TZID=America/Los_Angeles:20261010T200000
@@ -249,42 +194,6 @@ URL:https://sf.funcheap.com/free-legion-of-honor-museum-day-for-bay-area-r
  esidents-every-saturday-337/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ship Tours
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261013T225222Z
-UID:fleetweeksf-53432-20261010@sf-cal
-SEQUENCE:3
-CATEGORIES:Ship Tours
-DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
- F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
- om/sfs-electric-dream-home-2026-mobile-showroom-pier-35/\n- https://sf.fun
- cheap.com/fleet-week-at-pier-39-oct-7-11-2/
-GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261013T225222Z
-LOCATION:Pier 35\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/ship-tours/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ship Tours
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261013T225222Z
-UID:fleetweeksf-53434-20261010@sf-cal
-SEQUENCE:3
-CATEGORIES:Ship Tours
-DESCRIPTION:Details: https://fleetweeksf.org/events/ship-tours/\nSource: S
- F Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.c
- om/sfs-electric-dream-home-2026-mobile-showroom-pier-35/\n- https://sf.fun
- cheap.com/fleet-week-at-pier-39-oct-7-11-2/
-GEO:37.805222078782;-122.40128480585
-LAST-MODIFIED:20261013T225222Z
-LOCATION:Pier 27\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/ship-tours/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fleet Fest at Fisherman’s Wharf
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T190000
@@ -364,6 +273,46 @@ LOCATION:Martin Luther King Jr. Civic Center Park\, 2151 Martin Luther Kin
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
  an-market-berkeley/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s “Electric Dream Home 2026” Mobile Showroom (Pier 35)
+DTSTART;TZID=America/Los_Angeles:20261010T100000
+DTEND;TZID=America/Los_Angeles:20261010T170000
+DTSTAMP:20261017T231124Z
+UID:funcheap-1640196@sf-cal
+SEQUENCE:0
+CATEGORIES:Nature
+DESCRIPTION:SF’s “Electric Dream Home 2026” Mobile Showroom (Oct. 8-
+ 10)\nElectric Dream Home 2026: Test Modern Appliances (SF)\nElectric Dream
+  Home is a mobile electric-appliance showroom appearing at Civic Center Pl
+ aza on October 8\, 2026 and Pier 35 on the Embarcadero on October 10\, 202
+ 6. Visitors can explore electric appliances in a home-like setting\, inclu
+ ding induction cooktops\, heat pumps\, and electric fireplaces\, while lea
+ rning about their air-quality\, comfort\, performance\, and climate benefi
+ ts.\nCome experience the Electric Dream Home:\nThursday\, October 8\, 10am
+  to 6pm — Civic Center Plaza\nSaturday\, October 10\, 10am to 5pm — Pi
+ er 35 on the Embarcadero\nOriginal Event Description:\nElectric Dream Home
+  is coming to San Francisco from October 8 to 10. This mobile display lets
+  you explore electric appliances in a home-like setting and imagine how th
+ ey might fit into your life. Join us to explore and learn how to improve a
+ ir quality in your home.\nCome experience the Electric Dream Home:\nThursd
+ ay\, October 8\, 10am to 6pm — Civic Center Plaza\nSaturday\, October 10
+ \, 10am to 5pm — Pier 35 on the Embarcadero\nThe shift from gas to elect
+ ric is already underway\, with the Bay Area Air District finalizing zero e
+ missions water heater rules this November. Modern appliances make everyday
+  life more convenient and comfortable while helping San Francisco build a 
+ healthier\, climate-friendly future. The Electric Dream Home gives you the
+  chance to see that performance for yourself!\nThe Electric Dream Home is 
+ a m...\n\nFree\n\nTickets: https://www.sfenvironment.org/blog/five-reasons
+ -why-life-better-electric\nDetails: https://sf.funcheap.com/sfs-electric-d
+ ream-home-2026-mobile-showroom-pier-35/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/photov
+ 2_dreamhome_email_0.png
+LAST-MODIFIED:20261017T231124Z
+LOCATION:Pier 35 on Embarcadero\, Pier 35\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-electric-dream-home-2026-mobile-showroom-p
+ ier-35/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNIQLO SF Grand Reopening Weekend w/ Discounts & Giveaways (Oct. 9
@@ -450,6 +399,45 @@ URL:https://sf.funcheap.com/great-elephant-migration-30-elephant-sculpture
  s-downtown-livermore/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fleet Week at PIER 39 (Oct. 7-11)
+DTSTART;TZID=America/Los_Angeles:20261010T100000
+DTEND;TZID=America/Los_Angeles:20261010T210000
+DTSTAMP:20261017T231124Z
+UID:funcheap-1641904@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:Fleet Week at PIER 39 (Oct. 7-11)\nDemonstrate x DDW\nDid you 
+ know that PIER 39 is THE place to experience the Fleet Week action? Enjoy 
+ live music from military and local bands backed by front-row views of the 
+ Bay\, spectacular ship sightings\, and unforgettable aerial performances o
+ verhead. From the Parade of Ships to the Fleet Week Air Show\, discover al
+ l the ways to celebrate Fleet Week from the waterfront at PIER 39!\nBeyond
+  the action on the Bay\, PIER 39 keeps the energy going with live performa
+ nces throughout Fleet Week\, giving visitors even more to enjoy before and
+  after the day’s events. With waterfront dining\, shopping\, entertainme
+ nt\, and unbeatable views all in one place\, PIER 39 is the ultimate home 
+ base for experiencing Fleet Week in San Francisco.\nActive and retired mil
+ itary members can also take advantage of special discounts at participatin
+ g locations. Visit the PIER 39 website to learn more about available milit
+ ary offers and start planning your Fleet Week visit.\n\nEntrance Plaza Sta
+ ge Schedule\n\nDemonstrate x DDW\n\nWednesday\, 10/7\n\n12pm – 2pm – D
+ J PAULY PAUL\nGet the Fleet Week party started in PIER 39’s Entrance Pla
+ za with DJ Pauly Paul spinning all your favorite dance songs!\n\n5pm – 7
+ pm – MOBILITY ROCK BAND\, USA AIR FORCE BAND OF THE GOLDEN WEST\nThe Uni
+ ted States Air Force is bringing their Rock Band to the Entrance Plaza sta
+ ge and will have you belting out classic and modern hits.\n\nThursday\, 10
+ /8\n\n12pm – 2pm – DJ PAULY PAUL\nGet the Fleet Week party started in 
+ PIER 39...\n\nFree\n\nTickets: https://www.pier39.com/fleetweek/\nDetails:
+  https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-2/\nSource: Funche
+ ap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/P39_20
+ 26_PFTF_Fleet-Week_FunCheapSF.png
+LAST-MODIFIED:20261017T231124Z
+LOCATION:Pier 39\, The Embarcadero\, San Francisco CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/fleet-week-at-pier-39-oct-7-11-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Block Party - Connecticut St 14th Annual
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T173000
@@ -530,33 +518,6 @@ URL:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-gallery-s
  ports-basement-bryant-street/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pulmonary Hypertension Wellness Expo (South SF)
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1625167@sf-cal
-SEQUENCE:0
-CATEGORIES:Sports Fitness
-DESCRIPTION:Submitted by the Event OrganizerPulmonary Hypertension Associa
- tionThe Pulmonary Hypertension Wellness Expo is the Pulmonary Hypertension
-  Association’s newest free educational experience for the pulmonary hype
- rtension community. The wellness expo offers interactive exhibits and info
- rmal Q&A opportunities with PH experts. The expo replaces the conference-s
- tyle format of the PH Community Workshop and PHA On the Road. The expo wil
- l feature resource zones\, where participants can access educational mater
- ials\, as well as activities for children.\n\nFree\n\nTickets: https://pha
- ssociation.org/events-and-resources/pha-events/wellness-expo/\nDetails: ht
- tps://sf.funcheap.com/pulmonary-hypertension-wellness-expo-south-sf/\nSour
- ce: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/06/PHA-We
- llnessExpo_wordmark_RGB.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:South San Francisco Conference Center\, 255 S Airport Blvd\, San 
- Francisco\, CA 94080
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/pulmonary-hypertension-wellness-expo-south-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Japantown “AniMachi Market” Love and Deepspace Pop-Up
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T180000
@@ -598,121 +559,6 @@ URL:https://sf.funcheap.com/sfs-japantown-animachi-market-love-deepspace-p
  opup/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Off the Grid 2026 Treasure Island w/ Free Kites + Free Ferry Rides
-  (Fall 2026)
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634822@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Off the Grid 2026 Treasure Island w/ Free Kites + Free Ferry R
- ides (Fall 2026)\nOff the Grid\nEvery Saturday through October 17 from 11 
- AM to 4 PM\, Off the Grid returns to Treasure Island\, bringing food truck
- s\, music\, and family-friendly activities to Cityside Park in San Francis
- co’s newest waterfront neighborhood.\nThe spring series includes free ki
- te flying\, face painting\, and plenty of open space to relax\, making it 
- an easy outing for all ages. Admission is free\, and complimentary ferry s
- ervice from the San Francisco Ferry Building is available with RSVP.\nWhat
-  to Expect:\n\nOne Island. 15+ Creators. Multiple Cuisines.\nMore than 15 
- food creators per event span Vietnamese\, Korean\, Japanese\, Hawaiian\, M
- exican\, Italian\, German\, BBQ\, fried chicken\, sandwiches\, and sweets.
-  There’s something for every craving\, from go-to favorites to something
-  entirely new.\nA Waterfront Setting with Unbeatable Views\nCityside Park 
- spans six acres along the shoreline\, with open lawns\, wide promenades\, 
- and views that stretch from the Bay Bridge to the Golden Gate. Settle in\,
-  explore the park\, and take in the full sweep of the Bay.\nKites Over the
-  Bay\nThe signature kite program returns\, with complimentary kites availa
- ble with signup. By midday\, the sky fills with color\, creating one of th
- e most shareable scenes of the season.\nAn Island Adventure Eight Minutes 
- from the Ferry Building\nLeave the city and arrive somewhere that feels no
- thing like it. Just eight minutes by ferry from downtown San Francisco\, O
- ff...\n\nFree\n\nTickets: http://www.offthegrid.com/treasureisland\nDetail
- s: https://sf.funcheap.com/off-the-grid-2026-treasure-island-w-free-kites-
- free-ferry-rides-fall-2026-4/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/off-th
- e-grid-041826-0072.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:695 Avenue of the Palms\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/off-the-grid-2026-treasure-island-w-free-kites
- -free-ferry-rides-fall-2026-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Bollywood Outdoor Dance Party at Union Square
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1636230@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Rang De Bollywood By ManpreetExperience a vibrant\, free Bolly
- wood Garba dance event in Union Square\, San Francisco. Open to all ages a
- nd skill levels\, the event features multiple beginner-friendly dance less
- ons followed by an open dance party. Attendees are encouraged to come as t
- hey are or dress in colorful attire. The event welcomes newcomers and adva
- nced dancers alike\, offering a celebration of culture\, community\, and m
- usic in the heart of the city.\nOriginal Event Description:\n_Bollywood Ga
- rba at Union Square – Free & Open to All! All ages Saturday\, October 10
-  · 11:00am–2:00 p.m. Union Square\, San Francisco🎉 Bollywood Garba a
- t Union Square – Free & Open to All!🪔 Saturday\, October 10th · 11:0
- 0 a.m – 2:00 p.m.Come casual or dressed. No pressure. Beginner friendly.
-  Walks ins and people who never done Garba more than welcome. We will do m
- ultiple lessons throughout the 3 hours and party after each lesson.For adv
- anced dancers come show off what you got and get the group going in your o
- wn circle.Get ready to twirl in the heart of San Francisco! ✨Join us for
-  an unforgettable Bollywood Garba in the heart of San Francisco — a vibr
- ant celebration of rhythm\, joy\, and community.💃🏽 Schedule: 🕔 11
- :00 a.m – 1:00 p.m. – Bolly Garba Dance Lessons throughout the day wit
- h party – No experience needed — we’ll teach you the steps\, the fla
- ir\, and the fun! 🕕 1:00 pm – 2:00 pm – Dance Party! We turn up the
-  music and light up the floor with a 1-hour open dance party. Dance solo\,
-  with friends\, or in...\n\nFree\n\nTickets: https://www.eventbrite.com/e/
- bollywood-garba-at-union-square-tickets-1997146786801\nDetails: https://sf
- .funcheap.com/free-bollywood-outdoor-dance-party-union-square-sf/\nSource:
-  Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/https-
- 3A-2F-2Fcdn.evbuc_.com-2Fimages-2F1190539409-2F2994954722404-2F1-2Forigina
- l.20260807-125026.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Union Square\, 333 Post St\, San Francisco\, California
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-bollywood-outdoor-dance-party-union-squar
- e-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lawton Fall Fest: Student‑Built Arcade Games
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1637188@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:Melissa LaiLawton Alternative School’s Fall Fest is bringing
-  a burst of creativity to the Sunset\, and it’s free to attend. On Satur
- day\, October 10\, 2026\, families can enjoy an afternoon of community fun
-  featuring local food vendors\, plus a one‑of‑a‑kind arcade inspired
-  by Caine’s Arcade. Every carnival-style game has been imagined and hand
- -built by Lawton’s 5th graders using recycled and repurposed materials 
- — turning cardboard\, tape\, and everyday items into something truly mag
- ical.\nVisitors can play the student‑made games\, meet the young creator
- s behind them\, and experience a project that celebrates imagination\, tea
- mwork\, and creativity. Admission is free\, and game play and food are ava
- ilable for purchase\, with proceeds supporting the 5th graders’ graduati
- on festivities.\nIf you’re looking for a feel‑good\, family‑friendly
-  event that showcases kids building something extraordinary for their comm
- unity\, Fall Fest is a perfect weekend pick.\n\nFree\n\nTickets: https://w
- ww.eventbrite.com/e/lawton-fall-fest-studentbuilt-arcade-community-fun-tic
- kets-2000866480505?aff=oddtdtcreator\nDetails: https://sf.funcheap.com/law
- ton-fall-fest-studentbuilt-arcade-games-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Fall-F
- est-Flyer-2026-Color.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Lawton Alternative School Yard\, 1551 30th Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/lawton-fall-fest-studentbuilt-arcade-games-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free “AniMachi” Market: Love and Deepspace Themed Event (Japan
  town)
 DTSTART;TZID=America/Los_Angeles:20261010T110000
@@ -742,47 +588,6 @@ LOCATION:KOHO Co-Creative Hub\, 1675 Post Street #2nd Floor San Francisco\
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-animachi-market-love-deepspace-themed-eve
  nt-japantown/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Second Saturdays ‘Round the World at Union Square: Bollywood Gar
- ba
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638325@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Rang De BollywoodJoin us for our final Second Saturdays ‘Rou
- nd the World event this year at Union Square! Get ready to twirl in an unf
- orgettable Bollywood Garba at the heart of San Francisco — a vibrant cel
- ebration of rhythm\, joy\, and community in the festive season of Navratri
- .\nSecond Saturdays ‘Round the World\nSaturday\, October 10\, 2026 | 11a
-  – 2p\nUnion Square Park\, Geary and Powell\, SF\nFREE\nSchedule:\n\n11:
- 00 am – 1:00 pm: Bolly Garba Dance Lessons. No experience needed\, we’
- ll teach you the steps\, the flair\, and the fun!\n1:00 pm – 2:00 pm: Da
- nce Party! We turn up the music and light up the floor with a 1-hour open 
- dance party. Dance solo\, with friends\, or in circles of celebration!\n\n
- Expect a fusion of traditional Garba beats and Bollywood bangers\, colorfu
- l\, energetic\, and full of heart. Its non-stop fun entertainment! You won
- ’t want to stop dancing.\nOpen to all ages\, all levels\, all background
- s. Wear your brightest\, twirliest outfits or come as you are. Free to att
- end\, just bring your joy\, your people\, and your dancing feet!\nCome cas
- ual or dressed. No pressure. Beginner friendly. Walk ins and people who ha
- ve never done Garba (a circular Indian dance) more than welcome. We will d
- o multiple lessons throughout the day and have performances party after ea
- ch lesson.\nDress as you want Indian or Non-Indian\, no pressure\, be comf
- ortable. Let’s fill Union Square with color\, culture\, and connection. 
- This is more than a dance\, it’s a celebration of culture\, community\, 
- and love.\n\nFree\n\nTickets: https://visitunionsquaresf.com/park-programs
- \nDetails: https://sf.funcheap.com/saturdays-round-world-union-square-boll
- ywood-garba-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Screen
- shot-2026-09-23-100115.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/saturdays-round-world-union-square-bollywood-g
- arba-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Huge Fan-Created Lego “Brick Exhibition” at SF’s Stonestown 
@@ -819,87 +624,6 @@ URL:https://sf.funcheap.com/huge-fancreated-lego-brick-exhibition-sfs-ston
  estown-oct-10-nov-15/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s Fleet Fest 2026: Brass Band Concert (Fleet Fest)
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1638958@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-concert-fleet-fest/\nSou
- rce: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261017T204148Z
-LOCATION:SkyStar Wheel Fisherman’s Wharf\, 2860 Taylor St\, San Francisc
- o\, CA 94133
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-concert-fleet-f
- est/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF’s Fleet Fest 2026: Navy Band SW Brass Band (K9 Heroes)
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1638959@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-fest-2026-navy-band-sw-brass-band-fleet-fest/
- \nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261017T204148Z
-LOCATION:Duboce Park\, Duboce and Noe\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-fest-2026-navy-band-sw-brass-band-fl
- eet-fest/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:5th Annual Spooktacular Halloween & Oddities Market (Crockett)
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261011T040000
@@ -923,76 +647,6 @@ LOCATION:Crockett Scout Hall\, 991 Loring Ave.\, Crockett Ca 94525
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/5th-annual-spooktacular-halloween-oddities-mar
  ket-crockett/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Boat Rides + Fleet Week Waterfront Fun at India Basin Park
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1639921@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Celebrate Fleet Week at the park with a FREE concert\, boat ri
- des\, games\, military challenges\, kids’ swag\, community resources\, a
- nd more!\n\nJoin us for Fleet Week Family Day at India Basin Waterfront Pa
- rk and celebrate Fleet Week on the water! Bring out the whole family out f
- or a free afternoon filled with live music\, outdoor games\, military chal
- lenges\, free boat rides\, kids’ giveaways\, community resources\, and m
- ore. Enjoy a special performance by the U.S Air Force Band of the Golden W
- est Brass while connecting with neighbors and community partners. This fam
- ily-friendly event is free and open to the community\, so come ready for a
-  fun day on the waterfront!\n\nFree\n\nTickets: https://www.eventbrite.com
- /e/fleet-week-family-day-tickets-2002638658136\nDetails: https://sf.funche
- ap.com/free-boat-rides-fleet-week-waterfront-fun-india-basin-park-sf/\nSou
- rce: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Fleet-
- Week-Family-Day.png
-LAST-MODIFIED:20261017T204148Z
-LOCATION:India Basin Waterfront Park\, 900 Innes Ave\, San Francisco\, CA 
- 94124
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-boat-rides-fleet-week-waterfront-fun-indi
- a-basin-park-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Fleet Week Family Day: Waterfront Concert + Free Boat Rides (
- India Basin)
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1640378@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Fleet Week is coming to the Bayview! 🇺🇸\nCelebrate Fleet
-  Week and the Bayview-Hunters Point community with a free concert featurin
- g Golden West Brass\, part of the U.S. Air Force Band of the Golden West. 
- Kids and families can also enjoy military challenges\, outdoor games and c
- ontests\, Fleet Week swag\, free boat rides\, community rowing\, and more.
- \nMusical Feature\nGolden West Brass\nU.S. Air Force Band of the Golden We
- st\nWhat to Expect\n\nFree live concert\nOutdoor games and contests with m
- ilitary service members\nMilitary challenges and activities\nFleet Week sw
- ag for kids\nFree boat rides and community rowing with Rocking the Boat\nC
- ommunity resources\nFamily-friendly activities\nSafer Streets demonstratio
- n and neighborhood block party\n\nEvent Locations\nFamily Day & Concert\nI
- ndia Basin Waterfront Park\n900 Innes Ave\nSan Francisco\, CA\n\nSafer Str
- eets Demonstration\nBetween Hunters Point Blvd. and Innes Ave.\nSaturday\,
-  October 10\, 2026\n11:00 AM–3:00 PM\nThe celebration is part of a weeke
- nd-long Safer Streets demonstration on Innes Avenue and Hunters Point Boul
- evard\, with temporary street changes taking place Friday\, October 9 thro
- ugh Sunday\, October 11.\nCome out with your family\, enjoy the music and 
- activities\, connect with your neighbors\, and celebrate Fleet Week in the
-  Bayview!\nFREE & OPEN TO THE COMMUNITY\n\nFree\n\nTickets: https://www.ev
- entbrite.com/e/india-basin-fleet-week-family-day-tickets-2002767738218?aff
- =oddtdtcreator\nDetails: https://sf.funcheap.com/2026-fleet-week-family-da
- y-waterfront-concert-free-boat-rides-india-basin/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/India-
- Basin-Fleet-Week-Family-Day.png
-LAST-MODIFIED:20261017T204148Z
-LOCATION:India Basin Waterfront Park\, 900 Innes Ave\, San Francisco\, CA 
- 94124
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-concert-
- free-boat-rides-india-basin/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Davingy SF Open Studios
@@ -1088,171 +742,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aquarium of the Bay Fleet Week Watch Party
-DTSTART;TZID=America/Los_Angeles:20261010T113000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1632322@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Submitted by the Event OrganizerAquarium of the BayCelebrate F
- leet Week on October 10\, 2026 with spectacular views from Aquarium of the
-  Bay’s private outdoor balconies overlooking the San Francisco Bay. Enjo
- y catered food and drinks\, watch the air show* overhead\, and explore the
-  Aquarium throughout the day.\nLimited Capacity: Reserve your spot before 
- tickets sell out.\n\nWhat’s Incldued\nYour Fleet Week Watch Party ticket
-  includes:\n\nPrivate balcony access overlooking the Bay and PIER 39\nFlee
- t Week Air Show viewing*\nCatered lunch\nBeverages\nSame-day Aquarium gene
- ral admission\nIn-and-out privileges during the event with your event wris
- tband\n\n*Air show is managed by 3rd party company. Aquarium is not respon
- sible if weather conditions or alteration of lineup of performances affect
- s viewing.\n\nEvent tickets are non-refundable.\nAquarium general admissio
- n is included with your Fleet Week Watch Party ticket.\nThe Watch Party ru
- ns from 11:30 AM – 4:00 PM. The Aquarium remains open until 5:00 PM\, wi
- th last entry at 4:30 PM.\nFood and beverages are available while supplies
-  last and may not be brought inside Aquarium exhibit areas.\nSeating is fi
- rst come\, first served and cannot be held for guests who have not arrived
- .\nGuests ages 21+ must present a valid government-issued photo ID to rede
- em adult beverage tickets.\nAnimals are not permitted\, with the exception
-  of trained service animals.\n*The Fleet Week Air Show is produced and man
- aged by a third party. Air show schedules\, performers\, viewing con...\n\
- n$65.00\n\nTickets: https://www.aquariumofthebay.org/fleetweek/\nDetails: 
- https://sf.funcheap.com/aquarium-bay-fleet-week-watch-party/\nSource: Func
- heap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/Flyer-
- FleetWeek-WatchParty-2026-2000x2588px-V1.jpg
-LAST-MODIFIED:20261017T204148Z
-LOCATION:Aquarium of the Bay\, Embarcadero and Beach St.\, San Francisco\,
-  CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/aquarium-bay-fleet-week-watch-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Air Show
-DTSTART;TZID=America/Los_Angeles:20261010T120000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261013T225222Z
-UID:fleetweeksf-52853-20261010@sf-cal
-SEQUENCE:2
-CATEGORIES:Air Show
-DESCRIPTION:Details: https://fleetweeksf.org/air-show/\nSource: SF Fleet W
- eek (fleetweeksf.org)\n\nAlso listed on:\n- https://sf.funcheap.com/san-fr
- ancisco-fleet-week-2024-blue-angels-air-show-2/
-GEO:37.806806834918;-122.43850164123
-LAST-MODIFIED:20261013T225222Z
-LOCATION:Marina Green\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/air-show/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF’s Fleet Fest 2026: Band of Golden West – Rock Band (Fleet F
- est)
-DTSTART;TZID=America/Los_Angeles:20261010T120000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1638960@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-rock-band-fleet
- -fest/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261017T204148Z
-LOCATION:SkyStar Wheel Fisherman’s Wharf\, 2860 Taylor St\, San Francisc
- o\, CA 94133
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-rock-b
- and-fleet-fest/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF’s Fleet Fest 2026: Army Jazz Ensemble (Ghirardelli Square)
-DTSTART;TZID=America/Los_Angeles:20261010T120000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1638961@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
- Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
- oaring of jet engines and head down to SF’s northern waterfront for San 
- Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
- t Week returns October 4-12\, 2026\, bringing more than a full week of mil
- itary bands\, ship tours\, the Parade of Ships\, community events\, and th
- e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
- t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
- dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
- w is presented by United and features the Blue Angels\, United Airlines 77
- 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
- , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
- y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
- uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
- ly commercial airliner performing a fully choreographed act at a U.S. air 
- show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
- \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
- Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
- hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
- PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
-  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
- t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-fest-2026-army-jazz-ensemble-ghirardelli-squa
- re/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
- age-Ticker-3.jpg
-LAST-MODIFIED:20261017T204148Z
-LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
- 9
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-fest-2026-army-jazz-ensemble-ghirard
- elli-square/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Army Pop Band “Flam Jam” in Ghirardelli Square
-DTSTART;TZID=America/Los_Angeles:20261010T120000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1639631@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerSelf DesignedJoin us at Ghirar
- delli Square as San Francisco celebrates Fleet Week with live music\, wate
- rfront events\, and more.\nService members can also enjoy 15% off at parti
- cipating retailers with valid ID. Here’s who’s participating:\n\nGhira
- rdelli Chocolate\nGigi Rose\nGigi + Rosie\nBroad Street Oyster Co.\nCultiv
- ar\nHardware Coffee Co.\nLola\nPalette Tea House\nSan Francisco Brewing Co
- .\nVom Fass\nYap\n\nFree\n\nTickets: https://www.ghirardellisq.com/ongoing
- -events/2026/9/18/fleet-week-events-amp-offers\nDetails: https://sf.funche
- ap.com/army-pop-band-flam-jam-ghirardelli-square/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Instag
- ram-4-52.jpg
-LAST-MODIFIED:20261017T204148Z
-LOCATION:Ghirardelli Square\, 900 North Point St\, San Francisco\, CA 9410
- 9
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/army-pop-band-flam-jam-ghirardelli-square/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fleet Week Blue Angels + Bubbles w/ Seafood Tower
 DTSTART;TZID=America/Los_Angeles:20261010T120000
 DTEND;TZID=America/Los_Angeles:20261010T170000
@@ -1283,80 +772,12 @@ URL:https://sf.funcheap.com/fleet-week-blue-angels-bubbles-seafood-tower-s
  f/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Golden State Pie Competition (Potrero Hill)
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634314@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Christine Mineart\n\nJoin us in San Francisco for the Golden S
- tate Pie Contest—where the best pies battle for sweet glory!\n\nGolden S
- tate Pie Contest – San Francisco\nOn Saturday\, October 10th\, at The Po
- trero Hill Neighborhood House in San Francisco\, bakers will compete for t
- he prize of Best Pie in San Francisco\, judged by a panel of bakers and co
- mmunity members with a taste for pie.\nSample from pies made by home baker
- s bringing their flakiest crusts and luscious fillings. Attendees can vote
-  for which pie receives the People’s Choice Award\, and our judges will 
- award the Best in Show.\n\nThis in-person event is perfect for anyone who 
- loves pies—whether you bake\, taste\, or just enjoy the sweet community.
-  Don’t miss out on the chance to celebrate some seriously awesome pie ma
- gic!\n\nIf you are a baker who wants to compete\, apply on our website (no
-  ticket needed for accepted bakers): https://www.goldenstatepiecontest.com
- /compete\n\n$20.00\n\nTickets: https://www.eventbrite.com/e/golden-state-p
- ie-contest-san-francisco-tickets-1998135721732\nDetails: https://sf.funche
- ap.com/golden-state-pie-competition-potrero-hill/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/Screen
- shot-2026-08-31-at-10.09.24-AM.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Potrero Hill Neighborhood House\, 953 De Haro St\, San Francisco\
- , CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/golden-state-pie-competition-potrero-hill/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14th Annual Zombie Brew Crawl (Downtown Martinez)
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1636112@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Downtown Martinez & Co.The un-dead are descending upon downtow
- n Martinez\, and they’re on a quest for craft beer! Join us for a spookt
- acular event where zombies will roam the downtown corridor\, sampling 30+ 
- craft beers from various breweries stationed at participating small busine
- sses.\nCostume Contest: Embrace the undead spirit! While zombie costumes a
- re optional\, we encourage you to unleash your inner zombie. Prizes will b
- e awarded for the best individual costumes and the most outstanding group 
- ensemble. Enter the contest during the beer tasting\, and winners will be 
- announced immediately after the event at Main Street Plaza.\nDon’t miss 
- this hauntingly hoppy event! Whether you’re a craft beer enthusiast\, a 
- lover of the supernatural\, or just looking for a frightfully good time\, 
- the Downtown Martinez Zombie Beer Walk is the place to be. Grab your tasti
- ng pass\, perfect your zombie shuffle\, and join us for a day of otherworl
- dly fun!\n\nParticipating Businesses and Breweries Coming Soon!\nMust be 2
- 1 years or older to sample beer. DD’s are free! Must have valid ID.\nDow
- ntown Martinez & Co. thanks you in advance for drinking responsibly and en
- courages you to pre arrange a designated driver or take Uber or Lyft.\n\n$
- 45.00\n\nTickets: https://eventvesta.com/events/162566/t/tickets\nDetails:
-  https://sf.funcheap.com/14th-annual-zombie-brew-crawl-downtown-martinez/\
- nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Screen
- shot-2026-09-10-134839.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Downtown Martinez Participating Businesses\, 649 Main St. Martine
- z\, CA 94553
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/14th-annual-zombie-brew-crawl-downtown-martine
- z/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF’s Fleet Fest 2026: Band of Golden West Brass (Bayview)
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261017T204148Z
-UID:funcheap-1638962@sf-cal
+SUMMARY:SF’s Fleet Fest 2026: Band SW Woodwind Quintet (Sunset Branch Li
+ brary)
+DTSTART;TZID=America/Los_Angeles:20261010T140000
+DTEND;TZID=America/Los_Angeles:20261010T170000
+DTSTAMP:20261017T231124Z
+UID:funcheap-1638963@sf-cal
 SEQUENCE:0
 CATEGORIES:Kids Families
 DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
@@ -1381,103 +802,15 @@ DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
  PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
   typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
  t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
- ://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-brass-bayview/\
- nSource: Funcheap SF
+ ://sf.funcheap.com/sfs-fleet-fest-2026-band-sw-woodwind-quintet-sunset-bra
+ nch-library/\nSource: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
  age-Ticker-3.jpg
-LAST-MODIFIED:20261017T204148Z
-LOCATION:India Basin Waterfront Park\, 900 Innes Ave\, San Francisco\, CA 
- 94124
+LAST-MODIFIED:20261017T231124Z
+LOCATION:Sunset Branch Library\, 1305 18th Avenue\, San Francisco\, CA
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-fleet-fest-2026-band-of-golden-west-brass-
- bayview/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Music Room
-DTSTART;TZID=America/Los_Angeles:20261010T140000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17729433@sf-cal
-SEQUENCE:2
-CATEGORIES:Film
-DESCRIPTION:See Satyajit Ray’s “The Music Room (Jalsaghar)” (1958)\,
-  a film that brilliantly evokes the crumbling opulence of a fallen aristoc
- rat desperately clinging to a vanishing way of life. Enjoy themed snacks a
- s part of this series inspired by GaHee Park’s exhibition “Behind the 
- Curtain.” Free gallery admission included with your ticket!\n\n“The Mu
- sic Room.” Courtesy of Janus Films.\n\n$15 regular admission\nYerba Buen
- a Center for the Arts\n\nDetails: https://dothebay.com/events/2026/10/10/t
- he-music-room-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.f
- uncheap.com/music-room/
-GEO:37.7856437;-122.4021904
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33890163/89fb2351-2568-4a09-82a5-4718fe12d597.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
- , CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/the-music-room-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Navy Band SW Woodwind Quintet
-DTSTART;TZID=America/Los_Angeles:20261010T140000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T001646Z
-UID:fleetweeksf-53588-20261010@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://dothebay.com/events/2026/10/10/haight-nopa-repair-cafe-tickets\n- h
- ttps://sf.funcheap.com/sfs-fleet-fest-2026-band-sw-woodwind-quintet-sunset
- -branch-library/
-GEO:37.7633601;-122.4762721
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Sunset Branch Library\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polo & Pan
-DTSTART;TZID=America/Los_Angeles:20261010T150000
-DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17603250@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:21+\nThe Midway\, Opulent Temple\, & RASA Present: Americas To
- ur Block Party\n\nDetails: https://dothebay.com/events/2026/10/10/polo-pan
- -americas-tour-block-party-tickets\nSource: DoTheBay
-GEO:37.7494472;-122.3860183
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33288954/9c0e3ac9-496f-470f-a4ed-56b95a7ba048.png
-LAST-MODIFIED:20261011T055613Z
-LOCATION:The Midway\, 900 Marin St.\, San Francisco\, CA\, 94124
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/polo-pan-americas-tour-block-pa
- rty-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUNSET SESSIONS: W San Francisco x EMPIRE
-DTSTART;TZID=America/Los_Angeles:20261010T150000
-DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17925866@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:Free\nEMPIRE & W San Francisco\n\nDetails: https://dothebay.co
- m/events/2026/10/10/sunset-sessions-w-san-francisco-x-empire-tickets\nSour
- ce: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34814241/5a4fa771-8198-4e66-9d59-4794d8994b3a.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:W San Francisco\, 181 3rd St.\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/sunset-sessions-w-san-francisco
- -x-empire-tickets
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-band-sw-woodwind-quintet-s
+ unset-branch-library/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intellectual Air: 90-Minute Salon on Taste in Art (Los Gatos)
@@ -1500,118 +833,44 @@ URL:https://sf.funcheap.com/intellectual-air-90minute-salon-taste-art-los-
  gatos/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:9 to 5
-DTSTART;TZID=America/Los_Angeles:20261010T154500
-DTEND;TZID=America/Los_Angeles:20261010T174500
-DTSTAMP:20261011T055613Z
-UID:dothebay-17931647@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:In 9 TO 5\, a group of female office workers – the all-knowi
- ng manager who trained the boss but can't get promoted (Lily Tomlin)\, a b
- efuddled newcomer (Jane Fonda)\, and an alluring personal secretary everyo
- ne presumes is having an affair (Dolly Parton) – all band together to se
- ek revenge on the man who is making their lives miserable. Directed by Col
- in Higgins and produced by Bruce Gilbert from a screenplay by Higgins and 
- Patricia Resnick\, 9 TO 5 received an Academy Award® nomination for the h
- it title song written and performed by Dolly Parton.\n\nDisney will donate
-  net proceeds* from each U.S. ticket purchase to The Dollywood Foundation 
- to support its flagship program\, Dolly Parton’s Imagination Library.\n\
- n*Net proceeds refers to the amount received by Disney from the U.S. theat
- rical ticket sale for the film during the period October 9-15\, 2026\, les
- s (a) amounts retained by exhibitors\, (b) third-party distribution fees a
- nd expenses\, (c) third-party marketing and advertising expenses incurred 
- in connection with the campaign\, and (d) CAF America's administrative fee
- s.\n\nLearn more at cafamerica.org and dollywoodfoundation.org.\n\nDetails
- : https://dothebay.com/events/2026/10/10/9-to-5-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34842709/966bdeab-c6ee-48d3-9c76-0f14c8d887e0.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/9-to-5-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DIM SUM + DRAG BINGO: Under A Big Top Costume Contest + MORE
+SUMMARY:SF’s Fleet Fest 2026: Brass Band/Quintet (West Portal Patio)
 DTSTART;TZID=America/Los_Angeles:20261010T160000
-DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17900523@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:Step right up\, clowns and carnival cuties! Dim Sum & Drag Bin
- go is pitching its tent and this year we're all going Under A Big Top. Bin
- go is back and we are clowning around! Benefiting the Portola Neighborhood
-  Association\, this bizarre bingo bash is bonkers. Hosted by Severa Wang a
- nd Ophelia MORE!\, these queens will be cracking their whips\, shaking the
- ir hips\, and getting all the balls coming til someone gets that happy end
- ing! And what better than dining on delicious dim sum from Imperial Garden
-  Seafood Restaurant while you pound the sheet out of these games!\nRound u
- p your friends and don't forget to get dressed up in your campiest\, silli
- est or sexiest outfits for the circus and come ready for four hours of cam
- p\, glamour\, and shameless shenanigans. Come as a circus queen\, a clown 
- around town\, a sexy ringmaster\, a trapeze tease\, a bearded beauty\, or 
- whatever your carnival fantasy can dream up. There’ll be a costume conte
- st with prizes\, so bring your biggest\, brightest\, bawdiest look and pre
- pare to steal the show!\n\n$39.19+\n\nDetails: https://dothebay.com/events
- /2026/10/10/dim-sum-drag-bingo-under-a-big-top-costume-contest-more-ticket
- s\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34697939/1af7da45-0bf9-4b9f-aa51-62eefc4af396.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Imperial Garden\, 2626 San Bruno Ave\, San Francisco\, CA\, 94134
+DTEND;TZID=America/Los_Angeles:20261010T190000
+DTSTAMP:20261017T231124Z
+UID:funcheap-1638964@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:San Francisco Fleet Week 2026: Air Show + Schedule of Events\n
+ Navy Flight Demonstration Squadron\nLook up in the sky when you hear the r
+ oaring of jet engines and head down to SF’s northern waterfront for San 
+ Francisco’s annual Fleet Week air show and festival.\nSan Francisco Flee
+ t Week returns October 4-12\, 2026\, bringing more than a full week of mil
+ itary bands\, ship tours\, the Parade of Ships\, community events\, and th
+ e big aerial spectacle over San Francisco Bay. The centerpiece is the Flee
+ t Week Air Show\, October 9-11\, 2026\, with the U.S. Navy Blue Angels hea
+ dlining the show between the Golden Gate Bridge and Alcatraz.\nThe air sho
+ w is presented by United and features the Blue Angels\, United Airlines 77
+ 7\, U.S. Air Force F-22 Raptor Demo Team\, U.S. Air Force Heritage Flight\
+ , U.S. Marine Corps F-35B Demo Team\, U.S. Coast Guard aircraft\, U.S. Nav
+ y E-6B Mercury\, U.S. Air Force C-130 Hercules\, U-2 Dragon Lady and C-5 S
+ uper Galaxy flybys\, and T-6 Texan IIs. The United 777 is billed as the on
+ ly commercial airliner performing a fully choreographed act at a U.S. air 
+ show.\n\nSan Francisco Fleet Week 2026\nFull Festival: October 4-12\, 2026
+ \nAir Show: October 9-11\, 2026\, 12-4 PM\n2026 Fleet Week Event Map\nSan 
+ Francisco Waterfront\nFREE\nSee full air show schedule\n2026 Fleet Week Sc
+ hedule\nAir Show\nFriday\, Saturday & Sunday\, October 9-11\, 2026 | 12-4 
+ PM | San Francisco Waterfront\n– Thursday afternoon: Each year there are
+  typically Blue Angels “test flights” on Thursday.\nAlthough it’s no
+ t the full...\n\nFree\n\nTickets: https://fleetweeksf.org/\nDetails: https
+ ://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-quintet-west-portal-pati
+ o/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/07/Home-P
+ age-Ticker-3.jpg
+LAST-MODIFIED:20261017T231124Z
+LOCATION:Bookshop West Portal\, 80 West Portal Ave.\, San Francisco 94127
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/dim-sum-drag-bingo-under-a-big-
- top-costume-contest-more-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Chinese Ghost Story
-DTSTART;TZID=America/Los_Angeles:20261010T160000
-DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261011T055613Z
-UID:dothebay-17912996@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:In this martial arts film\, Ning Choi-san (Leslie Cheung)\, a 
- traveling tax collector\, takes shelter for the night in an abandoned temp
- le. When he meets the lovely maiden Nip Siu-sin (Tsu-hsien Wang)\, Ning im
- mediately falls for her. Unfortunately\, Ning later discovers that she is 
- a ghost who is forced to serve a cruel demon\, and he resolves to save her
-  from the evil spirit. Enlisting the aid of Taoist warrior Yin Chik-hsia (
- Ma Wu)\, Ning ventures into a supernatural realm to save Nip's soul.\n\nDe
- tails: https://dothebay.com/events/2026/10/10/a-chinese-ghost-story-ticket
- s-0znvbyx\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34756243/90af00bf-f466-4cf1-9f70-7fcfeb9b3aea.jpg
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
-  Francisco\, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/10/a-chinese-ghost-story-tickets-0
- znvbyx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1st Marine Division Brass Band/Quintet
-DTSTART;TZID=America/Los_Angeles:20261010T160000
-DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261006T001646Z
-UID:fleetweeksf-53585-20261010@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-quintet-west-portal-
- patio/
-GEO:37.7401861;-122.467075
-LAST-MODIFIED:20261006T001646Z
-LOCATION:West Portal Patio\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
+URL:https://sf.funcheap.com/sfs-fleet-fest-2026-brass-band-quintet-west-po
+ rtal-patio/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West SoMa Cleanup w/ Free Drink For Volunteers
@@ -13033,28 +12292,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keepin' It Safe in the City
-DTSTART;TZID=America/Los_Angeles:20261017T110000
-DTEND;TZID=America/Los_Angeles:20261017T150000
-DTSTAMP:20261008T185326Z
-UID:sfciviccenter-5d341c0fb291bcce@sf-cal
-SEQUENCE:1
-CATEGORIES:Community,Kids and Families
-DESCRIPTION:Happening at Civic Center Plaza\, the 3rd annual Keepin’ It 
- Safe in the City features fire trucks\, a bounce house\, music and food. A
- ttendees will also meet first responders\, take part in fun activities and
-  win raffle prizes.\nSponsored by: The San Francisco District Attorney’s
-  Office\nMore information here.\nAlso be sure the check out the adjacent F
- all Family Festival and Market Street Arts & Theater Festival.\n\nDetails:
-  https://sfciviccenter.org/event/keepin-it-safe-in-the-city/\nSource: SF C
- ivic Center\n\nAlso listed on:\n- https://sfciviccenter.org/event/keepin-i
- t-safe-in-the-city/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=sa
- n-francisco-ca
-LAST-MODIFIED:20261008T185326Z
-TRANSP:TRANSPARENT
-URL:https://sfciviccenter.org/event/keepin-it-safe-in-the-city/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Vampiro
 DTSTART;TZID=America/Los_Angeles:20261017T113000
 DTEND;TZID=America/Los_Angeles:20261017T133000
@@ -14714,6 +13951,29 @@ LAST-MODIFIED:20261006T001200Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/17/the-vourdalak-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keepin' It Safe in the City
+DTSTART;TZID=America/Los_Angeles:20261017T180000
+DTEND;TZID=America/Los_Angeles:20261017T220000
+DTSTAMP:20261017T231124Z
+UID:caldiscovery-festival-766f415c38c2a5b8@sf-cal
+SEQUENCE:0
+CATEGORIES:community,family,festival
+DESCRIPTION:Happening at Civic Center Plaza\, the 3rd annual Keepin’ It 
+ Safe in the City features fire trucks\, a bounce house\, music and food. A
+ ttendees will also meet first responders\, take part in fun activities and
+  win raffle prizes.\nSponsored by: The San Francisco District Attorney’s
+  Office\nMore information here.\nAlso be sure the check out the adjacent F
+ all Family Festival and Market Street Arts & Theater Festival.\n\nPublishe
+ d by SF Civic Center\nContains information from CalDiscovery (caldiscovery
+ .com)\, ODbL 1.0\n\nDetails: https://sfciviccenter.org/event/keepin-it-saf
+ e-in-the-city/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fra
+ ncisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261017T231124Z
+TRANSP:TRANSPARENT
+URL:https://sfciviccenter.org/event/keepin-it-safe-in-the-city/?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reunion 2026

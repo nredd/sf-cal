@@ -41,61 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:North Beach Farmers Market 2026
-DTSTART;TZID=America/Los_Angeles:20261010T060000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1429598-2026-10-10T06:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Greenwich St from Powell St to Via Bufano\; Greenwich 
- St from Via Bufano to Columbus Ave\n\nPermit status: Permitted\nTimes are 
- SFMTA street-closure permit times and include setup and teardown\nSource: 
- DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yy
- br\nSource: DataSF street closures
-GEO:37.802075;-122.411401
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Greenwich St between Columbus Ave and Powell St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fillmore Farmers' Market 2026
-DTSTART;TZID=America/Los_Angeles:20261010T070000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1365558-2026-10-10T07:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Ofarrell St from Fillmore St to Steiner St\n\nPermit s
- tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
- setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
- ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.783188;-122.433528
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Ofarrell St between Fillmore St and Steiner St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hayes Valley Farmers Market
-DTSTART;TZID=America/Los_Angeles:20261010T070000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1493851-2026-10-10T07:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Hayes St from Gough St to Octavia St\n\nPermit status:
-  Permitted\nTimes are SFMTA street-closure permit times and include setup 
- and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:/
- /data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.776786;-122.423746
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Hayes St between Octavia St and Gough St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paseo Artiistico 10 Year Block Party
 DTSTART;TZID=America/Los_Angeles:20261010T080000
 DTEND;TZID=America/Los_Angeles:20261010T200000
