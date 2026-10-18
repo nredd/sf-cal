@@ -41,21 +41,23 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Double Ten Celebration
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1611108-2026-10-10T13:00:00-07:00@sf-cal
+SUMMARY:D10 Day
+DTSTART;TZID=America/Los_Angeles:20261010T090000
+DTEND;TZID=America/Los_Angeles:20261010T235900
+DTSTAMP:20261018T044205Z
+UID:sf-street-events-pending-1588622-2026-10-10T09:00:00-07:00@sf-cal
 SEQUENCE:0
 CATEGORIES:Special Event
-DESCRIPTION:Closed: Grant Ave from Jack Kerouac Aly to Broadway\; Grant Av
- e from Pacific Ave to Jack Kerouac Aly\n\nPermit status: Application In Re
- view\nTimes are SFMTA street-closure permit times and include setup and te
- ardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://data.
- sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending permit)
-GEO:37.797646;-122.40698
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Grant Ave between Pacific Ave and Broadway\, San Francisco
+DESCRIPTION:Closed: Carroll Ave from Jennings St to Keith St\; Keith St fr
+ om Bancroft Ave to Carroll Ave\; Carroll Ave from Keith St to 03rd St\; Ke
+ ith St from Armstrong Ave to Bancroft Ave\n\nPermit status: Pending Additi
+ onal Information\nTimes are SFMTA street-closure permit times and include 
+ setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
+ ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending pe
+ rmit)
+GEO:37.724444;-122.392425
+LAST-MODIFIED:20261018T044205Z
+LOCATION:Carroll Ave between 03rd St and Jennings St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
