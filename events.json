@@ -3270,7 +3270,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "3201c083ca610e5b",
+   "source_id": "2c7bc9c2dd7549e5",
    "title": "Día de los Muertos Procession & Festival of Altars 2026",
    "start": "2026-11-02T00:00:00-08:00",
    "end": "2026-11-03T00:00:00-08:00",
@@ -3414,7 +3414,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "0233be2b55d9a4bd",
+   "source_id": "f43c52c8e6dbb571",
    "title": "San Francisco Coffee Festival 2026",
    "start": "2026-11-07T00:00:00-08:00",
    "end": "2026-11-08T00:00:00-08:00",
@@ -3612,7 +3612,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "93366dcedaf8e7cc",
+   "source_id": "c9a9f0b485a1de68",
    "title": "San Francisco Hip-Hop Dance Festival",
    "start": "2026-11-13T00:00:00-08:00",
    "end": "2026-11-14T00:00:00-08:00",
@@ -3820,7 +3820,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "f2458cb6d6515c63",
+   "source_id": "331464955531dfab",
    "title": "Illuminate SF Festival of Light",
    "start": "2026-12-06T00:00:00-08:00",
    "end": "2026-12-07T00:00:00-08:00",
@@ -3847,7 +3847,7 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "92753baedc85370f",
+   "source_id": "f475021c74130949",
    "title": "Parol Lantern Festival and Parade",
    "start": "2026-12-13T00:00:00-08:00",
    "end": "2026-12-14T00:00:00-08:00",
@@ -88257,13 +88257,9 @@
     "1634980": "2026-10-17T18:34:07",
     "1634983": "2026-09-08T17:43:58",
     "1634986": "2026-09-08T18:15:12",
-    "1634989": "2026-09-03T20:13:48",
-    "1634991": "2026-09-03T20:13:50",
     "1634993": "2026-09-08T17:43:24",
     "1634996": "2026-09-08T18:16:20",
     "1635000": "2026-09-08T18:15:02",
-    "1635003": "2026-09-03T21:13:49",
-    "1635005": "2026-09-03T21:13:50",
     "1635007": "2026-09-08T18:14:57",
     "1635010": "2026-09-08T18:14:55",
     "1635020": "2026-09-08T18:11:45",
@@ -89897,11 +89893,6 @@
    "sequence": 0,
    "last_modified": "2026-10-16T21:18:39.165786Z"
   },
-  "caldiscovery-festival-0233be2b55d9a4bd@sf-cal": {
-   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
-   "sequence": 0,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
-  },
   "caldiscovery-festival-08466e12a735a682@sf-cal": {
    "content_hash": "85a88bd8e8646d5a6cf317266f1dc2ae68926bc30d5eacc068e39f78860a4b41",
    "sequence": 0,
@@ -89927,15 +89918,20 @@
    "sequence": 0,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
+  "caldiscovery-festival-2c7bc9c2dd7549e5@sf-cal": {
+   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
+   "sequence": 0,
+   "last_modified": "2026-10-18T15:56:33.555230Z"
+  },
   "caldiscovery-festival-3164a0d630df1567@sf-cal": {
    "content_hash": "f21d544a065588571b7ceab5f8c81ba9be0c6ec4c6ec43a0715fac3cdb45d5f0",
    "sequence": 0,
    "last_modified": "2026-10-18T11:18:13.035663Z"
   },
-  "caldiscovery-festival-3201c083ca610e5b@sf-cal": {
-   "content_hash": "f1a145c309f3cd7cbe9cc6276353c1a303b03980d5613f9879444e6be703e9b9",
+  "caldiscovery-festival-331464955531dfab@sf-cal": {
+   "content_hash": "8c557c0903e5f614f6422928b43dd97aed4ea6820d73574523fdef0afd48e323",
    "sequence": 0,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
+   "last_modified": "2026-10-18T15:56:33.555230Z"
   },
   "caldiscovery-festival-3596af29cef2fb62@sf-cal": {
    "content_hash": "53cbc51ad2e02ee2721ea515ed6123a4e097d459b5694b0e75bb5b266c0b97a7",
@@ -89982,16 +89978,6 @@
    "sequence": 0,
    "last_modified": "2026-10-15T11:39:24.600159Z"
   },
-  "caldiscovery-festival-92753baedc85370f@sf-cal": {
-   "content_hash": "9a39ec44e7f5ebf2f93a531812bf987d1c6462ee3e5ab6fbb70148e005a3c2c2",
-   "sequence": 0,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
-  },
-  "caldiscovery-festival-93366dcedaf8e7cc@sf-cal": {
-   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
-   "sequence": 0,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
-  },
   "caldiscovery-festival-970827771cc92965@sf-cal": {
    "content_hash": "ec7304138ed88b6e13f597c31db194b3d71718205888d89140dd12fd29ee4f11",
    "sequence": 0,
@@ -90037,6 +90023,11 @@
    "sequence": 0,
    "last_modified": "2026-10-13T06:51:57.281803Z"
   },
+  "caldiscovery-festival-c9a9f0b485a1de68@sf-cal": {
+   "content_hash": "7ad7b76b7e42541881a5ac4740d54f7e2432d7ae37cc0031f83ef85944002a74",
+   "sequence": 0,
+   "last_modified": "2026-10-18T15:56:33.555230Z"
+  },
   "caldiscovery-festival-ce5851eb9e288d07@sf-cal": {
    "content_hash": "1cc801aa559971e78a94116b72eca55b508ac567713f85e95e2eefab9d2040a2",
    "sequence": 0,
@@ -90057,10 +90048,15 @@
    "sequence": 2,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
-  "caldiscovery-festival-f2458cb6d6515c63@sf-cal": {
-   "content_hash": "8c557c0903e5f614f6422928b43dd97aed4ea6820d73574523fdef0afd48e323",
+  "caldiscovery-festival-f43c52c8e6dbb571@sf-cal": {
+   "content_hash": "cf2ca226a2e36848073218478e8adde1d85c878111f129a10ba36e6497247b3f",
    "sequence": 0,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
+   "last_modified": "2026-10-18T15:56:33.555230Z"
+  },
+  "caldiscovery-festival-f475021c74130949@sf-cal": {
+   "content_hash": "9a39ec44e7f5ebf2f93a531812bf987d1c6462ee3e5ab6fbb70148e005a3c2c2",
+   "sequence": 0,
+   "last_modified": "2026-10-18T15:56:33.555230Z"
   },
   "caldiscovery-festival-fda84807b2c0fe82@sf-cal": {
    "content_hash": "e0a315863254f561074a054d9c6d8284a0eed07ffe1e5ebba9962ebf81c46dea",
