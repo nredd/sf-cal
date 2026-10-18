@@ -40,31 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:5th Annual Spooktacular Halloween & Oddities Market (Crockett)
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261011T040000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639075@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Kari Carlos-SavinskiJoin us for the 5th Annual Spooktacular Ha
- lloween & Oddities Market on Saturday\, October 10\, from 11 am–4 pm at 
- the Crockett Scout Hall! Shop 30+ Bay Area makers for spooky finds\, handm
- ade goods\, art\, treats\, and oddities. Enjoy music\, face painting\, tri
- ck-or-treating\, and Boo Bags for the first 50 kids. Free admission and pa
- rking. Pet friendly!\n\nFree\n\nTickets: https://facebook.com/events/s/ann
- ual-spooktacular-halloween-/1982495422680457/\nDetails: https://sf.funchea
- p.com/5th-annual-spooktacular-halloween-oddities-market-crockett/\nSource:
-  Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_88
- 52.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Crockett Scout Hall\, 991 Loring Ave.\, Crockett Ca 94525
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/5th-annual-spooktacular-halloween-oddities-mar
- ket-crockett/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga 
  Classes\, Free Fries
 DTSTART;TZID=America/Los_Angeles:20261011T100000
@@ -710,9 +685,9 @@ BEGIN:VEVENT
 SUMMARY:Mission Bay Harvest Festival
 DTSTART;TZID=America/Los_Angeles:20261017T160000
 DTEND;TZID=America/Los_Angeles:20261017T180000
-DTSTAMP:20261016T211839Z
+DTSTAMP:20261018T111813Z
 UID:dothebay-17955387@sf-cal
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Food & Drink
 DESCRIPTION:Mission Bay Harvest Festival\nSaturday\, October 17 | SPARK So
  cial SF\n\nCelebrate Fall at the Mission Bay Harvest Festival!\n\nGet into
@@ -735,14 +710,12 @@ DESCRIPTION:Mission Bay Harvest Festival\nSaturday\, October 17 | SPARK So
  ’mores: Gather around the fire pit\, roast some marshmallows\, and make 
  your own s’mores. Available while supplies last!\nFood Trucks: Grab dinn
  er\, snacks\, and treats from SPARK Social’s food trucks throughout the 
- afternoon....\n\nFree\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3
- A%2F%2Fwww.eventbrite.com%2Fe%2Fmission-bay-harvest-festival-tickets-20016
- 61435236%3Faff%3Ddothebay\nDetails: https://dothebay.com/events/2026/10/17
- /mission-bay-harvest-festival-tickets\nSource: DoTheBay\n\nAlso listed on:
- \n- https://sf.funcheap.com/mission-bay-harvest-festival-spark-social-sf/
+ afternoon....\n\nFree\n\nDetails: https://dothebay.com/events/2026/10/17/m
+ ission-bay-harvest-festival-tickets\nSource: DoTheBay\n\nAlso listed on:\n
+ - https://sf.funcheap.com/mission-bay-harvest-festival-spark-social-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34954994/e9cd1ee1-42a7-49e2-88b5-0c3c1f7e8ee2.png
-LAST-MODIFIED:20261016T211839Z
+LAST-MODIFIED:20261018T111813Z
 LOCATION:SPARK Social SF\, 601 Mission Bay Blvd. North\, San Francisco\, C
  A\, 94158
 TRANSP:TRANSPARENT

@@ -2572,4 +2572,22 @@ LOCATION:Clement St between Arguello Blvd and 2nd Ave\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Third Thursdays On Ellis 2026
+DTSTART;TZID=America/Los_Angeles:20261217T090000
+DTEND;TZID=America/Los_Angeles:20261217T235900
+DTSTAMP:20261018T111813Z
+UID:sf-street-events-1389402-2026-12-17T09:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Ellis St from Stockton St to Powell St\n\nPermit statu
+ s: Permitted\nTimes are SFMTA street-closure permit times and include setu
+ p and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https
+ ://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.785618;-122.406842
+LAST-MODIFIED:20261018T111813Z
+LOCATION:Ellis St between Powell St and Stockton St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR

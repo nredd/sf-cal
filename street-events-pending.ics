@@ -41,27 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:D10 Day
-DTSTART;TZID=America/Los_Angeles:20261010T090000
-DTEND;TZID=America/Los_Angeles:20261010T235900
-DTSTAMP:20261018T044205Z
-UID:sf-street-events-pending-1588622-2026-10-10T09:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Carroll Ave from Jennings St to Keith St\; Keith St fr
- om Bancroft Ave to Carroll Ave\; Carroll Ave from Keith St to 03rd St\; Ke
- ith St from Armstrong Ave to Bancroft Ave\n\nPermit status: Pending Additi
- onal Information\nTimes are SFMTA street-closure permit times and include 
- setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
- ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending pe
- rmit)
-GEO:37.724444;-122.392425
-LAST-MODIFIED:20261018T044205Z
-LOCATION:Carroll Ave between 03rd St and Jennings St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ferrari Car Show
 DTSTART;TZID=America/Los_Angeles:20261011T080000
 DTEND;TZID=America/Los_Angeles:20261011T170000
