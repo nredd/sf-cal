@@ -41,6 +41,25 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:7th Annual Butchertown Jazz Festival
+DTSTART;TZID=America/Los_Angeles:20261011T060000
+DTEND;TZID=America/Los_Angeles:20261011T203000
+DTSTAMP:20261018T232204Z
+UID:sf-street-events-pending-1603385-2026-10-11T06:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Underwood Ave from Lane St to 03rd St\; Lane St from U
+ nderwood Ave to Van Dyke Ave\n\nPermit status: Application In Review\nTime
+ s are SFMTA street-closure permit times and include setup and teardown\nSo
+ urce: DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8
+ x25-yybr\nSource: DataSF street closures (pending permit)
+GEO:37.729926;-122.392101
+LAST-MODIFIED:20261018T232204Z
+LOCATION:Underwood Ave between 3rd St and Lane St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ferrari Car Show
 DTSTART;TZID=America/Los_Angeles:20261011T080000
 DTEND;TZID=America/Los_Angeles:20261011T170000
@@ -56,6 +75,25 @@ DESCRIPTION:Closed: Union St from Stockton St to Columbus Ave\n\nPermit st
 GEO:37.80038;-122.409698
 LAST-MODIFIED:20261006T193028Z
 LOCATION:Union St between Columbus Ave and Stockton St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - 2nd Avenue Annual
+DTSTART;TZID=America/Los_Angeles:20261011T100000
+DTEND;TZID=America/Los_Angeles:20261011T170000
+DTSTAMP:20261018T232204Z
+UID:sf-street-events-pending-1562111-2026-10-11T10:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 02nd Ave from Lake St to California St\n\nPermit statu
+ s: Pending Payment\nTimes are SFMTA street-closure permit times and includ
+ e setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails:
+  https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending 
+ permit)
+GEO:37.786202;-122.460356
+LAST-MODIFIED:20261018T232204Z
+LOCATION:2nd Ave between Lake St and California St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT

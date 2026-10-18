@@ -40,28 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Queertoberfest
-DTSTART;TZID=America/Los_Angeles:20261011T160000
-DTEND;TZID=America/Los_Angeles:20261011T180000
-DTSTAMP:20261012T110211Z
-UID:dothebay-17919365@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:It's on again!! Last year's pot luck EXTRAVAGANZAAAA was so ho
- t we wanna do it again.\n\nGreat Food!\n\nVery Queer!\n\nKinda Octoberfest
- y Sorta\n\nStrap on you lederhosen\, shove a shaving brush in your hat and
-  come on down.\n\nDJ OOMPAH\n\nDetails: https://dothebay.com/events/2026/1
- 0/11/queertoberfest-tickets\nSource: DoTheBay
-GEO:37.77216749999999;-122.4108778
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34785523/75441a5b-7183-4bd4-9afa-b4f28863a324.jpg
-LAST-MODIFIED:20261012T110211Z
-LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
- 103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/11/queertoberfest-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Programa de gestión de contingencias en español
 DTSTART;TZID=America/Los_Angeles:20261012T093000
 DTEND;TZID=America/Los_Angeles:20261012T113000
@@ -2042,9 +2020,9 @@ BEGIN:VEVENT
 SUMMARY:UNDSCVRD Golden Hour Night Market
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261018T232204Z
 UID:dothebay-17950773@sf-cal
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:DJ/Parties
 DESCRIPTION:For its tenth anniversary\, UNDISCOVERED SF is bringing the ni
  ght market vibes back for the first time since the pandemic. In partnershi
@@ -2066,12 +2044,12 @@ DESCRIPTION:For its tenth anniversary\, UNDISCOVERED SF is bringing the ni
  1b\nDetails: https://dothebay.com/events/2026/10/24/undscvrd-golden-hour-n
  ight-market-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.fun
  cheap.com/sfs-golden-hour-filipino-night-market-2026-soma/\n- https://sf.f
- uncheap.com/undiscovered-sf-2026/\n- https://sf.funcheap.com/free-10th-ann
- iversary-golden-hour-night-market-victory-hall-sf/
+ uncheap.com/free-10th-anniversary-golden-hour-night-market-victory-hall-sf
+ /\n- https://sf.funcheap.com/undiscovered-sf-2026/
 GEO:37.7788601;-122.3940842
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34933290/0ce28850-5916-492b-bfc3-4f73590a88d3.jpg
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261018T232204Z
 LOCATION:Victory Hall & Parlor\, 360 Ritch St.\, San Francisco\, CA\, 9410
  7
 TRANSP:TRANSPARENT

@@ -40,29 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Model Boats on Parade + Sailboat Race (Golden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20261011T100000
-DTEND;TZID=America/Los_Angeles:20261011T140000
-DTSTAMP:20261006T193028Z
-UID:funcheap-1638159@sf-cal
-SEQUENCE:1
-CATEGORIES:Outdoors
-DESCRIPTION:SF Model Yacht ClubSan Francisco Model Yacht Club presents Mod
- el Boats on Parade\, dozens of boats on display and running on the lake. S
- ailboat race at 1 p.m. Historic Model Yacht Club Building open as well.\n\
- nFree\n\nTickets: https://www.sfmyc.org\nDetails: https://sf.funcheap.com/
- free-model-boats-parade-sailboat-race-golden-gate-park/\nSource: Funcheap 
- SF\n\nAlso listed on:\n- https://data.sf.gov/d/8x25-yybr
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/lores_
- 2026-MBOP-Poster.jpg
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Spreckels Lake\, Golden Gate Park\, 36th Avenue \, San Francisco\
- , CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-model-boats-parade-sailboat-race-golden-g
- ate-park/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T170000
@@ -101,35 +78,6 @@ LOCATION:Skatin’ Place\, 6th Ave. and Kennedy Drive\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-
  299/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“SF Bookish” Fall Picnic & Book Club at Washington Square Park
-  (North Beach)
-DTSTART;TZID=America/Los_Angeles:20261011T130000
-DTEND;TZID=America/Los_Angeles:20261011T160000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1640964@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:SF Bookish Fall Picnic: Trust Book Club 2026 (North Beach)SF B
- ookish hosts a fall picnic and book-club gathering at Washington Square Pa
- rk in North Beach. Participants will discuss Trust by Hernan Diaz.\nOrigin
- al Event Description:\n_sf bookish\nSunday\, Oct 11\n1:00pm\nWashington Sq
- uare Park\nFilbert & Stockton St\, San Francisco\, CA\nJoin us for a fall 
- (sf summer) picnic at the best park in North Beach! 🙂\nBook: Trust by H
- ernan Diaz 💸📖_\nText extracted from provided image:\nFall Book\nClub
- \nBook: Trust\nWashington Square Park\nSunday\, October 11th\n1:00 PM\n\nF
- ree\n\nTickets: https://partiful.com/e/aKAw94YUVyuLvePLfRKy?source=discove
- r\nDetails: https://sf.funcheap.com/sf-bookish-fall-picnic-book-club-washi
- ngton-square-park-north-beach/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/imgi_1
- 4_QrDG4a6oUj7xS29wgGR7m.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Washington Square Park\, Filbert St & Stockton St\, San Francisco
- \, CA 94133
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sf-bookish-fall-picnic-book-club-washington-sq
- uare-park-north-beach/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Ado’s “Monstruo” J-Pop Dance Pop-Up + Video Shoot (Sale
@@ -1334,9 +1282,9 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Memphis Grizzlies
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261018T232204Z
 UID:dothebay-17728013@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Sports
 DESCRIPTION:Golden State Warriors vs. Memphis Grizzlies\n\nTickets: https:
  //ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2
@@ -1344,12 +1292,12 @@ DESCRIPTION:Golden State Warriors vs. Memphis Grizzlies\n\nTickets: https:
  francisco-california-10-23-2026%2Fevent%2F1C00650AB372D7AA\nDetails: https
  ://dothebay.com/events/2026/10/23/golden-state-warriors-vs-memphis-grizzli
  es-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com
- /artprd-presents-focus/\n- https://sf.funcheap.com/train-dragon-musical-jr
- -bay-area-premiere/
+ /train-dragon-musical-jr-bay-area-premiere/\n- https://sf.funcheap.com/art
+ prd-presents-focus/
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33883576/de7bd2dd-c199-440c-acac-09977637c2b6.png
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261018T232204Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/golden-state-warriors-vs-memphi
