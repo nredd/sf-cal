@@ -40,45 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Showgirls
-DTSTART;TZID=America/Los_Angeles:20261011T124500
-DTEND;TZID=America/Los_Angeles:20261011T144500
-DTSTAMP:20261012T110211Z
-UID:dothebay-17830873@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:One of the most derided movies of the 20th century is also one
-  of its most spectacularly misunderstood. The odd-couple tag team of Dutch
-  provocateur director Paul Verhoeven (ROBOCOP\, ELLE) and Sleazoid-Hungari
- an-American writer Joe Eszterhas (FLASHDANCE\, SLIVER) first came together
-  with 1992's BASIC INSTINCT\, and everyone\, including the financial backe
- rs and the producer/distributors of this movie\, assumed lightning would s
- trike twice for the duo with 1995's SHOWGIRLS. Universally panned by criti
- cs upon its initial release\, people found the multi-tap combo of inane di
- alogue\, wild over-acting\, and extreme obscenity and grotesquerie to be j
- ust too much. Then the "so-bad-it's-good" crowd sunk their hollow claws in
- to the movie\, claiming it as one of the "best worst" movies of all time. 
- To be sure\, yes\, this is a movie in which Saved By the Bell's Elizabeth 
- Berkley sets fire to her TV-star image by grinding her pelvis on Kyle MacL
- achlan's lap until he simulates sexual climax while Gina Gershon watches. 
- She shoves chips into her mouth and reminisces about her days of eating an
- d enjoying "puppy chow\," between bouts of trying to make it as a Las Vega
- s showgirl "goddess."\n\nThe assumption that critics and chuckleheads alik
- e have made are that a) Verhoeven and Eszterhas weren't trying to make som
- ething with humor (they were)\, and b) that the surface story is meant to 
- be taken at face value (it's not). Verhoemie don't play that.\n\nSHOWGIRLS
-  is a complicated\, satirical masterpiece that tes...\n\nDetails: https://
- dothebay.com/events/2026/10/11/showgirls-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34368075/0ee791a5-14eb-45d3-83bf-cc401c827f94.jpg
-LAST-MODIFIED:20261012T110211Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/11/showgirls-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:9 to 5
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T160000
@@ -1510,6 +1471,48 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/18/carter-country-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:United Nations Association Film Festival | Free Shorts Program
+DTSTART;TZID=America/Los_Angeles:20261018T130000
+DTEND;TZID=America/Los_Angeles:20261018T140000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1640852@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Submitted by the Event OrganizerStill from THE DREAMING GAME\,
+  directed by Jordan Salvatoriello.The 29th United Nations Association Film
+  Festival presents a free shorts program on Sunday\, Oct. 18\, in Palo Alt
+ o\, featuring three documentaries that explore wildlife conservation\, wro
+ ngful incarceration\, and the global impact of cryptocurrency.\nThe progra
+ m opens with “Crossing the Divide\,” directed and produced by local fi
+ lmmaker Talia Frank. The 11-minute documentary examines how roads fragment
+  wildlife habitats and explores the potential of wildlife crossings to res
+ tore animal movement and strengthen ecosystems.\n\nNext is “The Dreaming
+  Game\,” directed and produced by Jordan Salvatoriello. The film follows
+  70-year-old Raymond Gaines\, a Boston native and lifelong baseball fan\, 
+ as he returns to Fenway Park after spending 47 years in prison for a murde
+ r he did not commit. As he awaits a decision on his case\, Gaines works to
+  rebuild his life and pursue his long-sought freedom.\nThe program conclud
+ es with “The Market and the Monkey’s Paw\,” directed and produced by
+  “Graham New\, Leo Safir\, and Oliver Richards. Set in El Salvador\, the
+  documentary explores the country’s adoption of Bitcoin as legal tender 
+ through the perspectives of market vendors\, educators and community membe
+ rs\, examining questions of economic inclusion\, tourism\, gentrification 
+ and digital finance.\n**Admission is free.** The special program from UNAF
+ F offers an opportunity to see three short documentaries and discover the.
+ ..\n\nFree\n\nTickets: https://www.unaff.org/2026/schedule.html\nDetails: 
+ https://sf.funcheap.com/united-nations-association-film-festival-free-shor
+ ts-program/\nSource: Funcheap SF\n\nAlso listed on:\n- https://www.unaff.o
+ rg/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/f_DREA
+ MING-GAME.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Mitchell Park Community Center\, 3700 Middlefield Road\, Palo Alt
+ o
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/united-nations-association-film-festival-free-
+ shorts-program/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Tale of Two Sisters
 DTSTART;TZID=America/Los_Angeles:20261018T131500
 DTEND;TZID=America/Los_Angeles:20261018T151500
@@ -1545,9 +1548,9 @@ BEGIN:VEVENT
 SUMMARY:3rd Annual Studio 8 Film Festival
 DTSTART;TZID=America/Los_Angeles:20261018T140000
 DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261018T205153Z
 UID:dothebay-17914009@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Sun\, Oct 18\, 2pm\, and Nov 6-8\, Fri 7pm\, Sat 1:30pm\, Sun 
  12 noon\n\nThe 3rd Annual Studio 8 Film Festival celebrates the filmmaking
@@ -1560,10 +1563,11 @@ DESCRIPTION:Sun\, Oct 18\, 2pm\, and Nov 6-8\, Fri 7pm\, Sat 1:30pm\, Sun
  t Voltaire.\n\nFree to $20.\n\nPresented by SF Artists Alumni.\n\nFree\nSF
   Artists Alumni\n\nTickets: https://www.sfartistsalumni.org/s8ff-2026\nDet
  ails: https://dothebay.com/events/2026/10/18/3rd-annual-studio-8-film-fest
- ival-tickets\nSource: DoTheBay
+ ival-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/3rd-annual-studio-8-film-festival-sfs-4-star-theater/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34760371/46b138a3-1aeb-4d7b-8137-0aba5b8f266a.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261018T205153Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/18/3rd-annual-studio-8-film-festiv
@@ -2206,9 +2210,9 @@ BEGIN:VEVENT
 SUMMARY:SF Latino Film Festival: STREET SMART: Lessons from a TV Icon
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261018T205153Z
 UID:dothebay-17930217@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Opening night of the 18th annual SF Latino Film Festival!\n\nD
  irector Ernie Bustamante in person for a post screening Q&A.\n\nFilm + Rec
@@ -2226,15 +2230,52 @@ DESCRIPTION:Opening night of the 18th annual SF Latino Film Festival!\n\nD
  Format\n\nDCP\n\nFirst Showing\n\nOctober 22\, 2026\n\nCategories\n\nFeatu
  red\n\nTickets: https://www.cinemassf.org/tickets-passes/\nDetails: https:
  //dothebay.com/events/2026/10/22/sf-latino-film-festival-street-smart-less
- ons-from-a-tv-icon-tickets\nSource: DoTheBay
+ ons-from-a-tv-icon-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https:/
+ /sf.funcheap.com/2026-san-francisco-latino-film-fest-opening-night-sesame-
+ street-icon-doc-roxie-theater/
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34836098/a8d963d9-fa94-4d9e-b34a-d29e25fe78db.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261018T205153Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/sf-latino-film-festival-street-
  smart-lessons-from-a-tv-icon-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B-Movie: Lust & Sound in West-Berlin
+DTSTART;TZID=America/Los_Angeles:20261022T180000
+DTEND;TZID=America/Los_Angeles:20261022T200000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1642337@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:© DEF Media GmbHJoin us for a filmscreening of B-Movie: Lust 
+ & Sound in West-Berlin:\nHoping to follow in the footsteps of legends like
+  David Bowie and CAN\, Manchester punk rocker and early electronic music a
+ colyte Mark Reeder arrives in a divided Berlin in 1979. Luckily\, he films
+  everything he sees: black leather-clad teenagers\, giant pink and red hai
+ rdos\, gritty basement gigs\, and a parade of the scene’s most illustrio
+ us figures\, including Nick Cave\, Mania D’s Gudrun Gut\, and Einstürze
+ nde Neubauten’s Blixa Bargeld. From the movement’s system-smashing hig
+ hs to its waning years in the age of reunification\, Reeder is the outside
+ r with an insider’s view of the beating heart of Germany’s underground
+  cultural life.\nLovingly assembled from a decade of fascinating film and 
+ audio material\, B-Movie: Lust & Sound in West-Berlin provides a fast-pace
+ d but no less intimate look at Berlin’s punk and electronic subculture t
+ hrough the eyes of one of its greatest devotees. Winner of the Heiner Caro
+ w Prize at the 2015 Berlin International Film Festival.\n\nWith Mark Reede
+ r\, Marius Weber\, Gudrun Gut\, Annette Humpe\, Blixa Bargeld\, Nick Cave\
+ , Nena\, and Christiane F.\n\nFree\n\nTickets: https://www.eventbrite.com/
+ e/b-movie-lust-sound-in-west-berlin-tickets-2000526819570\nDetails: https:
+ //sf.funcheap.com/bmovie-lust-sound-westberlin-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Websit
+ e-quer.png
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Goethe-Institut San Francisco\, 657 Howard Street San Francisco\,
+  CA 94105
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/bmovie-lust-sound-westberlin-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Filipiñana
@@ -2506,6 +2547,25 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/house-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:House (Hausu\, 1977)
+DTSTART;TZID=America/Los_Angeles:20261024T123000
+DTEND;TZID=America/Los_Angeles:20261024T143000
+DTSTAMP:20261018T205153Z
+UID:dothebay-17969924@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Tickets at the venue's website More Bay Area Halloween screeni
+ ngs: cinelover.app/halloween?ref=dothebay\n\nTickets: https://4-star-movie
+ s.com\nDetails: https://dothebay.com/events/2026/10/24/house-hausu-1977-ti
+ ckets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35021659/40148bf0-81e0-4f38-9214-d27287a7bc14.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/24/house-hausu-1977-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silent Shorts Program
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
@@ -2537,18 +2597,19 @@ BEGIN:VEVENT
 SUMMARY:Casper
 DTSTART;TZID=America/Los_Angeles:20261024T144500
 DTEND;TZID=America/Los_Angeles:20261024T164500
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261018T205153Z
 UID:dothebay-17922927@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:An afterlife therapist and his daughter meet a friendly young 
  ghost when they move into a crumbling mansion in order to rid the premises
   of wicked spirits.\n\nTickets: https://ticketing.uswest.veezi.com/purchas
  e/20013?siteToken=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay.co
- m/events/2026/10/24/casper-tickets-ebyx1x7\nSource: DoTheBay
+ m/events/2026/10/24/casper-tickets-ebyx1x7\nSource: DoTheBay\n\nAlso liste
+ d on:\n- https://sf.funcheap.com/free-casper-1995-screening-4-star-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34799192/80c26795-f0fe-4ebb-b420-0ef946c3049d.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261018T205153Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
@@ -2642,6 +2703,66 @@ LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/house-tickets-mekdv33
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House (Hausu\, 1977) - Evening Show
+DTSTART;TZID=America/Los_Angeles:20261024T171500
+DTEND;TZID=America/Los_Angeles:20261024T191500
+DTSTAMP:20261018T205153Z
+UID:dothebay-17969925@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Tickets at the venue's website. More Bay Area Halloween screen
+ ings: cinelover.app/halloween?ref=dothebay\n\nTickets: https://4-star-movi
+ es.com\nDetails: https://dothebay.com/events/2026/10/24/house-hausu-1977-e
+ vening-show-tickets\nSource: DoTheBay
+LAST-MODIFIED:20261018T205153Z
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/24/house-hausu-1977-evening-show-t
+ ickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Blue Beetle” Free Outdoor Movie Night: SF Latino Film Festiva
+ l (Spark Social)
+DTSTART;TZID=America/Los_Angeles:20261024T183000
+DTEND;TZID=America/Los_Angeles:20261024T203000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1642682@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:SPARK SF\, Warner Bros.\n\nFree outdoor screening of Blue Beet
+ le at SPARK Social SF\, in partnership with Cine+Mas San Francisco Latino 
+ Film Festival!\n\nCine+Más: Blue Beetle Movie Night – A Celebration of 
+ Latino Cinema and Community!\nJoin us for a special outdoor movie night pr
+ esented by SPARK Social SF and Cine+Más San Francisco Latino Film Festiva
+ l! We’re bringing Latino cinema\, community\, and a little movie magic u
+ nder the stars at SPARK Social SF.\nGrab your friends and family\, enjoy s
+ ome delicious food and drinks from the park\, and settle in for a FREE scr
+ eening of Blue Beetle on the SPARK Social SF Field.\n🪲 Feature Film: Bl
+ ue Beetle\nSaturday\, October 24 | 6:30 PM\nSPARK Social SF | 601 Mission 
+ Bay Blvd North\, San Francisco\, CA 94158\nFree Admission | Open to all!\n
+ Arrive early to grab a spot on the field\, lay out your blanket\, and get 
+ ready for an evening of movies\, food\, community\, and fun under the San 
+ Francisco sky.\nFood Trucks\nEnjoy delicious bites from 15+ food trucks se
+ rving up a variety of meals and snacks throughout the evening. Grab dinner
+ \, drinks\, and something to enjoy during the film!\nAbout Cine+Más SF\nC
+ ine+Más San Francisco Latino Film Festival contributes to the Bay Area’
+ s vibrant and diverse arts scene through its annual Latino Film Festival a
+ nd year-round programming celebrating Latino arts and culture.\nThe festiv
+ al showcases films by emerging and established filmmakers from the US\, La
+ tin America\, Spain\, and Portugal\, highlighting creative works from arou
+ nd the...\n\nFree\n\nTickets: https://www.eventbrite.com/e/cinemas-blue-be
+ etle-tickets-2003175027431?\nDetails: https://sf.funcheap.com/blue-beetle-
+ free-outdoor-movie-night-sf-latino-film-festival-spark-social/\nSource: Fu
+ ncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/BlueBe
+ etle_Spark_SFLFF.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:SPARK Social SF\, 601 Mission Bay Blvd\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/blue-beetle-free-outdoor-movie-night-sf-latino
+ -film-festival-spark-social/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evil Dead II
@@ -2841,6 +2962,27 @@ LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\,
  94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/26/daughters-of-darkness-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Living Dead (1968) on 16mm
+DTSTART;TZID=America/Los_Angeles:20261027T193000
+DTEND;TZID=America/Los_Angeles:20261027T213000
+DTSTAMP:20261018T205153Z
+UID:dothebay-17969926@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Tickets at the venue's website. More Bay Area Halloween screen
+ ings: cinelover.app/halloween?ref=dothebay\n\nTickets: https://balboamovie
+ s.com\nDetails: https://dothebay.com/events/2026/10/27/night-of-the-living
+ -dead-1968-on-16mm-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35021664/a2ebd094-9e25-45fd-98fc-54cbcfc3107a.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/27/night-of-the-living-dead-1968-o
+ n-16mm-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rewind Presents: The Craft
@@ -3944,6 +4086,25 @@ LAST-MODIFIED:20261010T172246Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/5/new-people-closure-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frameline50 Fall Showcase Elsinore
+DTSTART;TZID=America/Los_Angeles:20261105T190000
+DTEND;TZID=America/Los_Angeles:20261105T210000
+DTSTAMP:20261018T205153Z
+UID:dothebay-17967655@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Tickets: https://www.frameline.org/films/frameline-year-round/
+ elsinore\nDetails: https://dothebay.com/events/2026/11/5/frameline50-fall-
+ showcase-elsinore-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35013147/7fe4ee78-3050-4a9c-b975-5c585d6cc0fa.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:The Castro Theatre\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/5/frameline50-fall-showcase-elsino
+ re-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Good Friends\, The Lowtimers & more
@@ -5530,6 +5691,33 @@ LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\,
  94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/15/dune-part-three-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261217T130000
+DTEND;TZID=America/Los_Angeles:20261217T150000
+DTSTAMP:20261018T205153Z
+UID:dothebay-17638312@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Universes collide and the Multiverse Saga begins its final cha
+ pter in Marvel Studios' Avengers: Doomsday. Beloved heroes from three dist
+ inct universes will be set on a deadly collision course and ultimately fac
+ e an existential threat unlike anything they've ever encountered. This epi
+ c film will lay the foundation for the future of the Marvel Cinematic Univ
+ erse. See it in Infinity Vision\, the way it's meant to be seen\, on bigge
+ r\, brighter\, and more immersive screens.\n\nTickets: https://drafthouse.
+ com/sf/show/avengers-doomsday?cinemaId=0802&sessionId=19163\nDetails: http
+ s://dothebay.com/events/2026/12/17/avengers-doomsday-tickets\nSource: DoTh
+ eBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33459495/dcaaa452-51d8-4067-99b4-1060ea9d50a9.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/17/avengers-doomsday-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3rd Annual “A Very Purple NYE” w/ Purple Rain And Sign “O”

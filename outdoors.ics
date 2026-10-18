@@ -40,42 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:YBG Dance Day
-DTSTART;TZID=America/Los_Angeles:20261011T100000
-DTEND;TZID=America/Los_Angeles:20261011T120000
-DTSTAMP:20261012T110211Z
-UID:dothebay-17207817@sf-cal
-SEQUENCE:3
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Free RSVP\n\nA party\, a workout\, a meditation and a communal
-  celebration\, Yerba Buena Gardens Dance Day is a portal to a joyous dance
- -filled world! Presented by YBG Festival and Rhythm & Motion\, YBG Dance D
- ay transforms the Gardens into an outdoor dance heaven where participants 
- can sample dance in a variety of forms and flavors with some of the Bay Ar
- ea’s most talented teachers. Classes are one-hour long and span a wide r
- ange of dance genres. Whether you are new to dance or a seasoned professio
- nal\, Yerba Buena Gardens Dance Day is open to everyone! Bring comfortable
-  shoes\, a water bottle and your curiosity for movement – stay for an ho
- ur or the full day. Invite friends and family. This is your day to dance!\
- n\nThis year\, Dance Day honors the life and legacy of Rhythm & Motion fou
- nder Consuelo Faust (1953-2025). We celebrate the spirit she championed 
- – living the belief that anyone can dance and that dance has the power t
- o bring people together in joy. Following the day of classes\, there will 
- be a celebratory music and dance performance that uplifts her vision and t
- he vibrant SF Bay Area dance community she deeply loved and helped to nurt
- ure throughout her life.\n\nFree RSVP\n\nFree\nYerba Buena Gardens Festiva
- l Presents\n\nDetails: https://dothebay.com/events/2026/10/11/ybg-dance-da
- y-tickets\nSource: DoTheBay
-GEO:37.7850153;-122.4023464
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31425254/f1457c10-48f7-482f-a58a-cb51b2e0365d.jpg
-LAST-MODIFIED:20261012T110211Z
-LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
- ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/11/ybg-dance-day-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Model Boats on Parade + Sailboat Race (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261011T100000
 DTEND;TZID=America/Los_Angeles:20261011T140000
@@ -97,29 +61,6 @@ LOCATION:Spreckels Lake\, Golden Gate Park\, 36th Avenue \, San Francisco\
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-model-boats-parade-sailboat-race-golden-g
  ate-park/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dads with Strollers Meetup at SF’s Francisco Park
-DTSTART;TZID=America/Los_Angeles:20261011T100000
-DTEND;TZID=America/Los_Angeles:20261011T120000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639460@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Submitted by the Event OrganizerFrancisco Park ConservancyJoin
-  us for Dads with Strollers Meetup on Sunday\, October 11 from 10am-12noon
- ! Meet a local group of Dads for a friendly walk and talk session. Coffee 
- and Bob’s donuts will be provided. We meet at the lower Children’s Pla
- yground. Everyone welcome. We really love seeing this group of Dads grow!!
- ! More info: info@franciscopark.org\n\nFree\n\nTickets: https://www.instag
- ram.com/p/DdxTs51B40c/\nDetails: https://sf.funcheap.com/dads-strollers-me
- etup-sfs-francisco-park/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/dads-2
- .jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Francisco Park\, 2445 Hyde Street\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/dads-strollers-meetup-sfs-francisco-park/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
@@ -889,38 +830,6 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sanctuary-exhibition-opening/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261018T100000
-DTEND;TZID=America/Los_Angeles:20261018T110000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-e83fb1dcfc3f77ad@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10575\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261018T110000
-DTEND;TZID=America/Los_Angeles:20261018T120000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-60f8b9172db4c4ea@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10588\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The 5th Annual Berkeley Bird Festival
 DTSTART;TZID=America/Los_Angeles:20261018T120000
 DTEND;TZID=America/Los_Angeles:20261018T170000
@@ -1137,6 +1046,30 @@ LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
  4102
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mycological Society Monthly Meeting
+DTSTART;TZID=America/Los_Angeles:20261020T183000
+DTEND;TZID=America/Los_Angeles:20261020T210000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1642427@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Submitted by the Event OrganizerBrennan Wenck-reillyThe Mycolo
+ gical Society of San Francisco holds a monthly meeting highlight all aspec
+ ts of mushroom foraging\, eating\, and current scientific research. There 
+ are always mushroom appetizers before the meeting\,a s well as various dri
+ nks available. If you have any interest in learning more about mushrooms\,
+  or if you have a mushroom you would like to have identified\, please come
+  and share with our community.\n\nFree\n\nTickets: https://mssf.org/meetin
+ gs/index.html\nDetails: https://sf.funcheap.com/mycological-society-monthl
+ y-meeting/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
+ shot-2026-10-13-at-20.55.50.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Randall Museum\, 199 Museum Way\, San Francisco CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/mycological-society-monthly-meeting/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
@@ -1401,20 +1334,22 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Memphis Grizzlies
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261018T205153Z
 UID:dothebay-17728013@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
 DESCRIPTION:Golden State Warriors vs. Memphis Grizzlies\n\nTickets: https:
  //ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2
  F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-memphis-grizzlies-san-
  francisco-california-10-23-2026%2Fevent%2F1C00650AB372D7AA\nDetails: https
  ://dothebay.com/events/2026/10/23/golden-state-warriors-vs-memphis-grizzli
- es-tickets\nSource: DoTheBay
+ es-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com
+ /artprd-presents-focus/\n- https://sf.funcheap.com/train-dragon-musical-jr
+ -bay-area-premiere/
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33883576/de7bd2dd-c199-440c-acac-09977637c2b6.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261018T205153Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/golden-state-warriors-vs-memphi
@@ -1465,6 +1400,35 @@ URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-october-2026-10/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:5th Annual Kelly Brush Ride: Bay Area
+DTSTART;TZID=America/Los_Angeles:20261024T070000
+DTEND;TZID=America/Los_Angeles:20261024T160000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1631372@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Submitted by the Event OrganizerKelly Brush Foundationoin us f
+ or a fun day cycling the picturesque Marin County on Saturday\, October 24
+ ! The 5th Annual Kelly Brush Ride: Bay Area is an incredible fundraising e
+ vent that supports the Kelly Brush Foundation’s mission to inspire and e
+ mpower people with spinal cord injuries to lead active and engaged lives.\
+ nChoose from leisurely family-friendly jaunts to challenging routes for mo
+ untain and road cyclists alike\; pick your route and pedal for a purpose. 
+ Afterward\, join us for a post-ride celebration with delicious eats and dr
+ inks\, music\, and prizes!\n\nCan’t make it to Mill Valley? No worries! 
+ Join us remotely from anywhere\, anytime\, leading up to October 24. Every
+  mile counts towards our mission.\n\n$85.00\n\nTickets: https://give.kelly
+ brushfoundation.org/event/5th-annual-kelly-brush-ride-bay-area/e773797?c_s
+ rc=EXP\nDetails: https://sf.funcheap.com/5th-annual-kelly-brush-ride-bay-a
+ rea/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/Bay-Ar
+ ea-Ride.png
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Depot Plaza\, Mill Valley Ca\, Mill Valley
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/5th-annual-kelly-brush-ride-bay-area/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Watch Party - Valkyries V Dream- WNBA Finals Game 4
 DTSTART;TZID=America/Los_Angeles:20261024T100000
 DTEND;TZID=America/Los_Angeles:20261024T120000
@@ -1503,6 +1467,46 @@ LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
  4102
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Horse Hallow: Costumed Horses + Family Fun (Marin Headlands)
+DTSTART;TZID=America/Los_Angeles:20261024T103000
+DTEND;TZID=America/Los_Angeles:20261024T133000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1642317@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Presidio Riding ClubCelebrate fall at Horse Hallow\, an annual
+  family-friendly celebration hosted by the Presidio Riding Club at Rodeo V
+ alley Stables in the Marin Headlands. Set against the natural beauty of th
+ e Headlands\, this seasonal gathering brings the community together for a 
+ day of horses\, hands-on activities and festive fun.\nGuests can meet hors
+ es dressed in Halloween costumes\, enjoy arts and crafts and face painting
+ \, take photos with the horses\, and browse homemade treats at the bake sa
+ le. Families are encouraged to come in costume and enjoy a welcoming event
+  designed for horse lovers and first-time visitors alike.\nHorse Hallow al
+ so helps support the Presidio Riding Club’s ongoing work to care for its
+  facilities\, expand educational opportunities and strengthen its role as 
+ a community resource. The Club provides a place for people to learn about 
+ horses and horsemanship while building connections with one another and th
+ e natural environment. Through partnerships with schools\, veterans’ gro
+ ups and other community organizations\, the Club also supports educational
+  workshops and programs that make its facilities and expertise accessible 
+ to a broader community.\n\nLocated in the Marin Headlands\, the Presidio R
+ iding Club is a volunteer-operated nonprofit dedicated to horse care\, hor
+ semanship and environmental stewardship. As a partner of Golden Gate Natio
+ nal Parks\, the Club helps connect visitors and local communities with the
+  unique landscape and equestrian heritage of the are...\n\nFree\n\nTickets
+ : https://partiful.com/e/N4H45O7Dwg44u62CbBgf?\nDetails: https://sf.funche
+ ap.com/free-horse-hallow-costumed-horses-family-fun-marin-headlands/\nSour
+ ce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/IMG_09
+ 93.png
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Rodeo Valley Stables\, 901 Bunker Road Sausalito
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-horse-hallow-costumed-horses-family-fun-m
+ arin-headlands/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s “BYOP” Pumpkin Carving Party 2026 (Duboce Park)

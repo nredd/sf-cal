@@ -40,48 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga 
- Classes\, Free Fries
-DTSTART;TZID=America/Los_Angeles:20261011T100000
-DTEND;TZID=America/Los_Angeles:20261011T110000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1633247@sf-cal
-SEQUENCE:0
-CATEGORIES:Free Food
-DESCRIPTION:“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Y
- oga Classes\, Free Fries (SF)\nManny's\nTired? Sunday Funday. Wired? Sunda
- y done-day. Make our neighborhood better\, brunch with cool people (sorry 
- not sorry\, we’re biased)\, get deals to some fave local spots\, and wra
- p it up before the Sunday Scaries hit with an easy hour of picking up tras
- h around our neighborhood with friends and the community!\nRSVP to save yo
- ur spot\nSF Public Works\, TogetherSF\, Shine On SF\, and Manny’s is hos
- ting a weekly neighborhood trash pick up to help keep our area clean and n
- eat.\n\nBy picking up with us\, you’ll get a special certificate that in
- cludes a whole host of neighborhood discounts valid that day\, including:\
- n\n$3 well highballs and $1 PBRs – Blondies\nHalf price shots (specific 
- shots only) – Bond Bar\nFree Tasty Small Fries – Beehive Bar\nOne free
-  Yoga Class – HAUM Yoga\nOne free Yoga Class – Love Story Yoga\n2 for 
- 1 empanadas – Venga Empanadas\nOne drink ticket (beer or wine) – Curio
-  Bar\nFree Small Hot Chocolate – Dandelion Chocolate\n2 for 1 draft beer
-  – Standard Deviant\nFrozen margarita with any additional purchase – W
- est of Pecos\nPlease note that the discounts might vary!\n\nWe’ll provid
- e the gear. All you need to bring is yourself(and maybe the two or three f
- riends you get to sign up to enjoy those 2-1 empanadas). When we’re done
- \, and before you settle in for those dollar margs\, join us for brunch to
-  support Farming Hope – the non-profit restaurant at Manny’s! Don’t 
- forget to bring layers and comfo...\n\nFree\n\nTickets: https://refuserefu
- sesf.org/cleanups\nDetails: https://sf.funcheap.com/mannys-neighborhood-tr
- ash-cleanup-w-1-beer-free-yoga-classes-free-fries-sf-153/\nSource: Funchea
- p SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/07/thumbn
- ail_IMG_6786.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Manny’s\, 3092 16th St San Francisco\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/mannys-neighborhood-trash-cleanup-w-1-beer-fre
- e-yoga-classes-free-fries-sf-153/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Castro” The Barber Shop Dog’s 6th Birthday Pawty w/ Food + 
  Games
 DTSTART;TZID=America/Los_Angeles:20261011T100000
@@ -186,28 +144,6 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/healdsburg-crush/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dogpatch Cleanup w/ Free Lunch For Volunteers
-DTSTART;TZID=America/Los_Angeles:20261011T120000
-DTEND;TZID=America/Los_Angeles:20261011T133000
-DTSTAMP:20261007T060815Z
-UID:funcheap-1641297@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Refuse RefuseMeet at a different park each month in the Dogpat
- ch. Then\, cleaning will occur from 12:00pm to 1:30pm around the neighborh
- ood. Stay afterwards for free food & refreshments! Sign up on this Civic J
- oy Fund Mobilize page or email info@refuserefusesf.org with event name.\n\
- nFree\n\nTickets: https://www.mobilize.us/civicjoyfund/event/757470/\nDeta
- ils: https://sf.funcheap.com/dogpatch-cleanup-free-lunch-volunteers-3/\nSo
- urce: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Dogpat
- ch-1.jpg
-LAST-MODIFIED:20261007T060815Z
-LOCATION:Esprit Park\, Minnesota St. and 19th St\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/dogpatch-cleanup-free-lunch-volunteers-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Annual Italian Heritage Festival & Parade 2026
 DTSTART;TZID=America/Los_Angeles:20261011T123000
 DTEND;TZID=America/Los_Angeles:20261011T150000
@@ -242,27 +178,6 @@ LOCATION:Fisherman’s Wharf\, Jefferson and Taylor\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/san-francisco-italian-heritage-parade-festival
  /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Entre Amigos: A Hispanic Food & Music Celebration at La Mar San Fr
- ancisco
-DTSTART;TZID=America/Los_Angeles:20261011T123500
-DTEND;TZID=America/Los_Angeles:20261011T143500
-DTSTAMP:20261012T110211Z
-UID:dothebay-17900606@sf-cal
-SEQUENCE:1
-CATEGORIES:Food & Drink
-DESCRIPTION:$106 - $130\n\nDetails: https://dothebay.com/events/2026/10/11
- /entre-amigos-a-hispanic-food-music-celebration-at-la-mar-san-francisco-ti
- ckets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34698410/0cb1f7d4-f5c1-4455-81dc-ab846bb41cac.jpg
-LAST-MODIFIED:20261012T110211Z
-LOCATION:La Mar Cocina Peruana\, Pier 1 1/2 The Embarcadero N\, San Franci
- sco\, CA\, 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/11/entre-amigos-a-hispanic-food-mu
- sic-celebration-at-la-mar-san-francisco-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Giant “R-Evolution” Sculpture Final Day / Tear Down (Em
@@ -1055,6 +970,59 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/18/foodwise-sunday-supper-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pumpkin Paints Pots + Pints for Ruth Bancroft Garden (Berkeley)
+DTSTART;TZID=America/Los_Angeles:20261020T170000
+DTEND;TZID=America/Los_Angeles:20261020T180000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1638859@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerMarie Gelin from Ruth Bancroft
+  GardenJoin us for this fun event with Ruth Bancroft Garden (1% for the Pl
+ anet partner) at our Walnut Creek beer garden! $30 tickets available on th
+ eir website. All ages welcome! 100% ticket sales directly support Ruth Ban
+ croft Garden. Beer\, wine\, food and other items available for purchase du
+ ring the event at our beer garden.\n\n$30.00\n\nTickets: https://www.headl
+ andsbrewing.com/events/paints-pots-pints-ruth-bancroft-garden-1ftp-berkele
+ y-westbrae-1\nDetails: https://sf.funcheap.com/pumpkin-paints-pots-pints-r
+ uth-bancroft-garden-berkeley/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Ruth-B
+ ancroft-Garden-1-FTP-Paints-Pots-Pints-@-WC-OCT-20261.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Headlands Brewing - Berkeley (Westbrae)\, 1280 Gilman St\, Berkel
+ ey
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/pumpkin-paints-pots-pints-ruth-bancroft-garden
+ -berkeley/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Very Scary Early 2000s Pop Culture Trivia
+DTSTART;TZID=America/Los_Angeles:20261020T184500
+DTEND;TZID=America/Los_Angeles:20261020T214500
+DTSTAMP:20261018T205153Z
+UID:funcheap-1641548@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerWine Down SFDo you like scary 
+ movies? Wine Down SF’s monthly Pop Culture Trivia Night is going Y2K wit
+ h a Halloween twist. We’re conjuring up questions on the music\, movies\
+ , and pop culture moments from the decade that brought us so much (and hau
+ nts us still). Each month we tackle a different era\, and October is the s
+ pookiest one yet.\nGather your coven (or come solo and we’ll help you fi
+ nd a team) for fun rounds\, friendly competition\, and plenty of wine\, be
+ er\, NA drinks\, and snacks. Prizes go to 1st and 2nd place\, plus special
+  awards for Best Small Team\, Best Team Name\, and Best Dressed. Early 200
+ 0s and Halloween costumes encouraged!\n\nFree\n\nTickets: https://www.wine
+ downsf.com/partyrsvp.html\nDetails: https://sf.funcheap.com/scary-early-20
+ 00s-pop-culture-trivia/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/2000s-
+ Trivia-Night-Halloween-Oct-2026-v2.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Wine Down\, 685 Folsom Street\, San Francisco\, Ca
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/scary-early-2000s-pop-culture-trivia/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Wiener Wednesday” Free Hot Dog Night at Rye
 DTSTART;TZID=America/Los_Angeles:20261021T180000
 DTEND;TZID=America/Los_Angeles:20261022T000000
@@ -1136,6 +1104,32 @@ URL:https://sf.funcheap.com/black-hammers-free-hopped-up-trivia-night-ever
  y-wednesday-142/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Trivia Night w/ Lindsay Wildlife at Headlands Brewing (Berkel
+ ey)
+DTSTART;TZID=America/Los_Angeles:20261022T160000
+DTEND;TZID=America/Los_Angeles:20261022T180000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1640299@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerHeadlands BrewingJoin us at ou
+ r Berkeley (Westbrae) beer garden for a fun\, free Trivia Night with Linds
+ ay Wildlife\, our 1% for the Planet partner on Thursday\, October 22nd fro
+ m 4-6pm.\nPlus: The winning team will receive a free year membership to th
+ e Lindsay Wildlife Experience located at 1931 1st Ave\, Walnut Creek\, CA 
+ 94597. Cheers!\n\nFree\n\nTickets: https://www.headlandsbrewing.com/events
+ /trivia-night-lindsay-wildlife-1ftp-berkeley-westbrae3\nDetails: https://s
+ f.funcheap.com/free-trivia-night-lindsay-wildlife-headlands-brewing-berkel
+ ey/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Headla
+ nds_Logomark_Deep-Sea.png
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Headlands Brewing - Berkeley (Westbrae)\, 1280 Gilman St
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-trivia-night-lindsay-wildlife-headlands-b
+ rewing-berkeley/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)
 DTSTART;TZID=America/Los_Angeles:20261023T110000
 DTEND;TZID=America/Los_Angeles:20261023T170000
@@ -1174,6 +1168,36 @@ LOCATION:Tato\, 4608 3rd St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/pay-what-you-can-taco-day-at-sfs-tato-every-fr
  iday-302/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweet & Spooky: A Recchiuti Chocolate Experience (Hayes Valley)
+DTSTART;TZID=America/Los_Angeles:20261023T140000
+DTEND;TZID=America/Los_Angeles:20261023T170000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1636795@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Sweet & Spooky: A Recchiuti Chocolate Experience ️\nSavor ha
+ ndcrafted Recchiuti chocolates with a spooky twist! Enjoy sweet treats\, f
+ estive flavors\, and Halloween fun at the Ferry Building!!!\nHayes Valley 
+ – 465 Hayes St.\nSunday\, October 23rd\n⏰ 2:00 PM – 5:00 PM\n\nGet r
+ eady for a spooktacular afternoon of chocolate! Join us for a delicious Re
+ cchiuti Confections tasting featuring handcrafted chocolates that are sure
+  to satisfy your sweet tooth.\nFrom a small kitchen in San Francisco to a 
+ globally recognized artisanal chocolate brand\, Recchiuti’s story is one
+  of craft\, creativity\, and partnership. Discover the artistry and rich f
+ lavors behind every irresistible bite.\nStop by for a taste and indulge in
+  some frightfully delicious chocolate! 🦇\nSweet treats\, spooky vibes\,
+  and plenty of chocolate await! ✨\n\nFree\n\nTickets: https://www.facebo
+ ok.com/events/4727101270844802\nDetails: https://sf.funcheap.com/sweet-spo
+ oky-recchiuti-chocolate-experience-hayes-valley/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/jesus-
+ huezo-recchiuti-oct-2021.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Hayes Valley\, Hayes St. and Laguna St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sweet-spooky-recchiuti-chocolate-experience-ha
+ yes-valley/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From the E: Fall Festival Night Market
@@ -1215,6 +1239,36 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/from-the-e-fall-festival-night-market-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Night the Witches Were Invited In
+DTSTART;TZID=America/Los_Angeles:20261023T180000
+DTEND;TZID=America/Los_Angeles:20261023T210000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1641786@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerChelsea SwineaFriday\, October
+  23 | Pelican Inn\nSince opening\, the Pelican Inn has had its ways of kee
+ ping witches out\, from glass worked into the fireplace mortar to a horse
+ ’s head buried beneath the hearth. But on this night\, we’re turning t
+ radition on its head and inviting the witches in!\n\nJoin us for a magical
+  collaboration with Practical Magic of Fairfax. At 6:00 PM\, Lea will lead
+  a handcrafted broom-making class ($75\, all supplies included). Browse th
+ e Practical Magic pop-up shop for spell candles\, jewelry\, and other magi
+ cal treasures\, then enjoy dinner and drinks at the inn.\nAt 8:00 PM\, we
+ ’ll gather around the fire\, where we’ll come together for a magical r
+ itual led by Caitlin.\nCome make a broom\, discover something magical\, an
+ d gather with us by the fire. For one night\, the witches aren’t being k
+ ept out. They’re being invited in.\n\n$75.00\n\nTickets: https://www.ins
+ tagram.com/pelicaninn/p/DeQEcEbj3MD/?hl=en\nDetails: https://sf.funcheap.c
+ om/night-witches-invited/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Witch-
+ Poster.jpg
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Pelican Inn\, 10 Pacific Way
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/night-witches-invited/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Midnight at the Masquerade” Murder Mystery Dinner
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
@@ -1253,6 +1307,36 @@ LOCATION:The Westin St. Francis\, 335 Powell St\, San Francisco \, CA\, 94
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/midnight-at-the-masquerade-murd
  er-mystery-dinner-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sausalito Art & Harbor Days
+DTSTART;TZID=America/Los_Angeles:20261024T100000
+DTEND;TZID=America/Los_Angeles:20261024T150000
+DTSTAMP:20261018T205153Z
+UID:funcheap-1642405@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerMichael NoviaSausalito Art & H
+ arbor Days\nOur October edition lands a week before Halloween\, so the mus
+ ic has a spooky streak this month. Jugglers wander the waterfront\, ferrie
+ s pull in from the city\, and more than 60 vendors set up along the Ferry 
+ Landing.\n\nFrom noon to 3\, a costumed face painter turns kids into butte
+ rflies\, tigers and whatever else they can dream up\, at no cost. Nearby\,
+  the Children’s Experience Station has hula hoops\, ribbons and juggling
+  props for anyone who wants to give them a go\, parents included.\nMake a 
+ day of it. Downtown Sausalito is right across the street\, so grab lunch o
+ n Bridgeway\, duck into a gallery or two\, and wander the shops before hea
+ ding home.\nEvent details\n\nSaturday\, October 24\n10 AM – 3 PM\nSausal
+ ito Ferry Landing\nFree admission\n\n@sausalitoartandharbordays\n\nFree\n\
+ nTickets: https://www.instagram.com/sausalitoartandharbordays/?hl=en\nDeta
+ ils: https://sf.funcheap.com/sausalito-art-harbor-days-7/\nSource: Funchea
+ p SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/SAHD-O
+ ct-24th.png
+LAST-MODIFIED:20261018T205153Z
+LOCATION:Ferry Landing\, 1 Tracy Way Sausalito\, CA 94965
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sausalito-art-harbor-days-7/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Bottled Water Tasting Class
