@@ -40,66 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Ray Lau
-DTSTART;TZID=America/Los_Angeles:20261011T180000
-DTEND;TZID=America/Los_Angeles:20261011T200000
-DTSTAMP:20261012T110211Z
-UID:dothebay-17447261@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Ray Lau\nSunday\, October 11 | ​Cobb's Comedy Club\n\n18+\nS
- old out\n\nDetails: https://dothebay.com/events/2026/10/11/ray-lau-tickets
- \nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32548090/61f3eff3-b99e-4e1e-9fd3-69bd6b2cc7c3.png
-LAST-MODIFIED:20261012T110211Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/11/ray-lau-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S. F. Comedy Showcase
-DTSTART;TZID=America/Los_Angeles:20261011T190000
-DTEND;TZID=America/Los_Angeles:20261011T210000
-DTSTAMP:20261012T110211Z
-UID:dothebay-17507215@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:S. F. Comedy Showcase\nSunday\, October 11 | ​Punch Line San
-  Francisco\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/11/s-f-c
- omedy-showcase-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32837376/74ba3709-ed02-480b-9b50-59de37abadca.png
-LAST-MODIFIED:20261012T110211Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/11/s-f-comedy-showcase-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ray Lau
-DTSTART;TZID=America/Los_Angeles:20261011T201500
-DTEND;TZID=America/Los_Angeles:20261011T221500
-DTSTAMP:20261012T110211Z
-UID:dothebay-17207424@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Ray Lau\nSunday\, October 11 | Cobb's Comedy Club\n\n18+\nSold
-  out\n\nDetails: https://dothebay.com/events/2026/10/11/ray-lau-tickets-8a
- glaq6\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31423677/7cf0cab0-431c-4286-8028-4a8528038107.png
-LAST-MODIFIED:20261012T110211Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/11/ray-lau-tickets-8aglaq6
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Scuffed Realtor: LIVE with Nick Rochefort and Alex Schultz
 DTSTART;TZID=America/Los_Angeles:20261012T193000
 DTEND;TZID=America/Los_Angeles:20261012T213000
