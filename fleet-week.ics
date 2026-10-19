@@ -41,41 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Ship Tours
-DTSTART;TZID=America/Los_Angeles:20261012T090000
-DTEND;TZID=America/Los_Angeles:20261012T120000
-DTSTAMP:20261005T235648Z
-UID:fleetweeksf-53436-20261012@sf-cal
-SEQUENCE:0
-CATEGORIES:Ship Tours
-DESCRIPTION:See Ship Tours page for Schedule.\n\nDetails: https://fleetwee
- ksf.org/events/ship-tours/\nSource: SF Fleet Week (fleetweeksf.org)
-GEO:37.808394303034;-122.40571975708
-LAST-MODIFIED:20261005T235648Z
-LOCATION:Pier 35\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/ship-tours/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1st High School Band Challenge
-DTSTART;TZID=America/Los_Angeles:20261012T090000
-DTEND;TZID=America/Los_Angeles:20261012T120000
-DTSTAMP:20261005T235648Z
-UID:fleetweeksf-53601-20261012@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:We are proud to welcome the Navy and Marine Corps bands each y
- ear as part of San Francisco Fleet Week’s Neighborhood Concert Program. 
- Check out our 2026 free concert calendar to see when we’re performing in
-  your neighborhood!\n\nDetails: https://fleetweeksf.org/events/free-concer
- t-series/\nSource: SF Fleet Week (fleetweeksf.org)
-GEO:37.77007649;-122.4685377
-LAST-MODIFIED:20261005T235648Z
-LOCATION:Golden Gate Park Bandshell\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://fleetweeksf.org/events/free-concert-series/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Off the Grid Treasure Island
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T130000

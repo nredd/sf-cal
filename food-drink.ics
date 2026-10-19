@@ -682,9 +682,9 @@ BEGIN:VEVENT
 SUMMARY:Tea Glee: How to Harvest & Blend Local Herbal Teas
 DTSTART;TZID=America/Los_Angeles:20261018T110000
 DTEND;TZID=America/Los_Angeles:20261018T130000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261019T210249Z
 UID:dothebay-17955878@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Food & Drink
 DESCRIPTION:Join us for some witchy-fun in the Children's Garden where we 
  will learn to identify and harvest local herbal plants for tea!\n\nIn this
@@ -695,13 +695,13 @@ DESCRIPTION:Join us for some witchy-fun in the Children's Garden where we
   the confidence of blending herbs at home and take some of your unique tea
   blend to share with friends and family. Build your skills for the holiday
   DIY gift season!\n\n$89.\n\nPresented by Gardens of Golden Gate Park\n\n$
- 89.\nGardens of Golden Gate Park\n\nTickets: https://www.gggp.org/\nDetail
- s: https://dothebay.com/events/2026/10/18/tea-glee-how-to-harvest-blend-lo
- cal-herbal-teas-tickets\nSource: DoTheBay
+ 89.\nGardens of Golden Gate Park\n\nDetails: https://dothebay.com/events/2
+ 026/10/18/tea-glee-how-to-harvest-blend-local-herbal-teas-tickets\nSource:
+  DoTheBay
 GEO:37.7659829;-122.466466
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34957791/565a8842-771c-40a1-96a0-c6d51eb51507.jpg
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261019T210249Z
 LOCATION:San Francisco Botanical Garden\, 9th Ave & Lincoln Way\, San Fran
  cisco\, CA\, 94122
 TRANSP:TRANSPARENT
@@ -752,9 +752,9 @@ BEGIN:VEVENT
 SUMMARY:Essential Oil + Tea Blending Workshop for the Fall Season
 DTSTART;TZID=America/Los_Angeles:20261018T133000
 DTEND;TZID=America/Los_Angeles:20261018T153000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261019T210249Z
 UID:dothebay-17955879@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Food & Drink
 DESCRIPTION:Join herbalist and multidisciplinary healer Allie Brown for an
   herbal crafting workshop\, encouraging you to slow down and tend to your 
@@ -776,13 +776,12 @@ DESCRIPTION:Join herbalist and multidisciplinary healer Allie Brown for an
  rious sound healing instruments. Your oil blend and massaging self-touch w
  ill serve as a peaceful salve to an overactive nervous system.\n\n$55-$75.
  \n\nPresented by Gardens of Golden Gate Park\n\n$55-$75.\nGardens of Golde
- n Gate Park\n\nTickets: https://www.gggp.org/\nDetails: https://dothebay.c
- om/events/2026/10/18/essential-oil-tea-blending-workshop-for-the-fall-seas
- on-tickets\nSource: DoTheBay
+ n Gate Park\n\nDetails: https://dothebay.com/events/2026/10/18/essential-o
+ il-tea-blending-workshop-for-the-fall-season-tickets\nSource: DoTheBay
 GEO:37.7659829;-122.466466
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34957799/d0f73463-1931-4288-9223-63beb90ccf80.jpg
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261019T210249Z
 LOCATION:San Francisco Botanical Garden\, 9th Ave & Lincoln Way\, San Fran
  cisco\, CA\, 94122
 TRANSP:TRANSPARENT
@@ -793,9 +792,9 @@ BEGIN:VEVENT
 SUMMARY:Foodwise Sunday Supper: A Farm to City Feast
 DTSTART;TZID=America/Los_Angeles:20261018T163000
 DTEND;TZID=America/Los_Angeles:20261018T183000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261019T210249Z
 UID:dothebay-17389285@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Food & Drink
 DESCRIPTION:Sunday\, October 18\, 2026\, 4:30 pm - 9:30 pm\n35 Top Restaur
  ants• 4-Course Feast •\n1 Unforgettable Evening\nJoin Foodwise for our
@@ -818,12 +817,12 @@ DESCRIPTION:Sunday\, October 18\, 2026\, 4:30 pm - 9:30 pm\n35 Top Restaur
   Ferry Building from 4:30 to 6:00 pm (seated four-course dinner not includ
  ed).\n\nA Gala for a Cause\nProceeds provide vital funds for Foodwise’s 
  work championing an equitable and sustainable Bay Area food community thro
- ugh farmers market...\n\n$175-$400 | 21+\nFoodwise presents:\n\nTickets: h
- ttps://foodwisesundaysupper2026.eventbrite.com/\nDetails: https://dothebay
- .com/events/2026/10/18/foodwise-sunday-supper-tickets\nSource: DoTheBay
+ ugh farmers market...\n\n$175-$400 | 21+\nFoodwise presents:\n\nDetails: h
+ ttps://dothebay.com/events/2026/10/18/foodwise-sunday-supper-tickets\nSour
+ ce: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34554634/d29985ba-3fda-42bd-9479-27a3d6dbd4e7.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261019T210249Z
 LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
  11
 TRANSP:TRANSPARENT
@@ -2205,6 +2204,27 @@ LOCATION:Manny’s\, 3092 16th St San Francisco\, CA 94103
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/mannys-neighborhood-trash-cleanup-w-1-beer-fre
  e-yoga-classes-free-fries-sf-157/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Mar Uncorked: A Wine Country Harvest
+DTSTART;TZID=America/Los_Angeles:20261108T120000
+DTEND;TZID=America/Los_Angeles:20261108T140000
+DTSTAMP:20261019T210249Z
+UID:dothebay-17972465@sf-cal
+SEQUENCE:0
+CATEGORIES:Food & Drink
+DESCRIPTION:$89/pp\n\nTickets: https://app.acuityscheduling.com/schedule/b
+ cc2db54/appointment/99233145/calendar/11716151?appointmentTypeIds[]=992331
+ 45\nDetails: https://dothebay.com/events/2026/11/8/la-mar-uncorked-a-wine-
+ country-harvest-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35034919/af6db902-011d-4332-8e0a-0e4b1c558fe4.jpg
+LAST-MODIFIED:20261019T210249Z
+LOCATION:La Mar\, Pier 1 1/2\, The Embarcadero\, San Francisco\, CA\, 9411
+ 1
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/8/la-mar-uncorked-a-wine-country-h
+ arvest-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Wiener Wednesday” Free Hot Dog Night at Rye

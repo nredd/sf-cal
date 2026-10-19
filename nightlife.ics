@@ -40,38 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Programa de gestión de contingencias en español
-DTSTART;TZID=America/Los_Angeles:20261012T093000
-DTEND;TZID=America/Los_Angeles:20261012T113000
-DTSTAMP:20261013T065157Z
-UID:dothebay-17551153@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:¿Le interesa cambiar\, reducir\, reevaluar o dejar de consumi
- r estimulantes como la metanfetamina o la cocaína?\n\nOfrecemos un progra
- ma de gestión de contingencias en español en nuestra agencia asociada\, 
- el Proyecto Gubbio.\n\nEste programa es un programa de refuerzo positivo d
- e 12 semanas/24 sesiones con servicios médicos\, asesoramiento individual
- \, gestión de casos y grupo de apoyo\, y todos los servicios se brindan e
- n español.\n\nPara obtener más información o unirse al grupo\, comuníq
- uese con Maricruz al 415-632-9722 o envíe un correo electrónico a mmoren
- o@sfaf.org.\n\n___________\n\nContingency management program in Spanish\n\
- nInterested in changing\, reducing\, re-evaluating\, or stopping your use 
- of stimulants such as meth or cocaine?\n\nWe offer a contingency managemen
- t program in Spanish at our partner agency\, the Gubbio Project.\n\nThis p
- rogram is a positive reinforcement 12 week/24-session program with medical
-  services\, individual counseling\, case management\, and support group wi
- th all services provided in Spanish.\n\nFor more information or to join th
- e group\, please contact Maricruz at 415-632-9722 or mmoreno@sfaf.org.\n\n
- Details: https://dothebay.com/events/2026/10/12/programa-de-gestion-de-con
- tingencias-en-espanol-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261013T065157Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/12/programa-de-gestion-de-continge
- ncias-en-espanol-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Protect Your Brand - Trademark Basics for Entrepreneurs
 DTSTART;TZID=America/Los_Angeles:20261013T130000
 DTEND;TZID=America/Los_Angeles:20261013T150000
@@ -1221,20 +1189,18 @@ BEGIN:VEVENT
 SUMMARY:rooftop party w/ Atish & Nikita at the Via Hotel
 DTSTART;TZID=America/Los_Angeles:20261018T140000
 DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261019T210249Z
 UID:dothebay-17633557@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Safra & B.A.S.S. present: A beautiful day party with incredibl
  y talented Atish & Nikita at Hotel Via Rooftop on October 18th!\nVida is o
- n opening duties!\n\n$15-40\nSafra presents\n\nTickets: https://consumer.p
- xf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fa-rooftop-party-w-at
- ish-nikita-at-the-hotel-via-tickets-1994637250711%3Faff%3Ddothebay\nDetail
- s: https://dothebay.com/events/2026/10/18/rooftop-party-w-atish-nikita-at-
- the-via-hotel-tickets\nSource: DoTheBay
+ n opening duties!\n\n$15-40\nSafra presents\n\nDetails: https://dothebay.c
+ om/events/2026/10/18/rooftop-party-w-atish-nikita-at-the-via-hotel-tickets
+ \nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33436480/f44cfdfa-69f5-498b-9dc6-548c19929978.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261019T210249Z
 LOCATION:Hotel VIA\, 138 King St\, San Francisco\, CA\, 94107
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/18/rooftop-party-w-atish-nikita-at
@@ -1244,9 +1210,9 @@ BEGIN:VEVENT
 SUMMARY:Rusty's LA Beer Bust
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T180000
-DTSTAMP:20261015T170721Z
+DTSTAMP:20261019T210249Z
 UID:dothebay-17958160@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Rusty is off to LA for a feature part in the new Bears docuser
  ies on Netflix and we wanna send him off in style (laying down in the back
@@ -1254,13 +1220,12 @@ DESCRIPTION:Rusty is off to LA for a feature part in the new Bears docuser
  all of you here\,\n\nRusty works tirelessly greeting people from all over 
  the world with his friendly smile and a tip of his hat. So let’s finally
   show Rusty some love in return.\n\nJell-O-Shots\, raffles\, food and more
- .\n\nCheers.\n\nTickets: https://www.lonestarsf.com/new-events-1/2026/10/1
- 8/rustys-la-beer-bust\nDetails: https://dothebay.com/events/2026/10/18/rus
- ty-s-la-beer-bust-tickets\nSource: DoTheBay
+ .\n\nCheers.\n\nDetails: https://dothebay.com/events/2026/10/18/rusty-s-la
+ -beer-bust-tickets\nSource: DoTheBay
 GEO:37.77216749999999;-122.4108778
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34970042/d05a6a77-7d3b-481f-9421-43da1db00091.png
-LAST-MODIFIED:20261015T170721Z
+LAST-MODIFIED:20261019T210249Z
 LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
  103
 TRANSP:TRANSPARENT
@@ -3074,6 +3039,28 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/devil-s-night-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Boy
+DTSTART;TZID=America/Los_Angeles:20261030T210000
+DTEND;TZID=America/Los_Angeles:20261030T230000
+DTSTAMP:20261019T210249Z
+UID:dothebay-17967138@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Big Boy Halloween is gonna scare the pants off you!!! Dress Up
+  - Turn Up because Big Boys know how to have a good time.\n\nThe Big Boy F
+ amily click click!\n\nDJ BODYROLLS & Rexxx\n\n9p - 2\n\nTickets: https://w
+ ww.lonestarsf.com/new-events-1/2026/10/30/bog-boy\nDetails: https://dotheb
+ ay.com/events/2026/10/30/big-boy-tickets\nSource: DoTheBay
+GEO:37.77216749999999;-122.4108778
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35010997/10ab9b65-5697-4f32-9adc-5acdba676e14.jpg
+LAST-MODIFIED:20261019T210249Z
+LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
+ 103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/30/big-boy-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salsa Night with Live Band: Orquesta La Nueva Era - Friday\, Octob
@@ -7279,6 +7266,61 @@ LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/17/el-grupo-de-apoyo-latino-ticket
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slut Puppy
+DTSTART;TZID=America/Los_Angeles:20261218T200000
+DTEND;TZID=America/Los_Angeles:20261218T220000
+DTSTAMP:20261019T210249Z
+UID:dothebay-17818243@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Tuck yourself in then immediately misbehave. Slut Puppy: Pajam
+ a Party is your excuse to come comfy\, cozy\, and ready to play all night 
+ long.\n\nSlip into your cutest\, sluttiest sleepwear—pj shorts\, flannel
+ \, silk robes\, onesies\, pup hoods\, or whatever you’d never wear to be
+ d alone. Cuddle up—or cut loose—in the mosh space\, dive into the ball
+  pit\, and stash your layers at the coat check once things start heating u
+ p.\n\nDitch your usual bedtime routine\, and get tangled up after the ligh
+ ts go off.\n\nCome comfy. Stay late. Leave a little messy.\n\nFor tickets 
+ and more information\, visit: https://www.slut-puppy.com\n\nTickets: https
+ ://www.lonestarsf.com/new-events-1/2026/12/18/slut-puppy\nDetails: https:/
+ /dothebay.com/events/2026/12/18/slut-puppy-tickets\nSource: DoTheBay
+GEO:37.77216749999999;-122.4108778
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34307583/65000e78-dc23-4a50-a59d-ec58342beef4.jpg
+LAST-MODIFIED:20261019T210249Z
+LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
+ 103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/18/slut-puppy-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dancing Ghosts
+DTSTART;TZID=America/Los_Angeles:20261218T213000
+DTEND;TZID=America/Los_Angeles:20261218T233000
+DTSTAMP:20261019T210249Z
+UID:dothebay-17904892@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Join Dancing Ghosts\, SF’s Darkwave Danceparty\n\n►The Fro
+ ntroom - DJs Sage and Xander\n\n►The Backroom – DARKWAVE to DREAMPOP. 
+ DJs Unseelie and Chat Noir will spin 80s/90s shoegaze\, ethereal\, darkwav
+ e and dreampop“brethren” artists!\n\nDJs:\n\nXander (Dancing Ghosts)\n
+ \nSage (Death Guild/Dark Sparkle)\n\nUnseelie (Synthetic)\n\nChat Noir (Cl
+ ub Seance/Dark Sparkle\n\nCat Club SF\n\n1190 Folsom @ 8th St.\n\nSan Fran
+ cisco\n\n$7 before 10 pm\, $10 after\n\nSubscribe to Dancing Ghosts events
+ :\n\n$7\n\nTickets: https://www.sfcatclub.com/calendar/101824-kmymf-n3ncf-
+ hng6c-8kajz-sdlyw-hyzrf-anel3-rmxjz-gzs8r-42lhh-2rrpa-mnbeh-whrhz-cfcya-cz
+ 5kp-dk9y5-rttw6-aem46-5hg3c-zm9dt-t8m9y-4jbj8-fya5k-mxwza\nDetails: https:
+ //dothebay.com/events/2026/12/18/dancing-ghosts-tickets\nSource: DoTheBay
+GEO:37.77541739999999;-122.409985
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34718024/bfd6be78-cb54-41a2-8f7a-e9f85a191061.jpg
+LAST-MODIFIED:20261019T210249Z
+LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/18/dancing-ghosts-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Prince vs. Michael Jackson DJ Party (NoPa)
