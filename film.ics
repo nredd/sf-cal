@@ -1329,9 +1329,9 @@ BEGIN:VEVENT
 SUMMARY:United Nations Association Film Festival | Free Shorts Program
 DTSTART;TZID=America/Los_Angeles:20261018T130000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261019T133046Z
 UID:funcheap-1640852@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Movies
 DESCRIPTION:Submitted by the Event OrganizerStill from THE DREAMING GAME\,
   directed by Jordan Salvatoriello.The 29th United Nations Association Film
@@ -1356,11 +1356,10 @@ DESCRIPTION:Submitted by the Event OrganizerStill from THE DREAMING GAME\,
  F offers an opportunity to see three short documentaries and discover the.
  ..\n\nFree\n\nTickets: https://www.unaff.org/2026/schedule.html\nDetails: 
  https://sf.funcheap.com/united-nations-association-film-festival-free-shor
- ts-program/\nSource: Funcheap SF\n\nAlso listed on:\n- https://www.unaff.o
- rg/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ ts-program/\nSource: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/f_DREA
  MING-GAME.jpg
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261019T133046Z
 LOCATION:Mitchell Park Community Center\, 3700 Middlefield Road\, Palo Alt
  o
 TRANSP:TRANSPARENT
@@ -3433,6 +3432,46 @@ LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
  , CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/the-red-shoes-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Cine+Más Film Festival: “Maxita” USA Premiere
+DTSTART;TZID=America/Los_Angeles:20261031T140000
+DTEND;TZID=America/Los_Angeles:20261031T160000
+DTSTAMP:20261019T133046Z
+UID:funcheap-1641789@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Submitted by the Event OrganizerCredit: Maxita producersCine+M
+ ás SF Latino Film Festival & the San Francisco Public Library present MAX
+ ITA.\nExperience the USA premiere of MAXITA\, a compelling documentary fro
+ m Brazil directed by Mariana Machado and Ana Maria Machado. Through Indige
+ nous perspectives\, environmental struggles\, and spiritual connections to
+  the land\, the film explores the urgent fight to protect the planet and i
+ ts natural resources.\n\nMaxita: Film screening & Panel Discussion\nSaturd
+ ay\, October 31\, 2026 | 2-4p\nKoret Auditorium\, 100 Larkin St.\, SF\nFRE
+ E – RSVP\nDirs. Mariana Machado\, Ana Maria Machado\, Brazil/Belgium\, 2
+ 026\, 70 mins runtime. C0-presented with the San Francisco Public Library\
+ nVisit CineMasSF.org for details on other films screening at the festival.
+ \nThe 18th Cine+Más San Francisco Latino Film Festival brings films from 
+ across the U.S.\, Latin America and Spain to venues throughout San Francis
+ co. This year’s lineup celebrates Latino stories and filmmakers through 
+ documentaries\, dramas\, comedies and films exploring culture\, identity\,
+  family\, migration and community.\nABOUT THE FILM\nMAXITA\nThe shaman Dav
+ i Kopenawa Yanomami\, one of the most important voices of Brazil’s Indig
+ enous peoples\, faces constant threats to his life as he embarks on a jour
+ ney that takes him from the Amazon to the mining industry on the other sid
+ e of the country\, where he reunites with his old friend Ailton Krenak. Th
+ eir encounter sheds light on the ongoing devastation of Brazil’s forests
+ ...\n\nFree\n\nTickets: https://cinemassf2026.eventive.org/schedule/maxita
+ -6ac0484fdb9bd3936b57d8b1\nDetails: https://sf.funcheap.com/free-cinems-fi
+ lm-festival-maxita-usa-premiere-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Maxita
+ _Poster-5350d8068a-poster.jpg
+LAST-MODIFIED:20261019T133046Z
+LOCATION:Koret Auditorium\, 100 Larkin St\, San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-cinems-film-festival-maxita-usa-premiere-
+ sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dance Thrill Fest VI
