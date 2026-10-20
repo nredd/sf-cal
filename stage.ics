@@ -40,64 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SalsaCrazy Mondays — Salsa Classes + Salsa & Bachata Dancing in 
- SF
-DTSTART;TZID=America/Los_Angeles:20261012T183000
-DTEND;TZID=America/Los_Angeles:20261012T203000
-DTSTAMP:20261013T065157Z
-UID:dothebay-17927343@sf-cal
-SEQUENCE:2
-CATEGORIES:Dance
-DESCRIPTION:ALERT - Join us THIS Monday at\n\n21+ with ID. $10 early-bird 
- dancing after 9 PM\; $40 lessons + dancing\; $20 dancing at door.\nDance F
- ridays\, Saturdays\, Mondays and More / SalsaCrazy\n\nDetails: https://dot
- hebay.com/events/2026/10/12/salsacrazy-mondays-salsa-classes-salsa-bachata
- -dancing-in-sf-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.
- funcheap.com/salsacrazy-mondays-beginner-lessons-social-dancing-sf/
-GEO:37.7832175;-122.4637743
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34822531/1949cb64-b183-4a29-9b56-01cebeba5a65.jpg
-LAST-MODIFIED:20261013T065157Z
-LOCATION:Neck of the Woods\, 406 Clement Street\, San Francisco\, CA\, 941
- 18
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/12/salsacrazy-mondays-salsa-classe
- s-salsa-bachata-dancing-in-sf-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bea Arthur: The Documentary
-DTSTART;TZID=America/Los_Angeles:20261012T193000
-DTEND;TZID=America/Los_Angeles:20261012T213000
-DTSTAMP:20261013T065157Z
-UID:dothebay-17757747@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Co-presented by Frameline\n\nThe Bay Area premiere of a new do
- cumentary offering an intimate look at the life and career of Emmy and Ton
- y Award–winning performer Bea Arthur.\n\nThe film is built around a neve
- r‑before‑seen interview with Arthur\, paired with new conversations fr
- om colleagues and friends who worked alongside her throughout her remarkab
- le career. From her early days at The New School\, to her groundbreaking w
- ork in off‑Broadway\, Broadway\, cabaret\, and television\, the document
- ary traces Arthur’s evolution into one of entertainment’s most distinc
- tive voices.\n\nAudiences will revisit her iconic roles as Maude and Dorot
- hy Zbornak on The Golden Girls\, her Tony‑winning turn as Vera Charles i
- n Mame\, and her decades‑long advocacy for the LGBTQ+ community. The fil
- m reveals the Bea Arthur few ever saw: sharp\, compassionate\, fiercely in
- telligent\, and deeply committed to the causes she championed.\n\nA post s
- creening conversation with filmmaker and producer Dan Watt in person.\n\nD
- etails: https://dothebay.com/events/2026/10/12/bea-arthur-the-documentary-
- tickets\nSource: DoTheBay
-GEO:37.7760419;-122.498063
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34024900/aae2ba8c-8e2f-4487-9518-1394a2c381c2.png
-LAST-MODIFIED:20261013T065157Z
-LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/12/bea-arthur-the-documentary-tick
- ets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Conundrum Chronicles StorySlam
 DTSTART;TZID=America/Los_Angeles:20261013T190000
 DTEND;TZID=America/Los_Angeles:20261013T210000
@@ -1524,9 +1466,9 @@ BEGIN:VEVENT
 SUMMARY:GREEN FILM FESTIVAL: Narrative Fiction Shorts
 DTSTART;TZID=America/Los_Angeles:20261019T180000
 DTEND;TZID=America/Los_Angeles:20261019T200000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261020T084210Z
 UID:dothebay-17947940@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Green Film Festival presents:\n\nBIG RHONDA\n\nWhen a burnt ou
  t tech worker chases an influencer’s vision of off-grid freedom\, she in
@@ -1549,12 +1491,11 @@ DESCRIPTION:Green Film Festival presents:\n\nBIG RHONDA\n\nWhen a burnt ou
  lems on its surface.\n\nQ&A with filmmaker expected after the screening.\n
  \nFISH-TWO-FISH\n\nBLUE and RED live trapped in a strange routine wearing 
  only pufferfish hats and underwear. They pass the time on a worn-out couch
- \,...\n\nTickets: https://greenfest2026.eventive.org/live_schedule/6aa42df
- 687f30852901cfba2\nDetails: https://dothebay.com/events/2026/10/19/green-f
- ilm-festival-narrative-fiction-shorts-tickets\nSource: DoTheBay
+ \,...\n\nDetails: https://dothebay.com/events/2026/10/19/green-film-festiv
+ al-narrative-fiction-shorts-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34917172/e95e72bc-6142-4331-86af-843e074d60a7.jpg
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261020T084210Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/19/green-film-festival-narrative-f
@@ -1564,9 +1505,9 @@ BEGIN:VEVENT
 SUMMARY:Mad God
 DTSTART;TZID=America/Los_Angeles:20261019T193000
 DTEND;TZID=America/Los_Angeles:20261019T213000
-DTSTAMP:20261006T001200Z
+DTSTAMP:20261020T084210Z
 UID:dothebay-17884751@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Producer\, writer\, and director Phil Tippett releases this fu
  ll stop-motion animation film that he has been working on for around 30 ye
@@ -1576,13 +1517,12 @@ DESCRIPTION:Producer\, writer\, and director Phil Tippett releases this fu
  s\, several wretched monstrosities that appear like products of a subconsc
  ious mind\, and decrepit bunkers that house many things macabre in this fo
  rbidden world.\n\nThis film can be used with loyalty cards or our 2026 ann
- ual CinemaSFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purc
- hase/19990?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay
- .com/events/2026/10/19/mad-god-tickets\nSource: DoTheBay
+ ual CinemaSFBay passes\n\nDetails: https://dothebay.com/events/2026/10/19/
+ mad-god-tickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34622982/85330f7e-f413-460c-8c37-8f3a70a3562c.jpg
-LAST-MODIFIED:20261006T001200Z
+LAST-MODIFIED:20261020T084210Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/19/mad-god-tickets
@@ -1591,9 +1531,9 @@ BEGIN:VEVENT
 SUMMARY:SF SHORT FILM FESTIVAL: Spontaneous Connections Shorts
 DTSTART;TZID=America/Los_Angeles:20261019T201500
 DTEND;TZID=America/Los_Angeles:20261019T221500
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261020T084210Z
 UID:dothebay-17947939@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:SF Short Film Festival presents:\n\nCALIFORNIA SUITS YOU\n\nA 
  writer\, tasked with interviewing the owner of a store during its grand op
@@ -1616,12 +1556,11 @@ DESCRIPTION:SF Short Film Festival presents:\n\nCALIFORNIA SUITS YOU\n\nA
  humous instructions to release her ex-wife’s ashes\, a reclusive book pu
  blisher embarks on a Surrealist odyssey (a dérive) across New York City\,
   experiencing a series of spontaneous connections along the way that inspi
- re...\n\nTickets: https://sfshorts2026.eventive.org/schedule/6aac194e4f814
- d88464e01fc\nDetails: https://dothebay.com/events/2026/10/19/sf-short-film
- -festival-spontaneous-connections-shorts-tickets\nSource: DoTheBay
+ re...\n\nDetails: https://dothebay.com/events/2026/10/19/sf-short-film-fes
+ tival-spontaneous-connections-shorts-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34917169/65aa6825-eea0-492c-bdb4-1be555f15d2d.jpg
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261020T084210Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/19/sf-short-film-festival-spontane

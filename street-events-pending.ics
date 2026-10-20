@@ -734,4 +734,23 @@ LOCATION:Waverly Pl between Washington St and Clay St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Block Party - De Haro Street Holiday
+DTSTART;TZID=America/Los_Angeles:20261219T140000
+DTEND;TZID=America/Los_Angeles:20261219T220000
+DTSTAMP:20261020T084210Z
+UID:sf-street-events-pending-1613184-2026-12-19T14:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: De Haro St from 23rd St to 24th St\n\nPermit status: A
+ pplication In Review\nTimes are SFMTA street-closure permit times and incl
+ ude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetail
+ s: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pendin
+ g permit)
+GEO:37.753986;-122.400611
+LAST-MODIFIED:20261020T084210Z
+LOCATION:De Haro St between 23rd St and 24th St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR

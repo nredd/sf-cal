@@ -40,30 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Plethora Gaming Night
-DTSTART;TZID=America/Los_Angeles:20261012T193000
-DTEND;TZID=America/Los_Angeles:20261012T213000
-DTSTAMP:20261009T104206Z
-UID:dothebay-17939431@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Plethora invites you to a super fun gaming night at AJ's Bar!\
- n\nIf you are a competitive\, or just into games - this is for you and you
- r adrenaline.\n\nWe select 5 very simple but extremely competitive (and ne
- edless to say\, fun) events on Plethora from creators around the world.\n\
- nYou compete with the bar. The top of the leaderboard wins exciting prizes
- .\nGet supercool sticker packs from Urban Stickers and days passes for Tre
- llis.\n\n21+\n1 drink minimum.\n\nFree\nPlethora (along with Urban Sticker
- s and Trellis)\n\nDetails: https://dothebay.com/events/2026/10/12/plethora
- -gaming-night-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34879935/fe23e79d-c316-44f6-82c3-763d6b474777.jpg
-LAST-MODIFIED:20261009T104206Z
-LOCATION:AJ's Bar\, 1250 Market St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/12/plethora-gaming-night-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dance Outdoors with Rhythm & Motion
 DTSTART;TZID=America/Los_Angeles:20261014T120000
 DTEND;TZID=America/Los_Angeles:20261014T140000
@@ -877,22 +853,6 @@ LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-445/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261019T173000
-DTEND;TZID=America/Los_Angeles:20261019T183000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-99f48b82bd2d99af@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10528\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Dance Fitness Class by Rae Studios
@@ -2071,18 +2031,23 @@ BEGIN:VEVENT
 SUMMARY:Go Ghost Hunting This Halloween with Haunted Haight® Walking Tour
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T084210Z
 UID:dothebay-17917297@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
-DESCRIPTION:$29 (13 years and older recommened)\n\nTickets: https://www.ha
- untedhaight.com\nDetails: https://dothebay.com/events/2026/10/29/go-ghost-
- hunting-this-halloween-with-haunted-haight-walking-tour-tickets\nSource: D
- oTheBay
+DESCRIPTION:We are the ONLY Authentic Ghost Hunting Tour in San Francisco!
+  We are REAL paranormal investigators with actual ghost gear from TV shows
+  we have been part of. No other tour offers our experience or tools. No gi
+ mmicks. No tricks. No fake reviews. Exclusive and private with original re
+ searched Ghost Stories and evidence that you catch yourself! No other tour
+  offers exclusive small private tours like we do!\n\n$29 (13 years and old
+ er recommened)\n\nTickets: https://www.hauntedhaight.com\nDetails: https:/
+ /dothebay.com/events/2026/10/29/go-ghost-hunting-this-halloween-with-haunt
+ ed-haight-walking-tour-tickets\nSource: DoTheBay
 GEO:37.7703879;-122.4451741
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34776918/1bea8222-2ecf-4fe4-a3da-42bac848d018.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261020T084210Z
 LOCATION:Magnolia Gastropub & Brewery\, 1398 Haight Street\, San Francisco
  \, CA\, 94117
 TRANSP:TRANSPARENT

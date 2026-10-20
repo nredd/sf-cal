@@ -41,24 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Jane Warner Plaza 4 Events
-DTSTART;TZID=America/Los_Angeles:20261012T163000
-DTEND;TZID=America/Los_Angeles:20261012T190000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1479162-2026-10-12T16:30:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 17th St from Hartford St to Market St\n\nPermit status
- : Permitted\nTimes are SFMTA street-closure permit times and include setup
-  and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:
- //data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.762611;-122.434625
-LAST-MODIFIED:20261006T193028Z
-LOCATION:17th St between Hartford St and Castro St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Castro Farmers' Market 2026
 DTSTART;TZID=America/Los_Angeles:20261014T130000
 DTEND;TZID=America/Los_Angeles:20261014T200000
@@ -2476,6 +2458,61 @@ DESCRIPTION:Closed: Ellis St from Stockton St to Powell St\n\nPermit statu
 GEO:37.785618;-122.406842
 LAST-MODIFIED:20261018T111813Z
 LOCATION:Ellis St between Powell St and Stockton St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Beach Farmers Market 2026
+DTSTART;TZID=America/Los_Angeles:20261219T060000
+DTEND;TZID=America/Los_Angeles:20261219T150000
+DTSTAMP:20261020T084210Z
+UID:sf-street-events-1429598-2026-12-19T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Greenwich St from Powell St to Via Bufano\; Greenwich 
+ St from Via Bufano to Columbus Ave\n\nPermit status: Permitted\nTimes are 
+ SFMTA street-closure permit times and include setup and teardown\nSource: 
+ DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yy
+ br\nSource: DataSF street closures
+GEO:37.802075;-122.411401
+LAST-MODIFIED:20261020T084210Z
+LOCATION:Greenwich St between Columbus Ave and Powell St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fillmore Farmers' Market 2026
+DTSTART;TZID=America/Los_Angeles:20261219T070000
+DTEND;TZID=America/Los_Angeles:20261219T150000
+DTSTAMP:20261020T084210Z
+UID:sf-street-events-1365558-2026-12-19T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Ofarrell St from Fillmore St to Steiner St\n\nPermit s
+ tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
+ setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
+ ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.783188;-122.433528
+LAST-MODIFIED:20261020T084210Z
+LOCATION:Ofarrell St between Fillmore St and Steiner St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayes Valley Farmers Market
+DTSTART;TZID=America/Los_Angeles:20261219T070000
+DTEND;TZID=America/Los_Angeles:20261219T150000
+DTSTAMP:20261020T084210Z
+UID:sf-street-events-1493851-2026-12-19T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Hayes St from Gough St to Octavia St\n\nPermit status:
+  Permitted\nTimes are SFMTA street-closure permit times and include setup 
+ and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:/
+ /data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.776786;-122.423746
+LAST-MODIFIED:20261020T084210Z
+LOCATION:Hayes St between Octavia St and Gough St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
