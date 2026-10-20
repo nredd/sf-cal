@@ -2978,6 +2978,23 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/20/techno-tuesday-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Midweek Melodies
+DTSTART;TZID=America/Los_Angeles:20261021T160000
+DTEND;TZID=America/Los_Angeles:20261021T190000
+DTSTAMP:20261020T002817Z
+UID:sfrecpark-bandshell-e2ba7720067e3c3b@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Wednesday\, October 2
+ 1 for Midweek Melodies at the Golden Gate Bandshell from 4 pm to 7 pm http
+ s://sfrecpark.org/calendar.aspx?EID=10828\n\nDetails: /common/modules/iCal
+ endar/iCalendar.aspx?feed=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261020T002817Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Music: The Gathering
 DTSTART;TZID=America/Los_Angeles:20261021T180000
 DTEND;TZID=America/Los_Angeles:20261021T200000
@@ -3571,6 +3588,23 @@ LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/polk-live-free-street-festival-art-djs-live-mu
  sic-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Friday Happy Hour
+DTSTART;TZID=America/Los_Angeles:20261023T163000
+DTEND;TZID=America/Los_Angeles:20261023T193000
+DTSTAMP:20261020T002817Z
+UID:sfrecpark-bandshell-a4cff4387a41dca4@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Friday\, October 23 f
+ or Friday Happy Hour from 4:30 pm - 7:30 pm https://sfrecpark.org/calendar
+ .aspx?EID=10829\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=
+ calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261020T002817Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soul Finger
@@ -4240,9 +4274,9 @@ BEGIN:VEVENT
 SUMMARY:Bay Beats Launch Party
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261020T002817Z
 UID:dothebay-17914040@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Bay Beats is rolling out 150 new albums onto our website this 
  fall\, and to celebrate we're throwing our Fourth Annual Launch Party at t
@@ -4262,10 +4296,11 @@ DESCRIPTION:Bay Beats is rolling out 150 new albums onto our website this
  San Francisco Public Library\n\nTickets: https://on.sfpl.org/BayBeats-Laun
  ch26\nDetails: https://dothebay.com/events/2026/10/24/bay-beats-launch-par
  ty-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com
- /sfs-free-golden-gate-park-bay-beats-launch-party-concert-2026/
+ /sfs-free-golden-gate-park-bay-beats-launch-party-concert-2026/\n- /common
+ /modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34760548/eb5ddfcb-6ad9-44c5-a5b9-5705ce8f1a35.jpg
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261020T002817Z
 LOCATION:Golden Gate Park Bandshell in SF\, 75 Hagiwara Tea Garden Drive\,
   San Francisco\, CA\, 94118
 TRANSP:TRANSPARENT
@@ -4912,6 +4947,23 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/napa-5-folk-festival/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Crucial Reggae Sunday
+DTSTART;TZID=America/Los_Angeles:20261025T163000
+DTEND;TZID=America/Los_Angeles:20261025T193000
+DTSTAMP:20261020T002817Z
+UID:sfrecpark-bandshell-67d2d82872bd1493@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Sunday\, October 25 f
+ rom 4:30 pm to 7:30 pm for Crucial Reggae Sunday https://sfrecpark.org/cal
+ endar.aspx?EID=10831\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?
+ feed=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261020T002817Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joy Oladokun
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T200000
@@ -5354,6 +5406,23 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/27/house-not-house-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midweek Melodies
+DTSTART;TZID=America/Los_Angeles:20261028T160000
+DTEND;TZID=America/Los_Angeles:20261028T190000
+DTSTAMP:20261020T002817Z
+UID:sfrecpark-bandshell-8e60b04444a7a0c5@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Wednesday\, October 2
+ 8 from 4 pm to 7 pm for Midweek Melodies https://sfrecpark.org/calendar.as
+ px?EID=10832\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=cal
+ endar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261020T002817Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dj Liquitex
