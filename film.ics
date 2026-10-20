@@ -3469,9 +3469,9 @@ BEGIN:VEVENT
 SUMMARY:Labyrinth
 DTSTART;TZID=America/Los_Angeles:20261031T181500
 DTEND;TZID=America/Los_Angeles:20261031T201500
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17922935@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Labyrinth\, 1986 Directed by Jim Henson\n\nWHERE EVERYTHING SE
  EMS POSSIBLE AND NOTHING IS WHAT IT SEEMS.\n\nWhen teen Sarah is forced to
@@ -3480,14 +3480,45 @@ DESCRIPTION:Labyrinth\, 1986 Directed by Jim Henson\n\nWHERE EVERYTHING SE
  teen hours to solve a labyrinth and rescue him.\n\nTickets: https://ticket
  ing.uswest.veezi.com/purchase/20020?siteToken=d2atbcege5knqsavntt91g1250\n
  Details: https://dothebay.com/events/2026/10/31/labyrinth-tickets-eqqymek\
- nSource: DoTheBay
+ nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/free-labyr
+ inth-1986-screening-sfs-4-star-theater/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34799233/a1f9f344-a985-4d32-8f7b-746c4bc64951.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/labyrinth-tickets-eqqymek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Halloween Horror Screening: “Ththng” at Live Worms
+DTSTART;TZID=America/Los_Angeles:20261031T190000
+DTEND;TZID=America/Los_Angeles:20261031T210000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1642588@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Robbie MartinFind the streets of SF frightful on All Hallows E
+ ve? Grab some snacks\, huddle up and enjoy movie night with us at the Chur
+ ch of Mother Gong. THTHNG: Desolation Unknown is the 1st part of horror tr
+ ilogy homage to one of the greatest horror films of all-time. Clocking in 
+ at 1 hour 20 minutes\, Desolation Unknown is also the world’s first full
+  length ‘film’ created in part with AI technology. Only for mature aud
+ iences due to disturbing imagery and profanity. By Robbie Martin & Kelly P
+ orter\, Music & Sound by Fluorescent Grey.\nThere’s also now a sequel: T
+ HTHNG II\, directed by Martin and written by Martin and Porter. It’s sch
+ eduled to premiere Friday\, November 13\, 2026 at the Center for New Music
+  in San Francisco.\n\nFree\n\nTickets: https://www.eventbrite.com/e/ththng
+ -desolation-unknown-halloween-screening-at-live-worms-tickets-200032733290
+ 0\nDetails: https://sf.funcheap.com/free-halloween-horror-screening-ththng
+ -live-worms-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/01-Ori
+ ginal-Cinema-Feed-2160x2700-1.png
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Live Worms Gallery\, 1345 Grant Ave\, San Francisco\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-halloween-horror-screening-ththng-live-wo
+ rms-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining
@@ -4023,9 +4054,9 @@ BEGIN:VEVENT
 SUMMARY:Two Films. One Manilatown Legacy.
 DTSTART;TZID=America/Los_Angeles:20261107T130000
 DTEND;TZID=America/Los_Angeles:20261107T150000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17914045@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:"Two Films. One Manilatown Legacy." brings two generations of 
  San Francisco's Manilatown and International Hotel history to the big scre
@@ -4050,11 +4081,13 @@ DESCRIPTION:"Two Films. One Manilatown Legacy." brings two generations of
  OMA - Phyllis Wattis Theater\n151 Third Street\, San Franc...\n\nFree\nMan
  ilatown Heritage Foundation\n\nTickets: https://www.manilatown.org/all-eve
  nts/two-films-one-manilatown-legacy\nDetails: https://dothebay.com/events/
- 2026/11/7/two-films-one-manilatown-legacy-tickets\nSource: DoTheBay
+ 2026/11/7/two-films-one-manilatown-legacy-tickets\nSource: DoTheBay\n\nAls
+ o listed on:\n- https://sf.funcheap.com/free-filipino-manilatown-film-doub
+ le-feature-qas-sfmoma/
 GEO:37.7859072;-122.4008003
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34760581/3819352f-b4f1-43ed-a343-2f1b06bcb32e.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:SFMOMA\, 151 Third Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/two-films-one-manilatown-legacy-
@@ -4088,6 +4121,39 @@ LOCATION:The Walt Disney Family Museum\, 104 Montgomery Street\, San Franc
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/talk-making-disney-magic-from-a-
  mermaid-to-moana-with-ron-clements-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free “Wood Street” Film Screening on Oakland’s Unhoused + Q&
+ A (SF Main Library)
+DTSTART;TZID=America/Los_Angeles:20261107T140000
+DTEND;TZID=America/Los_Angeles:20261107T160000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1643321@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Caron CreightonWOOD STREET follows a year in the life of Oakla
+ nd’s largest unhoused encampment as its residents face an imminent evict
+ ion that threatens to dismantle their community. As notices appear and pol
+ ice move in\, residents organize — building barricades\, filing lawsuits
+ \, and protesting at City Hall to fight for their right to stay. Told thro
+ ugh immersive verité\, the film places viewers inside the encampment\, ca
+ pturing the urgency\, resilience\, and emotional toll of collective resist
+ ance. At its center are John and LaMonté\, whose bond is tested as pressu
+ re mounts — LaMonté’s mental health deteriorates while John struggles
+  to remain sober. When the eviction comes\, the community is physically er
+ ased\, but its spirit endures.\nThe film will be followed by a Q&A with th
+ e film team\, members of the Wood Street community and the editor of Stree
+ t Sheet newspaper.\n\nFree\n\nTickets: https://sfpl.org/events/2026/11/07/
+ film-wood-street-post-film-discussion\nDetails: https://sf.funcheap.com/fr
+ ee-wood-street-documentary-screening-community-qa-sf-main-library/\nSource
+ : Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/signal
+ -2026-10-16-15-55-36-563.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:San Francisco Public Library\, 100 Larkin St. San Francisco CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-wood-street-documentary-screening-communi
+ ty-qa-sf-main-library/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Dalai Lama: My Religion is Kindness
@@ -4937,6 +5003,33 @@ URL:https://dothebay.com/events/2026/11/24/the-nightmare-before-christmas-
  tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free “Holiday Light Spectacular” 2026 at Marin County Fairgrou
+ nds (Nov. 27-Jan 3)
+DTSTART;TZID=America/Los_Angeles:20261127T170000
+DTEND;TZID=America/Los_Angeles:20261127T210000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1642885@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Department of Cultural Services\, Marin CountyCome one come al
+ l and experience the Holiday Light Spectacular! People of all ages are wel
+ come to experience enchanting evenings of magical light displays\, dazzlin
+ g pathways\, festive photo ops\, and so much more. As you make your way th
+ rough the lights\, you’ll make unforgettable holiday memories.\n\nFree\n
+ \nTickets: https://www.marincounty.gov/departments/cultural-services/depar
+ tment-sponsored-events/holiday-light-spectacular\nDetails: https://sf.func
+ heap.com/free-holiday-light-spectacular-2026-marin-county-fairgrounds-nov-
+ 27jan-3/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/images
+ -2-4.21.27-PM.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Marin County Fairgrounds\, 10 Avenue of the Flags\, San Rafael CA
+  94903
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-holiday-light-spectacular-2026-marin-coun
+ ty-fairgrounds-nov-27jan-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Johnny Mnemonic: In Black and White
 DTSTART;TZID=America/Los_Angeles:20261127T204000
 DTEND;TZID=America/Los_Angeles:20261127T224000
@@ -5568,6 +5661,41 @@ LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\,
  94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/17/avengers-doomsday-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floating Features: A Christmas Story
+DTSTART;TZID=America/Los_Angeles:20261219T183000
+DTEND;TZID=America/Los_Angeles:20261219T203000
+DTSTAMP:20261020T194441Z
+UID:dothebay-17757310@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Based on the humorous writings of author Jean Shepherd\, this 
+ beloved holiday movie follows the wintry exploits of youngster Ralphie Par
+ ker (Peter Billingsley)\, who spends most of his time dodging a bully (Zac
+ k Ward) and dreaming of his ideal Christmas gift\, a “Red Ryder air rifl
+ e.” Frequently at odds with his cranky dad (Darren McGavin) but comforte
+ d by his doting mother (Melinda Dillon)\, Ralphie struggles to make it to 
+ Christmas Day with his glasses and his hopes intact.\n\nAbout Floating Fea
+ tures\n\nSan Francisco Legacy Businesses Red and White Fleet and The Roxie
+  are partnering to turn the hybrid electric vessel Enhydra into a sailing 
+ cinema for a limited run of nighttime film cruises on the Bay. Join us thi
+ s autumn for a 2-hour twilight cruise and a feature film handpicked by the
+  Roxie. Our electric vessel means no engine noise and a totally unique al 
+ fresco movie experience.\n\nFull schedule available here.\n\nRuntime\n\n1h
+  33m\n\nYear\n\n1983\n\nDirector\n\nBob Clark\n\nFormat\n\nDCP\n\nFirst Sh
+ owing\n\nDecember 19\, 2026\n\nCategories\n\nFloating Features\n\n\,\n\nFe
+ atured\, Floating Features\n\nTickets: https://www.redandwhite.com/floatin
+ g-features\nDetails: https://dothebay.com/events/2026/12/19/floating-featu
+ res-a-christmas-story-tickets\nSource: DoTheBay
+GEO:37.7647103;-122.4224081
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34022746/d3ff83de-c8be-456c-a433-ecf48b4aa6e3.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/floating-features-a-christmas-s
+ tory-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3rd Annual “A Very Purple NYE” w/ Purple Rain And Sign “O”

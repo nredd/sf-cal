@@ -2905,28 +2905,6 @@ URL:https://dothebay.com/events/2026/10/21/bff-fm-presents-karaoke-the-mak
  e-out-room-hosted-by-bff-fm-djs-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:City of The Sun
-DTSTART;TZID=America/Los_Angeles:20261021T200000
-DTEND;TZID=America/Los_Angeles:20261021T220000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17603764@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Another Planet Entertainment Presents\nCity of The Sun\nWednes
- day\, October 21 | ​The Independent\n\nAll Ages\nAnother Planet Entertai
- nment Presents\n\nTickets: https://www.theindependentsf.com/tm-event/city-
- of-the-sun/\nDetails: https://dothebay.com/events/2026/10/21/city-of-the-s
- un-tickets\nSource: DoTheBay
-GEO:37.7755362;-122.4376556
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33291680/bc935d4d-4e18-4904-a4ad-84341b21ad18.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
- 117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/city-of-the-sun-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kylie Cantrall
 DTSTART;TZID=America/Los_Angeles:20261021T200000
 DTEND;TZID=America/Los_Angeles:20261021T220000
@@ -4068,6 +4046,31 @@ URL:https://sf.funcheap.com/golden-gate-park-the-whales-tail-beer-wine-gar
  den-live-music-summer-2026-37/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Celebrate Shotwell” Block Party + Mural Unveiling
+DTSTART;TZID=America/Los_Angeles:20261024T120000
+DTEND;TZID=America/Los_Angeles:20261024T170000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1643400@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Gutter SwanPresented by Mission Merchants Association\, this e
+ vent includes:\n\nGrand Opening of Rice Lyfe!\nLive DJ at Hedge Coffee!\nJ
+ oey the Cat’s Arcade open with music!\nUnveiling of Carlos Flores Jr. Mu
+ ral\nSF Porchfest Stage (mid block) featuring live music by:\n\nGutter Swa
+ n\nThird Thursday\nFast Disaster\nFriday Night Nutz\nIndestructible\n\nFre
+ e\n\nTickets: https://www.facebook.com/events/960033247176880\nDetails: ht
+ tps://sf.funcheap.com/celebrate-shotwell-block-party-mural-unveiling-sf/\n
+ Source: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/shotwe
+ ll_IG_1.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Shotwell Street\, between 18th & 19th Streets\, 434 Shotwell Stre
+ et\, San Francisco\, California
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/celebrate-shotwell-block-party-mural-unveiling
+ -sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bay Beats Launch Party
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
@@ -4941,6 +4944,45 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/dimensions-w-dj-2nite-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sound Baths at Grace Cathedral
+DTSTART;TZID=America/Los_Angeles:20261026T190000
+DTEND;TZID=America/Los_Angeles:20261026T203000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1642899@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event OrganizerOver Power ProductionA Sound B
+ ath Like Nowhere Else in San Francisco\nEnter the soaring architecture of 
+ Grace Cathedral\, where light pours through stained glass and sound rises 
+ skyward\, resonating between the Gothic columns.\n\nOur immersive Sound Ba
+ th invites you into a transcendent sonic world crafted by Fractals of Soun
+ d — a collective of celebrated Bay Area musicians\, Egemen Sanli\, Phoen
+ ix Song\, and Sam Jackson.\nThis is more than a meditation. It is a full-b
+ ody\, vibrational experience — a place to exhale\, reset\, and let sound
+  carry you inward -discover spacious quiet. Settle in with your favorite m
+ ats\, blankets\, and headrests\, cocooned with candlelight and a celestial
+  wash of luminous light\, and rest on our sacred stone.\nLet waves of crys
+ tal bowls\, frame drums\, flute\, overtone singing\, and devotional voice 
+ move through you\, dissolving tension and awakening a grounded sense of pe
+ ace and presence. In this sanctuary where generations have come to reflect
+ \, renew\, and reconnect\, you’re invited to simply be — held by sound
+ \, light\, and community.\nCome curious. Leave transformed.\nReserve your 
+ space in one of San Francisco’s most extraordinary experiences.\nAbout F
+ ractals of Sound\nEgemen Sanli is a modern dervish\, carrying the flag of 
+ his Turkish roots as a musician. He plays the sitar alongside other ethnic
+  instruments (shamisen\, saz\, hang and handpan drums\, banjo\, flutes). H
+ e utilizes beats\, loops\, and tanpura machines to compliment his joyful i
+ mprovi...\n\n$33.00\n\nTickets: https://gracecathedral.org/series/sound-ba
+ ths-at-grace-cathedral/\nDetails: https://sf.funcheap.com/sound-baths-grac
+ e-cathedral/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/202303
+ 27_Sound-Bath.-Web.-Cr.-Over-Power-Production-50.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Grace Cathedral\, 1100 California Street. San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sound-baths-grace-cathedral/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inner Wave
 DTSTART;TZID=America/Los_Angeles:20261026T193000
 DTEND;TZID=America/Los_Angeles:20261026T213000
@@ -5103,20 +5145,20 @@ BEGIN:VEVENT
 SUMMARY:Slow Pulp
 DTSTART;TZID=America/Los_Angeles:20261027T200000
 DTEND;TZID=America/Los_Angeles:20261027T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17344182@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:North American Tour 2026\nSlow Pulp\nTuesday\, October 27 | Th
- e Fillmore\n\nSold out\nNorth American Tour 2026\n\nTickets: https://ticke
- tmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww
- .ticketmaster.com%2Fslow-pulp-san-francisco-california-10-27-2026%2Fevent%
- 2F1C0064A49383A7BE\nDetails: https://dothebay.com/events/2026/10/27/slow-p
- ulp-tickets\nSource: DoTheBay
+DESCRIPTION:North American Tour 2026\nSlow Pulp\nwith Snuggle\n\nTuesday\,
+  October 27 | The Fillmore\n\nSold out\nNorth American Tour 2026\n\nTicket
+ s: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=h
+ ttps%3A%2F%2Fwww.ticketmaster.com%2Fslow-pulp-san-francisco-california-10-
+ 27-2026%2Fevent%2F1C0064A49383A7BE\nDetails: https://dothebay.com/events/2
+ 026/10/27/slow-pulp-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32054368/505477fc-111f-45da-873a-bc35bb0d7d84.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/27/slow-pulp-tickets
@@ -5287,6 +5329,48 @@ URL:https://dothebay.com/events/2026/10/28/aliza-kelly-s-haunted-tea-party
  -the-spooky-season-astrology-tour-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Death By Aria: Haunted Halloween Concert w/ Aerial Spectacle (Grac
+ e Cathedral)
+DTSTART;TZID=America/Los_Angeles:20261028T190000
+DTEND;TZID=America/Los_Angeles:20261028T220000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1642888@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event OrganizerTaste of TalentThis spooky sea
+ son\, we are thrilled to invite you to DEATH BY ARIA\, San Francisco’s l
+ egendary Halloween concert\, taking over Grace Cathedral for the first tim
+ e!\n\nPresented by Taste of Talent\, Red Curtain Addict\, and Grace Cathed
+ ral\, our Halloween tradition returns with extraordinary voices\, Aerial s
+ pectacle\, virtuoso instruments\, and haunting projections\, inspired by t
+ he question: If you had one last thing to sing or perform\, what would it 
+ be?\n\nEnter the haunted cathedral and experience the fatal encounter betw
+ een Carmen and Don José\, the murderous world of Lady Macbeth\, Phantom o
+ f the Opera\, a Moulin Rouge cabaret\, and Piazzolla’s Libertango and La
+  Muerte del Ángel. For an apocalyptic finale\, Interstellar meets the med
+ ieval Dies Irae\, bringing together the thunder of the organ\, live ensemb
+ le\, and an aerial spectacle overhead! Halloween-inspired cocktails\, wine
+ \, and bites are included.\nOur superstar cast features soprano Charlotte 
+ Kelso\, tenors Thomas Kinch and Christopher Oglesby\, oboist and vocalist 
+ Jesse Rex Barrett\, saxophonist Valentin Kovalev\, aerialist and circus st
+ ar Dwoira Galilea Scheffer\, projectionist Mark Johns\, and yours truly at
+  the piano and as Master of Ceremonies – presiding as Gandalf the White!
+ \n\nCast Team\nRonny Michael Greenberg\, Music Director\nJesse Rex Barrett
+ \, Oboist & Vocalist\nValentin Kovalev\, Saxophonist\nEric Silberger\, Vio
+ lin\nDwoira Galilea Scheffer\, Aerialist & Circus Star\nThomas Kinch\, Ten
+ or\nCharlotte...\n\n$75.00\n\nTickets: https://www.eventbrite.com/e/death-
+ by-aria-tickets-2001984221699?aff=oddtdtcreator\nDetails: https://sf.funch
+ eap.com/death-aria-haunted-halloween-concert-aerial-spectacle-grace-cathed
+ ral/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Horizo
+ ntal-1-compress.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Grace Cathedral\, 1100 California Street. San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/death-aria-haunted-halloween-concert-aerial-sp
+ ectacle-grace-cathedral/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phoebe Bridgers
 DTSTART;TZID=America/Los_Angeles:20261028T193000
 DTEND;TZID=America/Los_Angeles:20261028T213000
@@ -5425,20 +5509,20 @@ BEGIN:VEVENT
 SUMMARY:Slow Pulp
 DTSTART;TZID=America/Los_Angeles:20261028T200000
 DTEND;TZID=America/Los_Angeles:20261028T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17576420@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:2nd Show Added!\n\nNorth American Tour 2026\nSlow Pulp\nWednes
- day\, October 28 | ​The Fillmore\n\n$42\nNorth American Tour 2026\n\nTic
- kets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&
- u=https%3A%2F%2Fwww.ticketmaster.com%2Fslow-pulp-san-francisco-california-
- 10-28-2026%2Fevent%2F1C0064E690EF7D86\nDetails: https://dothebay.com/event
- s/2026/10/28/slow-pulp-tickets\nSource: DoTheBay
+DESCRIPTION:2nd Show Added!\nNorth American Tour 2026\nSlow Pulp\nwith Snu
+ ggle\n\nWednesday\, October 28 | ​The Fillmore\n\n$42\nNorth American To
+ ur 2026\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sha
+ redId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fslow-pulp-san-francis
+ co-california-10-28-2026%2Fevent%2F1C0064E690EF7D86\nDetails: https://doth
+ ebay.com/events/2026/10/28/slow-pulp-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33167735/0d7e8ac5-f4f8-4841-aa0d-0b1b23f67428.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/28/slow-pulp-tickets
@@ -5680,19 +5764,21 @@ BEGIN:VEVENT
 SUMMARY:Dilated Peoples
 DTSTART;TZID=America/Los_Angeles:20261029T200000
 DTEND;TZID=America/Los_Angeles:20261029T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17254873@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Dilated Peoples\nThursday\, October 29 | The Fillmore\n\nTicke
- ts: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=
- https%3A%2F%2Fwww.ticketmaster.com%2Fdilated-peoples-san-francisco-califor
- nia-10-29-2026%2Fevent%2F1C00648F95D78073\nDetails: https://dothebay.com/e
- vents/2026/10/29/dilated-peoples-tickets\nSource: DoTheBay
+DESCRIPTION:Celebrating 25 Years of Expansion Team\nDilated Peoples\nwith 
+ Coyote and DJ Skortkut\n\nThursday\, October 29 | The Fillmore\n\nCelebrat
+ ing 25 Years of Expansion Team\n\nTickets: https://ticketmaster.evyy.net/c
+ /253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%
+ 2Fdilated-peoples-san-francisco-california-10-29-2026%2Fevent%2F1C00648F95
+ D78073\nDetails: https://dothebay.com/events/2026/10/29/dilated-peoples-ti
+ ckets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31638987/410da3a7-a3d0-40b4-995b-7299fa19d63a.jpg
-LAST-MODIFIED:20261006T003107Z
+ et/31638987/508e5900-de90-4930-a3a0-554eab0de0c1.jpg
+LAST-MODIFIED:20261020T194441Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/29/dilated-peoples-tickets
@@ -6499,6 +6585,34 @@ LAST-MODIFIED:20261007T210655Z
 LOCATION:Ashkenaz\, 1317 San Pablo Ave.\, Berkeley CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/4th-annual-lord-rings-square-dance-berkeley/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween Carnaval at Peña Pachamama (North Beach)
+DTSTART;TZID=America/Los_Angeles:20261031T200000
+DTEND;TZID=America/Los_Angeles:20261031T223000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1643297@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event OrganizerPeña PachamamaHALLOWEEN CARNA
+ VAL AT PEÑA PACHAMAMA!\nThis Halloween\, step through our doors and into 
+ another world!\n\nDeep in the heart of historic North Beach\, a magical ev
+ ening awaits — exhilarating live world music\, irresistible rhythms\, da
+ ncing\, costumes\, and surprises!\nCome dressed as your most mysterious\, 
+ magnificent\, outrageous\, or enchanting self.\nFeel the music\, join the 
+ dancing\, and celebrate Halloween in a place unlike anywhere else in San F
+ rancisco!\nSaturday\, October 31\nLive Music & Dancing\nCostumes Encourage
+ d\nDelicious Organic Cuisine\nPeña Pachamama | 1630 Powell Street\, San F
+ rancisco\nReservations: www.penapachamama.com\n#HalloweenSanFrancisco #Hal
+ loweenCarnaval #NorthBeachSF #PeñaPachamama #SFNightlife #LiveMusicSF\n\n
+ $18.00\n\nTickets: https://penapachamama.com/\nDetails: https://sf.funchea
+ p.com/halloween-carnaval-pea-pachamama-north-beach/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Hallow
+ een-2026.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Peña Pachamama\, 1630 Powell Street\, San Francisco\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/halloween-carnaval-pea-pachamama-north-beach/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christian Löffler
@@ -7384,6 +7498,45 @@ LOCATION:The Regency Ballroom\, 1290 Sutter Street\, San Francisco\, CA\,
  94109
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/lucy-bedroque-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steven Universe in Concert at Grace Cathedral
+DTSTART;TZID=America/Los_Angeles:20261106T190000
+DTEND;TZID=America/Los_Angeles:20261106T210000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1642892@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event OrganizerKirstin TanJoin us for a magic
+ al evening of music from Steven Universe. For the first time ever\, Sixth 
+ Station Trio will be collaborating with the composers of Steven Universe\,
+  Aivi & Surasshu\, in a full program featuring all of your favorite tunes 
+ from the show! Indulge in nostalgic songs from the beloved TV show arrange
+ d for violin\, cello\, two pianos\, AND chiptune! Whether you’re a gem o
+ r a human\, come join us for an unforgettable night where we transport you
+  to Beach City and bring to life your favorite crystal gem adventures!\nAb
+ out the Sixth Station Trio\nAnju Goto is a San Francisco-native violinist 
+ and violist based in the Bay Area. He also works as an arranger for the tr
+ io. He started violin at the age of 7\, and completed his undergraduate de
+ gree at the San Francisco Conservatory of Music in 2020. Anju is currently
+  the principal violist of the Vallejo Symphony. He has also played in orch
+ estras including the Jacob Collier Audience Symphony Orchestra\, Stardew V
+ alley Symphony of Seasons Orchestra\, Modesto Symphony Orchestra\, Ensembl
+ e Mik Nawooj\, and The Berkeley Playhouse\, and has participated as an Eme
+ rging Artist at the Mendocino Music Festival. Anju was a member of the San
+  Francisco Youth Orchestra from 2015 to 2020\, serving as the principal vi
+ olist during the 2019-2020 season. Besides classical music\, he is also in
+ terested in a wide variety of genres\, such as Baroque performance with pe
+ riod instruments\, taking Technology and Applied Comp...\n\n$25.00\n\nTick
+ ets: https://gracecathedral.vbotickets.com/event/Sixth_Station_Trio_Steven
+ _Universe_in_Concert_Featuring_Aivi_Surasshu/207891\nDetails: https://sf.f
+ uncheap.com/steven-universe-concert-grace-cathedral/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/steven
+ -universe.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Grace Cathedral\, 1100 California Street. San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/steven-universe-concert-grace-cathedral/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bahamas
@@ -14251,29 +14404,6 @@ URL:https://dothebay.com/events/2026/12/18/death-angel-another-11th-annual
  -death-angel-xmas-show-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Two Gallants
-DTSTART;TZID=America/Los_Angeles:20261218T200000
-DTEND;TZID=America/Los_Angeles:20261218T220000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17966169@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Fri\n\nday December 18\n2026\n\n8:00PM\n\ndoors\n\n-- music at
-  8\n\n:30PM\n\n21 AND OVER\n\n$\n\n20\n\nin\nadvance\n\n/\n$25\n\nat the d
- oor\n\n$25.34 in advance [20 face value +5.34 service fee]\n\nTwo Gallants
- \n\nrock\, blues\, folk\n\nTBA\n\nxxx\n\nTBA\n\nxxx\n\n21+\nSold out\n\nTi
- ckets: http://www.bottomofthehill.com/20261218.html\nDetails: https://doth
- ebay.com/events/2026/12/18/two-gallants-tickets\nSource: DoTheBay
-GEO:37.7649597;-122.3964408
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35006891/fc454c14-bfc7-4bcf-bd17-383b7ee98ceb.jpg
-LAST-MODIFIED:20261019T210249Z
-LOCATION:Bottom Of The Hill\, 1233 17th Street\, San Francisco\, CA\, 9410
- 7
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/12/18/two-gallants-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Petey Usa
 DTSTART;TZID=America/Los_Angeles:20261218T210000
 DTEND;TZID=America/Los_Angeles:20261218T230000
@@ -14327,6 +14457,125 @@ LOCATION:Hamilton Amphitheater\, 500-598 Hamilton Pkwy\, Novato\, CAFnova
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-5th-annual-holiday-caroling-cider-treats-
  novato/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Archuleta
+DTSTART;TZID=America/Los_Angeles:20261219T190000
+DTEND;TZID=America/Los_Angeles:20261219T210000
+DTSTAMP:20261020T194441Z
+UID:dothebay-17687912@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Another Planet Entertainment Presents\nThe Warm Me Up Holiday 
+ Tour\nDavid Archuleta\nSaturday\, December 19 | The Castro\n\nSince first 
+ stepping into the pop spotlight at age 17\, Miami-born singer/songwriter D
+ avid Archuleta has embodied the kind of genuine star power that can’t be
+  manufactured. After years of dazzling audiences with his radiant personal
+ ity and phenomenal voice\; a journey that’s included turning out multipl
+ e platinum-selling hits\, achieving global acclaim\, and emerging as an un
+ deniable fixture in pop-culture.\n\nAs witnessed on his Earthly Delights E
+ P and headlining tour throughout 2025\, the collection of works included t
+ he worldwide hit single\,“Crème Brulée\,” that has surpassed over 8 
+ million streams\, “Dulce Amore” & “Can I Call You\,”David continue
+ s to share new sides of himself. He shares\, “I’m in my indulgence mod
+ e when it comes to giving into my sensuality. Something I always villainiz
+ ed before. There’s something sweet about being naughty. And it’s actua
+ lly helped me to get in touch with more tender vulnerable parts of myself.
+  So Earthly Delights took in the pleasures of what I always thought would 
+ keep me out of heaven.”\n\nHis latest triumphs include…winning the 202
+ 4 GLAAD Media Award for Outstanding Breakthrough Music Artist\, being hono
+ red by the HRC/Human Rights Campaign in 2025 with their prestigious VISIBI
+ LITY AWARD\, being nominated for two Queerty Awards in 2025 and 2026 for h
+ is music achievements (“Hell Together” and “Crème Brulée”) and i
+ nking a book deal fo...\n\nAll Ages\nAnother Planet Entertainment Presents
+ : The Warm Me Up Holiday Tour\nListed time is doors\n\nTickets: https://th
+ ecastro.com/events/david-archuleta-261219\nDetails: https://dothebay.com/e
+ vents/2026/12/19/david-archuleta-tickets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33685448/0a6836da-274c-4ae0-baeb-249cb2e8db94.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/david-archuleta-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allman Betts Family Revival
+DTSTART;TZID=America/Los_Angeles:20261219T193000
+DTEND;TZID=America/Los_Angeles:20261219T213000
+DTSTAMP:20261020T194441Z
+UID:dothebay-17742735@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 6:30pm / Show 7:30
+ pm\n\nA DECADE OF REVIVAL\n\nTickets: https://ticketmaster.evyy.net/c/2531
+ 85/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fall
+ man-betts-family-revival-a-decade-san-francisco-california-12-19-2026%2Fev
+ ent%2F1C00650AA46AAECE\nDetails: https://dothebay.com/events/2026/12/19/al
+ lman-betts-family-revival-a-decade-of-revival-tickets\nSource: DoTheBay
+GEO:37.7840042;-122.4331332
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33952409/7c1b383f-10fb-42b6-a43b-00ff6f2887c9.png
+LAST-MODIFIED:20261020T194441Z
+LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/allman-betts-family-revival-a-d
+ ecade-of-revival-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shaun Cassidy - UNWRAPPED: Songs & Stories For The Holidays
+DTSTART;TZID=America/Los_Angeles:20261219T200000
+DTEND;TZID=America/Los_Angeles:20261219T220000
+DTSTAMP:20261020T194441Z
+UID:dothebay-17643894@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:21+ ONLY. Please note - there is a delivery delay set for 2 we
+ eks prior to show.Shaun Cassidy VIP Q&A Experience includes: One premium G
+ A seat Early entry into the venueIntimate pre-show group Q&A led by Shaun 
+ CassidyIntimate group photo in front of the stage with Shaun CassidyExclus
+ ive Shaun Cassidy Unwrapped VIP merchandise bundleOfficial Shaun Cassidy V
+ IP laminate & lanyardLimited availability\n\nTickets: https://ticketmaster
+ .evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticket
+ web.com%2Fevent%2Fshaun-cassidy-unwrapped-bimbos-365-club-tickets%2F142712
+ 24\nDetails: https://dothebay.com/events/2026/12/19/shaun-cassidy-unwrappe
+ d-songs-stories-for-the-holidays-tickets\nSource: DoTheBay
+GEO:37.8036989;-122.4156675
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33487281/4f90a7d4-4fff-4e7d-86f3-27291e9a6299.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/shaun-cassidy-unwrapped-songs-s
+ tories-for-the-holidays-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Takuya Nakamura
+DTSTART;TZID=America/Los_Angeles:20261219T200000
+DTEND;TZID=America/Los_Angeles:20261219T220000
+DTSTAMP:20261020T194441Z
+UID:dothebay-17823485@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:If tickets in the accessible section are unavailable\, please 
+ reach out to the venue for accommodations. Please note\, orders in violati
+ on of the published ticket limit are subject to cancellation without notic
+ e. Ticket prices may fluctuate\, at any time\, based on demand. IMPORTANT 
+ INFORMATION\, PLEASE READ BEFORE PURCHASING: THIS EVENT IS 18+ A VALID\, P
+ HYSICAL GOVERNMENT-ISSUED PHOTO ID IS REQUIRED FOR ENTRY WHERE APPLICABLE 
+ AND FOR THE PURCHASE OF ALCOHOL. SCHOOL IDS\, EXPIRED IDS\, PHOTOS OR PHOT
+ OCOPIES OF IDS\, AND DIGITAL IDS WILL NOT BE ACCEPTED FOR EVENT ENTRY OR A
+ LCOHOL PURCHASES.\n\n18+\nGoldenvoice Presents\n\nTickets: https://shop.ax
+ s.com/?c=axs&e=30567424546803755\nDetails: https://dothebay.com/events/202
+ 6/12/19/takuya-nakamura-tickets\nSource: DoTheBay
+GEO:37.7879104;-122.4215079
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34333642/16bde7e5-1227-40cd-aa6f-662f4dee75ec.png
+LAST-MODIFIED:20261020T194441Z
+LOCATION:The Regency Ballroom\, 1290 Sutter Street\, San Francisco\, CA\, 
+ 94109
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/takuya-nakamura-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Win Tix: Slipknot (sic)est Tour at Golden Gate Park

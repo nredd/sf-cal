@@ -1744,17 +1744,19 @@ BEGIN:VEVENT
 SUMMARY:Its Up For Debate
 DTSTART;TZID=America/Los_Angeles:20261021T193000
 DTEND;TZID=America/Los_Angeles:20261021T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17731713@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Tickets: https://us.atgtickets.com/events/bsf-spamalot-2026/\n
  Details: https://dothebay.com/events/2026/10/21/its-up-for-debate-tickets\
- nSource: DoTheBay
+ nSource: DoTheBay\n\nAlso listed on:\n- https://missionlocal.org/event/vic
+ toria-theatre-the-empire-strips-back-a-burlesque-parody/2026-10-21/?utm_so
+ urce=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 GEO:37.7825715;-122.4110742
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33929171/e9a7d0ba-ffa8-41de-88e8-653a76129a59.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/21/its-up-for-debate-tickets
@@ -2009,9 +2011,9 @@ BEGIN:VEVENT
 SUMMARY:Betrayal
 DTSTART;TZID=America/Los_Angeles:20261022T193000
 DTEND;TZID=America/Los_Angeles:20261022T213000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261020T194441Z
 UID:funcheap-1637555@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theater Performance
 DESCRIPTION:Submitted by the Event OrganizerMarin TheatreBy Harold Pinter\
  nDirected by Carey Perloff\nThe end is the beginning. Moving backwards and
@@ -2027,10 +2029,12 @@ DESCRIPTION:Submitted by the Event OrganizerMarin TheatreBy Harold Pinter\
  d Waste\, A.C.T. Artistic Director Emerita Carey Perloff returns to Marin 
  Theatre to direct.\n\n$39.00\n\nTickets: https://eventvesta.com/events/159
  825/t/tickets\nDetails: https://sf.funcheap.com/betrayal/\nSource: Funchea
- p SF
+ p SF\n\nAlso listed on:\n- https://missionlocal.org/event/victoria-theatre
+ -the-empire-strips-back-a-burlesque-parody/2026-10-22/?utm_source=caldisco
+ very&utm_medium=ics&utm_campaign=san-francisco-ca
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Screen
  shot-2026-09-18-200839.png
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:Marin Theatre\, 397 Miller Avenue Mill Valley\, CA 94941-2885
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/betrayal/
@@ -3415,9 +3419,9 @@ BEGIN:VEVENT
 SUMMARY:Labyrinth
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T120000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17893631@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:David Bowie and Jennifer Connelly invite you into a magical un
  iverse where nothing is what it seems! Babysitting infant stepbrother Toby
@@ -3436,10 +3440,12 @@ DESCRIPTION:David Bowie and Jennifer Connelly invite you into a magical un
   office opens thirty minutes before the screening on the day of the show. 
  We look forward to seeing you at the movies!\n\nTickets: https://www.4-sta
  r-movies.com/calendar-of-events/labyrinth-sat\nDetails: https://dothebay.c
- om/events/2026/10/31/labyrinth-tickets\nSource: DoTheBay
+ om/events/2026/10/31/labyrinth-tickets\nSource: DoTheBay\n\nAlso listed on
+ :\n- https://sf.funcheap.com/free-labyrinth-1986-screening-sfs-4-star-thea
+ ter/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34665038/3513f85e-0ae0-4afb-933f-7397350004b9.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/labyrinth-tickets
@@ -3693,6 +3699,33 @@ LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/4/live-music-green-house-cool-mari
  time-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Reception: From Street to Stage with Beaver Bauer
+DTSTART;TZID=America/Los_Angeles:20261105T170000
+DTEND;TZID=America/Los_Angeles:20261105T193000
+DTSTAMP:20261020T194441Z
+UID:funcheap-1643308@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Photographer Unknown\, Beaver Bauer costumes for Follies\, pro
+ duced by American Musical Theater – San Jose\, 1997.Celebrate the creati
+ ve work of Bay Area costume designer and artist\, Debra “Beaver” Bauer
+ \, at the opening reception of From Street to Stage with Beaver Bauer. Sho
+ wcasing a career that spans over 50 years\, the exhibition includes origin
+ al renderings\, performance photography\, video clips and elements from co
+ stumes drawn from her expansive work.\nLight snacks and beverages will be 
+ served. Learn more: sfpl.org/exhibits/2026/11/05/street-stage-beaver-bauer
+ \n\nFree\n\nTickets: https://sfpl.org/events/2026/11/05/social-street-stag
+ e-beaver-bauer\nDetails: https://sf.funcheap.com/opening-reception-street-
+ stage-beaver-bauer/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/img009
+ _8x10.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:San Francisco Public Library\, Main Library\, Jewett Gallery - Lo
+ wer Level\, 100 Larkin Street\, San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/opening-reception-street-stage-beaver-bauer/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
@@ -4347,9 +4380,9 @@ BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T210000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17930751@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
  . Two years have passed since then\, and the country has faced agonizing s
@@ -4360,13 +4393,14 @@ DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
  ur 2026 annual CinemaSFBay passes\n\nTickets: https://ticketing.uswest.vee
  zi.com/purchase/20103?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https
  ://dothebay.com/events/2026/11/12/godzilla-minus-zero-tickets\nSource: DoT
- heBay\n\nAlso listed on:\n- https://www.indybay.org/newsitems/2026/08/24/1
- 8888179.php?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franci
- sco-ca
+ heBay\n\nAlso listed on:\n- https://sf.funcheap.com/29th-anniversary-san-f
+ rancisco-transgender-film-festival-nov-1214/\n- https://www.indybay.org/ne
+ wsitems/2026/08/24/18888179.php?utm_source=caldiscovery&utm_medium=ics&utm
+ _campaign=san-francisco-ca
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34838685/a159c363-f909-4b3c-aa22-46b6e58166f8.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/12/godzilla-minus-zero-tickets
@@ -5776,26 +5810,26 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/2/the-carpenter-s-songbook-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pattie Gonia feat. Sequoia & VERA
+SUMMARY:Pattie Gonia feat. VERA! & Sequoia
 DTSTART;TZID=America/Los_Angeles:20261203T200000
 DTEND;TZID=America/Los_Angeles:20261203T220000
-DTSTAMP:20261019T210249Z
+DTSTAMP:20261020T194441Z
 UID:dothebay-17133597@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Pattie Gonia: SAVE HER!\nfeaturing Sequoia & VERA\n\nThursday\
- , December 3 | The Fillmore\n\nPattie Gonia is a critically acclaimed drag
-  queen\, environmentalist and advocate for inclusivity and diversity in th
- e outdoors.\n\n$71 - $182\nSAVE HER!\n\nTickets: https://ticketmaster.evyy
- .net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaste
- r.com%2Fpattie-gonia-save-her-feat-sequoia-san-francisco-california-12-03-
- 2026%2Fevent%2F1C0064733BB5E74D\nDetails: https://dothebay.com/events/2026
- /12/3/pattie-gonia-save-her-feat-sequoia-and-vera-tickets\nSource: DoTheBa
- y
+DESCRIPTION:Pattie Gonia: SAVE HER!\nfeaturing VERA! & Sequoia\n\nThursday
+ \, December 3 | The Fillmore\n\nPattie Gonia is a critically acclaimed dra
+ g queen\, environmentalist and advocate for inclusivity and diversity in t
+ he outdoors.\n\n$71 - $182\nSAVE HER!\n\nTickets: https://ticketmaster.evy
+ y.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmast
+ er.com%2Fpattie-gonia-save-her-feat-sequoia-san-francisco-california-12-03
+ -2026%2Fevent%2F1C0064733BB5E74D\nDetails: https://dothebay.com/events/202
+ 6/12/3/pattie-gonia-save-her-feat-sequoia-and-vera-tickets\nSource: DoTheB
+ ay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31073914/dad73839-e64e-42c3-ba44-7a09d4a4d0d7.png
-LAST-MODIFIED:20261019T210249Z
+LAST-MODIFIED:20261020T194441Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/3/pattie-gonia-save-her-feat-sequo
@@ -6661,6 +6695,25 @@ LAST-MODIFIED:20261019T210249Z
 LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/18/elf-the-musical-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf The Musical
+DTSTART;TZID=America/Los_Angeles:20261219T193000
+DTEND;TZID=America/Los_Angeles:20261219T213000
+DTSTAMP:20261020T194441Z
+UID:dothebay-16354642@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Tickets: https://www.broadwaysf.com/events/elf-the-musical/\nD
+ etails: https://dothebay.com/events/2026/12/19/elf-the-musical-tickets\nSo
+ urce: DoTheBay
+GEO:37.7825715;-122.4110742
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/27341370/8721250c-1d5d-43ca-a574-bdacfeeeacf9.jpg
+LAST-MODIFIED:20261020T194441Z
+LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/elf-the-musical-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Lift Every Voice” Free MLK Day Gospel/Blues Concert at SF’s
