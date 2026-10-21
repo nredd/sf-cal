@@ -40,33 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Franks Cabaret: A Good Ships Fundraiser
-DTSTART;TZID=America/Los_Angeles:20261013T200000
-DTEND;TZID=America/Los_Angeles:20261013T230000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639831@sf-cal
-SEQUENCE:0
-CATEGORIES:Theater Performance
-DESCRIPTION:Submitted by the Event Organizer@goodships.sfCalling all uncon
- ventional conventionalists\, Frank n Furter cordially invites you to his c
- abaret! Frank has decided to dabble in directing so what better chance to 
- throw a party in his honor. Join us as for a night of spooky performances\
- , including drag and live singing\, by a host of Transylvanians interspers
- ed with the moments from Rocky Horror that you know and love. There will b
- e drinks\, dancing\, and maybe a death or two if you’re naughty enough. 
- Presented by Good Ships\, a new theater company. All proceeds go to gettin
- g us a theater space – your attendance means the world to us.\nFor more 
- information\, check out our Partiful\n\n$10.00\n\nTickets: https://partifu
- l.com/e/FJDxmIr7TAZ6o7XEBBVo?c=EMmxK3QV\nDetails: https://sf.funcheap.com/
- franks-cabaret-good-ships-fundraiser/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/final-
- insta-2.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Irelands\, 3920 Geary Blvd
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/franks-cabaret-good-ships-fundraiser/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOGCUTTER FILM SERIES: VOLUME 26 - The Buddy Holly Story
 DTSTART;TZID=America/Los_Angeles:20261014T180000
 DTEND;TZID=America/Los_Angeles:20261014T200000
@@ -1485,9 +1458,9 @@ BEGIN:VEVENT
 SUMMARY:GREEN FILM FESTIVAL: Harvest
 DTSTART;TZID=America/Los_Angeles:20261020T180000
 DTEND;TZID=America/Los_Angeles:20261020T200000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261021T115902Z
 UID:dothebay-17947938@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Green Film Festival presents:\n\nHARVEST\n\nSondheimer\, Louis
  iana. Population: 200. Tucked into the northeastern corner of the state\, 
@@ -1510,12 +1483,11 @@ DESCRIPTION:Green Film Festival presents:\n\nHARVEST\n\nSondheimer\, Louis
   filmmaker expected after the screening.\n\nCo-presented by SFFILM.\n\nFor
  get the guilt trip\, the Green Film Festival of San Francisco\, the mischi
  evous\, tree-hugging cousin of the 29 year old SF IndieFest\, returns Oct 
- 1...\n\nTickets: https://greenfest2026.eventive.org/live_schedule/6aa42ee9
- fbc292787361136a\nDetails: https://dothebay.com/events/2026/10/20/green-fi
- lm-festival-harvest-tickets\nSource: DoTheBay
+ 1...\n\nDetails: https://dothebay.com/events/2026/10/20/green-film-festiva
+ l-harvest-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34917154/3495c063-7f10-47df-ab2a-29938895fdab.jpg
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261021T115902Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/20/green-film-festival-harvest-tic
@@ -1525,9 +1497,9 @@ BEGIN:VEVENT
 SUMMARY:Tether After Dark
 DTSTART;TZID=America/Los_Angeles:20261020T190000
 DTEND;TZID=America/Los_Angeles:20261020T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261021T115902Z
 UID:dothebay-17897905@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Dance
 DESCRIPTION:Get ready for Tether After Dark!\n\nTether takes over OASIS fo
  r a ONE NIGHT ONLY evening of Halloween burlesque benefiting Tether’s 
@@ -1538,14 +1510,12 @@ DESCRIPTION:Get ready for Tether After Dark!\n\nTether takes over OASIS fo
   choreographers in Flux & Form II.\n\nTuesday\, October 20 at OASIS SF. Do
  ors at 6 PM\, show at 7 PM. 21+ | $35 advance / $45 door.\nBring your frie
  nds\, dress up for spooky season\, and join us for Tether After Dark.\n\n$
- 35 Advance\, $45 Door\nTether Dance Project presents\n\nTickets: https://c
- onsumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ftether-afte
- r-dark-tickets-2001713696551\nDetails: https://dothebay.com/events/2026/10
- /20/tether-after-dark-tickets\nSource: DoTheBay
+ 35 Advance\, $45 Door\nTether Dance Project presents\n\nDetails: https://d
+ othebay.com/events/2026/10/20/tether-after-dark-tickets\nSource: DoTheBay
 GEO:37.7719465;-122.4144729
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34686571/53383e30-0d88-4c70-84ee-8a01cef9349a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261021T115902Z
 LOCATION:OASIS\, 298 11th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/20/tether-after-dark-tickets
@@ -1554,9 +1524,9 @@ BEGIN:VEVENT
 SUMMARY:SF SHORT FILM FESTIVAL: Spine-tingling Shorts
 DTSTART;TZID=America/Los_Angeles:20261020T201500
 DTEND;TZID=America/Los_Angeles:20261020T221500
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261021T115902Z
 UID:dothebay-17947937@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:SF Short Film Festival presents:\n\nKEEPSAKE\n\nWhen Lily’s 
  husband transports them back into their happiest memory together\, she mus
@@ -1579,12 +1549,11 @@ DESCRIPTION:SF Short Film Festival presents:\n\nKEEPSAKE\n\nWhen Lily’s
  ivers a sharp satire on humanity’s illusion of progress trapped in an un
  changing cycle of destruction.\n\nI WILL COME TO YOU\n\nOrphaned as a baby
  \, Julian grows up in a Catholic boys’ home. As he uncovers his family
- ’...\n\nTickets: https://sfshorts2026.eventive.org/schedule/6aac189999c5
- 1a7a44faa89b\nDetails: https://dothebay.com/events/2026/10/20/sf-short-fil
- m-festival-spine-tingling-shorts-tickets\nSource: DoTheBay
+ ’...\n\nDetails: https://dothebay.com/events/2026/10/20/sf-short-film-fe
+ stival-spine-tingling-shorts-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34917152/deca68ce-a520-4791-9107-7b47cc900d39.jpg
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261021T115902Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/20/sf-short-film-festival-spine-ti

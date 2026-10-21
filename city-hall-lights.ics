@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: green/teal/pink
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20261006T193603Z
-UID:city-hall-lights-ics-23443fc805e784a3@sf-cal
-SEQUENCE:0
-DESCRIPTION:Metastatic Breast Cancer Awareness Day\n\nDetails: https://www
- .sf.gov/location--san-francisco-city-hall\nSource: SF City Hall lighting (
- via Robelius/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261006T193603Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: pink/blue
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
