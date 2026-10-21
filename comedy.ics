@@ -40,69 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Vidura Bandara Rajapaksa
-DTSTART;TZID=America/Los_Angeles:20261013T193000
-DTEND;TZID=America/Los_Angeles:20261013T213000
-DTSTAMP:20261014T120158Z
-UID:dothebay-17219387@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:The Paradise Gothic Tour\nVidura Bandara Rajapaksa\nTuesday\, 
- October 13 | Cobb's Comedy Club\n\n18+\nSold out\nThe Paradise Gothic Tour
- \n\nDetails: https://dothebay.com/events/2026/10/13/vidura-bandara-rajapak
- sa-the-paradise-gothic-tour-tickets\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31476579/58aa726e-aec9-4350-9ce6-3bf8cf6070a4.png
-LAST-MODIFIED:20261014T120158Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/13/vidura-bandara-rajapaksa-the-pa
- radise-gothic-tour-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comedy Allstars
-DTSTART;TZID=America/Los_Angeles:20261013T193000
-DTEND;TZID=America/Los_Angeles:20261013T213000
-DTSTAMP:20261014T120158Z
-UID:dothebay-17581244@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Comedy Allstars\nTuesday\, October 13 | Punch Line San Francis
- co\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/13/comedy-allsta
- rs-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33196065/a4b5f3dc-bc6b-4fb0-a146-fdf6aad7e09e.png
-LAST-MODIFIED:20261014T120158Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/13/comedy-allstars-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vidura Bandara Rajapaksa
-DTSTART;TZID=America/Los_Angeles:20261013T211500
-DTEND;TZID=America/Los_Angeles:20261013T231500
-DTSTAMP:20261014T120158Z
-UID:dothebay-17742656@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:The Paradise Gothic Tour\nVidura Bandara Rajapaksa\nTuesday\, 
- October 13 | Cobb's Comedy Club\n\n18+\nThe Paradise Gothic Tour\n\nDetail
- s: https://dothebay.com/events/2026/10/13/vidura-bandara-rajapaksa\nSource
- : DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33951722/c5a9d055-3515-4cfe-b2e4-92e4ccf337f4.png
-LAST-MODIFIED:20261014T120158Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/13/vidura-bandara-rajapaksa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daniela Mora
 DTSTART;TZID=America/Los_Angeles:20261014T193000
 DTEND;TZID=America/Los_Angeles:20261014T213000
