@@ -7543,9 +7543,9 @@ BEGIN:VEVENT
 SUMMARY:Día de los Muertos
 DTSTART;TZID=America/Los_Angeles:20261107T150000
 DTEND;TZID=America/Los_Angeles:20261107T170000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261021T171908Z
 UID:dothebay-17183882@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Día de los Muertos\nSaturday\, November 7 | Davies Symphony H
  all\n\nJoin us for a celebration of Latin American music and culture inclu
@@ -7570,11 +7570,12 @@ DESCRIPTION:Día de los Muertos\nSaturday\, November 7 | Davies Symphony H
  g us across centuries and continents and exploring what Mexican and Latin.
  ..\n\nTickets: https://sfsymphony.org/Buy-Tickets/2026-27/Dia-de-los-Muert
  os\nDetails: https://dothebay.com/events/2026/11/7/dia-de-los-muertos-tick
- ets\nSource: DoTheBay
+ ets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/dia-de
+ -los-muertos-concert-sf-symphony/
 GEO:37.7782755;-122.4198453
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31307778/9f002c41-a6e0-4e29-8128-ede00f38f801.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261021T171908Z
 LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -7717,19 +7718,39 @@ BEGIN:VEVENT
 SUMMARY:Big Star Quintet
 DTSTART;TZID=America/Los_Angeles:20261107T200000
 DTEND;TZID=America/Los_Angeles:20261107T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261021T171908Z
 UID:dothebay-17696959@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Big Star Quintet\nSaturday\, November 7 | The Fillmore\n\nTick
- ets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u
- =https%3A%2F%2Fwww.ticketmaster.com%2Fbig-star-quintet-san-francisco-calif
- ornia-11-07-2026%2Fevent%2F1C0064FDD0AC3682\nDetails: https://dothebay.com
- /events/2026/11/7/big-star-quintet-tickets\nSource: DoTheBay
+DESCRIPTION:The Big Star Quintet\nSaturday\, November 7 | The Fillmore\n\n
+ After many years celebrating the music of Big Star via the collective know
+ n as Big Star’s Third\, Jody Stephens (the last surviving member of the 
+ original Big Star lineup) had an idea.\n\n“I truly loved touring the wor
+ ld and performing Big Star’s Third with a core group\, a variety of spec
+ ial guests\, and a chamber orchestra playing the beautiful orchestrations 
+ created by Carl Marsh and Chris Stamey. But when the idea of celebrating t
+ he 50th anniversary of #1 Record came up\, it was time to pare the product
+ ion down to a five-piece rock band. So I called a few close and like-spiri
+ ted musical friends.”\n\nEnter some of the legendary group’s biggest f
+ ans\, who have long been associated with Big Star and related projects. Th
+ e band now includes Mike Mills (R.E.M.)\, Jon Auer (The Posies)\, Pat Sans
+ one (Wilco)\, Chris Stamey (The dB's) and Stephens. Dubbing themselves the
+  Big Star Quintet\, it’s a lineup that is both personal and close in spi
+ rit to #1 Record and Radio City.\n\nWhen the newly-minted Quintet gathered
+  at R.E.M.’s rehearsal spot in November of 2022 to commune with the musi
+ c and workshop as a five-piece for the first time\, none of them could hav
+ e foreseen the rapturous receptions they would receive over the next few y
+ ears: sold-out shows in the US\, playing abroad (including two tours of Sp
+ ain)\, both #1 Record and Radio City 50th-anniversary tours\, and stellar 
+ reviews of their live shows in Uncut\, The San Francisco Gate\, and bey...
+ \n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=D
+ oStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fbig-star-quintet-san-francis
+ co-california-11-07-2026%2Fevent%2F1C0064FDD0AC3682\nDetails: https://doth
+ ebay.com/events/2026/11/7/big-star-quintet-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33732262/90415e8b-8e00-4b8d-aefe-e0d6754ad752.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261021T171908Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/big-star-quintet-tickets
@@ -7838,6 +7859,25 @@ LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/dr-gabba-narciss-dazegxd-present
  ed-by-public-works-strapt-flux-aeterna-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PURA Saturdays
+DTSTART;TZID=America/Los_Angeles:20261107T220000
+DTEND;TZID=America/Los_Angeles:20261108T000000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17967113@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:$20-$35\, 21+\n\nTickets: https://wl.seetickets.us/event/PURA-
+ Saturdays/708801?afflky=1015Folsom\nDetails: https://dothebay.com/events/2
+ 026/11/7/pura-saturdays-tickets\nSource: DoTheBay
+GEO:37.7781117;-122.4058001
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35051896/8ab4d63b-7ed3-4476-85fc-67f9d032e72f.jpg
+LAST-MODIFIED:20261021T171908Z
+LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/7/pura-saturdays-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco Diwali Festival at Yerba Buena Gardens 2026
@@ -8291,6 +8331,26 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/10/yuki-chiba-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Louie TheSinger
+DTSTART;TZID=America/Los_Angeles:20261110T190000
+DTEND;TZID=America/Los_Angeles:20261110T210000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17906638@sf-cal
+SEQUENCE:1
+CATEGORIES:Music
+DESCRIPTION:Texican Tour\nLouie TheSinger\nTuesday\, November 10 | August 
+ Hall\n\nAll Ages\nTexican Tour\nListed time is doors\n\nTickets: https://w
+ ww.augusthallsf.com/tm-event/louie-thesinger/\nDetails: https://dothebay.c
+ om/events/2026/11/10/louie-thesinger-tickets\nSource: DoTheBay
+GEO:37.7875878;-122.4096056
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34727019/176d059b-17b9-4746-95cc-66ee8ecab83b.jpg
+LAST-MODIFIED:20261021T171908Z
+LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/10/louie-thesinger-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Tallest Man on Earth
 DTSTART;TZID=America/Los_Angeles:20261110T193000
 DTEND;TZID=America/Los_Angeles:20261110T213000
@@ -8333,27 +8393,6 @@ LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/10/weston-estate-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Louie TheSinger
-DTSTART;TZID=America/Los_Angeles:20261110T200000
-DTEND;TZID=America/Los_Angeles:20261110T220000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17906638@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:All Ages\n\nTickets: https://ticketmaster.evyy.net/c/253185/26
- 4167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Flouie-th
- esinger-san-francisco-california-11-10-2026%2Fevent%2F1C0065394ED9BA3F\nDe
- tails: https://dothebay.com/events/2026/11/10/louie-thesinger-tickets\nSou
- rce: DoTheBay
-GEO:37.7875878;-122.4096056
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34727019/176d059b-17b9-4746-95cc-66ee8ecab83b.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/10/louie-thesinger-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paradiso
@@ -9069,23 +9108,23 @@ URL:https://dothebay.com/events/2026/11/13/the-moth-grandslam-championship
  -tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tank\, The Bangas
+SUMMARY:Tank and the Bangas
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261021T171908Z
 UID:dothebay-17116379@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:The Last Balloon Tour\nTank\, The Bangas\nFriday\, November 13
-  | August Hall\n\n5+\nThe Last Balloon Tour\n\nTickets: https://ticketmast
- er.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.tick
- etmaster.com%2Ftank-and-the-bangas-the-last-san-francisco-california-11-13
- -2026%2Fevent%2F1C006472DF4545A5\nDetails: https://dothebay.com/events/202
- 6/11/13/tank-the-bangas-tickets\nSource: DoTheBay
+DESCRIPTION:The Last Balloon Tour\nTank and the Bangas\nFriday\, November 
+ 13 | August Hall\n\n5+\nThe Last Balloon Tour\n\nTickets: https://ticketma
+ ster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ti
+ cketmaster.com%2Ftank-and-the-bangas-the-last-san-francisco-california-11-
+ 13-2026%2Fevent%2F1C006472DF4545A5\nDetails: https://dothebay.com/events/2
+ 026/11/13/tank-the-bangas-tickets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30986432/536de379-1a81-4142-aafe-7de2a5884855.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261021T171908Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/13/tank-the-bangas-tickets
@@ -9339,27 +9378,6 @@ URL:https://dothebay.com/events/2026/11/14/underoath-define-the-great-line
  -20th-anniversary-tour-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Allison Russell
-DTSTART;TZID=America/Los_Angeles:20261114T183000
-DTEND;TZID=America/Los_Angeles:20261114T203000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17714113@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 6:30pm / Show 7:30
- pm\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId
- =DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fallison-russell-san-franci
- sco-california-11-14-2026%2Fevent%2F1C0065069F51D791\nDetails: https://dot
- hebay.com/events/2026/11/14/allison-russell-tickets\nSource: DoTheBay
-GEO:37.7840042;-122.4331332
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33811063/f4f46dd0-5d5b-480c-b34c-a7b7d071c3c7.png
-LAST-MODIFIED:20261006T003107Z
-LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/14/allison-russell-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Headache
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
@@ -9538,23 +9556,22 @@ BEGIN:VEVENT
 SUMMARY:Allison Russell
 DTSTART;TZID=America/Los_Angeles:20261114T193000
 DTEND;TZID=America/Los_Angeles:20261114T213000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17732825@sf-cal
-SEQUENCE:0
+DTSTAMP:20261021T171908Z
+UID:dothebay-17714113@sf-cal
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 6:30pm / Show 7:30
  pm\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId
  =DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fallison-russell-san-franci
  sco-california-11-14-2026%2Fevent%2F1C0065069F51D791\nDetails: https://dot
- hebay.com/events/2026/11/14/allison-russell-tickets-b9gnovw\nSource: DoThe
- Bay
+ hebay.com/events/2026/11/14/allison-russell-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33904703/1f452f1f-2d81-4091-8254-c9e4a62c17ef.png
-LAST-MODIFIED:20261006T003107Z
+ et/33811063/f4f46dd0-5d5b-480c-b34c-a7b7d071c3c7.png
+LAST-MODIFIED:20261021T171908Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/14/allison-russell-tickets-b9gnovw
+URL:https://dothebay.com/events/2026/11/14/allison-russell-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inna
@@ -9646,6 +9663,25 @@ LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/sean-hayes-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PURA Saturdays
+DTSTART;TZID=America/Los_Angeles:20261114T220000
+DTEND;TZID=America/Los_Angeles:20261115T000000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17967114@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:$20-$35\, 21+\n\nTickets: https://wl.seetickets.us/event/PURA-
+ Saturdays/708797?afflky=1015Folsom\nDetails: https://dothebay.com/events/2
+ 026/11/14/pura-saturdays-tickets\nSource: DoTheBay
+GEO:37.7781117;-122.4058001
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35051899/0898d2bc-39f0-406e-a6bf-5b654e36aba1.jpg
+LAST-MODIFIED:20261021T171908Z
+LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/14/pura-saturdays-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bob Marley
@@ -11076,6 +11112,25 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/q-marsden-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PURA Saturdays
+DTSTART;TZID=America/Los_Angeles:20261121T220000
+DTEND;TZID=America/Los_Angeles:20261122T000000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17967115@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:$20-$35\, 21+\n\nTickets: https://wl.seetickets.us/event/PURA-
+ Saturdays/708798?afflky=1015Folsom\nDetails: https://dothebay.com/events/2
+ 026/11/21/pura-saturdays-tickets\nSource: DoTheBay
+GEO:37.7781117;-122.4058001
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35051897/c38bf278-7943-48de-aa8e-03ff60fdf936.jpg
+LAST-MODIFIED:20261021T171908Z
+LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/21/pura-saturdays-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Concert & Evensong at St. Luke's Episcopal Church: Eric Choate
 DTSTART;TZID=America/Los_Angeles:20261122T151500
 DTEND;TZID=America/Los_Angeles:20261122T171500
@@ -12027,6 +12082,25 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/28/vessbroz-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PURA Saturdays
+DTSTART;TZID=America/Los_Angeles:20261128T220000
+DTEND;TZID=America/Los_Angeles:20261129T000000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17967117@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:$20-$35\, 21+\n\nTickets: https://wl.seetickets.us/event/PURA-
+ Saturdays/708796?afflky=1015Folsom\nDetails: https://dothebay.com/events/2
+ 026/11/28/pura-saturdays-tickets\nSource: DoTheBay
+GEO:37.7781117;-122.4058001
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35052135/f4fa2cdc-f1be-4b9f-b72f-36aa1a506ebc.jpg
+LAST-MODIFIED:20261021T171908Z
+LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/28/pura-saturdays-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SONGWRITERS SHOWCASE: OCEAN ALE HOUSE
@@ -14400,6 +14474,70 @@ LOCATION:The Regency Ballroom\, 1290 Sutter Street\, San Francisco\, CA\,
  94109
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/19/takuya-nakamura-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alyssa Edwards – A Very Alyssa Christmas
+DTSTART;TZID=America/Los_Angeles:20261220T180000
+DTEND;TZID=America/Los_Angeles:20261220T200000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17931359@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Another Planet Entertainment presents\nAlyssa Edwards – A Ve
+ ry Alyssa Christmas\nSunday\, December 20 | The Castro\n\n18+\nAnother Pla
+ net Entertainment presents\nListed time is doors\n\nTickets: https://theca
+ stro.com/events/alyssa-edwards-271220\nDetails: https://dothebay.com/event
+ s/2026/12/20/alyssa-edwards-a-very-alyssa-christmas-tickets\nSource: DoThe
+ Bay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34841742/44411c24-8f25-43f9-a698-775a18267476.jpg
+LAST-MODIFIED:20261021T171908Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/20/alyssa-edwards-a-very-alyssa-ch
+ ristmas-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allman Betts Family Revival
+DTSTART;TZID=America/Los_Angeles:20261220T193000
+DTEND;TZID=America/Los_Angeles:20261220T213000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17742737@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 6:30pm / Show 7:30
+ pm\n\nA DECADE OF REVIVAL\n\nTickets: https://ticketmaster.evyy.net/c/2531
+ 85/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fall
+ man-betts-family-revival-a-decade-san-francisco-california-12-20-2026%2Fev
+ ent%2F1C00650AA46EAEDA\nDetails: https://dothebay.com/events/2026/12/20/al
+ lman-betts-family-revival-a-decade-of-revival-tickets\nSource: DoTheBay
+GEO:37.7840042;-122.4331332
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33952413/35560d94-e8bf-4bf1-bfb4-3d23551e3275.png
+LAST-MODIFIED:20261021T171908Z
+LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/20/allman-betts-family-revival-a-d
+ ecade-of-revival-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dimensions
+DTSTART;TZID=America/Los_Angeles:20261220T220000
+DTEND;TZID=America/Los_Angeles:20261221T000000
+DTSTAMP:20261021T171908Z
+UID:dothebay-17686349@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
+ ebay.com/events/2026/12/20/dimensions-tickets\nSource: DoTheBay
+GEO:37.7552647;-122.4193588
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33677042/f3c6d366-8614-4af2-a666-4da2c13a0c16.jpg
+LAST-MODIFIED:20261021T171908Z
+LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/20/dimensions-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Win Tix: Slipknot (sic)est Tour at Golden Gate Park
