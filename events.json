@@ -16985,7 +16985,7 @@
    "locality": null,
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/23/sunset-cinema-coco-2017",
-   "ticket_url": "https://www.santaclaraca.gov/our-city/departments-g-z/parks-recreation/parks-recreation-special-events/sunset-cinema",
+   "ticket_url": "https://www.santaclaraca.gov/our-city/departments-g-z/parks-recreation/special-events/sunset-cinema",
    "price_text": "Free, PG",
    "is_free": true,
    "sold_out": false,
@@ -24131,6 +24131,35 @@
     "Film"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17979284",
+   "title": "Let's Go Lesbians!",
+   "start": "2026-10-28T19:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "SF Eagle",
+   "address": "398 12th St.,  San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.769982,
+    -122.41342
+   ],
+   "url": "https://dothebay.com/events/2026/10/28/let-s-go-lesbians-tickets",
+   "ticket_url": "https://events.humanitix.com/safe-words-queer-comedy-showcase-lets-go-lesbians-october-2026",
+   "price_text": "Pay What You Can, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35066358/66c7956f-fe53-4d01-99f9-df396b7fe1be.jpg",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": [
+    "Safe Words Entertainment"
+   ]
   },
   {
    "source": "dothebay",
@@ -97571,9 +97600,9 @@
    "last_modified": "2026-10-15T11:39:24.600159Z"
   },
   "dothebay-17723768@sf-cal": {
-   "content_hash": "e03543e94d7a12d29dfd9484cc40089825b73c0e0190aba403e37bc7537d3ede",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "0e55ef771f759e2e9bf399752d245b30aeb0e31f1b5ca06a6e2d3c516ff4cfd4",
+   "sequence": 1,
+   "last_modified": "2026-10-21T18:42:58.394383Z"
   },
   "dothebay-17726037@sf-cal": {
    "content_hash": "031fafd60ea066110cba4b79986456f4c54cea948a5ca3fb199be8ca8fd1fd11",
@@ -101809,6 +101838,11 @@
    "content_hash": "f6a4aa909bb1db2fc6ca4e32e90099faf7f3fd95f6c8949bf060b262b042acf6",
    "sequence": 0,
    "last_modified": "2026-10-21T17:19:08.982623Z"
+  },
+  "dothebay-17979284@sf-cal": {
+   "content_hash": "520cfa7b6bf331d5c03b95cf54a955842ecc82c9f42ce3026f7dbea69a05c787",
+   "sequence": 0,
+   "last_modified": "2026-10-21T18:42:58.394383Z"
   },
   "funcheap-1234124@sf-cal": {
    "content_hash": "8facf467efe8ef6da5d8f69a8f611e5b1ed742535fe4abe31f78778bf449c810",
