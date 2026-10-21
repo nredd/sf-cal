@@ -40,37 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Dance Outdoors with Rhythm & Motion
-DTSTART;TZID=America/Los_Angeles:20261014T120000
-DTEND;TZID=America/Los_Angeles:20261014T140000
-DTSTAMP:20261015T113924Z
-UID:dothebay-17734079@sf-cal
-SEQUENCE:3
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
- e.\n\nMore dates to be announced. Check back often for updates.\n\nNamed S
- an Francisco’s favorite dance workout by the magazines San Francisco and
-  7X7\, Rhythm & Motion is a low-pressure\, full-bodied dance workout class
-  that balances the euphoria of a good party with the challenge of learning
-  choreography and movement techniques. The dance party happens every Wedne
- sday at Yerba Buena Gardens\, when Rhythm & Motion and YBG Festival invite
-  you to weekly one-hour dance workout classes in a beautiful outdoor space
- . Wear comfortable clothing and supportive shoes suitable for grass. Bring
-  water\, layers for unpredictable weather\, your sense of comfort and conn
- ection and your abundant joy.\n\nFree RSVP\n\nDetails: https://dothebay.co
- m/events/2026/10/14/dance-outdoors-with-rhythm-motion-tickets\nSource: DoT
- heBay
-GEO:37.7850153;-122.4023464
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33910319/e726667c-fe1b-45d8-b984-dc2e1097a830.jpg
-LAST-MODIFIED:20261015T113924Z
-LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
- ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/14/dance-outdoors-with-rhythm-moti
- on-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Workout Wednesdays at SF’s Union Square (Sept. 23-Oct. 14)
 DTSTART;TZID=America/Los_Angeles:20261014T173000
 DTEND;TZID=America/Los_Angeles:20261014T183000
@@ -923,9 +892,9 @@ BEGIN:VEVENT
 SUMMARY:Dance Outdoors with Rhythm & Motion
 DTSTART;TZID=America/Los_Angeles:20261021T120000
 DTEND;TZID=America/Los_Angeles:20261021T140000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261021T214759Z
 UID:dothebay-17734081@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  e.\n\nMore dates to be announced. Check back often for updates.\n\nNamed S
@@ -940,12 +909,11 @@ DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  ection and your abundant joy.\n\nFree RSVP\n\nTickets: https://ybgfestival
  .org/event/dance-outdoors-with-rhythm-motion-102126/\nDetails: https://dot
  hebay.com/events/2026/10/21/dance-outdoors-with-rhythm-motion-tickets\nSou
- rce: DoTheBay\n\nAlso listed on:\n- https://ybgfestival.org/event/dance-ou
- tdoors-with-rhythm-motion-102126/
+ rce: DoTheBay
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33910333/3b5135b1-ae7e-480c-b9f4-00a33b9ea430.jpg
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261021T214759Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
