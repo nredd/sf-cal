@@ -461,25 +461,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trick-or-Treat -Terrace Drive
-DTSTART;TZID=America/Los_Angeles:20261031T150000
-DTEND;TZID=America/Los_Angeles:20261031T220000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1613566-2026-10-31T15:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Terrace Dr from Portola Dr to Santa Clara Ave\n\nPermi
- t status: Pending Payment\nTimes are SFMTA street-closure permit times and
-  include setup and teardown\nSource: DataSF Temporary Street Closures\n\nD
- etails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (p
- ending permit)
-GEO:37.73767;-122.466613
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Terrace Dr between Portola Dr and Santa Clara Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trick or Treat - Avila Street 2026
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T210000

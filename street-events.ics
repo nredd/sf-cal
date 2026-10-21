@@ -1077,25 +1077,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:River of Life Halloween Block Party
-DTSTART;TZID=America/Los_Angeles:20261031T120000
-DTEND;TZID=America/Los_Angeles:20261031T220000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1563048-2026-10-31T12:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Sunnydale Ave from Sawyer St to Mrs. Jackson Way\n\nPe
- rmit status: Permitted\nTimes are SFMTA street-closure permit times and in
- clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
- ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures\n\nAl
- so listed on:\n- https://data.sf.gov/d/8x25-yybr
-GEO:37.711785;-122.41554
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Sunnydale Ave between Hahn St and Sawyer St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Block Party - Hill Street Halloween BBQ
 DTSTART;TZID=America/Los_Angeles:20261031T130000
 DTEND;TZID=America/Los_Angeles:20261031T210000
@@ -1128,65 +1109,6 @@ DESCRIPTION:Closed: Cumberland St from Guerrero St to Dolores St\n\nPermit
 GEO:37.759097;-122.424728
 LAST-MODIFIED:20261006T193028Z
 LOCATION:Cumberland St between Dolores St and Guerrero St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trick-or-Treat - Shotwell 2026
-DTSTART;TZID=America/Los_Angeles:20261031T150000
-DTEND;TZID=America/Los_Angeles:20261031T220000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1448732-2026-10-31T15:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Shotwell St from 22nd St to 23rd St\; Shotwell St from
-  23rd St to 24th St\; Shotwell St from 19th St to 20th St\; Shotwell St fr
- om 21st St to 22nd St\; Shotwell St from 20th St to 21st St\; Shotwell St 
- from 18th St to 19th St\n\nPermit status: Permitted\nTimes are SFMTA stree
- t-closure permit times and include setup and teardown\nSource: DataSF Temp
- orary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource:
-  DataSF street closures
-GEO:37.754834;-122.415397
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Shotwell St between 22nd St and 23rd St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trick or Treat - 42nd Ave
-DTSTART;TZID=America/Los_Angeles:20261031T150000
-DTEND;TZID=America/Los_Angeles:20261031T223000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1555189-2026-10-31T15:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 42nd Ave from Judah St to Kirkham St\n\nPermit status:
-  Permitted\nTimes are SFMTA street-closure permit times and include setup 
- and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:/
- /data.sf.gov/d/8x25-yybr\nSource: DataSF street closures\n\nAlso listed on
- :\n- https://data.sf.gov/d/8x25-yybr
-GEO:37.759681;-122.501573
-LAST-MODIFIED:20261006T193028Z
-LOCATION:42nd Ave between Judah St and Kirkham St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Block Party - 36th Ave - 5th Annual Halloween
-DTSTART;TZID=America/Los_Angeles:20261031T150000
-DTEND;TZID=America/Los_Angeles:20261031T210000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1571232-2026-10-31T15:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 36th Ave from Quintara St to Rivera St\n\nPermit statu
- s: Permitted\nTimes are SFMTA street-closure permit times and include setu
- p and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https
- ://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures\n\nAlso listed 
- on:\n- https://data.sf.gov/d/8x25-yybr
-GEO:37.746908;-122.494232
-LAST-MODIFIED:20261006T193028Z
-LOCATION:36th Ave between Rivera St and Quintara St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT

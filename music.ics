@@ -40,47 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack” 
- (Every Tue/Thu)
-DTSTART;TZID=America/Los_Angeles:20261013T120000
-DTEND;TZID=America/Los_Angeles:20261013T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638782@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack
- ” (Every Tue/Thu)\nJon Bauer c/o Illuminate\nSan Francisco’s free lunc
- htime concert series is back. The Civic Center Soundtrack returns for its 
- third season starting Tuesday\, April 14\, 2026\, bringing live music to F
- ulton Plaza twice a week through October.\n\nConcerts take place Tuesdays 
- and Thursdays from 12 pm to 3 pm outside the San Francisco Public Library\
- , featuring three performers each day spanning a mix of genres and local t
- alent.\n\nNew for 2026: A rotating lineup of food trucks will join the fes
- tivities\, turning the plaza into a lively midday hangout for downtown wor
- kers\, residents\, and anyone looking for a free break with live music.\n\
- nLaunched in 2024\, the series has hosted more than 100 free concerts and 
- is part of ongoing efforts to activate public spaces in the Civic Center n
- eighborhood.\n\nCivic Center Soundtrack 2026\nWhen: Tuesdays & Thursdays\,
-  12 pm to 3 pmDates: April 14 through October 2026Where: Fulton Plaza (out
- side the Main Library)\, Civic CenterCost: Free\nView the full lineup\nBri
- ng your lunch or grab something from the food trucks and enjoy a free outd
- oor show in the heart of downtown.\n\nUpcoming SF’s Free Concerts & Food
-  Trucks: “Civic Center Soundtrack” (Every Tue/Thu) Events\nTue 10/6 SF
- ’s Free Concerts & Food Trucks: “Civic Center Soundtrack” (Every Tue
- /Thu)Thu 10/8 SF’s Free Concerts & Food Trucks: “Civic Center Soundtra
- ck” (Every Tue/Thu)Tue 10/13 SF’s Free Concerts & Food Trucks: “Civi
- c Center Sound...\n\nFree\n\nTickets: https://illuminate.org/venues/fulton
- -street-plaza/\nDetails: https://sf.funcheap.com/sfs-free-concerts-food-tr
- ucks-civic-center-soundtrack-every-tue-thu-52/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/04/Civic-
- Center-Soundtrack.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Fulton Plaza\, Fulton and Larkin\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-sou
- ndtrack-every-tue-thu-52/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Loathe
 DTSTART;TZID=America/Los_Angeles:20261013T193000
 DTEND;TZID=America/Los_Angeles:20261013T213000
@@ -2758,41 +2717,21 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/20/sawyer-hill-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hazlett
-DTSTART;TZID=America/Los_Angeles:20261020T200000
-DTEND;TZID=America/Los_Angeles:20261020T220000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17491275@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Hazlett\nTuesday\, October 20 | August Hall\n\nAll Ages\n\nTic
- kets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&
- u=https%3A%2F%2Fwww.ticketmaster.com%2Fhazlett-san-francisco-california-10
- -20-2026%2Fevent%2F1C0064CBAD9F0CBD\nDetails: https://dothebay.com/events/
- 2026/10/20/hazlett-tickets\nSource: DoTheBay
-GEO:37.7875878;-122.4096056
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32760295/559a174c-680b-4154-8f46-fa5c96cef113.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/20/hazlett-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Allah-Las
 DTSTART;TZID=America/Los_Angeles:20261020T200000
 DTEND;TZID=America/Los_Angeles:20261020T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261021T000148Z
 UID:dothebay-17672846@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:$39.50-$44\n\nTickets: https://wl.seetickets.us/event/allah-la
- s/700624?afflky=GreatAmericanMusicHall\nDetails: https://dothebay.com/even
- ts/2026/10/20/allah-las-tickets\nSource: DoTheBay
+DESCRIPTION:$39.50-$44\nGAMH & Psyched! Fest 2026 present\n\nTickets: http
+ s://wl.seetickets.us/event/allah-las/700624?afflky=GreatAmericanMusicHall\
+ nDetails: https://dothebay.com/events/2026/10/20/allah-las-tickets\nSource
+ : DoTheBay
 GEO:37.7848325;-122.418809
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33631818/89d89cf2-4774-40f9-bf72-be6485dd9903.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261021T000148Z
 LOCATION:Great American Music Hall\, 859 O'farrell Street\, San Francisco\
  , CA\, 94109
 TRANSP:TRANSPARENT
