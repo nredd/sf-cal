@@ -170,6 +170,25 @@ def test_parse_zero_rows_raises(client: httpx.Client) -> None:
         adapter(client).parse(page, {})
 
 
+def test_parse_emptied_rows_after_week_is_empty(client: httpx.Client) -> None:
+    page = (
+        "<html><body><h1>2000 Fleet Week Calendar of Events</h1>\n"
+        '<div class="uabb-adv-accordion-item"><span class="uabb-adv-accordion-button-label">'
+        "Tuesday October 3</span></div></body></html>"
+    )
+    assert adapter(client).parse(page, {}) == []
+
+
+def test_parse_emptied_rows_during_week_raises(client: httpx.Client) -> None:
+    page = (
+        "<html><body><h1>2099 Fleet Week Calendar of Events</h1>\n"
+        '<div class="uabb-adv-accordion-item"><span class="uabb-adv-accordion-button-label">'
+        "Tuesday October 3</span></div></body></html>"
+    )
+    with pytest.raises(SourceError, match="no day sections"):
+        adapter(client).parse(page, {})
+
+
 @respx.mock
 def test_fetch(client: httpx.Client) -> None:
     respx.get(CAL_URL).respond(text=fixture_text("fleetweeksf_calendar.html"))

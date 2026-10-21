@@ -266,14 +266,21 @@ class FleetWeekSF(Adapter[FleetWeekOptions]):
             list[Event]: Deduplicated events.
 
         Raises:
-            SourceError: If the page has no days or no rows.
+            SourceError: If the page has no days, or no rows before the week ends.
         """
         opts = self.opts
         page = LexborHTMLParser(calendar_html)
         year = parse_year(page)
         sections = day_sections(page)
-        if not sections or not any(posts for _, posts in sections):
+        if not sections:
             raise SourceError("Fleet Week calendar has no day sections or no event rows")
+        if not any(posts for _, posts in sections):
+            # The site empties the rows once the week is over. Only tolerate that
+            # after the last day; mid-week it means the markup changed.
+            if max(parse_day(label, year) for label, _ in sections) >= datetime.now(TZ).date():
+                raise SourceError("Fleet Week calendar has no day sections or no event rows")
+            LOGGER.warning(f"`{self.name}`: edition {year} is over and its rows are gone")
+            return []
 
         events: dict[str, Event] = {}
         for label, posts in sections:

@@ -136,6 +136,7 @@ The cron got disabled (GitHub emails that too): `gh workflow enable build.yml -R
 - Funcheap music isn't popularity-gated like DoTheBay's, so `music` runs ~60 events a week
 - DoTheBay's `/events/YYYY/M/D.json` is undocumented and can change or vanish without notice
 - `fleetweeksf` scrapes page markup that's reused year to year, but a redesign breaks it
+- After the week ends the site empties the calendar rows; `fleetweeksf` then returns no events instead of failing the build (mid-week an empty calendar still fails)
 - `events.json` is ~3.4 MB and is re-committed whenever anything changes, so the `feeds`
   branch grows by a few MB a day while events churn
 - Google refreshes subscriptions every ~8-24h no matter what the feed asks for

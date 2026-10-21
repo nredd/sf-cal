@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+from datetime import UTC, datetime, tzinfo
 from pathlib import Path
+from typing import Self
 
 import pytest
 import respx
@@ -30,6 +32,18 @@ priority = 100
 sf_only = false
 default_duration_minutes = 60
 """
+
+
+@pytest.fixture(autouse=True)
+def fixed_now(monkeypatch: pytest.MonkeyPatch) -> None:
+    """Pin the clock to Fleet Week 2026 so the fixture events stay inside the window."""
+
+    class FrozenDatetime(datetime):
+        @classmethod
+        def now(cls, tz: tzinfo | None = None) -> Self:
+            return cls(2026, 10, 8, 12, tzinfo=UTC).astimezone(tz)
+
+    monkeypatch.setattr("sfcal.cli.datetime", FrozenDatetime)
 
 
 @pytest.fixture
