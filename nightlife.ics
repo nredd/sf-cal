@@ -40,37 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
-DTSTART;TZID=America/Los_Angeles:20261014T163000
-DTEND;TZID=America/Los_Angeles:20261014T220000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634904@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
- ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
- :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
- nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
- r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
- 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
- 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 10/7 $1 Wing Wed
- nesdays at Underdogs Cantina (SoMa)Wed 10/14 $1 Wing Wednesdays at Underdo
- gs Cantina (SoMa)Wed 10/21 $1 Wing Wednesdays at Underdogs Cantina (SoMa)W
- ed 10/28 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please 
- double check event information with the event organizer as events can be c
- anceled\, details can change after they are added to our calendar\, and er
- rors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-we
- dnesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-un
- derdogs-cantina-soma-68/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
- __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-68
- /
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Grupo de Apoyo Latino
 DTSTART;TZID=America/Los_Angeles:20261015T150000
 DTEND;TZID=America/Los_Angeles:20261015T170000
@@ -1180,21 +1149,19 @@ BEGIN:VEVENT
 SUMMARY:TransLife Galaxy Mental Health Series
 DTSTART;TZID=America/Los_Angeles:20261021T130000
 DTEND;TZID=America/Los_Angeles:20261021T150000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261022T120138Z
 UID:dothebay-17610095@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:Community-based mental health facilitators share coping skills
   and trauma resiliency techniques that help develop life-rebuilding practi
  ces. This group is designed for transgender\, gender non-conforming\, non-
  binary\, and other TGNCI+ community members.\n\nTo attend\, please email a
- stephens@sfaf.org.\n\nTickets: https://resources.sfaf.org/event/translife-
- galaxy-mental-health-series-3/2026-10-21/\nDetails: https://dothebay.com/e
- vents/2026/10/21/translife-galaxy-mental-health-series-tickets\nSource: Do
- TheBay
+ stephens@sfaf.org.\n\nDetails: https://dothebay.com/events/2026/10/21/tran
+ slife-galaxy-mental-health-series-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33323330/352ca7de-b23a-4845-aeb0-1c10c9b1fc47.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261022T120138Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/21/translife-galaxy-mental-health-
@@ -1204,22 +1171,21 @@ BEGIN:VEVENT
 SUMMARY:Transformaciones
 DTSTART;TZID=America/Los_Angeles:20261021T150000
 DTEND;TZID=America/Los_Angeles:20261021T170000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261022T120138Z
 UID:dothebay-17610100@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:Grupo de Apoyo para TGNCI (Transgénero\, Género No Conforme\
  , No Binario e Intersex) Latine inmigrantes\n\nEL GRUPO SE FACILITA EN ESP
  AÑOL Con Dr. Silvia Sandoval\n\nEl 1er y 3er Miércoles\n\n3:00 a 5:00pm\
  n\n940 Howard St.\n\nSe servira una comida\n\nPara más información: ista
  iti@sfaf.org | 415-738-3544\n\nMade possible through funding by ViiV Healt
- hcare\, Gilead Sciences\, and Elizabeth Taylor AIDS Foundation\n\nTickets:
-  https://resources.sfaf.org/event/transformaciones-2/2026-10-21/\nDetails:
+ hcare\, Gilead Sciences\, and Elizabeth Taylor AIDS Foundation\n\nDetails:
   https://dothebay.com/events/2026/10/21/transformaciones-tickets\nSource: 
  DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33323331/263bfdbd-cb91-4983-8dfb-6a6ac7e5d823.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261022T120138Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/21/transformaciones-tickets
@@ -1260,9 +1226,9 @@ SUMMARY:Takeover Wednesdays: Industry Night - DJ Natural - October 21\, 20
  26
 DTSTART;TZID=America/Los_Angeles:20261021T190000
 DTEND;TZID=America/Los_Angeles:20261021T210000
-DTSTAMP:20261009T182357Z
+DTSTAMP:20261022T120138Z
 UID:dothebay-17940517@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Takeover Wednesdays keeps the groove alive at Bochica @ Cigar 
  Bar with DJ Natural. Set in Cigar Bar's courtyard\, Takeover Wednesdays br
@@ -1271,13 +1237,13 @@ DESCRIPTION:Takeover Wednesdays keeps the groove alive at Bochica @ Cigar
  cing\, house\, disco\, funk\, and eclectic grooves.\n\nHappy Hour drink sp
  ecials.\nCourtyard atmosphere.\nNo cover.\n\nVenue: Cigar Bar & Grill\, 85
  0 Montgomery St.\, San Francisco.\n\nMust be 21+\n\nFree\nCigar Bar & Gril
- l PRESENTS:\n\nTickets: https://www.cigarbarandgrill.com/index.php/enterta
- inment\nDetails: https://dothebay.com/events/2026/10/21/takeover-wednesday
- s-industry-night-dj-natural-october-21-2026-tickets\nSource: DoTheBay
+ l PRESENTS:\n\nDetails: https://dothebay.com/events/2026/10/21/takeover-we
+ dnesdays-industry-night-dj-natural-october-21-2026-tickets\nSource: DoTheB
+ ay
 GEO:37.79715729999999;-122.4034061
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34884718/aefeb33b-b340-4b59-b768-fc8becb34f55.jpg
-LAST-MODIFIED:20261009T182357Z
+LAST-MODIFIED:20261022T120138Z
 LOCATION:Cigar Bar & Grill\, 850 Montgomery St.\, San Francisco\, CA\, 941
  33
 TRANSP:TRANSPARENT
@@ -1309,9 +1275,9 @@ BEGIN:VEVENT
 SUMMARY:Play X Land
 DTSTART;TZID=America/Los_Angeles:20261021T210000
 DTEND;TZID=America/Los_Angeles:20261021T230000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261022T120138Z
 UID:dothebay-17699150@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night 
  hosted by Cat Club in partnership with the Leather Alliance in San Francis
@@ -1326,13 +1292,12 @@ DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night
  e for all events at Cat Club and this event is no exception. DO NOT TOUCH 
  ANY INDIVIDUAL WITHOUT OBTAINING CONSENT. Consent means an ENTHUSIASTIC YE
  S.Whatever it is\, the way you tell your story online can make all the dif
- ference.\n\n$10\n\nTickets: https://www.sfcatclub.com/calendar/sgzbsw3ltzj
- ngjx-8yj6x-hzsr2-8tx5a-bh2wx-jppm3-d23d2-rg96m-n5tyf-zelb6\nDetails: https
- ://dothebay.com/events/2026/10/21/play-x-land-tickets\nSource: DoTheBay
+ ference.\n\n$10\n\nDetails: https://dothebay.com/events/2026/10/21/play-x-
+ land-tickets\nSource: DoTheBay
 GEO:37.77541739999999;-122.409985
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33742802/11d87a8a-e621-43b1-9757-42a2d8327f4a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261022T120138Z
 LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/21/play-x-land-tickets
@@ -1760,6 +1725,47 @@ LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/community-coffee-social-elizabe
  th-taylor-50-plus-network-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Boos & Brews” on B Street 2026: Free Halloween Fest (Downtown
+  San Mateo)
+DTSTART;TZID=America/Los_Angeles:20261024T150000
+DTEND;TZID=America/Los_Angeles:20261024T170000
+DTSTAMP:20261022T120138Z
+UID:funcheap-1643763@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:Downtown San MateoBoos & Brews on B Street is a free Halloween
+  event in Downtown San Mateo with trick-or-treating at local businesses\, 
+ a reptile booth\, a photo booth\, live DJ\, kids’ activities and crafts\
+ , and brews from Devils Canyon for parents. Activities\, treats\, prizes\,
+  and giveaways are available while supplies last.\nOriginal Event Descript
+ ion:\nOn Saturday\, October 24 from 3–5 p.m.\, we’ll be back in Downto
+ wn San Mateo for our Annual Boos & Brews on B Street! This FREE\, SPOOK-ta
+ cular event is co-hosted by the City of San Mateo Parks and Recreation Dep
+ artment and the Downtown San Mateo Association. What’s in store: 🍬 Tr
+ ick-or-Treating: Dozens of local Downtown San Mateo businesses are handing
+  out goodies! (Swipe to slides 3 & 4 for the full participating business l
+ ist & find an interactive map at DSMA.org/BOOSonB) 🐍 Reptile Booth: Get
+  up close with cool creatures 📷 Photo Booth & Live DJ: Capture memories
+  and dance to festive beats 🎃 Kids’ Activities & Crafts: Fun for ghou
+ ls of all ages 🍺 For the Parents: Enjoy brews from Devils Canyon Date: 
+ Saturday\, October 24\, 2026 Time: 3:00 – 5:00 p.m. Location: B Street b
+ etween 1st & 3rd Avenues + trick-or-treating throughout Downtown San Mateo
+  Note: All treats\, prizes\, activities\, and giveaways are first come\, f
+ irst served\, while supplies last._\nText extracted from provided image:\n
+ CITY OF SAN MATEO CALIFORNIA\nPARKS & RECREATION\nDOWNTOWN SAN MATEO\nThe 
+ City of San Mateo Parks and Recreation Department\n& the Downtown San Mate
+ o Associati...\n\nFree\n\nTickets: https://www.instagram.com/p/DexaGTxD28F
+ /\nDetails: https://sf.funcheap.com/boos-brews-street-2026-free-halloween-
+ fest-downtown-san-mateo/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/857985
+ 778_1748676130598204_1153393558916928184_n.jpg
+LAST-MODIFIED:20261022T120138Z
+LOCATION:B Street between 1st & 3rd Avenues\, San Mateo
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/boos-brews-street-2026-free-halloween-fest-dow
+ ntown-san-mateo/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNDSCVRD Golden Hour Night Market
