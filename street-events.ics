@@ -41,24 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Castro Farmers' Market 2026
-DTSTART;TZID=America/Los_Angeles:20261014T130000
-DTEND;TZID=America/Los_Angeles:20261014T200000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1365550-2026-10-14T13:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Noe St from Beaver St to 16th St\n\nPermit status: Per
- mitted\nTimes are SFMTA street-closure permit times and include setup and 
- teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://dat
- a.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.764628;-122.433127
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Noe St between Market St and Beaver St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Third Thursdays On Ellis 2026
 DTSTART;TZID=America/Los_Angeles:20261015T090000
 DTEND;TZID=America/Los_Angeles:20261015T235900

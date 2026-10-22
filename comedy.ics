@@ -40,46 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Daniela Mora
-DTSTART;TZID=America/Los_Angeles:20261014T193000
-DTEND;TZID=America/Los_Angeles:20261014T213000
-DTSTAMP:20261015T113924Z
-UID:dothebay-17383300@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Daniela Mora\nWednesday\, October 14 | Cobb's Comedy Club\n\n1
- 8+\n\nDetails: https://dothebay.com/events/2026/10/14/daniela-mora-tickets
- \nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32243720/86db08ca-af87-4cd8-b04d-c20aa2e0692d.png
-LAST-MODIFIED:20261015T113924Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/14/daniela-mora-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nori Reed
-DTSTART;TZID=America/Los_Angeles:20261014T200000
-DTEND;TZID=America/Los_Angeles:20261014T220000
-DTSTAMP:20261015T113924Z
-UID:dothebay-17289873@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Nori Reed\nWednesday\, October 14 | ​Punch Line San Francisc
- o\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/14/nori-reed-tick
- ets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31809032/d7aa798c-2062-4cc1-8ef4-d9762016ac77.png
-LAST-MODIFIED:20261015T113924Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/14/nori-reed-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rocky Dale Davis
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T210000
