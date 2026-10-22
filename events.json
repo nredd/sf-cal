@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-10-21T17:19:08.982623Z",
+ "last_full_refresh": "2026-10-22T17:16:47.172369Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -2346,33 +2346,6 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "9e63ced489842169",
-   "title": "NKT-IKBU International Fall Festival",
-   "start": "2026-10-09T07:00:00-07:00",
-   "end": "2026-10-15T07:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": null,
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": null,
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Our Real Heart JewelJe Tsongkhapa EmpowermentTeachings on Faith in Guru Tsongkhapa and the Blessed Practice of the Migtsema Request Prayerwith Gen-la Kelsang DekyongLEARN MORE",
-   "image_url": null,
-   "categories": [
-    "festival"
-   ],
-   "notes": [
-    "Published by KMC SF Event Calendar",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
    "source_id": "d26d5c0858f97f66",
    "title": "Green Film Festival of San Francisco",
    "start": "2026-10-15T18:00:00-07:00",
@@ -4494,86 +4467,6 @@
    "image_url": null,
    "categories": [],
    "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17729682",
-   "title": "The Tenses + MSHR + Sung Kim",
-   "start": "2026-10-15T08:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Lab",
-   "address": "2948 16th Street, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.765289,
-    -122.418493
-   ],
-   "url": "https://dothebay.com/events/2026/10/15/the-tenses-mshr-sung-kim-tickets",
-   "ticket_url": null,
-   "price_text": "$17",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Buy Tickets\n\nDoors 8pm / Show 8:30pm\n\n$17 / free or discounted for members\n\nThe Tenses—comprised of Ju Suk Reet Meate and Oblivia from Smegma, the legendary “band without musicians” founded in 1973—held a tradition of weekly jam sessions with MSHR (Brenna Murphy & Birch Cooper) beginning in 2012. The jam room AKA “Smegma Studios” AKA “purple planet room,” was a longtime anchor of the Portland underground music scene with a rotating cast of weirdos and noise musicians coming through over the decades. Lifelong archivists, The Tenses would record and catalog every session, occasionally releasing highlights on labels such as their own Pigface Records, including a collaborative release with MSHR in 2015.\n\nThe two duos converge for a rare west coast tour, with The Tenses’ collection of cassette recorders, plastic water jugs, pocket trumpet, Ciat-Lonbarde synths, and occasional surf rock riffs. MSHR’s new work, Negative Flower, combines their signature physical controllers and light feedback with a digital system constructed in the SuperCollider programming environment. Sung Kim joins for an opening set with his expertly crafted handmade musical constructions drawing on kotos, lap steel, and various other stringed instruments.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33891158/962642f4-79da-4293-9f55-7d93aa34db3a.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17282240",
-   "title": "Performing Arts Series for Students Around the Americas with 123 Andrés Grades pre K – 3",
-   "start": "2026-10-15T09:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Montalvo Arts Center",
-   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
-   "locality": "Saratoga",
-   "geo": [
-    37.243876,
-    -122.030816
-   ],
-   "url": "https://dothebay.com/events/2026/10/15/performing-arts-series-for-students-around-the-americas-with-123-andres-grades-pre-k-3-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "The Performing Arts Series for Students is designed to serve school groups, youth, and homeschooled students.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31771836/5bc58592-b365-478a-8308-860d8b35ee20.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17822407",
-   "title": "Sustaining the work: Practicing Collective Care",
-   "start": "2026-10-15T09:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The California Endowment",
-   "address": "2000 Franklin Street, Oakland, CA, 94612",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/15/sustaining-the-work-practicing-collective-care-tickets",
-   "ticket_url": null,
-   "price_text": "Community Member $10; Supporter $25; Ally $50; Partner $100",
-   "is_free": false,
-   "sold_out": false,
-   "description": "What is possible when frontline workers, direct service providers, and organizers are cared for? What new ways of thinking, providing, leading, organizing, visioning, being, are possible for the Bay Area Social Sector and the communities most impacted by systemic oppression? We invite Bay Area non-profit and social sector leaders to join the 2027 Emerging Women of Color LeadStrong Cohort in a day of recovery, toolkit building, and vision-planning that centers collective care practices towards bridging the direct service and organizing roles across the field. What conversations are necessary between these often intentionally siloed but overlapping roles?\n\nThe vision for this convening is to amplify and uplift the 2027 Emerging Women of Color LeadStrong Cohort’s learnings and collective power-building strategies. We want to appreciate the leaders for designing and co-facilitating this convening. Thank you for your brilliance and care for the day! Learn more about the cohort here.\n\nParticipants will leave…\n- Feeling connected and nourished by the end of the gathering.\n- Feeling more connected to the wisdom of their bodies, having access to wellness practitioner sessions and somatic practices woven into the day.\n- The gathering with a replenished toolkit of practices, models, frameworks, and a physical care kit they can use with their teams and organizations to help them sustain the work beyond the gathering.\n- With at least one connection to an unexpected peer in the field with...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34328585/505bdf69-e4e7-4cc3-b9c1-edd6839ba71c.jpg",
-   "categories": [
-    "Activism"
-   ],
-   "notes": [
-    "LeaderSpringCenter"
-   ]
   },
   {
    "source": "dothebay",
@@ -80063,8 +79956,8 @@
    "price_text": "$18.00",
    "is_free": false,
    "sold_out": false,
-   "description": "GR\nJoin us at San Francisco VegFest on Saturday, November 14, 2026!\n\nThe San Francisco Vegan Society proudly presents San Francisco VegFest, a joyful celebration of plant-based living that inspires people to embrace a more ethical, healthy, and sustainable way of life.\nNow in its 27th year, SF VegFest returns to the SMC Event Center for a vibrant community celebration featuring engaging speakers, talented vegan chefs, influencers, comedians, and over 80 exhibitors. Come connect, learn, and explore all things vegan and the creativity and compassion that make this community thrive.\n\nSan Francisco VegFest\nSaturday, November 14, 2026 | 11a – 5p\nSMC Event Center, 1111 Gough St, SF\nTickets start at $18 – advance admission; $20 at the door\n\nSFVS\n\nSFVS\n\nSFVS\n\nSFVS\n\nView this post on Instagram\n\nA post shared by San Francisco Vegan Society (SFVS) (@sanfranciscovegansociety)",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/IMG_4246.jpg",
+   "description": "SFVS\nJoin us at San Francisco VegFest on Saturday, November 14, 2026!\n\nThe San Francisco Vegan Society proudly presents San Francisco VegFest, a joyful celebration of plant-based living that inspires people to embrace a more ethical, healthy, and sustainable way of life.\nNow in its 27th year, SF VegFest returns to the SMC Event Center for a vibrant community celebration featuring engaging speakers, talented vegan chefs, influencers, comedians, and over 80 exhibitors. Come connect, learn, and explore all things vegan and the creativity and compassion that make this community thrive.\n\nSan Francisco VegFest\nSaturday, November 14, 2026 | 11a – 5p\nSMC Event Center, 1111 Gough St, SF\nTickets start at $18 – advance admission; $20 at the door\n\nSFVS\n\nSFVS\n\nSFVS\n\nSFVS\n\nView this post on Instagram\n\nA post shared by San Francisco Vegan Society (SFVS) (@sanfranciscovegansociety)",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Crowd6.png",
    "categories": [
     "Live Music Event"
    ],
@@ -91790,7 +91683,7 @@
     "1632243": "2026-09-08T22:33:32",
     "1632263": "2026-09-22T12:57:42",
     "1632266": "2026-09-22T12:35:16",
-    "1632273": "2026-10-01T19:53:32",
+    "1632273": "2026-10-22T13:52:04",
     "1632302": "2026-09-09T03:31:30",
     "1632420": "2026-09-14T17:12:49",
     "1632472": "2026-09-28T17:50:19",
@@ -92011,8 +91904,6 @@
     "1635323": "2026-09-08T17:19:37",
     "1635328": "2026-09-27T00:02:00",
     "1635331": "2026-09-08T17:19:34",
-    "1635334": "2026-09-07T21:13:32",
-    "1635336": "2026-09-07T21:13:34",
     "1635338": "2026-09-08T17:19:17",
     "1635340": "2026-09-20T14:47:31",
     "1635343": "2026-09-08T23:38:38",
@@ -93955,11 +93846,6 @@
    "content_hash": "a3392c2bfacf5f3e9d4082b69c321a087e3b0903de1ba699e978a1e028cc35a5",
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
-  },
-  "caldiscovery-festival-9e63ced489842169@sf-cal": {
-   "content_hash": "30081fb299ed35502a5678500a539fa0977014f1eb7b289e6962a0f76adcaa0a",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:26:14.958336Z"
   },
   "caldiscovery-festival-a0e0e490a36aec02@sf-cal": {
    "content_hash": "334f849700689adf6a3c53c5fc9480f39517b8730129a4d91056c0f1bb4f4a10",
@@ -96980,11 +96866,6 @@
    "content_hash": "f2632b15d12d5e1e6f41a517289809991f4bca3b7ecf7ce0d506e30e546e7f10",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17729682@sf-cal": {
-   "content_hash": "7748478365c246a826ca27adef38267fb80d2a232446a9112b573dd3f4f3efe7",
-   "sequence": 1,
-   "last_modified": "2026-10-16T11:33:07.298622Z"
   },
   "dothebay-17729683@sf-cal": {
    "content_hash": "efda3a88025f9c912c75f53d6e5f6aab98359ebcfbb41e225c4985ae50874bda",
@@ -101057,9 +100938,9 @@
    "last_modified": "2026-10-18T20:51:53.655549Z"
   },
   "funcheap-1632273@sf-cal": {
-   "content_hash": "7d97d068c0f59c14ca3eb14490b3093670d24e795e4dfdc19877adc43c4d97f0",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
+   "content_hash": "40288147d849ef92f88ea3486a28aa79c445689390edadffda802854f95a0653",
+   "sequence": 1,
+   "last_modified": "2026-10-22T17:16:47.172369Z"
   },
   "funcheap-1632981@sf-cal": {
    "content_hash": "7a142b90786b93f936cc63777e1c3381a03b7f9714db7e2ef54e8aaab5516fcf",

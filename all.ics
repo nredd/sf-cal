@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:NKT-IKBU International Fall Festival
-DTSTART;TZID=America/Los_Angeles:20261009T070000
-DTEND;TZID=America/Los_Angeles:20261015T070000
-DTSTAMP:20261006T002614Z
-UID:caldiscovery-festival-9e63ced489842169@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:Our Real Heart JewelJe Tsongkhapa EmpowermentTeachings on Fait
- h in Guru Tsongkhapa and the Blessed Practice of the Migtsema Request Pray
- erwith Gen-la Kelsang DekyongLEARN MORE\n\nPublished by KMC SF Event Calen
- dar\nContains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\
- n\nSource: CalDiscovery
-LAST-MODIFIED:20261006T002614Z
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: pink/blue
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
@@ -70,42 +54,6 @@ LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
  rancisco\, CA 94102
 TRANSP:TRANSPARENT
 URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Tenses + MSHR + Sung Kim
-DTSTART;TZID=America/Los_Angeles:20261015T080000
-DTEND;TZID=America/Los_Angeles:20261015T100000
-DTSTAMP:20261016T113307Z
-UID:dothebay-17729682@sf-cal
-SEQUENCE:1
-CATEGORIES:Variety
-DESCRIPTION:Buy Tickets\n\nDoors 8pm / Show 8:30pm\n\n$17 / free or discou
- nted for members\n\nThe Tenses—comprised of Ju Suk Reet Meate and Oblivi
- a from Smegma\, the legendary “band without musicians” founded in 1973
- —held a tradition of weekly jam sessions with MSHR (Brenna Murphy & Birc
- h Cooper) beginning in 2012. The jam room AKA “Smegma Studios” AKA “
- purple planet room\,” was a longtime anchor of the Portland underground 
- music scene with a rotating cast of weirdos and noise musicians coming thr
- ough over the decades. Lifelong archivists\, The Tenses would record and c
- atalog every session\, occasionally releasing highlights on labels such as
-  their own Pigface Records\, including a collaborative release with MSHR i
- n 2015.\n\nThe two duos converge for a rare west coast tour\, with The Ten
- ses’ collection of cassette recorders\, plastic water jugs\, pocket trum
- pet\, Ciat-Lonbarde synths\, and occasional surf rock riffs. MSHR’s new 
- work\, Negative Flower\, combines their signature physical controllers and
-  light feedback with a digital system constructed in the SuperCollider pro
- gramming environment. Sung Kim joins for an opening set with his expertly 
- crafted handmade musical constructions drawing on kotos\, lap steel\, and 
- various other stringed instruments.\n\n$17\n\nDetails: https://dothebay.co
- m/events/2026/10/15/the-tenses-mshr-sung-kim-tickets\nSource: DoTheBay
-GEO:37.765289;-122.418493
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33891158/962642f4-79da-4293-9f55-7d93aa34db3a.jpg
-LAST-MODIFIED:20261016T113307Z
-LOCATION:The Lab\, 2948 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/15/the-tenses-mshr-sung-kim-ticket
- s
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Third Thursdays On Ellis 2026
@@ -46002,28 +45950,28 @@ BEGIN:VEVENT
 SUMMARY:SF VegFest 2026: Plant-Based Food + 80+ Exhibitors
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T170000
-DTSTAMP:20261006T001646Z
+DTSTAMP:20261022T171647Z
 UID:funcheap-1632273@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Live Music Event
-DESCRIPTION:GR\nJoin us at San Francisco VegFest on Saturday\, November 14
- \, 2026!\n\nThe San Francisco Vegan Society proudly presents San Francisco
-  VegFest\, a joyful celebration of plant-based living that inspires people
-  to embrace a more ethical\, healthy\, and sustainable way of life.\nNow i
- n its 27th year\, SF VegFest returns to the SMC Event Center for a vibrant
-  community celebration featuring engaging speakers\, talented vegan chefs\
- , influencers\, comedians\, and over 80 exhibitors. Come connect\, learn\,
-  and explore all things vegan and the creativity and compassion that make 
- this community thrive.\n\nSan Francisco VegFest\nSaturday\, November 14\, 
- 2026 | 11a – 5p\nSMC Event Center\, 1111 Gough St\, SF\nTickets start at
-  $18 – advance admission\; $20 at the door\n\nSFVS\n\nSFVS\n\nSFVS\n\nSF
- VS\n\nView this post on Instagram\n\nA post shared by San Francisco Vegan 
- Society (SFVS) (@sanfranciscovegansociety)\n\n$18.00\n\nTickets: https://w
- ww.sfvs.org/festival\nDetails: https://sf.funcheap.com/san-francisco-vegfe
- st/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/IMG_42
- 46.jpg
-LAST-MODIFIED:20261006T001646Z
+DESCRIPTION:SFVS\nJoin us at San Francisco VegFest on Saturday\, November 
+ 14\, 2026!\n\nThe San Francisco Vegan Society proudly presents San Francis
+ co VegFest\, a joyful celebration of plant-based living that inspires peop
+ le to embrace a more ethical\, healthy\, and sustainable way of life.\nNow
+  in its 27th year\, SF VegFest returns to the SMC Event Center for a vibra
+ nt community celebration featuring engaging speakers\, talented vegan chef
+ s\, influencers\, comedians\, and over 80 exhibitors. Come connect\, learn
+ \, and explore all things vegan and the creativity and compassion that mak
+ e this community thrive.\n\nSan Francisco VegFest\nSaturday\, November 14\
+ , 2026 | 11a – 5p\nSMC Event Center\, 1111 Gough St\, SF\nTickets start 
+ at $18 – advance admission\; $20 at the door\n\nSFVS\n\nSFVS\n\nSFVS\n\n
+ SFVS\n\nView this post on Instagram\n\nA post shared by San Francisco Vega
+ n Society (SFVS) (@sanfranciscovegansociety)\n\n$18.00\n\nTickets: https:/
+ /www.sfvs.org/festival\nDetails: https://sf.funcheap.com/san-francisco-veg
+ fest/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Crowd6
+ .png
+LAST-MODIFIED:20261022T171647Z
 LOCATION:SMC Event Center\, 1111 Gough St\, San Francisco\, CA 94109\, USA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/san-francisco-vegfest/
