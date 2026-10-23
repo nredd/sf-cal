@@ -40,44 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:ShelterSF DNB – 19-Year Anniversary
-DTSTART;TZID=America/Los_Angeles:20261015T210000
-DTEND;TZID=America/Los_Angeles:20261016T140000
-DTSTAMP:20261014T171851Z
-UID:funcheap-1641823@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:Submitted by the Event OrganizerJames HawkinsAnother year has 
- passed and anniversary time is upon us again! Thursday\, October 15th we w
- ill be celebrating NINETEEN YEARS of Shelter SF Drum & Bass!!! As the long
- est (currently) running drum & bass + jungle night in San Francisco\, we
- ’re excited and pleased to celebrate yet another year of doing our part 
- to help keep this music pumping in the San Francisco Bay Area! Just as wit
- h prior years\, we’re grateful to be able to play the music we love\, an
- d appreciate to the community – new and old – for their continued supp
- ort. We are also pleased to be a place to regularly host local and up-and-
- coming drum & bass and jungle DJs\, as the importance of maintaining the l
- ifeblood of the community cannot be overstated enough.\nIn addition to all
-  that\, we’re also celebrating that we are able to keep the vibes + tune
- s flowing at our amazing home venue Underground SF! Formerly known as The 
- Top\, this location – at 424 Haight street – has been host to multiple
-  dnb + jungle nights for over a quarter century. Shelter began back in 200
- 7\, with our immediate predecessor\, Phuturo\, running for years before Sh
- elter (and Phunckateck even before that!) We are fortunate to have a diver
- se crew\, whose memberships spans the lifetime of Shelter (with some even 
- preceding it!) and all bring different skills\, styles and their own uniqu
- e tastes and talents together to contribute to the night as a whole. And m
- assive appreciation goes out to the Underground SF crew who’v...\n\nFree
- \n\nTickets: https://ra.co/events/2552729\nDetails: https://sf.funcheap.co
- m/sheltersf-dnb-19year-anniversary/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/828839
- 789_1349314463740403_1329239306499384674_n.png
-LAST-MODIFIED:20261014T171851Z
-LOCATION:Underground SF\, 424 Haight Street\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sheltersf-dnb-19year-anniversary/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
  h)
 DTSTART;TZID=America/Los_Angeles:20261016T170000
@@ -2728,6 +2690,30 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/devil-s-night-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost Palace Halloween
+DTSTART;TZID=America/Los_Angeles:20261030T210000
+DTEND;TZID=America/Los_Angeles:20261030T230000
+DTSTAMP:20261023T212911Z
+UID:dothebay-17897337@sf-cal
+SEQUENCE:1
+CATEGORIES:DJ/Parties
+DESCRIPTION:Electroluxx Presents\nGhost Palace Halloween\nFriday\, October
+  30 | Palace of Fine Arts\n\nGhost Palace Halloween returns to The Palace 
+ of Fine Arts on October 30th featuring 6+ stages of music\, art cars and m
+ ore!\n\n21+ Event\n\n21+\nElectroluxx Presents\n\nTickets: https://wl.even
+ tim.us/event/electroluxx-halloween/686690?afflky=NonPlusUltra\nDetails: ht
+ tps://dothebay.com/events/2026/10/30/ghost-palace-halloween-tickets\nSourc
+ e: DoTheBay
+GEO:37.8019913;-122.4486565
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34682680/9ce488c9-48d7-444a-8834-63c117d02dc3.jpg
+LAST-MODIFIED:20261023T212911Z
+LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA\, 941
+ 23
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/30/ghost-palace-halloween-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Boy

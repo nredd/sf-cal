@@ -40,27 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Musk
-DTSTART;TZID=America/Los_Angeles:20261016T134500
-DTEND;TZID=America/Los_Angeles:20261016T154500
-DTSTAMP:20261017T105245Z
-UID:dothebay-17954995@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:An incisive look behind the legend of Elon Musk\, the world’
- s most heralded “inventor-entrepreneur” who has enormous influence on 
- the world in which we all live.\n\nDetails: https://dothebay.com/events/20
- 26/10/16/musk-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34952771/e766a945-c910-4242-b6d5-0946a94ec0ec.jpg
-LAST-MODIFIED:20261017T105245Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/16/musk-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sundown Cinema: Beetlejuice
 DTSTART;TZID=America/Los_Angeles:20261016T170000
 DTEND;TZID=America/Los_Angeles:20261016T190000
