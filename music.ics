@@ -40,27 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Jazz Jam & Burlesque Show at Paris 75
-DTSTART;TZID=America/Los_Angeles:20261015T200000
-DTEND;TZID=America/Los_Angeles:20261015T230000
-DTSTAMP:20261014T171851Z
-UID:funcheap-1641835@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerJazz jam open to all instrumen
- ts & singers in North Beach on Broadway. Burlesque show while the band pla
- ys! Happy hour & drink specials. https://go.airhorn.events/r/gwkV2e\n\nFre
- e\n\nTickets: https://go.airhorn.events/r/gwkV2e\nDetails: https://sf.func
- heap.com/jazz-jam-burlesque-show-paris-75-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
- shot-2026-10-09-at-8.32.53-AM.png
-LAST-MODIFIED:20261014T171851Z
-LOCATION:Paris 75\, 515 Broadway\, San Francisco\, CA 94133\, San Francisc
- o\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/jazz-jam-burlesque-show-paris-75-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Union Square Dances” Free Outdoor Friday Night Dance Party
 DTSTART;TZID=America/Los_Angeles:20261016T170000
 DTEND;TZID=America/Los_Angeles:20261016T200000
@@ -2121,9 +2100,9 @@ SUMMARY:A Split Second\, Crash Course in Science\, Automelodi\, Vioflesh +
   more
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261023T050002Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17959361@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Music
 DESCRIPTION:Substance Festival SF 2026 brings four nights of darkwave\, in
  dustrial\, EBM\, and synth-pop to the Great American Music Hall (Oct 22–
@@ -2137,16 +2116,14 @@ DESCRIPTION:Substance Festival SF 2026 brings four nights of darkwave\, in
  e\n\nDJs: Mozhgan + Jumpr\n\nPlaylist:\n\nhttps://open.spotify.com/playlis
  t/4yrMOSy3vwyMvpP3Attgv1?si=0093eb4db8864e29\n\nVideo:\n\nhttps://www.inst
  agram.com/reel/DefYHtRvRkc/?utm_source=ig_web_button_share_sheet&cplk=MzRl
- ODBiNWFlZA==\n\n$30-$90\nSubstance Fest San Francisco 2026: Day 1\n\nTicke
- ts: https://wl.eventim.us/event/a-split-second-crash-course-in-science/698
- 237?afflky=GreatAmericanMusicHall\nDetails: https://dothebay.com/events/20
- 26/10/22/substance-fest-san-francisco-2026-day-1-tickets\nSource: DoTheBay
- \n\nAlso listed on:\n- https://sf.funcheap.com/substance-fest-2026-undergr
- ound-synthpop-postpunk-sf/
+ ODBiNWFlZA==\n\n$30-$90\nSubstance Fest San Francisco 2026: Day 1\n\nDetai
+ ls: https://dothebay.com/events/2026/10/22/substance-fest-san-francisco-20
+ 26-day-1-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funche
+ ap.com/substance-fest-2026-underground-synthpop-postpunk-sf/
 GEO:37.7848325;-122.418809
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34978020/4f3e4e77-0139-40ff-82e5-b1f241ff079b.jpg
-LAST-MODIFIED:20261023T050002Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Great American Music Hall\, 859 O'farrell Street\, San Francisco\
  , CA\, 94109
 TRANSP:TRANSPARENT
@@ -2196,21 +2173,18 @@ BEGIN:VEVENT
 SUMMARY:Rise Against
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261021T214759Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17099293@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:LIVE 105 Presents\nRicochet 2026\nRise Against\nwith Alkaline 
  Trio\, Teen Mortgage\n\nThursday\, October 22 | The Masonic\n\nLive 105 Pr
- esents: Ricochet 2026\n\nTickets: https://ticketmaster.evyy.net/c/253185/2
- 64167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Flive-10
- 5-presents-rise-against-ricochet-san-francisco-california-10-22-2026%2Feve
- nt%2F1C006465E9388952\nDetails: https://dothebay.com/events/2026/10/22/ris
- e-against-ricochet-2026-tickets\nSource: DoTheBay
+ esents: Ricochet 2026\n\nDetails: https://dothebay.com/events/2026/10/22/r
+ ise-against-ricochet-2026-tickets\nSource: DoTheBay
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30907400/8e8cae2b-30d3-4f36-ae98-00df74bc1f4f.png
-LAST-MODIFIED:20261021T214759Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/rise-against-ricochet-2026-tick
@@ -2220,9 +2194,9 @@ BEGIN:VEVENT
 SUMMARY:Monsta X
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17198657@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:MONSTA X are a globally renowned K-pop powerhouse formed by St
  arship Entertainment in 2015\, consisting of members SHOWNU\, MINHYUK\, KI
@@ -2243,16 +2217,12 @@ DESCRIPTION:MONSTA X are a globally renowned K-pop powerhouse formed by St
  ability\, and emotional evolution\, reinforcing their status as one of the
   most globally resonant and forward-thinking acts in K-pop.\n\nall ages\nA
  nother Planet Entertainment Presents: 2026 MONSTA X WORLD TOUR [THE X : NE
- XUS] IN SAN FRANCISCO\nListed time is doors\n\nTickets: https://ticketmast
- er.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.tick
- etmaster.com%2F2026-monsta-x-world-tour-the-san-francisco-california-10-22
- -2026%2Fevent%2F1C006483CF0D29E6%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26bran
- d%3Danotherplanet\nDetails: https://dothebay.com/events/2026/10/22/monsta-
- x-tickets\nSource: DoTheBay
+ XUS] IN SAN FRANCISCO\nListed time is doors\n\nDetails: https://dothebay.c
+ om/events/2026/10/22/monsta-x-tickets\nSource: DoTheBay
 GEO:37.77814499999999;-122.4174374
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31381459/899fd681-a544-4a27-af76-da5ae7f95aa9.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Bill Graham Civic Auditorium\, 99 Grove Street\, San Francisco\, 
  CA\, 94102
 TRANSP:TRANSPARENT
@@ -2262,9 +2232,9 @@ BEGIN:VEVENT
 SUMMARY:The Aquabats!
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17612838@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Goldenvoice Presents\n\nTrick-or-Treat to the Beat\nThe Aquaba
  ts!\nThursday\, October 22 | ​The Regency Ballroom\n\nSince their format
@@ -2287,14 +2257,13 @@ DESCRIPTION:Goldenvoice Presents\n\nTrick-or-Treat to the Beat\nThe Aquaba
  r 30th anniversary in 2024\, the band is gearing up for a monumental year.
   They will release the fan-funded full-length studio album\, FINALLY!\, on
   June 21. The 30th-anniversary festivities will extend beyond music\, feat
- urin...\n\nAll Ages\nGoldenvoice Presents: Trick-or-Treat to the Beat\n\nT
- ickets: https://www.theregencyballroom.com/events/detail/?event_id=1513757
- \nDetails: https://dothebay.com/events/2026/10/22/the-aquabats-tickets\nSo
- urce: DoTheBay
+ urin...\n\nAll Ages\nGoldenvoice Presents: Trick-or-Treat to the Beat\n\nD
+ etails: https://dothebay.com/events/2026/10/22/the-aquabats-tickets\nSourc
+ e: DoTheBay
 GEO:37.7879104;-122.4215079
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33339148/19df1303-2989-43c1-9b25-7d31ecd21a8b.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Regency Ballroom\, 1290 Sutter Street\, San Francisco\, CA\, 
  94109
 TRANSP:TRANSPARENT
@@ -2304,19 +2273,19 @@ BEGIN:VEVENT
 SUMMARY:George Clanton
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17697035@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment presents\nGeorge Clanton\nThursda
  y\, October 22 | The Castro\n\n$46 - $141\, all ages\nAnother Planet Enter
- tainment presents\nListed time is doors\n\nTickets: https://thecastro.com/
- events/george-clanton-261022\nDetails: https://dothebay.com/events/2026/10
- /22/george-clanton-ideasforconversations-tickets\nSource: DoTheBay
+ tainment presents\nListed time is doors\n\nDetails: https://dothebay.com/e
+ vents/2026/10/22/george-clanton-ideasforconversations-tickets\nSource: DoT
+ heBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33732886/4d7b7a9b-27c7-4567-998c-cdf7ac1e300a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/george-clanton-ideasforconversa
@@ -2326,19 +2295,17 @@ BEGIN:VEVENT
 SUMMARY:gnash
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17000419@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:gnash\nThursday\, October 22 | August Hall\n\nAll ages\n\nTick
- ets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u
- =https%3A%2F%2Fwww.ticketmaster.com%2Fgnash-san-francisco-california-10-22
- -2026%2Fevent%2F1C006452E3FFEDA1\nDetails: https://dothebay.com/events/202
- 6/10/22/gnash-tickets\nSource: DoTheBay
+DESCRIPTION:gnash\nThursday\, October 22 | August Hall\n\nAll ages\n\nDeta
+ ils: https://dothebay.com/events/2026/10/22/gnash-tickets\nSource: DoTheBa
+ y
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30428985/60b2c75d-5097-4d13-9378-3cf420d7cab1.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/gnash-tickets
@@ -2347,23 +2314,19 @@ BEGIN:VEVENT
 SUMMARY:Frankie Cosmos
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T220000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17361858@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment Presents\nCelebrating 10 Years of
   Next Thing\nFrankie Cosmos\nThursday\, October 22 | The Independent\n\n$3
  1.55\, All Ages\nAnother Planet Entertainment Presents: Celebrating 10 Yea
- rs of Next Thing\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167
- /4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Ffrankie
- -cosmos-celebrating-the-independent-tickets%2F14919283%3FREFERRAL_ID%3Dtmf
- eedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705
- \nDetails: https://dothebay.com/events/2026/10/22/frankie-cosmos-celebrati
- ng-10-years-of-next-thing-tickets\nSource: DoTheBay
+ rs of Next Thing\n\nDetails: https://dothebay.com/events/2026/10/22/franki
+ e-cosmos-celebrating-10-years-of-next-thing-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32136662/131cd62f-e6fd-488f-bb25-959c3753c81a.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -2416,17 +2379,16 @@ BEGIN:VEVENT
 SUMMARY:X CLUB.
 DTSTART;TZID=America/Los_Angeles:20261022T210000
 DTEND;TZID=America/Los_Angeles:20261022T230000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17731869@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:$20-$30\, 21+\nDJ Dials & 1015 Folsom present\n\nTickets: http
- s://wl.seetickets.us/event/x-club/701914?afflky=1015Folsom\nDetails: https
- ://dothebay.com/events/2026/10/22/x-club-tickets\nSource: DoTheBay
+DESCRIPTION:$20-$30\, 21+\nDJ Dials & 1015 Folsom present\n\nDetails: http
+ s://dothebay.com/events/2026/10/22/x-club-tickets\nSource: DoTheBay
 GEO:37.7781117;-122.4058001
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33938977/3d747a6a-e883-4563-8283-b5a7eb265fa4.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/x-club-tickets
@@ -6137,6 +6099,39 @@ LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
  118
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Organ Recital: English and American Masterworks
+DTSTART;TZID=America/Los_Angeles:20261101T170000
+DTEND;TZID=America/Los_Angeles:20261101T190000
+DTSTAMP:20261023T114720Z
+UID:dothebay-17986121@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Dr. Justin Murphy-Mancini from Pacific Lutheran University wil
+ l offer a pipe-organ recital on "English and American Masterworks" on the 
+ 1924 E. M. Skinner organ in the sublime acoustics of Trinity St. Peter's. 
+ The program features hidden gems written in the last 150 years. Prominent 
+ American composers of yesteryear\, like Henry Dunham\, are contrasted with
+  major figures of the 20th century\, including Emma Lou Diemer\, Undine Sm
+ ith Moore\, and Miriam Gideon. These are paired with works by composers ac
+ ross the pond\, including Kenneth Leighton and Samuel Coleridge-Taylor. Th
+ e crown jewel is Herbert Howells's Master Tallis' Testament. This concert 
+ has a little of everything\, from Bachian inspired fireworks\, to dense ch
+ romaticism\, to unadulterated joy. It is a diverse\, yet coherent musical 
+ experience.\n\nFree\n\nPresented by Palo Alto/Peninsula Chapter of the Ame
+ rican Guild of Organists\n\nFree\nPalo Alto/Peninsula Chapter of the Ameri
+ can Guild of Organists\n\nTickets: http://papenago.org\nDetails: https://d
+ othebay.com/events/2026/11/1/organ-recital-english-and-american-masterwork
+ s-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35097363/e3009601-19c3-4394-af08-70e9ac40f78e.jpg
+LAST-MODIFIED:20261023T114720Z
+LOCATION:Trinity + St. Peter's Episcopal Church\, 1620 Gough Street\, San 
+ Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/1/organ-recital-english-and-americ
+ an-masterworks-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Musical Box

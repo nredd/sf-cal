@@ -41,24 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Third Thursdays On Ellis 2026
-DTSTART;TZID=America/Los_Angeles:20261015T090000
-DTEND;TZID=America/Los_Angeles:20261015T235900
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1389402-2026-10-15T09:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Ellis St from Stockton St to Powell St\n\nPermit statu
- s: Permitted\nTimes are SFMTA street-closure permit times and include setu
- p and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https
- ://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.785618;-122.406842
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Ellis St between Powell St and Stockton St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Castro Night Market Series 2026
 DTSTART;TZID=America/Los_Angeles:20261016T110000
 DTEND;TZID=America/Los_Angeles:20261017T010000

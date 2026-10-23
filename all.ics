@@ -40,208 +40,36 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: pink/blue
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261006T193603Z
-UID:city-hall-lights-ics-b9e2e1b765b88d82@sf-cal
-SEQUENCE:0
-DESCRIPTION:National Pregnancy & Infant Loss Awareness Month\n\nDetails: h
- ttps://www.sf.gov/location--san-francisco-city-hall\nSource: SF City Hall 
- lighting (via Robelius/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261006T193603Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Third Thursdays On Ellis 2026
-DTSTART;TZID=America/Los_Angeles:20261015T090000
-DTEND;TZID=America/Los_Angeles:20261015T235900
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1389402-2026-10-15T09:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Ellis St from Stockton St to Powell St\n\nPermit statu
- s: Permitted\nTimes are SFMTA street-closure permit times and include setu
- p and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https
- ://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.785618;-122.406842
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Ellis St between Powell St and Stockton St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KAJE’s Creatives Present “Accoutrements” – An Ancestral Of
- fering by the Collective
-DTSTART;TZID=America/Los_Angeles:20261015T180000
-DTEND;TZID=America/Los_Angeles:20261015T230000
-DTSTAMP:20261014T171851Z
-UID:funcheap-1639775@sf-cal
-SEQUENCE:0
-CATEGORIES:Kids Families
-DESCRIPTION:Submitted by the Event OrganizerKAJE\, LLCKAJE’s Creative’
- s presents ACCOUTREMENTS\, a limited-edition art offering featuring three 
- works by three artists of the collective: Deidre Marin’s Lady in Red—H
- ot Purple (2025)\, Jalila Bell’s Auntie Face (2023)\, and Kaylah Marin
- ’s Papa Legba (2016).\nEach ACCOUTREMENTS offering brings together three
-  8 × 10 signed art prints\, creating a small collection rooted in ancestr
- y\, identity\, imagination\, and the distinct visual languages of the arti
- sts.\n\nOnly eight editions will be offered.\nACCOUTREMENTS will be availa
- ble in conjunction with the collective’s appearance at Autumn Lights\, O
- ctober 15–17\, 2026\, in Oakland\, California.\nFor information about KA
- JE Creative\, the artists\, and the ACCOUTREMENTS offering\, visit KAJECre
- ative.com.\n\n$12.51\n\nTickets: https://www.eventbrite.com/e/15th-anniver
- sary-autumn-lights-festival-tickets-1998696228222?aff=oddtdtcreator\nDetai
- ls: https://sf.funcheap.com/kajes-creatives-present-accoutrements-ancestra
- l-offering-collective/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Accout
- rements_Priceless_Autumn-Lights.jpg
-LAST-MODIFIED:20261014T171851Z
-LOCATION:The Gardens at Lake Merritt\, 666 Bellevue Ave. Oakland\, CA 9461
- 0
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/kajes-creatives-present-accoutrements-ancestra
- l-offering-collective/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Green Film Festival of San Francisco
 DTSTART;TZID=America/Los_Angeles:20261015T180000
-DTEND;TZID=America/Los_Angeles:20261015T230000
-DTSTAMP:20261014T171851Z
-UID:funcheap-1640836@sf-cal
+DTEND;TZID=America/Los_Angeles:20261016T180000
+DTSTAMP:20261023T114720Z
+UID:caldiscovery-festival-d26d5c0858f97f66@sf-cal
 SEQUENCE:0
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerSF IndieFestOct 15-22\, 6pm-11
- pm\nForget the guilt trip\, the Green Film Festival of San Francisco\, the
-  mischievous\, tree-hugging cousin of the 29 year old SF IndieFest\, retur
- ns Oct 15-22 to prove that saving the planet doesn’t have to feel like h
- omework. We’ve ditched the doom-and-gloom documentaries that make you wa
- nt to crawl under a (sustainably sourced) blanket and never come out.\n\nT
- he line-up this year pairs sharp environmental storytelling with wit\, wei
- rdness\, and unapologetic irreverence. And yes\, our Eco-Horror midnight m
- ovie is back!\nWhether you’re an eco-curious cinephile or a die-hard act
- ivist\, come join in the fun because if we’re going to talk about the en
- d of the world as we know it\, we might as well laugh\, gasp\, and maybe e
- ven dance a little on the way there.\nThrough this experience the festival
-  hopes audiences can begin to engage with sustainable solutions to the pro
- blems facing the planet.\nPresented by SF IndieFest\n\n$15.00\n\nTickets: 
- https://greenfest2026.eventive.org\nDetails: https://sf.funcheap.com/green
- -film-festival-san-francisco-2/\nSource: Funcheap SF\n\nAlso listed on:\n-
-  https://www.indybay.org/newsitems/2026/10/03/18888999.php?utm_source=cald
- iscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/4791_v
- 0.jpg
-LAST-MODIFIED:20261014T171851Z
-LOCATION:4-Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
+CATEGORIES:festival,film
+DESCRIPTION:Oct 15-22\, 6pm-11pm\n\nForget the guilt trip\, the Green Film
+  Festival of San Francisco\, the mischievous\, tree-hugging cousin of the 
+ 29 year old SF IndieFest\, returns Oct 15-22 to prove that saving the plan
+ et doesn't have to feel like homework. We've ditched the doom-and-gloom do
+ cumentaries that make you want to crawl under a (sustainably sourced) blan
+ ket and never come out.\n\nThe line-up this year pairs sharp environmental
+  storytelling with wit\, weirdness\, and unapologetic irreverence. And yes
+ \, our Eco-Horror midnight movie is back!\n\nWhether you're an eco-curious
+  cinephile or a die-hard activist\, come join in the fun because if we're 
+ going to talk about the end of the world as we know it\, we might as well 
+ laugh\, gasp\, and maybe even dance a little on the way there.\n\nThrough 
+ this experience the festival hopes audiences can begin to engage with sust
+ ainable solutions to the problems facing the planet.\n\n10-15.\nhttps://ww
+ w.indybay.org/newsitems/2026/10/03/18888999.php\n\nPublished by Indybay\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
+ ails: https://www.indybay.org/newsitems/2026/10/03/18888999.php?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDis
+ covery
+LAST-MODIFIED:20261023T114720Z
+LOCATION:4-Star Theater 2200 Clement St San Francisco\, CA 94121
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/green-film-festival-san-francisco-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oakland’s 2026 “Autumn Lights Festival” (October 15-17)
-DTSTART;TZID=America/Los_Angeles:20261015T180000
-DTEND;TZID=America/Los_Angeles:20261015T230000
-DTSTAMP:20261010T010053Z
-UID:funcheap-1641288@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Oakland’s 2026 “Autumn Lights Festival” (October 15-17)\
- nAutumn Lights Festival\nArt and nature enthusiasts from all over the regi
- on flock to Oakland’s Lake Merritt to immerse themselves in the must-see
-  15th Anniversary Autumn Lights Festival\, a one-of-a-kind interactive art
-  experience that is always the talk of the town.\nWe invite you to celebra
- te our 15th Anniversary festival in-person over three spectacular nights O
- ctober 15-17\, 2026. Prepare to be dazzled\, mesmerized and amazed at this
-  magical benefit for the non-profit Friends of the Gardens at Lake Merritt
-  where you will experience 75 locally produced illuminated art displays sp
- arkling and beaming throughout Oakland’s beloved eight-acre municipal ga
- rdens. Be sure to buy your tickets soon as this event always sells out.\nA
- utumn Lights Festival 2026\nOctober 15-17\, 2026 | 6-11p\nGardens at Lake 
- Merritt\, 666 Bellevue Avenue\, Oakland\nBuy Tickets – $28.52 (fees incl
- uded) for ages 18+\, $12.51 for ages 6-17\, Free for ages five and under\n
- \nAutumn Lights Festival\n\nAdditional highlights include:\n\nLive enterta
- inment\nAnnual art market\nKid’s zone\nCostume contest for adults and ki
- ds (come lit!)\nArtists awards\nPopular food court with local food trucks\
- , vendors\, and beer + wine gardens\n\nLearn more about the Autumn Lights 
- Festival and Gardens at Lake Merritt.\n\nAutumn Lights Festival\n\nAutumn 
- Lights Festival\n\nAutumn Lights Festival\n\nAutumn Lights Festival\n\nVie
- w this post on Instagram\n\nA post shared by The Gardens at Lake Merritt (
- @gardens_lake_...\n\n$28.52\n\nTickets: https://ALF2026.eventbrite.com\nDe
- tails: https://sf.funcheap.com/oaklands-2026-autumn-lights-festival-octobe
- r-1517/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/fUPXIM
- tR.jpeg
-LAST-MODIFIED:20261010T010053Z
-LOCATION:The Gardens at Lake Merritt\, 666 Bellevue Ave. Oakland\, CA 9461
- 0
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/oaklands-2026-autumn-lights-festival-october-1
- 517/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz Jam & Burlesque Show at Paris 75
-DTSTART;TZID=America/Los_Angeles:20261015T200000
-DTEND;TZID=America/Los_Angeles:20261015T230000
-DTSTAMP:20261014T171851Z
-UID:funcheap-1641835@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerJazz jam open to all instrumen
- ts & singers in North Beach on Broadway. Burlesque show while the band pla
- ys! Happy hour & drink specials. https://go.airhorn.events/r/gwkV2e\n\nFre
- e\n\nTickets: https://go.airhorn.events/r/gwkV2e\nDetails: https://sf.func
- heap.com/jazz-jam-burlesque-show-paris-75-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
- shot-2026-10-09-at-8.32.53-AM.png
-LAST-MODIFIED:20261014T171851Z
-LOCATION:Paris 75\, 515 Broadway\, San Francisco\, CA 94133\, San Francisc
- o\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/jazz-jam-burlesque-show-paris-75-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots
-DTSTART;TZID=America/Los_Angeles:20261015T210000
-DTEND;TZID=America/Los_Angeles:20261016T020000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1640457@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots
-  (SF)\nHellaFunny\n\nSing all night. 1000+ songs. Crazy Hour $3 shots ever
- y hour!\n\n🎤 CRAZY KARAOKE THURSDAYS AT THE FUNCTION\nThursdays | 9PM u
- ntil close\nGrab the mic and sing your heart out at San Francisco’s newe
- st karaoke night.\nFree with RSVP – 21+\nWhether you’re a seasoned per
- former\, a shower singer\, or just there to cheer on your friends\, Karaok
- e Thursdays is all about great songs\, great drinks\, and a fun\, welcomin
- g crowd.\n🎵 WHAT TO EXPECT\n• 1000+ songs spanning every genre and er
- a\n• Solo performances\, duets\, and group sing-alongs\n• Big screens\
- , great sound\, and a lively late-night atmosphere\n• Live song requests
-  throughout the night\n🛋 UPSTAIRS “NEXT LEVEL” LOUNGE\nNeed a break
-  from the spotlight? Head upstairs to the Next Level Lounge for comfortabl
- e seating\, drinks\, and a live feed of the karaoke stage so you won’t m
- iss a thing.\n🍹 DRINK SPECIALS\n• Crazy Hour – $3 shots every hour\
- , on the hour\n🎟 TICKET OPTIONS\nGeneral Admission (Free) – 21+\nGet 
- in free\, add your name to the karaoke list\, grab a drink\, and get ready
-  for your moment on stage. Seating is first come\, first served.\nVIP Rock
- star Pass – Fast Track ($10) – 21+\n• Skip the karaoke line and get 
- on stage faster\n• Priority access to performances\n• VIP seating held
-  until 10PM\n• Limited availability\nDoors at 9PM. Show up early\, stay 
- late.\nTo help support our bar and wait staff\, there is a two drink minim
- um per person. Shots\, non-alcoholic beverages\, and sodas cou...\n\nFree\
- n\nTickets: https://www.eventbrite.com/e/arcade-karaoke-sfs-wild-new-thurs
- day-party-night-free-tickets-1987841834438?aff=oddtdtcreator&amp\;keep_tld
- =true\nDetails: https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursda
- y-night-party-3-shots-sf-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/04/crazyk
- araoke.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-part
- y-3-shots-sf-2/
+URL:https://www.indybay.org/newsitems/2026/10/03/18888999.php?utm_source=c
+ aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ShelterSF DNB – 19-Year Anniversary
@@ -12300,9 +12128,9 @@ SUMMARY:Cherub Dream Records x The Lab: Tricky FM "Twin Star Fantasy" + Ed
  gar
 DTSTART;TZID=America/Los_Angeles:20261022T080000
 DTEND;TZID=America/Los_Angeles:20261022T100000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17729683@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:Buy Tickets\n\nDoors 8pm / Show 8:30pm\n\n$17 / free or discou
  nted for members\n\nTricky FM is the music project and "electronica star" 
@@ -12325,13 +12153,12 @@ DESCRIPTION:Buy Tickets\n\nDoors 8pm / Show 8:30pm\n\n$17 / free or discou
  he relationships that shaped her—an homage to the past\, a document of t
  he present\, and a prayer for the future. It shows an artist at the fullne
  ss of her potential\, stepping into a sound that she has been pe...\n\n$17
- \n\nTickets: https://link.dice.fm/Q9443cb6dee1\nDetails: https://dothebay.
- com/events/2026/10/22/cherub-dream-records-x-the-lab-tricky-fm-twin-star-f
- antasy-edgar-tickets\nSource: DoTheBay
+ \n\nDetails: https://dothebay.com/events/2026/10/22/cherub-dream-records-x
+ -the-lab-tricky-fm-twin-star-fantasy-edgar-tickets\nSource: DoTheBay
 GEO:37.765289;-122.418493
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33891157/7600634b-edad-4ead-9a3a-9155e516cb0c.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Lab\, 2948 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/cherub-dream-records-x-the-lab-
@@ -12431,9 +12258,9 @@ BEGIN:VEVENT
 SUMMARY:Suffs
 DTSTART;TZID=America/Los_Angeles:20261022T130000
 DTEND;TZID=America/Los_Angeles:20261022T150000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-16602210@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:October 22–November 9\, 2025\n\n2 hours\, 30 minutes\, inclu
  ding one intermission\n\nOrpheum Theatre | 1192 Market St. San Francisco\,
@@ -12456,12 +12283,12 @@ DESCRIPTION:October 22–November 9\, 2025\n\n2 hours\, 30 minutes\, inclu
  s are limited view and single seats only. Tickets are subject to availabil
  ity. Cash or credit. 2 per person. Rush tickets are void if resold.\n\nDow
  nload the TodayTix app in the iOS App Store or Google Play Store to unlock
-  the Rush...\n\nTickets: https://www.broadwaysf.com/events/suffs/\nDetails
- : https://dothebay.com/events/2026/10/22/suffs-tickets\nSource: DoTheBay
+  the Rush...\n\nDetails: https://dothebay.com/events/2026/10/22/suffs-tick
+ ets\nSource: DoTheBay
 GEO:37.779246;-122.4145712
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/28554804/e95b47c1-0253-46e1-9ea9-87c47f77ee36.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/suffs-tickets
@@ -12470,9 +12297,9 @@ BEGIN:VEVENT
 SUMMARY:El Grupo de Apoyo Latino
 DTSTART;TZID=America/Los_Angeles:20261022T150000
 DTEND;TZID=America/Los_Angeles:20261022T170000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-16869111@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:El Grupo de Apoyo Latino de SFAF es un grupo social y educativ
  o que ofrece un espacio abierto\, seguro\, y confidencial para apoyar a la
@@ -12489,13 +12316,12 @@ DESCRIPTION:El Grupo de Apoyo Latino de SFAF es un grupo social y educativ
  s\, Latinas and their families since the early 1980s. Join us for informat
  ion about sexual health and harm reduction\, meals and social support\, an
  d help finding health and social services.\n\nMeetings are in-person at 94
- 0 Howard St Group Room A every Thursday from 3 to 5 pm.\n\nTickets: https:
- //www.sfaf.org/event/el-grupo-de-apoyo-latino/2026-10-22/\nDetails: https:
+ 0 Howard St Group Room A every Thursday from 3 to 5 pm.\n\nDetails: https:
  //dothebay.com/events/2026/10/22/el-grupo-de-apoyo-latino-tickets\nSource:
   DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/29788696/d9da678f-d6f7-41c9-914e-a6ed7af9a724.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/el-grupo-de-apoyo-latino-ticket
@@ -12531,9 +12357,9 @@ BEGIN:VEVENT
 SUMMARY:Naza
 DTSTART;TZID=America/Los_Angeles:20261022T155000
 DTEND;TZID=America/Los_Angeles:20261022T175000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17930209@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:NAZA screens at NEW PEOPLE October 9–11\, and 18. Screenings
   at The Roxie start October 12.\n\nIn secret conversations on the rooftops
@@ -12556,13 +12382,12 @@ DESCRIPTION:NAZA screens at NEW PEOPLE October 9–11\, and 18. Screenings
   said\, the silence. It is up to all of us to break that silence.\n\n– Y
  uval Abraham and Rachel Szor\n\n“An essential\, devastating documentary
  …there’s no turning away from what’s said\, you simply can’t unkno
- w...\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22289?siteTok
- en=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/2026/1
- 0/22/naza-tickets\nSource: DoTheBay
+ w...\n\nDetails: https://dothebay.com/events/2026/10/22/naza-tickets\nSour
+ ce: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34836068/a642567c-6f61-4369-895b-d4b7f511b2b6.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/naza-tickets
@@ -12647,9 +12472,9 @@ BEGIN:VEVENT
 SUMMARY:District 1 Richmond Family Summit
 DTSTART;TZID=America/Los_Angeles:20261022T170000
 DTEND;TZID=America/Los_Angeles:20261022T190000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17821471@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Arts & Family
 DESCRIPTION:This is Your City. This is Your Voice. This is Your Future. Sh
  are your story about growing up and raising your family in San Francisco.\
@@ -12673,14 +12498,12 @@ DESCRIPTION:This is Your City. This is Your Voice. This is Your Future. Sh
  r Richmond\, Vista del Mar\, Seacliff\, Lake District\, Presidio Terrace\,
   Lone Mountain\, Golden Gate Park\, Lincoln Park\, and the University of S
  an Fr...\n\nFree\nSan Francisco Department of Children\, Youth & Their Fam
- ilies (DCYF)\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fww
- w.eventbrite.com%2Fe%2Fdistrict-1-richmond-family-summit-tickets-199654680
- 6243%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/10/2
- 2/district-1-richmond-family-summit-tickets\nSource: DoTheBay\n\nAlso list
- ed on:\n- https://sf.funcheap.com/district-1-richmond-family-summit/
+ ilies (DCYF)\n\nDetails: https://dothebay.com/events/2026/10/22/district-1
+ -richmond-family-summit-tickets\nSource: DoTheBay\n\nAlso listed on:\n- ht
+ tps://sf.funcheap.com/district-1-richmond-family-summit/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34322180/b6463c94-3c25-4685-befb-348b59aa5e7a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Richmond Recreation Center\, 251 18th Avenue\, San Francisco\, CA
  \, 94121
 TRANSP:TRANSPARENT
@@ -12837,9 +12660,9 @@ BEGIN:VEVENT
 SUMMARY:After Dark: Death and Life / La muerte y la vida
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17797857@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:After Dark: Death and Life / La muerte y la vida\nThursday\, O
  ctober 22 | Exploratorium\, Pier 15\n\nHow do you feel about death? Join u
@@ -12852,14 +12675,13 @@ DESCRIPTION:After Dark: Death and Life / La muerte y la vida\nThursday\, O
  n\nAfter Dark Thursday Nights\nThis event is part of our After Dark Thursd
  ay Nights series. Unplug and play with 700+ interactive exhibits exploring
   science\, art\, and perception. Learn more.\n\n6–10 p.m.\nAdults Only (
- Ages 18+)\nThe Exploratorium\, Pier 15\, San Francisco\n\n18+\n\nTickets: 
- https://www.exploratorium.edu/visit/calendar/after-dark-death-and-life\nDe
- tails: https://dothebay.com/events/2026/10/22/after-dark-death-and-life-la
- -muerte-y-la-vida-tickets\nSource: DoTheBay
+ Ages 18+)\nThe Exploratorium\, Pier 15\, San Francisco\n\n18+\n\nDetails: 
+ https://dothebay.com/events/2026/10/22/after-dark-death-and-life-la-muerte
+ -y-la-vida-tickets\nSource: DoTheBay
 GEO:37.8016649;-122.397348
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34217282/8d5faca4-7a57-4888-8665-2d291e46f8d0.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Exploratorium\, Pier 15 \, San Francisco\, CA\, 94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/after-dark-death-and-life-la-mu
@@ -12869,9 +12691,9 @@ BEGIN:VEVENT
 SUMMARY:NightLife: Día de los Muertos
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17799228@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Dónde la música y la memoria se encuentran. Join us for our 
  fourth annual Día de los Muertos celebration\, una noche en Michoacán\, 
@@ -12881,14 +12703,13 @@ DESCRIPTION:Dónde la música y la memoria se encuentran. Join us for our
  ne affinity group CONCIENCIA\, we’re transforming the museum into a vibr
  ant showcase featuring traditional dances\, local makers\, and interactive
   experiences that bring this celebration and the Michoacana culture to lif
- e.\n\nTickets: https://www.calacademy.org/nightlife/nightlife-d%C3%ADa-de-
- los-muertos\nDetails: https://dothebay.com/events/2026/10/22/nightlife-dia
- -de-los-muertos-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf
- .funcheap.com/da-de-los-muertos-nightlife-2026-cal-academy-sciences-sf/
+ e.\n\nDetails: https://dothebay.com/events/2026/10/22/nightlife-dia-de-los
+ -muertos-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funche
+ ap.com/da-de-los-muertos-nightlife-2026-cal-academy-sciences-sf/
 GEO:37.7698646;-122.4660947
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34225114/3c5bbbfc-ae46-4f15-a753-5ca4c6f558ff.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:California Academy of Sciences\, 55 Music Concourse Drive\, San F
  rancisco\, CA\, 94118
 TRANSP:TRANSPARENT
@@ -12900,9 +12721,9 @@ SUMMARY:Her Story\, History\, Their Story\, Whose Story? Facts and Fiction
  s in Historical Queer Books
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17837544@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:LOCATION\n\nGLBT Historical Society Museum\n\n4127 18th Street
  \n\nSan Francisco\, CA 94114\n\nADMISSION\n\n$10\; Free for GLBT Historica
@@ -12925,14 +12746,13 @@ DESCRIPTION:LOCATION\n\nGLBT Historical Society Museum\n\n4127 18th Street
  n years. A journalist\, editor and photographer in LGBTQ media for more th
  an three decades\, he lives in San Francisco\, and is the Arts Editor of t
  he Bay Area Reporter. https://www.jimprovenzano.com/\n\nMark Abramson (...
- \n\n$10\n\nTickets: https://herstory_history_litquake.eventbrite.com\nDeta
- ils: https://dothebay.com/events/2026/10/22/her-story-history-their-story-
- whose-story-facts-and-fictions-in-historical-queer-books-tickets\nSource: 
- DoTheBay
+ \n\n$10\n\nDetails: https://dothebay.com/events/2026/10/22/her-story-histo
+ ry-their-story-whose-story-facts-and-fictions-in-historical-queer-books-ti
+ ckets\nSource: DoTheBay
 GEO:37.7608609;-122.4356584
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34423966/2460d8dc-72a4-40ea-bab7-d359d6a6d86e.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:GLBT History Museum\, 4127 18th St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/her-story-history-their-story-w
@@ -13001,9 +12821,9 @@ BEGIN:VEVENT
 SUMMARY:Presentation: Eyewitness to the Resistance
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261006T191250Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17914032@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Activism
 DESCRIPTION:Indivisible SF presents a panel of local photojournalists from
   Pro Bono Photo and other news organizations who share selections from the
@@ -13023,16 +12843,15 @@ DESCRIPTION:Indivisible SF presents a panel of local photojournalists from
   photographic record of protest and civic action. The display will be on v
  iew on the 4th Floor of the Main Library from Sept. 17-Dec. 31.\n\nFree\n\
  nPresented by San Francisco Public Library\n\nFree\nSan Francisco Public L
- ibrary\n\nTickets: https://on.sfpl.org/Eyewitness-Resistance\nDetails: htt
- ps://dothebay.com/events/2026/10/22/presentation-eyewitness-to-the-resista
- nce-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
- m/free-panel-bay-area-protest-photojournalists-popup-exhibit-sf-main-libra
- ry/\n- https://sf.funcheap.com/macabre-marvels-stack-inspiration-sf-librar
- ys-hidden-books/\n- https://sf.funcheap.com/presentation-eyewitness-resist
- ance-sf-main-library/
+ ibrary\n\nDetails: https://dothebay.com/events/2026/10/22/presentation-eye
+ witness-to-the-resistance-tickets\nSource: DoTheBay\n\nAlso listed on:\n- 
+ https://sf.funcheap.com/free-panel-bay-area-protest-photojournalists-popup
+ -exhibit-sf-main-library/\n- https://sf.funcheap.com/macabre-marvels-stack
+ -inspiration-sf-librarys-hidden-books/\n- https://sf.funcheap.com/presenta
+ tion-eyewitness-resistance-sf-main-library/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34760492/6b769334-9fe2-4599-996d-cb6fbb8eecbe.jpg
-LAST-MODIFIED:20261006T191250Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Koret Auditorium (SF Public Library)\, 100 Larkin St\, San Franci
  sco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -13043,9 +12862,9 @@ BEGIN:VEVENT
 SUMMARY:SF Latino Film Festival: STREET SMART: Lessons from a TV Icon
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17930217@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:Opening night of the 18th annual SF Latino Film Festival!\n\nD
  irector Ernie Bustamante in person for a post screening Q&A.\n\nFilm + Rec
@@ -13061,15 +12880,14 @@ DESCRIPTION:Opening night of the 18th annual SF Latino Film Festival!\n\nD
  nal documentary invites viewers to learn once again from this beloved icon
  .\n\nRuntime\n\n1h 25m\n\nYear\n\n2025\n\nDirector\n\nErnie Bustamante\n\n
  Format\n\nDCP\n\nFirst Showing\n\nOctober 22\, 2026\n\nCategories\n\nFeatu
- red\n\nTickets: https://www.cinemassf.org/tickets-passes/\nDetails: https:
- //dothebay.com/events/2026/10/22/sf-latino-film-festival-street-smart-less
- ons-from-a-tv-icon-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https:/
- /sf.funcheap.com/2026-san-francisco-latino-film-fest-opening-night-sesame-
- street-icon-doc-roxie-theater/
+ red\n\nDetails: https://dothebay.com/events/2026/10/22/sf-latino-film-fest
+ ival-street-smart-lessons-from-a-tv-icon-tickets\nSource: DoTheBay\n\nAlso
+  listed on:\n- https://sf.funcheap.com/2026-san-francisco-latino-film-fest
+ -opening-night-sesame-street-icon-doc-roxie-theater/
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34836098/a8d963d9-fa94-4d9e-b34a-d29e25fe78db.jpg
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/sf-latino-film-festival-street-
@@ -13079,9 +12897,9 @@ BEGIN:VEVENT
 SUMMARY:GREEN FILM FESTIVAL: A City in the Forest
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17947934@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Green Film Festival presents:\n\nA CITY IN THE FOREST\n\n(Clos
  ing Night Film)\n\nWhen a private police foundation in Atlanta tries to ra
@@ -13103,14 +12921,13 @@ DESCRIPTION:Green Film Festival presents:\n\nA CITY IN THE FOREST\n\n(Clos
   as we know it\, we might as well laugh\, gasp\, and maybe even dance a li
  ttle on the way there. Through this experience the festival hopes audience
  s can begin to engage with sustainable solutions to the problems facing th
- e planet.\n\nTickets: https://greenfest2026.eventive.org/live_schedule/6a9
- eecde94df30d1f91604e3\nDetails: https://dothebay.com/events/2026/10/22/gre
- en-film-festival-a-city-in-the-forest-tickets\nSource: DoTheBay\n\nAlso li
- sted on:\n- https://sf.funcheap.com/2026-san-francisco-latino-film-fest-op
- ening-night-sesame-street-icon-doc-roxie-theater/
+ e planet.\n\nDetails: https://dothebay.com/events/2026/10/22/green-film-fe
+ stival-a-city-in-the-forest-tickets\nSource: DoTheBay\n\nAlso listed on:\n
+ - https://sf.funcheap.com/2026-san-francisco-latino-film-fest-opening-nigh
+ t-sesame-street-icon-doc-roxie-theater/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34917135/59604410-ad5a-4c95-80c2-8a94cf36ec86.jpg
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/green-film-festival-a-city-in-t
@@ -13121,9 +12938,9 @@ SUMMARY:A Split Second\, Crash Course in Science\, Automelodi\, Vioflesh +
   more
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261023T050002Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17959361@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Music
 DESCRIPTION:Substance Festival SF 2026 brings four nights of darkwave\, in
  dustrial\, EBM\, and synth-pop to the Great American Music Hall (Oct 22–
@@ -13137,16 +12954,14 @@ DESCRIPTION:Substance Festival SF 2026 brings four nights of darkwave\, in
  e\n\nDJs: Mozhgan + Jumpr\n\nPlaylist:\n\nhttps://open.spotify.com/playlis
  t/4yrMOSy3vwyMvpP3Attgv1?si=0093eb4db8864e29\n\nVideo:\n\nhttps://www.inst
  agram.com/reel/DefYHtRvRkc/?utm_source=ig_web_button_share_sheet&cplk=MzRl
- ODBiNWFlZA==\n\n$30-$90\nSubstance Fest San Francisco 2026: Day 1\n\nTicke
- ts: https://wl.eventim.us/event/a-split-second-crash-course-in-science/698
- 237?afflky=GreatAmericanMusicHall\nDetails: https://dothebay.com/events/20
- 26/10/22/substance-fest-san-francisco-2026-day-1-tickets\nSource: DoTheBay
- \n\nAlso listed on:\n- https://sf.funcheap.com/substance-fest-2026-undergr
- ound-synthpop-postpunk-sf/
+ ODBiNWFlZA==\n\n$30-$90\nSubstance Fest San Francisco 2026: Day 1\n\nDetai
+ ls: https://dothebay.com/events/2026/10/22/substance-fest-san-francisco-20
+ 26-day-1-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funche
+ ap.com/substance-fest-2026-underground-synthpop-postpunk-sf/
 GEO:37.7848325;-122.418809
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34978020/4f3e4e77-0139-40ff-82e5-b1f241ff079b.jpg
-LAST-MODIFIED:20261023T050002Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Great American Music Hall\, 859 O'farrell Street\, San Francisco\
  , CA\, 94109
 TRANSP:TRANSPARENT
@@ -13308,21 +13123,18 @@ BEGIN:VEVENT
 SUMMARY:Rise Against
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261021T214759Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17099293@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:LIVE 105 Presents\nRicochet 2026\nRise Against\nwith Alkaline 
  Trio\, Teen Mortgage\n\nThursday\, October 22 | The Masonic\n\nLive 105 Pr
- esents: Ricochet 2026\n\nTickets: https://ticketmaster.evyy.net/c/253185/2
- 64167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Flive-10
- 5-presents-rise-against-ricochet-san-francisco-california-10-22-2026%2Feve
- nt%2F1C006465E9388952\nDetails: https://dothebay.com/events/2026/10/22/ris
- e-against-ricochet-2026-tickets\nSource: DoTheBay
+ esents: Ricochet 2026\n\nDetails: https://dothebay.com/events/2026/10/22/r
+ ise-against-ricochet-2026-tickets\nSource: DoTheBay
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30907400/8e8cae2b-30d3-4f36-ae98-00df74bc1f4f.png
-LAST-MODIFIED:20261021T214759Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/rise-against-ricochet-2026-tick
@@ -13332,9 +13144,9 @@ BEGIN:VEVENT
 SUMMARY:Monsta X
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17198657@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:MONSTA X are a globally renowned K-pop powerhouse formed by St
  arship Entertainment in 2015\, consisting of members SHOWNU\, MINHYUK\, KI
@@ -13355,16 +13167,12 @@ DESCRIPTION:MONSTA X are a globally renowned K-pop powerhouse formed by St
  ability\, and emotional evolution\, reinforcing their status as one of the
   most globally resonant and forward-thinking acts in K-pop.\n\nall ages\nA
  nother Planet Entertainment Presents: 2026 MONSTA X WORLD TOUR [THE X : NE
- XUS] IN SAN FRANCISCO\nListed time is doors\n\nTickets: https://ticketmast
- er.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.tick
- etmaster.com%2F2026-monsta-x-world-tour-the-san-francisco-california-10-22
- -2026%2Fevent%2F1C006483CF0D29E6%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26bran
- d%3Danotherplanet\nDetails: https://dothebay.com/events/2026/10/22/monsta-
- x-tickets\nSource: DoTheBay
+ XUS] IN SAN FRANCISCO\nListed time is doors\n\nDetails: https://dothebay.c
+ om/events/2026/10/22/monsta-x-tickets\nSource: DoTheBay
 GEO:37.77814499999999;-122.4174374
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31381459/899fd681-a544-4a27-af76-da5ae7f95aa9.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Bill Graham Civic Auditorium\, 99 Grove Street\, San Francisco\, 
  CA\, 94102
 TRANSP:TRANSPARENT
@@ -13374,9 +13182,9 @@ BEGIN:VEVENT
 SUMMARY:The Aquabats!
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17612838@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Goldenvoice Presents\n\nTrick-or-Treat to the Beat\nThe Aquaba
  ts!\nThursday\, October 22 | ​The Regency Ballroom\n\nSince their format
@@ -13399,14 +13207,13 @@ DESCRIPTION:Goldenvoice Presents\n\nTrick-or-Treat to the Beat\nThe Aquaba
  r 30th anniversary in 2024\, the band is gearing up for a monumental year.
   They will release the fan-funded full-length studio album\, FINALLY!\, on
   June 21. The 30th-anniversary festivities will extend beyond music\, feat
- urin...\n\nAll Ages\nGoldenvoice Presents: Trick-or-Treat to the Beat\n\nT
- ickets: https://www.theregencyballroom.com/events/detail/?event_id=1513757
- \nDetails: https://dothebay.com/events/2026/10/22/the-aquabats-tickets\nSo
- urce: DoTheBay
+ urin...\n\nAll Ages\nGoldenvoice Presents: Trick-or-Treat to the Beat\n\nD
+ etails: https://dothebay.com/events/2026/10/22/the-aquabats-tickets\nSourc
+ e: DoTheBay
 GEO:37.7879104;-122.4215079
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33339148/19df1303-2989-43c1-9b25-7d31ecd21a8b.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Regency Ballroom\, 1290 Sutter Street\, San Francisco\, CA\, 
  94109
 TRANSP:TRANSPARENT
@@ -13416,19 +13223,19 @@ BEGIN:VEVENT
 SUMMARY:George Clanton
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17697035@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment presents\nGeorge Clanton\nThursda
  y\, October 22 | The Castro\n\n$46 - $141\, all ages\nAnother Planet Enter
- tainment presents\nListed time is doors\n\nTickets: https://thecastro.com/
- events/george-clanton-261022\nDetails: https://dothebay.com/events/2026/10
- /22/george-clanton-ideasforconversations-tickets\nSource: DoTheBay
+ tainment presents\nListed time is doors\n\nDetails: https://dothebay.com/e
+ vents/2026/10/22/george-clanton-ideasforconversations-tickets\nSource: DoT
+ heBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33732886/4d7b7a9b-27c7-4567-998c-cdf7ac1e300a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/george-clanton-ideasforconversa
@@ -13533,22 +13340,17 @@ BEGIN:VEVENT
 SUMMARY:Giulio Gallarotti
 DTSTART;TZID=America/Los_Angeles:20261022T193000
 DTEND;TZID=America/Los_Angeles:20261022T213000
-DTSTAMP:20261018T111813Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17618459@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Giulio Gallarotti\nThursday\, October 22 | ​Cobb's Comedy Cl
- ub\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?S
- haredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fgiulio-gallarotti-s
- an-francisco-california-10-22-2026%2Fevent%2F1C0064EEF945D14D\nDetails: ht
- tps://dothebay.com/events/2026/10/22/giulio-gallarotti-tickets\nSource: Do
- TheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/giulio-gallarott
- i-san-francisco-california-10-22-2026/event/1C0064EEF945D14D?utm_source=ca
- ldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ ub\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/22/giulio-gallar
+ otti-tickets\nSource: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33365451/698f95a0-990c-4d19-b1ef-16fdd1d96722.png
-LAST-MODIFIED:20261018T111813Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -13558,9 +13360,9 @@ BEGIN:VEVENT
 SUMMARY:Betrayal
 DTSTART;TZID=America/Los_Angeles:20261022T193000
 DTEND;TZID=America/Los_Angeles:20261022T213000
-DTSTAMP:20261020T194441Z
+DTSTAMP:20261023T114720Z
 UID:funcheap-1637555@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Theater Performance
 DESCRIPTION:Submitted by the Event OrganizerMarin TheatreBy Harold Pinter\
  nDirected by Carey Perloff\nThe end is the beginning. Moving backwards and
@@ -13576,12 +13378,10 @@ DESCRIPTION:Submitted by the Event OrganizerMarin TheatreBy Harold Pinter\
  d Waste\, A.C.T. Artistic Director Emerita Carey Perloff returns to Marin 
  Theatre to direct.\n\n$39.00\n\nTickets: https://eventvesta.com/events/159
  825/t/tickets\nDetails: https://sf.funcheap.com/betrayal/\nSource: Funchea
- p SF\n\nAlso listed on:\n- https://missionlocal.org/event/victoria-theatre
- -the-empire-strips-back-a-burlesque-parody/2026-10-22/?utm_source=caldisco
- very&utm_medium=ics&utm_campaign=san-francisco-ca
+ p SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Screen
  shot-2026-09-18-200839.png
-LAST-MODIFIED:20261020T194441Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Marin Theatre\, 397 Miller Avenue Mill Valley\, CA 94941-2885
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/betrayal/
@@ -13657,19 +13457,17 @@ BEGIN:VEVENT
 SUMMARY:gnash
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17000419@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:gnash\nThursday\, October 22 | August Hall\n\nAll ages\n\nTick
- ets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u
- =https%3A%2F%2Fwww.ticketmaster.com%2Fgnash-san-francisco-california-10-22
- -2026%2Fevent%2F1C006452E3FFEDA1\nDetails: https://dothebay.com/events/202
- 6/10/22/gnash-tickets\nSource: DoTheBay
+DESCRIPTION:gnash\nThursday\, October 22 | August Hall\n\nAll ages\n\nDeta
+ ils: https://dothebay.com/events/2026/10/22/gnash-tickets\nSource: DoTheBa
+ y
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30428985/60b2c75d-5097-4d13-9378-3cf420d7cab1.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/gnash-tickets
@@ -13678,23 +13476,19 @@ BEGIN:VEVENT
 SUMMARY:Frankie Cosmos
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T220000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17361858@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment Presents\nCelebrating 10 Years of
   Next Thing\nFrankie Cosmos\nThursday\, October 22 | The Independent\n\n$3
  1.55\, All Ages\nAnother Planet Entertainment Presents: Celebrating 10 Yea
- rs of Next Thing\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167
- /4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Ffrankie
- -cosmos-celebrating-the-independent-tickets%2F14919283%3FREFERRAL_ID%3Dtmf
- eedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705
- \nDetails: https://dothebay.com/events/2026/10/22/frankie-cosmos-celebrati
- ng-10-years-of-next-thing-tickets\nSource: DoTheBay
+ rs of Next Thing\n\nDetails: https://dothebay.com/events/2026/10/22/franki
+ e-cosmos-celebrating-10-years-of-next-thing-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32136662/131cd62f-e6fd-488f-bb25-959c3753c81a.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -13705,20 +13499,17 @@ BEGIN:VEVENT
 SUMMARY:Laurie Kilmartin
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17535767@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Laurie Kilmartin\nThursday\, October 22 | ​Punch Line San Fr
- ancisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4
- 272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Flaurie-kilmart
- in-san-francisco-california-10-22-2026%2Fevent%2F1C0064D3AA49F25B\nDetails
- : https://dothebay.com/events/2026/10/22/laurie-kilmartin-tickets\nSource:
-  DoTheBay
+ ancisco\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/22/laurie-k
+ ilmartin-tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32976423/3d4b177b-22d6-4113-8b64-e48015b50f48.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -13770,9 +13561,9 @@ BEGIN:VEVENT
 SUMMARY:Filipiñana
 DTSTART;TZID=America/Los_Angeles:20261022T203000
 DTEND;TZID=America/Los_Angeles:20261022T223000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17930193@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Director Rafael Manuel in person for introduction and Q&A mode
  rated by Ali El-Sadany\, editor of FilmSlop\, on Saturday\, September 5 (a
@@ -13795,13 +13586,12 @@ DESCRIPTION:Director Rafael Manuel in person for introduction and Q&A mode
  e angle of a golf club can evoke suspense\, a piece of fruit on the ground
   can feel like a tragedy\, and a casual glance can take your breath away.
  ” – Vulture\n\nRuntime\n\n1h 40m\n\nYear\n\n2026\n\nDirector\n\nRafael
-  Manuel\n\nFormat\n\nDCP...\n\nTickets: https://ticketing.uswest.veezi.com
- /purchase/22300?siteToken=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dot
- hebay.com/events/2026/10/22/filipinana-tickets\nSource: DoTheBay
+  Manuel\n\nFormat\n\nDCP...\n\nDetails: https://dothebay.com/events/2026/1
+ 0/22/filipinana-tickets\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34835986/716e543f-7f74-4dfc-9936-a4d6616a0149.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/filipinana-tickets
@@ -13849,17 +13639,16 @@ BEGIN:VEVENT
 SUMMARY:X CLUB.
 DTSTART;TZID=America/Los_Angeles:20261022T210000
 DTEND;TZID=America/Los_Angeles:20261022T230000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17731869@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:$20-$30\, 21+\nDJ Dials & 1015 Folsom present\n\nTickets: http
- s://wl.seetickets.us/event/x-club/701914?afflky=1015Folsom\nDetails: https
- ://dothebay.com/events/2026/10/22/x-club-tickets\nSource: DoTheBay
+DESCRIPTION:$20-$30\, 21+\nDJ Dials & 1015 Folsom present\n\nDetails: http
+ s://dothebay.com/events/2026/10/22/x-club-tickets\nSource: DoTheBay
 GEO:37.7781117;-122.4058001
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33938977/3d747a6a-e883-4563-8283-b5a7eb265fa4.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/x-club-tickets
@@ -14003,9 +13792,9 @@ BEGIN:VEVENT
 SUMMARY:Night Vision: Spookeasy Dance Party
 DTSTART;TZID=America/Los_Angeles:20261022T220000
 DTEND;TZID=America/Los_Angeles:20261023T000000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17959755@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Dance
 DESCRIPTION:Night Vision: Spookeasy at Monarch w/ DJ Cira\, Maxime\, Mipsy
   3000\, DJ M3\nStep into the shadows for Night Vision: Spookeasy\, a Hallo
@@ -14016,16 +13805,13 @@ DESCRIPTION:Night Vision: Spookeasy at Monarch w/ DJ Cira\, Maxime\, Mipsy
  e 2026 San Francisco afterparty. $5 entry with a Substance ticket or stamp
  .\n\nCelebrating an October birthday? Enjoy free entry with a valid ID.\n\
  nThursday\, October 22\n10 PM – Late\n$5 Advance / $10 Door\n\n$5 Adv $1
- 0 Doors\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eve
- ntbrite.com%2Fe%2Fnight-vision-spookeasy-at-monarch-w-dj-cira-maxime-mipsy
- -3000-dj-m3-tickets-2003301925988\nDetails: https://dothebay.com/events/20
- 26/10/22/night-vision-spookeasy-dance-party-tickets\nSource: DoTheBay\n\nA
- lso listed on:\n- https://sf.funcheap.com/night-vision-spookeasy-dance-par
- ty/
+ 0 Doors\n\nDetails: https://dothebay.com/events/2026/10/22/night-vision-sp
+ ookeasy-dance-party-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https:
+ //sf.funcheap.com/night-vision-spookeasy-dance-party/
 GEO:37.7809743;-122.4084128
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34978406/a193c927-4009-4938-b16e-0382c2677751.jpg
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Monarch\, 101 Sixth St.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/night-vision-spookeasy-dance-pa
@@ -16784,9 +16570,9 @@ BEGIN:VEVENT
 SUMMARY:Leap’s 44rd Annual Sandcastle Classic
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T130000
-DTSTAMP:20261022T045844Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17979913@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:Genentech Presents\nLeap’s 44th Annual Sandcastle Classic\nS
  aturday\, October 24 | Ocean Beach\n\nSince 1983\, Leap has hosted the ico
@@ -16810,11 +16596,13 @@ DESCRIPTION:Genentech Presents\nLeap’s 44th Annual Sandcastle Classic\nS
  ly to reserve your spot!\n\nFree\n\nTickets: https://leapsandcastleclassic
  .org/\nDetails: https://dothebay.com/events/2026/10/24/leaps-44rd-annual-s
  andcastle-classic-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://
- sf.funcheap.com/leap-arts-annual-sandcastle-classic/
+ sf.funcheap.com/leap-arts-annual-sandcastle-classic/\n- https://sfchildren
+ nature.org/event/join-the-43rd-annual-leap-sandcastle-classic/?utm_source=
+ caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 GEO:37.7711664;-122.5111395
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35070125/0bdea64f-bfe7-4001-9fea-1a47c345f857.jpg
-LAST-MODIFIED:20261022T045844Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Ocean Beach\, 1001 Great Hwy\, SAN FRANCISCO\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/leaps-44rd-annual-sandcastle-cl
@@ -19123,6 +18911,48 @@ LOCATION:SPARK Social SF\, 601 Mission Bay Blvd\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/blue-beetle-free-outdoor-movie-night-sf-latino
  -film-festival-spark-social/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
+DTSTART;TZID=America/Los_Angeles:20261024T190000
+DTEND;TZID=America/Los_Angeles:20261024T210000
+DTSTAMP:20261023T114720Z
+UID:caldiscovery-comedy-60d8733f4e0c9a60@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,theater
+DESCRIPTION:⭐ The hit burlesque parody The Empire Strips Back: A Burlesq
+ ue Parody is making its way to San Francisco! This audience fave drops cla
+ ssic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟
+ ️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark
+  Side is calling you back! Returning fans can now enjoy an exclusive disco
+ unt on their next visit to this hit burlesque parody. Use code STRIPBACKAG
+ AIN at checkout to get 30% off your next booking.\nTickets for The Empire 
+ Strips Back in San Francisco\n🎫 General Admission – includes entry to
+  the experience\n🎫 Rebel Package – includes express entry to the expe
+ rience + a t-shirt (depending on size availability\, another merch item li
+ ke panties\, lightsaber\, poster\, or calendar could be offered in exchang
+ e for the shirt)\n👉 For large groups (8+ people)\, reserve your tickets
+  here\n🪑 Seats are assigned upon arrival at the venue on a first-come\,
+  first-served basis in the selected zone (Zone A\, Zone B\, Zone C\, Emper
+ or’s Zone\, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy 
+ far\, far away\, to a world of burlesque fantasy\n🌌 Hilarious parody\, 
+ menacing and risqué dance\, and even the droids you’re looking for\n✨
+  Your favourite characters are scantily clad\, seriously sultry\, and live
+  on stage\n⭐ Previously sold-out in London\, Seattle\, Chicago\, New Yor
+ k\, Montreal\, LA\, San Francisco\, and more\nGeneral Info\n📅 Dates: ch
+ oose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n
+ – Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...\n\nPublished 
+ by Mission Local\nContains information from CalDiscovery (caldiscovery.com
+ )\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/victoria-theatre-t
+ he-empire-strips-back-a-burlesque-parody/2026-10-24/1/?utm_source=caldisco
+ very&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261023T114720Z
+LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA\, 94103\, Un
+ ited States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/victoria-theatre-the-empire-strips-back
+ -a-burlesque-parody/2026-10-24/1/?utm_source=caldiscovery&utm_medium=ics&u
+ tm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phoebe Robinson
@@ -32941,6 +32771,39 @@ LOCATION:The Aviary\, 135 4th St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/1/sprouts-annual-gala-powerful-wom
  en-in-food-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Organ Recital: English and American Masterworks
+DTSTART;TZID=America/Los_Angeles:20261101T170000
+DTEND;TZID=America/Los_Angeles:20261101T190000
+DTSTAMP:20261023T114720Z
+UID:dothebay-17986121@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Dr. Justin Murphy-Mancini from Pacific Lutheran University wil
+ l offer a pipe-organ recital on "English and American Masterworks" on the 
+ 1924 E. M. Skinner organ in the sublime acoustics of Trinity St. Peter's. 
+ The program features hidden gems written in the last 150 years. Prominent 
+ American composers of yesteryear\, like Henry Dunham\, are contrasted with
+  major figures of the 20th century\, including Emma Lou Diemer\, Undine Sm
+ ith Moore\, and Miriam Gideon. These are paired with works by composers ac
+ ross the pond\, including Kenneth Leighton and Samuel Coleridge-Taylor. Th
+ e crown jewel is Herbert Howells's Master Tallis' Testament. This concert 
+ has a little of everything\, from Bachian inspired fireworks\, to dense ch
+ romaticism\, to unadulterated joy. It is a diverse\, yet coherent musical 
+ experience.\n\nFree\n\nPresented by Palo Alto/Peninsula Chapter of the Ame
+ rican Guild of Organists\n\nFree\nPalo Alto/Peninsula Chapter of the Ameri
+ can Guild of Organists\n\nTickets: http://papenago.org\nDetails: https://d
+ othebay.com/events/2026/11/1/organ-recital-english-and-american-masterwork
+ s-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35097363/e3009601-19c3-4394-af08-70e9ac40f78e.jpg
+LAST-MODIFIED:20261023T114720Z
+LOCATION:Trinity + St. Peter's Episcopal Church\, 1620 Gough Street\, San 
+ Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/1/organ-recital-english-and-americ
+ an-masterworks-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. LA Clippers
@@ -54702,6 +54565,27 @@ URL:https://sf.funcheap.com/san-francisco-critical-mass-last-friday-of-the
  -month-18/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preacher Lawson
+DTSTART;TZID=America/Los_Angeles:20261127T190000
+DTEND;TZID=America/Los_Angeles:20261127T210000
+DTSTAMP:20261023T114720Z
+UID:caldiscovery-comedy-51433547c2677582@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by Cobb's Comedy Club\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticketmast
+ er.com/preacher-lawson-san-francisco-california-11-27-2026/event/1C0065284
+ 90A9F7E?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
+ ca\nSource: CalDiscovery
+LAST-MODIFIED:20261023T114720Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Avenue\, San Francisco\, CA\, 9
+ 4133
+TRANSP:TRANSPARENT
+URL:https://www.ticketmaster.com/preacher-lawson-san-francisco-california-
+ 11-27-2026/event/1C006528490A9F7E?utm_source=caldiscovery&utm_medium=ics&u
+ tm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Steve Furey
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
@@ -66778,6 +66662,25 @@ LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
 TRANSP:TRANSPARENT
 URL:https://www.dnalounge.com/calendar/2026/12-21d.html?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Walk
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20261023T114720Z
+UID:caldiscovery-festival-3c0b6feadee2de02@sf-cal
+SEQUENCE:0
+CATEGORIES:drink,festival,food
+DESCRIPTION:Winter Walk\n\nFor 10 days\, downtown Stockton Street transfor
+ ms into a vibrant pedestrian plaza featuring lush turf\, gourmet food truc
+ ks beer gardens.\n\nPublished by Calendar Of Events\nContains information 
+ from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ho
+ telcaza.com/explore/event-calendar/winter-walk?utm_source=caldiscovery&utm
+ _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261023T114720Z
+TRANSP:TRANSPARENT
+URL:https://www.hotelcaza.com/explore/event-calendar/winter-walk?utm_sourc
+ e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco Critical Mass (Last Friday of the Month)

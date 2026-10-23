@@ -40,39 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Green Film Festival of San Francisco
-DTSTART;TZID=America/Los_Angeles:20261015T180000
-DTEND;TZID=America/Los_Angeles:20261015T230000
-DTSTAMP:20261014T171851Z
-UID:funcheap-1640836@sf-cal
-SEQUENCE:0
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerSF IndieFestOct 15-22\, 6pm-11
- pm\nForget the guilt trip\, the Green Film Festival of San Francisco\, the
-  mischievous\, tree-hugging cousin of the 29 year old SF IndieFest\, retur
- ns Oct 15-22 to prove that saving the planet doesn’t have to feel like h
- omework. We’ve ditched the doom-and-gloom documentaries that make you wa
- nt to crawl under a (sustainably sourced) blanket and never come out.\n\nT
- he line-up this year pairs sharp environmental storytelling with wit\, wei
- rdness\, and unapologetic irreverence. And yes\, our Eco-Horror midnight m
- ovie is back!\nWhether you’re an eco-curious cinephile or a die-hard act
- ivist\, come join in the fun because if we’re going to talk about the en
- d of the world as we know it\, we might as well laugh\, gasp\, and maybe e
- ven dance a little on the way there.\nThrough this experience the festival
-  hopes audiences can begin to engage with sustainable solutions to the pro
- blems facing the planet.\nPresented by SF IndieFest\n\n$15.00\n\nTickets: 
- https://greenfest2026.eventive.org\nDetails: https://sf.funcheap.com/green
- -film-festival-san-francisco-2/\nSource: Funcheap SF\n\nAlso listed on:\n-
-  https://www.indybay.org/newsitems/2026/10/03/18888999.php?utm_source=cald
- iscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/4791_v
- 0.jpg
-LAST-MODIFIED:20261014T171851Z
-LOCATION:4-Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/green-film-festival-san-francisco-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Musk
 DTSTART;TZID=America/Los_Angeles:20261016T134500
 DTEND;TZID=America/Los_Angeles:20261016T154500
@@ -1206,9 +1173,9 @@ BEGIN:VEVENT
 SUMMARY:Naza
 DTSTART;TZID=America/Los_Angeles:20261022T155000
 DTEND;TZID=America/Los_Angeles:20261022T175000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17930209@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:NAZA screens at NEW PEOPLE October 9–11\, and 18. Screenings
   at The Roxie start October 12.\n\nIn secret conversations on the rooftops
@@ -1231,13 +1198,12 @@ DESCRIPTION:NAZA screens at NEW PEOPLE October 9–11\, and 18. Screenings
   said\, the silence. It is up to all of us to break that silence.\n\n– Y
  uval Abraham and Rachel Szor\n\n“An essential\, devastating documentary
  …there’s no turning away from what’s said\, you simply can’t unkno
- w...\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22289?siteTok
- en=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/2026/1
- 0/22/naza-tickets\nSource: DoTheBay
+ w...\n\nDetails: https://dothebay.com/events/2026/10/22/naza-tickets\nSour
+ ce: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34836068/a642567c-6f61-4369-895b-d4b7f511b2b6.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/naza-tickets
@@ -1246,9 +1212,9 @@ BEGIN:VEVENT
 SUMMARY:SF Latino Film Festival: STREET SMART: Lessons from a TV Icon
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17930217@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:Opening night of the 18th annual SF Latino Film Festival!\n\nD
  irector Ernie Bustamante in person for a post screening Q&A.\n\nFilm + Rec
@@ -1264,15 +1230,14 @@ DESCRIPTION:Opening night of the 18th annual SF Latino Film Festival!\n\nD
  nal documentary invites viewers to learn once again from this beloved icon
  .\n\nRuntime\n\n1h 25m\n\nYear\n\n2025\n\nDirector\n\nErnie Bustamante\n\n
  Format\n\nDCP\n\nFirst Showing\n\nOctober 22\, 2026\n\nCategories\n\nFeatu
- red\n\nTickets: https://www.cinemassf.org/tickets-passes/\nDetails: https:
- //dothebay.com/events/2026/10/22/sf-latino-film-festival-street-smart-less
- ons-from-a-tv-icon-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https:/
- /sf.funcheap.com/2026-san-francisco-latino-film-fest-opening-night-sesame-
- street-icon-doc-roxie-theater/
+ red\n\nDetails: https://dothebay.com/events/2026/10/22/sf-latino-film-fest
+ ival-street-smart-lessons-from-a-tv-icon-tickets\nSource: DoTheBay\n\nAlso
+  listed on:\n- https://sf.funcheap.com/2026-san-francisco-latino-film-fest
+ -opening-night-sesame-street-icon-doc-roxie-theater/
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34836098/a8d963d9-fa94-4d9e-b34a-d29e25fe78db.jpg
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/sf-latino-film-festival-street-
@@ -1317,9 +1282,9 @@ BEGIN:VEVENT
 SUMMARY:Filipiñana
 DTSTART;TZID=America/Los_Angeles:20261022T203000
 DTEND;TZID=America/Los_Angeles:20261022T223000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261023T114720Z
 UID:dothebay-17930193@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Director Rafael Manuel in person for introduction and Q&A mode
  rated by Ali El-Sadany\, editor of FilmSlop\, on Saturday\, September 5 (a
@@ -1342,13 +1307,12 @@ DESCRIPTION:Director Rafael Manuel in person for introduction and Q&A mode
  e angle of a golf club can evoke suspense\, a piece of fruit on the ground
   can feel like a tragedy\, and a casual glance can take your breath away.
  ” – Vulture\n\nRuntime\n\n1h 40m\n\nYear\n\n2026\n\nDirector\n\nRafael
-  Manuel\n\nFormat\n\nDCP...\n\nTickets: https://ticketing.uswest.veezi.com
- /purchase/22300?siteToken=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dot
- hebay.com/events/2026/10/22/filipinana-tickets\nSource: DoTheBay
+  Manuel\n\nFormat\n\nDCP...\n\nDetails: https://dothebay.com/events/2026/1
+ 0/22/filipinana-tickets\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34835986/716e543f-7f74-4dfc-9936-a4d6616a0149.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261023T114720Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/22/filipinana-tickets
