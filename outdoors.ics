@@ -40,45 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20261016T090000
-DTEND;TZID=America/Los_Angeles:20261016T100000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1633031@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
- \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
- nd the world with an opportunity to experience the natural beauty\, tranqu
- ility\, and harmony of a Japanese-style garden in the heart of San Francis
- co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
- xhibit for the 1894 California Midwinter International Exposition\, the Ja
- panese Tea Garden endures as one of the most popular attractions in San Fr
- ancisco\, featuring classic elements such as an arched drum bridge\, pagod
- as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
- ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
-  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
- for San Francisco residents with valid ID. Free hours for everyone (even n
- on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
- ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
- ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
- / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
- Non Resident Fees\nAdults: $12-16 (depends on season)\n(February – Novem
- ber) $14\n(December – January) $12\n(Weekends year-round) $16\nSeniors (
- ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildre
- n (under 5) FREE\nHours Of Operation\nLast entry 30 minutes before closing
- \nSpring – Summer Hours\nMarch – October\n9am – 5:45pm\nFall – Win
- ter Hours\nNovembe...\n\nFree\n\nTickets: https://www.japaneseteagardensf.
- com/vist\nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admis
- sion-hour-golden-gate-park-444/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
- seteagarden-scaled-e1595352236641.jpeg
-LAST-MODIFIED:20261006T001646Z
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
- n-gate-park-444/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Peter King: The Game
 DTSTART;TZID=America/Los_Angeles:20261016T163000
 DTEND;TZID=America/Los_Angeles:20261016T180000
@@ -3569,6 +3530,30 @@ URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-nov-2026-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NightLife: November 19
+DTSTART;TZID=America/Los_Angeles:20261119T180000
+DTEND;TZID=America/Los_Angeles:20261119T200000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17985331@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoor & Recreation
+DESCRIPTION:Thursdays hit different at NightLife. The museum comes alive a
+ fter hours–wilder\, more curious\, and full of exciting creatures. Grab 
+ your friends\, grab a handcrafted drink\, and let yourself wander into wha
+ tever weird or wonderful corner calls you.\n\nPlus\, you can:\n\nTickets: 
+ https://www.calacademy.org/nightlife/nightlife-november-19\nDetails: https
+ ://dothebay.com/events/2026/11/19/nightlife-november-19-tickets\nSource: D
+ oTheBay
+GEO:37.7698646;-122.4660947
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35094551/6f25aabe-71a0-4f5b-b735-c49113e3b677.png
+LAST-MODIFIED:20261023T171442Z
+LOCATION:California Academy of Sciences\, 55 Music Concourse Drive\, San F
+ rancisco\, CA\, 94118
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/19/nightlife-november-19-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261120T090000
 DTEND;TZID=America/Los_Angeles:20261120T100000
@@ -4537,6 +4522,29 @@ LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/20/invisalign-bay-area-womens-clas
  sic-cal-v-nebraska-stanford-v-ohio-st-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Dallas Mavericks
+DTSTART;TZID=America/Los_Angeles:20261222T193000
+DTEND;TZID=America/Los_Angeles:20261222T213000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17728005@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Dallas Mavericks\n\nTickets: https:/
+ /ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F
+ %2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-dallas-mavericks-san-fr
+ ancisco-california-12-22-2026%2Fevent%2F1C00650AB3A6D83E\nDetails: https:/
+ /dothebay.com/events/2026/12/22/golden-state-warriors-vs-dallas-mavericks-
+ tickets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883536/d5614c3a-e82b-4d9b-9f33-06478124a098.png
+LAST-MODIFIED:20261023T171442Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/22/golden-state-warriors-vs-dallas
+ -mavericks-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco Critical Mass (Last Friday of the Month)

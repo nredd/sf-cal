@@ -7042,6 +7042,26 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/main-phase-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:yaego
+DTSTART;TZID=America/Los_Angeles:20261106T220000
+DTEND;TZID=America/Los_Angeles:20261107T000000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17987922@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:DJ DIals & 105 Folsom Present\nyaego\nFriday\, November 6 | 10
+ 15 Folsom\n\n21+\nDJ DIals & 105 Folsom Present\n\nTickets: https://wl.eve
+ ntim.us/event/yaego/707562?afflky=1015Folsom\nDetails: https://dothebay.co
+ m/events/2026/11/6/yaego-tickets\nSource: DoTheBay
+GEO:37.7781117;-122.4058001
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35103244/582aee89-2560-4b21-85e5-27525744210f.jpg
+LAST-MODIFIED:20261023T171442Z
+LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/6/yaego-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golden Gate Bandshell: Saturday at the Bandshell
 DTSTART;TZID=America/Los_Angeles:20261107T120000
 DTEND;TZID=America/Los_Angeles:20261107T160000
@@ -7573,27 +7593,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/nia-archives-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Countess Luann
-DTSTART;TZID=America/Los_Angeles:20261108T200000
-DTEND;TZID=America/Los_Angeles:20261108T220000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17443150@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Countess Luann\nSunday\, November 8 | August Hall\n\n21+\n\nTi
- ckets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff
- &u=https%3A%2F%2Fwww.ticketmaster.com%2Fcountess-luann-san-francisco-calif
- ornia-11-08-2026%2Fevent%2F1C0064BDCB1DAB67\nDetails: https://dothebay.com
- /events/2026/11/8/countess-luann-tickets\nSource: DoTheBay
-GEO:37.7875878;-122.4096056
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32527482/1bda1de0-53b9-449a-b43b-2e87061cd52b.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/8/countess-luann-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Henry Lau
 DTSTART;TZID=America/Los_Angeles:20261108T200000
 DTEND;TZID=America/Los_Angeles:20261108T220000
@@ -7870,26 +7869,6 @@ LOCATION:The Regency Ballroom\, 1290 Sutter Street\, San Francisco\, CA\,
  94109
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/10/yuki-chiba-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Louie TheSinger
-DTSTART;TZID=America/Los_Angeles:20261110T190000
-DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261021T171908Z
-UID:dothebay-17906638@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:Texican Tour\nLouie TheSinger\nTuesday\, November 10 | August 
- Hall\n\nAll Ages\nTexican Tour\nListed time is doors\n\nTickets: https://w
- ww.augusthallsf.com/tm-event/louie-thesinger/\nDetails: https://dothebay.c
- om/events/2026/11/10/louie-thesinger-tickets\nSource: DoTheBay
-GEO:37.7875878;-122.4096056
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34727019/176d059b-17b9-4746-95cc-66ee8ecab83b.jpg
-LAST-MODIFIED:20261021T171908Z
-LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/10/louie-thesinger-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Tallest Man on Earth
@@ -8649,6 +8628,25 @@ URL:https://dothebay.com/events/2026/11/13/the-moth-grandslam-championship
  -tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tyla
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T210000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17966509@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:all ages\nListed time is doors\n\nDetails: https://dothebay.co
+ m/events/2026/11/13/tyla-tickets\nSource: DoTheBay
+GEO:37.77814499999999;-122.4174374
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35007966/0cae3330-ef04-4a28-9886-64c37b033a0e.jpg
+LAST-MODIFIED:20261023T171442Z
+LOCATION:Bill Graham Civic Auditorium\, 99 Grove Street\, San Francisco\, 
+ CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/13/tyla-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tank and the Bangas
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T220000
@@ -8705,19 +8703,19 @@ BEGIN:VEVENT
 SUMMARY:Ceremony
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17502173@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 7:00pm / Show 8:00
- pm\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId
- =DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fceremony-san-francisco-cal
- ifornia-11-13-2026%2Fevent%2F1C0064CF8DB96D00\nDetails: https://dothebay.c
- om/events/2026/11/13/ceremony-tickets\nSource: DoTheBay
+DESCRIPTION:Ceremony\nFriday\, November 13 | The Fillmore\n\nTickets: http
+ s://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A
+ %2F%2Fwww.ticketmaster.com%2Fceremony-san-francisco-california-11-13-2026%
+ 2Fevent%2F1C0064CF8DB96D00\nDetails: https://dothebay.com/events/2026/11/1
+ 3/ceremony-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32812984/f91fff56-7a39-491c-8b90-e98ea8e5ecb0.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/13/ceremony-tickets
@@ -8896,23 +8894,23 @@ URL:https://sf.funcheap.com/sketchboard-figure-drawing-art-class-live-musi
  c-sf-108/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Underoath - Define the Great Line 20th Anniversary Tour
+SUMMARY:Underoath
 DTSTART;TZID=America/Los_Angeles:20261114T183000
 DTEND;TZID=America/Los_Angeles:20261114T203000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17470378@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Doors open at 5:30pm\n\nTickets: https://ticketmaster.evyy.net
- /c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.co
- m%2Funderoath-define-the-great-line-20th-san-francisco-california-11-14-20
- 26%2Fevent%2F1C0064C2C9C9CDA7\nDetails: https://dothebay.com/events/2026/1
- 1/14/underoath-define-the-great-line-20th-anniversary-tour-tickets\nSource
- : DoTheBay
+DESCRIPTION:Doors open at 5:30pm\n\nDefine the Great Line 20th Anniversary
+  Tour\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
+ dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Funderoath-define-the-gr
+ eat-line-20th-san-francisco-california-11-14-2026%2Fevent%2F1C0064C2C9C9CD
+ A7\nDetails: https://dothebay.com/events/2026/11/14/underoath-define-the-g
+ reat-line-20th-anniversary-tour-tickets\nSource: DoTheBay
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32661698/98f56ba1-bcac-43cf-81c0-401446d81e6a.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/underoath-define-the-great-line
@@ -9097,19 +9095,20 @@ BEGIN:VEVENT
 SUMMARY:Allison Russell
 DTSTART;TZID=America/Los_Angeles:20261114T193000
 DTEND;TZID=America/Los_Angeles:20261114T213000
-DTSTAMP:20261021T171908Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17714113@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
-DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 6:30pm / Show 7:30
- pm\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId
- =DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fallison-russell-san-franci
- sco-california-11-14-2026%2Fevent%2F1C0065069F51D791\nDetails: https://dot
- hebay.com/events/2026/11/14/allison-russell-tickets\nSource: DoTheBay
+DESCRIPTION:In The Hour of Chaos Tour\nAllison Russell\nSaturday\, Novembe
+ r 14 | The Fillmore\n\nIn The Hour of Chaos Tour\n\nTickets: https://ticke
+ tmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww
+ .ticketmaster.com%2Fallison-russell-san-francisco-california-11-14-2026%2F
+ event%2F1C0065069F51D791\nDetails: https://dothebay.com/events/2026/11/14/
+ allison-russell-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33811063/f4f46dd0-5d5b-480c-b34c-a7b7d071c3c7.png
-LAST-MODIFIED:20261021T171908Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/allison-russell-tickets
@@ -9714,19 +9713,20 @@ BEGIN:VEVENT
 SUMMARY:Son Volt
 DTSTART;TZID=America/Los_Angeles:20261117T200000
 DTEND;TZID=America/Los_Angeles:20261117T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17309771@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Son Volt\nTuesday\, November 17 | August Hall\n\nAll Ages\n\nT
- ickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuf
- f&u=https%3A%2F%2Fwww.ticketmaster.com%2Fson-volt-san-francisco-california
- -11-17-2026%2Fevent%2F1C00649DE6724A26\nDetails: https://dothebay.com/even
- ts/2026/11/17/son-volt-tickets\nSource: DoTheBay
+DESCRIPTION:Sound Signal Serenades\nSon Volt\nwith Kelly Willis\n\nTuesday
+ \, November 17 | August Hall\n\nAll Ages\nSound Signal Serenades\n\nTicket
+ s: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=h
+ ttps%3A%2F%2Fwww.ticketmaster.com%2Fson-volt-san-francisco-california-11-1
+ 7-2026%2Fevent%2F1C00649DE6724A26\nDetails: https://dothebay.com/events/20
+ 26/11/17/son-volt-tickets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31898494/a7fcbd1b-777b-4f63-9eef-15adefc28fd2.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/17/son-volt-tickets
@@ -10768,19 +10768,21 @@ BEGIN:VEVENT
 SUMMARY:Boston Manor
 DTSTART;TZID=America/Los_Angeles:20261122T193000
 DTEND;TZID=America/Los_Angeles:20261122T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17406310@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Boston Manor\nSunday\, November 22 | August Hall\n\nAll Ages\n
- \nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoS
- tuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fboston-manor-san-francisco-cal
- ifornia-11-22-2026%2Fevent%2F1C0064B5D4474F7F\nDetails: https://dothebay.c
- om/events/2026/11/22/boston-manor-tickets\nSource: DoTheBay
+DESCRIPTION:Be Nothing. 10 Year Anniversary Tour\nBoston Manor\nwith Ben Q
+ uad + Super Sometimes\n\nSunday\, November 22 | August Hall\n\nAll Ages\nB
+ e Nothing. 10 Year Anniversary Tour\n\nTickets: https://ticketmaster.evyy.
+ net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster
+ .com%2Fboston-manor-san-francisco-california-11-22-2026%2Fevent%2F1C0064B5
+ D4474F7F\nDetails: https://dothebay.com/events/2026/11/22/boston-manor-tic
+ kets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32351360/e3205db8-f7c2-4a7f-aa21-8d540e67b568.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/22/boston-manor-tickets
@@ -10877,19 +10879,19 @@ BEGIN:VEVENT
 SUMMARY:CocoRosie
 DTSTART;TZID=America/Los_Angeles:20261123T200000
 DTEND;TZID=America/Los_Angeles:20261123T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17752432@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 7:00pm / Show 8:00
- pm\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId
- =DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcocorosie-san-francisco-ca
- lifornia-11-23-2026%2Fevent%2F1C006511BAEB3B53\nDetails: https://dothebay.
- com/events/2026/11/23/cocorosie-tickets\nSource: DoTheBay
+DESCRIPTION:CocoRosie\nMonday\, November 23 | The Fillmore\n\nTickets: htt
+ ps://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3
+ A%2F%2Fwww.ticketmaster.com%2Fcocorosie-san-francisco-california-11-23-202
+ 6%2Fevent%2F1C006511BAEB3B53\nDetails: https://dothebay.com/events/2026/11
+ /23/cocorosie-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34000175/cf2f371f-bd30-4c12-a3e0-0d4c94b94e58.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/23/cocorosie-tickets
@@ -11437,24 +11439,26 @@ URL:https://dothebay.com/events/2026/11/27/skream-presented-by-goldenvoice
  -tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cinthie
+SUMMARY:Blawan x southstar x Cinthie
 DTSTART;TZID=America/Los_Angeles:20261127T220000
 DTEND;TZID=America/Los_Angeles:20261128T000000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17877538@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:DJ DIals & 1015 Folsom Present\nCinthie\nFriday\, November 27 
- | 1015 Folsom\n\n$20-$25\, 21+\nDJ DIals & 1015 Folsom Present\n\nTickets:
-  https://wl.seetickets.us/event/cinthie/706081?afflky=1015Folsom\nDetails:
-  https://dothebay.com/events/2026/11/27/cinthie-tickets\nSource: DoTheBay
+DESCRIPTION:DJ DIals & 1015 Folsom Present\nBlawan x southstar x Cinthie\n
+ Friday\, November 27 | 1015 Folsom\n\n$20-$25\, 21+\nDJ DIals & 1015 Folso
+ m Present\n\nTickets: https://wl.eventim.us/event/blawan-southstar/708213?
+ afflky=1015Folsom\nDetails: https://dothebay.com/events/2026/11/27/blawan-
+ southstar-cinthie-tickets\nSource: DoTheBay
 GEO:37.7781117;-122.4058001
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34635833/3246ca21-3788-4733-a9ba-d9d8d9003063.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/27/cinthie-tickets
+URL:https://dothebay.com/events/2026/11/27/blawan-southstar-cinthie-ticket
+ s
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hook in Concert
@@ -11539,19 +11543,19 @@ BEGIN:VEVENT
 SUMMARY:Jackie Greene
 DTSTART;TZID=America/Los_Angeles:20261128T200000
 DTEND;TZID=America/Los_Angeles:20261128T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17823470@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:OPEN DANCE FLOOR / STANDING ROOM ONLY Doors 7:00pm / Show 8:00
- pm\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId
- =DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjackie-greene-san-francisc
- o-california-11-28-2026%2Fevent%2F1C006519AA671008\nDetails: https://dothe
- bay.com/events/2026/11/28/jackie-greene-tickets\nSource: DoTheBay
+DESCRIPTION:Jackie Greene\nSaturday\, November 28 | The Fillmore\n\nTicket
+ s: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=h
+ ttps%3A%2F%2Fwww.ticketmaster.com%2Fjackie-greene-san-francisco-california
+ -11-28-2026%2Fevent%2F1C006519AA671008\nDetails: https://dothebay.com/even
+ ts/2026/11/28/jackie-greene-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34333561/95010618-8018-4b48-9a90-f2f6f8c4aabe.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/28/jackie-greene-tickets
@@ -11678,6 +11682,28 @@ LOCATION:Ocean Ale House\, 1314 Ocean Ave\, San Francisco\, CA\, 94112
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/29/songwriters-showcase-ocean-ale-
  house-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Loveberry\, J Mckinnon & The Newcomers and more desolate city
+DTSTART;TZID=America/Los_Angeles:20261129T130000
+DTEND;TZID=America/Los_Angeles:20261129T150000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17979206@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:FREE LIVE LOCAL MUSIC AT KILOWATT!\n\nPresented by Kilowatt.\n
+ \nThis is a 21+ event\n\nFree\nPresented by Kilowatt.\n\nTickets: https://
+ link.dice.fm/t2828b278688?pid=717f1d8a\nDetails: https://dothebay.com/even
+ ts/2026/11/29/loveberry-j-mckinnon-the-newcomers-and-more-desolate-city-ti
+ ckets\nSource: DoTheBay
+GEO:37.7650767;-122.423278
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35065901/0313b3b8-994e-411e-a94e-67cdb989db76.jpg
+LAST-MODIFIED:20261023T171442Z
+LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/29/loveberry-j-mckinnon-the-newcom
+ ers-and-more-desolate-city-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dweezil Zappa
@@ -12675,6 +12701,27 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/8/tecnologia-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frost Children (DJ)
+DTSTART;TZID=America/Los_Angeles:20261208T220000
+DTEND;TZID=America/Los_Angeles:20261209T000000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17987923@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:DJ Dials & 1015 Folsom Present\nFrost Children (DJ)\nTuesday\,
+  December 8 | 1015 Folsom\n\n21+\nDJ Dials & 1015 Folsom Present\n\nTicket
+ s: https://wl.eventim.us/event/frost-children/709181?afflky=1015Folsom\nDe
+ tails: https://dothebay.com/events/2026/12/8/frost-children-dj-tickets\nSo
+ urce: DoTheBay
+GEO:37.7781117;-122.4058001
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35103250/1d9bb48b-95d1-4b8a-8c90-27abd8404d84.jpg
+LAST-MODIFIED:20261023T171442Z
+LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/8/frost-children-dj-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dj Chopped T
 DTSTART;TZID=America/Los_Angeles:20261209T180000
 DTEND;TZID=America/Los_Angeles:20261209T200000
@@ -12691,6 +12738,28 @@ LAST-MODIFIED:20261010T172246Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/9/dj-chopped-t-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:System Exclusive (Record Release)\, Squiggle and Julian Never
+DTSTART;TZID=America/Los_Angeles:20261209T190000
+DTEND;TZID=America/Los_Angeles:20261209T210000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17979207@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:System Exclusive record release show at Kilowatt!\n\nPresented
+  by Kilowatt.\n\nThis is a 21+ event\n\nFree\nPresented by Kilowatt.\n\nTi
+ ckets: https://link.dice.fm/n796d94ca190?pid=717f1d8a\nDetails: https://do
+ thebay.com/events/2026/12/9/system-exclusive-record-release-squiggle-and-j
+ ulian-never-tickets\nSource: DoTheBay
+GEO:37.7650767;-122.423278
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35065904/9f1c64f5-70ec-49c4-9743-aacf383bbafd.jpg
+LAST-MODIFIED:20261023T171442Z
+LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/9/system-exclusive-record-release-
+ squiggle-and-julian-never-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Pineapple Thief
@@ -13468,18 +13537,19 @@ BEGIN:VEVENT
 SUMMARY:Hunxho
 DTSTART;TZID=America/Los_Angeles:20261214T200000
 DTEND;TZID=America/Los_Angeles:20261214T220000
-DTSTAMP:20261015T212936Z
+DTSTAMP:20261023T171442Z
 UID:dothebay-17877378@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:All Ages\n\nTickets: https://ticketmaster.evyy.net/c/253185/26
- 4167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fhunxho-s
- an-francisco-california-12-14-2026%2Fevent%2F1C006536D0E89103\nDetails: ht
- tps://dothebay.com/events/2026/12/14/hunxho-tickets\nSource: DoTheBay
+DESCRIPTION:Hunxho\nMonday\, December 14 | August Hall\n\nAll Ages\n\nTick
+ ets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u
+ =https%3A%2F%2Fwww.ticketmaster.com%2Fhunxho-san-francisco-california-12-1
+ 4-2026%2Fevent%2F1C006536D0E89103\nDetails: https://dothebay.com/events/20
+ 26/12/14/hunxho-tickets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34589266/7151c72b-3af4-42b7-a472-04fabb5cc5f4.jpg
-LAST-MODIFIED:20261015T212936Z
+LAST-MODIFIED:20261023T171442Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/14/hunxho-tickets
@@ -14168,6 +14238,24 @@ LAST-MODIFIED:20261021T171908Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/20/dimensions-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sad Bastard Club
+DTSTART;TZID=America/Los_Angeles:20261222T193000
+DTEND;TZID=America/Los_Angeles:20261222T213000
+DTSTAMP:20261023T171442Z
+UID:dothebay-17686350@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
+ ebay.com/events/2026/12/22/sad-bastard-club-tickets\nSource: DoTheBay
+GEO:37.7552647;-122.4193588
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33675623/f1813a3f-8df1-496b-b2de-4a850d7a4921.jpg
+LAST-MODIFIED:20261023T171442Z
+LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/22/sad-bastard-club-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daft Disko: New Years Eve
