@@ -40,66 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Rocky Dale Davis
-DTSTART;TZID=America/Los_Angeles:20261015T190000
-DTEND;TZID=America/Los_Angeles:20261015T210000
-DTSTAMP:20261016T113307Z
-UID:dothebay-17294964@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Rocky Dale Davis\nThursday\, October 15 | Cobb's Comedy Club\n
- \n18+\nSold out\n\nDetails: https://dothebay.com/events/2026/10/15/rocky-d
- ale-davis-tickets\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31832322/3b4f9803-1a52-407b-8751-1e0dd646d62e.png
-LAST-MODIFIED:20261016T113307Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/15/rocky-dale-davis-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laura Ramoso
-DTSTART;TZID=America/Los_Angeles:20261015T193000
-DTEND;TZID=America/Los_Angeles:20261015T213000
-DTSTAMP:20261016T113307Z
-UID:dothebay-17180928@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:The Calm Down Tour\nLaura Ramoso\nThursday\, October 15 | The 
- Masonic\n\nThe Calm Down Tour\n\nDetails: https://dothebay.com/events/2026
- /10/15/laura-ramoso-the-calm-down-tour-tickets\nSource: DoTheBay
-GEO:37.7911829;-122.412938
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31296377/a9ba8d96-9b72-4872-b795-39d838ba0d6d.png
-LAST-MODIFIED:20261016T113307Z
-LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/15/laura-ramoso-the-calm-down-tour
- -tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aaron Weber
-DTSTART;TZID=America/Los_Angeles:20261015T200000
-DTEND;TZID=America/Los_Angeles:20261015T220000
-DTSTAMP:20261016T113307Z
-UID:dothebay-17238236@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Aaron Weber\nThursday\, October 15 | Punch Line San Francisco\
- n\n18+\n\nDetails: https://dothebay.com/events/2026/10/15/aaron-weber-tick
- ets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31562322/e2937f13-8719-459b-8486-838b132f413f.png
-LAST-MODIFIED:20261016T113307Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/15/aaron-weber-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dean Evans: Les Pervers - Flop Fest!
 DTSTART;TZID=America/Los_Angeles:20261016T183000
 DTEND;TZID=America/Los_Angeles:20261016T203000
@@ -2617,29 +2557,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/28/mo-welch-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birdhouse Comedy Night
-DTSTART;TZID=America/Los_Angeles:20261029T150000
-DTEND;TZID=America/Los_Angeles:20261029T170000
-DTSTAMP:20261022T214235Z
-UID:dothebay-17983772@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy
-DESCRIPTION:$12\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2
- Fwww.eventbrite.com%2Fe%2Fbirdhouse-comedy-night-tickets-1994255806802%3Fa
- ff%3Debdsshcopyurl%26utm-campaign%3Dsocial%26utm-content%3Dattendeeshare%2
- 6utm-medium%3Ddiscovery%26utm-source%3Dcp%26utm-term%3Dlisting\nDetails: h
- ttps://dothebay.com/events/2026/10/29/birdhouse-comedy-night-tickets\nSour
- ce: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/birdhouse-comed
- y-night-2/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35086938/bd15361f-7622-46cc-9142-1c417d2ed79a.jpg
-LAST-MODIFIED:20261022T214235Z
-LOCATION:Birdhouse Art Gallery\, 2548 Judah Street\, San Francisco\, CA\, 
- 94112
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/29/birdhouse-comedy-night-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fahim Anwar
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T210000
@@ -2710,6 +2627,37 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/29/mo-welch-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birdhouse Comedy Night
+DTSTART;TZID=America/Los_Angeles:20261029T200000
+DTEND;TZID=America/Los_Angeles:20261029T220000
+DTSTAMP:20261023T050002Z
+UID:dothebay-17983772@sf-cal
+SEQUENCE:1
+CATEGORIES:Comedy
+DESCRIPTION:Birdhouse Comedy Night is a monthly stand-up show in SF's Suns
+ et District. It happens on a Thursday at the illustrious Birdhouse gallery
+  and features a selection of the Bay Area's best stand up comics\, with th
+ e added bonus of the gallery's ever-rotating display of fantastic local ar
+ t.\nOut next show is Thursday\, October 29th at 8pm!\nFeaturing:\nDave Hay
+ \nHaley Rosenberg\nCaleb Zeringue\nWally Hipolito\nJulie Ash\nand the one 
+ and only Kaseem Bentley\nJoined as always by host Charlie Norton.\nCome on
+  out and take in some local art and comedy! Drinks are available for sugge
+ sted donation but also feel free to BYOB (if 21+\, of course).\n\n$12\n\nT
+ ickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%
+ 2Fe%2Fbirdhouse-comedy-night-tickets-1994255806802%3Faff%3Debdsshcopyurl%2
+ 6utm-campaign%3Dsocial%26utm-content%3Dattendeeshare%26utm-medium%3Ddiscov
+ ery%26utm-source%3Dcp%26utm-term%3Dlisting\nDetails: https://dothebay.com/
+ events/2026/10/29/birdhouse-comedy-night-tickets\nSource: DoTheBay\n\nAlso
+  listed on:\n- https://sf.funcheap.com/birdhouse-comedy-night-2/
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35093329/8b476500-b009-4f79-bf7a-07f15325fe16.jpg
+LAST-MODIFIED:20261023T050002Z
+LOCATION:Birdhouse Art Gallery\, 2548 Judah Street\, San Francisco\, CA\, 
+ 94112
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/birdhouse-comedy-night-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JT Parr
@@ -2971,6 +2919,45 @@ LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-102
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATS IMPROV SHOWS 2026
+DTSTART;TZID=America/Los_Angeles:20261031T200000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+DTSTAMP:20261023T050002Z
+UID:caldiscovery-comedy-5d73d9268342e01f@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:About\nEvent Features\nGallery\nPlan Your Visit\nTickets\n\nBA
+ TS Improv\n\nExplore the world of improv with Fort Mason Center For Arts &
+  Culture resident organization BATS Improv. Saturday nights and select Sun
+ day nights offer in-person shows at the Bayfront Theatre in Building B.\n\
+ nBATS IMPROV DETAILS\n\nLa Vida Loca: An Improvised Telenovela ignites pas
+ sions on Saturday\, September 19 and 26\, 2026\, 8:00 p.m. to 10:00 p.m.\n
+ \nHalloween season offers The Improvised Twilight Zone on Saturday\, Octob
+ er 3 and 10\, 2026. Trick Or Treat: Fun-Size Spooky Scenes rings doorbells
+  on October 17 and 24\, 2026. Double Creature: A Horrifying Double Feature
+  stalks the stage on Saturday\, October 31\, 2026. All shows run 8:00 p.m.
+  to 10:00 p.m.\n\nSaturdays in November are set for Theatresports\, Novemb
+ er 7 to 26\, 8:00 p.m. to 10:00 p.m.\n\nThe Anniversary Show & Gala Dinner
+  sets up on Friday\, November 13\, 2026\, 6:00 p.m. to 11:00 p.m.\n\nHolid
+ ay favorite An Improvised Dickens Musical returns on Saturdays\, December 
+ 5 to 26\, 2026. Noir Year’s Eve blasts off on Thursday\, December 31\, 2
+ 026. Both shows run 8:00 p.m. to 10:00 p.m.\n\nFor more improv\, visit the
+  BATS YouTube video channel for free digital clips of BATS Improv’s grea
+ test hits. Online shows from past shows\, as well as other BATS Improv ree
+ ls\, are free to view by following Facebook links.\n\nTrick Or Treat: Fun-
+ Size Spooky Scenes\n\nDouble Creature: A Horrifying Double Feature\n\nThea
+ tresports\n\nAn Improvised Dickens Musical\n\nNoir Year’s Eve\n\nPlan Yo
+ ur Visit\n\nDates &...\n\nPublished by Fort Mason Center for Arts & Cultur
+ e\nContains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\
+ nDetails: https://fortmason.org/event/bats-improv-shows-2026-2/2026-10-31/
+ ?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSou
+ rce: CalDiscovery
+LAST-MODIFIED:20261023T050002Z
+TRANSP:TRANSPARENT
+URL:https://fortmason.org/event/bats-improv-shows-2026-2/2026-10-31/?utm_s
+ ource=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Ghostly\, Ghastly Get It?! Gameshow

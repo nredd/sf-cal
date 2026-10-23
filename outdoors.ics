@@ -40,69 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Waterfront Art Walk + Guided Sculpture Tours
-DTSTART;TZID=America/Los_Angeles:20261015T170000
-DTEND;TZID=America/Los_Angeles:20261015T200000
-DTSTAMP:20261013T225222Z
-UID:funcheap-1642270@sf-cal
-SEQUENCE:1
-CATEGORIES:Outdoors
-DESCRIPTION:Masaki OmoriBig Art. Bay Views. Explore the Waterfront.\nWater
- front Walkabout is back! San Francisco’s newest event series returns wit
- h live music\, interactive craft activities\, and monumental art.\nWander 
- along the Big Art Loop – Portside at your own pace or sign up in advance
-  for an optional free guided art tour.\nWaterfront Walkabout\nThursday\, O
- ctober 15\, 2026 | 5-8p\nEmbarcadero between Pier 14 & the Exploratorium\,
-  SF\nFREE | RSVP\nWHATS ON DECK\n\nCorpus (Pier 14): Visit the welcome boo
- th and meet the artist Michael Christian\nEchoes (Ferry Terminal Plaza): D
- rop in to Paint & Sip\, interactive games with Playful SF\, or free piano 
- or guitar lessons with Daniel Lupo Music and the Chamber of Connection\nFe
- rry Building (Front Plaza): Enjoy free live music\, plus fresh oysters and
-  drink specials for purchase from Hog Island Oyster Co.\nCoralee (Pier 1/2
- ): Dive into mermaid crafts and enchanting water spirit storytelling with 
- En2Action and get $1 off Joyride Pizza\n️ Got Framed (Pier 7): Strike a 
- pose on the pier for free professional portraits and enjoy $10 Rose afterw
- ards at Coqueta\n\nGUIDED ART TOURS\nJoin a free docent-led tour to hear t
- he stories behind the four featured sculptures! These 50-minute guided wal
- ks depart from Pier 14 (at Corpus) and end at Pier 7.\n\n5:00 PM – Guide
- d Art Tour\n6:00 PM – Guided Art Tour\n7:00 PM – Guided Art Tour\n\nHo
- w to sign up for guided art tours: Space is limited—advance tour registr
- ation is required. To sign up\, please select the tour ticket type option 
- dur...\n\nFree\n\nTickets: https://downtownsf.org/things-to-do/big-art-loo
- p-portside\nDetails: https://sf.funcheap.com/free-waterfront-art-walk-guid
- ed-sculpture-tours-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Funche
- ap_WaterfrontWalkabout_2026-.png
-LAST-MODIFIED:20261013T225222Z
-LOCATION:Embarcadero\, 4 Embarcadero Center\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-waterfront-art-walk-guided-sculpture-tour
- s-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NightLife: October 15
-DTSTART;TZID=America/Los_Angeles:20261015T180000
-DTEND;TZID=America/Los_Angeles:20261015T200000
-DTSTAMP:20261016T113307Z
-UID:dothebay-17799227@sf-cal
-SEQUENCE:1
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Thursdays hit different at NightLife. The museum comes alive a
- fter hours–wilder\, more curious\, and full of exciting creatures. Grab 
- your friends\, grab a handcrafted drink\, and let yourself wander into wha
- tever weird or wonderful corner calls you.\n\nPlus\, you can:\n\nDetails: 
- https://dothebay.com/events/2026/10/15/nightlife-october-15-tickets\nSourc
- e: DoTheBay
-GEO:37.7698646;-122.4660947
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34223338/3ffca28d-7426-4b6c-9d75-65a6d241ac41.jpg
-LAST-MODIFIED:20261016T113307Z
-LOCATION:California Academy of Sciences\, 55 Music Concourse Drive\, San F
- rancisco\, CA\, 94118
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/15/nightlife-october-15-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261016T090000
 DTEND;TZID=America/Los_Angeles:20261016T100000
@@ -883,22 +820,6 @@ LOCATION:San Francisco State University Observatory\, Thornton Hall\, 10th
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-october-2026-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261022T173000
-DTEND;TZID=America/Los_Angeles:20261022T183000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-3392694a98a7b2c7@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10531\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NightLife: Día de los Muertos
@@ -2446,6 +2367,32 @@ LOCATION:Church of 8 Wheels\, 554 Fillmore Street San Francisco\, CA 94117
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/halloween-roller-disco-2026-127yearold-church-
  thriller-skate-party-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Hallows Eve Goth Yoga in North Beach
+DTSTART;TZID=America/Los_Angeles:20261031T160000
+DTEND;TZID=America/Los_Angeles:20261031T173000
+DTSTAMP:20261023T050002Z
+UID:funcheap-1642591@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports Fitness
+DESCRIPTION:Submitted by the Event OrganizerAndy ImmGoth Yoga returns on A
+ ll Hallows Eve\, to the Church of Mother Gong. Join us for an afternoon of
+  stretching\, breathing\, and getting a little weird in North Beach. This 
+ all-levels class is a chance to slow down\, move around\, and enjoy yoga w
+ ith a slightly darker disposition. Beginners are very welcome—no special
+  flexibility\, experience\, or goth credentials required. Some mats and bl
+ ocks will be available\, but please bring your own if you have them. If yo
+ u wish to save on ticket fees\, in-person cash and card payments are avail
+ able.\n\n$20.00\n\nTickets: https://www.eventbrite.com/e/2000325511452?aff
+ =oddtdtcreator\nDetails: https://sf.funcheap.com/hallows-eve-goth-yoga-nor
+ th-beach-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Goth-Y
+ oga-Non-AI-v2.jpg
+LAST-MODIFIED:20261023T050002Z
+LOCATION:Live Worms Gallery\, 1345 Grant Ave\, San Francisco\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/hallows-eve-goth-yoga-north-beach-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WNBA Playoffs Round 3 Home Game I: Valkyries V Atlanta Dream
