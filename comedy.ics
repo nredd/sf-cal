@@ -8612,25 +8612,50 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/22/joe-klocek-friends-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ali Wong Live
+DTSTART;TZID=America/Los_Angeles:20261223T190000
+DTEND;TZID=America/Los_Angeles:20261223T210000
+DTSTAMP:20261024T160225Z
+UID:dothebay-17099297@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Ali Wong Live\nWednesday\, December 23 | The Masonic\n\nTicket
+ s: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=h
+ ttps%3A%2F%2Fwww.ticketmaster.com%2Fali-wong-live-san-francisco-california
+ -12-23-2026%2Fevent%2F1C006452C0F59CCE\nDetails: https://dothebay.com/even
+ ts/2026/12/23/ali-wong-live-tickets\nSource: DoTheBay
+GEO:37.7911829;-122.412938
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/30907422/b30c2d25-0254-49bd-bef1-406b1fce499b.png
+LAST-MODIFIED:20261024T160225Z
+LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/23/ali-wong-live-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comedy Allstars
 DTSTART;TZID=America/Los_Angeles:20261223T193000
 DTEND;TZID=America/Los_Angeles:20261223T213000
-DTSTAMP:20261024T111224Z
-UID:caldiscovery-comedy-08cd2322f57adb2e@sf-cal
+DTSTAMP:20261024T160225Z
+UID:dothebay-17861696@sf-cal
 SEQUENCE:0
-CATEGORIES:comedy
-DESCRIPTION:Published by Punch Line Comedy Club\nContains information from
-  CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticket
- master.com/comedy-allstars-san-francisco-california-12-23-2026/event/1C006
- 5198C228CE3?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franci
- sco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261024T111224Z
-LOCATION:Punch Line Comedy Club - San Francisco\, 444 Battery Street\, San
-  Francisco\, CA\, 94111
+CATEGORIES:Comedy
+DESCRIPTION:Comedy Allstars\nWednesday\, December 23 | ​Punch Line San F
+ rancisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/
+ 4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcomedy-allsta
+ rs-san-francisco-california-12-23-2026%2Fevent%2F1C0065198C228CE3\nDetails
+ : https://dothebay.com/events/2026/12/23/comedy-allstars-tickets\nSource: 
+ DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/comedy-allstar
+ s-san-francisco-california-12-23-2026/event/1C0065198C228CE3?utm_source=ca
+ ldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34516556/d9cd3a3a-0776-4b4e-ab46-4648e96f6758.png
+LAST-MODIFIED:20261024T160225Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
 TRANSP:TRANSPARENT
-URL:https://www.ticketmaster.com/comedy-allstars-san-francisco-california-
- 12-23-2026/event/1C0065198C228CE3?utm_source=caldiscovery&utm_medium=ics&u
- tm_campaign=san-francisco-ca
+URL:https://dothebay.com/events/2026/12/23/comedy-allstars-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coit Comedy: Stand Up Comedy & Free Golden Boy Pizza | SF

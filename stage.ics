@@ -4101,9 +4101,9 @@ BEGIN:VEVENT
 SUMMARY:Performing Arts Showcase
 DTSTART;TZID=America/Los_Angeles:20261113T170000
 DTEND;TZID=America/Los_Angeles:20261113T190000
-DTSTAMP:20261023T171442Z
+DTSTAMP:20261024T160225Z
 UID:dothebay-17979163@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:On Friday\, November 13\, from 5–8 pm\, Fulton Plaza will co
  me alive beneath the dazzling SPECTRA lights for the holiday season’s Pe
@@ -4124,10 +4124,12 @@ DESCRIPTION:On Friday\, November 13\, from 5–8 pm\, Fulton Plaza will co
  003087118493\nDetails: https://dothebay.com/events/2026/11/13/performing-a
  rts-showcase-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.fu
  ncheap.com/holiday-performing-arts-showcase-sf-opera-civic-center/\n- http
- s://sfciviccenter.org/event/holiday-season-performing-arts-showcase/
+ s://sf.funcheap.com/sfs-free-holiday-performing-arts-showcase-1200-led-lig
+ hts-civic-center/\n- https://sfciviccenter.org/event/holiday-season-perfor
+ ming-arts-showcase/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35065548/5e83f83d-c867-4e35-95c3-5d6bbb338f3e.jpg
-LAST-MODIFIED:20261023T171442Z
+LAST-MODIFIED:20261024T160225Z
 LOCATION:Civic Center Fulton Plaza\, Fulton & Larkin Street\, San Francisc
  o\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -5483,6 +5485,48 @@ LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/3/pattie-gonia-save-her-feat-sequo
  ia-and-vera-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Joy of Astonishment
+DTSTART;TZID=America/Los_Angeles:20261203T201500
+DTEND;TZID=America/Los_Angeles:20261203T221500
+DTSTAMP:20261024T160225Z
+UID:dothebay-17988688@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Magician and Mentalist Robert Goleman Brings "The Joy of Aston
+ ishment" to The Lost Church Theatre in San Francisco on Thursday\, Decembe
+ r 3\, at 8:15 PM.\nWith more than 50 years of stage experience\, Robert Go
+ leman\ninvites audiences into a riveting\, intimate evening of magic and m
+ entalism that\nhas been described as “nothing short of astonishing.” B
+ lending suspense\, humor\,\nand audience connection\, his performance turn
+ s every demonstration into a\npersonal encounter – one that feels imposs
+ ible\, unforgettable\, and beyond\nexplanation.\nThe Joy of Astonishment i
+ s more than a magic show—it\nis a shared experience of wonder\, created 
+ for an intimate theatrical setting\nwhere every reaction becomes part of t
+ he performance. Though Goleman has been\nabsent from social media for more
+  than a decade\, he can only be seen live and\nin person—and should not 
+ be missed. His reputation continues to grow through captivating\nlive appe
+ arances and enthusiastic word of mouth\, a reminder that the most\npowerfu
+ l promotion is the excitement audiences carry with them long after they\nl
+ eave the theater.\nFor theatergoers drawn to wit\, wonder\, and the thrill
+  of the\nimpossible\, Robert Goleman offers an intimate evening where warm
+ th\, intellect\,\nand astonishment meet – only at The Lost Church. ALL A
+ GES\, 10+ preferred.\n$30 General Admission. Show from 8:15-10:00pm. Doors
+  open at\n7:30pm. Tickets at: https://thelostchurch.org/san-francisco/\nLo
+ st Church\, 988 Columbus Avenue\, San Francisco\, CA 94133\n(at the corner
+  of Chestnut...\n\n$30 All Ages (10+ preferred)\nGoleman Magic\nListed tim
+ e is doors\n\nTickets: https://thelostchurch.org/san-francisco/\nDetails: 
+ https://dothebay.com/events/2026/12/3/the-joy-of-astonishment-tickets\nSou
+ rce: DoTheBay
+GEO:37.76578300000001;-122.418409
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35107223/8921457d-c9af-4842-8508-ed6d98dbf796.jpg
+LAST-MODIFIED:20261024T160225Z
+LOCATION:The Lost Church San Francisco\, 988 Columbus Avenue\, San Francis
+ co\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/3/the-joy-of-astonishment-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wiz

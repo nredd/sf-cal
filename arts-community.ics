@@ -41,42 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Marisa Anderson + Camellia Boutros
-DTSTART;TZID=America/Los_Angeles:20261017T080000
-DTEND;TZID=America/Los_Angeles:20261017T100000
-DTSTAMP:20261018T111813Z
-UID:dothebay-17387756@sf-cal
-SEQUENCE:1
-CATEGORIES:Variety
-DESCRIPTION:Buy Tickets\n\nDoors 8pm / Show 8:30pm\n\n$27 adv / $29 door /
-  free or discounted for members\n\nMember tickets are not yet available fo
- r Fall 2026 Programs\n\nMarisa Anderson's music transcends borders. The to
- pography of her work interrogates the intersections of artistry and expres
- sion with form and tradition. A singular guitarist and voracious musical c
- ollaborator\, Anderson crafts pieces bursting with equal parts reverence a
- nd curiosity\, contouring familiar shapes into work that is wholly her own
- .\n\nThe Anthology of UnAmerican Folk Music is a collection of nearly one 
- thousand songs culled from the private record collection of the late Harry
-  Smith. Assembled by Anderson after a chance encounter led to an opportuni
- ty to study and explore this treasure trove of music\, the Anthology focus
- es on music from places that the United States has been in conflict with s
- ince 1970: Southeast Asia\, the USSR and the Arabic and Islamic regions of
-  the world. In Volume 1 Anderson presents her own deeply personal iteratio
- ns of nine songs from the Anthology. Composed\, transcribed and arranged t
- hrough a process of trial and error\, deep listening and research\, Anders
- on charts a musical course from Afghanistan to Vietnam via Yemen\, Cambodi
- a and Turkmenistan.\n\n$27\n\nDetails: https://dothebay.com/events/2026/10
- /17/marisa-anderson-camellia-boutros-tickets\nSource: DoTheBay
-GEO:37.765289;-122.418493
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32262361/63281f73-4131-4cb3-8317-ca022e84af4a.jpg
-LAST-MODIFIED:20261018T111813Z
-LOCATION:The Lab\, 2948 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/17/marisa-anderson-camellia-boutro
- s-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shared Origins\, Bright Mutual Future
 DTSTART;TZID=America/Los_Angeles:20261017T080000
 DTEND;TZID=America/Los_Angeles:20261017T153000
@@ -10155,6 +10119,27 @@ URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
  he-arts-ybca-161/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Music: the Gathering
+DTSTART;TZID=America/Los_Angeles:20261111T180000
+DTEND;TZID=America/Los_Angeles:20261111T200000
+DTSTAMP:20261024T160225Z
+UID:dothebay-17989719@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Play some music\, play some magic\, bring your decks\, bring y
+ our instrument!\n\nJoin us once again at The Savoy Tivoli for Commander ga
+ mes and a video game music jam session. All skill levels are welcome for b
+ oth\, and we also offer pod placement.\n\nFree\, 21+\nCheckpoint\n\nTicket
+ s: https://partiful.com/e/zIFwj4smfmJqf4QvEzoC\nDetails: https://dothebay.
+ com/events/2026/11/11/music-the-gathering-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35111897/11bf9d93-f9ca-43d9-bf4a-014228e31415.jpg
+LAST-MODIFIED:20261024T160225Z
+LOCATION:The Savoy Tivoli\, 1434 Grant Avenue\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/11/music-the-gathering-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:You're Just a Thing: The Art of Objectification with Miss Red Rida
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
@@ -10786,33 +10771,6 @@ URL:https://dothebay.com/events/2026/11/14/district-4-sunset-family-summit
  -tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fall SF International Tea Festival
-DTSTART;TZID=America/Los_Angeles:20261114T110000
-DTEND;TZID=America/Los_Angeles:20261114T130000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17873499@sf-cal
-SEQUENCE:0
-CATEGORIES:Variety
-DESCRIPTION:Sip and savor teas from over 30 international vendors! Admissi
- on includes unlimited tastings and a porcelain tasting cup to keep.\n\nEVE
- RY CUP OF TEA IS A STORY\n\nGeneral Admission includes:\n\nEXPLORE THE TEA
-  MARKET\n\nDiscover teas directly from the makers and producers. Complimen
- tary tastings of teas from local and global producers included with entry.
- \n\nLearn more about vendors\, class schedule and details on how to get th
- ere at www.SFITF.com\n\nTickets: https://www.ferrybuildingmarketplace.com/
- events/sf-international-tea-festival-2025/\nDetails: https://dothebay.com/
- events/2026/11/14/fall-sf-international-tea-festival-tickets\nSource: DoTh
- eBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34572255/a9834492-3fb0-482e-bec0-3b2ce3eb46ac.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
- 11
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/14/fall-sf-international-tea-festi
- val-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drawn Together—A Drawing Club for Everyone
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T130000
@@ -10964,6 +10922,36 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:The School Farm\, 555 Portola Drive\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/eco-sf-school-farm-volunteer-work-day-sf-164/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Art Auction
+DTSTART;TZID=America/Los_Angeles:20261114T130000
+DTEND;TZID=America/Los_Angeles:20261114T150000
+DTSTAMP:20261024T160225Z
+UID:dothebay-17988521@sf-cal
+SEQUENCE:0
+CATEGORIES:The Arts
+DESCRIPTION:Join us for an afternoon of art\, wine & cheese\, and a one-of
+ -a-kind opportunity to acquire an original painting by Victoria Lashkareff
+ \, a Russian émigré artist whose work was exhibited throughout Northern 
+ California during the mid-20th century.\n\nNow\, a curated selection from 
+ this remarkable collection will be offered for purchase at our Silent Art 
+ Auction. Browse original works\, enjoy a glass of wine\, and bid on a piec
+ e that catches your eye.\n\nWith starting bids from $50\, this is an oppor
+ tunity to own an original work of 20th-century art while supporting the cu
+ ltural programs of the Museum of Russian Culture and the Russian Center of
+  San Francisco.\n\nTickets\, Online Art Gallery\, & Event Details availabl
+ e at: https://www.russiancentersf.org/event-details/silent-auction-at-the-
+ russian-center.\n\n$10.00\n\nTickets: https://www.russiancentersf.org/even
+ t-details/silent-auction-at-the-russian-center\nDetails: https://dothebay.
+ com/events/2026/11/14/silent-art-auction-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35106612/6c4d143a-410f-49be-a7fd-0a65944d77fa.jpg
+LAST-MODIFIED:20261024T160225Z
+LOCATION:Russian Center of San Francisco\, 2460 Sutter St.\, San Francisco
+ \, CA\, 94115
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/14/silent-art-auction-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TEDxHayesValley Salon
