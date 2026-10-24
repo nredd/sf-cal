@@ -40,26 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Community Coffee Social (Elizabeth Taylor 50-Plus Network)
-DTSTART;TZID=America/Los_Angeles:20261017T100000
-DTEND;TZID=America/Los_Angeles:20261017T120000
-DTSTAMP:20261018T111813Z
-UID:dothebay-16869110@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:Held every Saturday\, at 10 am\, members and prospective membe
- rs of the Elizabeth Taylor 50-Plus network gather for coffee and community
-  at a local coffee shop.\n\nTo join us\, contact us at 50plusnetwork@sfaf.
- org for more information or call 415-728-3116.\n\nDetails: https://dotheba
- y.com/events/2026/10/17/community-coffee-social-elizabeth-taylor-50-plus-n
- etwork-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261018T111813Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/17/community-coffee-social-elizabe
- th-taylor-50-plus-network-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Families Out Loud San Francisco: Family Building & Surrogacy Confe
  rence
 DTSTART;TZID=America/Los_Angeles:20261017T100000
@@ -131,6 +111,34 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Harrison and 11th Street\, 11th and Harrison\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-inaugural-bearrison-street-fair-soma/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Poetry + LGBTQ Book Celebration (City Lights Books)
+DTSTART;TZID=America/Los_Angeles:20261017T120000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+DTSTAMP:20261024T205625Z
+UID:funcheap-1638695@sf-cal
+SEQUENCE:0
+CATEGORIES:Lgbtq
+DESCRIPTION:Books Not Bans together with City Lights and Litquake present 
+ a party for everyone who loves reading.\n\nFREE\, $10-$15 suggested donati
+ on\nCo-presented with City Lights & Books Not Bans\n\nBooks Not Bans toget
+ her with City Lights and Litquake present a party for everyone who loves r
+ eading. Join us for an afternoon filled with connection\, revelry\, music\
+ , games and stories. Featuring performances\, readings\, and all kinds of 
+ stuff from Syr Hayati Beker\, Shoshana von Blanckensee\, Kevin Dublin\, W.
+ S. Gong\, Hyazinth\, Sean Owens\, and Sumiko Saulson. Hosted by Books Not 
+ Bans founder Becka Robbins. Proceeds from this event support Books Not Ban
+ s.\n\nFree\n\nTickets: https://www.eventbrite.com/e/read-the-room-books-no
+ t-bans-tickets-1998026091826\nDetails: https://sf.funcheap.com/free-poetry
+ -lgbtq-book-celebration-city-lights-books/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Featur
+ ed-Author-Post.jpg
+LAST-MODIFIED:20261024T205625Z
+LOCATION:City Lights Books\, 261 Columbus Avenue\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-poetry-lgbtq-book-celebration-city-lights
+ -books/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Market Street Arts & Theater Festival
@@ -1459,23 +1467,24 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/funkytown-sf-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Out & Abt SF: Halloween Dance Party /200 Channels
+SUMMARY:Out & Abt SF: Halloween Dance Party
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261024T230000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T205625Z
 UID:dothebay-17869675@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Get ready for a spooky night of dancing\, costumes\, and music
-  at Monarch’s Halloween Dance Party with Out & Abt SF.\n\n$16.28-$25.55\
+  at Monarch’s Halloween Dance Party with Out & Abt SF.\n\nLineup:\nMYMY\
+ n\nOSHE\n\nARKTOI\n\nCowboy Blvck\n\nOlivia Lauren\n\n$16.28-$25.55\, 21+\
  n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.
- com%2Fe%2Fout-abt-sf-halloween-dance-party-monarch200-channels-tickets-200
- 1243353743\nDetails: https://dothebay.com/events/2026/10/24/out-abt-sf-hal
- loween-dance-party-200-channels-tickets\nSource: DoTheBay
+ com%2Fe%2Fout-abt-sf-hallowen-dance-party-monarch200-channels-tickets-2001
+ 243353743\nDetails: https://dothebay.com/events/2026/10/24/out-abt-sf-hall
+ oween-dance-party-200-channels-tickets\nSource: DoTheBay
 GEO:37.7809743;-122.4084128
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34551074/080454e8-1292-4a0b-92bd-6762c791fa93.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T205625Z
 LOCATION:Monarch\, 101 Sixth St.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/24/out-abt-sf-halloween-dance-part
