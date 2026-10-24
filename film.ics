@@ -341,33 +341,32 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/18/a-tale-of-two-sisters-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3rd Annual Studio 8 Film Festival
+SUMMARY:3rd Annual Studio 8 Film Festival (SF’s 4 Star Theater)
 DTSTART;TZID=America/Los_Angeles:20261018T140000
 DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17914009@sf-cal
-SEQUENCE:2
-CATEGORIES:Film
-DESCRIPTION:Sun\, Oct 18\, 2pm\, and Nov 6-8\, Fri 7pm\, Sat 1:30pm\, Sun 
- 12 noon\n\nThe 3rd Annual Studio 8 Film Festival celebrates the filmmaking
-  of San Francisco Art Institute (SFAI) alumni\, faculty\, and staff. Follo
- wing a kick-off event at SFMOMA on October 18\, the main program will take
-  place November 6-8 at the 4-Star and Roxie Theaters in San Francisco. Pro
- grams will include films by George Kuchar\, Ed Jones\, Rock Ross\, Dean Sn
- ider\, Michael Rudnick\, and special event with Babeth Mondini-VanLoo\, wi
- th films starring the Sex Pistols\, Andy Warhol\, and the sounds of Cabare
- t Voltaire.\n\nFree to $20.\n\nPresented by SF Artists Alumni.\n\nFree\nSF
-  Artists Alumni\n\nDetails: https://dothebay.com/events/2026/10/18/3rd-ann
- ual-studio-8-film-festival-tickets\nSource: DoTheBay\n\nAlso listed on:\n-
-  https://sf.funcheap.com/3rd-annual-studio-8-film-festival-sfs-4-star-thea
- ter/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34760371/46b138a3-1aeb-4d7b-8137-0aba5b8f266a.jpg
-LAST-MODIFIED:20261019T210249Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
+DTSTAMP:20261024T111224Z
+UID:funcheap-1640843@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:SF Artists AlumniSun\, Oct 18\, 2pm\, and Nov 6-8\, Fri 7pm\, 
+ Sat 1:30pm\, Sun 12 noon\nThe 3rd Annual Studio 8 Film Festival celebrates
+  the filmmaking of San Francisco Art Institute (SFAI) alumni\, faculty\, a
+ nd staff. Following a kick-off event at SFMOMA on October 18\, the main pr
+ ogram will take place November 6-8 at the 4-Star and Roxie Theaters in San
+  Francisco. Programs will include films by George Kuchar\, Ed Jones\, Rock
+  Ross\, Dean Snider\, Michael Rudnick\, and special event with Babeth Mond
+ ini-VanLoo\, with films starring the Sex Pistols\, Andy Warhol\, and the s
+ ounds of Cabaret Voltaire.\nPresented by SF Artists Alumni\n\nFree\n\nTick
+ ets: https://www.sfartistsalumni.org/s8ff-2026\nDetails: https://sf.funche
+ ap.com/3rd-annual-studio-8-film-festival-sfs-4-star-theater/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/4785_v
+ 0.jpg
+LAST-MODIFIED:20261024T111224Z
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/3rd-annual-studio-8-film-festiv
- al-tickets
+URL:https://sf.funcheap.com/3rd-annual-studio-8-film-festival-sfs-4-star-t
+ heater/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Media Meltdown presents: Cemetery Man
@@ -1096,9 +1095,9 @@ BEGIN:VEVENT
 SUMMARY:Wicker
 DTSTART;TZID=America/Los_Angeles:20261023T133000
 DTEND;TZID=America/Los_Angeles:20261023T153000
-DTSTAMP:20261010T010053Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17941182@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:An audacious comedic fable about sex\, marriage\, and the absu
  rdities of social convention\, WICKER tells the wholly original love story
@@ -1107,13 +1106,12 @@ DESCRIPTION:An audacious comedic fable about sex\, marriage\, and the absu
  d (Alexander Skarsgård) proves more spectacular than she ever imagined\, 
  his soulful spirit and unique prowess awaken something inside her\, settin
  g off a wave of jealousy\, fascination\, and upheaval that threatens the v
- ery fabric of village life.\n\nTickets: https://drafthouse.com/sf/show/wic
- ker?cinemaId=0802&sessionId=22577\nDetails: https://dothebay.com/events/20
- 26/10/23/wicker-tickets\nSource: DoTheBay
+ ery fabric of village life.\n\nDetails: https://dothebay.com/events/2026/1
+ 0/23/wicker-tickets\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34888484/8991631e-8bfd-4b00-ba6a-2db0f1c18540.jpg
-LAST-MODIFIED:20261010T010053Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT
@@ -1165,20 +1163,19 @@ BEGIN:VEVENT
 SUMMARY:Sunset Cinema: Coco (2017)
 DTSTART;TZID=America/Los_Angeles:20261023T183000
 DTEND;TZID=America/Los_Angeles:20261023T203000
-DTSTAMP:20261021T184258Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17723768@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:Sunset Cinema: Coco (2017)\nFriday\, October 23 | ​Mission C
  ity Memorial Park\n\nLooking for Friday night family fun? Join us for the 
  2026 Sunset Cinema series and enjoy free movie nights under the stars on o
  ur big inflatable screen at select parks throughout Santa Clara.\n\nFree\n
- \nTickets: https://www.santaclaraca.gov/our-city/departments-g-z/parks-rec
- reation/special-events/sunset-cinema\nDetails: https://dothebay.com/events
- /2026/10/23/sunset-cinema-coco-2017\nSource: DoTheBay
+ \nDetails: https://dothebay.com/events/2026/10/23/sunset-cinema-coco-2017\
+ nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33863492/7701f342-74ed-46ed-88c4-bc78e8b62b01.png
-LAST-MODIFIED:20261021T184258Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Mission City Memorial Park\, 420 N Winchester Blvd.
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/sunset-cinema-coco-2017
@@ -1187,9 +1184,9 @@ BEGIN:VEVENT
 SUMMARY:Mission Rock Fall Friday Night Movies - Fantastic Mr. Fox
 DTSTART;TZID=America/Los_Angeles:20261023T183000
 DTEND;TZID=America/Los_Angeles:20261023T203000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17911990@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Mission Rock Fall Friday Night Movies\nMovie nights are back a
  t China Basin Park! Gather your friends and family and join us Friday nigh
@@ -1200,16 +1197,13 @@ DESCRIPTION:Mission Rock Fall Friday Night Movies\nMovie nights are back a
  n\nMake a night of it at Mission Rock! Come early to grab dinner or drinks
   from our retailers\, enjoy the movie under the stars\, and stick around a
  fterward to keep the evening going. See you Friday nights at the park!\n\n
- Free\nMISSION ROCK COMMONS\n\nTickets: https://consumer.pxf.io/APvP5J?u=ht
- tps%3A%2F%2Fwww.eventbrite.com%2Fe%2Fmission-rock-fall-friday-night-movies
- -fantastic-mr-fox-oct-23-tickets-2002405323225%3Faff%3Doddtdtcreator\nDeta
- ils: https://dothebay.com/events/2026/10/23/mission-rock-fall-friday-night
- -movies-fantastic-mr-fox-tickets\nSource: DoTheBay\n\nAlso listed on:\n- h
- ttps://sf.funcheap.com/mission-rock-fall-friday-night-movies-fantastic-fox
- -china-basin-park/
+ Free\nMISSION ROCK COMMONS\n\nDetails: https://dothebay.com/events/2026/10
+ /23/mission-rock-fall-friday-night-movies-fantastic-mr-fox-tickets\nSource
+ : DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/mission-rock-fall
+ -friday-night-movies-fantastic-fox-china-basin-park/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34752363/8d873c96-285e-41b7-b3cf-dc07a750d0cb.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:China Basin Park\, 1 China Basin Park\, San Francisco\, CA\, 9410
  7
 TRANSP:TRANSPARENT
@@ -1220,9 +1214,9 @@ BEGIN:VEVENT
 SUMMARY:Floating Features: Hocus Pocus
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17757305@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:After three centuries\, three witch sisters are resurrected in
   Salem\, Massachusetts on Halloween night\, and it is up to two teenagers\
@@ -1236,13 +1230,12 @@ DESCRIPTION:After three centuries\, three witch sisters are resurrected in
  schedule available here.\n\nRuntime\n\n1h 36m\n\nYear\n\n1993\n\nDirector\
  n\nKenny Ortega\n\nFormat\n\nDCP\n\nCountry\n\nUSA\n\nLanguage\n\nEnglish\
  n\nFirst Showing\n\nOctober 23\, 2026\n\nCategories\n\nFloating Features 2
- 026\n\n\,\n\nFeatured\, Floating Features\n\nTickets: https://www.redandwh
- ite.com/floating-features\nDetails: https://dothebay.com/events/2026/10/23
- /floating-features-hocus-pocus-tickets\nSource: DoTheBay
+ 026\n\n\,\n\nFeatured\, Floating Features\n\nDetails: https://dothebay.com
+ /events/2026/10/23/floating-features-hocus-pocus-tickets\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34022715/fe421c46-b1cd-462e-a2c8-5af81728b4cb.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/floating-features-hocus-pocus-t
@@ -1279,19 +1272,18 @@ BEGIN:VEVENT
 SUMMARY:MUSIC: Nosferatu with Paz Lenchantin & Dallas Acid
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17730316@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:NOSFERATU: A SYMPHONY OF HORROR\n\nwith LIVE ORIGINAL SCORE\n\
  nperformed by Dallas Acid & Paz Lenchantin\n\nPresented by (((folkYEAH!)))
- \n\n7:00 PM Doors\n\n8:00 PM Film\n\n$20 ADV / $25 DOOR\n\nTickets: https:
- //ticketing.uswest.veezi.com/purchase/19681?siteToken=d2atbcege5knqsavntt9
- 1g1250\nDetails: https://dothebay.com/events/2026/10/23/music-nosferatu-wi
- th-paz-lenchantin-dallas-acid-tickets\nSource: DoTheBay
+ \n\n7:00 PM Doors\n\n8:00 PM Film\n\n$20 ADV / $25 DOOR\n\nDetails: https:
+ //dothebay.com/events/2026/10/23/music-nosferatu-with-paz-lenchantin-dalla
+ s-acid-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33894031/becc0e8e-908a-4248-bafe-05ec002915c6.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
@@ -3322,6 +3314,34 @@ LOCATION:The Walt Disney Family Museum\, 104 Montgomery Street\, San Franc
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/talk-making-disney-magic-from-a-
  mermaid-to-moana-with-ron-clements-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio 8 Film Festival 2026: Personal Visions
+DTSTART;TZID=America/Los_Angeles:20261107T140000
+DTEND;TZID=America/Los_Angeles:20261107T160000
+DTSTAMP:20261024T111224Z
+UID:dothebay-17914009@sf-cal
+SEQUENCE:3
+CATEGORIES:Film
+DESCRIPTION:Sun\, Oct 18\, 2pm\, and Nov 6-8\, Fri 7pm\, Sat 1:30pm\, Sun 
+ 12 noon\n\nThe 3rd Annual Studio 8 Film Festival celebrates the filmmaking
+  of San Francisco Art Institute (SFAI) alumni\, faculty\, and staff. Follo
+ wing a kick-off event at SFMOMA on October 18\, the main program will take
+  place November 6-8 at the 4-Star and Roxie Theaters in San Francisco. Pro
+ grams will include films by George Kuchar\, Ed Jones\, Rock Ross\, Dean Sn
+ ider\, Michael Rudnick\, and special event with Babeth Mondini-VanLoo\, wi
+ th films starring the Sex Pistols\, Andy Warhol\, and the sounds of Cabare
+ t Voltaire.\n\nFree to $20.\n\nPresented by SF Artists Alumni.\n\n$10\nSF 
+ Artists Alumni\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2F
+ www.eventbrite.com%2Fe%2F1999811661513\nDetails: https://dothebay.com/even
+ ts/2026/11/7/3rd-annual-studio-8-film-festival-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35108948/e8a13db9-043f-4791-9ed3-08bf4af71a4d.jpg
+LAST-MODIFIED:20261024T111224Z
+LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/7/3rd-annual-studio-8-film-festiva
+ l-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free “Wood Street” Film Screening on Oakland’s Unhoused + Q&

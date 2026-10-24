@@ -40,44 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Oktoberfest at SideTrack in Pleasanton
-DTSTART;TZID=America/Los_Angeles:20261016T170000
-DTEND;TZID=America/Los_Angeles:20261016T220000
-DTSTAMP:20261017T105245Z
-UID:funcheap-1637866@sf-cal
-SEQUENCE:2
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerSideTrack Bar + GrillIt’s ti
- me to take out your lederhosen and dirndl dress! SideTrack’s Oktoberfest
-  celebration is back\, bringing a biergarten experience to downtown Pleasa
- nton on Friday\, October 16 and Saturday\, October 17!\nThe two-day event 
- features a special menu of German food and drink\, live entertainment by P
- olkageist West\, fun games and plenty of festive decor!\n\nThe event is fr
- ee to attend with food and drink tickets available for purchase at the doo
- r. For guests looking to guarantee a spot inside the tents each evening\, 
- packages are available for pre-purchase which include seats\, food and dri
- nk and a limited edition beer stein.\nEnjoy menu of Oktoberfest-inspired f
- ood and drink including Za German Plate with sausages\, German potato sala
- d\, red cabbage and sauerkraut and Za Vorks – the Za German Plate with a
-  beer in commemorative SideTrack stein (limited quantities). A menu of a l
- a carte items includes pretzels and special items for kids like hot dogs\,
-  mac and cheese and tater tots.\nSideTrack also welcomes back Pleasanton
- ’s Primrose Bakery\, selling their German cookies and cakes throughout t
- he weekend while local breweries will be featured alongside traditional Ge
- rman beer like Hofbräu München and Paulaner Oktoberfest Märzen. Wine an
- d additional beverages are available as well.\nTickets + Pricing: Admissio
- n is free with food and drink tickets available at the door.\nGuarantee yo
- ur seat and reserve food and beverage packages in advance for F...\n\nFree
- \n\nTickets: https://www.sidetrackeats.com/oktoberfest/\nDetails: https://
- sf.funcheap.com/oktoberfest-sidetrack-pleasanton/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/ST-Okt
- oberfest-Poster-No-QR-Codes-2026.png
-LAST-MODIFIED:20261017T105245Z
-LOCATION:SideTrack Bar + Grill\, 30 West Angela Street\, Pleasanton
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/oktoberfest-sidetrack-pleasanton/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Now That’s What I Call Italo-Disco
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261017T140000
@@ -102,28 +64,6 @@ LAST-MODIFIED:20261024T044458Z
 LOCATION:Paris 75\, 515 Broadway\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/call-italodisco/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOMADZ X DARNA
-DTSTART;TZID=America/Los_Angeles:20261016T220000
-DTEND;TZID=America/Los_Angeles:20261017T000000
-DTSTAMP:20261017T105245Z
-UID:dothebay-17800952@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:NOMADZ X DARNA\nFriday\, October 16 | 1015 Folsom\n\nThe Bay A
- rea's two most iconic global parties\, Nomadz x Darna\, take over 1015 Fol
- som on October 16\n\nExperience the sounds of the Middle East\, Latin Amer
- ica\, Africa\, South Asian and beyond fused with electronic music. All und
- er one roof. This is the event of the YEAR.\n\nDetails: https://dothebay.c
- om/events/2026/10/16/nomadz-x-darna-tickets\nSource: DoTheBay
-GEO:37.7781117;-122.4058001
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34728390/00a41d7b-3937-4423-9816-9e48fbdab5ab.jpg
-LAST-MODIFIED:20261017T105245Z
-LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/16/nomadz-x-darna-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World’s Largest Bounce House + 900-Foot Obstacle Course in Bay A
@@ -2030,9 +1970,9 @@ SUMMARY:“Lower Polk Live!” Free Street Festival w/ Art\, DJs\, Live Mu
  sic
 DTSTART;TZID=America/Los_Angeles:20261023T160000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261014T120158Z
+DTSTAMP:20261024T111224Z
 UID:funcheap-1636200@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Live Music Event
 DESCRIPTION:Lower Polk CBDLower Polk Live! returns to Polk Street for a fr
  ee neighborhood celebration of music\, art\, and community.\nExperience an
@@ -2057,12 +1997,10 @@ DESCRIPTION:Lower Polk CBDLower Polk Live! returns to Polk Street for a fr
  , Loveberry (guitar)\, Shawn (drums)\, Des & Diego (keys)\, Will Shannon (
  trombone)\,...\n\nFree\n\nTickets: https://lowerpolklive.eventbrite.com\nD
  etails: https://sf.funcheap.com/polk-live-free-street-festival-art-djs-liv
- e-music-sf/\nSource: Funcheap SF\n\nAlso listed on:\n- http://lowerpolkliv
- e.eventbrite.com?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
- rancisco-ca
+ e-music-sf/\nSource: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Lower-
  Polk-Live-2026.jpg
-LAST-MODIFIED:20261014T120158Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/polk-live-free-street-festival-art-djs-live-mu
@@ -2072,16 +2010,16 @@ BEGIN:VEVENT
 SUMMARY:Soul Finger
 DTSTART;TZID=America/Los_Angeles:20261023T180000
 DTEND;TZID=America/Los_Angeles:20261023T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17513498@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
- ebay.com/events/2026/10/23/soul-finger-tickets\nSource: DoTheBay
+DESCRIPTION:Free\n\nDetails: https://dothebay.com/events/2026/10/23/soul-f
+ inger-tickets\nSource: DoTheBay
 GEO:37.7552647;-122.4193588
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32870088/89d9db99-7e13-43f2-b3f3-d52ca2289a8a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/soul-finger-tickets
@@ -2090,9 +2028,9 @@ BEGIN:VEVENT
 SUMMARY:TR/ST (DJ set)\, Buzz Kull Kontravoid\, Zanias\, Ghost Cop + More
 DTSTART;TZID=America/Los_Angeles:20261023T180000
 DTEND;TZID=America/Los_Angeles:20261023T200000
-DTSTAMP:20261023T050002Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17959628@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Substance Festival SF 2026 brings four nights of darkwave\, in
  dustrial\, EBM\, and synth-pop to the Great American Music Hall (Oct 22–
@@ -2106,15 +2044,14 @@ DESCRIPTION:Substance Festival SF 2026 brings four nights of darkwave\, in
  cene)\n\nPlaylist:\n\nhttps://open.spotify.com/playlist/4yrMOSy3vwyMvpP3At
  tgv1?si=7b2d5ab81e634075\n\nVideo:\nhttps://www.instagram.com/reel/DefYHtR
  vRkc/?utm_source=ig_web_button_share_sheet&cplk=MzRlODBiNWFlZA==\n\n$37.75
- -$90\nSubstance Fest San Francisco 2026 - Day 2\n\nTickets: https://wl.eve
- ntim.us/event/trst-dj-set-buzz-kull/698251?afflky=GreatAmericanMusicHall\n
- Details: https://dothebay.com/events/2026/10/23/substance-fest-san-francis
- co-2026-day-2-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.f
- uncheap.com/san-francisco-substance-fest-2026-great-american-music-hall/
+ -$90\nSubstance Fest San Francisco 2026 - Day 2\n\nDetails: https://dotheb
+ ay.com/events/2026/10/23/substance-fest-san-francisco-2026-day-2-tickets\n
+ Source: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/san-francis
+ co-substance-fest-2026-great-american-music-hall/
 GEO:37.7848325;-122.418809
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34977795/d9458647-83fe-4652-8894-b94533359e2a.jpg
-LAST-MODIFIED:20261023T050002Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Great American Music Hall\, 859 O'farrell Street\, San Francisco\
  , CA\, 94109
 TRANSP:TRANSPARENT
@@ -2149,9 +2086,9 @@ BEGIN:VEVENT
 SUMMARY:Julia Jacklin
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17432200@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment presents\nNorth America Tour 2026
  \nJulia Jacklin\n\nFriday\, October 23 | The Castro\n\nJulia Jacklin is ce
@@ -2175,16 +2112,12 @@ DESCRIPTION:Another Planet Entertainment presents\nNorth America Tour 2026
  previous partnerships with Polyvinyl\, Transgressive\, and Liberation Reco
  rds\, Jacklin recently signed her first-ever global record deal with 4AD\,
   mar...\n\nall ages\nSold out\nAnother Planet Entertainment presents: Nort
- h America Tour 2026\nListed time is doors\n\nTickets: https://ticketmaster
- .evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticket
- master.com%2Fjulia-jacklin-north-america-tour-2026-san-francisco-californi
- a-10-23-2026%2Fevent%2F1C0064BBBEB4B673%3Fcamefrom%3DCFC_ANOTHERPLANET_web
- %26brand%3Danotherplanet\nDetails: https://dothebay.com/events/2026/10/23/
- julia-jacklin-tickets\nSource: DoTheBay
+ h America Tour 2026\nListed time is doors\n\nDetails: https://dothebay.com
+ /events/2026/10/23/julia-jacklin-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33850764/444e4e93-ab4f-4303-b034-929470a27498.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/julia-jacklin-tickets
@@ -2193,20 +2126,18 @@ BEGIN:VEVENT
 SUMMARY:Pouya
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17472217@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:The Forever Glades Tour 2026\nPouya\nFriday\, October 23 | The
-  Fillmore\n\nThe Forever Glades Tour 2026\n\nTickets: https://ticketmaster
- .evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticket
- master.com%2Fpouya-the-forever-glades-tour-2026-san-francisco-california-1
- 0-23-2026%2Fevent%2F1C0064C4FF6A8769\nDetails: https://dothebay.com/events
- /2026/10/23/pouya-the-forever-glades-tour-2026-tickets\nSource: DoTheBay
+  Fillmore\n\nThe Forever Glades Tour 2026\n\nDetails: https://dothebay.com
+ /events/2026/10/23/pouya-the-forever-glades-tour-2026-tickets\nSource: DoT
+ heBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32669801/17c399c4-03cc-4211-aded-387cb571d3cd.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/pouya-the-forever-glades-tour-2
@@ -2216,9 +2147,9 @@ BEGIN:VEVENT
 SUMMARY:Haunted Riot with Frightwig: An Alt Punk Show
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17811247@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:KQED Live & KEXP Present\nHaunted Riot with Frightwig: An Alt 
  Punk Show\nFriday\, October 23 | The Chapel\n\nCo-presented by KEXP\n\nThe
@@ -2231,13 +2162,12 @@ DESCRIPTION:KQED Live & KEXP Present\nHaunted Riot with Frightwig: An Alt
  ng atmosphere to full-volume chaos.\n\nThis is a Spooky-season show that
  ’s part ghost story\, part punk ritual\, all happening inside one of San
   Francisco’s most atmospheric rooms.\n\n$15-$25\nKQED Live & KEXP Presen
- t\nListed time is doors\n\nTickets: http://tixr.com/pr/DTBHauntedRiot/2043
- 63\nDetails: https://dothebay.com/events/2026/10/23/haunted-riot-with-frig
- htwig-an-alt-punk-show-tickets\nSource: DoTheBay
+ t\nListed time is doors\n\nDetails: https://dothebay.com/events/2026/10/23
+ /haunted-riot-with-frightwig-an-alt-punk-show-tickets\nSource: DoTheBay
 GEO:37.760565;-122.421188
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34278180/a68b39aa-63a8-4743-a853-f3ec7e3fb98e.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Chapel\, 777 Valencia Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/haunted-riot-with-frightwig-an-
@@ -2247,19 +2177,18 @@ BEGIN:VEVENT
 SUMMARY:The Big Bad Wolf Tour
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261019T210249Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17971991@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Free\nCalifornia Working Families Party Presents:\nListed time
-  is doors\n\nTickets: https://secure.actblue.com/donate/bigbadwolfsf\nDeta
- ils: https://dothebay.com/events/2026/10/23/the-big-bad-wolf-tour-tickets\
- nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/free-big-b
- ad-wolf-tour-live-music-political-power-dna-lounge/
+  is doors\n\nDetails: https://dothebay.com/events/2026/10/23/the-big-bad-w
+ olf-tour-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funche
+ ap.com/free-big-bad-wolf-tour-live-music-political-power-dna-lounge/
 GEO:37.7711031;-122.4126145
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35032320/dd9df5cf-fc5f-4fb7-b5cf-6a7fadb850dc.jpg
-LAST-MODIFIED:20261019T210249Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/the-big-bad-wolf-tour-tickets
@@ -2292,19 +2221,19 @@ BEGIN:VEVENT
 SUMMARY:K.Flay
 DTSTART;TZID=America/Los_Angeles:20261023T193000
 DTEND;TZID=America/Los_Angeles:20261023T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17861099@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Fri\n\nday October 23\n2026\n\n7:30PM\n\ndoors\n\n-- music at 
  8\n\n:30PM\n\nALL AGES\n\n$30\n\n$38.01 in advance [30 face value +8.01 se
- rvice fee]\n\nK.Flay\n\nAlternative/Indie - Dance/Electronic\n\n$30\n\nTic
- kets: http://www.bottomofthehill.com/dice/event20261023.html\nDetails: htt
- ps://dothebay.com/events/2026/10/23/k-flay-tickets\nSource: DoTheBay
+ rvice fee]\n\nK.Flay\n\nAlternative/Indie - Dance/Electronic\n\n$30\n\nDet
+ ails: https://dothebay.com/events/2026/10/23/k-flay-tickets\nSource: DoThe
+ Bay
 GEO:37.7649597;-122.3964408
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34511975/d6b0a3b3-b5e9-4ff2-9ac7-a89d1fd0e06a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Bottom Of The Hill\, 1233 17th Street\, San Francisco\, CA\, 9410
  7
 TRANSP:TRANSPARENT
@@ -2314,9 +2243,9 @@ BEGIN:VEVENT
 SUMMARY:Julia Wolf
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261023T050002Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17203799@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:[MOVED FROM GREAT AMERICAN MUSIC HALL]\n\nGoldenvoice\, Great 
  American Music Hall\, & LIVE 105 Present\nDeep End World Tour\nJulia Wolf\
@@ -2329,13 +2258,12 @@ DESCRIPTION:[MOVED FROM GREAT AMERICAN MUSIC HALL]\n\nGoldenvoice\, Great
   has accumulated over 40 million streams and has developed a passionate an
  d rabid fan base -- all out of her bedroom in Queens\, NY.\n\nAll Ages\nGo
  ldenvoice\, Great American Music Hall\, & LIVE 105 Present: Deep End World
-  Tour\n\nTickets: https://www.axs.com/events/1407735/julia-wolf-tickets?sk
- in=goldenvoice?cid=usaffdostuff\nDetails: https://dothebay.com/events/2026
- /10/23/julia-wolf-with-bee-blackwell-tickets\nSource: DoTheBay
+  Tour\n\nDetails: https://dothebay.com/events/2026/10/23/julia-wolf-with-b
+ ee-blackwell-tickets\nSource: DoTheBay
 GEO:37.7827039;-122.4103578
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31405820/789ebba8-7ae9-4b9a-be30-c1b6916bef80.jpg
-LAST-MODIFIED:20261023T050002Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Warfield\, 982 Market St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/julia-wolf-with-bee-blackwell-t
@@ -2345,19 +2273,17 @@ BEGIN:VEVENT
 SUMMARY:SLIFT
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17254903@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:SLIFT\nwith Gumby's Junk\n\nFriday\, October 23 | August Hall\
- n\nAll Ages\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
- ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fslift-san-francis
- co-california-10-23-2026%2Fevent%2F1C00648EDED013FE\nDetails: https://doth
- ebay.com/events/2026/10/23/slift-tickets\nSource: DoTheBay
+ n\nAll Ages\n\nDetails: https://dothebay.com/events/2026/10/23/slift-ticke
+ ts\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31639143/25832c1b-fd46-4a31-931b-b4df24720f48.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/slift-tickets
@@ -2366,25 +2292,22 @@ BEGIN:VEVENT
 SUMMARY:Shaboozey
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17285688@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Doors open at 7pm Shaboozey has partnered with PLUS1 so that $
  1 per ticket goes to supporting St. Jude Children's Research Hospital who 
  is leading the way the world understands\, treats and defeats childhood ca
  ncer and other life-threatening diseases. To become a St. Jude Partner in 
  Hope and get involved\, visit musicgives.org. No portion of the purchase p
- rice is tax deductible.\n\nOutlaws Never Die Tour\n\nTickets: https://tick
- etmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fww
- w.ticketmaster.com%2Fshaboozey-outlaws-never-die-tour-san-francisco-califo
- rnia-10-23-2026%2Fevent%2F1C006495D0D5A69A\nDetails: https://dothebay.com/
- events/2026/10/23/shaboozey-outlaws-never-die-tour-tickets\nSource: DoTheB
- ay
+ rice is tax deductible.\n\nOutlaws Never Die Tour\n\nDetails: https://doth
+ ebay.com/events/2026/10/23/shaboozey-outlaws-never-die-tour-tickets\nSourc
+ e: DoTheBay
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31788501/b8bda67d-e79b-4ed9-8b85-467fecd8b548.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/shaboozey-outlaws-never-die-tou
@@ -2394,20 +2317,19 @@ BEGIN:VEVENT
 SUMMARY:Chief Keef
 DTSTART;TZID=America/Los_Angeles:20261023T203000
 DTEND;TZID=America/Los_Angeles:20261023T223000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17603266@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:The Midway SF + Live Nation Present\nChief Keef\nFriday\, Octo
  ber 23 | The Midway\n\nFriday\, October 23rd\n\nThe Midway SF and Live Nat
  ion Present:\nChief Keef\n\n21+ Event\n\nThe Midway - RiDE\n900 Marin Stre
- et SF\n\n21+\nThe Midway SF + Live Nation Present\n\nTickets: https://www.
- tixr.com/groups/midwaysf/events/chief-keef-197581\nDetails: https://dotheb
- ay.com/events/2026/10/23/chief-keef-midway-sf-tickets\nSource: DoTheBay
+ et SF\n\n21+\nThe Midway SF + Live Nation Present\n\nDetails: https://doth
+ ebay.com/events/2026/10/23/chief-keef-midway-sf-tickets\nSource: DoTheBay
 GEO:37.7494472;-122.3860183
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33288437/772c245d-be11-4028-b439-52a323ecc4c4.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Midway\, 900 Marin St.\, San Francisco\, CA\, 94124
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/chief-keef-midway-sf-tickets
@@ -2416,21 +2338,17 @@ BEGIN:VEVENT
 SUMMARY:Frog
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17526210@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
- to show.\n\n$34.55\nAnother Planet Entertainment Presents\n\nTickets: http
- s://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A
- %2F%2Fwww.ticketweb.com%2Fevent%2Ffrog-the-independent-tickets%2F14212974%
- 3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom
- %3DCFC_BUYAT_234705\nDetails: https://dothebay.com/events/2026/10/23/frog-
- tickets\nSource: DoTheBay
+ to show.\n\n$34.55\nAnother Planet Entertainment Presents\n\nDetails: http
+ s://dothebay.com/events/2026/10/23/frog-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32930279/2e5e5363-b6ee-4b9d-98df-ffc40bb88f56.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -2440,19 +2358,18 @@ BEGIN:VEVENT
 SUMMARY:EAZYBAKED
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17582841@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Public Works & Insomniac Present\nEAZYBAKED\nFriday\, October 
- 23 | Public Works\n\n$25-$45\, 21+\nPublic Works & Insomniac Present\n\nTi
- ckets: https://tixr.com/af/dostuff/197556\nDetails: https://dothebay.com/e
- vents/2026/10/23/eazybaked-presented-by-public-works-insomniac-tickets\nSo
- urce: DoTheBay
+ 23 | Public Works\n\n$25-$45\, 21+\nPublic Works & Insomniac Present\n\nDe
+ tails: https://dothebay.com/events/2026/10/23/eazybaked-presented-by-publi
+ c-works-insomniac-tickets\nSource: DoTheBay
 GEO:37.7688759;-122.4194268
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33204298/0ac52269-9a81-4e38-952d-53a02bca3bd3.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/eazybaked-presented-by-public-w
@@ -2463,23 +2380,21 @@ SUMMARY:ZOMBIE PROM - Halloween Costume Ball w/ The Widdler\, Mimosa & Mor
  e
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261018T205153Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17823531@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Zombie Prom returns with The Widdler\, MiMOSA & FREE PROM PHOT
  OS! A Bass Dripping Costume Ball with MalLabel & Soundpieces Crews\n\n21+\
- nMalLabel + Sparklpieces present\nListed time is doors\n\nTickets: https:/
- /consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fzombie-pr
- om-the-widdler-mimosa-more-halloween-costume-ball-tickets-1996054870851%3F
- aff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/10/23/zombi
- e-prom-the-widdler-more-halloween-costume-ball-tickets\nSource: DoTheBay\n
- \nAlso listed on:\n- https://sf.funcheap.com/zombie-prom-costume-ball-free
- -prom-photos-free-pizza-sfs-great-northern/
+ nMalLabel + Sparklpieces present\nListed time is doors\n\nDetails: https:/
+ /dothebay.com/events/2026/10/23/zombie-prom-the-widdler-more-halloween-cos
+ tume-ball-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funch
+ eap.com/zombie-prom-costume-ball-free-prom-photos-free-pizza-sfs-great-nor
+ thern/
 GEO:37.7674263;-122.4062869
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34990318/c255dbdb-bb5f-4be9-8436-71e6270d0e20.jpg
-LAST-MODIFIED:20261018T205153Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:The Great Northern\, 119 Utah Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/zombie-prom-the-widdler-more-ha
@@ -2489,19 +2404,18 @@ BEGIN:VEVENT
 SUMMARY:CID x Maesic
 DTSTART;TZID=America/Los_Angeles:20261023T220000
 DTEND;TZID=America/Los_Angeles:20261024T000000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17580049@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:DJ Dials & 1015 Folsom Present\nCID x Maesic\nFriday\, October
-  23 | 1015 Folsom\n\n$20-$25\, 21+\nDJ Dials & 1015 Folsom Present\n\nTick
- ets: https://wl.seetickets.us/event/cid-x-maesic/698208?afflky=1015Folsom\
- nDetails: https://dothebay.com/events/2026/10/23/cid-x-maesic-tickets\nSou
- rce: DoTheBay
+  23 | 1015 Folsom\n\n$20-$25\, 21+\nDJ Dials & 1015 Folsom Present\n\nDeta
+ ils: https://dothebay.com/events/2026/10/23/cid-x-maesic-tickets\nSource: 
+ DoTheBay
 GEO:37.7781117;-122.4058001
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33220816/6a815c88-fbab-4423-96b2-d8ed8df3ac43.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/23/cid-x-maesic-tickets
@@ -6369,6 +6283,29 @@ URL:https://dothebay.com/events/2026/11/5/local-500-public-works-present-f
  unction-500-w-fluxions-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Function 500 w/ FLUXIONS
+DTSTART;TZID=America/Los_Angeles:20261105T210000
+DTEND;TZID=America/Los_Angeles:20261105T230000
+DTSTAMP:20261024T111224Z
+UID:dothebay-17985980@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Thursday\, November 5th\, 9pm - 2am\n\nLoft / 21+ / Limited Ca
+ pacity\n\nWant free entry? Check out the PW Union where members get event 
+ access\, dr\n\n$7.93\nLocal 500 & Public Works Present:\n\nTickets: https:
+ //consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Flocal-50
+ 0-public-works-present-function-500-w-fluxions-tickets-2003799777074\nDeta
+ ils: https://dothebay.com/events/2026/11/5/function-500-w-fluxions-tickets
+ \nSource: DoTheBay
+GEO:37.7688759;-122.4194268
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35109390/40dfc3de-bfce-4287-a9ec-98b585ebecb3.jpg
+LAST-MODIFIED:20261024T111224Z
+LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/5/function-500-w-fluxions-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DJ EARTH ANGEL and friends
 DTSTART;TZID=America/Los_Angeles:20261105T220000
 DTEND;TZID=America/Los_Angeles:20261106T000000
@@ -7006,19 +6943,19 @@ BEGIN:VEVENT
 SUMMARY:Armin van Buuren (4 HR Set)
 DTSTART;TZID=America/Los_Angeles:20261107T200000
 DTEND;TZID=America/Los_Angeles:20261107T220000
-DTSTAMP:20261010T172246Z
+DTSTAMP:20261024T111224Z
 UID:dothebay-17941240@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Goldenvoice Presents\n\nClub Darc Season 2\nArmin van Buuren (
- 4 HR Set)\nSaturday\, November 7 | Shed A at Pier 48\n\n21+\nGoldenvoice P
- resents: Club Darc Season 2\n\nTickets: https://www.axs.com/events/1613710
- /armin-van-buuren-4-hr-set-tickets?skin=goldenvoice?cid=usaffdostuff\nDeta
- ils: https://dothebay.com/events/2026/11/7/armin-van-buuren-4-hr-set-ticke
- ts\nSource: DoTheBay
+DESCRIPTION:Goldenvoice Presents\nClub Darc Season 2\nArmin van Buuren (4 
+ HR Set)\nwith YOUNA\, Oleksandr\n\nSaturday\, November 7 | Shed A at Pier 
+ 48\n\n21+\nGoldenvoice Presents: Club Darc Season 2\n\nTickets: https://ww
+ w.axs.com/events/1613710/armin-van-buuren-4-hr-set-tickets?skin=goldenvoic
+ e?cid=usaffdostuff\nDetails: https://dothebay.com/events/2026/11/7/armin-v
+ an-buuren-4-hr-set-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34888807/d32966f8-f694-4551-bf3b-6a9077a3482c.jpg
-LAST-MODIFIED:20261010T172246Z
+LAST-MODIFIED:20261024T111224Z
 LOCATION:Shed A at Pier 48\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/armin-van-buuren-4-hr-set-ticket
