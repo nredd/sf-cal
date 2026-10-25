@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: pink
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DTSTAMP:20261006T193603Z
-UID:city-hall-lights-ics-16640bf763f5b45f@sf-cal
-SEQUENCE:0
-DESCRIPTION:the Inaugural San Francisco Market Street Arts & Theater Festi
- val\n\nDetails: https://www.sf.gov/location--san-francisco-city-hall\nSour
- ce: SF City Hall lighting (via Robelius/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261006T193603Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: blue
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
