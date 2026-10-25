@@ -1008,38 +1008,6 @@ URL:https://sf.funcheap.com/lawn-bowling-sfs-historic-125yearold-club-gg-p
  ark-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261025T100000
-DTEND;TZID=America/Los_Angeles:20261025T110000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-ffecf3ccb02aa86b@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10576\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261025T110000
-DTEND;TZID=America/Los_Angeles:20261025T120000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-e81796adfa7cdc74@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10589\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T170000
@@ -1282,6 +1250,32 @@ LOCATION:Porch-side\, 166 Henry Street\, 166 Henry Street\, San Francisco\
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-henry-street-fall-neighborhood-miniporch-p
  arty-duboce-triangle-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Weekly Run Club for All Levels (Crane Cove Park)
+DTSTART;TZID=America/Los_Angeles:20261028T173000
+DTEND;TZID=America/Los_Angeles:20261028T193000
+DTSTAMP:20261025T205626Z
+UID:funcheap-1643380@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Submitted by the Event OrganizerrafikiReady to lace up and hit
+  the pavement? Join the Gr8’tr U and Rafiki Run Club every Wednesday at 
+ 5:30! This 10-week run club gives everyone a chance to enjoy some cardio\,
+  bond with their fellow runners\, and get a great workout in!\nNot much of
+  a runner? No worries! Everyone is welcome. Whether you’re a seasoned ru
+ nner or just looking to get some exercise and meet new people\, come on do
+ wn and join the club.\n\nJust wear comfortable shoes\, breathable clothes\
+ , and water and get ready to run! Let’s get our adrenaline pumping!\n\nF
+ ree\n\nTickets: https://www.eventbrite.com/e/1999307038171?aff=oddtdtcreat
+ or\nDetails: https://sf.funcheap.com/free-weekly-run-club-levels-crane-cov
+ e-park/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Rafiki
+ -Run-Club-Flyer-Front.png
+LAST-MODIFIED:20261025T205626Z
+LOCATION:Crane Cove Park\, 701 Illinois Street San Francisco\, CA 94107
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-weekly-run-club-levels-crane-cove-park/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Dance Fitness Class by Rae Studios
@@ -1612,20 +1606,21 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Los Angeles Lakers
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261025T205626Z
 UID:dothebay-17727996@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
 DESCRIPTION:Golden State Warriors vs. Los Angeles Lakers\n\nTickets: https
  ://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%
  2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-los-angeles-san-franc
  isco-california-10-30-2026%2Fevent%2F1C00650AB377D7BD\nDetails: https://do
  thebay.com/events/2026/10/30/golden-state-warriors-vs-los-angeles-lakers-t
- ickets\nSource: DoTheBay
+ ickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sci
+ fi-night-shop-horrors-carnivorous-plants-chabot-oakland/
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33883491/cfa772fc-f37a-4983-aca8-01d38ef802d9.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261025T205626Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/golden-state-warriors-vs-los-an

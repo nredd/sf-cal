@@ -152,6 +152,30 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunday Streets Excelsior
+DTSTART;TZID=America/Los_Angeles:20261018T090000
+DTEND;TZID=America/Los_Angeles:20261018T180000
+DTSTAMP:20261025T205626Z
+UID:sf-street-events-1516551-2026-10-18T09:00:00-07:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Mission St from Kenny Aly to Italy Ave\; Mission St fr
+ om Russia Ave to Onondaga Ave\; Mission St from Onondaga Ave to France Ave
+ \; Mission St from France Ave to Kenny Aly\; Mission St from Seneca Ave to
+  Amazon Ave\; Mission St from Italy Ave to Seneca Ave\; Mission St from Fr
+ ancis St to Excelsior Ave\; Mission St from San Juan Ave to Ocean Ave\; Mi
+ ssion St from Theresa St to Avalon Ave\; Ocean Ave from Mission St to Pers
+ ia Ave\; and 12 more\n\nPermit status: Permitted\nTimes are SFMTA street-c
+ losure permit times and include setup and teardown\nSource: DataSF Tempora
+ ry Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource: Da
+ taSF street closures
+GEO:37.718888;-122.439182
+LAST-MODIFIED:20261025T205626Z
+LOCATION:Mission St between Theresa St and Geneva Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Block Party - 7th Avenue (28th Annual)
 DTSTART;TZID=America/Los_Angeles:20261018T090000
 DTEND;TZID=America/Los_Angeles:20261018T170000

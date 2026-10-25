@@ -40,33 +40,37 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Jazz Brunch with Cristian Eck
-DTSTART;TZID=America/Los_Angeles:20261018T120000
-DTEND;TZID=America/Los_Angeles:20261018T133000
-DTSTAMP:20261018T205153Z
-UID:funcheap-1642220@sf-cal
+SUMMARY:Free Sunday Streets Library Open House w/ Music + Bubbles (Excelsi
+ or)
+DTSTART;TZID=America/Los_Angeles:20261018T110000
+DTEND;TZID=America/Los_Angeles:20261018T160000
+DTSTAMP:20261025T205626Z
+UID:funcheap-1640340@sf-cal
 SEQUENCE:0
 CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerCristian EckGuitarist Vocalist
-  multi-instrumentalist Christian Eck providing entertainment in the direct
- ion of his mental wanderings. Genres are his toys and the audience is invi
- ted to play along. Hailing from the Chicago blues and rhythm scene expect 
- soulful renditions of classics alongside unexpected twists.\nCome join us 
- for a music and a delicious brunch at Keys Cafe!\nTickets: $20 ticket (You
- r ticket reserves your spot\, but does not include brunch)\nFirst come\, f
- irst served seating policy. Advanced Ticket Purchase Suggested We strongly
-  recommend arriving at least 30 minutes before the show to secure your spo
- t in line for seating.\nWill-call check-in system\, simply provide your la
- st name to check in upon arrival.\nTake advantage of our Bar & Lounge. No 
- Cover! Happy Hour: Wed-Sat from 5pm-6pm.\n\n$20.90\n\nTickets: https://key
- sjazzbistro.com/event/cristian-eck/\nDetails: https://sf.funcheap.com/jazz
- -brunch-cristian-eck/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/IMG_18
- 03.jpg
-LAST-MODIFIED:20261018T205153Z
-LOCATION:Keys Jazz Bistro\, 498 Broadway
+DESCRIPTION:SFPLThe staff at Excelsior Library is excited to have you at o
+ ur Open House during Sunday Streets.\nEnjoy the day’s events:\n11 a.m.
+ – 4 p.m. outside the library\n\nLibrary Card challenge. Show us your lib
+ rary card\, renew it\, or get a new one!\nJamaica refresher\nBookmark maki
+ ng\nSidewalk chalk\, to decorate the street\nBubbles\, to make and enjoy\n
+ Hula hoops\nTabling by partners offering information and resources\n\nEnte
+ rtainment schedule:\n\n12 p.m. – 12:15 p.m. Opening Remarks\n12 p.m. –
+  1 p.m. Bubbles with Corene Tom\n1 p.m. – 2 p.m. Tricycle Music Fest wit
+ h Aguacate Music Kids\n2:30 p.m. – 3:30 p.m. Susana y su Orquesta Adelan
+ te\n\n1 p.m.– 4 p.m. inside the library\n\nChess tournament provided by 
+ Bright Knights Chess Club\nPlay zone for babies and toddlers\nRelax and re
+ juvenate\n\n2 p.m.– 3:30 p.m. outside the library\n\nCrafternoon: Tassle
+  making\, for your bookmark or other projects.\n\nFree\n\nTickets: https:/
+ /sfpl.org/events/2026/10/18/celebration-open-house\nDetails: https://sf.fu
+ ncheap.com/free-sunday-streets-library-open-house-music-bubbles-excelsior/
+ \nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Open-H
+ ousse.png
+LAST-MODIFIED:20261025T205626Z
+LOCATION:Excelsior Branch Library\, 4400 Mission St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/jazz-brunch-cristian-eck/
+URL:https://sf.funcheap.com/free-sunday-streets-library-open-house-music-b
+ ubbles-excelsior/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Civic Music Free Concerts (2026)
@@ -3467,6 +3471,26 @@ URL:https://dothebay.com/events/2026/10/28/protocols-with-andrew-huberman-
  tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hobogoblins\, Ghost Town Gospel and Asunder Sweet
+DTSTART;TZID=America/Los_Angeles:20261028T193000
+DTEND;TZID=America/Los_Angeles:20261028T220000
+DTSTAMP:20261025T205626Z
+UID:funcheap-1643197@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event Organizer@ghosttowngospelJoin us for an
+  early pre-halloween evening of spooky good times.\nHobo Goblins\, Ghost T
+ own Gospel & Asunder Sweet.\n\nFree\n\nTickets: https://www.facebook.com/e
+ vents/28293816790275456/\nDetails: https://sf.funcheap.com/hobogoblins-gho
+ st-town-gospel-asunder-sweet/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Skull-
+ Flyer-2.jpg
+LAST-MODIFIED:20261025T205626Z
+LOCATION:Spire Church\, 825 Athens Ave.\, Oakland\, ca
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/hobogoblins-ghost-town-gospel-asunder-sweet/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ax and the Hatchetmen
 DTSTART;TZID=America/Los_Angeles:20261028T200000
 DTEND;TZID=America/Los_Angeles:20261028T220000
@@ -4399,6 +4423,33 @@ LOCATION:The Great Northern\, 119 Utah Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/squish-halloween-with-avalon-em
  erson-sedef-adasi-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween Costume Contest + Tiny Monster Art Party (Oakland)
+DTSTART;TZID=America/Los_Angeles:20261031T120000
+DTEND;TZID=America/Los_Angeles:20261031T160000
+DTSTAMP:20261025T205626Z
+UID:funcheap-1644152@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Donna DavisDon’t Miss\nThe Tiny Monster Show\nClosing Party 
+ Costume Contest\n\nCalling all Halloween lovers young and old to don your 
+ spectacular costumes for The Tiny Monster Show Costume Contest Closing Par
+ ty.\nSaturday\, Oct 31st\nNoon -3pm\nContest starts at 1pm\nPartake in tre
+ ats and howl at the art as we shower gifts on the winners and feast on Hal
+ loween delights. Rub elbows with the artists. Let’s get spooky together.
+ \nFUN PRIZES!!!\nLive Music!!\nOpen to ALL AGES.\nThe Grand Gallery\n560 2
+ nd St\n(Next to Narrative)\nJack London\nShout out to Kitsch Coffee and th
+ e Salty Pearl\n\nFree\n\nTickets: https://thegrandgalleryoakland.com/tiny-
+ monster-show/\nDetails: https://sf.funcheap.com/halloween-costume-contest-
+ tiny-monster-art-party-oakland/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/The-Ti
+ ny-Monster-Show-3.png
+LAST-MODIFIED:20261025T205626Z
+LOCATION:The Grand Gallery\, 560 2nd St. Oakland
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/halloween-costume-contest-tiny-monster-art-par
+ ty-oakland/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Halloween at the Bandshell
