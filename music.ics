@@ -40,39 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Sunday Streets Library Open House w/ Music + Bubbles (Excelsi
- or)
-DTSTART;TZID=America/Los_Angeles:20261018T110000
-DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261025T205626Z
-UID:funcheap-1640340@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:SFPLThe staff at Excelsior Library is excited to have you at o
- ur Open House during Sunday Streets.\nEnjoy the day’s events:\n11 a.m.
- – 4 p.m. outside the library\n\nLibrary Card challenge. Show us your lib
- rary card\, renew it\, or get a new one!\nJamaica refresher\nBookmark maki
- ng\nSidewalk chalk\, to decorate the street\nBubbles\, to make and enjoy\n
- Hula hoops\nTabling by partners offering information and resources\n\nEnte
- rtainment schedule:\n\n12 p.m. – 12:15 p.m. Opening Remarks\n12 p.m. –
-  1 p.m. Bubbles with Corene Tom\n1 p.m. – 2 p.m. Tricycle Music Fest wit
- h Aguacate Music Kids\n2:30 p.m. – 3:30 p.m. Susana y su Orquesta Adelan
- te\n\n1 p.m.– 4 p.m. inside the library\n\nChess tournament provided by 
- Bright Knights Chess Club\nPlay zone for babies and toddlers\nRelax and re
- juvenate\n\n2 p.m.– 3:30 p.m. outside the library\n\nCrafternoon: Tassle
-  making\, for your bookmark or other projects.\n\nFree\n\nTickets: https:/
- /sfpl.org/events/2026/10/18/celebration-open-house\nDetails: https://sf.fu
- ncheap.com/free-sunday-streets-library-open-house-music-bubbles-excelsior/
- \nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Open-H
- ousse.png
-LAST-MODIFIED:20261025T205626Z
-LOCATION:Excelsior Branch Library\, 4400 Mission St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-sunday-streets-library-open-house-music-b
- ubbles-excelsior/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Civic Music Free Concerts (2026)
 DTSTART;TZID=America/Los_Angeles:20261018T150000
 DTEND;TZID=America/Los_Angeles:20261018T170000
@@ -3863,6 +3830,44 @@ LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/29/patrick-wolf-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayden Everett
+DTSTART;TZID=America/Los_Angeles:20261029T200000
+DTEND;TZID=America/Los_Angeles:20261029T220000
+DTSTAMP:20261025T231942Z
+UID:dothebay-17738079@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Hayden Everett\n\nHayden Everett is a Seattle-based artist ble
+ nding folk storytelling with jazz-trained musicianship and expansive\, atm
+ ospheric production. Hayden writes much of his music on solo backpacking t
+ rips\, guided by a belief that presence gives art its weight.\n\nHis debut
+  EP\, produced with Jeremy McDonald (Kevin Garrett\, Vulfpeck\, Beyoncé)\
+ , earned placements on Grey’s Anatomy and praise from Earmilk\, Atwood M
+ agazine\, and KCRW. Follow-up releases via Platoon and Nettwerk Music Grou
+ p featured collaborators like JT Bates (Bonny Light Horseman\, Big Red Mac
+ hine\, Taylor Swift\, The National)\, James McAlister (Bon Iver\, Sufjan S
+ tevens)\, and Jack Van Cleaf (Zach Bryan\, Noah Kahan).\n\nWith over 35 mi
+ llion streams\, Hayden has toured with Hazlett\, The Paper Kites\, Trousda
+ le\, and Vacation Manor. His debut full length record\, So The Sun Can Pou
+ r\, was independently released in April of 2026. Hayden recorded the album
+  live with close friends at the cabin in Tahoe\, CA that his great grandfa
+ ther built. It was mixed by Tucker Martine in Portland\, known for his wor
+ k with Gregory Alan Isakov\, My Morning Jacket\, Madison Cunningham\, Caam
+ p\, Mt. Joy\, and more.\n\n$27.58\n\nTickets: https://ticketmaster.evyy.ne
+ t/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%
+ 2Fevent%2Fhayden-everett-brick-and-mortar-music-hall-tickets%2F15030633%3F
+ pl%3Dbnm%26REFID%3Dclientsitewp\nDetails: https://dothebay.com/events/2026
+ /10/29/hayden-everett-tickets\nSource: DoTheBay
+GEO:37.7697394;-122.4203797
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33927118/6371fa87-22c4-46eb-8978-53ccc4a6ff06.jpg
+LAST-MODIFIED:20261025T231942Z
+LOCATION:Brick & Mortar Music Hall\, 1710 Mission Street\, San Francisco\,
+  CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/hayden-everett-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:bleood

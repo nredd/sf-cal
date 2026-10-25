@@ -77,62 +77,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outer Sunset Farmers' Market 2026
-DTSTART;TZID=America/Los_Angeles:20261018T060000
-DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1419904-2026-10-18T06:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 37th Ave from Ortega St to Pacheco St\; 37th Ave from 
- Pacheco St to Quintara St\; Pacheco St from Sunset Blvd to 37th Ave\n\nPer
- mit status: Permitted\nTimes are SFMTA street-closure permit times and inc
- lude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetai
- ls: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.750594;-122.495565
-LAST-MODIFIED:20261006T193028Z
-LOCATION:37th Ave between Ortega St and Quintara St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inner Sunset Farmers' Market
-DTSTART;TZID=America/Los_Angeles:20261018T070000
-DTEND;TZID=America/Los_Angeles:20261018T150000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1365573-2026-10-18T07:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Irving St from 08th Ave to 09th Ave\n\nPermit status: 
- Permitted\nTimes are SFMTA street-closure permit times and include setup a
- nd teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://
- data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.76406;-122.465778
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Irving St between 8th Ave and 9th Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clement Street Farmers Market
-DTSTART;TZID=America/Los_Angeles:20261018T070000
-DTEND;TZID=America/Los_Angeles:20261018T153000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1498354-2026-10-18T07:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Clement St from Arguello Blvd to 02nd Ave\; Clement St
-  from 3rd Ave to Th Ave\; Clement St from 02nd Ave to 03rd Ave\n\nPermit s
- tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
- setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
- ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.783163;-122.459568
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Clement St between Arguello Blvd and 2nd Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Piccino's 20th Anniversary
 DTSTART;TZID=America/Los_Angeles:20261018T070000
 DTEND;TZID=America/Los_Angeles:20261018T180000
@@ -230,69 +174,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Brain Brew Community Day: Brain Games\, Lunch & Coffee
-DTSTART;TZID=America/Los_Angeles:20261018T100000
-DTEND;TZID=America/Los_Angeles:20261018T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639723@sf-cal
-SEQUENCE:0
-CATEGORIES:Free Food
-DESCRIPTION:Brain Brew Ride / Krishna BhattSpend a Sunday exploring the br
- ain\, sharing a meal and connecting with your neighbors at Brain Brew Comm
- unity Day—a free\, family-friendly event at Buchanan YMCA.\nJoin us on S
- unday\, October 18\, 2026\, from 10 a.m. to 3 p.m. for hands-on brain-them
- ed activities\, “Brain Olympics” games\, local coffee sampling and lun
- ch. Visit the memory wall\, learn about brain health and enjoy time with f
- amily\, friends and neighbors.\nOrganized by high school students Krishna 
- Bhatt and Govind Krishnan\, Brain Brew brings generations together to rais
- e awareness of Alzheimer’s and Parkinson’s. Families\, older adults\, 
- students and care partners are welcome.\n\nAdmission is free\, and lunch i
- s included. Donations are optional (through recommended\, ~$25) and suppor
- t the Alzheimer’s Association and Michael J. Fox Foundation.\nWhen: Sund
- ay\, October 18\, 2026\, 10 a.m.–3 p.m.\nWhere: Buchanan YMCA\, 1530 Buc
- hanan Street\, San Francisco\nRSVP: https://forms.gle/TBYodKPwEr8REew2A\nQ
- uestions: krishbhatt2019@gmail.com\nThis listing is for the October 18 Com
- munity Day. The October 17 ride and October 24 Walk mentioned on the flyer
-  are separate activities.\n\nFree\n\nTickets: https://brainbrewsf.org\nDet
- ails: https://sf.funcheap.com/free-brain-brew-community-day-brain-games-lu
- nch-coffee-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/White-
- Black-and-Orange-Fun-Run-5k-Marathon-Race-Flyer-3.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Buchanan YMCA\, 1530 Buchanan Street\, San Francisco\, CA 94115
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-brain-brew-community-day-brain-games-lunc
- h-coffee-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brain Brew Ride
-DTSTART;TZID=America/Los_Angeles:20261018T100000
-DTEND;TZID=America/Los_Angeles:20261018T150000
-DTSTAMP:20261006T172218Z
-UID:funcheap-1640829@sf-cal
-SEQUENCE:0
-CATEGORIES:Free Food
-DESCRIPTION:Submitted by the Event OrganizerBrain BrewBrain Brew is a yout
- h-led brain health initiative bringing a free\, interactive Community Day 
- to San Francisco. Visitors can take part in Brain Olympics\, hands-on neur
- oscience activities\, the Community Memory Wall\, brain-health demonstrati
- ons\, prizes\, food and cold brew\, and more.\nThe Community Day is part o
- f Brain Brew’s three-event brain health campaign across San Francisco. O
- n October 17\, the team will cycle a 22.4-mile route tracing the shape of 
- a human brain through the city\, followed by the free Community Day on Oct
- ober 18. On October 24\, the Brain Brew Crew will join the Walk to End Alz
- heimer’s San Francisco.\n\nCome for 20 minutes or stay for the afternoon
- . Admission is completely free.\n\nFree\n\nTickets: https://brainbrewsf.or
- g/\nDetails: https://sf.funcheap.com/brain-brew-ride-sf/\nSource: Funcheap
-  SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/White-
- Black-and-Orange-Fun-Run-5k-Marathon-Race-Flyer-12-1.png
-LAST-MODIFIED:20261006T172218Z
-LOCATION:YMCA Buchanan\, 1530 Buchanan St\, San Francisco\, CA 94115
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/brain-brew-ride-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Filipino American International Book Festival (SF Main Library)
 DTSTART;TZID=America/Los_Angeles:20261018T100000
 DTEND;TZID=America/Los_Angeles:20261018T173000
@@ -349,47 +230,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Lindy in the Park” Swing Dance Party (Golden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20261018T110000
-DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1633239@sf-cal
-SEQUENCE:0
-CATEGORIES:Theater Performance
-DESCRIPTION:“Lindy in the Park” Swing Dance Party (Golden Gate Park)\n
- Lindy in the Park\nGet ready to swing in Golden Gate Park every sunny Sund
- ay at “Lindy in the Park\,” a weekly free event near the de Young Muse
- um\, when the streets of Golden Gate Park are closed to traffic and the da
- ncers take over.\nThis in person event resumed June 20\, 2021\nLindy in th
- e Park | Free Outdoor Swing Dance & Lessons\nEvery Sunday | 11 am to 2 pm\
- nJFK Dr. btwn 8th and 10th\, behind the De Young Museum\, Golden Gate Park
- \, SF\nFREE\nRain and Bay to Breakers cancels\, but other than that\, Lind
- y in the Park takes place every Sunday – even on holidays – so even if
-  New Year’s Day\, Christmas\, or Fourth of July falls on a Sunday\, they
- ’ll be out there dancing. On the very rare occasion when they cancel\, t
- hey’ll make a new posting on their website\, usually by 10am on Sunday. 
- Lindy in the Park’s Schedule FAQ\n\nFree Beginners Swing Lessons | Noon 
- to 12:30 pm\nLindy in the Park offers a free weekly beginning swing dance 
- lesson\, taught by Hep Jen. The lessons are short\, easy and fun and then 
- you can practice your new steps with the whole group until 2 pm.\nNo partn
- er is required\, as they rotate leaders and followers throughout the lesso
- n.\nUpdated 7/8/2021 – Event info last checked via website.\n\nUpcoming 
- “Lindy in the Park” Swing Dance Party (Golden Gate Park) Events\nSun 1
- 0/11 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 10/18
-  “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 10/25 “
- Lindy in the Park” Swing D...\n\nFree\n\nTickets: http://www.lindyinthep
- ark.com/\nDetails: https://sf.funcheap.com/lindy-in-the-park-swing-dance-p
- arty-golden-gate-park-275/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2013/09/201608
- 21-LITP20TH-321.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:JFK Drive Lindy Hop Spot\, JFK Dr. & Music Concourse Dr\, San Fra
- ncisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gat
- e-park-275/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Francisco Photobook Fair w/ 40+ Publishers (Oct. 17-18)
 DTSTART;TZID=America/Los_Angeles:20261018T110000
 DTEND;TZID=America/Los_Angeles:20261018T170000
@@ -429,82 +269,6 @@ LOCATION:Harvey Milk Photo Center\, 50 Scott St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/san-francisco-photobook-fair-w-40-publishers-o
  ct-17-18/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“Salvi Soul Sunday” Free Block Party for SF’s Free Salvadora
- n Culture Festival (The Mission)
-DTSTART;TZID=America/Los_Angeles:20261018T110000
-DTEND;TZID=America/Los_Angeles:20261018T150000
-DTSTAMP:20261025T205626Z
-UID:funcheap-1640323@sf-cal
-SEQUENCE:0
-CATEGORIES:Theater Performance
-DESCRIPTION:Salvi Soul Encuentro 2026: SF’s Free Salvadoran Culture Fest
- ival (Oct 14-18)\nSalvadoran Soul Encuentro\nSalvi Soul Encuentro is a fou
- r-date celebration of Salvadoran heritage in San Francisco’s Excelsior a
- nd Mission Districts. The program includes Salvadoran storytelling at Casa
-  De Apoyo\, a poetry and vinyl record showcase\, a bike tour tracing the l
- egacy of Los Siete de la Raza\, and live outdoor performances at Excelsior
-  and Mission\nIt’s going down this October 14-18th!\nSALVI SOUL ENCUENTR
- O 🇸🇻🎉\n\nCome join la fiesta as we navigate through the streets o
- f the Excelsior highlighting Salvadoran dance\, music\, poetry\, culture &
-  community!\nFULL ITINERARY ⬇️\nWED OCT 14-SUN OCT 18\nSalvi Soul Encu
- entro\n10/14\nNiña Memita’s Kitchen Table\nNight of Salvadoran Storytel
- ling\n6PM I Casa De Apoyo 4834 Mission St\nThe festival officially kicks o
- ff on Wednesday\, October 14\, with Niña Memita’s Kitchen Table\, an in
- timate panel conversation about immigrant roots and local community legacy
- \, paired with a traditional Salvadoran menu from local\, woman-owned Andr
- ea’s Bakery.\n10/16\nLa Poesia es Como el Pan\, de Todos\nPoetry & Vinyl
-  Record Showcase\n6PM I Casa De Apoyo\, 4834 Mission St\nThe celebration c
- ontinues on Friday with La Poesía es Como el Pan\, Para Todos\, a poetry 
- and vinyl listening party hosted by local author Norman Zelaya\, featuring
-  confirmed spoken-word artists Karina Gamez and Mauricio Ramirez and DJ Ma
- joo\, alongside a community open mic.\n10/17\nRememberina Los Siete De La 
- Raza\nBike tour tracing t...\n\nFree\n\nTickets: https://www.instagram.com
- /p/Ddt7OqOGmmZ/?utm_source=ig_web_copy_link&amp\;stkn=NTc4MTIwNjQ2YQ==\nDe
- tails: https://sf.funcheap.com/salvi-soul-sunday-free-block-party-for-sfs-
- free-salvadoran-culture-festival-the-mission/\nSource: Funcheap SF\n\nAlso
-  listed on:\n- https://data.sf.gov/d/8x25-yybr
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/818583
- 868_17904715530581104_3172970617812327818_n.jpg
-LAST-MODIFIED:20261025T205626Z
-LOCATION:Excelsior & Mission\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/salvi-soul-sunday-free-block-party-for-sfs-fre
- e-salvadoran-culture-festival-the-mission/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Sunday Streets Library Open House w/ Music + Bubbles (Excelsi
- or)
-DTSTART;TZID=America/Los_Angeles:20261018T110000
-DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261025T205626Z
-UID:funcheap-1640340@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:SFPLThe staff at Excelsior Library is excited to have you at o
- ur Open House during Sunday Streets.\nEnjoy the day’s events:\n11 a.m.
- – 4 p.m. outside the library\n\nLibrary Card challenge. Show us your lib
- rary card\, renew it\, or get a new one!\nJamaica refresher\nBookmark maki
- ng\nSidewalk chalk\, to decorate the street\nBubbles\, to make and enjoy\n
- Hula hoops\nTabling by partners offering information and resources\n\nEnte
- rtainment schedule:\n\n12 p.m. – 12:15 p.m. Opening Remarks\n12 p.m. –
-  1 p.m. Bubbles with Corene Tom\n1 p.m. – 2 p.m. Tricycle Music Fest wit
- h Aguacate Music Kids\n2:30 p.m. – 3:30 p.m. Susana y su Orquesta Adelan
- te\n\n1 p.m.– 4 p.m. inside the library\n\nChess tournament provided by 
- Bright Knights Chess Club\nPlay zone for babies and toddlers\nRelax and re
- juvenate\n\n2 p.m.– 3:30 p.m. outside the library\n\nCrafternoon: Tassle
-  making\, for your bookmark or other projects.\n\nFree\n\nTickets: https:/
- /sfpl.org/events/2026/10/18/celebration-open-house\nDetails: https://sf.fu
- ncheap.com/free-sunday-streets-library-open-house-music-bubbles-excelsior/
- \nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Open-H
- ousse.png
-LAST-MODIFIED:20261025T205626Z
-LOCATION:Excelsior Branch Library\, 4400 Mission St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-sunday-streets-library-open-house-music-b
- ubbles-excelsior/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Shipyard Open Studios” Fall 2026: 130+ Artists\, Free Admissi
@@ -658,48 +422,6 @@ URL:https://sf.funcheap.com/filipino-american-intl-book-festival-2026-at-s
  f-main-library-oct-17-18/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s “Make a Friend” Picnic: Bring-Your-Own-Blanket (Potrero
-  del Sol Park)
-DTSTART;TZID=America/Los_Angeles:20261018T123000
-DTEND;TZID=America/Los_Angeles:20261018T153000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1640967@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Make a Friend Picnic 2026: BYO Picnic Setup (SF)Make a Friend 
- Picnic is a casual outdoor social meetup at Potrero del Sol Park for peopl
- e looking to meet new people in San Francisco. Attendees are asked to brin
- g their own blanket\, drinks\, snacks\, and other picnic supplies. The hos
- t plans informal activities to make conversations easier\, and Athena the 
- dog will also attend.\nOriginal Event Description:\n_Make a Friend Picnic\
- nA REAL UPDATE: WE HAVE A DATE. 🎉\nMost importantly: you’re all aweso
- me.\nYou signed up to a stranger’s event because you wanted to make a fr
- iend. You put yourself out there to meet people you don’t know\, which i
- s hard\, and you did it anyway.\nSo thank you. That took guts\, and I wasn
- ’t going to let that go to waste.\nWhen I first made this event\, it was
-  20 people and a blanket. Then it became 505 of you\, plus a waitlist\, wh
- ich was genuinely insane and also one of the nicest things that’s happen
- ed since I moved here.\nNaturally\, that also created a tiny logistical pr
- oblem: several hundred people showing up to a public park requires a permi
- t.\nSo I went to SF Rec and Park\, explained exactly what happened\, and a
- fter a lot of back and forth\, we officially have a new plan: October 18 a
- t Potrero Park.\nSince this has become much bigger than the original “pe
- ople sitting on blankets making friends” plan\, I’m also putting toget
- her a few fun\, easy activations to help people connect once they get ther
- e. Nothing mandatory or overly structured\, just things that make talking 
- to a...\n\nFree\n\nTickets: https://partiful.com/e/NnTYzma0yrGAehRuRl1v?so
- urce=discover\nDetails: https://sf.funcheap.com/sfs-friend-picnic-bringyou
- rownblanket-potrero-del-sol-park/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/imgi_1
- 8_cBloUF-j9F4khU67t38Lk.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Potrero del Sol Park (La Raza)\, Potrero Avenue and 25th Street\,
-  San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sfs-friend-picnic-bringyourownblanket-potrero-
- del-sol-park/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
 DTSTART;TZID=America/Los_Angeles:20261018T130000
 DTEND;TZID=America/Los_Angeles:20261018T170000
@@ -740,36 +462,6 @@ URL:https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-
  300/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Earthquake Preparedness Fair
-DTSTART;TZID=America/Los_Angeles:20261018T130000
-DTEND;TZID=America/Los_Angeles:20261018T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634590@sf-cal
-SEQUENCE:0
-CATEGORIES:Fairs Festivals
-DESCRIPTION:Canva creation SFLCSF\n\nJoin our Earthquake Preparedness Fair
- ! Meet local response teams\, grab free lunch\, and the first 100 to regis
- ter get a free $50 Go Bag!\n\nOur Earthquake Preparedness Fair is a free c
- ommunity event designed to help neighbors get ready for the unexpected.\nM
- eet representatives from:\n\nNeighborhood Emergency Response Team\nSan Fra
- ncisco Interfaith Council\nSierra Pacific Synod Disaster Preparedness Team
- \nSt. Francis Outreach Team\n\nThey’ll be on hand to share resources\, a
- nswer questions\, and help you build your own emergency plan.\nGrab a free
-  to-go lunch while you connect with your neighbors\, and don’t forget to
-  register!\nThe first 100 registered attendees will receive a free emergen
- cy Go Bag valued at $50!\n\nFree\n\nTickets: https://www.eventbrite.com/e/
- earthquake-preparedness-fair-tickets-1999410523699?aff=oddtdtcreator\nDeta
- ils: https://sf.funcheap.com/earthquake-preparedness-fair-sf/\nSource: Fun
- cheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Eventb
- rite-Banner-5.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:St Francis Lutheran Church\, 152 Church Street San Francisco\, CA
-  94114
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/earthquake-preparedness-fair-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s “Balboa Block Party” 2026 (Greenwich/Fillmore)
 DTSTART;TZID=America/Los_Angeles:20261018T130000
 DTEND;TZID=America/Los_Angeles:20261018T190000
@@ -808,98 +500,6 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Greenwich and Fillmore\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-balboa-block-party-2026-greenwichfillmore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United Nations Association Film Festival | Free Shorts Program
-DTSTART;TZID=America/Los_Angeles:20261018T130000
-DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261019T133046Z
-UID:funcheap-1640852@sf-cal
-SEQUENCE:1
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerStill from THE DREAMING GAME\,
-  directed by Jordan Salvatoriello.The 29th United Nations Association Film
-  Festival presents a free shorts program on Sunday\, Oct. 18\, in Palo Alt
- o\, featuring three documentaries that explore wildlife conservation\, wro
- ngful incarceration\, and the global impact of cryptocurrency.\nThe progra
- m opens with “Crossing the Divide\,” directed and produced by local fi
- lmmaker Talia Frank. The 11-minute documentary examines how roads fragment
-  wildlife habitats and explores the potential of wildlife crossings to res
- tore animal movement and strengthen ecosystems.\n\nNext is “The Dreaming
-  Game\,” directed and produced by Jordan Salvatoriello. The film follows
-  70-year-old Raymond Gaines\, a Boston native and lifelong baseball fan\, 
- as he returns to Fenway Park after spending 47 years in prison for a murde
- r he did not commit. As he awaits a decision on his case\, Gaines works to
-  rebuild his life and pursue his long-sought freedom.\nThe program conclud
- es with “The Market and the Monkey’s Paw\,” directed and produced by
-  “Graham New\, Leo Safir\, and Oliver Richards. Set in El Salvador\, the
-  documentary explores the country’s adoption of Bitcoin as legal tender 
- through the perspectives of market vendors\, educators and community membe
- rs\, examining questions of economic inclusion\, tourism\, gentrification 
- and digital finance.\n**Admission is free.** The special program from UNAF
- F offers an opportunity to see three short documentaries and discover the.
- ..\n\nFree\n\nTickets: https://www.unaff.org/2026/schedule.html\nDetails: 
- https://sf.funcheap.com/united-nations-association-film-festival-free-shor
- ts-program/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/f_DREA
- MING-GAME.jpg
-LAST-MODIFIED:20261019T133046Z
-LOCATION:Mitchell Park Community Center\, 3700 Middlefield Road\, Palo Alt
- o
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/united-nations-association-film-festival-free-
- shorts-program/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:rooftop party w/ Atish & Nikita at the Via Hotel
-DTSTART;TZID=America/Los_Angeles:20261018T140000
-DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17633557@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:Safra & B.A.S.S. present: A beautiful day party with incredibl
- y talented Atish & Nikita at Hotel Via Rooftop on October 18th!\nVida is o
- n opening duties!\n\n$15-40\nSafra presents\n\nDetails: https://dothebay.c
- om/events/2026/10/18/rooftop-party-w-atish-nikita-at-the-via-hotel-tickets
- \nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33436480/f44cfdfa-69f5-498b-9dc6-548c19929978.jpg
-LAST-MODIFIED:20261019T210249Z
-LOCATION:Hotel VIA\, 138 King St\, San Francisco\, CA\, 94107
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/rooftop-party-w-atish-nikita-at
- -the-via-hotel-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reduce Plastic Waste Through Creative Reuse (SF Main Library)
-DTSTART;TZID=America/Los_Angeles:20261018T140000
-DTEND;TZID=America/Los_Angeles:20261018T150000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1635501@sf-cal
-SEQUENCE:0
-CATEGORIES:Lectures Workshops
-DESCRIPTION:Inventurous\nTransform everyday film plastics into durable\, l
- eather-like sheets using heat and pressure. Learn how to fuse materials su
- ch as newspaper delivery bags and soft plastic packaging into reusable tex
- tiles that can be cut\, sewn\, and shaped like fabric. Tara de la Garza of
-  Inventurous demonstrates the process and shares creative ways to repurpos
- e plastic waste into functional projects.\nInventurous is a community-base
- d organization that transforms locally sourced plastic waste into useful\,
-  high-value products. By engaging community members in collecting\, sortin
- g\, and processing discarded plastics\, Inventurous demonstrates practical
-  approaches to reducing waste through creative reuse.\n\nFree\n\nTickets: 
- https://sfpl.org/events/2026/10/18/workshop-reduce-plastic-waste-through-c
- reative-reuse\nDetails: https://sf.funcheap.com/reduce-plastic-waste-creat
- ive-reuse-sf-main-library/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Invent
- urous.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:San Francisco Public Library Main Library\, 4th floor\, 100 Larki
- n St\, San Francisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/reduce-plastic-waste-creative-reuse-sf-main-li
- brary/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$5 Off Tix: San Francisco Playhouse’s “Peter Pan Goes Wrong”
@@ -945,117 +545,29 @@ URL:https://sf.funcheap.com/5-off-tix-san-francisco-playhouses-peter-pan-g
  oes-wrong-sept-26-nov-28-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3rd Annual Studio 8 Film Festival (SF’s 4 Star Theater)
-DTSTART;TZID=America/Los_Angeles:20261018T140000
-DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261024T111224Z
-UID:funcheap-1640843@sf-cal
+SUMMARY:Immersive Story Club
+DTSTART;TZID=America/Los_Angeles:20261018T143000
+DTEND;TZID=America/Los_Angeles:20261018T163000
+DTSTAMP:20261025T231942Z
+UID:funcheap-1642161@sf-cal
 SEQUENCE:0
 CATEGORIES:Movies
-DESCRIPTION:SF Artists AlumniSun\, Oct 18\, 2pm\, and Nov 6-8\, Fri 7pm\, 
- Sat 1:30pm\, Sun 12 noon\nThe 3rd Annual Studio 8 Film Festival celebrates
-  the filmmaking of San Francisco Art Institute (SFAI) alumni\, faculty\, a
- nd staff. Following a kick-off event at SFMOMA on October 18\, the main pr
- ogram will take place November 6-8 at the 4-Star and Roxie Theaters in San
-  Francisco. Programs will include films by George Kuchar\, Ed Jones\, Rock
-  Ross\, Dean Snider\, Michael Rudnick\, and special event with Babeth Mond
- ini-VanLoo\, with films starring the Sex Pistols\, Andy Warhol\, and the s
- ounds of Cabaret Voltaire.\nPresented by SF Artists Alumni\n\nFree\n\nTick
- ets: https://www.sfartistsalumni.org/s8ff-2026\nDetails: https://sf.funche
- ap.com/3rd-annual-studio-8-film-festival-sfs-4-star-theater/\nSource: Func
- heap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/4785_v
- 0.jpg
-LAST-MODIFIED:20261024T111224Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
+DESCRIPTION:Submitted by the Event OrganizerImmersive Story ClubImmersive 
+ Story Club is a regular gathering out of Gray Area theater (with pop ups a
+ round the world)\, that invites a gather around poetic XR. Art\, animation
+ \, documentary — this project is possible thanks to Agog Immersive Insti
+ tute.\n​Indie artist Mélodie Mousset has agreed to allow her work to co
+ me to ISC.\nLeading up to this gathering\, look for instances of care or l
+ ack of care. Come open minded\, prepared to reflect and write. Bonus if yo
+ u bring a friend <3\n\nFree\n\nTickets: https://luma.com/6rcp2b56\nDetails
+ : https://sf.funcheap.com/immersive-story-club/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/ISC_Sq
+ uare-12.png
+LAST-MODIFIED:20261025T231942Z
+LOCATION:Gray Area Art & Technology Theater\, 2665 Mission Street\, San Fr
+ ancisco\, CA\,
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/3rd-annual-studio-8-film-festival-sfs-4-star-t
- heater/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Litquake Presents Menopause Extravaganza: The Science and Culture 
- of a Subject No One Used to Want to Talk About
-DTSTART;TZID=America/Los_Angeles:20261018T143000
-DTEND;TZID=America/Los_Angeles:20261018T163000
-DTSTAMP:20261018T205153Z
-UID:dothebay-17794224@sf-cal
-SEQUENCE:1
-CATEGORIES:The Arts
-DESCRIPTION:Menopause Extravaganza: The Science and Culture of a Subject N
- o One Used to Want to Talk About\n\nSunday\, October 18\, 2026\n\nDoors: 2
- :30 PM\n\nAll Ages\n\nSeated event\n\nView our FAQ page for more info\, or
-  contact us at [email protected] with any accommodation requests.\n\nMenop
- ause\, a natural consequence of aging\, has for centuries been alternately
-  ignored and belittled\, seen mostly through a male lens of bafflement\, r
- epugnance\, and boilerplate misogyny. Now\, however\, a growing body of wo
- men and their doctors are rejecting this traditional view\, developing new
-  therapies and strategies as well as ways to appreciate the new freedoms i
- t can offer.\n\nThis energizing (and overdue) afternoon features Dr. Louan
- n Brizendine\, author of The Female Brain\, reading from her forthcoming Y
- our Brain on Menopause and joining other panelists in a conversation led b
- y Keli Dailey: Dr. Sarah Isquick (a colleague of Dr. Sally Greenwald\, fea
- tured in the recent New Yorker article “The Billionaires’ Vagina Club
- ”)\, psychiatrist Dr. Alecia Greenlee\, and menopause doula Lasara Firef
- ox Allen\, author of Genderqueer Menopause.\n\nSelect performers from The 
- Menopause Monologues® will kick off the event. Bring your friends for a c
- onversation-sparking afternoon.\n\nDetails: https://dothebay.com/events/20
- 26/10/18/litquake-presents-menopause-extravaganza-the-science-and-culture-
- of-a-subject-no-one-used-to-want-to-talk-about-tickets\nSource: DoTheBay\n
- \nAlso listed on:\n- https://sf.funcheap.com/immersive-story-club/
-GEO:37.7544054;-122.4183493
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34194924/c8942b2c-ff71-41d4-aa42-b4ace19e22e4.png
-LAST-MODIFIED:20261018T205153Z
-LOCATION:Gray Area\, 2665 Mission Street\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/litquake-presents-menopause-ext
- ravaganza-the-science-and-culture-of-a-subject-no-one-used-to-want-to-talk
- -about-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Nightmare on Elm Street
-DTSTART;TZID=America/Los_Angeles:20261018T143000
-DTEND;TZID=America/Los_Angeles:20261018T163000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17884755@sf-cal
-SEQUENCE:2
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Can your nightmares be fatal? In this classic of the horror fi
- lm genre that launched a movie franchise\, a hideously scarred man who was
-  murdered by a lynch mob returns years later in the terrifying nightmares 
- of his killers' teenaged children ... And the dreaming teenagers are start
- ing to die in their sleep.\n\nThis film can be used with loyalty cards or 
- our 2026 annual CinemaSFBay passes\n\nDetails: https://dothebay.com/events
- /2026/10/18/a-nightmare-on-elm-street-tickets\nSource: DoTheBay\n\nAlso li
- sted on:\n- https://sf.funcheap.com/immersive-story-club/
-GEO:37.7760419;-122.498063
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34623008/4d9491f3-9279-4c8d-9f69-1ea6957d6df4.jpg
-LAST-MODIFIED:20261019T210249Z
-LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/a-nightmare-on-elm-street-ticke
- ts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Golden State Warriors Open Practice
-DTSTART;TZID=America/Los_Angeles:20261018T150000
-DTEND;TZID=America/Los_Angeles:20261018T170000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17937378@sf-cal
-SEQUENCE:1
-CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors Open Practice\n\nDetails: https://dotheb
- ay.com/events/2026/10/18/golden-state-warriors-open-practice-tickets\nSour
- ce: DoTheBay
-GEO:37.7688295;-122.3894164
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34871662/a688b48f-2998-450f-b083-a7263aa7cb24.png
-LAST-MODIFIED:20261019T210249Z
-LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/golden-state-warriors-open-prac
- tice-tickets
+URL:https://sf.funcheap.com/immersive-story-club/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drag Performance Workshop: Stage Presence\, Character\, and Choice
@@ -1127,54 +639,29 @@ BEGIN:VEVENT
 SUMMARY:Improv(e) Your Dating Life
 DTSTART;TZID=America/Los_Angeles:20261018T153000
 DTEND;TZID=America/Los_Angeles:20261018T173000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17910549@sf-cal
-SEQUENCE:2
-CATEGORIES:Lecture/Education
-DESCRIPTION:Want to have more fun and success with dating? Explore your da
- ting tendencies\, expand your dating pool\, and live in the moment in this
-  improv-based dating course with dating coach Dylan.\nWhat: Workshop desig
- ned to provide a fun and informative experience where participants practic
- e skills\, build confidence\, and expand their mindset around dating.\nWho
- : Facilitated by Dylan Garcia M.Ed (Improv and Dating Coach). Participants
-  open to anyone 18 & older that signs up through the theater\nHow: 2 Hour 
- agenda that combines improv exercises with dating data/tips\n\n$20\, 18+\n
- \nDetails: https://dothebay.com/events/2026/10/18/improv-e-your-dating-lif
- e-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/
- improve-dating-life-9/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34745433/f8f6e6c4-58c4-4369-8460-7a6bc9284347.jpg
-LAST-MODIFIED:20261019T210249Z
-LOCATION:Endgames Improv Theater\, 2965 Mission St\, San Francisco\, CA\, 
- 94110
+DTSTAMP:20261025T231942Z
+UID:funcheap-1640260@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerDylan Garcia\n\nWant to have m
+ ore fun and success with dating? Explore your dating tendencies\, expand y
+ our dating pool\, and live in the moment in this improv-based dating cours
+ e with dating coach Dylan.\nWhat: Workshop designed to provide a fun and i
+ nformative experience where participants practice skills\, build confidenc
+ e\, and expand their mindset around dating.\nWho: Facilitated by Dylan Gar
+ cia M.Ed (Improv and Dating Coach). Participants open to anyone 18 & older
+  that signs up through the theater\nHow: 2 Hour agenda that combines impro
+ v exercises with dating data/tips\n\n$20.00\n\nTickets: https://www.eventb
+ rite.com/e/improve-your-dating-life-tickets-1246635784189?aff=oddtdtcreato
+ r\nDetails: https://sf.funcheap.com/improve-dating-life-9/\nSource: Funche
+ ap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/for-AO
+ C-1.png
+LAST-MODIFIED:20261025T231942Z
+LOCATION:Endgames Improv Theater & Bar (SF)\, 2965 Mission St (btwn 25th a
+ nd 26th)\, San Francisco\, CA
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/improv-e-your-dating-life-ticke
- ts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rusty's LA Beer Bust
-DTSTART;TZID=America/Los_Angeles:20261018T160000
-DTEND;TZID=America/Los_Angeles:20261018T180000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17958160@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:Rusty is off to LA for a feature part in the new Bears docuser
- ies on Netflix and we wanna send him off in style (laying down in the back
-  of a truck). Former Bay Area Cub Jacobo is hosting the bust we wanna see 
- all of you here\,\n\nRusty works tirelessly greeting people from all over 
- the world with his friendly smile and a tip of his hat. So let’s finally
-  show Rusty some love in return.\n\nJell-O-Shots\, raffles\, food and more
- .\n\nCheers.\n\nDetails: https://dothebay.com/events/2026/10/18/rusty-s-la
- -beer-bust-tickets\nSource: DoTheBay
-GEO:37.77216749999999;-122.4108778
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34970042/d05a6a77-7d3b-481f-9421-43da1db00091.png
-LAST-MODIFIED:20261019T210249Z
-LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
- 103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/rusty-s-la-beer-bust-tickets
+URL:https://sf.funcheap.com/improve-dating-life-9/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opera’s Greatest Drama: Love Murder + Heartbreak
@@ -19916,6 +19403,44 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/29/mo-welch-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayden Everett
+DTSTART;TZID=America/Los_Angeles:20261029T200000
+DTEND;TZID=America/Los_Angeles:20261029T220000
+DTSTAMP:20261025T231942Z
+UID:dothebay-17738079@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Hayden Everett\n\nHayden Everett is a Seattle-based artist ble
+ nding folk storytelling with jazz-trained musicianship and expansive\, atm
+ ospheric production. Hayden writes much of his music on solo backpacking t
+ rips\, guided by a belief that presence gives art its weight.\n\nHis debut
+  EP\, produced with Jeremy McDonald (Kevin Garrett\, Vulfpeck\, Beyoncé)\
+ , earned placements on Grey’s Anatomy and praise from Earmilk\, Atwood M
+ agazine\, and KCRW. Follow-up releases via Platoon and Nettwerk Music Grou
+ p featured collaborators like JT Bates (Bonny Light Horseman\, Big Red Mac
+ hine\, Taylor Swift\, The National)\, James McAlister (Bon Iver\, Sufjan S
+ tevens)\, and Jack Van Cleaf (Zach Bryan\, Noah Kahan).\n\nWith over 35 mi
+ llion streams\, Hayden has toured with Hazlett\, The Paper Kites\, Trousda
+ le\, and Vacation Manor. His debut full length record\, So The Sun Can Pou
+ r\, was independently released in April of 2026. Hayden recorded the album
+  live with close friends at the cabin in Tahoe\, CA that his great grandfa
+ ther built. It was mixed by Tucker Martine in Portland\, known for his wor
+ k with Gregory Alan Isakov\, My Morning Jacket\, Madison Cunningham\, Caam
+ p\, Mt. Joy\, and more.\n\n$27.58\n\nTickets: https://ticketmaster.evyy.ne
+ t/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%
+ 2Fevent%2Fhayden-everett-brick-and-mortar-music-hall-tickets%2F15030633%3F
+ pl%3Dbnm%26REFID%3Dclientsitewp\nDetails: https://dothebay.com/events/2026
+ /10/29/hayden-everett-tickets\nSource: DoTheBay
+GEO:37.7697394;-122.4203797
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33927118/6371fa87-22c4-46eb-8978-53ccc4a6ff06.jpg
+LAST-MODIFIED:20261025T231942Z
+LOCATION:Brick & Mortar Music Hall\, 1710 Mission Street\, San Francisco\,
+  CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/hayden-everett-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:bleood

@@ -40,73 +40,29 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:United Nations Association Film Festival | Free Shorts Program
-DTSTART;TZID=America/Los_Angeles:20261018T130000
-DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261019T133046Z
-UID:funcheap-1640852@sf-cal
-SEQUENCE:1
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerStill from THE DREAMING GAME\,
-  directed by Jordan Salvatoriello.The 29th United Nations Association Film
-  Festival presents a free shorts program on Sunday\, Oct. 18\, in Palo Alt
- o\, featuring three documentaries that explore wildlife conservation\, wro
- ngful incarceration\, and the global impact of cryptocurrency.\nThe progra
- m opens with “Crossing the Divide\,” directed and produced by local fi
- lmmaker Talia Frank. The 11-minute documentary examines how roads fragment
-  wildlife habitats and explores the potential of wildlife crossings to res
- tore animal movement and strengthen ecosystems.\n\nNext is “The Dreaming
-  Game\,” directed and produced by Jordan Salvatoriello. The film follows
-  70-year-old Raymond Gaines\, a Boston native and lifelong baseball fan\, 
- as he returns to Fenway Park after spending 47 years in prison for a murde
- r he did not commit. As he awaits a decision on his case\, Gaines works to
-  rebuild his life and pursue his long-sought freedom.\nThe program conclud
- es with “The Market and the Monkey’s Paw\,” directed and produced by
-  “Graham New\, Leo Safir\, and Oliver Richards. Set in El Salvador\, the
-  documentary explores the country’s adoption of Bitcoin as legal tender 
- through the perspectives of market vendors\, educators and community membe
- rs\, examining questions of economic inclusion\, tourism\, gentrification 
- and digital finance.\n**Admission is free.** The special program from UNAF
- F offers an opportunity to see three short documentaries and discover the.
- ..\n\nFree\n\nTickets: https://www.unaff.org/2026/schedule.html\nDetails: 
- https://sf.funcheap.com/united-nations-association-film-festival-free-shor
- ts-program/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/f_DREA
- MING-GAME.jpg
-LAST-MODIFIED:20261019T133046Z
-LOCATION:Mitchell Park Community Center\, 3700 Middlefield Road\, Palo Alt
- o
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/united-nations-association-film-festival-free-
- shorts-program/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3rd Annual Studio 8 Film Festival (SF’s 4 Star Theater)
-DTSTART;TZID=America/Los_Angeles:20261018T140000
-DTEND;TZID=America/Los_Angeles:20261018T160000
-DTSTAMP:20261024T111224Z
-UID:funcheap-1640843@sf-cal
+SUMMARY:Immersive Story Club
+DTSTART;TZID=America/Los_Angeles:20261018T143000
+DTEND;TZID=America/Los_Angeles:20261018T163000
+DTSTAMP:20261025T231942Z
+UID:funcheap-1642161@sf-cal
 SEQUENCE:0
 CATEGORIES:Movies
-DESCRIPTION:SF Artists AlumniSun\, Oct 18\, 2pm\, and Nov 6-8\, Fri 7pm\, 
- Sat 1:30pm\, Sun 12 noon\nThe 3rd Annual Studio 8 Film Festival celebrates
-  the filmmaking of San Francisco Art Institute (SFAI) alumni\, faculty\, a
- nd staff. Following a kick-off event at SFMOMA on October 18\, the main pr
- ogram will take place November 6-8 at the 4-Star and Roxie Theaters in San
-  Francisco. Programs will include films by George Kuchar\, Ed Jones\, Rock
-  Ross\, Dean Snider\, Michael Rudnick\, and special event with Babeth Mond
- ini-VanLoo\, with films starring the Sex Pistols\, Andy Warhol\, and the s
- ounds of Cabaret Voltaire.\nPresented by SF Artists Alumni\n\nFree\n\nTick
- ets: https://www.sfartistsalumni.org/s8ff-2026\nDetails: https://sf.funche
- ap.com/3rd-annual-studio-8-film-festival-sfs-4-star-theater/\nSource: Func
- heap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/4785_v
- 0.jpg
-LAST-MODIFIED:20261024T111224Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA 94121
+DESCRIPTION:Submitted by the Event OrganizerImmersive Story ClubImmersive 
+ Story Club is a regular gathering out of Gray Area theater (with pop ups a
+ round the world)\, that invites a gather around poetic XR. Art\, animation
+ \, documentary — this project is possible thanks to Agog Immersive Insti
+ tute.\n​Indie artist Mélodie Mousset has agreed to allow her work to co
+ me to ISC.\nLeading up to this gathering\, look for instances of care or l
+ ack of care. Come open minded\, prepared to reflect and write. Bonus if yo
+ u bring a friend <3\n\nFree\n\nTickets: https://luma.com/6rcp2b56\nDetails
+ : https://sf.funcheap.com/immersive-story-club/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/ISC_Sq
+ uare-12.png
+LAST-MODIFIED:20261025T231942Z
+LOCATION:Gray Area Art & Technology Theater\, 2665 Mission Street\, San Fr
+ ancisco\, CA\,
 TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/3rd-annual-studio-8-film-festival-sfs-4-star-t
- heater/
+URL:https://sf.funcheap.com/immersive-story-club/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Media Meltdown presents: Cemetery Man
