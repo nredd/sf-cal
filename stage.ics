@@ -1540,12 +1540,38 @@ URL:https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gat
  e-park-276/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Tribute to Fred Astaire
+DTSTART;TZID=America/Los_Angeles:20261025T140000
+DTEND;TZID=America/Los_Angeles:20261025T160200
+DTSTAMP:20261025T163045Z
+UID:funcheap-1621181@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Submitted by the Event OrganizerPhoto by Mark GebhardtA Tribut
+ e to Fred Astaire. Location: The Belrose. 1415 5th Avenue\, San Rafael. Da
+ te: Sunday October 25th. Time: 2pm. Join us for this musical salute to the
+  iconic Fred Astaire. This two act show features twenty songs written for\
+ , and introduced by\, Mr. Astaire. Songs from the Golden Age of Hollywood 
+ and the Great American Songbook. Vocalist Robert Strom is backed by a jazz
+  trio: Victor Alvarado (piano)\, Logan Rasmusson (bass) and Jeziel “JR
+ ” Rosales (drums). *This show does not include dancing.\n\n$39.19\n\nTic
+ kets: https://www.eventbrite.com/e/a-tribute-to-fred-astaire-tickets-19897
+ 94689480\nDetails: https://sf.funcheap.com/tribute-fred-astaire-3/\nSource
+ : Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/06/Robert
+ -108-1.jpg
+LAST-MODIFIED:20261025T163045Z
+LOCATION:The Belrose\, 1415 5th Avenue
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/tribute-fred-astaire-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Secret Improv VICE Halloween edition
 DTSTART;TZID=America/Los_Angeles:20261025T170000
 DTEND;TZID=America/Los_Angeles:20261025T190000
-DTSTAMP:20261012T211826Z
+DTSTAMP:20261025T163045Z
 UID:dothebay-17949166@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Secret Improv VICE begins the holiday season with our annual H
  alloween edition. What happens when Noir meets Horror? A show so fun it’
@@ -1555,11 +1581,12 @@ DESCRIPTION:Secret Improv VICE begins the holiday season with our annual H
  ’t know (yet): It’s improv!\n\n25\n\nTickets: https://shows.secretimpr
  ov.com/checkout?performanceId=69&showSlug=secret_improv_vice\nDetails: htt
  ps://dothebay.com/events/2026/10/25/secret-improv-vice-halloween-edition-t
- ickets\nSource: DoTheBay
+ ickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sec
+ ret-improv-vice-halloween-edition/
 GEO:37.78902490000001;-122.4091439
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34923137/a98d3a7b-d87c-43af-9fdc-dbf00cf8249b.jpg
-LAST-MODIFIED:20261012T211826Z
+LAST-MODIFIED:20261025T163045Z
 LOCATION:Shelton Theater\, 533 Sutter St.\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/secret-improv-vice-halloween-ed
@@ -1664,6 +1691,34 @@ URL:https://sf.funcheap.com/10-off-tix-sfs-terror-vault-1874-halloween-hau
  nt-2026-4/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eulogy 4
+DTSTART;TZID=America/Los_Angeles:20261025T190000
+DTEND;TZID=America/Los_Angeles:20261025T223000
+DTSTAMP:20261025T163045Z
+UID:funcheap-1643352@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Submitted by the Event OrganizerMz. KEULOGY IIII – A Maynard
+  Inspired Cabaret of Shadow & Ceremony\n\nDearly beloved… we gather once
+  more.\nAs the veil thins and the nights grow longer\, FVT invites you int
+ o a chapel of shadow and spectacle for EULOGY IIII\, our 4th annual cabare
+ t honoring the music and mystique of Maynard James Keenan.\nThis is no ord
+ inary tribute. It’s a living ritual of recognition\, transformation\, an
+ d release. Through pole\, burlesque\, circus\, and sideshow\, our artists 
+ summon the essence of Maynard ~ Tool\, A Perfect Circle\, Puscifer\, and m
+ ore ~ in an evening where performance becomes ceremony.\n\nStep into the s
+ hadows and experience an entertaining evening of ritual\, spectacle\, and 
+ celebration ~ all through the lens of Maynard.\n\n$35.00\n\nTickets: https
+ ://www.fluxtheatreberkeley.org/\nDetails: https://sf.funcheap.com/eulogy-4
+ /\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/eulogy
+ 4.jpg
+LAST-MODIFIED:20261025T163045Z
+LOCATION:Flux Vertical Theatre\, 811 University Avenue Berkeley\, CA 94710
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/eulogy-4/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Resavoir
 DTSTART;TZID=America/Los_Angeles:20261025T200000
 DTEND;TZID=America/Los_Angeles:20261025T220000
@@ -1740,9 +1795,9 @@ SUMMARY:Bay Area Immersive Theater Makers Gathering: Performer Perspective
  s
 DTSTART;TZID=America/Los_Angeles:20261026T180000
 DTEND;TZID=America/Los_Angeles:20261026T200000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261025T163045Z
 UID:dothebay-17955962@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Join Detour Productions for a community conversation focused o
  n the performer's perspective in immersive\, site-specific\, and audience-
@@ -1764,10 +1819,11 @@ DESCRIPTION:Join Detour Productions for a community conversation focused o
  ductions\n\nTickets: https://detour.productions/2026/immersive-gathering-p
  erformers\nDetails: https://dothebay.com/events/2026/10/26/bay-area-immers
  ive-theater-makers-gathering-performer-perspectives-tickets\nSource: DoThe
- Bay
+ Bay\n\nAlso listed on:\n- https://sf.funcheap.com/bay-area-immersive-theat
+ er-makers-gathering-performer-perspectives/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34958246/588636ca-d87e-44e7-8619-edaae55dd9d4.jpg
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261025T163045Z
 LOCATION:The Rueff at A.C.T.'s Strand Theater\, 1127 Market Street\, San F
  rancisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -1779,9 +1835,9 @@ SUMMARY:SalsaCrazy Mondays Halloween: Salsa Classes + Salsa & Bachata Danc
  ing SF
 DTSTART;TZID=America/Los_Angeles:20261026T183000
 DTEND;TZID=America/Los_Angeles:20261026T203000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261025T163045Z
 UID:dothebay-17955963@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Dance
 DESCRIPTION:Monday\, October 26\, 2026\, 6:30-11:30pm Pacific. Doors 6:30p
  m\; beginner salsa 7pm\; intermediate salsa 7:55pm\; dancing-only admissio
@@ -1807,11 +1863,13 @@ DESCRIPTION:Monday\, October 26\, 2026\, 6:30-11:30pm Pacific. Doors 6:30p
  0\, lessons and/or dancing\, subj to avail.\nSalsaCrazy\, Inc.\n\nTickets:
   https://salsamondays10-26-26.eventbrite.com\nDetails: https://dothebay.co
  m/events/2026/10/26/salsacrazy-mondays-halloween-salsa-classes-salsa-bacha
- ta-dancing-sf-tickets\nSource: DoTheBay
+ ta-dancing-sf-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.f
+ uncheap.com/salsacrazy-mondays-halloween-salsa-classes-salsa-bachata-danci
+ ng-sf/
 GEO:37.7832175;-122.4637743
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34958253/2dda5dfc-2ee9-4e1b-9cd3-62b9c5fa1434.jpg
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261025T163045Z
 LOCATION:Neck of the Woods\, 406 Clement Street\, San Francisco\, CA\, 941
  18
 TRANSP:TRANSPARENT
