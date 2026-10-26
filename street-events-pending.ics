@@ -41,25 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Block Party - 41st Ave
-DTSTART;TZID=America/Los_Angeles:20261018T000000
-DTEND;TZID=America/Los_Angeles:20261018T235900
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1602524-2026-10-18T00:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 41st Ave from Taraval St to Ulloa St\n\nPermit status:
-  Application In Review\nTimes are SFMTA street-closure permit times and in
- clude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDeta
- ils: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pend
- ing permit)
-GEO:37.741075;-122.499197
-LAST-MODIFIED:20261006T193028Z
-LOCATION:41st Ave between Taraval St and Ulloa St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Southern Station Halloween Event
 DTSTART;TZID=America/Los_Angeles:20261021T120000
 DTEND;TZID=America/Los_Angeles:20261021T200000

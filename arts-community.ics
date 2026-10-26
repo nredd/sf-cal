@@ -41,49 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:DAY TRIP FESTIVAL NORCAL
-DTSTART;TZID=America/Los_Angeles:20261017T140000
-DTEND;TZID=America/Los_Angeles:20261018T220000
-DTSTAMP:20261018T111813Z
-UID:caldiscovery-festival-3164a0d630df1567@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:Published by The Midway\nContains information from CalDiscover
- y (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.tixr.com/groups/np
- ulive-sj/events/day-trip-festival-norcal-188730?utm_source=caldiscovery&ut
- m_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261018T111813Z
-LOCATION:Discovery Meadow\, 900 Marin St\, San Francisco\, CA\, 94124
-TRANSP:TRANSPARENT
-URL:https://www.tixr.com/groups/npulive-sj/events/day-trip-festival-norcal
- -188730?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
- ca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Classical Guitar Recital: Giulia Ballarè in Santa Cruz
-DTSTART;TZID=America/Los_Angeles:20261018T190000
-DTEND;TZID=America/Los_Angeles:20261018T220000
-DTSTAMP:20261018T205153Z
-UID:funcheap-1636714@sf-cal
-SEQUENCE:0
-DESCRIPTION:Submitted by the Event OrganizerSouth Bay Guitar Society prese
- nts Giulia Ballarè in a classical guitar recital\, part of its Guitarra e
- n Fisterra series.\nSunday\, October 18\, 2026\, at 7:00 p.m.\nKuumbwa Jaz
- z Center\, 320-2 Cedar Street\, Santa Cruz.\n\nFree admission and free par
- king.\nConcert details: https://www.sbgs.org/event-6753248\nFollow South B
- ay Guitar Society for upcoming concerts:\nFacebook: https://www.facebook.c
- om/SouthBayGuitarSociety\nInstagram: https://www.instagram.com/southbaygui
- tarsociety/\nFree Classical Guitar Recital: Giulia Ballarè in Santa Cruz\
- nDate: 10/18/2026\nKuumbwa Jazz Center\nCost: FREE\n– Free admission and
-  free parking.\n–\n\nFree\n\nTickets: https://www.sbgs.org/event-6753248
- \nDetails: https://sf.funcheap.com/free-classical-guitar-recital-giulia-ba
- llar-santa-cruz/\nSource: Funcheap SF
-LAST-MODIFIED:20261018T205153Z
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-classical-guitar-recital-giulia-ballar-sa
- nta-cruz/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monday Yoga
 DTSTART;TZID=America/Los_Angeles:20261019T120000
 DTEND;TZID=America/Los_Angeles:20261019T140000
@@ -2716,19 +2673,18 @@ BEGIN:VEVENT
 SUMMARY:Head West at State Street
 DTSTART;TZID=America/Los_Angeles:20261025T110000
 DTEND;TZID=America/Los_Angeles:20261025T130000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17102243@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Shopping
 DESCRIPTION:Head West at State Street\nEvery Fourth Sunday | State Street 
  | Free\n\nDates:\n\nMarch 22\, 2026\nApril 26\, 2026\nMay 24\, 2026\nJune 
  28\, 2026\nJuly 26\, 2026\nAugust 23\, 2026\nSeptember 27\, 2026\nOctober 
- 25\, 2026\n\nFree\n\nTickets: https://www.headwestmarketplace.com/statestr
- eet\nDetails: https://dothebay.com/events/2026/10/25/head-west-at-state-st
- reet-tickets\nSource: DoTheBay
+ 25\, 2026\n\nFree\n\nDetails: https://dothebay.com/events/2026/10/25/head-
+ west-at-state-street-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30919640/48c2628f-c59d-4afa-8083-509cb758a685.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:State Street
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/head-west-at-state-street-ticke
@@ -2738,9 +2694,9 @@ BEGIN:VEVENT
 SUMMARY:Bark at SPARK: Howl-O-Ween!
 DTSTART;TZID=America/Los_Angeles:20261025T110000
 DTEND;TZID=America/Los_Angeles:20261025T130000
-DTSTAMP:20261016T211839Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17955884@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Variety
 DESCRIPTION:Bark at SPARK: Howl-O-Ween!\nSunday\, October 25 | SPARK Socia
  l SF\n\nGet ready to howl and growl at Bark at SPARK: Howl-O-Ween!\n\nCall
@@ -2763,14 +2719,12 @@ DESCRIPTION:Bark at SPARK: Howl-O-Ween!\nSunday\, October 25 | SPARK Socia
  —first to lick it clean wins!\n\nCostume Contest | 3pm\n\nBring your bes
  t Halloween look and let your pup strut their stuff! Prizes will be awarde
  d to the most pawsome costumes.\n\nPuppy Parade | Following Costume Contes
- t\n\nGrab your leash and join...\n\nFree\n\nTickets: https://consumer.pxf.
- io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbark-at-spark-howl-o-we
- en-tickets-1998393395441%3Faff%3Derelpanelorg\nDetails: https://dothebay.c
- om/events/2026/10/25/bark-at-spark-howl-o-ween-tickets\nSource: DoTheBay\n
- \nAlso listed on:\n- https://sf.funcheap.com/bark-spark-howloween-sf/
+ t\n\nGrab your leash and join...\n\nFree\n\nDetails: https://dothebay.com/
+ events/2026/10/25/bark-at-spark-howl-o-ween-tickets\nSource: DoTheBay\n\nA
+ lso listed on:\n- https://sf.funcheap.com/bark-spark-howloween-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34994504/c9e0b2ca-ace5-40ec-9f19-7423fb6e3920.png
-LAST-MODIFIED:20261016T211839Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:SPARK Social SF\, 601 Mission Bay Blvd. North\, San Francisco\, C
  A\, 94158
 TRANSP:TRANSPARENT
@@ -2781,9 +2735,9 @@ BEGIN:VEVENT
 SUMMARY:Beginner's Leatherworking: Craft Your Own Tri-fold Leather Journal
 DTSTART;TZID=America/Los_Angeles:20261025T120000
 DTEND;TZID=America/Los_Angeles:20261025T140000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17828623@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:The Arts
 DESCRIPTION:- Class Time: 12:00PM - 3:00PM\n\nIn Beginner's Leatherworking
  : Craft Your Own Tri-fold Leather Journal\, you will learn and apply leath
@@ -2805,15 +2759,12 @@ DESCRIPTION:- Class Time: 12:00PM - 3:00PM\n\nIn Beginner's Leatherworking
  ION policy - this includes cancellation\, re-books\, gift certificates\, m
  oving classes\, etc. For more information on canceling a class\, please re
  ad our cancellation policy. All classes are 21+. If any questions\, please
-  email us at info AT workshopsf DOT org.\n\nALL CLASSE...\n\n$73.75\n\nTic
- kets: https://etix.prf.hn/click/camref:1011l3GdWo/pubref:dostuff/destinati
- on:https%3A%2F%2Fwww.etix.com%2Fticket%2Fp%2F70301131%2Fbeginners-leatherw
- orkingcraft-your-own-trifold-leather-journal-san-francisco-workshopsf\nDet
+  email us at info AT workshopsf DOT org.\n\nALL CLASSE...\n\n$73.75\n\nDet
  ails: https://dothebay.com/events/2026/10/25/beginner-s-leatherworking-cra
  ft-your-own-tri-fold-leather-journal-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34356733/64950b6a-6159-4d88-8382-5a7519043765.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:Workshop\, 1310 Haight St\, San Francisco \, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/beginner-s-leatherworking-craft
@@ -2843,22 +2794,21 @@ BEGIN:VEVENT
 SUMMARY:6th Annual Hauntway
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T150000
-DTSTAMP:20261022T045844Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17979797@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:6th Annual Hauntway\nSunday\, October 25 | Sunset Dunes\n\nThe
   Great Hauntway is a community powered Halloween party for the whole neigh
  borhood. Enjoy a safe\, car-free Halloween at the beach with\n\ntrick or t
  reating • live performers • bounce houses • live music\n\nIt’s San
   Francisco’s largest Halloween event\, and it’s completely free to att
- end!\n\nFree\n\nTickets: https://sunsetdunes.org/hauntway\nDetails: https:
- //dothebay.com/events/2026/10/25/6th-annual-hauntway-tickets\nSource: DoTh
- eBay
+ end!\n\nFree\n\nDetails: https://dothebay.com/events/2026/10/25/6th-annual
+ -hauntway-tickets\nSource: DoTheBay
 GEO:37.75;105.5
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35068742/698d90b1-f852-4777-9138-b7afab7d3e6d.jpg
-LAST-MODIFIED:20261022T045844Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:Sunset Dunes\, Great Hwy\, San Francisco\, CA\, 94122
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/6th-annual-hauntway-tickets
@@ -3109,60 +3059,6 @@ LOCATION:New North Church Parking Lot\, 777 Brotherhood Way\, San Francisc
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-halloween-trunk-treat-party-bounce-houses
  -sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United Nations Association Film Festival | Closing Night
-DTSTART;TZID=America/Los_Angeles:20261025T171500
-DTEND;TZID=America/Los_Angeles:20261025T201500
-DTSTAMP:20261016T211839Z
-UID:caldiscovery-festival-82f80e28451a234d@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,film
-DESCRIPTION:The 29th United Nations Association Film Festival closes on Su
- nday\, Oct. 25\, at Mitchell Park in Palo Alto\, bringing two feature-leng
- th films.\n\nYo (Love is a Rebellious Bird)\, by Bay Area duo Banker White
-  and UNAFF alum Anna Fitch\, is an imaginative film explores creativity as
-  an outlet for grief and love.\n\nIn the Company of Wolves: An American Jo
- urney\, narrated by Jeff Bridges and directed by Susan Kucera and Jim Swif
- t\, explores how our relationship with animals shaped a nation. Jeff Bridg
- es is also the recipient of the 29th UNAFF Visionary Award.\nhttps://www.i
- ndybay.org/newsitems/2026/10/12/18889273.php\n\nPublished by Indybay\nCont
- ains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetail
- s: https://www.indybay.org/newsitems/2026/10/12/18889273.php?utm_source=ca
- ldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscov
- ery
-LAST-MODIFIED:20261016T211839Z
-LOCATION:Mitchell Park Community Center 3700 Middlefield Road Palo Alto
-TRANSP:TRANSPARENT
-URL:https://www.indybay.org/newsitems/2026/10/12/18889273.php?utm_source=c
- aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United Nations Association Film Festival | Closing Night
-DTSTART;TZID=America/Los_Angeles:20261025T172000
-DTEND;TZID=America/Los_Angeles:20261025T220000
-DTSTAMP:20261014T171851Z
-UID:caldiscovery-festival-ab201990caf92712@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,film
-DESCRIPTION:Category: Festivals / ParadesContact Phone: (650) 724-5544Cont
- act Email: info@unaff.orgCost: $19-60Link: https://www.unaff.org/2026/tick
- ets.htmlThe 29th United Nations Association Film Festival closes on Sunday
- \, Oct. 25\, at Mitchell Park in Palo Alto\, bringing two feature-length f
- ilms.Yo (Love is a Rebellious Bird)\, by Bay Area duo Banker White and UNA
- FF alum Anna Fitch\, is an imaginative film explores creativity as an outl
- et for grief and love.In the Company of Wolves: An American Journey\, narr
- ated by Jeff Bridges and directed by Susan Kucera and Jim Swift\, explores
-  how our relationship with animals shaped a nation. Jeff Bridges is also t
- he recipient of the 29th UNAFF Visionary Award.\n\nPublished by KGO\nConta
- ins information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails
- : https://www.unaff.org/2026/tickets.html?utm_source=caldiscovery&utm_medi
- um=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261014T171851Z
-LOCATION:Mitchell Park Community Center 3700 Middlefield Road Palo Alto
-TRANSP:TRANSPARENT
-URL:https://www.unaff.org/2026/tickets.html?utm_source=caldiscovery&utm_me
- dium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Final “District 8” Candidate Debate 2026: Inside Former
@@ -4529,9 +4425,9 @@ BEGIN:VEVENT
 SUMMARY:French Talent USA: Jérémy Charbonnel - Alone
 DTSTART;TZID=America/Los_Angeles:20261029T200000
 DTEND;TZID=America/Los_Angeles:20261029T220000
-DTSTAMP:20261022T045844Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17979535@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:Thursday\, October 29th\, 2026 from 8:00PM-10:00PM\n\nBrava Th
  eater\n\nIn this authentic and sincere show\, Jérémy is searching for an
@@ -4548,11 +4444,14 @@ DESCRIPTION:Thursday\, October 29th\, 2026 from 8:00PM-10:00PM\n\nBrava Th
  wn ticketing system\, so purchases and ticketing questions must go through
   their website.\n\nTickets: https://www.tickettailor.com/events/frenchtale
  ntusa/2090507\nDetails: https://dothebay.com/events/2026/10/29/french-tale
- nt-usa-jeremy-charbonnel-alone-tickets\nSource: DoTheBay
+ nt-usa-jeremy-charbonnel-alone-tickets\nSource: DoTheBay\n\nAlso listed on
+ :\n- https://missionlocal.org/event/brava-theater-french-talent-usa-jeremy
+ -charbonnel-alone/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san
+ -francisco-ca
 GEO:37.7526148;-122.4078356
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35067731/d1c40009-bf03-43f9-ae38-bccc480298d5.webp
-LAST-MODIFIED:20261022T045844Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:Brava Theater\, 2781 24th Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/29/french-talent-usa-jeremy-charbo
@@ -10928,6 +10827,27 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/flashback-fridays-presented-by-
  greatest-hits-103-7-at-the-safeway-holiday-ice-rink-in-union-square-ticket
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chandigarh Food Festival
+DTSTART;TZID=America/Los_Angeles:20261128T080000
+DTEND;TZID=America/Los_Angeles:20261128T170000
+DTSTAMP:20261026T131406Z
+UID:caldiscovery-festival-a6c221e644421e1d@sf-cal
+SEQUENCE:0
+CATEGORIES:festival,food
+DESCRIPTION:Experience the Chandigarh Food Festival! Taste a delicious num
+ ber of local and international cuisines while enjoying live performances a
+ nd cooking demos. Join us for a weekend of flavors and fun!\n\nPublished b
+ y The Events Calendar Addons\nContains information from CalDiscovery (cald
+ iscovery.com)\, ODbL 1.0\n\nDetails: https://eventscalendaraddons.com/even
+ t/chandigarh-food-festival/?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261026T131406Z
+LOCATION:Plaza\, Sector 17\, chandigarh\, Chandigarh\, 160001\, India
+TRANSP:TRANSPARENT
+URL:https://eventscalendaraddons.com/event/chandigarh-food-festival/?utm_s
+ ource=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MANGO! Every 4th Saturday 2-8pm!

@@ -1149,21 +1149,18 @@ BEGIN:VEVENT
 SUMMARY:Sunset Sound System Halloween Costume Boat + After-Party 2026
 DTSTART;TZID=America/Los_Angeles:20261025T170000
 DTEND;TZID=America/Los_Angeles:20261025T190000
-DTSTAMP:20261015T170721Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17957710@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Sunset Sound System’s Halloween boat after-party lands at Th
  e Great Northern October 25. Costumes on\, dancing into the after-hours.\n
- \nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.c
- om%2Fe%2Fsunset-sound-system-halloween-costume-boat-after-party-2026-ticke
- ts-2003367269432\nDetails: https://dothebay.com/events/2026/10/25/sunset-s
- ound-system-halloween-costume-boat-after-party-2026-tickets\nSource: DoThe
- Bay
+ \nDetails: https://dothebay.com/events/2026/10/25/sunset-sound-system-hall
+ oween-costume-boat-after-party-2026-tickets\nSource: DoTheBay
 GEO:37.7674263;-122.4062869
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34967568/5ba489b9-4b09-4dda-a294-553967f3a1dc.png
-LAST-MODIFIED:20261015T170721Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:The Great Northern\, 119 Utah Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/sunset-sound-system-halloween-c
@@ -6966,6 +6963,27 @@ LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/24/el-grupo-de-apoyo-latino-ticket
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leisure
+DTSTART;TZID=America/Los_Angeles:20261225T210000
+DTEND;TZID=America/Los_Angeles:20261225T230000
+DTSTAMP:20261026T131406Z
+UID:dothebay-17904889@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Leisure\n\nCat Club\n\n1190 Folsom\n\n21+ | 9PM-2AM | $10\n\n$
+ 10\n\nTickets: https://www.sfcatclub.com/calendar/102524-j3x6n-b2r5z-6w9gc
+ -4lrbd-fhj2c-bwfg8-s4gwe-ct3py-lpc9r-yhg8z-2erjn-f9rw7-ncm8k-t878g-hjxr9-j
+ glk9-c2hh9-7n5tf-2tcgm-sgdab-ss9h4-a4ars-n28ay-zrbh9-rsk6d-lpm6s\nDetails:
+  https://dothebay.com/events/2026/12/25/leisure-tickets\nSource: DoTheBay
+GEO:37.77541739999999;-122.409985
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34718005/85b64954-3fc3-4e7d-afe7-5635d13e7d05.jpg
+LAST-MODIFIED:20261026T131406Z
+LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/25/leisure-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Prince vs. Michael Jackson DJ Party (NoPa)

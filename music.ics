@@ -40,24 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Dimensions
-DTSTART;TZID=America/Los_Angeles:20261018T220000
-DTEND;TZID=America/Los_Angeles:20261019T000000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17431813@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:Free\n\nDetails: https://dothebay.com/events/2026/10/18/dimens
- ions-tickets\nSource: DoTheBay
-GEO:37.7552647;-122.4193588
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32478926/456f4a28-1728-4ae0-850c-3a96c33f37d5.jpg
-LAST-MODIFIED:20261019T210249Z
-LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/dimensions-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:almost monday
 DTSTART;TZID=America/Los_Angeles:20261019T190000
 DTEND;TZID=America/Los_Angeles:20261019T210000
@@ -2183,19 +2165,17 @@ BEGIN:VEVENT
 SUMMARY:InterMusic SF
 DTSTART;TZID=America/Los_Angeles:20261025T120000
 DTEND;TZID=America/Los_Angeles:20261025T140000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17929643@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Free\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%
- 2Fwww.eventbrite.com%2Fe%2Fsf-music-day-2026-tickets-1996763292760\nDetail
- s: https://dothebay.com/events/2026/10/25/intermusic-sf-tickets\nSource: D
- oTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sf-music-day-2026-20
- -free-live-concerts-san-francisco-war-memorial/
+DESCRIPTION:Free\n\nDetails: https://dothebay.com/events/2026/10/25/interm
+ usic-sf-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funchea
+ p.com/sf-music-day-2026-20-free-live-concerts-san-francisco-war-memorial/
 GEO:37.7795732;-122.42101
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34833327/ac4a9dbd-4f90-447b-991b-adedd9b8cb18.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:War Memorial Veterans Building\, SF\, 401 Van Ness Avenue\, San F
  rancisco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -2205,9 +2185,9 @@ BEGIN:VEVENT
 SUMMARY:SF Music Day
 DTSTART;TZID=America/Los_Angeles:20261025T120000
 DTEND;TZID=America/Los_Angeles:20261025T140000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17929895@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:InterMusic SF proudly announces the 19th year of SF Music Day\
  , taking place Sunday\, October 25\, 2026\, at the San Francisco War Memor
@@ -2227,15 +2207,13 @@ DESCRIPTION:InterMusic SF proudly announces the 19th year of SF Music Day\
  nNippon Kobo\nPawlik-Zwiebel Duo\nQuinteto Latino\nRaffi Garabedian Quarte
  t\nRova Saxophone Quartet\nSan Francisco Chamber Orchestra\nSixEight: Macl
  auchlan & Quale\nSundra Manning Organ Quintet\nThe Sampaguitas\nTrillian W
- elch\n\nFree\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fww
- w.eventbrite.com%2Fe%2Fsf-music-day-2026-tickets-1996763292760\nDetails: h
- ttps://dothebay.com/events/2026/10/25/sf-music-day-tickets\nSource: DoTheB
- ay\n\nAlso listed on:\n- https://sf.funcheap.com/sf-music-day-2026-20-free
- -live-concerts-san-francisco-war-memorial/
+ elch\n\nFree\n\nDetails: https://dothebay.com/events/2026/10/25/sf-music-d
+ ay-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com
+ /sf-music-day-2026-20-free-live-concerts-san-francisco-war-memorial/
 GEO:37.7795732;-122.42101
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34834491/6e66a828-96c1-49b5-8726-5165df50d183.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:War Memorial Veterans Building\, 401 Van Ness Ave #110\, San Fran
  cisco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -2405,9 +2383,9 @@ BEGIN:VEVENT
 SUMMARY:Joy Oladokun
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17666275@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment presents\nThe Heavy Things Tour\n
  Joy Oladokun\nSunday\, October 25 | The Castro\n\nJoy Oladokun is one of t
@@ -2431,16 +2409,12 @@ DESCRIPTION:Another Planet Entertainment presents\nThe Heavy Things Tour\n
  her next chapter by bringing an even broader\, bolder sound to the table\,
   continuing to prove herself as an artist who not only bends genre but b..
  .\n\nall ages\nAnother Planet Entertainment presents: The Heavy Things Tou
- r\nListed time is doors\n\nTickets: https://ticketmaster.evyy.net/c/253185
- /264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjoy-o
- ladokun-the-heavy-things-tour-san-francisco-california-10-25-2026%2Fevent%
- 2F1C0064F7E974D20F%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherpla
- net\nDetails: https://dothebay.com/events/2026/10/25/joy-oladokun-tickets\
- nSource: DoTheBay
+ r\nListed time is doors\n\nDetails: https://dothebay.com/events/2026/10/25
+ /joy-oladokun-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33590704/fd22397d-9e46-4183-a8f3-b0e1ad5e9995.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/joy-oladokun-tickets
@@ -2449,20 +2423,17 @@ BEGIN:VEVENT
 SUMMARY:Doja Cat
 DTSTART;TZID=America/Los_Angeles:20261025T193000
 DTEND;TZID=America/Los_Angeles:20261025T213000
-DTSTAMP:20261019T210249Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17946063@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Tour Ma Vie World Tour\nDoja Cat\nSunday\, October 25 | Chase 
- Center\n\nTour Ma Vie World Tour\n\nTickets: https://ticketmaster.evyy.net
- /c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.co
- m%2Fdoja-cat-tour-ma-vie-world-san-francisco-california-10-25-2026%2Fevent
- %2F1C0063390D157FFD\nDetails: https://dothebay.com/events/2026/10/25/doja-
- cat-tour-ma-vie-world-tour-tickets\nSource: DoTheBay
+ Center\n\nTour Ma Vie World Tour\n\nDetails: https://dothebay.com/events/2
+ 026/10/25/doja-cat-tour-ma-vie-world-tour-tickets\nSource: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34910023/9d548dcb-30cf-4841-b3c6-004d1d99a8d2.png
-LAST-MODIFIED:20261019T210249Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/doja-cat-tour-ma-vie-world-tour
@@ -2472,9 +2443,9 @@ BEGIN:VEVENT
 SUMMARY:Guajirón: Cuban Jam & Salsa Night
 DTSTART;TZID=America/Los_Angeles:20261025T193000
 DTEND;TZID=America/Los_Angeles:20261025T213000
-DTSTAMP:20261025T163045Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17989183@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Presented by Guajirón\nCuban Jam & Salsa Night\nSunday\, Octo
  ber 25\, 2026 | Boom Boom Room\nDance salsa to live Cuban music with Guaji
@@ -2484,16 +2455,14 @@ DESCRIPTION:Presented by Guajirón\nCuban Jam & Salsa Night\nSunday\, Octo
  isco\, CA 94115\nThis is a last-Sunday-of-the-month residency. Upcoming da
  tes are November 29 and December 27\, 2026\, and January 31\, 2027\, start
  ing at 7:30 p.m. Pacific.\nOfficial details and upcoming dates | Free RSVP
- \nImage credit: Guajirón.\n\nFree\nGuajirón\n\nTickets: https://consumer
- .pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fboom-boom-room-cub
- an-jam-tickets-2001029081850\nDetails: https://dothebay.com/events/2026/10
- /25/guajiron-cuban-jam-salsa-night-tickets\nSource: DoTheBay\n\nAlso liste
- d on:\n- https://sf.funcheap.com/free-cuban-jam-salsa-night-guajirn-boom-b
- oom-room/
+ \nImage credit: Guajirón.\n\nFree\nGuajirón\n\nDetails: https://dothebay
+ .com/events/2026/10/25/guajiron-cuban-jam-salsa-night-tickets\nSource: DoT
+ heBay\n\nAlso listed on:\n- https://sf.funcheap.com/free-cuban-jam-salsa-n
+ ight-guajirn-boom-boom-room/
 GEO:37.78460570000001;-122.4332024
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35109558/4251ee68-2f16-469e-bd7e-83a3c1019e4f.jpg
-LAST-MODIFIED:20261025T163045Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:Boom Boom Room\, 1601 Fillmore Street\, San Francisco\, CA\, 9411
  5
 TRANSP:TRANSPARENT
@@ -2504,21 +2473,18 @@ BEGIN:VEVENT
 SUMMARY:Kishi Bashi
 DTSTART;TZID=America/Los_Angeles:20261025T200000
 DTEND;TZID=America/Los_Angeles:20261025T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17133596@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Sonderlust 10th Anniversary Tour\nKishi Bashi\nSunday\, Octobe
- r 25 | The Fillmore\n\nSonderlust 10th Anniversary Tour\n\nTickets: https:
- //ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2
- F%2Fwww.ticketmaster.com%2Fkishi-bashi-sonderlust-10th-anniversary-tour-sa
- n-francisco-california-10-25-2026%2Fevent%2F1C006470E74207E3\nDetails: htt
- ps://dothebay.com/events/2026/10/25/kishi-bashi-sonderlust-10th-anniversar
- y-tour-tickets\nSource: DoTheBay
+ r 25 | The Fillmore\n\nSonderlust 10th Anniversary Tour\n\nDetails: https:
+ //dothebay.com/events/2026/10/25/kishi-bashi-sonderlust-10th-anniversary-t
+ our-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31073901/db240fe9-3306-4d86-bdd9-cb59639df0c8.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/kishi-bashi-sonderlust-10th-ann
@@ -2528,21 +2494,20 @@ BEGIN:VEVENT
 SUMMARY:Castle\, Nite\, Three Towers
 DTSTART;TZID=America/Los_Angeles:20261025T200000
 DTEND;TZID=America/Los_Angeles:20261025T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17409661@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Sun\n\nday October 25\n2026\n\n8:00PM\n\ndoors\n\n-- music at 
  8\n\n:30PM\n\n21 AND OVER\n\n$\n\n15\n\nin\nadvance\n\n/\n$18\n\nat the do
  or\n\n$19.81 in advance [15 face value +4.81 service fee]\n\nCastle\n\nRec
  ord release\n\ndoom metal\, stoner metal\n\nNite\n\nblack metal doom\n\nTh
- ree Towers\n\nstoner thrash metal\n\nTickets: http://www.bottomofthehill.c
- om/stubmatic/event20261025.html\nDetails: https://dothebay.com/events/2026
- /10/25/castle-nite-three-towers-tickets\nSource: DoTheBay
+ ree Towers\n\nstoner thrash metal\n\nDetails: https://dothebay.com/events/
+ 2026/10/25/castle-nite-three-towers-tickets\nSource: DoTheBay
 GEO:37.7649597;-122.3964408
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32367556/83383947-3f13-4dd0-af85-50366db3c728.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:Bottom Of The Hill\, 1233 17th Street\, San Francisco\, CA\, 9410
  7
 TRANSP:TRANSPARENT
@@ -2553,21 +2518,17 @@ BEGIN:VEVENT
 SUMMARY:Balthvs
 DTSTART;TZID=America/Los_Angeles:20261025T200000
 DTEND;TZID=America/Los_Angeles:20261025T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17468854@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
- to show.\n\n21+\nAnother Planet Entertainment Presents\n\nTickets: https:/
- /ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F
- %2Fwww.ticketweb.com%2Fevent%2Fbalthvs-the-independent-tickets%2F14975903%
- 3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom
- %3DCFC_BUYAT_234705\nDetails: https://dothebay.com/events/2026/10/25/balth
- vs-tickets\nSource: DoTheBay
+ to show.\n\n21+\nAnother Planet Entertainment Presents\n\nDetails: https:/
+ /dothebay.com/events/2026/10/25/balthvs-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32654167/54ecec8e-b01e-4285-b66f-a7252224a827.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -2577,20 +2538,17 @@ BEGIN:VEVENT
 SUMMARY:Lil Pete
 DTSTART;TZID=America/Los_Angeles:20261025T200000
 DTEND;TZID=America/Los_Angeles:20261025T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17752438@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Real Is Back Tour\nLil Pete\nSunday\, October 25 | August Hall
- \n\nAll Ages\nSold out\nReal Is Back Tour\n\nTickets: https://ticketmaster
- .evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticket
- master.com%2Flil-pete-real-is-back-tour-san-francisco-california-10-25-202
- 6%2Fevent%2F1C006513C9B2B4B3\nDetails: https://dothebay.com/events/2026/10
- /25/lil-pete-tickets\nSource: DoTheBay
+ \n\nAll Ages\nSold out\nReal Is Back Tour\n\nDetails: https://dothebay.com
+ /events/2026/10/25/lil-pete-tickets\nSource: DoTheBay
 GEO:37.7875878;-122.4096056
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34000223/18515ebd-e7de-45f3-b262-37e9a6ed03b1.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/lil-pete-tickets
@@ -2599,16 +2557,16 @@ BEGIN:VEVENT
 SUMMARY:DIMENSIONS w/ DJ 2NITE
 DTSTART;TZID=America/Los_Angeles:20261025T220000
 DTEND;TZID=America/Los_Angeles:20261026T000000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261026T131406Z
 UID:dothebay-17431819@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
- ebay.com/events/2026/10/25/dimensions-w-dj-2nite-tickets\nSource: DoTheBay
+DESCRIPTION:Free\n\nDetails: https://dothebay.com/events/2026/10/25/dimens
+ ions-w-dj-2nite-tickets\nSource: DoTheBay
 GEO:37.7552647;-122.4193588
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32478931/3a93ff7e-62b6-4938-a8a4-1c02acdd03d7.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261026T131406Z
 LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/25/dimensions-w-dj-2nite-tickets
@@ -13216,6 +13174,24 @@ LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/24/p-l-a-y-e-r-s-l-a-y-o-v-e-r-tic
  kets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soul Finger
+DTSTART;TZID=America/Los_Angeles:20261225T180000
+DTEND;TZID=America/Los_Angeles:20261225T200000
+DTSTAMP:20261026T131406Z
+UID:dothebay-17686352@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
+ ebay.com/events/2026/12/25/soul-finger-tickets\nSource: DoTheBay
+GEO:37.7552647;-122.4193588
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33677016/bfbe8b3a-f067-4b08-b7ad-52ff80667d8b.jpg
+LAST-MODIFIED:20261026T131406Z
+LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/25/soul-finger-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daft Disko: New Years Eve
