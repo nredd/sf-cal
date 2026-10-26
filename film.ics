@@ -40,71 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Immersive Story Club
-DTSTART;TZID=America/Los_Angeles:20261018T143000
-DTEND;TZID=America/Los_Angeles:20261018T163000
-DTSTAMP:20261025T231942Z
-UID:funcheap-1642161@sf-cal
-SEQUENCE:0
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerImmersive Story ClubImmersive 
- Story Club is a regular gathering out of Gray Area theater (with pop ups a
- round the world)\, that invites a gather around poetic XR. Art\, animation
- \, documentary — this project is possible thanks to Agog Immersive Insti
- tute.\n​Indie artist Mélodie Mousset has agreed to allow her work to co
- me to ISC.\nLeading up to this gathering\, look for instances of care or l
- ack of care. Come open minded\, prepared to reflect and write. Bonus if yo
- u bring a friend <3\n\nFree\n\nTickets: https://luma.com/6rcp2b56\nDetails
- : https://sf.funcheap.com/immersive-story-club/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/ISC_Sq
- uare-12.png
-LAST-MODIFIED:20261025T231942Z
-LOCATION:Gray Area Art & Technology Theater\, 2665 Mission Street\, San Fr
- ancisco\, CA\,
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/immersive-story-club/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Media Meltdown presents: Cemetery Man
-DTSTART;TZID=America/Los_Angeles:20261018T193000
-DTEND;TZID=America/Los_Angeles:20261018T213000
-DTSTAMP:20261019T210249Z
-UID:dothebay-17872297@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:DELLAMORTE DELLAMORE: CEMETERY MAN (1994)\n\nId give my life t
- o be dead From director Michele Soavi (The Church\, Stage Fright) comes a 
- macabre masterpiece\, 1994s CEMETERY MAN\, also known aptly as DELLAMORTE 
- DELLAMORE (Of Death\, Of Love). This Italian-French-German co-production s
- tars British actor Rupert Everett (My Best Friends Wedding) as Franceso De
- llamorte\, a graveyard keeper tasked with putting the dead that rise each 
- night. Despite his gristly job\, Dellamorte is a romantic at heart. But is
-  he free to find love\, or is fate bound to something far darker? And what
-  does the Angel of Death have to do with all of it? Inspired by Tziano Scl
- avis novel Dellamorte Dellamore and his comic character Dylan Dog (who was
-  visually based on Everett)\, this film is equal parts scary\, comedic\, a
- nd sexy\, with surprising surreal and philosophical developments as the pl
- ot develops. A must see film\, straight from the cold expanse of Hell to r
- ing in Halloween!\n\nMEDIA MELTDOWN MOVIE MADHOUSE\n\nGender jesters Piran
- ha Psychotronica and Kafka X bring you a new experience in cinematic depra
- vity Media Meltdown Movie Madhouse! Prepare yourself to enter into a world
-  of face-flaying forgotten and forsaken films Made-for-TV\, Direct-to-Vide
- o\, VCR games\, underground cinema\, and more wiley weirdness than your mi
- nds can handle! In a world dominated by AI\, CGI\, mega streaming platform
- s\, and cinematic universes\, Media Meltdown celebrates the amateur\, the 
- low-budget\, the handmade\, the experimental\, and the weird!...\n\nDetail
- s: https://dothebay.com/events/2026/10/18/media-meltdown-presents-cemetery
- -man-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34566181/a39211f7-37d4-438c-a3ab-6ed5cc43e5c3.jpg
-LAST-MODIFIED:20261019T210249Z
-LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
-  Francisco\, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/18/media-meltdown-presents-cemeter
- y-man-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yuri!!! on Ice (Subtitled)
 DTSTART;TZID=America/Los_Angeles:20261019T190000
 DTEND;TZID=America/Los_Angeles:20261019T210000
@@ -2518,6 +2453,42 @@ LOCATION:Koret Auditorium\, San Francisco Main Library\, 100 Larkin St\, S
  an Francisco\, CA 94102\, SAN FRANCISCO\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/1/film-kikuyu-land-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Screening: Kikuyu Land
+DTSTART;TZID=America/Los_Angeles:20261101T140000
+DTEND;TZID=America/Los_Angeles:20261101T160000
+DTSTAMP:20261026T045612Z
+UID:dothebay-17996536@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Watch a special screening of Kikuyu Land\, a new documentary c
+ o-directed by Emmy Award-winner Andrew H. Brown and Nairobi journalist Bea
+  Wangondu. Released in January 2026\, the documentary has been nominated f
+ or awards at Sundance Film Festival\, Seattle International Film Festival 
+ and The Hague Movies that Matter Festival.\n\nSet in Kenya's tea highlands
+ \, the documentary follows Mr. Mungai\, a local claimant pursuing justice 
+ for land taken from his family. What begins as a personal claim soon revea
+ ls a deeper web of historical erasure\, as his fight brings him into confl
+ ict with a powerful multinational corporation still operating on contested
+  ground. As Mungai's case gains momentum\, it draws in Bea\, a local news 
+ producer\, whose investigation uncovers buried histories and long-silenced
+  family truths. Their paths expose how the legacy of the empire continues 
+ to shape lives in the present. Running alongside this struggle is the stor
+ y of Stephen\, the son of a tea worker\, whose childhood unfolds within th
+ e very plantations at the center of the dispute. His daily life makes clea
+ r that this history is not in the past but ongoing.\n\nFree\n\nPresented b
+ y San Francisco Public Library\n\nFree\nSan Francisco Public Library\n\nTi
+ ckets: https://on.sfpl.org/KikuyuLand\nDetails: https://dothebay.com/event
+ s/2026/11/1/film-screening-kikuyu-land-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35136488/db08547a-27a4-4424-b704-be109468550c.jpg
+LAST-MODIFIED:20261026T045612Z
+LOCATION:Koret Auditorium (SF Public Library)\, 100 Larkin St\, San Franci
+ sco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/1/film-screening-kikuyu-land-ticke
+ ts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Labyrinth
