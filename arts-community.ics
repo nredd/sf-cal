@@ -41,35 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Monday Yoga
-DTSTART;TZID=America/Los_Angeles:20261019T120000
-DTEND;TZID=America/Los_Angeles:20261019T140000
-DTSTAMP:20261020T084210Z
-UID:dothebay-17764327@sf-cal
-SEQUENCE:1
-CATEGORIES:Variety
-DESCRIPTION:Join our Monday yoga series on the Back Plaza\, with beautiful
-  and peaceful views overlooking the Bay!\n\nAn hour of yoga during your lu
- nch hour is a great way to get out of your office\, love your body in comm
- unity\, reconnect to your breath\, listen to soulful tunes\, and recharge 
- your energy for the day. We’re so glad you choose to spend this precious
-  time with us!\n\nThis vinyasa yoga classes combine accessible and creativ
- e flows\, dynamic stretching\, and core work. All-levels flow moves at a s
- teady\, accessible pace so you can slow down\, connect to each movement an
- d breath\, while still offering some challenge. Headphones are provided to
-  create an immersive sound experience\, so it’s easy to hear the teacher
- \, to stay present with the practice\, and to enjoy a mix of zen and fun s
- oulful beats!\n\nPlease bring your own mat.\n\nDetails: https://dothebay.c
- om/events/2026/10/19/monday-yoga-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34055890/029419c8-fa88-4840-85ce-8122a94e2d19.jpg
-LAST-MODIFIED:20261020T084210Z
-LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
- 11
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/19/monday-yoga-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Family Offices & LP Dinner – ATIF Side Event
 DTSTART;TZID=America/Los_Angeles:20261019T170000
 DTEND;TZID=America/Los_Angeles:20261019T200000
@@ -4360,12 +4331,12 @@ URL:https://dothebay.com/events/2026/10/29/bug-s-eye-view-online-event-tic
  kets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Costume Portrait Party
+SUMMARY:Costumed Portrait Party
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T210000
-DTSTAMP:20261025T205626Z
+DTSTAMP:20261026T203423Z
 UID:dothebay-17980097@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Arts & Family
 DESCRIPTION:Jean Henry's monthly Creative Workshop series\, invites attend
  ees to schedule conscious time to work their creative muscles - being pres
@@ -4385,7 +4356,7 @@ DESCRIPTION:Jean Henry's monthly Creative Workshop series\, invites attend
  p.com/costumed-portrait-party/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35070016/aad32ae9-9a1e-44c6-a809-d878ced74a16.jpg
-LAST-MODIFIED:20261025T205626Z
+LAST-MODIFIED:20261026T203423Z
 LOCATION:Jean Henry School of Art\, 2640 Ocean Avenue  \, San Francisco\, 
  CA\, 94132
 TRANSP:TRANSPARENT
@@ -10827,27 +10798,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/flashback-fridays-presented-by-
  greatest-hits-103-7-at-the-safeway-holiday-ice-rink-in-union-square-ticket
  s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chandigarh Food Festival
-DTSTART;TZID=America/Los_Angeles:20261128T080000
-DTEND;TZID=America/Los_Angeles:20261128T170000
-DTSTAMP:20261026T131406Z
-UID:caldiscovery-festival-a6c221e644421e1d@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,food
-DESCRIPTION:Experience the Chandigarh Food Festival! Taste a delicious num
- ber of local and international cuisines while enjoying live performances a
- nd cooking demos. Join us for a weekend of flavors and fun!\n\nPublished b
- y The Events Calendar Addons\nContains information from CalDiscovery (cald
- iscovery.com)\, ODbL 1.0\n\nDetails: https://eventscalendaraddons.com/even
- t/chandigarh-food-festival/?utm_source=caldiscovery&utm_medium=ics&utm_cam
- paign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261026T131406Z
-LOCATION:Plaza\, Sector 17\, chandigarh\, Chandigarh\, 160001\, India
-TRANSP:TRANSPARENT
-URL:https://eventscalendaraddons.com/event/chandigarh-food-festival/?utm_s
- ource=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MANGO! Every 4th Saturday 2-8pm!

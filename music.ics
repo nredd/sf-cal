@@ -3978,19 +3978,23 @@ BEGIN:VEVENT
 SUMMARY:FRNDS Only Halloween
 DTSTART;TZID=America/Los_Angeles:20261030T210000
 DTEND;TZID=America/Los_Angeles:20261030T230000
-DTSTAMP:20261024T044458Z
+DTSTAMP:20261026T203423Z
 UID:dothebay-17987921@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:FRNDS Only Halloween\nFriday\, October 30 | 1015 Folsom\n\nThe
   ultimate Halloween bash! Costumes\, fun\, your favorite anthems\, & more!
- \n\n21+ event with valid ID.\n\n21+\n\nTickets: https://posh.vip/e/frnds-o
- nly-halloween-san-francisco-3?t=15\nDetails: https://dothebay.com/events/2
- 026/10/30/frnds-only-halloween-san-francisco-tickets\nSource: DoTheBay
+ \n\nBAY AREA GET READY FOR THE ULTIMATE NIGHT OF SPOOKY FUN!\n\nOur Super 
+ Bowl takeover of 1015 Folsom was so epic we had to run it back! Join us Fr
+ iday night of Halloweekend for your favorite anthems\, games\, & a whole l
+ otta frnds.\n\n21+ event with valid ID.\n\n21+\n\nTickets: https://posh.vi
+ p/e/frnds-only-halloween-san-francisco-3?t=15\nDetails: https://dothebay.c
+ om/events/2026/10/30/frnds-only-halloween-san-francisco-tickets\nSource: D
+ oTheBay
 GEO:37.7781117;-122.4058001
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35103238/07cf78cc-f2c0-4133-92a3-ab2461f98ffe.png
-LAST-MODIFIED:20261024T044458Z
+LAST-MODIFIED:20261026T203423Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/frnds-only-halloween-san-franci
@@ -6116,6 +6120,33 @@ LAST-MODIFIED:20261021T171908Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/pura-saturdays-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blvk h3ro\, with DJ Sep\, Irie Dole\, Guidance
+DTSTART;TZID=America/Los_Angeles:20261108T120000
+DTEND;TZID=America/Los_Angeles:20261108T140000
+DTSTAMP:20261026T203423Z
+UID:dothebay-17998396@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Blvkh3ro is wrapping up his West Coast tour with a free show\n
+ at San Francisco’s historic Golden Gate Park Bandshell. This is a full d
+ ay\nspecial event\, starting at noon with some of the city’s best select
+ ors\, then\nthe big show at 4:20\, alongside Crucial Reggae Sundays reside
+ nts Irie Dole\,\nGuidance\, and DJ Sep. Bring some canned goods for the SF
+ -Marin Food Bank’s holiday\nfood drive.\n#Blvkh3ro #strictlygoodvibestou
+ r # CrucialReggaeSundays\n\nFree\nCrucial Reggae Sundays\n\nTickets: https
+ ://www.instagram.com/crucialreggaesundayssf/p/De9fK9LxvtF/\nDetails: https
+ ://dothebay.com/events/2026/11/8/blvk-h3ro-with-dj-sep-irie-dole-guidance-
+ tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35146677/b82e8743-44d0-4cc7-bb3a-1ba5c6353de7.jpg
+LAST-MODIFIED:20261026T203423Z
+LOCATION:Golden Gate Park Bandshell in SF\, 75 Hagiwara Tea Garden Drive\,
+  San Francisco\, CA\, 94118
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/8/blvk-h3ro-with-dj-sep-irie-dole-
+ guidance-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco Diwali Festival at Yerba Buena Gardens 2026
