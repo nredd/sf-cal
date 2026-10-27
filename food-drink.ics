@@ -40,6 +40,35 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Erin French with Tanya Holland – The Lost Kitchen Volume 3
+DTSTART;TZID=America/Los_Angeles:20261020T130000
+DTEND;TZID=America/Los_Angeles:20261020T160000
+DTSTAMP:20261027T222129Z
+UID:funcheap-1637643@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerWe are honored to welcome Erin
+  French to Calvary Presbyterian for an afternoon celebrating the release o
+ f The Lost Kitchen Volume 3: Seize the Supper.\nThe stunning third volume 
+ in The Lost Kitchen cookbook series from Erin French\, award-winning resta
+ urant founder and New York Times-bestselling author of Finding Freedom\, T
+ he Lost Kitchen\, and Big Heart Little Stove\nErin will be joined in conve
+ rsation by Tanya Holland\, the author of Tanya Holland’s California Soul
+ : Recipes from a Culinary Journey West [A Cookbook].\nPresented in partner
+ ship with Calvary Presbyterian San Francisco\n\n$46.00\n\nTickets: https:/
+ /bookpassage.com/event/erin-french-lost-kitchen-volume-3\nDetails: https:/
+ /sf.funcheap.com/erin-french-tanya-holland-lost-kitchen-volume-3/\nSource:
+  Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Erin-F
+ rench-400-x-580-px-1.png
+LAST-MODIFIED:20261027T222129Z
+LOCATION:Calvary Presbyterian Church\, 2515 Fillmore Street (at Jackson) S
+ an Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/erin-french-tanya-holland-lost-kitchen-volume-
+ 3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pumpkin Paints Pots + Pints for Ruth Bancroft Garden (Berkeley)
 DTSTART;TZID=America/Los_Angeles:20261020T170000
 DTEND;TZID=America/Los_Angeles:20261020T180000
