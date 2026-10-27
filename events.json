@@ -4212,6 +4212,28 @@
   },
   {
    "source": "city-hall-lights-ics",
+   "source_id": "986aab3a07cf9fe2",
+   "title": "CHC: green",
+   "start": "2026-10-28T00:00:00-07:00",
+   "end": "2026-10-29T00:00:00-07:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "National Immigrants Day",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "city-hall-lights-ics",
    "source_id": "e8eb38f0447e2649",
    "title": "CHC: orange",
    "start": "2026-10-31T00:00:00-07:00",
@@ -4230,33 +4252,6 @@
    "description": "Halloween",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17354894",
-   "title": "San Francisco 49ers vs. Washington Commanders",
-   "start": "2026-10-19T17:15:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Levi's Stadium",
-   "address": "4900 Marie P. DeBartolo Way, Santa Clara, CA, 95054",
-   "locality": "Santa Clara",
-   "geo": [
-    37.402317,
-    -121.9689954
-   ],
-   "url": "https://dothebay.com/events/2026/10/19/san-francisco-49ers-vs-washington-commanders-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Flex Schedule: Please be aware that there are certain games that are subject to flexible scheduling and the date and time of those games may be changed from what is currently reflected on the schedule and what may appear on the ticket. For more detailed information about NFL flexible scheduling procedures for the 2026 NFL Season, please visit: https://www.nfl.com/ways-to-watch/flexible-scheduling-procedures",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32104134/dbf28b0b-2398-4797-b115-c207ea72828f.jpg",
-   "categories": [
-    "Sports"
-   ],
    "notes": []
   },
   {
@@ -16459,6 +16454,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17998086",
+   "title": "BOUNCE: Valkyries Finals Watch Party",
+   "start": "2026-10-29T09:30:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "KALW @ 220 Montgomery",
+   "address": "220 Montgomery St, San Francisco, CA, 94104",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/29/bounce-valkyries-finals-watch-party-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbounce-valkyries-finals-watch-party-tickets-2003896585631%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue",
+   "price_text": "Free",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Watch the Valkyries in the playoffs with the team from BOUNCE this Wednesday at 9:30 AM with free food from Joyride Pizza at halftime! Bring your friends, meet fellow fans, and sound off at the breaks about why the Valkyries matter to you and our community. It’s all happening this Thursday, October 29, at KALW’s live event space at 220 Montgomery in Downtown San Francisco.\n\nCome at 9:00 for the pre-party, the Made in This Place art show, and drinks for donation.\n\nAbout BOUNCE\n\"BOUNCE: The Rise of Women's Professional Sports\" is a sound-rich, timely, weekly podcast. It follows the nationally award-winning \"BOUNCE: The Warriors Last Season in Oakland.\" It's tracing the origin and evolution of Ballhalla as it unfolds in real time. It also includes features contextualizing this historical moment in women's sports and what it means to people in the Bay Area.\n\nThere is a $10 - $20 sliding scale suggested donation for this event. Nobody will be turned away for lack of funds.\nPlease become a KALW member today and receive your first drink on us at all 220 Montgomery events.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35144054/db1a259d-0d86-4ea8-b568-6a54783477ee.jpg",
+   "categories": [
+    "Sports"
+   ],
+   "notes": [
+    "KALW Public Media"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17972230",
    "title": "D.C. Check-In with Congressman Kevin Mullin (Oct. 29)",
    "start": "2026-10-29T10:00:00-07:00",
@@ -16606,32 +16627,6 @@
    ],
    "notes": [
     "Margaret Timbrell"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17998086",
-   "title": "BOUNCE: Valkyries Finals Watch Party",
-   "start": "2026-10-29T17:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "KALW @ 220 Montgomery",
-   "address": "220 Montgomery St, San Francisco, CA, 94104",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/29/bounce-valkyries-finals-watch-party-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbounce-valkyries-finals-watch-party-tickets-2003896585631%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue",
-   "price_text": "Free",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Watch the Valkyries in the playoffs with the team from BOUNCE this Wednesday at 7 PM with free food from Joyride Pizza at halftime! Bring your friends, meet fellow fans, and sound off at the breaks about why the Valkyries matter to you and our community. It’s all happening this Thursday, October 29, at KALW’s live event space at 220 Montgomery in Downtown San Francisco.\n\nCome at 4:30 for the pre-party, the Made in This Place art show, and drinks for donation.\n\nAbout BOUNCE\n\n\"BOUNCE: The Rise of Women's Professional Sports\" is a sound-rich, timely, weekly podcast. It follows the nationally award-winning \"BOUNCE: The Warriors Last Season in Oakland.\" It's tracing the origin and evolution of Ballhalla as it unfolds in real time. It also includes features contextualizing this historical moment in women's sports and what it means to people in the Bay Area.\n\nThere is a $10 - $20 sliding scale suggested donation for this event. Nobody will be turned away for lack of funds.\n\nPlease become a KALW member today and receive your first drink on us at all 220 Montgomery events.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35144054/db1a259d-0d86-4ea8-b568-6a54783477ee.jpg",
-   "categories": [
-    "Sports"
-   ],
-   "notes": [
-    "KALW Public Media"
    ]
   },
   {
@@ -17933,6 +17928,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17861830",
+   "title": "swedm® (Varg2TM & jamesjamesjames)",
+   "start": "2026-10-29T22:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Great Northern",
+   "address": "119 Utah Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7674263,
+    -122.4062869
+   ],
+   "url": "https://dothebay.com/events/2026/10/29/swedm-varg2tm-jamesjamesjames-tickets",
+   "ticket_url": "https://www.eventbrite.com/e/swedm-varg2tm-jamesjamesjames-tickets-2001158251199?aff=dothebay",
+   "price_text": "$31.26-$47.31, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Goldenvoice Presents\nswedm® (Varg2TM & jamesjamesjames)\nThursday, October 29 | The Great Northern\n\nVarg2tm and jamesjamesjames bring swedm® to The Great Northern on October 29: European club heritage meets the future-facing underground.\n\nswedm® is a mission statement by Varg²™ and Jamesjamesjames designed to re-animate dancefloors around the world. Together with you, swedm® wants to rekindle the sense of futurism, possibility and unity EDM once represented by re-centering the music.\n\nSupport: Nation\n\nSan Francisco, The Great Northern on October 29th, is waiting for us … <3",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34518148/657138ec-5247-46ca-ba61-7c5a6c3e9ed3.png",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Goldenvoice + The Great Northern Present"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17971152",
    "title": "Dj Jehnee",
    "start": "2026-10-29T22:00:00-07:00",
@@ -18115,6 +18139,30 @@
    "notes": [
     "Saint Marys College of California"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17998887",
+   "title": "Nightmare on Front Street",
+   "start": "2026-10-30T16:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "245 Front St",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/30/nightmare-on-front-street-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fnightmare-on-front-street-tickets-2002671121234%3Faff%3DDoTheBay",
+   "price_text": "Free, All Ages",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Nightmare on Front Street\nFriday, October 30 | 245 Front Street\n\nGet ready for NIGHTMARE on Front STREET! Kicking off Halloween weekend in San Francisco!\n\nGet Ready for Nightmare on Front Street!\n\nKick off Halloween weekend at the Front Street Entertainment Zone with San Francisco’s ultimate Halloween block party!\nCome dressed in your best Halloween costume and get ready to dance all night to some of SF’s best live DJs. Grab a cocktail, hit the dance floor, enjoy great food and take over Front Street for one unforgettable night.\n\nDANCE. DRINK. EAT. PARTY.\n\nDJ lineup coming soon!\nCostumes highly encouraged.\nFREE to attend!\n\nGOOD TO KNOW\n\n245 Front Street between Sacramento Street and California Street.\nJust a short 4-minute walk from the Embarcadero BART/MUNI Station\nAll ages event.\n\nAttendees interested in consuming alcohol (21+) must present a valid ID upon entry. Bikes, strollers, and four-legged fur babies welcome! This is a smoke-free event per SF Health Code, Article 19L.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35149128/13e632a1-0acf-402f-9630-ed228474db86.png",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -20081,6 +20129,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17998800",
+   "title": "Halloween Rave Run",
+   "start": "2026-10-31T11:00:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Avid Sports Medicine",
+   "address": "425 2nd St suite 307, San Francisco, CA, 94107",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/31/halloween-rave-run-tickets",
+   "ticket_url": "https://momence.com/Avid-Sports-Medicine/Halloween-Rave-Run-%F0%9F%8E%83/144178780",
+   "price_text": "$25+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "What happens when a run club and a Halloween day party have a baby? You get the Halloween Rave Run: an unforgettable afternoon of movement, music, costumes, community, and recovery.\n\nJoin Avid Sports Medicine and Dr. Veronica Jow, the SF Rave Doctor, for a joyful, noncompetitive 5K run/walk set to music, followed by a live DJ dance party, beginner-friendly house dance pop-up, and Recovery Lounge. Run it, walk it, dance it, or skip the 5K and come for the party. All paces and all bodies are welcome.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35148615/0bddd1be-35f9-4a25-9b15-d41f7f8205bb.jpg",
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17970003",
    "title": "October 2026 QuaranBOOlooza Livestream Music Fest",
    "start": "2026-10-31T11:30:00-07:00",
@@ -20618,12 +20690,12 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/10/31/pink-flamingo-drag-burlesque-bingo-tickets",
-   "ticket_url": null,
+   "ticket_url": "https://www.facebook.com/events/s/pink-flamingo-drag-burlesque-b/1104051112583091/?mibextid=wwXIfr",
    "price_text": "No Cover",
    "is_free": false,
    "sold_out": false,
-   "description": null,
-   "image_url": null,
+   "description": "Start your Halloween early with a special Halloween edition of Pink Flamingo Bingo — a drag and burlesque bingo show with filth, glamour, prizes and plenty of camp.\n\nNo cover. Free bingo. Costume contest. Drink specials.\nDoors 4:30 PM/Show 5:00 PM\n21+\n\nSponsored by Original Pattern Brewing Company & SF Distilling Company.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35148063/7d5f3482-692b-4b4a-bc82-09e0f5581192.jpg",
    "categories": [
     "Holiday Event"
    ],
@@ -21195,6 +21267,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17998911",
+   "title": "DanceOWeen 2026: Total Flanarchy",
+   "start": "2026-10-31T19:30:00-07:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "16th St Mission BART Station",
+   "address": "2000 Mission St, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/10/31/danceoween-2026-total-flanarchy-tickets",
+   "ticket_url": "https://partiful.com/e/McDwcgosSYxmojaE3S2s",
+   "price_text": "Free, All ages",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Official Flannouncement Video\n\nTOTAL FLANARCHY\n\nFor 364 nights a year, dessert follows the rules.\nOn Halloween night… the desserts rise up.\nDANCEOWEEN IS BACK!\nA roving Halloween dance party through the streets of the Mission. Mobile sound carts, live music, bubbles, absurd costumes, and joy that cannot be contained.\n\nMeet: 16th St BART plaza, 7:30 PM sharp. The mob starts moving soon after!\nRoute: winding through the Mission.\nBring: a costume (required!), comfy dancing shoes, water, something that glows, and your best wobble. Spoons encouraged\n\nWANT TO CONTRIBUTE? DanceoWeen is made by the people who show up.\nDM @danceoween on Instagram if you’ve got:\nA sound cart (or a DJ, band or speaker on wheels) to join the parade\nHelp with traffic blocking, keeping crossings safe so the mob can move\nA fun surprise experience to bring people during the parade or along the route: bubbles, performances, a costume moment, something weird and wonderful\n\nFree · all ages · everyone welcome\nBRING YOUR MAGIC ✨ LOVE OUR CITY ✨ INVITE EVERYONE ✨",
+   "image_url": null,
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17536261",
    "title": "Medium Build",
    "start": "2026-10-31T20:00:00-07:00",
@@ -21330,35 +21426,6 @@
    ],
    "notes": [
     "26th annual Day of the Dead Bash"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17701414",
-   "title": "The Aces",
-   "start": "2026-10-31T20:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "August Hall",
-   "address": "420 Mason St, San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": [
-    37.7875878,
-    -122.4096056
-   ],
-   "url": "https://dothebay.com/events/2026/10/31/introducing-the-aces-gatlin-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fintroducing-the-aces-with-special-guest-san-francisco-california-10-31-2026%2Fevent%2F1C0064FB1539D112",
-   "price_text": "All Ages",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Introducing The Aces Tour\nThe Aces\nwith Gatlin\n\nSaturday, October 31 | August Hall",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33754083/e9f4e4b9-0107-472e-a8c3-5d73d7ccd3fc.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Introducing The Aces Tour"
    ]
   },
   {
@@ -23305,6 +23372,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17998924",
+   "title": "Festival of Altars",
+   "start": "2026-11-02T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Potrero Del Sol Park",
+   "address": "2827 Cesar Chavez Street (San Bruno Ave & 25th St), San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7518579,
+    -122.4042697
+   ],
+   "url": "https://dothebay.com/events/2026/11/2/festival-of-altars-tickets",
+   "ticket_url": "https://www.instagram.com/p/De961D_mTBb/?img_index=3",
+   "price_text": "Free",
+   "is_free": true,
+   "sold_out": false,
+   "description": "As we get closer to the Festival of Altars, we know many of you are preparing your hearts, your stories, and your steps to join us. To help you plan your visit with ease, we’ve gathered answers to some of your most frequently asked questions. Swipe through to find details on timing, location, and how we can collectively honor those who came before us.\n\nGathering Details:\n• November 2nd, 4-10 PM with altar creation beginning at 10 AM\n• Potrero del Sol Park (La Raza) 2827 Cesar Chavez, Street, La Misión, San Francisco,\n• Free and open to everyone in the community\n\nIf there is anything else you need to know, please reach out in the comments.\n\nMay this season of remembrance bring warmth to your home.\n•\nRecordando juntos. Celebrando siempre.\n\nA medida que se acerca el Festival de Altares, sabemos que muchos de ustedes están preparando sus corazones, sus historias y sus pasos para unirse a nosotros. Para ayudarles a planificar su visita con facilidad, hemos recopilado respuestas a algunas de las preguntas más frecuentes. Deslicen para encontrar detalles sobre el horario, la ubicación y cómo podemos honrar colectivamente a quienes nos precedieron.\n\nDetalles del Evento:\n• 2 de noviembre, de 4:00 p. m. a 10:00 p. m., con creación de altares a las 10:00 a. m.\n• Parque Potrero del Sol (La Raza) 2827 Cesar Chavez Street, La Misión, San Francisco\n• Gratuito y abierto a toda la comunidad\n\nSi hay algo más que necesiten saber, por favor dejen su pregunta en los comentarios.\n\nQue esta tempora...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35149547/23649469-d384-4bce-a2f5-f2fc0a7bddfe.jpg",
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17873792",
    "title": "Club Kid, in 35mm",
    "start": "2026-11-02T17:30:00-08:00",
@@ -24100,6 +24194,33 @@
    "notes": [
     "Another Planet Entertainment Presents"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17762777",
+   "title": "Dirk & Amelia Powell",
+   "start": "2026-11-03T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Freight",
+   "address": "2020 Addison St, Berkeley, CA, 94704",
+   "locality": "Berkeley",
+   "geo": [
+    37.8706997,
+    -122.2695537
+   ],
+   "url": "https://dothebay.com/events/2026/11/3/dirk-amelia-powell-tickets",
+   "ticket_url": "https://secure.thefreight.org/16197/16198-dirk-amelia-powell-261103",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Dirk and Amelia Powell are a father and daughter duo with strong roots in the bayous of Louisiana and the mountains of Kentucky. Amelia’s grandfather, Dewey Balfa, was known as a premier Cajun fiddler and cultural ambassador. She grew up experiencing the deep center of that tradition while simultaneously exploring the old-time music of her Appalachian heritage with her father, Dirk, who learned banjo, fiddle, and guitar from his own grandfather, J.C. Hay. Amelia is known for her hard-driving guitar playing and soulful vocals. Dirk has been regarded as a “musician’s musician” for the last several decades. His solo recordings, with a focus on exploring the emotional depth of tradition, have proven very influential on younger generations. He’s been a frequent part of Transatlantic Sessions and toured with artists such as Joan Baez, Eric Clapton, Loretta Lynn, and Rhiannon Giddens. Together, Dirk and Amelia perform music of their heritage, write and craft original songs, and bring audiences the kind of soulful connection that comes from family playing together with trust, humour, and love.\n\nDirk Powell learned banjo from his grandfather in Eastern Kentucky, in a style they called \"overhand\" (otherwise known as clawhammer), and offers perspectives, techniques, and tunes from that tradition. He has spent a lot of time in North Carolina, too, and incorporated the hard-driving sounds of that area into his sound. In his class, he will get into details and approaches that allow the \"ov...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35120847/cc158d8a-d3d5-40ff-a083-f7047ccf89ad.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -25906,6 +26027,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "17999083",
+   "title": "The Nectar",
+   "start": "2026-11-05T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Palace Theater",
+   "address": "644 Broadway St., San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/5/the-nectar-tickets",
+   "ticket_url": "https://www.thepalacetheatersf.com/events/foufouha",
+   "price_text": "$55.50+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Shows at 8 p.m. and 10 p.m.\n\nShow length: 75 minutes.\n\nFeaturing: Maya Culbertson-Lane, Roxy Mirage, Haus of Jubilee, Gracie Brakeman, Livanna Maislen, Rebel Rose, Edie Eve, Autumn Adamme, Tae Mardsen, EK Smith your host Adam Goldthwait\n\nDirected by Maya Culberston-Lane with acts created by members of Fou Fou Ha!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35149690/3e5eeace-71a8-40c8-b4fa-970797e2ba25.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Fou Fou Ha! Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17972317",
    "title": "1984 VS Fringe",
    "start": "2026-11-05T21:00:00-08:00",
@@ -26210,9 +26357,9 @@
    "end": null,
    "all_day": false,
    "bucket": "arts-community",
-   "venue": "KQED LIVE",
-   "address": "The Commons, KQED Headquarters - 2601 Mariposa Street, San Francisco, CA 94110, San Francisco, CA",
-   "locality": "San Francisco",
+   "venue": "The Loom Project",
+   "address": "2150 Livingston Street, Oakland, CA, 94606",
+   "locality": "Oakland",
    "geo": null,
    "url": "https://dothebay.com/events/2026/11/6/destination-cosmos-a-sound-voyage-by-christopher-willits-and-envelop-tickets",
    "ticket_url": "https://www.kqed.org/event/6823/destination-cosmos-an-experiential-sound-voyage-by-christopher-willits-and-envelop",
@@ -88196,6 +88343,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T19:36:03.292649Z"
   },
+  "city-hall-lights-ics-986aab3a07cf9fe2@sf-cal": {
+   "content_hash": "eda25895dab31cbc7af5c4b7221b2753b2198a6262ce7453325df2ed751814d0",
+   "sequence": 0,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
+  },
   "city-hall-lights-ics-a4457d523884f13a@sf-cal": {
    "content_hash": "1649f530b572cb134a1381733bb0623158d388104ff37dc431cbce9ae7464ec0",
    "sequence": 0,
@@ -90541,11 +90693,6 @@
    "sequence": 1,
    "last_modified": "2026-10-22T12:01:38.361786Z"
   },
-  "dothebay-17701414@sf-cal": {
-   "content_hash": "a3dbaa22c967d68adbbc6a629ccbd7dad20c0f07997afd3ce6166bcb31c69f2a",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
   "dothebay-17702483@sf-cal": {
    "content_hash": "4513cbab39b5885af106f60ebbc9ba5d83f213b05ea332c5d3a6ad34f87e082e",
    "sequence": 0,
@@ -92305,6 +92452,11 @@
    "content_hash": "d7c8c92c2b7a7e0ebb75c55535d2cad729bf6c5db94d3bc1aab968adb69e3fde",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
+  },
+  "dothebay-17861830@sf-cal": {
+   "content_hash": "799cad7b48335e59fdf27eb63d92ea84cb44c93277a0a671e818f3d3e881dfe3",
+   "sequence": 0,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
   },
   "dothebay-17861876@sf-cal": {
    "content_hash": "a76efef026045567f53931953a35264b67945a1b31616b8ff9f4c0b30420f757",
@@ -94261,15 +94413,10 @@
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
-  "dothebay-17975060@sf-cal": {
-   "content_hash": "c46031cee175c0b70f64f1587f3e06355309d195d3fea498fbcd6645d55d930a",
-   "sequence": 0,
-   "last_modified": "2026-10-20T19:44:41.088494Z"
-  },
   "dothebay-17975088@sf-cal": {
-   "content_hash": "a1be214efc7c043226983ddad3cd8f60fda49cff79868034a9bd4a87b894e601",
-   "sequence": 0,
-   "last_modified": "2026-10-20T19:44:41.088494Z"
+   "content_hash": "f2387c31b9ed60edab9c4cb558bbd952ded465888bf8be129eda379fa81e8369",
+   "sequence": 1,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
   },
   "dothebay-17975206@sf-cal": {
    "content_hash": "f393936c6674c756e69b0e7fbf838fc669196d394035c333ac40fc5fd6533018",
@@ -94817,9 +94964,9 @@
    "last_modified": "2026-10-26T20:34:23.387246Z"
   },
   "dothebay-17998086@sf-cal": {
-   "content_hash": "9793999fcd64945f345b259e6a88af1d299d63db208138d067f683e0d4142f13",
-   "sequence": 0,
-   "last_modified": "2026-10-26T20:34:23.387246Z"
+   "content_hash": "5a63fe72ef7e851ae7ed3dba00b9809047413233b7b74a2395af207a31a73234",
+   "sequence": 1,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
   },
   "dothebay-17998256@sf-cal": {
    "content_hash": "92419e07db8ccbb7eede307df012ed01a755501d18e93b1144c0776bea12a737",
@@ -94835,6 +94982,31 @@
    "content_hash": "7f4074feb0e42f307fdbd0e99240d2a02de7e123c294ad2774a48d812ba5f108",
    "sequence": 0,
    "last_modified": "2026-10-26T20:34:23.387246Z"
+  },
+  "dothebay-17998800@sf-cal": {
+   "content_hash": "0c5db9bbd5b69a5cdd452b0e2752d3ebc003d30f68c7d88d47b42482b0cff39f",
+   "sequence": 0,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
+  },
+  "dothebay-17998887@sf-cal": {
+   "content_hash": "4c6d65b8cdca3506494948d9281a9574db897a5a488bc9ccb5b569b976d1bd66",
+   "sequence": 0,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
+  },
+  "dothebay-17998911@sf-cal": {
+   "content_hash": "27237edca85ed978298c7d3e3b13ac3f368344a712f0ddae2b103f7d87be1f5c",
+   "sequence": 0,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
+  },
+  "dothebay-17998924@sf-cal": {
+   "content_hash": "dbe0e90d230c10dad0bb85ebebd45642a6c8f37c563e462da9dc0b97cfa1cc17",
+   "sequence": 0,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
+  },
+  "dothebay-17999083@sf-cal": {
+   "content_hash": "0345f25be729b21ef183457a2b2a3ae0d6e70dfe26ed71c5e85f60dc8ce36c93",
+   "sequence": 0,
+   "last_modified": "2026-10-27T00:32:00.629104Z"
   },
   "funcheap-1234124@sf-cal": {
    "content_hash": "8facf467efe8ef6da5d8f69a8f611e5b1ed742535fe4abe31f78778bf449c810",
@@ -97775,11 +97947,6 @@
    "content_hash": "ff18952989afb7ac51b45470807a926f9a0747e1377293468050f535313a0d32",
    "sequence": 0,
    "last_modified": "2026-10-26T20:34:23.387246Z"
-  },
-  "funcheap-776291@sf-cal": {
-   "content_hash": "9007bfccbc3fa7c2dbd8b9888573e5655bc647ee2f1cf28ae2893b7815b089c7",
-   "sequence": 0,
-   "last_modified": "2026-10-21T21:47:59.069720Z"
   },
   "sf-street-events-1365550-2026-10-21T13:00:00-07:00@sf-cal": {
    "content_hash": "afda22f98c0aa0fb04f7843b7993f8c16431774b3b76851c4d519db00cfc7d81",

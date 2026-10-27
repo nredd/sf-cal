@@ -136,6 +136,22 @@ TRANSP:TRANSPARENT
 URL:https://www.sf.gov/location--san-francisco-city-hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHC: green
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261027T003200Z
+UID:city-hall-lights-ics-986aab3a07cf9fe2@sf-cal
+SEQUENCE:0
+DESCRIPTION:National Immigrants Day\n\nDetails: https://www.sf.gov/locatio
+ n--san-francisco-city-hall\nSource: SF City Hall lighting (via Robelius/sf
+ -city-hall-lighting-calendar)
+LAST-MODIFIED:20261027T003200Z
+LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
+ rancisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://www.sf.gov/location--san-francisco-city-hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHC: orange
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101

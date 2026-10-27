@@ -14226,6 +14226,22 @@ URL:https://dothebay.com/events/2026/10/27/rewind-presents-the-craft-ticke
  ts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHC: green
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261027T003200Z
+UID:city-hall-lights-ics-986aab3a07cf9fe2@sf-cal
+SEQUENCE:0
+DESCRIPTION:National Immigrants Day\n\nDetails: https://www.sf.gov/locatio
+ n--san-francisco-city-hall\nSource: SF City Hall lighting (via Robelius/sf
+ -city-hall-lighting-calendar)
+LAST-MODIFIED:20261027T003200Z
+LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
+ rancisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://www.sf.gov/location--san-francisco-city-hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Way Ventures Summit
 DTSTART;TZID=America/Los_Angeles:20261028T060000
 DTEND;TZID=America/Los_Angeles:20261028T210000
@@ -16028,6 +16044,43 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BOUNCE: Valkyries Finals Watch Party
+DTSTART;TZID=America/Los_Angeles:20261029T093000
+DTEND;TZID=America/Los_Angeles:20261029T113000
+DTSTAMP:20261027T003200Z
+UID:dothebay-17998086@sf-cal
+SEQUENCE:1
+CATEGORIES:Sports
+DESCRIPTION:Watch the Valkyries in the playoffs with the team from BOUNCE 
+ this Wednesday at 9:30 AM with free food from Joyride Pizza at halftime! B
+ ring your friends\, meet fellow fans\, and sound off at the breaks about w
+ hy the Valkyries matter to you and our community. It’s all happening thi
+ s Thursday\, October 29\, at KALW’s live event space at 220 Montgomery i
+ n Downtown San Francisco.\n\nCome at 9:00 for the pre-party\, the Made in 
+ This Place art show\, and drinks for donation.\n\nAbout BOUNCE\n"BOUNCE: T
+ he Rise of Women's Professional Sports" is a sound-rich\, timely\, weekly 
+ podcast. It follows the nationally award-winning "BOUNCE: The Warriors Las
+ t Season in Oakland." It's tracing the origin and evolution of Ballhalla a
+ s it unfolds in real time. It also includes features contextualizing this 
+ historical moment in women's sports and what it means to people in the Bay
+  Area.\n\nThere is a $10 - $20 sliding scale suggested donation for this e
+ vent. Nobody will be turned away for lack of funds.\nPlease become a KALW 
+ member today and receive your first drink on us at all 220 Montgomery even
+ ts.\n\nFree\nKALW Public Media\n\nTickets: https://consumer.pxf.io/APvP5J?
+ u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbounce-valkyries-finals-watch-par
+ ty-tickets-2003896585631%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue\nDetails:
+  https://dothebay.com/events/2026/10/29/bounce-valkyries-finals-watch-part
+ y-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35144054/db1a259d-0d86-4ea8-b568-6a54783477ee.jpg
+LAST-MODIFIED:20261027T003200Z
+LOCATION:KALW @ 220 Montgomery\, 220 Montgomery St\, San Francisco\, CA\, 
+ 94104
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/bounce-valkyries-finals-watch-p
+ arty-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D.C. Check-In with Congressman Kevin Mullin (Oct. 29)
 DTSTART;TZID=America/Los_Angeles:20261029T100000
 DTEND;TZID=America/Los_Angeles:20261029T120000
@@ -16316,43 +16369,6 @@ LOCATION:Pacific Felt Factory\, 2830 20th St\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/29/margaret-timbrell-urban-tapestr
  ies-opening-reception-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BOUNCE: Valkyries Finals Watch Party
-DTSTART;TZID=America/Los_Angeles:20261029T170000
-DTEND;TZID=America/Los_Angeles:20261029T190000
-DTSTAMP:20261026T203423Z
-UID:dothebay-17998086@sf-cal
-SEQUENCE:0
-CATEGORIES:Sports
-DESCRIPTION:Watch the Valkyries in the playoffs with the team from BOUNCE 
- this Wednesday at 7 PM with free food from Joyride Pizza at halftime! Brin
- g your friends\, meet fellow fans\, and sound off at the breaks about why 
- the Valkyries matter to you and our community. It’s all happening this T
- hursday\, October 29\, at KALW’s live event space at 220 Montgomery in D
- owntown San Francisco.\n\nCome at 4:30 for the pre-party\, the Made in Thi
- s Place art show\, and drinks for donation.\n\nAbout BOUNCE\n\n"BOUNCE: Th
- e Rise of Women's Professional Sports" is a sound-rich\, timely\, weekly p
- odcast. It follows the nationally award-winning "BOUNCE: The Warriors Last
-  Season in Oakland." It's tracing the origin and evolution of Ballhalla as
-  it unfolds in real time. It also includes features contextualizing this h
- istorical moment in women's sports and what it means to people in the Bay 
- Area.\n\nThere is a $10 - $20 sliding scale suggested donation for this ev
- ent. Nobody will be turned away for lack of funds.\n\nPlease become a KALW
-  member today and receive your first drink on us at all 220 Montgomery eve
- nts.\n\nFree\nKALW Public Media\n\nTickets: https://consumer.pxf.io/APvP5J
- ?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbounce-valkyries-finals-watch-pa
- rty-tickets-2003896585631%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue\nDetails
- : https://dothebay.com/events/2026/10/29/bounce-valkyries-finals-watch-par
- ty-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35144054/db1a259d-0d86-4ea8-b568-6a54783477ee.jpg
-LAST-MODIFIED:20261026T203423Z
-LOCATION:KALW @ 220 Montgomery\, 220 Montgomery St\, San Francisco\, CA\, 
- 94104
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/29/bounce-valkyries-finals-watch-p
- arty-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monster Smash Burger Charity Event
@@ -18238,6 +18254,36 @@ URL:https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-part
  y-3-shots-sf-4/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:swedm® (Varg2TM & jamesjamesjames)
+DTSTART;TZID=America/Los_Angeles:20261029T220000
+DTEND;TZID=America/Los_Angeles:20261030T000000
+DTSTAMP:20261027T003200Z
+UID:dothebay-17861830@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Goldenvoice Presents\nswedm® (Varg2TM & jamesjamesjames)\nThu
+ rsday\, October 29 | The Great Northern\n\nVarg2tm and jamesjamesjames bri
+ ng swedm® to The Great Northern on October 29: European club heritage mee
+ ts the future-facing underground.\n\nswedm® is a mission statement by Var
+ g²™ and Jamesjamesjames designed to re-animate dancefloors around the w
+ orld. Together with you\, swedm® wants to rekindle the sense of futurism\
+ , possibility and unity EDM once represented by re-centering the music.\n\
+ nSupport: Nation\n\nSan Francisco\, The Great Northern on October 29th\, i
+ s waiting for us … <3\n\n$31.26-$47.31\, 21+\nGoldenvoice + The Great No
+ rthern Present\n\nTickets: https://www.eventbrite.com/e/swedm-varg2tm-jame
+ sjamesjames-tickets-2001158251199?aff=dothebay\nDetails: https://dothebay.
+ com/events/2026/10/29/swedm-varg2tm-jamesjamesjames-tickets\nSource: DoThe
+ Bay
+GEO:37.7674263;-122.4062869
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34518148/657138ec-5247-46ca-ba61-7c5a6c3e9ed3.png
+LAST-MODIFIED:20261027T003200Z
+LOCATION:The Great Northern\, 119 Utah Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/swedm-varg2tm-jamesjamesjames-t
+ ickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dj Jehnee
 DTSTART;TZID=America/Los_Angeles:20261029T220000
 DTEND;TZID=America/Los_Angeles:20261030T000000
@@ -18667,6 +18713,40 @@ LOCATION:Sigmund Stern Grove - 19th Avenue and Sloat Boulevard San Francis
  co CA 94132
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nightmare on Front Street
+DTSTART;TZID=America/Los_Angeles:20261030T160000
+DTEND;TZID=America/Los_Angeles:20261030T180000
+DTSTAMP:20261027T003200Z
+UID:dothebay-17998887@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Nightmare on Front Street\nFriday\, October 30 | 245 Front Str
+ eet\n\nGet ready for NIGHTMARE on Front STREET! Kicking off Halloween week
+ end in San Francisco!\n\nGet Ready for Nightmare on Front Street!\n\nKick 
+ off Halloween weekend at the Front Street Entertainment Zone with San Fran
+ cisco’s ultimate Halloween block party!\nCome dressed in your best Hallo
+ ween costume and get ready to dance all night to some of SF’s best live 
+ DJs. Grab a cocktail\, hit the dance floor\, enjoy great food and take ove
+ r Front Street for one unforgettable night.\n\nDANCE. DRINK. EAT. PARTY.\n
+ \nDJ lineup coming soon!\nCostumes highly encouraged.\nFREE to attend!\n\n
+ GOOD TO KNOW\n\n245 Front Street between Sacramento Street and California 
+ Street.\nJust a short 4-minute walk from the Embarcadero BART/MUNI Station
+ \nAll ages event.\n\nAttendees interested in consuming alcohol (21+) must 
+ present a valid ID upon entry. Bikes\, strollers\, and four-legged fur bab
+ ies welcome! This is a smoke-free event per SF Health Code\, Article 19L.\
+ n\nFree\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eve
+ ntbrite.com%2Fe%2Fnightmare-on-front-street-tickets-2002671121234%3Faff%3D
+ DoTheBay\nDetails: https://dothebay.com/events/2026/10/30/nightmare-on-fro
+ nt-street-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35149128/13e632a1-0acf-402f-9630-ed228474db86.png
+LAST-MODIFIED:20261027T003200Z
+LOCATION:245 Front St
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/30/nightmare-on-front-street-ticke
+ ts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hayes Valley’s Glowing Halloween “Trick-or-Treat Trail” + Fr
@@ -21224,6 +21304,32 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/1st-annual-wags-wheels-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Rave Run
+DTSTART;TZID=America/Los_Angeles:20261031T110000
+DTEND;TZID=America/Los_Angeles:20261031T130000
+DTSTAMP:20261027T003200Z
+UID:dothebay-17998800@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:What happens when a run club and a Halloween day party have a 
+ baby? You get the Halloween Rave Run: an unforgettable afternoon of moveme
+ nt\, music\, costumes\, community\, and recovery.\n\nJoin Avid Sports Medi
+ cine and Dr. Veronica Jow\, the SF Rave Doctor\, for a joyful\, noncompeti
+ tive 5K run/walk set to music\, followed by a live DJ dance party\, beginn
+ er-friendly house dance pop-up\, and Recovery Lounge. Run it\, walk it\, d
+ ance it\, or skip the 5K and come for the party. All paces and all bodies 
+ are welcome.\n\n$25+\n\nTickets: https://momence.com/Avid-Sports-Medicine/
+ Halloween-Rave-Run-%F0%9F%8E%83/144178780\nDetails: https://dothebay.com/e
+ vents/2026/10/31/halloween-rave-run-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35148615/0bddd1be-35f9-4a25-9b15-d41f7f8205bb.jpg
+LAST-MODIFIED:20261027T003200Z
+LOCATION:Avid Sports Medicine\, 425 2nd St suite 307\, San Francisco\, CA\
+ , 94107
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/31/halloween-rave-run-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:12th Annual Chinatown Halloween Festival + Block Party
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T150000
@@ -22491,15 +22597,23 @@ BEGIN:VEVENT
 SUMMARY:Pink Flamingo (Drag & Burlesque) Bingo
 DTSTART;TZID=America/Los_Angeles:20261031T163000
 DTEND;TZID=America/Los_Angeles:20261031T183000
-DTSTAMP:20261020T194441Z
+DTSTAMP:20261027T003200Z
 UID:dothebay-17975088@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Holiday Event
-DESCRIPTION:No Cover\nListed time is doors\n\nDetails: https://dothebay.co
- m/events/2026/10/31/pink-flamingo-drag-burlesque-bingo-tickets\nSource: Do
- TheBay\n\nAlso listed on:\n- https://sf.funcheap.com/pink-flamingo-drag-bu
- rlesque-bingo-halloween-edition/
-LAST-MODIFIED:20261020T194441Z
+DESCRIPTION:Start your Halloween early with a special Halloween edition of
+  Pink Flamingo Bingo — a drag and burlesque bingo show with filth\, glam
+ our\, prizes and plenty of camp.\n\nNo cover. Free bingo. Costume contest.
+  Drink specials.\nDoors 4:30 PM/Show 5:00 PM\n21+\n\nSponsored by Original
+  Pattern Brewing Company & SF Distilling Company.\n\nNo Cover\nListed time
+  is doors\n\nTickets: https://www.facebook.com/events/s/pink-flamingo-drag
+ -burlesque-b/1104051112583091/?mibextid=wwXIfr\nDetails: https://dothebay.
+ com/events/2026/10/31/pink-flamingo-drag-burlesque-bingo-tickets\nSource: 
+ DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/pink-flamingo-drag-
+ burlesque-bingo-halloween-edition/
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35148063/7d5f3482-692b-4b4a-bc82-09e0f5581192.jpg
+LAST-MODIFIED:20261027T003200Z
 LOCATION:540 Bar\, 540 Clement St\, San Francisco\, CA\, 94118
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/pink-flamingo-drag-burlesque-bi
@@ -23249,6 +23363,39 @@ URL:https://sf.funcheap.com/free-halloween-horror-screening-ththng-live-wo
  rms-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DanceOWeen 2026: Total Flanarchy
+DTSTART;TZID=America/Los_Angeles:20261031T193000
+DTEND;TZID=America/Los_Angeles:20261031T213000
+DTSTAMP:20261027T003200Z
+UID:dothebay-17998911@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:Official Flannouncement Video\n\nTOTAL FLANARCHY\n\nFor 364 ni
+ ghts a year\, dessert follows the rules.\nOn Halloween night… the desser
+ ts rise up.\nDANCEOWEEN IS BACK!\nA roving Halloween dance party through t
+ he streets of the Mission. Mobile sound carts\, live music\, bubbles\, abs
+ urd costumes\, and joy that cannot be contained.\n\nMeet: 16th St BART pla
+ za\, 7:30 PM sharp. The mob starts moving soon after!\nRoute: winding thro
+ ugh the Mission.\nBring: a costume (required!)\, comfy dancing shoes\, wat
+ er\, something that glows\, and your best wobble. Spoons encouraged\n\nWAN
+ T TO CONTRIBUTE? DanceoWeen is made by the people who show up.\nDM @danceo
+ ween on Instagram if you’ve got:\nA sound cart (or a DJ\, band or speake
+ r on wheels) to join the parade\nHelp with traffic blocking\, keeping cros
+ sings safe so the mob can move\nA fun surprise experience to bring people 
+ during the parade or along the route: bubbles\, performances\, a costume m
+ oment\, something weird and wonderful\n\nFree · all ages · everyone welc
+ ome\nBRING YOUR MAGIC ✨ LOVE OUR CITY ✨ INVITE EVERYONE ✨\n\nFree\n\
+ nTickets: https://partiful.com/e/McDwcgosSYxmojaE3S2s\nDetails: https://do
+ thebay.com/events/2026/10/31/danceoween-2026-total-flanarchy-tickets\nSour
+ ce: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/danceoween/
+LAST-MODIFIED:20261027T003200Z
+LOCATION:16th St Mission BART Station\, 2000 Mission St\, San Francisco\, 
+ CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/31/danceoween-2026-total-flanarchy
+ -tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 SF Symphony: Elim Chan Conducts Adams Mendelssohn + Brahms (O
  ct. 29-31)
 DTSTART;TZID=America/Los_Angeles:20261031T193000
@@ -23291,45 +23438,6 @@ LOCATION:Davies Symphony Hall\, 201 Van Ness Ave\, San Francisco\, CA 9410
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/2026-sf-symphony-elim-chan-conducts-adams-mend
  elssohn-brahms-oct-29-31-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“Dance-O-Ween” SF’s Epic Roving Costumed Dance Party 2026
-DTSTART;TZID=America/Los_Angeles:20261031T193000
-DTEND;TZID=America/Los_Angeles:20261031T234500
-DTSTAMP:20261021T214759Z
-UID:funcheap-776291@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:Sam HaynorUpdate! DANCEOWEEN 2026 is officially on. Expect 5\,
- 000+ to join for this epically-fun roving mobile dance party through the M
- ission!\n🌕 🎃 DANCEOWEEN IS BACK! 🎃 a free\, roving dance party th
- at winds through the streets of the Mission with mobile sound carts\, live
-  music\, bubbles and absurd costumes. The 2026 theme is Total Flanarchy\, 
- so expect flan-themed mischief alongside the usual magic.\nThe crowd gathe
- rs at the 16th St BART plaza at 7:30 PM\, then moves through the neighborh
- ood behind mobile sound carts with DJs and live music. Think bubbles\, glo
- wing art carts\, and thousands of people in wildly creative costumes danci
- ng together.\n\nCostumes are encouraged (the sillier the better). Wear com
- fy dancing shoes\, bring water and something that glows. It’s free and e
- veryone is welcome.\nDance-o-ween 2026\nSaturday\, October 31\, 2026 | 7:3
- 0-11:30pm\n16th and Mission-ish\, SF\nFREE\n📍 Meet: 16th St BART plaza\
- , 7:30 PM sharp. The mob starts moving soon after!\n🧭 Route: winding th
- rough the Mission. RSVP here to get live text updates so you can find us i
- f you’re late. 📲\n🎒 Bring: a costume (required!)\, comfy dancing s
- hoes 👟\, water 💧\, something that glows ✨\, and your best wobble. 
- Spoons encouraged 🥄 🙌\nWANT TO CONTRIBUTE? DanceoWeen is made by the
-  people who show up. DM @danceoween on Instagram if you’ve got: 🔊 A s
- ound cart (or a DJ\, band or speaker on wheels) to join the parade 🚧 He
- lp with traffic blocking\, keeping crossings safe so the mob can move\n
- 🎁 A fun surprise experience to bring peo...\n\nFree\n\nTickets: https:/
- /partiful.com/e/McDwcgosSYxmojaE3S2s\nDetails: https://sf.funcheap.com/dan
- ceoween/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/10/unname
- d-2.jpg
-LAST-MODIFIED:20261021T214759Z
-LOCATION:16th Street BART\, 2000 Mission Street\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/danceoween/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BATS IMPROV SHOWS 2026
@@ -23483,30 +23591,6 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/ha-ha-halloween-showcase-ticket
  s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Aces
-DTSTART;TZID=America/Los_Angeles:20261031T200000
-DTEND;TZID=America/Los_Angeles:20261031T220000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17701414@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Introducing The Aces Tour\nThe Aces\nwith Gatlin\n\nSaturday\,
-  October 31 | August Hall\n\nAll Ages\nIntroducing The Aces Tour\n\nTicket
- s: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=h
- ttps%3A%2F%2Fwww.ticketmaster.com%2Fintroducing-the-aces-with-special-gues
- t-san-francisco-california-10-31-2026%2Fevent%2F1C0064FB1539D112\nDetails:
-  https://dothebay.com/events/2026/10/31/introducing-the-aces-gatlin-ticket
- s\nSource: DoTheBay
-GEO:37.7875878;-122.4096056
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33754083/e9f4e4b9-0107-472e-a8c3-5d73d7ccd3fc.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/31/introducing-the-aces-gatlin-tic
- kets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eric Prydz w/ Tiga\, Kelly Lee Owens (DJ Set)\, Canary Yellow
@@ -25885,6 +25969,47 @@ LOCATION:Brava Theater\, 2781 24th Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/2/loco-bloco-presents-dia-de-los-m
  uertos-2026-esto-no-se-vende-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival of Altars
+DTSTART;TZID=America/Los_Angeles:20261102T160000
+DTEND;TZID=America/Los_Angeles:20261102T180000
+DTSTAMP:20261027T003200Z
+UID:dothebay-17998924@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:As we get closer to the Festival of Altars\, we know many of y
+ ou are preparing your hearts\, your stories\, and your steps to join us. T
+ o help you plan your visit with ease\, we’ve gathered answers to some of
+  your most frequently asked questions. Swipe through to find details on ti
+ ming\, location\, and how we can collectively honor those who came before 
+ us.\n\nGathering Details:\n• November 2nd\, 4-10 PM with altar creation 
+ beginning at 10 AM\n• Potrero del Sol Park (La Raza) 2827 Cesar Chavez\,
+  Street\, La Misión\, San Francisco\,\n• Free and open to everyone in t
+ he community\n\nIf there is anything else you need to know\, please reach 
+ out in the comments.\n\nMay this season of remembrance bring warmth to you
+ r home.\n•\nRecordando juntos. Celebrando siempre.\n\nA medida que se ac
+ erca el Festival de Altares\, sabemos que muchos de ustedes están prepara
+ ndo sus corazones\, sus historias y sus pasos para unirse a nosotros. Para
+  ayudarles a planificar su visita con facilidad\, hemos recopilado respues
+ tas a algunas de las preguntas más frecuentes. Deslicen para encontrar de
+ talles sobre el horario\, la ubicación y cómo podemos honrar colectivame
+ nte a quienes nos precedieron.\n\nDetalles del Evento:\n• 2 de noviembre
+ \, de 4:00 p. m. a 10:00 p. m.\, con creación de altares a las 10:00 a. m
+ .\n• Parque Potrero del Sol (La Raza) 2827 Cesar Chavez Street\, La Misi
+ ón\, San Francisco\n• Gratuito y abierto a toda la comunidad\n\nSi hay 
+ algo más que necesiten saber\, por favor dejen su pregunta en los comenta
+ rios.\n\nQue esta tempora...\n\nFree\n\nTickets: https://www.instagram.com
+ /p/De961D_mTBb/?img_index=3\nDetails: https://dothebay.com/events/2026/11/
+ 2/festival-of-altars-tickets\nSource: DoTheBay
+GEO:37.7518579;-122.4042697
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35149547/23649469-d384-4bce-a2f5-f2fc0a7bddfe.jpg
+LAST-MODIFIED:20261027T003200Z
+LOCATION:Potrero Del Sol Park\, 2827 Cesar Chavez Street (San Bruno Ave & 
+ 25th St)\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/2/festival-of-altars-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival Napa Valley Presents Rupert Boyd
@@ -29031,6 +29156,30 @@ URL:https://dothebay.com/events/2026/11/5/live-music-good-friends-the-lowt
  imers-red-mcadam-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Nectar
+DTSTART;TZID=America/Los_Angeles:20261105T200000
+DTEND;TZID=America/Los_Angeles:20261105T220000
+DTSTAMP:20261027T003200Z
+UID:dothebay-17999083@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Shows at 8 p.m. and 10 p.m.\n\nShow length: 75 minutes.\n\nFea
+ turing: Maya Culbertson-Lane\, Roxy Mirage\, Haus of Jubilee\, Gracie Brak
+ eman\, Livanna Maislen\, Rebel Rose\, Edie Eve\, Autumn Adamme\, Tae Mards
+ en\, EK Smith your host Adam Goldthwait\n\nDirected by Maya Culberston-Lan
+ e with acts created by members of Fou Fou Ha!\n\n$55.50+\nFou Fou Ha! Pres
+ ents:\n\nTickets: https://www.thepalacetheatersf.com/events/foufouha\nDeta
+ ils: https://dothebay.com/events/2026/11/5/the-nectar-tickets\nSource: DoT
+ heBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35149690/3e5eeace-71a8-40c8-b4fa-970797e2ba25.jpg
+LAST-MODIFIED:20261027T003200Z
+LOCATION:The Palace Theater\, 644 Broadway St.\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/5/the-nectar-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:1984 VS Fringe
 DTSTART;TZID=America/Los_Angeles:20261105T210000
 DTEND;TZID=America/Los_Angeles:20261105T230000
@@ -29699,28 +29848,6 @@ LOCATION:The Loom
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/destination-cosmos-an-experienti
  al-sound-voyage-by-christopher-willits-and-envelop-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Destination: Cosmos--A Sound Voyage by Christopher Willits and Env
- elop
-DTSTART;TZID=America/Los_Angeles:20261106T180000
-DTEND;TZID=America/Los_Angeles:20261106T200000
-DTSTAMP:20261020T194441Z
-UID:dothebay-17975060@sf-cal
-SEQUENCE:0
-CATEGORIES:Lecture/Education
-DESCRIPTION:Tickets: https://www.kqed.org/event/6823/destination-cosmos-an
- -experiential-sound-voyage-by-christopher-willits-and-envelop\nDetails: ht
- tps://dothebay.com/events/2026/11/6/destination-cosmos-a-sound-voyage-by-c
- hristopher-willits-and-envelop-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35047148/9001a03e-40b1-49c3-b1d6-13ca82203d8c.png
-LAST-MODIFIED:20261020T194441Z
-LOCATION:KQED LIVE\, The Commons\, KQED Headquarters - 2601 Mariposa Stree
- t\, San Francisco\, CA 94110\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/6/destination-cosmos-a-sound-voyag
- e-by-christopher-willits-and-envelop-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
