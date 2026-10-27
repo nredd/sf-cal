@@ -909,20 +909,17 @@ BEGIN:VEVENT
 SUMMARY:WNBA Playoffs Round 3 Home Game H: Valkyries V Atlanta Dream
 DTSTART;TZID=America/Los_Angeles:20261026T170000
 DTEND;TZID=America/Los_Angeles:20261026T190000
-DTSTAMP:20261013T170024Z
+DTSTAMP:20261027T090716Z
 UID:dothebay-17946067@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
 DESCRIPTION:WNBA Playoffs Round 3 Home Game H: Valkyries V Atlanta Dream\n
- \nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoS
- tuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fwnba-playoffs-round-3-home-gam
- e-san-francisco-california-10-26-2026%2Fevent%2F1C006529C5E534B4\nDetails:
-  https://dothebay.com/events/2026/10/26/wnba-playoffs-round-3-home-game-h-
- valkyries-v-atlanta-dream-tickets\nSource: DoTheBay
+ \nDetails: https://dothebay.com/events/2026/10/26/wnba-playoffs-round-3-ho
+ me-game-h-valkyries-v-atlanta-dream-tickets\nSource: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34910039/5ed2b67f-b428-42bf-a6e7-0574cdb1d8cf.png
-LAST-MODIFIED:20261013T170024Z
+LAST-MODIFIED:20261027T090716Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/26/wnba-playoffs-round-3-home-game
@@ -964,22 +961,6 @@ LOCATION:Salesforce Park\, 425 Mission St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/2026-valkyries-finals-game-5-watch-party-free-
  sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261026T173000
-DTEND;TZID=America/Los_Angeles:20261026T183000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-9900f723bfbe3698@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10532\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Dance Fitness Class by Rae Studios

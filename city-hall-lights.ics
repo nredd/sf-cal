@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: blue
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261006T193603Z
-UID:city-hall-lights-ics-8e64d919fa4f047f@sf-cal
-SEQUENCE:0
-DESCRIPTION:Men’s Breast Cancer Awareness Week\n\nDetails: https://www.s
- f.gov/location--san-francisco-city-hall\nSource: SF City Hall lighting (vi
- a Robelius/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261006T193603Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: yellow/blue/red
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022

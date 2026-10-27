@@ -40,70 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Yuri!!! on Ice (Subtitled)
-DTSTART;TZID=America/Los_Angeles:20261019T190000
-DTEND;TZID=America/Los_Angeles:20261019T210000
-DTSTAMP:20261020T084210Z
-UID:dothebay-17858600@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:Presented in Japanese with English subtitles\n\nBig dreams\, a
-  shared passion – on the ice\, they call it love. After suffering a humi
- liating loss at the Grand Prix Final\, Japan’s number one skater\, Yuri 
- Katsuki\, is ready to hang up his skates for good. But when his idol and f
- ive-time champion Victor Nikiforov offers to be his coach\, Yuri’s put o
- n a trek for gold and to discover the true meaning of victory! Together\, 
- they’ll face skaters from around the world.\n\nDetails: https://dothebay
- .com/events/2026/10/19/yuri-on-ice-subtitled-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34499437/18dba3f7-cdba-4fe5-9440-be0270e2c74a.jpg
-LAST-MODIFIED:20261020T084210Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/19/yuri-on-ice-subtitled-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=America/Los_Angeles:20261019T203000
-DTEND;TZID=America/Los_Angeles:20261019T223000
-DTSTAMP:20261020T084210Z
-UID:dothebay-17930207@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:NAZA screens at NEW PEOPLE October 9–11\, and 18. Screenings
-  at The Roxie start October 12.\n\nIn secret conversations on the rooftops
-  of Tel Aviv at night\, the systems behind Israel’s calculated mass kill
- ing of Palestinian civilians in Gaza are revealed by the people who design
- ed and operated them.\n\nDirectors Note:\n\nWe made this film out of a sen
- se of obligation to use our position as Israeli filmmakers and journalists
-  to examine the systems behind the mass killing of Palestinian civilians f
- or which our country is responsible. While filming members of Israel’s m
- ilitary on rooftops at night in Tel Aviv over the past three years\, we fo
- und ourselves asking the very questions that were asked by our grandparent
- s’ generation and throughout the 20th century: how does one group of peo
- ple allow the total dehumanisation of another?\n\nWhat do the inner workin
- gs of such a system look like? Many of the revelations in the film were pu
- blished almost immediately as we learned of them\, in the months following
-  the October 7th attacks\, by The Guardian (one of NAZA’s producers)\, i
- n collaboration with reporting partners +972 Magazine and Local Call. The 
- film lets us explore something deeper than we could in our investigative j
- ournalism alone: not only the words being said but also those that are not
-  said\, the silence. It is up to all of us to break that silence.\n\n– Y
- uval Abraham and Rachel Szor\n\n“An essential\, devastating documentary
- …there’s no turning away from what’s said\, you simply can’t unkno
- w...\n\nDetails: https://dothebay.com/events/2026/10/19/naza-tickets\nSour
- ce: DoTheBay
-GEO:37.7647103;-122.4224081
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34836049/c18ee701-2e31-49a6-bbf4-a5c699d6163d.jpg
-LAST-MODIFIED:20261020T084210Z
-LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/19/naza-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dr. Jekyll and Mr. Hyde (1931)
 DTSTART;TZID=America/Los_Angeles:20261020T180000
 DTEND;TZID=America/Los_Angeles:20261020T200000
@@ -1332,9 +1268,9 @@ BEGIN:VEVENT
 SUMMARY:Lady
 DTSTART;TZID=America/Los_Angeles:20261026T182000
 DTEND;TZID=America/Los_Angeles:20261026T202000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261027T090716Z
 UID:dothebay-17923110@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Lady is an off-beat comedy about a lonely\, narcissistic arist
  ocrat who dupes a struggling\, opportunistic director into filming her eve
@@ -1344,13 +1280,12 @@ DESCRIPTION:Lady is an off-beat comedy about a lonely\, narcissistic arist
  ntary is like Saltburn on shrooms” – The Guardian\n\nMore showtimes to
   be added\n\nRuntime\n\n1h 37m\n\nYear\n\n2025\n\nDirector\n\nSamuel Abrah
  ams\n\nFormat\n\nDCP\n\nCountry\n\nUnited Kingdom\n\nCategories\n\nFeature
- d\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22260?siteToken=
- 4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/2026/10/2
- 6/lady-tickets\nSource: DoTheBay
+ d\n\nDetails: https://dothebay.com/events/2026/10/26/lady-tickets\nSource:
+  DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34800019/fd14414f-5202-4010-83fb-9471a6ae7d49.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261027T090716Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/26/lady-tickets
@@ -1359,9 +1294,9 @@ BEGIN:VEVENT
 SUMMARY:Daughters of Darkness
 DTSTART;TZID=America/Los_Angeles:20261026T193000
 DTEND;TZID=America/Los_Angeles:20261026T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261027T090716Z
 UID:dothebay-17830864@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Of the several amazing things that have ever come out of Europ
  e\, right at the top of the list is the Lesbian Vampire movie. And there i
@@ -1377,13 +1312,12 @@ DESCRIPTION:Of the several amazing things that have ever come out of Europ
  ful primary colors and surreal and sultry dialogue\, DAUGHTERS OF DARKNESS
   also features possibly THE greatest horror film score of all time. Erotic
  ized power\, decaying grandeur\, abstract and ceremonious evil...(Tommy Sw
- enson).\n\nTickets: https://drafthouse.com/sf/show/queer-film-theory-101-d
- aughters-of-darkness?cinemaId=0802&sessionId=21346\nDetails: https://dothe
- bay.com/events/2026/10/26/daughters-of-darkness-tickets\nSource: DoTheBay
+ enson).\n\nDetails: https://dothebay.com/events/2026/10/26/daughters-of-da
+ rkness-tickets\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34368031/99f95658-03c1-46c7-81c4-83895d7144a1.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261027T090716Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT
