@@ -1,34 +1,7 @@
 {
  "version": 1,
- "last_full_refresh": "2026-10-27T15:24:52.531811Z",
+ "last_full_refresh": "2026-10-28T13:07:10.223012Z",
  "events": [
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "31bdedeb386ab8df",
-   "title": "Tokyo Kanpai Boys (in Japanese)",
-   "start": "2026-10-27T19:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Cobb's Comedy Club",
-   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/tokyo-kanpai-boys-in-japanese-san-francisco-california-10-27-2026/event/1C0065102E9FC6D4?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Cobb's Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
   {
    "source": "caldiscovery-comedy",
    "source_id": "603cd30a3a40a2b3",
@@ -31679,10 +31652,10 @@
    ],
    "url": "https://dothebay.com/events/2026/11/12/winemaker-dinner-series-tickets",
    "ticket_url": "https://www.ciagroverestaurant.com/winemaker-dinner-series/",
-   "price_text": null,
+   "price_text": "21+",
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "CIA at Copia Presents: Winemaker Dinner Series\nWinemaker Dinner with Innovatus Winery\nThursday, November 12 | The Grove Restaurant\n\nThe Grove Restaurant invites you to experience the monthly Winemaker Dinner Series—an intimate, four-course evening where the artistry of Napa Valley’s finest winemakers meets the culinary excellence of the Culinary Institute of America.\n\nThis is a rare opportunity to connect with the makers behind Napa’s finest wines in a setting that is as intimate as it is extraordinary.\n\nThe Evening Experience\n\nThe Welcome: Guests begin the evening in The Haven, our stunning cocktail lounge overlooking the Napa skyline, where they’re personally welcomed by the featured winemaker with a greeting pour and the story behind the winery.\nThe Dinner: The group then moves into our exclusive Winemaker Private Dining Room, where CIA Executive Chef Chris has designed a four-course menu created specifically to complement the exceptional wines from the featured producer’s portfolio.\n2026 Dinner Schedule (All dinners take place from 7–9:30 p.m.):\nDue to popular demand, we have increased our reservation capacity. Book your spot at the table today!\n\nInnovatus Winery: November 12, 2026\nCakebread Cellars: December 3, 2026",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35144501/1953ea86-ce1a-46bc-9223-b979572a6972.png",
    "categories": [
     "Food & Drink"
@@ -32500,7 +32473,7 @@
    "is_free": false,
    "sold_out": false,
    "description": "Amir K\nFriday, November 13 | ​​Cobb's Comedy Club",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33998847/cddb3bad-fe02-44eb-a34d-39517762423f.png",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33998847/574006ec-6aff-4680-aaa6-e9f3b848e6ac.jpg",
    "categories": [
     "Comedy"
    ],
@@ -34106,7 +34079,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Doors open at 5:30pm",
+   "description": "Define the Great Line 20th Anniversary Tour\nUnderoath\nwith August Burns Red, Atreyu, As Cities Burn\n\nSaturday, November 14 | The Masonic\n\nDoors open at 5:30pm",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32661698/98f56ba1-bcac-43cf-81c0-401446d81e6a.png",
    "categories": [
     "Music"
@@ -34503,6 +34476,33 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35107385/fbf84e23-8298-430a-ae9a-62edb2e32aa1.jpg",
    "categories": [
     "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18002952",
+   "title": "Amir K",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Ave, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.802989,
+    -122.4143902
+   ],
+   "url": "https://dothebay.com/events/2026/11/14/amir-k-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Famir-k-san-francisco-california-11-14-2026%2Fevent%2F1C0065119B9DA30E%3FrefArtist%3DK8vZ917CKN7%26f_simplified_filter%3Dtrue%26f_enable_merch_slot%3Dtrue",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Amir K\nSaturday, November 14 | ​​Cobb's Comedy Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35167847/70eca599-d09d-450a-b5e6-aa27cc2d7d7c.jpg",
+   "categories": [
+    "Comedy"
    ],
    "notes": []
   },
@@ -35088,11 +35088,11 @@
    ],
    "url": "https://dothebay.com/events/2026/11/14/reg-thomas-tickets",
    "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Freg-thomas-san-francisco-california-11-14-2026%2Fevent%2F1C00652F1B4D9B29",
-   "price_text": null,
+   "price_text": "18+",
    "is_free": false,
    "sold_out": false,
-   "description": null,
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34935937/7d781bc2-2299-4c8f-8b8e-4601a813a195.jpg",
+   "description": "Reg Thomas\nSaturday, November 14 | Cobb's Comedy Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34935937/a0e24347-c6c0-4a38-b897-86b1986a9c58.png",
    "categories": [
     "Comedy"
    ],
@@ -37085,11 +37085,11 @@
     -122.2804067
    ],
    "url": "https://dothebay.com/events/2026/11/18/quench-at-cia-at-copia-bottles-that-rocked-the-world-tickets",
-   "ticket_url": "https://www.ciafoodies.com/quench-wine-podcast-at-copia/",
-   "price_text": null,
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fquench-at-cia-at-copia-bottles-that-rocked-the-world-tickets-1997723822731%3Fkeep_tld%3Dtrue",
+   "price_text": "21+",
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "CIA at Copia Presents\nQuench at CIA at Copia: Bottles That Rocked the World\nWednesday, November 18 | CIA at Copia\n\nLive Monthly Taste and Learn Experiences at Copia\nCome participate in this monthly podcast with Master Sommelier Andrea Immer Robinson.\n\nThis is not a standard wine tasting. This is a masterclass in gastronomy. In the world of food and wine, there are experts, and then there are icons. Join the live studio audience at CIA at Copia for a rare conversation between Master Sommelier Andrea Immer Robinson and special guests each month.\n\nWhile Napa offers hundreds of tasting experiences throughout the Valley, it is almost unheard of to have direct, intimate access to talent of this caliber in a single evening. This is your opportunity to bypass the standard tasting room script and learn directly from seasoned hospitality professionals.\n\nThe Experience\nMove beyond the basic advice and learn advanced flavor profiling directly from our experts. Andrea and a different special guest each month will strip away the pretense to reveal the high-level mechanics of taste. Whether you are an industry professional or a passionate enthusiast, you will leave with a sophisticated understanding of how food and wine interact at a molecular and sensory level.\n\nYour ticket grants you access to:\n\nThe Palate of a Master: Andrea Immer Robinson (one of only 30 female Master Sommeliers in the world) will guide you through a flight of five exceptional wines, teaching you to taste with professio...",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35144585/3bd965b2-b1d4-4cd6-9dbf-1e84c04abf35.png",
    "categories": [
     "Food & Drink"
@@ -43035,9 +43035,7 @@
    "categories": [
     "Holiday Event"
    ],
-   "notes": [
-    "Kaiser Permanente Presents:"
-   ]
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -44221,6 +44219,32 @@
     "Music"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17984559",
+   "title": "Porter Robinson b2b Ninajirachi",
+   "start": "2026-11-28T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Shed A at Pier 48",
+   "address": "San Francisco, CA, 94158",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/28/club-darc-porter-robinson-ninajirachi-tickets",
+   "ticket_url": "https://www.axs.com/events/1629392/porter-robinson-b2b-ninajirachi-tickets?cid=usaffdostuff",
+   "price_text": "21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Goldenvoice Presents\nClub Darc Season 2\nPorter Robinson b2b Ninajirachi\nwith Dylan Brady, Doss, Nina Las Vegas, Clearcast\n\nSaturday, November 28 | Shed A at Pier 48\n\nREGISTER FOR ARTIST PRESALE\n\nARTIST PRESALE: WEDNESDAY, 10/28 @ 10AM",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35091040/a9baa2c7-d090-443e-b12f-0505acdee77d.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Goldenvoice Presents: Club Darc Season 2"
+   ]
   },
   {
    "source": "dothebay",
@@ -46415,10 +46439,10 @@
    ],
    "url": "https://dothebay.com/events/2026/12/3/winemaker-dinner-with-cakebread-cellars",
    "ticket_url": "https://www.ciagroverestaurant.com/winemaker-dinner-series/",
-   "price_text": null,
+   "price_text": "21+",
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "CIA at Copia Presents: Winemaker Dinner Series\nWinemaker Dinner with Cakebread Cellars\nThursday, December 3 | The Grove Restaurant\n\nThe Grove Restaurant invites you to experience the monthly Winemaker Dinner Series—an intimate, four-course evening where the artistry of Napa Valley’s finest winemakers meets the culinary excellence of the Culinary Institute of America.\n\nThis is a rare opportunity to connect with the makers behind Napa’s finest wines in a setting that is as intimate as it is extraordinary.\n\nThe Evening Experience\n\nThe Welcome: Guests begin the evening in The Haven, our stunning cocktail lounge overlooking the Napa skyline, where they’re personally welcomed by the featured winemaker with a greeting pour and the story behind the winery.\nThe Dinner: The group then moves into our exclusive Winemaker Private Dining Room, where CIA Executive Chef Chris has designed a four-course menu created specifically to complement the exceptional wines from the featured producer’s portfolio.\n2026 Dinner Schedule (All dinners take place from 7–9:30 p.m.):\nDue to popular demand, we have increased our reservation capacity. Book your spot at the table today!\n\nInnovatus Winery: November 12, 2026\nCakebread Cellars: December 3, 2026",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35144518/aba61d16-8073-4434-9bbc-5d083b3d517d.png",
    "categories": [
     "Food & Drink"
@@ -48168,6 +48192,33 @@
    "notes": [
     "Bay Philharmonic Presents:"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18002727",
+   "title": "Haunted Hearth: Paxton Gate’s 34th Annual Holiday Party",
+   "start": "2026-12-05T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Paxton Gate",
+   "address": "824 Valencia Street, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7596242,
+    -122.4217046
+   ],
+   "url": "https://dothebay.com/events/2026/12/5/haunted-hearth-paxton-gate-s-34th-annual-holiday-party-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "It’s back! Our annual holiday party is on the books, and you’re all invited. Why are we throwing a party, you may ask? Are we just big fans of the holiday season? Well, yes, but we’re also celebrating Paxton Gate’s 34th anniversary. This year, we’re leaning into the slightly darker folklore surrounding the holiday season (hence the Haunted Hearth theme), and we’ve asked a very special someone to join us. More on that later.\nSomehow, 34 years of Paxton Gate is just as mind-blowing to us as 33 was. That’s 34 years of bringing oddities, fossils, minerals, plants, and all sorts of other “Wait, what is that?” stuff to Valencia Street. As jazzed as we are to keep doing what we do, we really couldn’t do any of it without you, our super rad customers and neighbors up and down Valencia Street.\nTo show y’all just how much we appreciate you, we throw an annual holiday party, and we’d love for you to attend. We’ll have drinks, finger foods, live music, and this year, a very special horned, legendary, and somewhat horrifying guest. Don’t worry, though. He’s promised not to hit anyone with his bundle of birch branches. Why he insists on carrying those around is anyone’s guess.\nAnyways, join us for a night of merrymaking, holiday cheer, and hanging out with a demon summoned from the depths of the North Pole.\nWe’ll see y’all there.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35166855/a52a9137-113d-4a1d-98b3-91058ee73d45.jpg",
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -50610,9 +50661,7 @@
    "categories": [
     "Holiday Event"
    ],
-   "notes": [
-    "Kaiser Permanente Presents:"
-   ]
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -51099,6 +51148,35 @@
    "notes": [
     "Another Planet Entertainment presents: A History Worth Repeating: Songs and Stories from Lucius",
     "Listed time is doors"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18002731",
+   "title": "Inspiring Splendor",
+   "start": "2026-12-11T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "First United Methodist Church",
+   "address": "625 Hamilton Ave, Palo Alto, CA, 94301",
+   "locality": "Palo Alto",
+   "geo": [
+    37.4494134,
+    -122.1565381
+   ],
+   "url": "https://dothebay.com/events/2026/12/11/inspiring-splendor-tickets",
+   "ticket_url": "https://pwchorus.ticketspice.com/pwc-2026-2027-season",
+   "price_text": "$39 General, $59 Premium, $10 Youth",
+   "is_free": false,
+   "sold_out": false,
+   "description": "This December, the PWC joins forces with the Palo Alto Chamber Orchestra to perform Vivaldi’s beloved Gloria. Carrying forward this season of celebration of women, by women, we’ll perform pieces by several composers who continue to inspire us. In addition to Vivaldi’s masterwork, the second half of our winter program celebrates the season with sacred and contemporary holiday treasures. Experience the luminous anticipation of Elaine Hagenberg’s O Come Emmanuel, Joan Szymko’s spirited Hodie, and Ann Callaway’s radiant Alleluia, Vidimus Stellam, paired with the otherworldly textures of Cindy Cox’s Wakah-Chan. We uplift traditions of community, reflection, and peace through Bernice Johnson Reagon’s stirring Seven Principles and Karen Siegel’s contemplative Oseh Shalom. The festivities draw to a heartwarming close with the gentle tenderness of Eleanor Daley’s Lullaby Carol and the timeless splendor of John Rutter’s setting of Silent Night. Join us 30 minutes before each performance for a pre-concert talk, and stay for a post-concert reception.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35166865/a34ae9d7-4ab1-49ab-a2f2-fc7f4780d05d.jpg",
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": [
+    "Peninsula Women's Chorus"
    ]
   },
   {
@@ -51846,6 +51924,32 @@
     "Theatre & Performing Arts"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18002734",
+   "title": "Inspiring Splendor: A Holiday Gathering",
+   "start": "2026-12-12T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Mission Santa Clara de Asis",
+   "address": "500 El Camino Real, Santa Clara, CA, 95053",
+   "locality": "Santa Clara",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/12/inspiring-splendor-a-holiday-gathering-tickets",
+   "ticket_url": "https://pwchorus.ticketspice.com/pwc-2026-2027-season",
+   "price_text": "$39 General, $59 Premium, $10 Youth",
+   "is_free": false,
+   "sold_out": false,
+   "description": "This December, the PWC joins forces with the Palo Alto Chamber Orchestra to perform Vivaldi’s beloved Gloria. Carrying forward this season of celebration of women, by women, we’ll perform pieces by several composers who continue to inspire us. In addition to Vivaldi’s masterwork, the second half of our winter program celebrates the season with sacred and contemporary holiday treasures. Experience the luminous anticipation of Elaine Hagenberg’s O Come Emmanuel, Joan Szymko’s spirited Hodie, and Ann Callaway’s radiant Alleluia, Vidimus Stellam, paired with the otherworldly textures of Cindy Cox’s Wakah-Chan. We uplift traditions of community, reflection, and peace through Bernice Johnson Reagon’s stirring Seven Principles and Karen Siegel’s contemplative Oseh Shalom. The festivities draw to a heartwarming close with the gentle tenderness of Eleanor Daley’s Lullaby Carol and the timeless splendor of John Rutter’s setting of Silent Night. Join us 30 minutes before each performance for a pre-concert talk, and stay for a post-concert reception.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35166898/2fe0f4c7-16d8-4d18-b5bd-b6727754de4c.jpg",
+   "categories": [
+    "Holiday Event"
+   ],
+   "notes": [
+    "Peninsula Women's Chorus"
+   ]
   },
   {
    "source": "dothebay",
@@ -53886,11 +53990,11 @@
     -122.2804067
    ],
    "url": "https://dothebay.com/events/2026/12/16/quench-at-cia-at-copia-my-favorite-things-wines-that-so-over-deliver-for-the-price-tickets",
-   "ticket_url": "https://www.ciafoodies.com/quench-wine-podcast-at-copia/",
-   "price_text": null,
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fquench-at-cia-at-copia-my-favorite-things-tickets-1997724130652%3Fkeep_tld%3Dtrue",
+   "price_text": "21+",
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "CIA at Copia Presents\nQuench at CIA at Copia: My Favorite Things (Wines That So Over-Deliver for the Price)\nWednesday, December 16 | CIA at Copia\n\nLive Monthly Taste and Learn Experiences at Copia\nCome participate in this monthly podcast with Master Sommelier Andrea Immer Robinson.\n\nGuest: Peter Yeung, CEO, Wente Family Vineyards; host, XChateau podcast\n\nThis is not a standard wine tasting. This is a masterclass in gastronomy. In the world of food and wine, there are experts, and then there are icons. Join the live studio audience at CIA at Copia for a rare conversation between Master Sommelier Andrea Immer Robinson and special guests each month.\n\nWhile Napa offers hundreds of tasting experiences throughout the Valley, it is almost unheard of to have direct, intimate access to talent of this caliber in a single evening. This is your opportunity to bypass the standard tasting room script and learn directly from seasoned hospitality professionals.\n\nThe Experience\nMove beyond the basic advice and learn advanced flavor profiling directly from our experts. Andrea and a different special guest each month will strip away the pretense to reveal the high-level mechanics of taste. Whether you are an industry professional or a passionate enthusiast, you will leave with a sophisticated understanding of how food and wine interact at a molecular and sensory level.\n\nYour ticket grants you access to:\n\nThe Palate of a Master: Andrea Immer Robinson (one of only 30 female Master Sommeliers in t...",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35144606/06a13057-9175-418e-95b6-24b7c34617d3.png",
    "categories": [
     "Food & Drink"
@@ -57923,26 +58027,418 @@
    "notes": []
   },
   {
-   "source": "funcheap",
-   "source_id": "1633682",
-   "title": "$6 Drive-In Movie Night in Concord & San Jose",
-   "start": "2026-10-20T20:30:00-07:00",
-   "end": "2026-10-20T23:59:00-07:00",
+   "source": "dothebay",
+   "source_id": "17819130",
+   "title": "Fiddler On The Roof",
+   "start": "2026-12-27T09:00:00-08:00",
+   "end": null,
    "all_day": false,
-   "bucket": "film",
-   "venue": "Solano 2 Drive In",
-   "address": "1611 Solano Way, Concord, CA",
-   "locality": "Concord",
+   "bucket": "stage",
+   "venue": "The Village at Corte Madera",
+   "address": "1557 Redwood Hwy, Corte Madera, CA",
+   "locality": "Corte Madera",
    "geo": null,
-   "url": "https://sf.funcheap.com/6-drive-in-movie-night-in-concord-san-jose-210/",
-   "ticket_url": "https://www.westwinddi.com/locations/solano",
-   "price_text": "$6.00",
+   "url": "https://dothebay.com/events/2026/12/27/fiddler-on-the-roof-tickets",
+   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=239379~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "$6 Drive-In Movie Night in Concord & San Jose\nWest Wind Drive-In and Public Market\nOne of the most socially-distant ways to have fun, The West Wind Drive-In theaters in both San Jose and Concord are open for good old-fashioned drive-in movie fun.\nWest Wind Drive In Locations\nSolano Drive-In – 1611 Solano Way, Concord\nCapitol Drive-In – 3630 Hillcap Ave., San Jose\n– $9 adults, $2 kids 5-11 (kids 4 and under free)\n– Tuesday night “Family Fun Night” is $6 per adult (price updated in 2022)\n– Occasionally, screens are double features – so you might get 2 movies for price of 1\n\nUpcoming $6 Drive-In Movie Night in Concord & San Jose Events\nTue 10/6 $6 Drive-In Movie Night in Concord & San JoseTue 10/13 $6 Drive-In Movie Night in Concord & San JoseTue 10/20 $6 Drive-In Movie Night in Concord & San JoseTue 10/27 $6 Drive-In Movie Night in Concord & San JoseTue 11/3 $6 Drive-In Movie Night in Concord & San JoseTue 11/10 $6 Drive-In Movie Night in Concord & San JoseTue 11/17 $6 Drive-In Movie Night in Concord & San JoseTue 11/24 $6 Drive-In Movie Night in Concord & San JoseDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/05/93705395_2638902969719383_3202548059389034496_n.jpg",
+   "description": "In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.\n\n181 mins + Intermission PG-13\n\nThe Feature Typically Starts 7-10 Minutes Past Showtime",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34311471/3c0e0380-33c2-40f4-8ec3-402ede44ca5f.jpg",
    "categories": [
-    "Movies"
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17102245",
+   "title": "Head West at State Street",
+   "start": "2026-12-27T11:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "State Street",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/27/head-west-at-state-street-tickets",
+   "ticket_url": "https://www.headwestmarketplace.com/statestreet",
+   "price_text": "Free, All Ages",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Head West at State Street\nEvery Fourth Sunday | State Street | Free\n\nDates:\n\nMarch 22, 2026\nApril 26, 2026\nMay 24, 2026\nJune 28, 2026\nJuly 26, 2026\nAugust 23, 2026\nSeptember 27, 2026\nOctober 25, 2026",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30919656/5c174378-d2f9-4a90-a0aa-c47e506a6c75.jpg",
+   "categories": [
+    "Shopping"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17768562",
+   "title": "My Very First Nutcracker",
+   "start": "2026-12-27T11:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Symphony San Jose",
+   "address": "325 S 1st St, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/27/my-very-first-nutcracker-tickets",
+   "ticket_url": "https://www.symphonysanjose.org/attend/2026-2027-season/concerts/my-very-first-nutcracker/",
+   "price_text": "Tickets start at $29",
+   "is_free": false,
+   "sold_out": false,
+   "description": "My Very First Nutcracker is a special one-act presentation of The San Jose Nutcracker ideal for families with toddlers, preschoolers, and young children.\n\nThis joyful holiday production features the festive holiday party, at which Uncle Nikola reveals his fascinating gifts. Kids will marvel at the historic San Jose Electric Light Tower rising magically above the streets of San Jose, and cheer on adorable mice and toy soldiers who compete to win a magic crown. Introduce your family to the magic of classical ballet!\n\nNOTE: My Very First Nutcracker does not include the second act of The San Jose Nutcracker where Clara meets the Sugarplum Fairy and journeys to the Valley of Heart’s Delight.\n\nFor the complete two-act classical ballet visit the main Nutcracker page here.\n\nChildren aged one year and older require a ticket for entry.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34589409/d6fc9e8c-57fe-4835-be31-2aca200f6da2.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17916840",
+   "title": "PWHL San Jose vs. Boston Fleet",
+   "start": "2026-12-27T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "SAP Center",
+   "address": "525 West Santa Clara Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3322405,
+    -121.9016508
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/pwhl-san-jose-vs-boston-fleet-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fpwhl-san-jose-vs-boston-fleet-san-jose-california-12-27-2026%2Fevent%2F1C006539D4D5CC29",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "SAP Center recommends that fans bring bags that are 5\" x 9\"x 2\" or smaller to expedite their entry. However, we are happy to accommodate larger bags up to 20\" x 14\" x 11\" in size! When it comes to the larger bags, please note the following: All bags, including medical and infant bags, larger than 5\" x 9\" x 2\" are subject to X-Ray inspection and will result in longer wait times for entry Bags must be able to fit under your seat once inside the event; therefore, bags larger than 20\" x 14\" x 11\" will not be permitted. SAP Center no longer offers a bag check option and/or onsite storage lockers.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34774454/33aad19d-61f9-454c-a996-ec1b0cea789c.png",
+   "categories": [
+    "Sports"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17752791",
+   "title": "Shen Yun",
+   "start": "2026-12-27T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "San Jose Center for the Performing Arts",
+   "address": "255 Almaden Blvd, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.329514,
+    -121.8912718
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/shen-yun-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Today's Show: 2pm\n\n| Performances: Dec. 26-28 |\n\nAll New Every Year!\n\nShen Yun’s grand production immerses you in stories and legends reaching back to the most distant past. It’s a world where maidens danced with ethereal grace and generals fought with explosive athleticism, where timeless tales of valor and virtue were born, and where heaven and earth intersected, making even magic possible.\n\nFeaturing one of the world’s oldest art forms—classical Chinese dance—along with innovative multimedia effects and all-original orchestral works, Shen Yun opens a portal to a glorious and spiritual civilization of unrivaled beauty, artistry, and inspiration.\n\nThis season, lift your spirits and discover China’s divine culture with Shen Yun. It’s a performance that not only entertains, but also educates and inspires.\n\nDon’t miss this year’s entirely new program!\n\nAdvisory: Please, no children under age 5\n\nTickets are on sale as of September 15, 2026.\n\nPerformances:\n\nSat., December 26, 2026 @ 7:30pm\n\nSun., December 27, 2026 @ 2pm\n\nMon., December 28, 2026 @ 2pm\n\n> CPA Events Calendar\n\n> Visitor FAQs",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34009551/f1f99492-8b73-4056-84f3-6d204d9ca512.jpg",
+   "categories": [
+    "The Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17768558",
+   "title": "The San Jose Nutcracker",
+   "start": "2026-12-27T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Symphony San Jose",
+   "address": "325 S 1st St, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/27/the-san-jose-nutcracker-tickets",
+   "ticket_url": "https://www.symphonysanjose.org/attend/2026-2027-season/special-events/the-san-jose-nutcracker/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Symphony San Jose is delighted to partner again with New Ballet, presenting Tchaikovsky’s timeless masterpiece with choreography by Dalia Rawson.\n\nThe San Jose Nutcracker takes place in San Jose at the turn of the last century. This unique production features landmarks of the era, with dazzling new scenic elements including a growing replica of the historic San Jose Light Tower and a skyline of San Jose inspired by the city in 1905. Costumes for the first act were inspired by period dolls from the History San Jose archives and the second act was inspired by our valley in the last century, carpeted in orchard blossoms and known as “The Valley of Heart’s Delight.” Swirling snowflakes, waltzing flowers, and The Sugarplum Fairy will make this holiday ballet a new favorite for the entire family!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34075988/83a167a4-3947-4e35-b87a-4895fd52cba4.png",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17733387",
+   "title": "Sacramento Kings vs. Utah Jazz",
+   "start": "2026-12-27T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Golden 1 Center",
+   "address": "500 David J Stern Walk, Sacramento , CA, 95814",
+   "locality": "Sacramento",
+   "geo": [
+    38.5802066,
+    -121.4993496
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/sacramento-kings-vs-utah-jazz-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsacramento-kings-vs-utah-jazz-sacramento-california-12-27-2026%2Fevent%2F1C0064DABE0B7B23",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Sacramento Kings vs. Utah Jazz",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33907086/6654cf87-9d47-401b-babe-6ef00aff38e0.png",
+   "categories": [
+    "Sports"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17819152",
+   "title": "Miracle On 34th Street (1947)",
+   "start": "2026-12-27T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Village at Corte Madera",
+   "address": "1557 Redwood Hwy, Corte Madera, CA",
+   "locality": "Corte Madera",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/27/miracle-on-34th-street-1947-tickets",
+   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=578681~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "After a divorced New York mother hires a nice old man to play Santa Claus at Macy's, she is startled by his claim to be the genuine article.\n\n1hr 34min - NR",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34311577/5340cb23-d8e5-4ff4-aa60-0c1fb1b80df4.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17981800",
+   "title": "Crop Top, Funeral Cake, Mark Eitzel, Strange Cities, Devoted Fans, ... and more",
+   "start": "2026-12-27T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Bottom Of The Hill",
+   "address": "1233 17th Street, San Francisco, CA, 94107",
+   "locality": "San Francisco",
+   "geo": [
+    37.7649597,
+    -122.3964408
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/crop-top-funeral-cake-mark-eitzel-strange-cities-devoted-fans-and-more-tickets",
+   "ticket_url": "http://www.bottomofthehill.com/20261227.html",
+   "price_text": "$10",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Sun\n\nday December 27\n2026\n\n4:00PM\n\ndoors\n\n-- music at 4\n\n:30PM\n\nALL AGES\n\n$10\n\n$14.31 in advance [10 face value +4.31 service fee]\n\n-------on sale 10/23\n\nCrop Top\n\ngarage pop\n\nFuneral Cake\n\npower pop\n\nMark Eitzel\n\nIndie Folk Americana\n\nStrange Cities\n\npost-punk shoegaze\n\nDevoted Fans\n\nindie pop shoegaze\n\n... and more",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35077182/a2bc33fa-a82a-423c-999f-03f0e71ce6aa.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17819132",
+   "title": "Fiddler On The Roof",
+   "start": "2026-12-27T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Village at Corte Madera",
+   "address": "1557 Redwood Hwy, Corte Madera, CA",
+   "locality": "Corte Madera",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/27/fiddler-on-the-roof-tickets-vbp9zdm",
+   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=239379~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.\n\n181 mins + Intermission PG-13\n\nThe Feature Typically Starts 7-10 Minutes Past Showtime",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34311475/768ea9a8-2165-49e5-b70e-509010ed791f.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17728019",
+   "title": "Golden State Warriors vs. Minnesota Timberwolves",
+   "start": "2026-12-27T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Chase Center",
+   "address": "300 South Street, San Francisco, CA, 94158",
+   "locality": "San Francisco",
+   "geo": [
+    37.7688295,
+    -122.3894164
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/golden-state-warriors-vs-minnesota-timberwolves-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-minnesota-timberwolves-san-francisco-california-12-27-2026%2Fevent%2F1C00650AB3B2D84C",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Golden State Warriors vs. Minnesota Timberwolves",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33883611/00909ba6-4e8b-43e3-b16b-e24966f0f0fe.png",
+   "categories": [
+    "Sports"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17395978",
+   "title": "Vienna Teng",
+   "start": "2026-12-27T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Freight",
+   "address": "2020 Addison St, Berkeley, CA, 94704",
+   "locality": "Berkeley",
+   "geo": [
+    37.8706997,
+    -122.2695537
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/vienna-teng-tickets",
+   "ticket_url": "https://secure.thefreight.org/15975/15976-vienna-teng-261227",
+   "price_text": "$64",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Songwriter Vienna Teng re-emerges this fall with her mashup song pair We’ve Got You - her first new music in over a decade - but her fans have been here the whole time.\n\nThey’ve packed concert venues even in years between releases, crowdfunded an ambitious music video in hours, and joined by the hundreds when she launched her “music x climate action” Patreon in 2022.\n\nThat kind of devotion has poured forth since 2002’s Waking Hour, which landed her on NPR’s Weekend Edition, The Late Show with David Letterman, and the top of Amazon’s music charts. Across four more studio albums that followed - the chamber folk of Warm Strangers, the jazz-inflected Dreaming Through the Noise, the indie epic Inland Territory, the bright electro-pop in Aims - Vienna has paid homage to her genre-bending heroes like Paul Simon and Tori Amos, while carving a path all her own. Together with her captivating live performances and thoughtful online presence, her work has built a loyal following across generations and continents.\n\nVienna’s new mini-EP We’ve Got You reflects the complexity of her life over the past decade: climate change work, community building, parenthood. Two songs, each titled “We’ve Got You,” act like fraternal twins: one an indie-pop tribute to inspiring leaders, the other a chamber-folk paean to unsung caregivers. Played simultaneously, they reveal a new intricate whole: a mashup by design, and a love letter to social movements.\n\nAppropriately, Vienna now also hosts climate action...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32367471/4f8c796f-43ba-4132-84c1-e090f28440f9.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17702210",
+   "title": "Ismo",
+   "start": "2026-12-27T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Ave, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.802989,
+    -122.4143902
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/ismo-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fismo-san-francisco-california-12-27-2026%2Fevent%2F1C0064E735046CBC",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Ismo\nSunday, December 27 | ​Cobb's Comedy Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33757581/c3803964-47f8-4fab-806a-373b806d5d11.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17909115",
+   "title": "S. F. Comedy Showcase",
+   "start": "2026-12-27T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Punch Line San Francisco",
+   "address": "444 Battery St, San Francisco, CA, 94111",
+   "locality": "San Francisco",
+   "geo": [
+    37.795486,
+    -122.4001359
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/s-f-comedy-showcase-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fs-f-comedy-showcase-san-francisco-california-12-27-2026%2Fevent%2F1C00653D0921B8CA",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "S. F. Comedy Showcase\nSunday, December 27 | ​Punch Line San Francisco",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34739175/01b777e2-ad85-4837-b6eb-8171301f8446.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17989192",
+   "title": "Guajirón: Cuban Jam & Salsa Night",
+   "start": "2026-12-27T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Boom Boom Room",
+   "address": "1601 Fillmore Street, San Francisco, CA, 94115",
+   "locality": "San Francisco",
+   "geo": [
+    37.78460570000001,
+    -122.4332024
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/guajiron-cuban-jam-salsa-night-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fboom-boom-room-cuban-jam-tickets-2001029217255",
+   "price_text": "Free admission",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Presented by Guajirón\nCuban Jam & Salsa Night\nSunday, December 27, 2026 | Boom Boom Room\nDance salsa to live Cuban music with Guajirón in San Francisco’s Fillmore neighborhood. Come dance, enjoy the music, or sit in: musicians are welcome to join the band for an Afro-Cuban jam.\n7:30–11:30 p.m. | Free admission\n1601 Fillmore Street, San Francisco, CA 94115\nPart of Guajirón’s last-Sunday-of-the-month residency. The next published date is January 31, 2027, starting at 7:30 p.m. Pacific.\nOfficial event details | Free RSVP | Full show schedule\nImage credit: Guajirón.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35109577/95d0f1ff-6f77-4a70-9606-aa98bfdf7abd.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Guajirón"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17686355",
+   "title": "DIMENSIONS w/ DJ 2NITE",
+   "start": "2026-12-27T22:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Make-Out Room",
+   "address": "3225 22nd St., San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7552647,
+    -122.4193588
+   ],
+   "url": "https://dothebay.com/events/2026/12/27/dimensions-w-dj-2nite-tickets",
+   "ticket_url": "http://makeoutroom.com",
+   "price_text": "FREE",
+   "is_free": true,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33677006/0ea3c01f-03fa-4f78-acb2-8c248097b6d3.jpg",
+   "categories": [
+    "Music"
    ],
    "notes": []
   },
@@ -73544,6 +74040,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1644652",
+   "title": "Handel’s The Power of Music (Stanford)",
+   "start": "2026-11-11T19:30:00-08:00",
+   "end": "2026-11-11T22:30:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Bing Concert Hall",
+   "address": "327 Lasuen Street, Stanford, CA",
+   "locality": "Stanford",
+   "geo": null,
+   "url": "https://sf.funcheap.com/handels-the-power-of-music-stanford/",
+   "ticket_url": "https://philharmonia.org/2026-27-season/handels-power-of-music/",
+   "price_text": "$40.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Handel’s The Power of Music (Nov. 11-14)\nDennis Bolt\nCan Music Change the Course of History?\nThree centuries ago, George Frideric Handel explored a bold idea: that music can change how people think, feel, and act.\nMusic Director Peter Whelan and Philharmonia Baroque Orchestra & Chorale open the 2026/27 season with Handel’s The Power of Music, featuring Alexander’s Feast, a vocal and choral masterpiece inspired by a legendary banquet marking Alexander the Great’s victory over Persia. As the feast unfolds, poet-musician Timotheus uses music to influence the conqueror and change the course of history.\nBay Area audiences will be first in the U.S. to hear Handel’s 1742 Dublin version, performed on period instruments and in the style of the time.\nHandel’s The Power of Music\nWednesday – Saturday, November 11-14, 2026\nTickets: Start at $40 | Under-30s pay only $20 in SF & Berkeley – even for the best available seats!\nPerformances:\n\nWednesday, November 11 | 7:30pm\nBing Concert Hall, Stanford\nFriday, November 13 | 7:30pm\nHerbst Theatre, San Francisco\nSaturday, November 14 | 2:30pm\nFirst Congregational Church, Berkeley\n\nConcert Highlights\n\nThe concert features the 1742 Dublin version, performed in Ireland just weeks before the world premiere of Messiah.\nThe work serves as a major showcase for the soloists and Philharmonia Chorale, with arias, ensembles, and choruses that move the drama forward.\nHandel contrasts ceremonial brilliance with intimate reflection, including music for trumpet...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/26-27-Email-1200x8002-31.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1633447",
    "title": "Performance: Kim Shuck’s Poem Jam Celebrates Janice Gould’s This Music",
    "start": "2026-11-12T18:00:00-08:00",
@@ -74096,6 +74616,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1644653",
+   "title": "Handel’s The Power of Music",
+   "start": "2026-11-13T19:30:00-08:00",
+   "end": "2026-11-13T22:30:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Herbst Theatre",
+   "address": "401 Van Ness Avenue, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/handels-the-power-of-music-sf/",
+   "ticket_url": "https://philharmonia.org/2026-27-season/handels-power-of-music/",
+   "price_text": "$40.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Handel’s The Power of Music (Nov. 11-14)\nDennis Bolt\nCan Music Change the Course of History?\nThree centuries ago, George Frideric Handel explored a bold idea: that music can change how people think, feel, and act.\nMusic Director Peter Whelan and Philharmonia Baroque Orchestra & Chorale open the 2026/27 season with Handel’s The Power of Music, featuring Alexander’s Feast, a vocal and choral masterpiece inspired by a legendary banquet marking Alexander the Great’s victory over Persia. As the feast unfolds, poet-musician Timotheus uses music to influence the conqueror and change the course of history.\nBay Area audiences will be first in the U.S. to hear Handel’s 1742 Dublin version, performed on period instruments and in the style of the time.\nHandel’s The Power of Music\nWednesday – Saturday, November 11-14, 2026\nTickets: Start at $40 | Under-30s pay only $20 in SF & Berkeley – even for the best available seats!\nPerformances:\n\nWednesday, November 11 | 7:30pm\nBing Concert Hall, Stanford\nFriday, November 13 | 7:30pm\nHerbst Theatre, San Francisco\nSaturday, November 14 | 2:30pm\nFirst Congregational Church, Berkeley\n\nConcert Highlights\n\nThe concert features the 1742 Dublin version, performed in Ireland just weeks before the world premiere of Messiah.\nThe work serves as a major showcase for the soloists and Philharmonia Chorale, with arias, ensembles, and choruses that move the drama forward.\nHandel contrasts ceremonial brilliance with intimate reflection, including music for trumpet...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/26-27-Email-1200x8002-31.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1624083",
    "title": "Sammy Virji",
    "start": "2026-11-13T20:00:00-08:00",
@@ -74569,6 +75113,54 @@
    "sold_out": false,
    "description": "Submitted by the Event OrganizerDennis BoltCan Music Change the Course of History?\nThree centuries ago, George Frideric Handel explored a bold idea: that music can change how people think, feel, and act.\n\nMusic Director Peter Whelan and Philharmonia Baroque Orchestra & Chorale open the 2026/27 season with Handel’s The Power of Music, featuring Alexander’s Feast, a vocal and choral masterpiece inspired by a legendary banquet marking Alexander the Great’s victory over Persia. As the feast unfolds, poet-musician Timotheus uses music to influence the conqueror and change the course of history.\nBay Area audiences will be first in the U.S. to hear Handel’s 1742 Dublin version, performed on period instruments and in the style of the time.\nPerformances\nStanford: Wednesday, November 11 at 7:30 PM (Bing Hall)\nSan Francisco: Friday, November 13 at 7:30 PM (Herbst Theatre)\nBerkeley: Saturday, November 14 at 2:30 PM (First Congregational Church)",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/26-27-Email-1200x8002-3.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644654",
+   "title": "Handel’s The Power of Music (Berkeley)",
+   "start": "2026-11-14T14:30:00-08:00",
+   "end": "2026-11-14T17:30:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "First Congregational Church (Berkeley)",
+   "address": "2345 Channing Way, Berkeley, CA",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/handels-the-power-of-music-berkeley/",
+   "ticket_url": "https://philharmonia.org/2026-27-season/handels-power-of-music/",
+   "price_text": "$40.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Handel’s The Power of Music (Nov. 11-14)\nDennis Bolt\nCan Music Change the Course of History?\nThree centuries ago, George Frideric Handel explored a bold idea: that music can change how people think, feel, and act.\nMusic Director Peter Whelan and Philharmonia Baroque Orchestra & Chorale open the 2026/27 season with Handel’s The Power of Music, featuring Alexander’s Feast, a vocal and choral masterpiece inspired by a legendary banquet marking Alexander the Great’s victory over Persia. As the feast unfolds, poet-musician Timotheus uses music to influence the conqueror and change the course of history.\nBay Area audiences will be first in the U.S. to hear Handel’s 1742 Dublin version, performed on period instruments and in the style of the time.\nHandel’s The Power of Music\nWednesday – Saturday, November 11-14, 2026\nTickets: Start at $40 | Under-30s pay only $20 in SF & Berkeley – even for the best available seats!\nPerformances:\n\nWednesday, November 11 | 7:30pm\nBing Concert Hall, Stanford\nFriday, November 13 | 7:30pm\nHerbst Theatre, San Francisco\nSaturday, November 14 | 2:30pm\nFirst Congregational Church, Berkeley\n\nConcert Highlights\n\nThe concert features the 1742 Dublin version, performed in Ireland just weeks before the world premiere of Messiah.\nThe work serves as a major showcase for the soloists and Philharmonia Chorale, with arias, ensembles, and choruses that move the drama forward.\nHandel contrasts ceremonial brilliance with intimate reflection, including music for trumpet...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/26-27-Email-1200x8002-31.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644658",
+   "title": "SF’s Civic Music Free Concerts (2026)",
+   "start": "2026-11-14T15:00:00-08:00",
+   "end": "2026-11-14T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Noe Valley Ministry",
+   "address": "1021 Sanchez Street, SF, CA",
+   "locality": "SF",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-4/",
+   "ticket_url": "https://www.sfcivicmusic.org/calendar",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SF’s Civic Music Free Concerts (2026)\nSF Civic Music Association\nThe San Francisco Civic Music Association is dedicated to offering numerous opportunities for classical music lovers and amateur musicians in the San Francisco Bay Area.\nOur ensembles are open to all musicians and our concerts are free and available to the public. We’d love to see you soon!\n\n2026 SCHEDULE & PROGRAM\nSunday, October 18, 2026 – SF Civic Symphony: Great Mysteries\nHerbst Theatre, 401 Van Ness Ave, SF – maps\n3:00 PM – 5:00 PM\nPROGRAM:\n\nFranz Liszt: Les Préludes\nCamille Saint Saëns: Cello Concerto No. 1, A minor\nAngela Lee, Cello\nEdward Elgar: Enigma Variations\n\nPaul Schrage – Music Director & Conductor: Paul Schrage\nRSVP | Free Concert – Donations Accepted – Suggested Donation $20\nSunday, October 24, 2026 – An Afternoon of Chamber Music\nNoe Valley Ministry, 1021 Sanchez St,. SF – maps\n3:00 PM – 5:00 PM\nPROGRAM:\n\nMarcel Boucard, Suite Champêtre\nBarbara Landt, Flute\nCarol Yarbrough, Horn\nPaul Hindemith, Kleine Kammermusik\nMalcolm Arnold, Three Shanties\nSonore Quintet\n– Barbara Brown, Flute\n– Susan Ritter, Oboe\n– Sam Torrisi, Clarinet\n– Jeff Dickey, Horn\n– Leigh Korn, Bassoon\nAntonín Dvořák (1841–1904), Piano Quartet No. 2 in E♭Major\nPinky Quartet:\n– Leyan Lo, Violin\n– Alex Li, Viola\n– Eric Cheng, Cello\n– Sheila Chan, Piano\n\nRSVP | Free Concert – Donations Accepted – Suggested Donation $20\nSunday, November 1, 2026 – Civic Strings: Enlightenment and America\nFirst Baptist Church, 22 Waller St., SF – maps\n3...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2025/10/DSC01793.webp",
    "categories": [
     "Live Music Event"
    ],
@@ -75051,6 +75643,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
    "categories": [
     "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644659",
+   "title": "SF’s Civic Music Free Concerts (2026)",
+   "start": "2026-11-15T15:00:00-08:00",
+   "end": "2026-11-15T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Herbst Theatre",
+   "address": "401 Van Ness Avenue, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-5/",
+   "ticket_url": "https://www.sfcivicmusic.org/calendar",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SF’s Civic Music Free Concerts (2026)\nSF Civic Music Association\nThe San Francisco Civic Music Association is dedicated to offering numerous opportunities for classical music lovers and amateur musicians in the San Francisco Bay Area.\nOur ensembles are open to all musicians and our concerts are free and available to the public. We’d love to see you soon!\n\n2026 SCHEDULE & PROGRAM\nSunday, October 18, 2026 – SF Civic Symphony: Great Mysteries\nHerbst Theatre, 401 Van Ness Ave, SF – maps\n3:00 PM – 5:00 PM\nPROGRAM:\n\nFranz Liszt: Les Préludes\nCamille Saint Saëns: Cello Concerto No. 1, A minor\nAngela Lee, Cello\nEdward Elgar: Enigma Variations\n\nPaul Schrage – Music Director & Conductor: Paul Schrage\nRSVP | Free Concert – Donations Accepted – Suggested Donation $20\nSunday, October 24, 2026 – An Afternoon of Chamber Music\nNoe Valley Ministry, 1021 Sanchez St,. SF – maps\n3:00 PM – 5:00 PM\nPROGRAM:\n\nMarcel Boucard, Suite Champêtre\nBarbara Landt, Flute\nCarol Yarbrough, Horn\nPaul Hindemith, Kleine Kammermusik\nMalcolm Arnold, Three Shanties\nSonore Quintet\n– Barbara Brown, Flute\n– Susan Ritter, Oboe\n– Sam Torrisi, Clarinet\n– Jeff Dickey, Horn\n– Leigh Korn, Bassoon\nAntonín Dvořák (1841–1904), Piano Quartet No. 2 in E♭Major\nPinky Quartet:\n– Leyan Lo, Violin\n– Alex Li, Viola\n– Eric Cheng, Cello\n– Sheila Chan, Piano\n\nRSVP | Free Concert – Donations Accepted – Suggested Donation $20\nSunday, November 1, 2026 – Civic Strings: Enlightenment and America\nFirst Baptist Church, 22 Waller St., SF – maps\n3...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2025/10/DSC01793.webp",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -76470,6 +77086,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1644662",
+   "title": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)",
+   "start": "2026-11-24T19:00:00-08:00",
+   "end": "2026-11-24T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Mesa Maguey",
+   "address": "4031 Broadway, Oakland, CA",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/oaklands-mezcal-mole-comedy-night-mondays-tuesdays-91/",
+   "ticket_url": "https://www.eventbrite.com/e/oaklands-brand-new-mezcal-mole-comedy-night-tickets-1014897264037?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)\nHellaFunny\nGet ready for the return of HellaFunny comedy night to Temescal with a series of pop-up live comedy shows at unique spots all across the bay.\nThis HellaFunny comedy show takes place at the just-opened Mesa Maguey, an upscale agave bar and Oaxcacan restaurant that’s a perfect date-night spot with lots of delicious plates around $20 and under.\nFree with RSVP for first 50 people\nIt’s a 70+ minute show with 4-5 comics on the bill with credits like Cobbs, Punchline, SF Sketchfest, ABC and NBC.\nHELLAFUNNY COMEDY SHOW\nDATES & TIMES\n\nMondays – 7p Show – RSVP\nTuesdays – 7p Show – RSVP\n\nABOUT MESA MAGUEY\nMesa Maguey, a contemporary agave bar and Oaxacan kitchen, has recently taken over the former Copper Spoon space in Oakland’s Temescal neighborhood. Known for its mezcal cocktails and happy hour specials, the restaurant offers a menu featuring dishes like mole, tacos, enchiladas, soups, and ceviche. With a welcoming dining room and bar, Mesa Maguey has quickly gained attention for its flavorful, thoughtfully prepared plates. Mesa Maguey, 4031 Broadway (between 40th and 41st), Oakland.\n\nMesa Maguey\n\nFOOD & DRINKS / MENU\nThis mezcalería offers a curated selection of small-batch mezcal, including exclusive imports from San Luis Amatlán in Oaxaca. Featured brands like Tres Tiempos, produced by a single family, and Amateco, which highlights even smaller batch producers, showcase the bar’s dedication to quality. Alongside...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/09/HellaFunny-mesa-maguey-oakland.png",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641469",
    "title": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
    "start": "2026-11-24T19:30:00-08:00",
@@ -77137,6 +77777,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2018/09/The-Detour.jpg",
    "categories": [
     "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644664",
+   "title": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)",
+   "start": "2026-12-01T19:00:00-08:00",
+   "end": "2026-12-01T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Mesa Maguey",
+   "address": "4031 Broadway, Oakland, CA",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/oaklands-mezcal-mole-comedy-night-mondays-tuesdays-92/",
+   "ticket_url": "https://www.eventbrite.com/e/oaklands-brand-new-mezcal-mole-comedy-night-tickets-1014897264037?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)\nHellaFunny\nGet ready for the return of HellaFunny comedy night to Temescal with a series of pop-up live comedy shows at unique spots all across the bay.\nThis HellaFunny comedy show takes place at the just-opened Mesa Maguey, an upscale agave bar and Oaxcacan restaurant that’s a perfect date-night spot with lots of delicious plates around $20 and under.\nFree with RSVP for first 50 people\nIt’s a 70+ minute show with 4-5 comics on the bill with credits like Cobbs, Punchline, SF Sketchfest, ABC and NBC.\nHELLAFUNNY COMEDY SHOW\nDATES & TIMES\n\nMondays – 7p Show – RSVP\nTuesdays – 7p Show – RSVP\n\nABOUT MESA MAGUEY\nMesa Maguey, a contemporary agave bar and Oaxacan kitchen, has recently taken over the former Copper Spoon space in Oakland’s Temescal neighborhood. Known for its mezcal cocktails and happy hour specials, the restaurant offers a menu featuring dishes like mole, tacos, enchiladas, soups, and ceviche. With a welcoming dining room and bar, Mesa Maguey has quickly gained attention for its flavorful, thoughtfully prepared plates. Mesa Maguey, 4031 Broadway (between 40th and 41st), Oakland.\n\nMesa Maguey\n\nFOOD & DRINKS / MENU\nThis mezcalería offers a curated selection of small-batch mezcal, including exclusive imports from San Luis Amatlán in Oaxaca. Featured brands like Tres Tiempos, produced by a single family, and Amateco, which highlights even smaller batch producers, showcase the bar’s dedication to quality. Alongside...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/09/HellaFunny-mesa-maguey-oakland.png",
+   "categories": [
+    "Comedy Event Types Event"
    ],
    "notes": []
   },
@@ -78342,6 +79006,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1644660",
+   "title": "SF’s Civic Music Free Concerts (2026)",
+   "start": "2026-12-06T15:00:00-08:00",
+   "end": "2026-12-06T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "First Baptist Church",
+   "address": "22 Waller Street, San Francisco CA 94102",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-6/",
+   "ticket_url": "https://www.sfcivicmusic.org/calendar",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SF’s Civic Music Free Concerts (2026)\nSF Civic Music Association\nThe San Francisco Civic Music Association is dedicated to offering numerous opportunities for classical music lovers and amateur musicians in the San Francisco Bay Area.\nOur ensembles are open to all musicians and our concerts are free and available to the public. We’d love to see you soon!\n\n2026 SCHEDULE & PROGRAM\nSunday, October 18, 2026 – SF Civic Symphony: Great Mysteries\nHerbst Theatre, 401 Van Ness Ave, SF – maps\n3:00 PM – 5:00 PM\nPROGRAM:\n\nFranz Liszt: Les Préludes\nCamille Saint Saëns: Cello Concerto No. 1, A minor\nAngela Lee, Cello\nEdward Elgar: Enigma Variations\n\nPaul Schrage – Music Director & Conductor: Paul Schrage\nRSVP | Free Concert – Donations Accepted – Suggested Donation $20\nSunday, October 24, 2026 – An Afternoon of Chamber Music\nNoe Valley Ministry, 1021 Sanchez St,. SF – maps\n3:00 PM – 5:00 PM\nPROGRAM:\n\nMarcel Boucard, Suite Champêtre\nBarbara Landt, Flute\nCarol Yarbrough, Horn\nPaul Hindemith, Kleine Kammermusik\nMalcolm Arnold, Three Shanties\nSonore Quintet\n– Barbara Brown, Flute\n– Susan Ritter, Oboe\n– Sam Torrisi, Clarinet\n– Jeff Dickey, Horn\n– Leigh Korn, Bassoon\nAntonín Dvořák (1841–1904), Piano Quartet No. 2 in E♭Major\nPinky Quartet:\n– Leyan Lo, Violin\n– Alex Li, Viola\n– Eric Cheng, Cello\n– Sheila Chan, Piano\n\nRSVP | Free Concert – Donations Accepted – Suggested Donation $20\nSunday, November 1, 2026 – Civic Strings: Enlightenment and America\nFirst Baptist Church, 22 Waller St., SF – maps\n3...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2025/10/DSC01793.webp",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644518",
    "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
    "start": "2026-12-07T09:00:00-08:00",
@@ -78457,6 +79145,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2025/11/cartoonist-conspiracy-HML.png",
    "categories": [
     "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644666",
+   "title": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)",
+   "start": "2026-12-08T19:00:00-08:00",
+   "end": "2026-12-08T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Mesa Maguey",
+   "address": "4031 Broadway, Oakland, CA",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/oaklands-mezcal-mole-comedy-night-mondays-tuesdays-93/",
+   "ticket_url": "https://www.eventbrite.com/e/oaklands-brand-new-mezcal-mole-comedy-night-tickets-1014897264037?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)\nHellaFunny\nGet ready for the return of HellaFunny comedy night to Temescal with a series of pop-up live comedy shows at unique spots all across the bay.\nThis HellaFunny comedy show takes place at the just-opened Mesa Maguey, an upscale agave bar and Oaxcacan restaurant that’s a perfect date-night spot with lots of delicious plates around $20 and under.\nFree with RSVP for first 50 people\nIt’s a 70+ minute show with 4-5 comics on the bill with credits like Cobbs, Punchline, SF Sketchfest, ABC and NBC.\nHELLAFUNNY COMEDY SHOW\nDATES & TIMES\n\nMondays – 7p Show – RSVP\nTuesdays – 7p Show – RSVP\n\nABOUT MESA MAGUEY\nMesa Maguey, a contemporary agave bar and Oaxacan kitchen, has recently taken over the former Copper Spoon space in Oakland’s Temescal neighborhood. Known for its mezcal cocktails and happy hour specials, the restaurant offers a menu featuring dishes like mole, tacos, enchiladas, soups, and ceviche. With a welcoming dining room and bar, Mesa Maguey has quickly gained attention for its flavorful, thoughtfully prepared plates. Mesa Maguey, 4031 Broadway (between 40th and 41st), Oakland.\n\nMesa Maguey\n\nFOOD & DRINKS / MENU\nThis mezcalería offers a curated selection of small-batch mezcal, including exclusive imports from San Luis Amatlán in Oaxaca. Featured brands like Tres Tiempos, produced by a single family, and Amateco, which highlights even smaller batch producers, showcase the bar’s dedication to quality. Alongside...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/09/HellaFunny-mesa-maguey-oakland.png",
+   "categories": [
+    "Comedy Event Types Event"
    ],
    "notes": []
   },
@@ -79398,6 +80110,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1644668",
+   "title": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)",
+   "start": "2026-12-15T19:00:00-08:00",
+   "end": "2026-12-15T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Mesa Maguey",
+   "address": "4031 Broadway, Oakland, CA",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/oaklands-mezcal-mole-comedy-night-mondays-tuesdays-94/",
+   "ticket_url": "https://www.eventbrite.com/e/oaklands-brand-new-mezcal-mole-comedy-night-tickets-1014897264037?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)\nHellaFunny\nGet ready for the return of HellaFunny comedy night to Temescal with a series of pop-up live comedy shows at unique spots all across the bay.\nThis HellaFunny comedy show takes place at the just-opened Mesa Maguey, an upscale agave bar and Oaxcacan restaurant that’s a perfect date-night spot with lots of delicious plates around $20 and under.\nFree with RSVP for first 50 people\nIt’s a 70+ minute show with 4-5 comics on the bill with credits like Cobbs, Punchline, SF Sketchfest, ABC and NBC.\nHELLAFUNNY COMEDY SHOW\nDATES & TIMES\n\nMondays – 7p Show – RSVP\nTuesdays – 7p Show – RSVP\n\nABOUT MESA MAGUEY\nMesa Maguey, a contemporary agave bar and Oaxacan kitchen, has recently taken over the former Copper Spoon space in Oakland’s Temescal neighborhood. Known for its mezcal cocktails and happy hour specials, the restaurant offers a menu featuring dishes like mole, tacos, enchiladas, soups, and ceviche. With a welcoming dining room and bar, Mesa Maguey has quickly gained attention for its flavorful, thoughtfully prepared plates. Mesa Maguey, 4031 Broadway (between 40th and 41st), Oakland.\n\nMesa Maguey\n\nFOOD & DRINKS / MENU\nThis mezcalería offers a curated selection of small-batch mezcal, including exclusive imports from San Luis Amatlán in Oaxaca. Featured brands like Tres Tiempos, produced by a single family, and Amateco, which highlights even smaller batch producers, showcase the bar’s dedication to quality. Alongside...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/09/HellaFunny-mesa-maguey-oakland.png",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1637260",
    "title": "“Biblio Bistro” Farmers’ Market Cooking School | UN Plaza",
    "start": "2026-12-16T11:00:00-08:00",
@@ -79655,6 +80391,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/1398457_10153516577385360_391433010_o1.jpg",
    "categories": [
     "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644670",
+   "title": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)",
+   "start": "2026-12-22T19:00:00-08:00",
+   "end": "2026-12-22T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Mesa Maguey",
+   "address": "4031 Broadway, Oakland, CA",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/oaklands-mezcal-mole-comedy-night-mondays-tuesdays-95/",
+   "ticket_url": "https://www.eventbrite.com/e/oaklands-brand-new-mezcal-mole-comedy-night-tickets-1014897264037?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Oakland’s “Mezcal & Mole” Comedy Night (Mondays & Tuesdays)\nHellaFunny\nGet ready for the return of HellaFunny comedy night to Temescal with a series of pop-up live comedy shows at unique spots all across the bay.\nThis HellaFunny comedy show takes place at the just-opened Mesa Maguey, an upscale agave bar and Oaxcacan restaurant that’s a perfect date-night spot with lots of delicious plates around $20 and under.\nFree with RSVP for first 50 people\nIt’s a 70+ minute show with 4-5 comics on the bill with credits like Cobbs, Punchline, SF Sketchfest, ABC and NBC.\nHELLAFUNNY COMEDY SHOW\nDATES & TIMES\n\nMondays – 7p Show – RSVP\nTuesdays – 7p Show – RSVP\n\nABOUT MESA MAGUEY\nMesa Maguey, a contemporary agave bar and Oaxacan kitchen, has recently taken over the former Copper Spoon space in Oakland’s Temescal neighborhood. Known for its mezcal cocktails and happy hour specials, the restaurant offers a menu featuring dishes like mole, tacos, enchiladas, soups, and ceviche. With a welcoming dining room and bar, Mesa Maguey has quickly gained attention for its flavorful, thoughtfully prepared plates. Mesa Maguey, 4031 Broadway (between 40th and 41st), Oakland.\n\nMesa Maguey\n\nFOOD & DRINKS / MENU\nThis mezcalería offers a curated selection of small-batch mezcal, including exclusive imports from San Luis Amatlán in Oaxaca. Featured brands like Tres Tiempos, produced by a single family, and Amateco, which highlights even smaller batch producers, showcase the bar’s dedication to quality. Alongside...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/09/HellaFunny-mesa-maguey-oakland.png",
+   "categories": [
+    "Comedy Event Types Event"
    ],
    "notes": []
   },
@@ -85274,6 +86034,99 @@
    ]
   },
   {
+   "source": "sf-street-events",
+   "source_id": "1419904-2026-12-27T06:00:00-08:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2026-12-27T06:00:00-08:00",
+   "end": "2026-12-27T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Permitted",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1365573-2026-12-27T07:00:00-08:00",
+   "title": "Inner Sunset Farmers' Market",
+   "start": "2026-12-27T07:00:00-08:00",
+   "end": "2026-12-27T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Irving St between 8th Ave and 9th Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.76406,
+    -122.465778
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Irving St from 08th Ave to 09th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Permitted",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2026-12-27T07:00:00-08:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2026-12-27T07:00:00-08:00",
+   "end": "2026-12-27T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Permitted",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
    "source": "sf-street-events-pending",
    "source_id": "1560174-2026-10-21T12:00:00-07:00",
    "title": "Southern Station Halloween Event",
@@ -88296,7 +89149,6 @@
     "1642621": "2026-10-18T18:14:33",
     "1642634": "2026-10-20T17:53:13",
     "1642637": "2026-10-22T23:04:04",
-    "1642640": "2026-10-22T23:03:57",
     "1642643": "2026-10-22T23:03:50",
     "1642649": "2026-10-15T17:13:51",
     "1642651": "2026-10-15T17:13:54",
@@ -88550,6 +89402,17 @@
     "1644548": "2026-10-27T18:13:37",
     "1644550": "2026-10-27T18:13:39",
     "1644567": "2026-10-27T20:34:19",
+    "1644652": "2026-10-28T09:19:54",
+    "1644653": "2026-10-28T09:22:47",
+    "1644654": "2026-10-28T09:20:56",
+    "1644658": "2026-10-28T10:54:37",
+    "1644659": "2026-10-28T10:55:02",
+    "1644660": "2026-10-28T10:56:28",
+    "1644662": "2026-10-28T11:14:39",
+    "1644664": "2026-10-28T11:14:41",
+    "1644666": "2026-10-28T11:14:43",
+    "1644668": "2026-10-28T11:14:45",
+    "1644670": "2026-10-28T11:14:47",
     "776291": "2026-10-21T21:20:52"
    }
   },
@@ -89287,6 +90150,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17102245@sf-cal": {
+   "content_hash": "eed6747ae89721a114d10032686976ec45dc2d7e49d1668cfa382b4cda5cab6f",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "dothebay-17110421@sf-cal": {
    "content_hash": "d49b51817eb02c54a9cfd6f91aaecdec439aea51bb9632eadaadde761e0f0bb7",
    "sequence": 0,
@@ -89348,9 +90216,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17172782@sf-cal": {
-   "content_hash": "eef9474b610574ceb34a906abc273b68f67b5ec1e15c8e6eeeed1604d414376c",
-   "sequence": 1,
-   "last_modified": "2026-10-23T05:00:02.678864Z"
+   "content_hash": "54929ac34ce416d0e809e332c86dcfb5e4ec680e298719a460c0a9519451331e",
+   "sequence": 2,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17183882@sf-cal": {
    "content_hash": "819835135e8d9952abc3efa6d88c988f84a6f56922e638809ee64c34866e61c8",
@@ -89928,9 +90796,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17470378@sf-cal": {
-   "content_hash": "1f9943f819e7521da27241ecc949d39f1ca2a570686a06f083fe0b1c06c39f22",
-   "sequence": 1,
-   "last_modified": "2026-10-23T17:14:42.400470Z"
+   "content_hash": "f7efe2b21d66a91a2c1559d3639354e4d467bb0c36a64c77258e3f9637cc6f5e",
+   "sequence": 2,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17472217@sf-cal": {
    "content_hash": "7829fd56478dbfc75b2bc49099dfca72c7e07f366fb04ae4893322ff30f7bad2",
@@ -90813,9 +91681,9 @@
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
   "dothebay-17648108@sf-cal": {
-   "content_hash": "318e4bb337d98d1413330fe005f5000b8ba484e1e7ba0064432cb676412e2848",
-   "sequence": 1,
-   "last_modified": "2026-10-23T05:00:02.678864Z"
+   "content_hash": "2ff5aa05f2c6ea7558de24b439c8550e30ba614e93d0c8148646b063f2dc59e6",
+   "sequence": 2,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17648109@sf-cal": {
    "content_hash": "d2744074471c91a36ece68f9a7c5b3e7fc0c25a90304e869100ca544cb44fccb",
@@ -91132,6 +92000,11 @@
    "sequence": 0,
    "last_modified": "2026-10-26T13:14:06.441578Z"
   },
+  "dothebay-17686355@sf-cal": {
+   "content_hash": "3c920ef8505a111a824af64a9ae0a1a7aa882d4471e88059718abb3e035ffc65",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "dothebay-17687912@sf-cal": {
    "content_hash": "fe32d1df75c576a45b0fd7d509a7d28880e65cb926e97b2113ca1f81f55a1149",
    "sequence": 0,
@@ -91246,6 +92119,11 @@
    "content_hash": "aa92e723629911a60c30c3ccd8bca2b263852a9406b75fb631c8751e09fb1929",
    "sequence": 1,
    "last_modified": "2026-10-22T12:01:38.361786Z"
+  },
+  "dothebay-17702210@sf-cal": {
+   "content_hash": "2db94d3a25fd4671d05320bbdde9cf984e009b78cd7f32e16eb01c78e35b8f72",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17702483@sf-cal": {
    "content_hash": "4513cbab39b5885af106f60ebbc9ba5d83f213b05ea332c5d3a6ad34f87e082e",
@@ -91447,6 +92325,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
+  "dothebay-17728019@sf-cal": {
+   "content_hash": "c68451098e0a101477ed5b73b0e6e9121aaab3891f2dd8fef8048e6a11ad3117",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "dothebay-17728298@sf-cal": {
    "content_hash": "c94d42eb3ddc240b908a729bf281c21472360905246703fb6f5fdb01a6759649",
    "sequence": 2,
@@ -91593,9 +92476,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17739439@sf-cal": {
-   "content_hash": "080e4a5bf7b9c93121ac2b772f8e75d60c6da2fd801acea0f31c842fb634855d",
-   "sequence": 2,
-   "last_modified": "2026-10-28T05:52:35.456620Z"
+   "content_hash": "5969d2029b301f217760eed26b2d00fa9ec54de7414b2489c8c2cfa6edbcf150",
+   "sequence": 3,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17739819@sf-cal": {
    "content_hash": "93998651bdaa64a1da093e7e8a81ca8cabe8eda190daf02a656833b23451ead5",
@@ -91713,9 +92596,9 @@
    "last_modified": "2026-10-18T11:18:13.035663Z"
   },
   "dothebay-17752174@sf-cal": {
-   "content_hash": "4c3ffa06821d271ed906e0db11047207c111a3b078b934023e6ee8bd85dc8d4e",
-   "sequence": 1,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
+   "content_hash": "25e39fbba5d4d931b97b977fc8b0808f09fef984b4b27e6cc2a4bc707ac506da",
+   "sequence": 2,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17752418@sf-cal": {
    "content_hash": "2d538020b54a37da1e8b01aa675756019b159b4dfdd26628f9b5d28a370170d9",
@@ -93487,6 +94370,11 @@
    "sequence": 0,
    "last_modified": "2026-10-27T15:24:52.531811Z"
   },
+  "dothebay-17909115@sf-cal": {
+   "content_hash": "f8e7eabbc2772d009d42fa0d875c0568babe71dde2b093726bd2befc69e59472",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "dothebay-17909118@sf-cal": {
    "content_hash": "78d8c4d3deb57402c15fc1bf300d89fb84232fe5250fdd39402abaf65f7f2df2",
    "sequence": 0,
@@ -94288,9 +95176,9 @@
    "last_modified": "2026-10-18T11:18:13.035663Z"
   },
   "dothebay-17951313@sf-cal": {
-   "content_hash": "69b81e018dcb2d594ca72f2029f29268ee35f26f156bd5a98791998c8f381f03",
-   "sequence": 1,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
+   "content_hash": "4634eccc8fa26106cb7134c9b8f193b0a09bf339f483d9431ba03d4d19d21829",
+   "sequence": 2,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17951839@sf-cal": {
    "content_hash": "084be40241942e5c0631e54080db0b90fa409ab43236e3fb660f44505df1b54b",
@@ -95142,15 +96030,20 @@
    "sequence": 0,
    "last_modified": "2026-10-27T15:24:52.531811Z"
   },
+  "dothebay-17981800@sf-cal": {
+   "content_hash": "bdb9064b87574b4316a51ddba6d5a43c86e5ca914f7023e7dc20ecb108497b51",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "dothebay-17982723@sf-cal": {
    "content_hash": "d015aeecc1ae8e319f371fdae67cbfa452e091483d218f089dd9a4eb0f1b3ec8",
    "sequence": 1,
    "last_modified": "2026-10-27T22:21:29.169315Z"
   },
   "dothebay-17982727@sf-cal": {
-   "content_hash": "59465280fb2b4e990f09897929a35e48dae18e3979c3cf55aa23b706e9f1813c",
-   "sequence": 0,
-   "last_modified": "2026-10-23T17:14:42.400470Z"
+   "content_hash": "d39782bb4c0c6a982fd5980a0ce0c53f55ae8e44a72e9bc7eddb9716f26ab91b",
+   "sequence": 1,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17982731@sf-cal": {
    "content_hash": "fa2ab540db65909c24a6c8043bdb3772fd19f4151de3e76a9763fdb349a53443",
@@ -95158,9 +96051,9 @@
    "last_modified": "2026-10-23T17:14:42.400470Z"
   },
   "dothebay-17982757@sf-cal": {
-   "content_hash": "b975dfdce9e24bf0bb8632dfce2246f6ead5d45955bc2f91891ff54c30630318",
-   "sequence": 0,
-   "last_modified": "2026-10-23T17:14:42.400470Z"
+   "content_hash": "2ae7528adc2d1803469fb174f116b9f764994db8c9a4b8e3e350305595a8ee38",
+   "sequence": 1,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17982772@sf-cal": {
    "content_hash": "a2f99e07400fa03558e2ca798127477d0553bc4291b2b5dd37355993b5231ca8",
@@ -95186,6 +96079,11 @@
    "content_hash": "7f69ad917e96ef63a6268a5ea7508cda906fe5f3d5b9ebdbd49bf6da8428ef77",
    "sequence": 1,
    "last_modified": "2026-10-23T05:00:02.678864Z"
+  },
+  "dothebay-17984559@sf-cal": {
+   "content_hash": "9146bf07e28f4d111b2246a89719ae048ec2656f9a0c9fadeb88ba2deed92994",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-17984562@sf-cal": {
    "content_hash": "d356f40d3d91f2e70188cc9be835c3d39a781235de7eda3e09b918b9032df78e",
@@ -95387,6 +96285,11 @@
    "sequence": 0,
    "last_modified": "2026-10-24T16:02:25.399258Z"
   },
+  "dothebay-17989192@sf-cal": {
+   "content_hash": "0cb6dac907187ed11b1d67cd864114b5ce403daf5e08d9758baa27135b90118a",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "dothebay-17989648@sf-cal": {
    "content_hash": "f7cc7478b0b9c2ff854e88fdd4830318d87a0737079ccc75def9ab6811c43048",
    "sequence": 0,
@@ -95536,6 +96439,16 @@
    "content_hash": "8a8452c99a3bcac2cfafcc0cae3c15ef64460a2a5e816c73b76388ae6b62d563",
    "sequence": 0,
    "last_modified": "2026-10-27T09:07:16.683946Z"
+  },
+  "dothebay-18002727@sf-cal": {
+   "content_hash": "8dba68882384fa0722668c909657ad08f20e71478d6d7a7e12e0b44a82324dbe",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
+  "dothebay-18002952@sf-cal": {
+   "content_hash": "ae972273e14e70cd176ed0dbd029b8f8bdf45f78dd4d5746328ec92f2bb53268",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "dothebay-18003727@sf-cal": {
    "content_hash": "c533cef25c2186938667282af976a559908ab4e18124088bc56523bb442d257b",
@@ -98472,6 +99385,16 @@
    "sequence": 0,
    "last_modified": "2026-10-27T22:21:29.169315Z"
   },
+  "funcheap-1644659@sf-cal": {
+   "content_hash": "585b0924104a7a592a1707328f770a6ca03ffee1e976888f2835f5ccadb8d70d",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
+  "funcheap-1644660@sf-cal": {
+   "content_hash": "ded91b56c78629a638abcb23577b0efa11ac1772faabed23b502a1003ad4ae00",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "sf-street-events-1365550-2026-10-21T13:00:00-07:00@sf-cal": {
    "content_hash": "afda22f98c0aa0fb04f7843b7993f8c16431774b3b76851c4d519db00cfc7d81",
    "sequence": 1,
@@ -98592,6 +99515,11 @@
    "sequence": 0,
    "last_modified": "2026-10-21T11:59:02.827976Z"
   },
+  "sf-street-events-1365573-2026-12-27T07:00:00-08:00@sf-cal": {
+   "content_hash": "be7e02507c23c61fe0015767de58dee506f0ba8dfd06abde6ac39bf015793c04",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
   "sf-street-events-1389402-2026-11-19T09:00:00-08:00@sf-cal": {
    "content_hash": "cf8ff756fb76cb2f4828ed89c2d530e1ce617a35f21ccb0e914963f0172181fc",
    "sequence": 2,
@@ -98666,6 +99594,11 @@
    "content_hash": "580441310d08a29e9978aa2b3c51ebca710423b4ebdff087dda87ee90ecec459",
    "sequence": 0,
    "last_modified": "2026-10-21T11:59:02.827976Z"
+  },
+  "sf-street-events-1419904-2026-12-27T06:00:00-08:00@sf-cal": {
+   "content_hash": "90004f6070452d33fa0f78213fbb543164ad4dec6085ad70155d4843ca3966dd",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "sf-street-events-1429598-2026-10-24T06:00:00-07:00@sf-cal": {
    "content_hash": "acf6ee64d5806e62e9735de02c2e25823ef1750e3c10cfa3fa4d58ddf7de85fc",
@@ -98821,6 +99754,11 @@
    "content_hash": "2e1c3e76acd3f640de2067989d75ebf8cbda4714ebc225c5e34373e60a78d579",
    "sequence": 0,
    "last_modified": "2026-10-21T11:59:02.827976Z"
+  },
+  "sf-street-events-1498354-2026-12-27T07:00:00-08:00@sf-cal": {
+   "content_hash": "af150a0418bb475cfbd5d3c08f1d58d8ba4907c931d7bba92470d5146ff06d18",
+   "sequence": 0,
+   "last_modified": "2026-10-28T13:07:10.223012Z"
   },
   "sf-street-events-1503400-2026-10-31T11:00:00-07:00@sf-cal": {
    "content_hash": "e00b5106638858479daf8c2f74f8627cc8a44af1bb0cd40bc5e738cf6ab6bfed",

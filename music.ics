@@ -7222,20 +7222,22 @@ BEGIN:VEVENT
 SUMMARY:Underoath
 DTSTART;TZID=America/Los_Angeles:20261114T183000
 DTEND;TZID=America/Los_Angeles:20261114T203000
-DTSTAMP:20261023T171442Z
+DTSTAMP:20261028T130710Z
 UID:dothebay-17470378@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
-DESCRIPTION:Doors open at 5:30pm\n\nDefine the Great Line 20th Anniversary
-  Tour\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
- dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Funderoath-define-the-gr
- eat-line-20th-san-francisco-california-11-14-2026%2Fevent%2F1C0064C2C9C9CD
- A7\nDetails: https://dothebay.com/events/2026/11/14/underoath-define-the-g
- reat-line-20th-anniversary-tour-tickets\nSource: DoTheBay
+DESCRIPTION:Define the Great Line 20th Anniversary Tour\nUnderoath\nwith A
+ ugust Burns Red\, Atreyu\, As Cities Burn\n\nSaturday\, November 14 | The 
+ Masonic\n\nDoors open at 5:30pm\n\nDefine the Great Line 20th Anniversary 
+ Tour\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Shared
+ Id=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Funderoath-define-the-gre
+ at-line-20th-san-francisco-california-11-14-2026%2Fevent%2F1C0064C2C9C9CDA
+ 7\nDetails: https://dothebay.com/events/2026/11/14/underoath-define-the-gr
+ eat-line-20th-anniversary-tour-tickets\nSource: DoTheBay
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32661698/98f56ba1-bcac-43cf-81c0-401446d81e6a.png
-LAST-MODIFIED:20261023T171442Z
+LAST-MODIFIED:20261028T130710Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/underoath-define-the-great-line
@@ -7571,6 +7573,46 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:The Studio
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/15/bob-marley-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Civic Music Free Concerts (2026)
+DTSTART;TZID=America/Los_Angeles:20261115T150000
+DTEND;TZID=America/Los_Angeles:20261115T170000
+DTSTAMP:20261028T130710Z
+UID:funcheap-1644659@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:SF’s Civic Music Free Concerts (2026)\nSF Civic Music Associ
+ ation\nThe San Francisco Civic Music Association is dedicated to offering 
+ numerous opportunities for classical music lovers and amateur musicians in
+  the San Francisco Bay Area.\nOur ensembles are open to all musicians and 
+ our concerts are free and available to the public. We’d love to see you 
+ soon!\n\n2026 SCHEDULE & PROGRAM\nSunday\, October 18\, 2026 – SF Civic 
+ Symphony: Great Mysteries\nHerbst Theatre\, 401 Van Ness Ave\, SF – maps
+ \n3:00 PM – 5:00 PM\nPROGRAM:\n\nFranz Liszt: Les Préludes\nCamille Sai
+ nt Saëns: Cello Concerto No. 1\, A minor\nAngela Lee\, Cello\nEdward Elga
+ r: Enigma Variations\n\nPaul Schrage – Music Director & Conductor: Paul 
+ Schrage\nRSVP | Free Concert – Donations Accepted – Suggested Donation
+  $20\nSunday\, October 24\, 2026 – An Afternoon of Chamber Music\nNoe Va
+ lley Ministry\, 1021 Sanchez St\,. SF – maps\n3:00 PM – 5:00 PM\nPROGR
+ AM:\n\nMarcel Boucard\, Suite Champêtre\nBarbara Landt\, Flute\nCarol Yar
+ brough\, Horn\nPaul Hindemith\, Kleine Kammermusik\nMalcolm Arnold\, Three
+  Shanties\nSonore Quintet\n– Barbara Brown\, Flute\n– Susan Ritter\, O
+ boe\n– Sam Torrisi\, Clarinet\n– Jeff Dickey\, Horn\n– Leigh Korn\, 
+ Bassoon\nAntonín Dvořák (1841–1904)\, Piano Quartet No. 2 in E♭Majo
+ r\nPinky Quartet:\n– Leyan Lo\, Violin\n– Alex Li\, Viola\n– Eric Ch
+ eng\, Cello\n– Sheila Chan\, Piano\n\nRSVP | Free Concert – Donations 
+ Accepted – Suggested Donation $20\nSunday\, November 1\, 2026 – Civic 
+ Strings: Enlightenment and America\nFirst Baptist Church\, 22 Waller St.\,
+  SF – maps\n3...\n\nFree\n\nTickets: https://www.sfcivicmusic.org/calend
+ ar\nDetails: https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-5/
+ \nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/10/DSC017
+ 93.webp
+LAST-MODIFIED:20261028T130710Z
+LOCATION:Herbst Theatre\, 401 Van Ness Avenue\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-5/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rodrigo y Gabriela
@@ -9886,6 +9928,30 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/28/jackie-greene-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Porter Robinson b2b Ninajirachi
+DTSTART;TZID=America/Los_Angeles:20261128T200000
+DTEND;TZID=America/Los_Angeles:20261128T220000
+DTSTAMP:20261028T130710Z
+UID:dothebay-17984559@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Goldenvoice Presents\nClub Darc Season 2\nPorter Robinson b2b 
+ Ninajirachi\nwith Dylan Brady\, Doss\, Nina Las Vegas\, Clearcast\n\nSatur
+ day\, November 28 | Shed A at Pier 48\n\nREGISTER FOR ARTIST PRESALE\n\nAR
+ TIST PRESALE: WEDNESDAY\, 10/28 @ 10AM\n\n21+\nGoldenvoice Presents: Club 
+ Darc Season 2\n\nTickets: https://www.axs.com/events/1629392/porter-robins
+ on-b2b-ninajirachi-tickets?cid=usaffdostuff\nDetails: https://dothebay.com
+ /events/2026/11/28/club-darc-porter-robinson-ninajirachi-tickets\nSource: 
+ DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35091040/a9baa2c7-d090-443e-b12f-0505acdee77d.jpg
+LAST-MODIFIED:20261028T130710Z
+LOCATION:Shed A at Pier 48\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/28/club-darc-porter-robinson-ninaj
+ irachi-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Devault
 DTSTART;TZID=America/Los_Angeles:20261128T210000
 DTEND;TZID=America/Los_Angeles:20261128T230000
@@ -10847,6 +10913,46 @@ LOCATION:Noe Street between Market and Beaver\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/castro-art-mart-2026-drag-music-art-1st-sunday
  s-8/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Civic Music Free Concerts (2026)
+DTSTART;TZID=America/Los_Angeles:20261206T150000
+DTEND;TZID=America/Los_Angeles:20261206T160000
+DTSTAMP:20261028T130710Z
+UID:funcheap-1644660@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:SF’s Civic Music Free Concerts (2026)\nSF Civic Music Associ
+ ation\nThe San Francisco Civic Music Association is dedicated to offering 
+ numerous opportunities for classical music lovers and amateur musicians in
+  the San Francisco Bay Area.\nOur ensembles are open to all musicians and 
+ our concerts are free and available to the public. We’d love to see you 
+ soon!\n\n2026 SCHEDULE & PROGRAM\nSunday\, October 18\, 2026 – SF Civic 
+ Symphony: Great Mysteries\nHerbst Theatre\, 401 Van Ness Ave\, SF – maps
+ \n3:00 PM – 5:00 PM\nPROGRAM:\n\nFranz Liszt: Les Préludes\nCamille Sai
+ nt Saëns: Cello Concerto No. 1\, A minor\nAngela Lee\, Cello\nEdward Elga
+ r: Enigma Variations\n\nPaul Schrage – Music Director & Conductor: Paul 
+ Schrage\nRSVP | Free Concert – Donations Accepted – Suggested Donation
+  $20\nSunday\, October 24\, 2026 – An Afternoon of Chamber Music\nNoe Va
+ lley Ministry\, 1021 Sanchez St\,. SF – maps\n3:00 PM – 5:00 PM\nPROGR
+ AM:\n\nMarcel Boucard\, Suite Champêtre\nBarbara Landt\, Flute\nCarol Yar
+ brough\, Horn\nPaul Hindemith\, Kleine Kammermusik\nMalcolm Arnold\, Three
+  Shanties\nSonore Quintet\n– Barbara Brown\, Flute\n– Susan Ritter\, O
+ boe\n– Sam Torrisi\, Clarinet\n– Jeff Dickey\, Horn\n– Leigh Korn\, 
+ Bassoon\nAntonín Dvořák (1841–1904)\, Piano Quartet No. 2 in E♭Majo
+ r\nPinky Quartet:\n– Leyan Lo\, Violin\n– Alex Li\, Viola\n– Eric Ch
+ eng\, Cello\n– Sheila Chan\, Piano\n\nRSVP | Free Concert – Donations 
+ Accepted – Suggested Donation $20\nSunday\, November 1\, 2026 – Civic 
+ Strings: Enlightenment and America\nFirst Baptist Church\, 22 Waller St.\,
+  SF – maps\n3...\n\nFree\n\nTickets: https://www.sfcivicmusic.org/calend
+ ar\nDetails: https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-6/
+ \nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/10/DSC017
+ 93.webp
+LAST-MODIFIED:20261028T130710Z
+LOCATION:First Baptist Church\, 22 Waller Street\, San Francisco CA 94102
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-6/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with Squirrel Nut Zippers: Christmas Caravan 2026
@@ -12906,6 +13012,81 @@ LAST-MODIFIED:20261027T152452Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/26/pura-saturdays-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crop Top\, Funeral Cake\, Mark Eitzel\, Strange Cities\, Devoted F
+ ans\, ... and more
+DTSTART;TZID=America/Los_Angeles:20261227T160000
+DTEND;TZID=America/Los_Angeles:20261227T180000
+DTSTAMP:20261028T130710Z
+UID:dothebay-17981800@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Sun\n\nday December 27\n2026\n\n4:00PM\n\ndoors\n\n-- music at
+  4\n\n:30PM\n\nALL AGES\n\n$10\n\n$14.31 in advance [10 face value +4.31 s
+ ervice fee]\n\n-------on sale 10/23\n\nCrop Top\n\ngarage pop\n\nFuneral C
+ ake\n\npower pop\n\nMark Eitzel\n\nIndie Folk Americana\n\nStrange Cities\
+ n\npost-punk shoegaze\n\nDevoted Fans\n\nindie pop shoegaze\n\n... and mor
+ e\n\n$10\n\nTickets: http://www.bottomofthehill.com/20261227.html\nDetails
+ : https://dothebay.com/events/2026/12/27/crop-top-funeral-cake-mark-eitzel
+ -strange-cities-devoted-fans-and-more-tickets\nSource: DoTheBay
+GEO:37.7649597;-122.3964408
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35077182/a2bc33fa-a82a-423c-999f-03f0e71ce6aa.jpg
+LAST-MODIFIED:20261028T130710Z
+LOCATION:Bottom Of The Hill\, 1233 17th Street\, San Francisco\, CA\, 9410
+ 7
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/27/crop-top-funeral-cake-mark-eitz
+ el-strange-cities-devoted-fans-and-more-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guajirón: Cuban Jam & Salsa Night
+DTSTART;TZID=America/Los_Angeles:20261227T193000
+DTEND;TZID=America/Los_Angeles:20261227T213000
+DTSTAMP:20261028T130710Z
+UID:dothebay-17989192@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Presented by Guajirón\nCuban Jam & Salsa Night\nSunday\, Dece
+ mber 27\, 2026 | Boom Boom Room\nDance salsa to live Cuban music with Guaj
+ irón in San Francisco’s Fillmore neighborhood. Come dance\, enjoy the m
+ usic\, or sit in: musicians are welcome to join the band for an Afro-Cuban
+  jam.\n7:30–11:30 p.m. | Free admission\n1601 Fillmore Street\, San Fran
+ cisco\, CA 94115\nPart of Guajirón’s last-Sunday-of-the-month residency
+ . The next published date is January 31\, 2027\, starting at 7:30 p.m. Pac
+ ific.\nOfficial event details | Free RSVP | Full show schedule\nImage cred
+ it: Guajirón.\n\nFree\nGuajirón\n\nTickets: https://consumer.pxf.io/APvP
+ 5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fboom-boom-room-cuban-jam-ticke
+ ts-2001029217255\nDetails: https://dothebay.com/events/2026/12/27/guajiron
+ -cuban-jam-salsa-night-tickets\nSource: DoTheBay
+GEO:37.78460570000001;-122.4332024
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35109577/95d0f1ff-6f77-4a70-9606-aa98bfdf7abd.jpg
+LAST-MODIFIED:20261028T130710Z
+LOCATION:Boom Boom Room\, 1601 Fillmore Street\, San Francisco\, CA\, 9411
+ 5
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/27/guajiron-cuban-jam-salsa-night-
+ tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIMENSIONS w/ DJ 2NITE
+DTSTART;TZID=America/Los_Angeles:20261227T220000
+DTEND;TZID=America/Los_Angeles:20261228T000000
+DTSTAMP:20261028T130710Z
+UID:dothebay-17686355@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
+ ebay.com/events/2026/12/27/dimensions-w-dj-2nite-tickets\nSource: DoTheBay
+GEO:37.7552647;-122.4193588
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33677006/0ea3c01f-03fa-4f78-acb2-8c248097b6d3.jpg
+LAST-MODIFIED:20261028T130710Z
+LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/27/dimensions-w-dj-2nite-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daft Disko: New Years Eve
