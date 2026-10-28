@@ -40,30 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Mycological Society Monthly Meeting
-DTSTART;TZID=America/Los_Angeles:20261020T183000
-DTEND;TZID=America/Los_Angeles:20261020T210000
-DTSTAMP:20261018T205153Z
-UID:funcheap-1642427@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Submitted by the Event OrganizerBrennan Wenck-reillyThe Mycolo
- gical Society of San Francisco holds a monthly meeting highlight all aspec
- ts of mushroom foraging\, eating\, and current scientific research. There 
- are always mushroom appetizers before the meeting\,a s well as various dri
- nks available. If you have any interest in learning more about mushrooms\,
-  or if you have a mushroom you would like to have identified\, please come
-  and share with our community.\n\nFree\n\nTickets: https://mssf.org/meetin
- gs/index.html\nDetails: https://sf.funcheap.com/mycological-society-monthl
- y-meeting/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
- shot-2026-10-13-at-20.55.50.jpg
-LAST-MODIFIED:20261018T205153Z
-LOCATION:Randall Museum\, 199 Museum Way\, San Francisco CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/mycological-society-monthly-meeting/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261021T090000
 DTEND;TZID=America/Los_Angeles:20261021T100000
@@ -961,22 +937,6 @@ LOCATION:Salesforce Park\, 425 Mission St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/2026-valkyries-finals-game-5-watch-party-free-
  sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261027T173000
-DTEND;TZID=America/Los_Angeles:20261027T183000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-fc4bff4be67aede6@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10533\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
@@ -2081,6 +2041,48 @@ LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-452/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Holiday Ice Skating Rink at Union Square: 2026 Opening Cere
+ mony + Free Ice Skating
+DTSTART;TZID=America/Los_Angeles:20261104T100000
+DTEND;TZID=America/Los_Angeles:20261104T230000
+DTSTAMP:20261028T055235Z
+UID:funcheap-1590587@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports Fitness
+DESCRIPTION:SF’s Holiday Ice Skating Rink at Union Square (2026-27)\nUni
+ on Square Ice Rink\nOne of San Francisco’s favorite holiday traditions r
+ eturns for its 19th season. The Safeway Holiday Ice Rink in Union Square o
+ pens November 4\, 2026\, bringing outdoor ice skating to the heart of down
+ town San Francisco through January 18\, 2027.\nSkate beneath the holiday l
+ ights in Union Square\, with themed nights throughout the season ranging f
+ rom ’80s music and country glam to a silent disco on ice.\nThe rink is o
+ pen daily\, with hour-long skating sessions starting every 90 minutes. Thi
+ s year’s lineup includes returning favorites like Drag on Ice\, Silent S
+ kate\, Flashback Fridays and Polar Bear Skate\, plus a new series of Wedne
+ sday night themed skating sessions. Tickets are on sale now at unionsquare
+ icerink.com.\n\nSpecial Events at the Union Square Ice Rink\nOpening Celeb
+ ration\nWednesday\, November 4\, 2026 | 5-7 p.m.\nThe season kicks off wit
+ h an evening celebration and on-ice performances. The first 100 guests can
+  skate for free during the 5:30 p.m. and 7 p.m. sessions. Registration is 
+ required upon arrival.\nFlashback Fridays\nNovember 27\, December 18\, 202
+ 6\, and January 15\, 2027 | 7 p.m. and 8:30 p.m. sessions\nSkate to 1980s 
+ hits with music from Greatest Hits 103.7. Expect throwback tracks from art
+ ists like Madonna\, Michael Jackson\, Queen\, Prince and Pat Benatar.\nDra
+ g on Ice\nThursday\, December 3\, 2026 | 6:30-8 p.m. | $35\nLocal drag per
+ formers bring their show to the ice for an evening of skating and live ent
+ ...\n\nFree\n\nTickets: http://unionsquareicerink.com/union-square-ice-ska
+ ting/\nDetails: https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-un
+ ion-square-2025-opening-ceremony-free-ice-skating-union-square/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/09/Union-
+ Square-Ice-Rink_Aerial-at-Night.jpg
+LAST-MODIFIED:20261028T055235Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-2
+ 025-opening-ceremony-free-ice-skating-union-square/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ranch First Wednesday Open Community Day | Napa
