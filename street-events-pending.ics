@@ -41,28 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Southern Station Halloween Event
-DTSTART;TZID=America/Los_Angeles:20261021T120000
-DTEND;TZID=America/Los_Angeles:20261021T200000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1560174-2026-10-21T12:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Long Bridge St from Corinne Woods Way to China Basin S
- t\; China Basin St from Merrimac St to Long Bridge St\; Long Bridge St fro
- m Corinne Woods Way to Corinne Woods Way\; China Basin St from 04th St to 
- Merrimac St\n\nPermit status: Pending Payment\nTimes are SFMTA street-clos
- ure permit times and include setup and teardown\nSource: DataSF Temporary 
- Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataS
- F street closures (pending permit)
-GEO:37.771876;-122.393448
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Long Bridge St between China Basin St and Corinne Woods Way\, San
-  Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Excelsior district block party
 DTSTART;TZID=America/Los_Angeles:20261024T000000
 DTEND;TZID=America/Los_Angeles:20261024T235900

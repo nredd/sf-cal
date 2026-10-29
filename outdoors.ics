@@ -40,50 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
- pe (October 2026)
-DTSTART;TZID=America/Los_Angeles:20261021T190000
-DTEND;TZID=America/Los_Angeles:20261021T210000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638505@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Tel
- escope (Fall 2026)\nSan Francisco State University Observatory\nSan Franci
- sco State University Observatory hosts a free public open night with famil
- y-friendly astronomy talks\, updates on astronomy research\, and rooftop t
- elescope observing. Programming is offered in English and Spanish\, weathe
- r permitting.\nLocated at SFSU Thornton Hall top floor\nUpcoming Weekly Sc
- hedule Through Dec. 4\, 2026\nWednesday\, Thursday + Friday evenings when 
- skies are clear.\n– September: 7:30-9:30 PM.\n– October: 7:00-9:30 PM.
- \n– November/December*: 6:30-9:00 PM (thru 12/4)\n\nNovember/December 20
- 26 Closures\n\nThe observatory will be CLOSED for Veterans day\, Wednesday
- \, Nov 11.\nThe observatory will be CLOSED during Fall Recess\, November 2
- 3-27\, 2026.\nThe Observatory will be CLOSED the last week of classes (Dec
-  7-11).\n\nThe LAST open public night (weather permitting) will be Friday\
- , Dec 4\, 2026\n*** The Observatory is open ONLY when skies are clear! Ple
- ase see SF State Instagram to check if we are closed due to poor weather c
- onditions! ***\nThe SF State Observatory is a student-run facility open to
-  all students\, staff\, and members of the public two or three nights per 
- week in fall and spring semesters. With the aid of observatory docents\, v
- isitors use telescopes to look at craters on the Moon\, planets\, beautifu
- l binary stars\, star clusters\, nebulae\, and more. SF State students: ne
- ed a study break? Drop by\, and bring a friend!\nThornton Hall\, 10th Floo
- r\nSan...\n\nFree\n\nTickets: https://www.instagram.com/p/DdnGZdLNdTy/?utm
- _source=ig_web_copy_link&amp\;stkn=NTc4MTIwNjQ2YQ==\nDetails: https://sf.f
- uncheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telesco
- pe-october-2026-4/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/795430
- 663_18031112828897469_115452629079591010_n-1.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:San Francisco State University Observatory\, Thornton Hall\, 10th
-  Floor San Francisco State University 1600 Holloway Avenue San Francisco\,
-  CA 94132
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
- s-w-huge-telescope-october-2026-4/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NightLife: Día de los Muertos
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T200000
@@ -931,9 +887,9 @@ BEGIN:VEVENT
 SUMMARY:Dance Outdoors with Rhythm & Motion
 DTSTART;TZID=America/Los_Angeles:20261028T120000
 DTEND;TZID=America/Los_Angeles:20261028T140000
-DTSTAMP:20261028T202041Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17734082@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
  e.\n\nMore dates to be announced. Check back often for updates.\n\nNamed S
@@ -945,14 +901,13 @@ DESCRIPTION:Wednesdays at Noon. Free RSVP encouraged\, drop-ins are welcom
   you to weekly one-hour dance workout classes in a beautiful outdoor space
  . Wear comfortable clothing and supportive shoes suitable for grass. Bring
   water\, layers for unpredictable weather\, your sense of comfort and conn
- ection and your abundant joy.\n\nFree RSVP\n\nTickets: https://ybgfestival
- .org/event/dance-outdoors-with-rhythm-motion-102826/\nDetails: https://dot
- hebay.com/events/2026/10/28/dance-outdoors-with-rhythm-motion-tickets\nSou
- rce: DoTheBay
+ ection and your abundant joy.\n\nFree RSVP\n\nDetails: https://dothebay.co
+ m/events/2026/10/28/dance-outdoors-with-rhythm-motion-tickets\nSource: DoT
+ heBay
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33910341/655a033e-0df1-4d00-886b-def08b36094a.jpg
-LAST-MODIFIED:20261028T202041Z
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
@@ -1018,22 +973,6 @@ LAST-MODIFIED:20261025T205626Z
 LOCATION:Crane Cove Park\, 701 Illinois Street San Francisco\, CA 94107
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-weekly-run-club-levels-crane-cove-park/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Dance Fitness Class by Rae Studios
-DTSTART;TZID=America/Los_Angeles:20261028T173000
-DTEND;TZID=America/Los_Angeles:20261028T183000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-b05b1a301aef6e9d@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free dance fitness classes https://sfrecpark.org/calendar.aspx
- ?EID=10534\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
- dar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco

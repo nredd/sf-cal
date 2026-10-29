@@ -40,73 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Back to the Future Day Comedy Showcase with Marty McFly's GF Claud
- ia Wells!
-DTSTART;TZID=America/Los_Angeles:20261021T190000
-DTEND;TZID=America/Los_Angeles:20261021T210000
-DTSTAMP:20261022T120138Z
-UID:dothebay-16688091@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Go back to the future for a night of comedy\, featuring Claudi
- a Wells (Jennifer Parker)\, an autograph signing & special guests!\n\nLaug
- h to the Future: A Comedy Showcase on Back To The Future Day!\n\nFree\nVal
- ue Culture\n\nDetails: https://dothebay.com/events/2026/10/21/infamous-boo
- m-boom-comedy-showcase-3rd-wednesdays-tickets\nSource: DoTheBay\n\nAlso li
- sted on:\n- https://sf.funcheap.com/future-day-comedy-show-claudia-wells-j
- ennifer-parker-film/
-GEO:37.78460570000001;-122.4332024
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35023010/9267cd08-d912-47f6-9610-7e5f9fae273e.jpg
-LAST-MODIFIED:20261022T120138Z
-LOCATION:Boom Boom Room\, 1601 Fillmore Street\, San Francisco\, CA\, 9411
- 5
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/infamous-boom-boom-comedy-showc
- ase-3rd-wednesdays-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anthony Locascio
-DTSTART;TZID=America/Los_Angeles:20261021T193000
-DTEND;TZID=America/Los_Angeles:20261021T213000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17672102@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Anthony Locascio\nWednesday\, October 21 | ​Cobb's Comedy Cl
- ub\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/21/anthony-locas
- cio-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
- m/secret-guest-list-cobbs-free-comedy-nights-anthony-locascio/
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33617427/bb656303-5347-4f29-a08d-7007bc542d01.png
-LAST-MODIFIED:20261022T120138Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/anthony-locascio-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laurie Kilmartin
-DTSTART;TZID=America/Los_Angeles:20261021T200000
-DTEND;TZID=America/Los_Angeles:20261021T220000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17535766@sf-cal
-SEQUENCE:3
-CATEGORIES:Comedy
-DESCRIPTION:Laurie Kilmartin\nWednesday\, October 21 | ​Punch Line San F
- rancisco\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/21/laurie-
- kilmartin-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32976416/dbcfdc90-a9a0-4650-983b-8c1417485185.png
-LAST-MODIFIED:20261022T120138Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/laurie-kilmartin-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Giulio Gallarotti
 DTSTART;TZID=America/Los_Angeles:20261022T193000
 DTEND;TZID=America/Los_Angeles:20261022T213000
@@ -1065,9 +998,9 @@ BEGIN:VEVENT
 SUMMARY:Fred Armisen
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T210000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17279063@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Another Planet Entertainment Presents\nComedy For Musicians Bu
  t Everyone Is Welcome\nFred Armisen\nWednesday\, October 28 | The Castro\n
@@ -1083,17 +1016,13 @@ DESCRIPTION:Another Planet Entertainment Presents\nComedy For Musicians Bu
  s an 11-season veteran of Saturday Night Live. From 2014-2024\, Armisen wa
  s band leader of the 8G Band on Late Night With Seth Meyers.\n\nall ages\n
  Sold out\nAnother Planet Entertainment Presents: Comedy for Musicians But 
- Everyone is Welcome - Three Nights!\nListed time is doors\n\nTickets: http
- s://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A
- %2F%2Fwww.ticketmaster.com%2Ffred-armisen-comedy-for-musicians-but-san-fra
- ncisco-california-10-28-2026%2Fevent%2F1C00649A47DB327D%3Fcamefrom%3DCFC_A
- NOTHERPLANET_web%26brand%3Danotherplanet\nDetails: https://dothebay.com/ev
- ents/2026/10/28/fred-armisen-comedy-for-musicians-but-everyone-is-welcome-
- tickets\nSource: DoTheBay
+ Everyone is Welcome - Three Nights!\nListed time is doors\n\nDetails: http
+ s://dothebay.com/events/2026/10/28/fred-armisen-comedy-for-musicians-but-e
+ veryone-is-welcome-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31755951/0d44ed3f-446a-4463-a1c4-f0e51d6856a3.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261029T100747Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/28/fred-armisen-comedy-for-musicia
@@ -1103,9 +1032,9 @@ BEGIN:VEVENT
 SUMMARY:Let's Go Lesbians!
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T210000
-DTSTAMP:20261021T214759Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17979284@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Let's Go Lesbians! is Safe Words' October queer comedy showcas
  e at the Eagle: a sapphic\, Lesbian lineup built around sharp\, personal\,
@@ -1128,80 +1057,31 @@ DESCRIPTION:Let's Go Lesbians! is Safe Words' October queer comedy showcas
  .\n@miciamosely\nRae Rae Messer\nQueer · Gender Queer · Gay | They/Them\
  nRae Rae started doing comedy at Hysteria\, Safe Words' free open mic for 
  women and queer performers at the SF Eagle. This is their debut booki...\n
- \nPay What You Can\, 21+\nSafe Words Entertainment\n\nTickets: https://eve
- nts.humanitix.com/safe-words-queer-comedy-showcase-lets-go-lesbians-octobe
- r-2026\nDetails: https://dothebay.com/events/2026/10/28/let-s-go-lesbians-
- tickets\nSource: DoTheBay
+ \nPay What You Can\, 21+\nSafe Words Entertainment\n\nDetails: https://dot
+ hebay.com/events/2026/10/28/let-s-go-lesbians-tickets\nSource: DoTheBay
 GEO:37.769982;-122.41342
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35066358/66c7956f-fe53-4d01-99f9-df396b7fe1be.jpg
-LAST-MODIFIED:20261021T214759Z
+LAST-MODIFIED:20261029T100747Z
 LOCATION:SF Eagle\, 398 12th St.\,  San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/28/let-s-go-lesbians-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
-DTSTART;TZID=America/Los_Angeles:20261028T193000
-DTEND;TZID=America/Los_Angeles:20261028T213000
-DTSTAMP:20261026T131406Z
-UID:caldiscovery-comedy-603cd30a3a40a2b3@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,theater
-DESCRIPTION:⭐ The hit burlesque parody The Empire Strips Back: A Burlesq
- ue Parody is making its way to San Francisco! This audience fave drops cla
- ssic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟
- ️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark
-  Side is calling you back! Returning fans can now enjoy an exclusive disco
- unt on their next visit to this hit burlesque parody. Use code STRIPBACKAG
- AIN at checkout to get 30% off your next booking.\nTickets for The Empire 
- Strips Back in San Francisco\n🎫 General Admission – includes entry to
-  the experience\n🎫 Rebel Package – includes express entry to the expe
- rience + a t-shirt (depending on size availability\, another merch item li
- ke panties\, lightsaber\, poster\, or calendar could be offered in exchang
- e for the shirt)\n👉 For large groups (8+ people)\, reserve your tickets
-  here\n🪑 Seats are assigned upon arrival at the venue on a first-come\,
-  first-served basis in the selected zone (Zone A\, Zone B\, Zone C\, Emper
- or’s Zone\, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy 
- far\, far away\, to a world of burlesque fantasy\n🌌 Hilarious parody\, 
- menacing and risqué dance\, and even the droids you’re looking for\n✨
-  Your favourite characters are scantily clad\, seriously sultry\, and live
-  on stage\n⭐ Previously sold-out in London\, Seattle\, Chicago\, New Yor
- k\, Montreal\, LA\, San Francisco\, and more\nGeneral Info\n📅 Dates: ch
- oose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n
- – Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...\n\nPublished 
- by Mission Local\nContains information from CalDiscovery (caldiscovery.com
- )\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/victoria-theatre-t
- he-empire-strips-back-a-burlesque-parody/2026-10-28/?utm_source=caldiscove
- ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261026T131406Z
-LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA\, 94103\, Un
- ited States
-TRANSP:TRANSPARENT
-URL:https://missionlocal.org/event/victoria-theatre-the-empire-strips-back
- -a-burlesque-parody/2026-10-28/?utm_source=caldiscovery&utm_medium=ics&utm
- _campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Poly Díaz - En Español
 DTSTART;TZID=America/Los_Angeles:20261028T193000
 DTEND;TZID=America/Los_Angeles:20261028T213000
-DTSTAMP:20261018T111813Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17642528@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Poly Díaz - En Español\nWednesday\, October 28 | Cobb's Come
- dy Club\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4
- 272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fpoly-diaz-en-e
- spanol-san-francisco-california-10-28-2026%2Fevent%2F1C0064F50A283274\nDet
- ails: https://dothebay.com/events/2026/10/28/poly-diaz-en-espanol-tickets\
- nSource: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/poly-
- diaz-en-espanol-san-francisco-california-10-28-2026/event/1C0064F50A283274
- ?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ dy Club\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/28/poly-dia
+ z-en-espanol-tickets\nSource: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33480348/0ff06a43-0150-434b-a170-fe761b9aa3be.png
-LAST-MODIFIED:20261018T111813Z
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -1211,22 +1091,17 @@ BEGIN:VEVENT
 SUMMARY:Mo Welch
 DTSTART;TZID=America/Los_Angeles:20261028T200000
 DTEND;TZID=America/Los_Angeles:20261028T220000
-DTSTAMP:20261018T111813Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17726494@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Mo Welch\nWednesday\, October 28 | ​Punch Line San Francisco
- \n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sha
- redId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmo-welch-san-francisc
- o-california-10-28-2026%2Fevent%2F1C006509C3002AE4\nDetails: https://dothe
- bay.com/events/2026/10/28/mo-welch-tickets\nSource: DoTheBay\n\nAlso liste
- d on:\n- https://www.ticketmaster.com/mo-welch-san-francisco-california-10
- -28-2026/event/1C006509C3002AE4?utm_source=caldiscovery&utm_medium=ics&utm
- _campaign=san-francisco-ca
+ \n\n18+\n\nDetails: https://dothebay.com/events/2026/10/28/mo-welch-ticket
+ s\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33876431/897a9a1a-ece3-4777-85e3-799947213164.png
-LAST-MODIFIED:20261018T111813Z
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -2059,6 +1934,48 @@ LOCATION:Secret Location (SF)\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-tix-hellasecret-desi-comedy-night-live-in
  -sf-7p-9p-91/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
+DTSTART;TZID=America/Los_Angeles:20261031T213000
+DTEND;TZID=America/Los_Angeles:20261031T233000
+DTSTAMP:20261029T100747Z
+UID:caldiscovery-comedy-828f22d0b8c06335@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,theater
+DESCRIPTION:⭐ The hit burlesque parody The Empire Strips Back: A Burlesq
+ ue Parody is making its way to San Francisco! This audience fave drops cla
+ ssic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟
+ ️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark
+  Side is calling you back! Returning fans can now enjoy an exclusive disco
+ unt on their next visit to this hit burlesque parody. Use code STRIPBACKAG
+ AIN at checkout to get 30% off your next booking.\nTickets for The Empire 
+ Strips Back in San Francisco\n🎫 General Admission – includes entry to
+  the experience\n🎫 Rebel Package – includes express entry to the expe
+ rience + a t-shirt (depending on size availability\, another merch item li
+ ke panties\, lightsaber\, poster\, or calendar could be offered in exchang
+ e for the shirt)\n👉 For large groups (8+ people)\, reserve your tickets
+  here\n🪑 Seats are assigned upon arrival at the venue on a first-come\,
+  first-served basis in the selected zone (Zone A\, Zone B\, Zone C\, Emper
+ or’s Zone\, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy 
+ far\, far away\, to a world of burlesque fantasy\n🌌 Hilarious parody\, 
+ menacing and risqué dance\, and even the droids you’re looking for\n✨
+  Your favourite characters are scantily clad\, seriously sultry\, and live
+  on stage\n⭐ Previously sold-out in London\, Seattle\, Chicago\, New Yor
+ k\, Montreal\, LA\, San Francisco\, and more\nGeneral Info\n📅 Dates: ch
+ oose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n
+ – Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...\n\nPublished 
+ by Mission Local\nContains information from CalDiscovery (caldiscovery.com
+ )\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/victoria-theatre-t
+ he-empire-strips-back-a-burlesque-parody/2026-10-31/2/?utm_source=caldisco
+ very&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261029T100747Z
+LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA\, 94103\, Un
+ ited States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/victoria-theatre-the-empire-strips-back
+ -a-burlesque-parody/2026-10-31/2/?utm_source=caldiscovery&utm_medium=ics&u
+ tm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers
@@ -3437,25 +3354,24 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/11/roast-battle-bay-area-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricky Velez
+SUMMARY:Nicole Aimee Schreiber
 DTSTART;TZID=America/Los_Angeles:20261112T200000
 DTEND;TZID=America/Los_Angeles:20261112T220000
-DTSTAMP:20261021T115902Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17642531@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Comedy
 DESCRIPTION:Ricky Velez\nThursday\, November 12 | Punch Line San Francisco
- \n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sha
- redId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fricky-velez-san-franc
- isco-california-11-12-2026%2Fevent%2F1C0064F5CCD41105\nDetails: https://do
- thebay.com/events/2026/11/12/ricky-velez-tickets\nSource: DoTheBay\n\nAlso
-  listed on:\n- https://www.ticketmaster.com/nicole-aimee-schreiber-san-fra
- ncisco-california-11-12-2026/event/1C006551A8D0AD63?utm_source=caldiscover
- y&utm_medium=ics&utm_campaign=san-francisco-ca
+ \n\n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/K8vZ9179PqV
+ /nicole-aimee-schreiber-events\nDetails: https://dothebay.com/events/2026/
+ 11/12/ricky-velez-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://
+ www.ticketmaster.com/nicole-aimee-schreiber-san-francisco-california-11-12
+ -2026/event/1C006551A8D0AD63?utm_source=caldiscovery&utm_medium=ics&utm_ca
+ mpaign=san-francisco-ca
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480370/60fad30e-396a-470c-9e77-76e1175e145c.png
-LAST-MODIFIED:20261021T115902Z
+ et/33480370/03625044-dbc8-44fb-8c44-ca316f362691.jpg
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -3637,22 +3553,21 @@ URL:https://sf.funcheap.com/rush-hour-comedy-night-w-sfs-best-black-asian-
  comedians-the-function-142/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricky Velez
+SUMMARY:Nicole Aimee Schreiber
 DTSTART;TZID=America/Los_Angeles:20261113T193000
 DTEND;TZID=America/Los_Angeles:20261113T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17642538@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ricky Velez\nFriday\, November 13 | Punch Line San Francisco\n
- \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
- dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fricky-velez-san-francis
- co-california-11-13-2026%2Fevent%2F1C0064F5CCDA1115\nDetails: https://doth
- ebay.com/events/2026/11/13/ricky-velez-tickets-kezpo1w\nSource: DoTheBay
+ \n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/K8vZ9179PqV/n
+ icole-aimee-schreiber-events\nDetails: https://dothebay.com/events/2026/11
+ /13/ricky-velez-tickets-kezpo1w\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480412/cf87a937-0a81-46d0-85dd-18d22c9f488c.png
-LAST-MODIFIED:20261006T003107Z
+ et/33480412/89cfa602-7ff6-4f71-a283-03df50b38156.jpg
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -3723,22 +3638,21 @@ URL:https://dothebay.com/events/2026/11/13/mf-function-w-george-brett-olso
  n-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricky Velez
+SUMMARY:Nicole Aimee Schreiber
 DTSTART;TZID=America/Los_Angeles:20261113T214500
 DTEND;TZID=America/Los_Angeles:20261113T234500
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17642533@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ricky Velez\nFriday\, November 13 | Punch Line San Francisco\n
- \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
- dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fricky-velez-san-francis
- co-california-11-13-2026%2Fevent%2F1C0064F5CCDF1125\nDetails: https://doth
- ebay.com/events/2026/11/13/ricky-velez-tickets\nSource: DoTheBay
+ \n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/K8vZ9179PqV/n
+ icole-aimee-schreiber-events\nDetails: https://dothebay.com/events/2026/11
+ /13/ricky-velez-tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480381/9f53e9d8-95d0-48ab-a078-ab037e9307ea.png
-LAST-MODIFIED:20261006T003107Z
+ et/33480381/965282c6-f17b-4ae4-868c-1a3242424d0b.jpg
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -3812,22 +3726,21 @@ URL:https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricky Velez
+SUMMARY:Nicole Aimee Schreiber
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17642556@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ricky Velez\nSaturday\, November 14 | Punch Line San Francisco
- \n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sha
- redId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fricky-velez-san-franc
- isco-california-11-14-2026%2Fevent%2F1C0064F5CCE4113B\nDetails: https://do
- thebay.com/events/2026/11/14/ricky-velez-tickets-qrpj8xw\nSource: DoTheBay
+ \n\n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/K8vZ9179PqV
+ /nicole-aimee-schreiber-events\nDetails: https://dothebay.com/events/2026/
+ 11/14/ricky-velez-tickets-qrpj8xw\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480495/59c8c781-2052-4e63-9961-0e170b840c63.png
-LAST-MODIFIED:20261006T003107Z
+ et/33480495/8fa5e0ad-8844-481f-8af2-8a01d97c5ad4.jpg
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -3981,22 +3894,21 @@ URL:https://sf.funcheap.com/free-tix-hellasecret-desi-comedy-night-live-in
  -sf-7p-9p-93/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ricky Velez
+SUMMARY:Nicole Aimee Schreiber
 DTSTART;TZID=America/Los_Angeles:20261114T211500
 DTEND;TZID=America/Los_Angeles:20261114T231500
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17642547@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ricky Velez\nSaturday\, November 14 | Punch Line San Francisco
- \n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sha
- redId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fricky-velez-san-franc
- isco-california-11-14-2026%2Fevent%2F1C0064F5CCE91159\nDetails: https://do
- thebay.com/events/2026/11/14/ricky-velez-tickets\nSource: DoTheBay
+ \n\n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/K8vZ9179PqV
+ /nicole-aimee-schreiber-events\nDetails: https://dothebay.com/events/2026/
+ 11/14/ricky-velez-tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480444/9a6f95d1-7a7d-4a77-90a0-6e5c36f2cd6c.png
-LAST-MODIFIED:20261006T003107Z
+ et/33480444/a0863203-f069-4793-bb6c-9cdaea97b0ad.jpg
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -5166,22 +5078,27 @@ BEGIN:VEVENT
 SUMMARY:Your Next Comic - A New Faces Showcase
 DTSTART;TZID=America/Los_Angeles:20261122T160000
 DTEND;TZID=America/Los_Angeles:20261122T180000
-DTSTAMP:20261027T152452Z
-UID:caldiscovery-comedy-7b3e921bc79a8487@sf-cal
+DTSTAMP:20261029T100747Z
+UID:dothebay-18006505@sf-cal
 SEQUENCE:0
-CATEGORIES:comedy
-DESCRIPTION:Published by Punch Line Comedy Club\nContains information from
-  CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticket
- master.com/your-next-comic-a-new-faces-san-francisco-california-11-22-2026
- /event/1C00653ECA9FD60E?utm_source=caldiscovery&utm_medium=ics&utm_campaig
- n=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261027T152452Z
-LOCATION:Punch Line Comedy Club - San Francisco\, 444 Battery Street\, San
-  Francisco\, CA\, 94111
+CATEGORIES:Comedy
+DESCRIPTION:S. F. Comedy Showcase\nSunday\, October 25 | ​Punch Line San
+  Francisco\n\n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/K
+ 8vZ917O7t7/your-next-comic-a-new-faces-showcase-events\nDetails: https://d
+ othebay.com/events/2026/11/22/your-next-comic-a-new-faces-showcase-1793210
+ 557\nSource: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/y
+ our-next-comic-a-new-faces-san-francisco-california-11-22-2026/event/1C006
+ 53ECA9FD60E?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franci
+ sco-ca
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35182070/5bf2d560-bbf6-4a28-9956-de7165a010a4.png
+LAST-MODIFIED:20261029T100747Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
 TRANSP:TRANSPARENT
-URL:https://www.ticketmaster.com/your-next-comic-a-new-faces-san-francisco
- -california-11-22-2026/event/1C00653ECA9FD60E?utm_source=caldiscovery&utm_
- medium=ics&utm_campaign=san-francisco-ca
+URL:https://dothebay.com/events/2026/11/22/your-next-comic-a-new-faces-sho
+ wcase-1793210557
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
@@ -5502,27 +5419,6 @@ URL:https://sf.funcheap.com/coit-comedy-stand-up-comedy-free-golden-boy-pi
  zza-sf-87/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preacher Lawson
-DTSTART;TZID=America/Los_Angeles:20261127T190000
-DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261023T114720Z
-UID:caldiscovery-comedy-51433547c2677582@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy
-DESCRIPTION:Published by Cobb's Comedy Club\nContains information from Cal
- Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticketmast
- er.com/preacher-lawson-san-francisco-california-11-27-2026/event/1C0065284
- 90A9F7E?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
- ca\nSource: CalDiscovery
-LAST-MODIFIED:20261023T114720Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Avenue\, San Francisco\, CA\, 9
- 4133
-TRANSP:TRANSPARENT
-URL:https://www.ticketmaster.com/preacher-lawson-san-francisco-california-
- 11-27-2026/event/1C006528490A9F7E?utm_source=caldiscovery&utm_medium=ics&u
- tm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Steve Furey
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
@@ -5566,6 +5462,32 @@ LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA\, 941
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/ryan-hamilton-making-good-time-
  tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preacher Lawson
+DTSTART;TZID=America/Los_Angeles:20261127T190000
+DTEND;TZID=America/Los_Angeles:20261127T210000
+DTSTAMP:20261029T100747Z
+UID:dothebay-18005892@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Preacher Lawson\nFriday\, November 27 | ​Cobb's Comedy Club\
+ n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Shar
+ edId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fpreacher-lawson-san-fr
+ ancisco-california-11-27-2026%2Fevent%2F1C006528490A9F7E%3FrefArtist%3DK8v
+ Z917p_EV%26f_simplified_filter%3Dtrue%26f_enable_merch_slot%3Dtrue\nDetail
+ s: https://dothebay.com/events/2026/11/27/preacher-lawson\nSource: DoTheBa
+ y\n\nAlso listed on:\n- https://www.ticketmaster.com/preacher-lawson-san-f
+ rancisco-california-11-27-2026/event/1C006528490A9F7E?utm_source=caldiscov
+ ery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.802989;-122.4143902
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35178926/87fd52a1-d558-4968-95d7-dabf8c19957d.jpg
+LAST-MODIFIED:20261029T100747Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/27/preacher-lawson
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Rush Hour Comedy Night” w/ SFs Best Black & Asian Comedians (
@@ -6760,19 +6682,22 @@ BEGIN:VEVENT
 SUMMARY:Kev Adams
 DTSTART;TZID=America/Los_Angeles:20261206T190000
 DTEND;TZID=America/Los_Angeles:20261206T210000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261029T100747Z
 UID:dothebay-17834035@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Kev Adams\nSunday\, December 6 | ​Cobb's Comedy Club\n\n18+\
  n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=Do
  Stuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkev-adams-san-francisco-calif
  ornia-12-06-2026%2Fevent%2F1C00652845A399E9\nDetails: https://dothebay.com
- /events/2026/12/6/kev-adams-tickets\nSource: DoTheBay
+ /events/2026/12/6/kev-adams-tickets\nSource: DoTheBay\n\nAlso listed on:\n
+ - https://www.ticketmaster.com/kev-adams-san-francisco-california-12-06-20
+ 26/event/1C00652845A399E9?utm_source=caldiscovery&utm_medium=ics&utm_campa
+ ign=san-francisco-ca
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34381660/50403d18-214a-4176-bb25-e22b12f441f5.png
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261029T100747Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -8064,6 +7989,29 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/26/comedy-allstars-tickets-rm1xvwr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Your Next Comic - A New Faces Showcase
+DTSTART;TZID=America/Los_Angeles:20261227T160000
+DTEND;TZID=America/Los_Angeles:20261227T180000
+DTSTAMP:20261029T100747Z
+UID:dothebay-18006506@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:S. F. Comedy Showcase\nSunday\, October 25 | ​Punch Line San
+  Francisco\n\n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/K
+ 8vZ917O7t7/your-next-comic-a-new-faces-showcase-events\nDetails: https://d
+ othebay.com/events/2026/12/27/your-next-comic-a-new-faces-showcase-1793210
+ 590\nSource: DoTheBay
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35182077/b094bece-1a98-45e4-b2bf-52846d7b94ae.png
+LAST-MODIFIED:20261029T100747Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/27/your-next-comic-a-new-faces-sho
+ wcase-1793210590
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ismo
 DTSTART;TZID=America/Los_Angeles:20261227T190000
 DTEND;TZID=America/Los_Angeles:20261227T210000
@@ -8107,6 +8055,59 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/27/s-f-comedy-showcase-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emily Van Dyke
+DTSTART;TZID=America/Los_Angeles:20261228T193000
+DTEND;TZID=America/Los_Angeles:20261228T213000
+DTSTAMP:20261029T100747Z
+UID:dothebay-17861699@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Emily Van Dyke\nMonday\, December 28 | ​Punch Line San Franc
+ isco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
+ ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Femily-van-dyke-sa
+ n-francisco-california-12-28-2026%2Fevent%2F1C00652EBC62FC65\nDetails: htt
+ ps://dothebay.com/events/2026/12/28/emily-van-dyke-tickets\nSource: DoTheB
+ ay\n\nAlso listed on:\n- https://www.ticketmaster.com/emily-van-dyke-san-f
+ rancisco-california-12-28-2026/event/1C00652EBC62FC65?utm_source=caldiscov
+ ery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34516576/f9dd65b3-7668-4507-9eae-dec51c25f8ce.png
+LAST-MODIFIED:20261029T100747Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/28/emily-van-dyke-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Hubba
+DTSTART;TZID=America/Los_Angeles:20261228T200000
+DTEND;TZID=America/Los_Angeles:20261228T220000
+DTSTAMP:20261029T100747Z
+UID:caldiscovery-comedy-95e148b3f99d84c5@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,dance
+DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
+ BA...\n\nMonday Night Hubba is the perfect way to start your week sexy: wi
+ th cocktails\, tease\, comedy and a more intimate experience than Hubba's 
+ big monthly extravaganzas! Each Monday night is a fun-filled\, shimmering 
+ showcase of local\, national and international burlesque and variety talen
+ t -- and a chance to see the most dazzling debuts before they hit it big!\
+ n\nBuy tickets: https://www.dnalounge.com/calendar/2026/12-28d.html\n\nWat
+ ch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCiLZYFLf7
+ 8\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:30pm.\n18+ with ID.\n\nGen
+ . Adm.: $10 advance\;\n$15 door\;\nReserved Seating: $15 advance\;\n$20 do
+ or.\n\nPublished by DNA Lounge\nContains information from CalDiscovery (ca
+ ldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/calendar/
+ 2026/12-28d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-f
+ rancisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261029T100747Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2026/12-28d.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coit Comedy: Stand Up Comedy & Free Golden Boy Pizza | SF
