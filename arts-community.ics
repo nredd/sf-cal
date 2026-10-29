@@ -41,154 +41,31 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
-DTSTART;TZID=America/Los_Angeles:20261021T110000
-DTEND;TZID=America/Los_Angeles:20261021T170000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1634939@sf-cal
+SUMMARY:Nara Aziza Smith – Homemade
+DTSTART;TZID=America/Los_Angeles:20261021T180000
+DTEND;TZID=America/Los_Angeles:20261021T210000
+DTSTAMP:20261029T010145Z
+UID:funcheap-1641241@sf-cal
 SEQUENCE:0
-CATEGORIES:Art Museums
-DESCRIPTION:Submitted by the Event OrganizerFree Admission Day at Yerba Bu
- ena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to
-  the public in 1993\, YBCA was founded as the cultural anchor of San Franc
- isco’s Yerba Buena Gardens neighborhood. Our work spans the realms of co
- ntemporary art\, performance\, film\, civic engagement\, and public life. 
- Centering artists as essential to social and cultural movement\, YBCA is r
- eimagining the role an arts institution can play in the community it serve
- s.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood\, 
- across the street from SFMOMA and the Moscone Convention Center. The main 
- entrance to our galleries and forum event space is at 701 Mission Street. 
- The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wed
- nesday–Sunday\, 11–5pm.\nEntry to YBCA Galleries is free every Wednesd
- ay\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seni
- ors: $5\nYouth (17 and under)\, Military Personnel\, & Museums for All: Fr
- ee\nWednesdays: Free\nEmployees of other museums with current valid staff 
- ID receive free general admission for themselves and one guest.\nMuseums f
- or All\nYBCA offers free admission for Medi-Cal and EBT card holders as pa
- rt of the Museums for All program. Benefits card required upon entry. Tick
- ets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWe
- d–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day a
- t Yerba Buena Center for the Arts (YBCA) Events\nWed 10/7 Free Admission D
- ay at...\n\nFree\n\nTickets: https://www.ybca.org/visit-us\nDetails: https
- ://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-y
- bca-158/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-b
- uilding.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
- o\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
- he-arts-ybca-158/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Art Workshop: Halloween Garland
-DTSTART;TZID=America/Los_Angeles:20261021T140000
-DTEND;TZID=America/Los_Angeles:20261021T160000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17900997@sf-cal
-SEQUENCE:2
-CATEGORIES:Arts & Family
-DESCRIPTION:Create art inspired by our programming at this drop-in art wor
- kshop! All ages welcome\, all materials provided.\n\nLearn how to construc
- t a Halloween-themed garland. Incorporate characters\, objects\, or symbol
- s in your decor.\n\nFree\nYerba Buena Center for the Arts\n\nDetails: http
- s://dothebay.com/events/2026/10/21/free-art-workshop-halloween-garland-tic
- kets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/free-
- art-workshop-halloween-garland-ybca/
-GEO:37.7856437;-122.4021904
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34700547/31b66f5b-253f-461e-8abe-fd4b65897bc8.jpg
-LAST-MODIFIED:20261022T120138Z
-LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
- , CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/free-art-workshop-halloween-gar
- land-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mahjong Meetup
-DTSTART;TZID=America/Los_Angeles:20261021T150000
-DTEND;TZID=America/Los_Angeles:20261021T170000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17764329@sf-cal
-SEQUENCE:1
-CATEGORIES:Variety
-DESCRIPTION:Play Mahjong at the Ferry Building!\n\nJoin us for an afternoo
- n Mahjong meetup every Wednesday from 3–7 PM.\n\nAll skill levels are we
- lcome! If you have never played and are eager to learn\, a quick guide and
-  helpful tips on Chinese-style will be available. Sets will be provided\, 
- but feel free to bring your own if you have a favorite!\n\nSeating and Mah
- jong sets are available on a first come first served basis.\n\nDetails: ht
- tps://dothebay.com/events/2026/10/21/mahjong-meetup-tickets\nSource: DoThe
- Bay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34055894/652272ea-53c1-4509-ad0b-10c585d29e1f.png
-LAST-MODIFIED:20261022T120138Z
-LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
- 11
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/mahjong-meetup-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nara Aziza Smith - Homemade
-DTSTART;TZID=America/Los_Angeles:20261021T180000
-DTEND;TZID=America/Los_Angeles:20261021T200000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17929542@sf-cal
-SEQUENCE:2
 CATEGORIES:Literature
-DESCRIPTION:Join us as we welcome Nara Aziza Smith (@naraaziza)\, the best
- -dressed culinary creator in digital media\, who is bringing her signature
-  style to 80 delicious\, homemade family-friendly recipes in her debut coo
- kbook HOMEMADE. You may think you know Nara Smith—the glamorous outfits\
- , the soothing ASMR voice\, the beautiful family\, the seemingly effortles
- s approach to making food from scratch—but behind it all is a working mo
- m with a relatable goal: preparing nourishing whole foods for herself and 
- her family.\n\nTickets include a copy of the book\, the chance to get your
-  copy personally signed\, and a photo with Nara.\n\nBook Passage Presents:
- \n\nDetails: https://dothebay.com/events/2026/10/21/nara-aziza-smith-homem
- ade-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
- m/nara-aziza-smith-homemade/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34832700/47092134-fa58-4b20-a7e2-5d5d8e96488a.jpg
-LAST-MODIFIED:20261022T120138Z
-LOCATION:Book Passage San Francisco\, 1 Ferry Building\, San Francisco\, C
- A\, 94911
+DESCRIPTION:Submitted by the Event OrganizerJoin us as we welcome Nara Azi
+ za Smith (@naraaziza)\, the best-dressed culinary creator in digital media
+ \, who is bringing her signature style to 80 delicious\, homemade family-f
+ riendly recipes in her debut cookbook HOMEMADE. You may think you know Nar
+ a Smith—the glamorous outfits\, the soothing ASMR voice\, the beautiful 
+ family\, the seemingly effortless approach to making food from scratch—b
+ ut behind it all is a working mom with a relatable goal: preparing nourish
+ ing whole foods for herself and her family.\nTickets include a copy of the
+  book\, the chance to get your copy personally signed\, and a photo with N
+ ara.\n\n$40.00\n\nTickets: https://bookpassage.com/event/nara-aziza-smith-
+ homemade\nDetails: https://sf.funcheap.com/nara-aziza-smith-homemade/\nSou
+ rce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/nara-a
+ ziza-smith400-x-580-px-1.png
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Book Passage (SF)\, 1 Ferry Building\, San Francisco\, CA
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/nara-aziza-smith-homemade-ticke
- ts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coldplay One Lens — Book Launch
-DTSTART;TZID=America/Los_Angeles:20261021T180000
-DTEND;TZID=America/Los_Angeles:20261021T200000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17950196@sf-cal
-SEQUENCE:1
-CATEGORIES:Literature
-DESCRIPTION:RSVP to join guest list. Space is limited\n\n​Bringing it ho
- me! Join us for a cocktail party celebrating the US release\, with an arti
- st presentation at 7:15 PM. Books and prints will be available.\n\n​One 
- Lens is a 256-page coffee table book that traces the band’s evolution th
- rough the eyes of one photographer\, whose own practice evolved alongside 
- them\, from film to digital.\n\n​Featuring nearly 400 photographs\, many
-  published for the first time\, this collection captures the energy of liv
- e performance and the quiet moments in between—revealing the humanity\, 
- friendship\, and passage of time behind one of the world’s most beloved 
- bands.\n\n​San Francisco is where Victoria Smith’s photographic journe
- y with Coldplay began in 2001. Now\, we’re celebrating where it all star
- ted.\n\n​Published by DK / Penguin Random House.\n\nFree w/ RSVP\n\nDeta
- ils: https://dothebay.com/events/2026/10/21/coldplay-one-lens-book-launch-
- tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34930260/30be9c8d-9197-464e-9d33-4e8f4f1c254b.jpg
-LAST-MODIFIED:20261022T120138Z
-LOCATION:Bourbon and Branch\, 501 Jones Street\, San Francisco\, CA\, 9410
- 2
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/coldplay-one-lens-book-launch-t
- ickets
+URL:https://sf.funcheap.com/nara-aziza-smith-homemade/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Indigo & Shibori Dyeing
@@ -2873,23 +2750,23 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/learn-sfs-iconic-tiled-stairways-glen-park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Civic Center Pumpkin Patch from Compass Family Services
+SUMMARY:Valkyries Watch Party
 DTSTART;TZID=America/Los_Angeles:20261028T100000
-DTEND;TZID=America/Los_Angeles:20261028T170000
-DTSTAMP:20261006T172218Z
-UID:sfciviccenter-d01818794f8cfb6d@sf-cal
+DTEND;TZID=America/Los_Angeles:20261028T120000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007845@sf-cal
 SEQUENCE:0
-CATEGORIES:Holiday,Kids and Families
-DESCRIPTION:Visit the pop up pumpkin patch sprouting in Civic Center Plaza
-  on Wednesday\, October 28\, 9am-4pm. From Compass Family Services\, all a
- rea neighborhood kids are welcome\; expect activities\, treats\, entertain
- ment and\, of course\, pumpkins!\n\nDetails: https://sfciviccenter.org/eve
- nt/civic-center-pumpkin-patch-from-compass-family-services/\nSource: SF Ci
- vic Center
-LAST-MODIFIED:20261006T172218Z
+CATEGORIES:Variety
+DESCRIPTION:Valkyries Watch Party\nWednesday\, October 28 | Harry's Bar\n\
+ nFree\n\nTickets: https://www.instagram.com/harrysbarsanfrancisco/p/Deux49
+ REvBG/?img_index=2\nDetails: https://dothebay.com/events/2026/10/28/valkyr
+ ies-watch-party-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35189043/673829d7-44c0-4cdc-9a96-b0cf49e34325.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Harry’s Bar\, 2020 Fillmore St
 TRANSP:TRANSPARENT
-URL:https://sfciviccenter.org/event/civic-center-pumpkin-patch-from-compas
- s-family-services/
+URL:https://dothebay.com/events/2026/10/28/valkyries-watch-party-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
@@ -3266,9 +3143,9 @@ BEGIN:VEVENT
 SUMMARY:Valkyries Official Finals Watch Party
 DTSTART;TZID=America/Los_Angeles:20261029T083000
 DTEND;TZID=America/Los_Angeles:20261029T103000
-DTSTAMP:20261028T202041Z
+DTSTAMP:20261029T010145Z
 UID:dothebay-18005854@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:Kaiser Permanente Presents\nValkyries Official Finals Watch Pa
  rty\nThursday\, October 29 | Thrive City\n\nThe game will begin at 9:30AM 
@@ -3291,19 +3168,164 @@ DESCRIPTION:Kaiser Permanente Presents\nValkyries Official Finals Watch Pa
  olicitation\, or loitering\nNo Smoking of any kind\nAll Pets* must be on a
   leash\nGuests are prohibited from bringing outside alcoholic beverages to
   Thrive City\nSigns/flags/banners/posters: may not exceed 11”x17” in s
- ize...\n\nFree\nKaiser Permanente Presents\n\nTickets: https://consumer.px
- f.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fvalkyries-official-fi
- nals-watch-party-presented-by-kaiser-permanente-tickets-2003933067750%3Faf
- f%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/10/29/valkyri
- es-official-finals-watch-party-tickets\nSource: DoTheBay
+ ize...\n\nFree\nSold out\nKaiser Permanente Presents\n\nTickets: https://c
+ onsumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fvalkyries-o
+ fficial-finals-watch-party-presented-by-kaiser-permanente-tickets-20039330
+ 67750%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/10/
+ 29/valkyries-official-finals-watch-party-tickets\nSource: DoTheBay\n\nAlso
+  listed on:\n- https://sf.funcheap.com/free-valkyries-official-finals-watc
+ h-party-thrive-city-game-6/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35178720/679a9e52-e201-4872-a0c6-e3b289af9253.png
-LAST-MODIFIED:20261028T202041Z
+LAST-MODIFIED:20261029T010145Z
 LOCATION:Thrive City\, Chase Center\, 1 Warriors Way\, San Francisco\, CA\
  , 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/29/valkyries-official-finals-watch
  -party-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valkyries vs Dream Watch Party
+DTSTART;TZID=America/Los_Angeles:20261029T083000
+DTEND;TZID=America/Los_Angeles:20261029T103000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007722@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Valkyries vs Dream Watch Party\nThursday\, October 29 | Rikki'
+ s Bar\n\nFree\nListed time is doors\n\nTickets: https://luma.com/i9yzh1cd?
+ lm_source=embed\nDetails: https://dothebay.com/events/2026/10/29/valkyries
+ -vs-dream-watch-party-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35188317/b8dfd91a-d051-415e-b626-5677282a271d.png
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Rikki’s Bar\, 2223 Market St\, San Francisco\, Ca
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/valkyries-vs-dream-watch-party-
+ tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WNBA FINALS GAME 6
+DTSTART;TZID=America/Los_Angeles:20261029T083000
+DTEND;TZID=America/Los_Angeles:20261029T103000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007812@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:WNBA FINALS GAME 6\nThursday\, October 29 | ​Splash Sports B
+ ar\n\nFree\n\nTickets: https://www.instagram.com/splashsportsbar/p/DfAmVsB
+ SNW3/\nDetails: https://dothebay.com/events/2026/10/29/wnba-finals-game-6-
+ tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35188819/9e065e02-2f91-478f-940d-d90f247fa748.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Splash Sports Bar\, 191 Warriors Wy Suite 102\, San Francisco\, C
+ A\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/wnba-finals-game-6-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WNBA Finals Game 6 Watch Party: One More Win
+DTSTART;TZID=America/Los_Angeles:20261029T090000
+DTEND;TZID=America/Los_Angeles:20261029T110000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007855@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:WNBA Finals Game 6 Watch Party: One More Win\nThursday\, Octob
+ er 29 | ​Long Bridge Pizza Company\n\nFree\n\nTickets: https://consumer.
+ pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fwnba-finals-game-6-
+ watch-party-one-more-win-tickets-2003997980907%3Faff%3DDoTheBay\nDetails: 
+ https://dothebay.com/events/2026/10/29/wnba-finals-game-6-watch-party-one-
+ more-win-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35189086/65328a22-06dd-463c-b11d-b4383e7bfe64.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Long Bridge Pizza Company\, 2347 3rd Street\, San Francisco\, CA\
+ , 94107
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/wnba-finals-game-6-watch-party-
+ one-more-win-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game 6: Valkyries Watch Party
+DTSTART;TZID=America/Los_Angeles:20261029T090000
+DTEND;TZID=America/Los_Angeles:20261029T110000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007877@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Game 6: Valkyries Watch Party\nThursday\, October 29 | ​Mary
+ ’s Bar on Haight\n\nFree\n\nTickets: https://www.instagram.com/marysbaro
+ nhaight/p/DfA6YXxBlj6/\nDetails: https://dothebay.com/events/2026/10/29/ga
+ me-6-valkyries-watch-party-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35189199/5a7568fe-7666-4e6b-8416-08f836d096f7.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Mary’s Bar on Haight\, 1437 Haight Street
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/game-6-valkyries-watch-party-ti
+ ckets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game 6: Valkyries Watch Party
+DTSTART;TZID=America/Los_Angeles:20261029T091500
+DTEND;TZID=America/Los_Angeles:20261029T111500
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007917@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Game 6: Valkyries Watch Party\nThursday\, October 29 | ​Moth
+ er Bar SF\n\nTickets: https://www.instagram.com/motherbarsf/p/De-msNxiHfb/
+ \nDetails: https://dothebay.com/events/2026/10/29/game-6-valkyries-watch-p
+ arty\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35189441/b294b23a-bb51-4733-984f-e3565625e1be.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Mother\, 3079 16th St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/game-6-valkyries-watch-party
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valkyries Watch Party
+DTSTART;TZID=America/Los_Angeles:20261029T093000
+DTEND;TZID=America/Los_Angeles:20261029T113000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007741@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Valkyries Watch Party\nThursday\, October 29 | Salesforce Park
+ \n\nFree\n\nTickets: https://www.tjpa.org/salesforce-transit-center/activi
+ ties\nDetails: https://dothebay.com/events/2026/10/29/valkyries-watch-part
+ y-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/
+ 2026-valkyries-finals-game-5-watch-party-free-sf-2/
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35188382/1f22e156-0237-4621-b918-015fe91c51de.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Salesforce Park\, 425 Mission St\, San Francisco\, CA\, 94105
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/valkyries-watch-party-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ballhalla Brunch: Valkyries Game 6
+DTSTART;TZID=America/Los_Angeles:20261029T093000
+DTEND;TZID=America/Los_Angeles:20261029T113000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007827@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Ballhalla Brunch: Valkyries Game 6\nOctober 29 | ​Harmonic B
+ rewing\n\nFree\n\nTickets: https://www.instagram.com/harmonicbrewing/p/DfD
+ iu4xP7GN/\nDetails: https://dothebay.com/events/2026/10/29/ballhalla-brunc
+ h-valkyries-game-6-tickets\nSource: DoTheBay
+GEO:37.751622;-122.390069
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35188966/836a284d-1b6a-4707-b893-cb5c4520556d.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Harmonic Brewing\, 1050 26th Street\, San Francisco\, CA\, 94107
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/ballhalla-brunch-valkyries-game
+ -6-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. Check-In with Congressman Kevin Mullin (Oct. 29)
@@ -4041,6 +4063,26 @@ URL:https://dothebay.com/events/2026/10/29/karaokiki-with-your-homegirls-d
  ulce-de-leche-frisco-pink-mojo-free-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valkyries Game 6 Watch Party
+DTSTART;TZID=America/Los_Angeles:20261029T210000
+DTEND;TZID=America/Los_Angeles:20261029T230000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007823@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Valkyries Game 6 Watch Party\nThursday\, October 29 | ​​Ba
+ rebottle Brewing Co.\nBernal Heights & Taproom\n\nFree\n\nTickets: https:/
+ /www.facebook.com/reel/2621774611605123\nDetails: https://dothebay.com/eve
+ nts/2026/10/29/valkyries-game-6-watch-party\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35188936/f205289a-bab3-4f7d-9e57-abcbdf1c7c04.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Barebottle Brewing Co. - Bernal Heights & Taproom\, 1525 Cortland
+  Ave\, San Francisco\, Ca\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/29/valkyries-game-6-watch-party
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grant Writing Workshop: A Beginner's Guide to Funding Your Artisti
  c Vision
 DTSTART;TZID=America/Los_Angeles:20261030T100000
@@ -4079,6 +4121,25 @@ LOCATION:Online\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/grant-writing-workshop-a-beginn
  er-s-guide-to-funding-your-artistic-vision-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valkyries Watch Party
+DTSTART;TZID=America/Los_Angeles:20261030T100000
+DTEND;TZID=America/Los_Angeles:20261030T120000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007851@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Valkyries Watch Party\nFriday\, October 30 | Harry's Bar\n\nFr
+ ee\nListed time is doors\n\nTickets: https://www.instagram.com/harrysbarsa
+ nfrancisco/p/Deux49REvBG/?img_index=2\nDetails: https://dothebay.com/event
+ s/2026/10/30/valkyries-watch-party\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35189065/5006399b-8ba0-4ea7-b11c-db481a72f45d.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Harry’s Bar\, 2020 Fillmore St
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/30/valkyries-watch-party
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free 1/4 lb. Candy on Halloween Eve at SF’s “The Candy Store
@@ -5551,6 +5612,25 @@ URL:https://dothebay.com/events/2026/10/31/edge-of-consciousness-halloween
  -walkthrough-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valkyries Watch Party
+DTSTART;TZID=America/Los_Angeles:20261031T170000
+DTEND;TZID=America/Los_Angeles:20261031T190000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007804@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Valkyries Watch Party\nSaturday\, October 31 | Salesforce Park
+ \n\nFree\n\nTickets: https://www.tjpa.org/salesforce-transit-center/activi
+ ties\nDetails: https://dothebay.com/events/2026/10/31/valkyries-watch-part
+ y\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35188742/77be0f1b-9f6f-4f55-beea-3356816bfb8e.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Salesforce Park\, 425 Mission St\, San Francisco\, CA\, 94105
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/31/valkyries-watch-party
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Zombie Crawl
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T210000
@@ -6130,6 +6210,48 @@ URL:https://www.hotelcaza.com/explore/event-calendar/da-de-los-muertos-pro
  _campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF’s 2026 Dia de los Muertos “Festival of Altars” in The Mis
+ sion
+DTSTART;TZID=America/Los_Angeles:20261102T080000
+DTEND;TZID=America/Los_Angeles:20261102T210000
+DTSTAMP:20261029T010145Z
+UID:funcheap-1428507@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Marigold Project\n\nThe Marigold Project invites you to the 34
+ th annual Festival of Altars\, a Día de los Muertos celebration honoring 
+ loved ones through art\, remembrance\, and community.\nHeld at Potrero del
+  Sol Park\, also known as La Raza Park\, the festival brings families toge
+ ther to create and view intricately decorated ofrendas honoring ancestors.
+  For more than three decades\, these community altars have celebrated love
+ d ones while also reflecting on broader social and political issues.\nThis
+  year’s theme is “Familia: Entre raíces y el Cielo\,” which transla
+ tes to “Family: Between Roots and Heaven.” Organizers invite visitors 
+ to reflect on family as a living ecosystem and on families around the worl
+ d experiencing displacement\, separation\, and violence.\n\nThe Marigold P
+ roject’s Day of the Dead Festival of Altars\nMonday\, November 2\, 2026 
+ | 4–10pm\nPotrero del Sol Park\, San Francisco\nFREE\nAltar creation beg
+ ins at 10am | Sunset ceremony and land blessing at 5pm | La Gente SF perfo
+ rms at 8pm\nYou can build your own personal altar or bring flowers\, 8-inc
+ h glass-enclosed prayer candles\, photographs\, and mementos of loved ones
+  to contribute to the community altars. The creation and viewing of tradit
+ ional\, contemporary\, and experimental ofrendas offer a meaningful way to
+  honor those who have passed and connect with others through shared tradit
+ ions. All are welcome to participate.\nCheck the Marigold Project’s Inst
+ agram for altar guidelines and the latest event updates.\nDirections: Potr
+ ero de...\n\nFree\n\nTickets: https://www.instagram.com/p/De961D_mTBb\nDet
+ ails: https://sf.funcheap.com/dia-de-los-muertos-festival-altars-mission-s
+ an-francisco/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/10/AztecD
+ ancerAtAltar-1-scaled-e1699268796402.jpeg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Potrero del Sol Park\, 25th St. & San Bruno Ave.\, San Francisco\
+ , CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/dia-de-los-muertos-festival-altars-mission-san
+ -francisco/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Loco Bloco Presents: Día De Los Muertos 2026 - Esto No Se Vende
 DTSTART;TZID=America/Los_Angeles:20261102T140000
 DTEND;TZID=America/Los_Angeles:20261102T160000
@@ -6238,6 +6360,43 @@ LOCATION:Rivian San Francisco - 340 Fell Street\, San Francisco\, CA 94102
 TRANSP:TRANSPARENT
 URL:https://www.festivalnapavalley.org/calendar/boyd-rivian/?utm_source=ca
  ldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Dia de los Muertos: 45th Annual Procession in The Mission
+DTSTART;TZID=America/Los_Angeles:20261102T180000
+DTEND;TZID=America/Los_Angeles:20261102T210000
+DTSTAMP:20261029T010145Z
+UID:funcheap-1428518@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:ralphleon via Flickr / CC BY-NC-ND 2.0Just a block from the of
+ rendas at Potrero Del Sol Park\, the Mission’s annual Día de los Muerto
+ s Procession brings music\, art\, and cultural traditions to the streets. 
+ Thousands of people gather to watch musicians\, artists\, Aztec dancers\, 
+ and community groups make their way through the neighborhood\, alongside f
+ ood vendors and artists offering skull face painting.\nOrganized by Comit
+ é de Rescate Cultural (also known as El Colectivo del Rescate Cultural)\,
+  the procession honors loved ones who have passed away while celebrating t
+ he Mission’s Latino cultural heritage. Aztec dancers lead ritual dances 
+ at intersections along the route\, joined by musicians and other performer
+ s.\nThe 45th annual procession takes place Monday\, Nov. 2\, 2026\, beginn
+ ing at 22nd and Bryant streets before heading south on Bryant\, west on 24
+ th Street\, north on Mission Street\, and east on 22nd Street. The process
+ ion starts at 7 pm\, with dancers gathering earlier.\n\n45th Annual Día d
+ e los Muertos Procession\nNovember 2\, 2026 | Procession at 7 pm (Danzante
+ s / Aztec dancers gather at 6:00 pm)\n22nd and Bryant streets\, San Franci
+ sco (The Mission)\nFREE\nThis year’s lineup celebrates Latino stories an
+ d filmmakers through documentaries\, dramas\, comedies and films exploring
+  culture\, identity\, family\, migration and community.\n\nFor more inform
+ ation\, check Calle 24 Latino Cultural District closer to the event.\n\nFr
+ ee\n\nDetails: https://sf.funcheap.com/sf-dia-de-los-muertos-procession-mi
+ ssion/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/10/407312
+ 3412_06e103a56b_h.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:22nd & Bryant\, 22nd St. and Bryant St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sf-dia-de-los-muertos-procession-mission/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF Arcade Bar “Emporium” 8 Free Game Tokens for “Industry Ni
@@ -6506,6 +6665,28 @@ LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
  he-arts-ybca-160/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dread Scot & RSF Gallery Tour & Sketching Activity\,
+DTSTART;TZID=America/Los_Angeles:20261104T160000
+DTEND;TZID=America/Los_Angeles:20261104T180000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007655@sf-cal
+SEQUENCE:0
+CATEGORIES:Arts & Family
+DESCRIPTION:Free\nYBCA\n\nTickets: https://ybca.org/event/gallery-tour-ske
+ tching-activity-dread-scott-rael-san-fratello-11-4-26/\nDetails: https://d
+ othebay.com/events/2026/11/4/dread-scot-rsf-gallery-tour-sketching-activit
+ y-tickets\nSource: DoTheBay
+GEO:37.7856437;-122.4021904
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35187992/12fdb959-72ee-4e79-9eb7-d9ea5042e643.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
+ , CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/4/dread-scot-rsf-gallery-tour-sket
+ ching-activity-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opening Celebration of the Safeway Holiday Ice Rink in Union Squar
@@ -13155,6 +13336,46 @@ LOCATION:Congregation Sherith Israel Newman Hall\, 2266 California St\, Sa
  n Francisco\, CA 94115
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-history-night-pacific-heights-101/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s New Year’s Day 2027 Polar Bear Ice Skate at Union Square
+DTSTART;TZID=America/Los_Angeles:20270101T143000
+DTEND;TZID=America/Los_Angeles:20270101T153000
+DTSTAMP:20261029T010145Z
+UID:funcheap-165284@sf-cal
+SEQUENCE:0
+CATEGORIES:Kids Families
+DESCRIPTION:SF’s Holiday Ice Skating Rink at Union Square (2026-27)\nUni
+ on Square Ice Rink\nOne of San Francisco’s favorite holiday traditions r
+ eturns for its 19th season. The Safeway Holiday Ice Rink in Union Square o
+ pens November 4\, 2026\, bringing outdoor ice skating to the heart of down
+ town San Francisco through January 18\, 2027.\nSkate beneath the holiday l
+ ights in Union Square\, with themed nights throughout the season ranging f
+ rom ’80s music and country glam to a silent disco on ice.\nThe rink is o
+ pen daily\, with hour-long skating sessions starting every 90 minutes. Thi
+ s year’s lineup includes returning favorites like Drag on Ice\, Silent S
+ kate\, Flashback Fridays and Polar Bear Skate\, plus a new series of Wedne
+ sday night themed skating sessions. Tickets are on sale now at unionsquare
+ icerink.com.\n\nSpecial Events at the Union Square Ice Rink\nOpening Celeb
+ ration\nWednesday\, November 4\, 2026 | 5-7 p.m.\nThe season kicks off wit
+ h an evening celebration and on-ice performances. The first 100 guests can
+  skate for free during the 5:30 p.m. and 7 p.m. sessions. Registration is 
+ required upon arrival.\nFlashback Fridays\nNovember 27\, December 18\, 202
+ 6\, and January 15\, 2027 | 7 p.m. and 8:30 p.m. sessions\nSkate to 1980s 
+ hits with music from Greatest Hits 103.7. Expect throwback tracks from art
+ ists like Madonna\, Michael Jackson\, Queen\, Prince and Pat Benatar.\nDra
+ g on Ice\nThursday\, December 3\, 2026 | 6:30-8 p.m. | $35\nLocal drag per
+ formers bring their show to the ice for an evening of skating and live ent
+ ...\n\nFree\n\nTickets: https://unionsquareicerink.com/san-francisco-event
+ s/\nDetails: https://sf.funcheap.com/san-franciscostyle-polar-bear-ice-ska
+ te-union-square/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/12/USQ17-
+ PBS-WINNERS-11.jpg
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/san-franciscostyle-polar-bear-ice-skate-union-
+ square/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Healthy Parks Healthy People”: Monthly Nature Walks | Bay Are

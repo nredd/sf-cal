@@ -40,29 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Transformaciones
-DTSTART;TZID=America/Los_Angeles:20261021T150000
-DTEND;TZID=America/Los_Angeles:20261021T170000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17610100@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:Grupo de Apoyo para TGNCI (Transgénero\, Género No Conforme\
- , No Binario e Intersex) Latine inmigrantes\n\nEL GRUPO SE FACILITA EN ESP
- AÑOL Con Dr. Silvia Sandoval\n\nEl 1er y 3er Miércoles\n\n3:00 a 5:00pm\
- n\n940 Howard St.\n\nSe servira una comida\n\nPara más información: ista
- iti@sfaf.org | 415-738-3544\n\nMade possible through funding by ViiV Healt
- hcare\, Gilead Sciences\, and Elizabeth Taylor AIDS Foundation\n\nDetails:
-  https://dothebay.com/events/2026/10/21/transformaciones-tickets\nSource: 
- DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33323331/263bfdbd-cb91-4983-8dfb-6a6ac7e5d823.png
-LAST-MODIFIED:20261022T120138Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/21/transformaciones-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
 DTSTART;TZID=America/Los_Angeles:20261021T163000
 DTEND;TZID=America/Los_Angeles:20261021T220000
@@ -1953,6 +1930,25 @@ URL:https://dothebay.com/events/2026/10/31/san-francisco-halloween-pub-cra
  wl-crawloween-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LOVE Day Party Halloween
+DTSTART;TZID=America/Los_Angeles:20261031T140000
+DTEND;TZID=America/Los_Angeles:20261031T160000
+DTSTAMP:20261029T010145Z
+UID:dothebay-18007957@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:21+ / Tickets Tier 1 - $15\, Tier 2 - $20\, Tier 3 - $25\nLOVE
+  Day Party Presents:\nListed time is doors\n\nTickets: https://lovedaypart
+ y.com/events/halloween-2026/tickets/\nDetails: https://dothebay.com/events
+ /2026/10/31/love-day-party-halloween-tickets\nSource: DoTheBay
+GEO:37.7730737;-122.4031782
+LAST-MODIFIED:20261029T010145Z
+LOCATION:Mars Bar\, 798 Brannan Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/10/31/love-day-party-halloween-ticket
+ s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Downtown San Francisco Block Party on Claude Lane
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T190000
@@ -2395,6 +2391,30 @@ LAST-MODIFIED:20261020T194441Z
 LOCATION:The Detour\, 2200 Market St San Francisco CA 94114
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/tuesday-free-play-arcade-game-night-detour-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Election Night Watch Party w/ Bingo + Drink Specials (The Cha
+ pel)
+DTSTART;TZID=America/Los_Angeles:20261103T170000
+DTEND;TZID=America/Los_Angeles:20261103T220000
+DTSTAMP:20261029T010145Z
+UID:funcheap-1644767@sf-cal
+SEQUENCE:0
+CATEGORIES:Lgbtq
+DESCRIPTION:Courtesy of The ChapelElection Night Watch Party at The Chapel
+ \, Hosted by Kochina Rude. Watch the results on The Chapel’s big screen!
+  Plus election bingo\, and drink and food specials all night. 5pm – 10pm
+ . Free with RSVP: tinyurl.com/mvn8nw95\n\nFree\n\nTickets: https://wl.even
+ tim.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?affl
+ ky=TheChapel\nDetails: https://sf.funcheap.com/2026-election-night-watch-p
+ arty-bingo-drink-specials-chapel/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Electi
+ on_Night_Watch_Party_November_3.png
+LAST-MODIFIED:20261029T010145Z
+LOCATION:The Chapel\, 777 Valencia Street\, San Francisco\, CA 94110
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/2026-election-night-watch-party-bingo-drink-sp
+ ecials-chapel/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)
