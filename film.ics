@@ -40,32 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Wicker
-DTSTART;TZID=America/Los_Angeles:20261023T133000
-DTEND;TZID=America/Los_Angeles:20261023T153000
-DTSTAMP:20261024T111224Z
-UID:dothebay-17941182@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:An audacious comedic fable about sex\, marriage\, and the absu
- rdities of social convention\, WICKER tells the wholly original love story
-  of an ostracized fisherwoman (Olivia Colman) who commissions a husband to
-  be made by the local basketmaker (Peter Dinklage). When her wicker husban
- d (Alexander Skarsgård) proves more spectacular than she ever imagined\, 
- his soulful spirit and unique prowess awaken something inside her\, settin
- g off a wave of jealousy\, fascination\, and upheaval that threatens the v
- ery fabric of village life.\n\nDetails: https://dothebay.com/events/2026/1
- 0/23/wicker-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34888484/8991631e-8bfd-4b00-ba6a-2db0f1c18540.jpg
-LAST-MODIFIED:20261024T111224Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/23/wicker-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Outdoor Movie Night 2026 w/ Free Food + Free Popcorn (Parksid
  e/Sunset)
 DTSTART;TZID=America/Los_Angeles:20261023T173000
