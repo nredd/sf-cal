@@ -41,25 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Mission Community Market 2026
-DTSTART;TZID=America/Los_Angeles:20261022T120000
-DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1414320-2026-10-22T12:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Bartlett St from 21st St to 22nd St\; 22nd St from Mis
- sion St to Bartlett St\n\nPermit status: Permitted\nTimes are SFMTA street
- -closure permit times and include setup and teardown\nSource: DataSF Tempo
- rary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yybr\nSource: 
- DataSF street closures
-GEO:37.756167;-122.419935
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Bartlett St between 22nd St and 21st St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cornhole Tournament
 DTSTART;TZID=America/Los_Angeles:20261023T080000
 DTEND;TZID=America/Los_Angeles:20261023T190000
