@@ -40,85 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Suffs
-DTSTART;TZID=America/Los_Angeles:20261022T130000
-DTEND;TZID=America/Los_Angeles:20261022T150000
-DTSTAMP:20261023T114720Z
-UID:dothebay-16602210@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:October 22–November 9\, 2025\n\n2 hours\, 30 minutes\, inclu
- ding one intermission\n\nOrpheum Theatre | 1192 Market St. San Francisco\,
-  CA 94102\n\nBEHIND EVERY POWERFUL WOMAN ARE MORE POWERFUL WOMEN.\n\nDirec
- t from Broadway\, comes the acclaimed Tony Award®-winning musical SUFFS a
- bout the brilliant\, passionate\, and funny American women who fought tire
- lessly for the right to vote. Created by Shaina Taub\, the first woman to 
- ever independently win Tony Awards for Best Book and Best Score in the sam
- e season\, this “thrilling\, inspiring and dazzlingly entertaining” (V
- ariety) new musical boldly explores the triumphs and failures of a struggl
- e for equality that’s far from over. Winner of the Outer Critics’ Circ
- le Award for Best New Musical.\n\n“Like all of the best Broadway musical
- s\, SUFFS humanizes\, empowers\, moves\, and entertains.” - Chicago Trib
- une\n\nAGES & ADVISORIES: Recommended for ages 10+. No children under 5 al
- lowed.\n\nAMERICAN SIGN LANGUAGE PERFORMANCE: Saturday\, November 8 at 1:0
- 0PM\n\nAUDIO DESCRIPTION is available through GalaPro (for all performance
- s starting Saturday\, October 25).\n\nA limited number of $40 Rush tickets
-  will be sold 2 hours prior to curtain at the Orpheum Theatre Box Office f
- or all performances beginning Friday 10/24\; Saturday & Sunday performance
- s are limited view and single seats only. Tickets are subject to availabil
- ity. Cash or credit. 2 per person. Rush tickets are void if resold.\n\nDow
- nload the TodayTix app in the iOS App Store or Google Play Store to unlock
-  the Rush...\n\nDetails: https://dothebay.com/events/2026/10/22/suffs-tick
- ets\nSource: DoTheBay
-GEO:37.779246;-122.4145712
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/28554804/e95b47c1-0253-46e1-9ea9-87c47f77ee36.jpg
-LAST-MODIFIED:20261023T114720Z
-LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/22/suffs-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GREEN FILM FESTIVAL: A City in the Forest
-DTSTART;TZID=America/Los_Angeles:20261022T180000
-DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261023T114720Z
-UID:dothebay-17947934@sf-cal
-SEQUENCE:2
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Green Film Festival presents:\n\nA CITY IN THE FOREST\n\n(Clos
- ing Night Film)\n\nWhen a private police foundation in Atlanta tries to ra
- ze an urban forest to build the country’s largest police training facili
- ty\, a diverse\, decentralized\, and intersectional movement defends the f
- orest from what they call “Cop City.” A City in the Forest paints a co
- llective portrait of the country’s most urgent social justice story\, wh
- ere a web of activists fight back against environmental racism\, political
-  corruption\, police violence\, and the criminalization of dissent.\n\nFor
- get the guilt trip\, the Green Film Festival of San Francisco\, the mischi
- evous\, tree-hugging cousin of the 29 year old SF IndieFest\, returns Oct 
- 15-22 to prove that saving the planet doesn't have to feel like homework. 
- We've ditched the doom-and-gloom documentaries that make you want to crawl
-  under a (sustainably sourced) blanket and never come out. The line-up thi
- s year pairs sharp environmental storytelling with wit\, weirdness\, and u
- napologetic irreverence. And yes\, our Eco-Horror midnight movie is back!\
- n\nWhether you’re an eco-curious cinephile or a die-hard activist\, come
-  join in the fun because if we're going to talk about the end of the world
-  as we know it\, we might as well laugh\, gasp\, and maybe even dance a li
- ttle on the way there. Through this experience the festival hopes audience
- s can begin to engage with sustainable solutions to the problems facing th
- e planet.\n\nDetails: https://dothebay.com/events/2026/10/22/green-film-fe
- stival-a-city-in-the-forest-tickets\nSource: DoTheBay\n\nAlso listed on:\n
- - https://sf.funcheap.com/2026-san-francisco-latino-film-fest-opening-nigh
- t-sesame-street-icon-doc-roxie-theater/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34917135/59604410-ad5a-4c95-80c2-8a94cf36ec86.jpg
-LAST-MODIFIED:20261023T114720Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/22/green-film-festival-a-city-in-t
- he-forest-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$10 Off Tix: SF’s “Terror Vault” 1874 Halloween Haunt (2026)
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T213000
@@ -544,31 +465,37 @@ SUMMARY:SF’s Wild New Britney Spears Musical “Once Upon a One More Tim
  e” (Oct. 23-Nov. 11)
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261022T214235Z
+DTSTAMP:20261030T011525Z
 UID:funcheap-1640525@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theater Performance
-DESCRIPTION:Ray of Light TheatrePowered entirely by the iconic hits of Bri
- tney Spears\, Once Upon a One More Time is a dazzling\, pop-fueled musical
-  that flips classic fairy tales on their heads. When Cinderella begins to 
- question her storybook destiny\, she discovers a magical book that introdu
- ces her— and the rest of the princesses—to modern ideas about independ
- ence\, choice\, and rewriting your own narrative.\nAs Snow White\, Sleepin
- g Beauty\, Little Mermaid\, and more begin to challenge their traditional 
- roles\, the land of fairy tales erupts into a joyful revolution set to cha
- rt-topping anthems like …\nBaby One More Time\, Toxic\, Stronger\, and O
- ops!… I Did It Again. What unfolds is a high-energy celebration of self-
- empowerment\, friendship\, and the courage to take control of your own sto
- ry.\n\nBold\, funny\, and irresistibly fun\, Once Upon a One More Time is 
- a glittering spectacle that blends nostalgia with modern feminism\, provin
- g that princes are optional-but owning your power is not. Get ready to dan
- ce\, sing along\, and see fairy tales through a totally new lens.\n\n$41.0
- 0\n\nTickets: https://www.rayoflighttheatre.com/britney\nDetails: https://
- sf.funcheap.com/sfs-wild-britney-spears-musical-time-oct-24nov-11/\nSource
- : Funcheap SF
+DESCRIPTION:Submitted by the Event OrganizerSF’s Wild New Britney Spears
+  Musical “Once Upon a One More Time” (Oct. 23-Nov. 11)Powered entirely
+  by the iconic hits of Britney Spears\, Once Upon a One More Time is a daz
+ zling\, pop-fueled musical that flips classic fairy tales on their heads. 
+ When Cinderella begins to question her storybook destiny\, she discovers a
+  magical book that introduces her— and the rest of the princesses—to m
+ odern ideas about independence\, choice\, and rewriting your own narrative
+ .\n\nOnce Upon a One More Time is a hilarious\, high-energy musical packed
+  with Britney Spears’ biggest hits\, explosive choreography\, outrageous
+  costumes\, and 23 powerhouse performers.\n\nAs Snow White\, Sleeping Beau
+ ty\, Little Mermaid\, and more begin to challenge their traditional roles\
+ , the land of fairy tales erupts into a joyful revolution set to chart-top
+ ping anthems like …\nBaby One More Time\, Toxic\, Stronger\, and Oops!
+ … I Did It Again. What unfolds is a high-energy celebration of self-empo
+ werment\, friendship\, and the courage to take control of your own story.\
+ nBold\, funny\, and irresistibly fun\, Once Upon a One More Time is a glit
+ tering spectacle that blends nostalgia with modern feminism\, proving that
+  princes are optional-but owning your power is not. Get ready to dance\, s
+ ing along\, and see fairy tales through a totally new lens.\n\nUpcoming SF
+ ’s Wild New Britney Spears Musical “Once Upon a One More Time” (Oct.
+  23-Nov. 11) Events\nFri 10/30 SF’s Wild New Britney Spears Musical “O
+ nce Upon a One More...\n\n$41.00\n\nTickets: https://www.rayoflighttheatre
+ .com/britney\nDetails: https://sf.funcheap.com/sfs-wild-britney-spears-mus
+ ical-time-oct-24nov-11/\nSource: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
  shot-2026-10-02-at-1.03.38-PM.png
-LAST-MODIFIED:20261022T214235Z
+LAST-MODIFIED:20261030T011525Z
 LOCATION:Barbary Stage\, 215 Jackson St\, San Francisco\, CA 94111
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-wild-britney-spears-musical-time-oct-24nov
@@ -2004,6 +1931,47 @@ URL:https://dothebay.com/events/2026/10/30/dance-fridays-halloween-live-sa
  lsa-bachata-and-cumbia-3-rooms-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF’s Wild New Britney Spears Musical “Once Upon a One More Tim
+ e” (Oct. 23-Nov. 11)
+DTSTART;TZID=America/Los_Angeles:20261030T200000
+DTEND;TZID=America/Los_Angeles:20261030T220000
+DTSTAMP:20261030T011525Z
+UID:funcheap-1644909@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:SF’s Wild New Britney Spears Musical “Once Upon a One More
+  Time” (Oct. 23-Nov. 11)\nTIFFANY DAVIS\nPowered entirely by the iconic 
+ hits of Britney Spears\, Once Upon a One More Time is a dazzling\, pop-fue
+ led musical that flips classic fairy tales on their heads. When Cinderella
+  begins to question her storybook destiny\, she discovers a magical book t
+ hat introduces her— and the rest of the princesses—to modern ideas abo
+ ut independence\, choice\, and rewriting your own narrative.\n\nOnce Upon 
+ a One More Time is a hilarious\, high-energy musical packed with Britney S
+ pears’ biggest hits\, explosive choreography\, outrageous costumes\, and
+  23 powerhouse performers.\n\nAs Snow White\, Sleeping Beauty\, Little Mer
+ maid\, and more begin to challenge their traditional roles\, the land of f
+ airy tales erupts into a joyful revolution set to chart-topping anthems li
+ ke …\n\nBaby One More Time\, Toxic\, Stronger\, and Oops!… I Did It Ag
+ ain. What unfolds is a high-energy celebration of self-empowerment\, frien
+ dship\, and the courage to take control of your own story.\nBold\, funny\,
+  and irresistibly fun\, Once Upon a One More Time is a glittering spectacl
+ e that blends nostalgia with modern feminism\, proving that princes are op
+ tional-but owning your power is not. Get ready to dance\, sing along\, and
+  see fairy tales through a totally new lens.\n\nUpcoming SF’s Wild New B
+ ritney Spears Musical “Once Upon a One More Time” (Oct. 23-Nov. 11) Ev
+ ents\nFri 10/30 SF’s Wild New Britney Spears Musical “Once Upon a One 
+ More Time” (Oct. 23-...\n\n$41.00\n\nTickets: https://www.rayoflightthea
+ tre.com/britney\nDetails: https://sf.funcheap.com/sfs-wild-new-britney-spe
+ ars-musical-once-upon-a-one-more-time-oct-23-nov-11/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/unname
+ d-55.jpg
+LAST-MODIFIED:20261030T011525Z
+LOCATION:Barbary Stage\, 215 Jackson St\, San Francisco\, CA 94111
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-wild-new-britney-spears-musical-once-upon-
+ a-one-more-time-oct-23-nov-11/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Labyrinth
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T120000
@@ -2038,6 +2006,48 @@ LAST-MODIFIED:20261025T205626Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/labyrinth-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$25 Halloween Tix: SF’s Britney Spears Musical “Once Upon a On
+ e More Time” (2p + 8p Shows)
+DTSTART;TZID=America/Los_Angeles:20261031T140000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+DTSTAMP:20261030T011525Z
+UID:funcheap-1644910@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:SF’s Wild New Britney Spears Musical “Once Upon a One More
+  Time” (Oct. 23-Nov. 11)\nTIFFANY DAVIS\nPowered entirely by the iconic 
+ hits of Britney Spears\, Once Upon a One More Time is a dazzling\, pop-fue
+ led musical that flips classic fairy tales on their heads. When Cinderella
+  begins to question her storybook destiny\, she discovers a magical book t
+ hat introduces her— and the rest of the princesses—to modern ideas abo
+ ut independence\, choice\, and rewriting your own narrative.\n\nOnce Upon 
+ a One More Time is a hilarious\, high-energy musical packed with Britney S
+ pears’ biggest hits\, explosive choreography\, outrageous costumes\, and
+  23 powerhouse performers.\n\nAs Snow White\, Sleeping Beauty\, Little Mer
+ maid\, and more begin to challenge their traditional roles\, the land of f
+ airy tales erupts into a joyful revolution set to chart-topping anthems li
+ ke …\nBaby One More Time\, Toxic\, Stronger\, and Oops!… I Did It Agai
+ n. What unfolds is a high-energy celebration of self-empowerment\, friends
+ hip\, and the courage to take control of your own story.\nBold\, funny\, a
+ nd irresistibly fun\, Once Upon a One More Time is a glittering spectacle 
+ that blends nostalgia with modern feminism\, proving that princes are opti
+ onal-but owning your power is not. Get ready to dance\, sing along\, and s
+ ee fairy tales through a totally new lens.\n\nSaturday\, October 31\, 2026
+ SF’s Wild New Britney Spears Musical “Once Upon a One More Time” (Oc
+ t. 23-Nov. 11)use code TOXIC25 for $25 tickets for Halloween\, October 31\
+ , 2026 performance...\n\n$25.00\n\nTickets: https://mailchi.mp/rayoflightt
+ heatre/urinetownsellingfast-8905816?e=4fbf349094\nDetails: https://sf.func
+ heap.com/25-halloween-tix-wild-new-britney-spears-musical-once-upon-a-one-
+ more-time-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/unname
+ d-55.jpg
+LAST-MODIFIED:20261030T011525Z
+LOCATION:Barbary Stage\, 215 Jackson St\, San Francisco\, CA 94111
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/25-halloween-tix-wild-new-britney-spears-music
+ al-once-upon-a-one-more-time-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glow in the Streets 2026: Outdoor Dayglow / Neon Halloween Dance P

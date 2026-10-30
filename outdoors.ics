@@ -40,35 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:NightLife: Día de los Muertos
-DTSTART;TZID=America/Los_Angeles:20261022T180000
-DTEND;TZID=America/Los_Angeles:20261022T200000
-DTSTAMP:20261023T114720Z
-UID:dothebay-17799228@sf-cal
-SEQUENCE:1
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Dónde la música y la memoria se encuentran. Join us for our 
- fourth annual Día de los Muertos celebration\, una noche en Michoacán\, 
- honoring tradition through art\, music\, and community. Gather with us for
-  the unveiling of a special alebrije honoring Claude and celebrating the l
- ife of an Academy icon.\n\nIn partnership with CarnavalSF and Academy Lati
- ne affinity group CONCIENCIA\, we’re transforming the museum into a vibr
- ant showcase featuring traditional dances\, local makers\, and interactive
-  experiences that bring this celebration and the Michoacana culture to lif
- e.\n\nDetails: https://dothebay.com/events/2026/10/22/nightlife-dia-de-los
- -muertos-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funche
- ap.com/da-de-los-muertos-nightlife-2026-cal-academy-sciences-sf/
-GEO:37.7698646;-122.4660947
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34225114/3c5bbbfc-ae46-4f15-a753-5ca4c6f558ff.jpg
-LAST-MODIFIED:20261023T114720Z
-LOCATION:California Academy of Sciences\, 55 Music Concourse Drive\, San F
- rancisco\, CA\, 94118
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/22/nightlife-dia-de-los-muertos-ti
- ckets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261023T090000
 DTEND;TZID=America/Los_Angeles:20261023T100000
@@ -1108,27 +1079,6 @@ LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
  4102
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fright NightLife
-DTSTART;TZID=America/Los_Angeles:20261029T180000
-DTEND;TZID=America/Los_Angeles:20261029T200000
-DTSTAMP:20261028T202041Z
-UID:dothebay-17853004@sf-cal
-SEQUENCE:1
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Fright NightLife\nThursday\, October 29 | ​California Academ
- y of Sciences\n\nTickets: https://www.calacademy.org/nightlife/fright-nigh
- tlife\nDetails: https://dothebay.com/events/2026/10/29/fright-nightlife-ti
- ckets\nSource: DoTheBay
-GEO:37.7698646;-122.4660947
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34472185/c4d7f992-4932-488f-91d3-044666e666c3.png
-LAST-MODIFIED:20261028T202041Z
-LOCATION:California Academy of Sciences\, 55 Music Concourse Drive\, San F
- rancisco\, CA\, 94118
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/29/fright-nightlife-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Go Ghost Hunting This Halloween with Haunted Haight® Walking Tour
@@ -3186,6 +3136,47 @@ URL:https://sf.funcheap.com/free-ice-skating-lessons-at-union-square-holid
  ay-rink-final-day-to-register/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+DTSTART;TZID=America/Los_Angeles:20261125T090000
+DTEND;TZID=America/Los_Angeles:20261125T100000
+DTSTAMP:20261030T011525Z
+UID:funcheap-1644874@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+ \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
+ nd the world with an opportunity to experience the natural beauty\, tranqu
+ ility\, and harmony of a Japanese-style garden in the heart of San Francis
+ co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
+ xhibit for the 1894 California Midwinter International Exposition\, the Ja
+ panese Tea Garden endures as one of the most popular attractions in San Fr
+ ancisco\, featuring classic elements such as an arched drum bridge\, pagod
+ as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
+ ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
+  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
+ for San Francisco residents with valid ID. Free hours for everyone (even n
+ on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
+ ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
+ ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
+ / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
+ Non Resident Fees\nAdults: Tickets start at $16 (depends on season)\nSenio
+ rs (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChi
+ ldren (under 5) FREE\nOpen Daily at 9am-Last Entry\nLast entry is 30 minut
+ es before closing. Last entry changes seasonally.\nSpring – Summer Last 
+ Entry\nMarch – October: 5:30pm\nFall – Winter Last Entry\nNovember –
+  February:...\n\nFree\n\nTickets: https://www.japaneseteagardensf.com/vist
+ \nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admission-hou
+ r-golden-gate-park-465/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
+ seteagarden-scaled-e1595352236641.jpeg
+LAST-MODIFIED:20261030T011525Z
+LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
+  CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
+ n-gate-park-465/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Sacramento Kings
 DTSTART;TZID=America/Los_Angeles:20261125T190000
 DTEND;TZID=America/Los_Angeles:20261125T210000
@@ -3421,6 +3412,47 @@ LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/1/golden-state-warriors-vs-utah-ja
  zz-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+DTSTART;TZID=America/Los_Angeles:20261202T090000
+DTEND;TZID=America/Los_Angeles:20261202T100000
+DTSTAMP:20261030T011525Z
+UID:funcheap-1644876@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+ \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
+ nd the world with an opportunity to experience the natural beauty\, tranqu
+ ility\, and harmony of a Japanese-style garden in the heart of San Francis
+ co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
+ xhibit for the 1894 California Midwinter International Exposition\, the Ja
+ panese Tea Garden endures as one of the most popular attractions in San Fr
+ ancisco\, featuring classic elements such as an arched drum bridge\, pagod
+ as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
+ ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
+  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
+ for San Francisco residents with valid ID. Free hours for everyone (even n
+ on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
+ ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
+ ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
+ / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
+ Non Resident Fees\nAdults: Tickets start at $16 (depends on season)\nSenio
+ rs (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChi
+ ldren (under 5) FREE\nOpen Daily at 9am-Last Entry\nLast entry is 30 minut
+ es before closing. Last entry changes seasonally.\nSpring – Summer Last 
+ Entry\nMarch – October: 5:30pm\nFall – Winter Last Entry\nNovember –
+  February:...\n\nFree\n\nTickets: https://www.japaneseteagardensf.com/vist
+ \nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admission-hou
+ r-golden-gate-park-466/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
+ seteagarden-scaled-e1595352236641.jpeg
+LAST-MODIFIED:20261030T011525Z
+LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
+  CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
+ n-gate-park-466/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ranch First Wednesday Open Community Day | Napa
@@ -3879,6 +3911,47 @@ URL:https://sf.funcheap.com/san-francisco-botanical-gardens-free-day-2nd-t
  uesdays-66/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+DTSTART;TZID=America/Los_Angeles:20261209T090000
+DTEND;TZID=America/Los_Angeles:20261209T100000
+DTSTAMP:20261030T011525Z
+UID:funcheap-1644878@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+ \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
+ nd the world with an opportunity to experience the natural beauty\, tranqu
+ ility\, and harmony of a Japanese-style garden in the heart of San Francis
+ co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
+ xhibit for the 1894 California Midwinter International Exposition\, the Ja
+ panese Tea Garden endures as one of the most popular attractions in San Fr
+ ancisco\, featuring classic elements such as an arched drum bridge\, pagod
+ as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
+ ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
+  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
+ for San Francisco residents with valid ID. Free hours for everyone (even n
+ on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
+ ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
+ ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
+ / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
+ Non Resident Fees\nAdults: Tickets start at $16 (depends on season)\nSenio
+ rs (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChi
+ ldren (under 5) FREE\nOpen Daily at 9am-Last Entry\nLast entry is 30 minut
+ es before closing. Last entry changes seasonally.\nSpring – Summer Last 
+ Entry\nMarch – October: 5:30pm\nFall – Winter Last Entry\nNovember –
+  February:...\n\nFree\n\nTickets: https://www.japaneseteagardensf.com/vist
+ \nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admission-hou
+ r-golden-gate-park-467/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
+ seteagarden-scaled-e1595352236641.jpeg
+LAST-MODIFIED:20261030T011525Z
+LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
+  CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
+ n-gate-park-467/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Silent Skate” 2026: Silent Disco on Ice at Union Square Holid
  ay Rink
 DTSTART;TZID=America/Los_Angeles:20261210T190000
@@ -4158,6 +4231,47 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-463/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+DTSTART;TZID=America/Los_Angeles:20261216T090000
+DTEND;TZID=America/Los_Angeles:20261216T100000
+DTSTAMP:20261030T011525Z
+UID:funcheap-1644880@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+ \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
+ nd the world with an opportunity to experience the natural beauty\, tranqu
+ ility\, and harmony of a Japanese-style garden in the heart of San Francis
+ co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
+ xhibit for the 1894 California Midwinter International Exposition\, the Ja
+ panese Tea Garden endures as one of the most popular attractions in San Fr
+ ancisco\, featuring classic elements such as an arched drum bridge\, pagod
+ as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
+ ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
+  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
+ for San Francisco residents with valid ID. Free hours for everyone (even n
+ on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
+ ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
+ ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
+ / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
+ Non Resident Fees\nAdults: Tickets start at $16 (depends on season)\nSenio
+ rs (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChi
+ ldren (under 5) FREE\nOpen Daily at 9am-Last Entry\nLast entry is 30 minut
+ es before closing. Last entry changes seasonally.\nSpring – Summer Last 
+ Entry\nMarch – October: 5:30pm\nFall – Winter Last Entry\nNovember –
+  February:...\n\nFree\n\nTickets: https://www.japaneseteagardensf.com/vist
+ \nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admission-hou
+ r-golden-gate-park-468/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
+ seteagarden-scaled-e1595352236641.jpeg
+LAST-MODIFIED:20261030T011525Z
+LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
+  CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
+ n-gate-park-468/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Midnight Mystery Ride (Every Third Saturday)
 DTSTART;TZID=America/Los_Angeles:20261219T235900
 DTEND;TZID=America/Los_Angeles:20261220T025900
@@ -4317,6 +4431,47 @@ LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/22/golden-state-warriors-vs-dallas
  -mavericks-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+DTSTART;TZID=America/Los_Angeles:20261223T090000
+DTEND;TZID=America/Los_Angeles:20261223T100000
+DTSTAMP:20261030T011525Z
+UID:funcheap-1644882@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
+ \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
+ nd the world with an opportunity to experience the natural beauty\, tranqu
+ ility\, and harmony of a Japanese-style garden in the heart of San Francis
+ co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
+ xhibit for the 1894 California Midwinter International Exposition\, the Ja
+ panese Tea Garden endures as one of the most popular attractions in San Fr
+ ancisco\, featuring classic elements such as an arched drum bridge\, pagod
+ as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
+ ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
+  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
+ for San Francisco residents with valid ID. Free hours for everyone (even n
+ on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
+ ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
+ ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
+ / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
+ Non Resident Fees\nAdults: Tickets start at $16 (depends on season)\nSenio
+ rs (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChi
+ ldren (under 5) FREE\nOpen Daily at 9am-Last Entry\nLast entry is 30 minut
+ es before closing. Last entry changes seasonally.\nSpring – Summer Last 
+ Entry\nMarch – October: 5:30pm\nFall – Winter Last Entry\nNovember –
+  February:...\n\nFree\n\nTickets: https://www.japaneseteagardensf.com/vist
+ \nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admission-hou
+ r-golden-gate-park-469/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
+ seteagarden-scaled-e1595352236641.jpeg
+LAST-MODIFIED:20261030T011525Z
+LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
+  CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
+ n-gate-park-469/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Christmas Eve Ice Skating at Union Square
