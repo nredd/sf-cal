@@ -40,26 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Community Coffee Social (Elizabeth Taylor 50-Plus Network)
-DTSTART;TZID=America/Los_Angeles:20261024T100000
-DTEND;TZID=America/Los_Angeles:20261024T120000
-DTSTAMP:20261025T114202Z
-UID:dothebay-16869112@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:Held every Saturday\, at 10 am\, members and prospective membe
- rs of the Elizabeth Taylor 50-Plus network gather for coffee and community
-  at a local coffee shop.\n\nTo join us\, contact us at 50plusnetwork@sfaf.
- org for more information or call 415-728-3116.\n\nDetails: https://dotheba
- y.com/events/2026/10/24/community-coffee-social-elizabeth-taylor-50-plus-n
- etwork-tickets\nSource: DoTheBay
-LAST-MODIFIED:20261025T114202Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/24/community-coffee-social-elizabe
- th-taylor-50-plus-network-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Boos & Brews” on B Street 2026: Free Halloween Fest (Downtown
   San Mateo)
 DTSTART;TZID=America/Los_Angeles:20261024T150000
@@ -1366,9 +1346,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Halloween Pub Crawl: Crawloween
 DTSTART;TZID=America/Los_Angeles:20261031T140000
 DTEND;TZID=America/Los_Angeles:20261031T160000
-DTSTAMP:20261017T105245Z
+DTSTAMP:20261031T192123Z
 UID:dothebay-17764847@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:DJ/Parties
 DESCRIPTION:CrawlSF Presents\nSan Francisco Halloween Pub Crawl: Crawlowee
  n\nSaturday\, October 31 | Mayes Oyster House\n\nBy midafternoon on Hallow
@@ -1395,11 +1375,12 @@ DESCRIPTION:CrawlSF Presents\nSan Francisco Halloween Pub Crawl: Crawlowee
  en-san-francisco-halloween-pub-crawl-2/\nDetails: https://dothebay.com/eve
  nts/2026/10/31/san-francisco-halloween-pub-crawl-crawloween-tickets\nSourc
  e: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sfs-epic-25000-h
- alloween-pub-crawl-is-back-crawloween-2026/
+ alloween-pub-crawl-is-back-crawloween-2026/\n- https://sf.funcheap.com/jap
+ anese-woodblock-prints-language-flowers-gallery-talk-2/
 GEO:37.788296;-122.4205566
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34058057/08222fb7-7567-4967-a94a-42dba317250f.jpg
-LAST-MODIFIED:20261017T105245Z
+LAST-MODIFIED:20261031T192123Z
 LOCATION:Mayes Oyster House\, 1233 Polk St.\, San Francisco\, CA\, 94109
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/san-francisco-halloween-pub-cra
@@ -1503,6 +1484,76 @@ LOCATION:Cigar Bar & Grill\, 850 Montgomery St.\, San Francisco\, CA\, 941
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/salsa-lessons-with-ava-rodolfo-
  saturday-october-31-2026-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween Velvet Night
+DTSTART;TZID=America/Los_Angeles:20261031T190000
+DTEND;TZID=America/Los_Angeles:20261101T023000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1643361@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:Submitted by the Event OrganizerAI​Some nights are made to b
+ e remembered. Others are destined to become eternal.\n​This Halloween\, 
+ Nomad’s Land and Bone Voyage invite you into a world where darkness sedu
+ ces\, identities dissolve\, and the unexpected becomes the temptation.\n\n
+ ​In an extraordinary private San Francisco location\, surrender to hypno
+ tic rhythms\, mysterious encounters\, and a visual feast\n​Expect intoxi
+ cating sounds from a curated lineup of DJs\, immersive art\, elaborate cos
+ tumes\, and a crowd that knows how to disappear into the night.\n​Dress 
+ to seduce. Dress to deceive. Dress to become.\n​THE EXPERIENCE INCLUDES:
+ \n\n​Open bar & delectable bites\n\n​Curated DJs & hypnotic sounds\n\n
+ ​Immersive art & unexpected encounters\n\n​Costumes encouraged\n\n​S
+ trictly limited capacity\n\n$50.00\n\nTickets: https://luma.com/k1l9tcer\n
+ Details: https://sf.funcheap.com/halloween-velvet-night/\nSource: Funcheap
+  SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/hallow
+ een.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Garage SFO\, 951 Folsom Street\, San Francisco\, CA 94107
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/halloween-velvet-night/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silicon Valley’s Largest Halloween Party for Single Professional
+ s
+DTSTART;TZID=America/Los_Angeles:20261031T193000
+DTEND;TZID=America/Los_Angeles:20261031T233000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1642263@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:Submitted by the Event OrganizerRich GosseONE NIGHT. GREAT MUS
+ IC. NEW CONNECTIONS. UNFORGETTABLE FUN! Adults of all ages welcome.\nWHEN:
+  Saturday\, October 31\, 2026 | 7:30 PM – 11:30 PM. We have 3 Halloween 
+ Parties tonight. If this one in the Silicon Valley is not convenient\, we 
+ also have parties tonight in Mill Valley for 50+ and San Francisco for 21-
+ 49.\n\nWHERE: Hilton Garden Inn Ballroom\, 767 N. Mathilda Avenue\, Sunnyv
+ ale\, CA 94085. Free parking! Discounted hotel rooms available for guests 
+ who want to stay overnight. Hotel accommodations do not include party admi
+ ssion.\nGET YOUR TICKETS at www.thepartyhotline.com EARLY & SAVE!\n$35 —
+  Early Bird Special\n$40 — Last-Minute Advance Ticket\n$50 — At the Do
+ or\nSPECIAL OFFER: $60 FOR TWO PEOPLE! Bring a friend\, invite someone spe
+ cial\, or treat another single to a fabulous Halloween night!\nTwo people 
+ for only $60 — just $30 each!\nAll tickets include the icebreaker dance 
+ class and Halloween party.\nSingle? Ready to Mingle? Love to Dance? This H
+ alloween\, forget sitting at home handing out candy! Put on your sexiest\,
+  funniest\, or most fabulous costume and join us for an exciting night of 
+ flirting\, dancing\, laughter\, and meeting amazing new people! Who knows?
+  You might meet your next date\, your perfect dance partner\, or even some
+ one special! Whether you’re single and searching\, happily single\, or s
+ imply love a fabulous party\, come celebrate Halloween with us!\nWHAT MAKE
+ S THIS PARTY SPECIAL?\nIcebreaker Dance Class & Social! An easy\, playful 
+ way...\n\n$35.00\n\nTickets: https://www.thepartyhotline.com\nDetails: htt
+ ps://sf.funcheap.com/silicon-valleys-largest-halloween-party-single-profes
+ sionals/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/ssplog
+ o3.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Hilton Garden Inn\, 767 N Mathilda\, Sunnyvale CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/silicon-valleys-largest-halloween-party-single
+ -professionals/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daft Disko: Halloween - A French House & Disco Party
@@ -1651,6 +1702,31 @@ URL:https://dothebay.com/events/2026/10/31/dusk-to-dawn-halloween-big-wild
  -vandelux-hercules-and-love-affair-more-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF’s Newly Reopened Bruno’s Halloween Party (Mission)
+DTSTART;TZID=America/Los_Angeles:20261031T210000
+DTEND;TZID=America/Los_Angeles:20261101T010000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1644797@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:Bruno'sThis weekend\, the iconic and newly reopened Bruno’s 
+ will allow FREE entry to anyone wearing a costume (before 11 p.m.) on Satu
+ rday. Local DJs Dilly and Reza will perform\, and visitors can expect a ni
+ ght of spooktacular drinks and fun!\nIf you are interested in booking Brun
+ o’s for your next event or reserving bottle service\, please reach out t
+ o VIP@brunossf.com.\n\nFree\n\nTickets: https://www.eventbrite.com/e/hallo
+ ween-at-brunos-tickets-2003917590457?aff=oddtdtcreator\nDetails: https://s
+ f.funcheap.com/sfs-newly-reopened-brunos-halloween-party-mission/\nSource:
+  Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/L35403
+ 101.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Bruno’s Nightclub\, 2389 Mission St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-newly-reopened-brunos-halloween-party-miss
+ ion/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Salsa Night with Live Band: Pepe Y Su Orquesta - Saturday\, Octobe
  r 31\, 2026
 DTSTART;TZID=America/Los_Angeles:20261031T213000
@@ -1686,9 +1762,9 @@ BEGIN:VEVENT
 SUMMARY:The Divine Comedy: A Halloween Ascent
 DTSTART;TZID=America/Los_Angeles:20261031T220000
 DTEND;TZID=America/Los_Angeles:20261101T000000
-DTSTAMP:20261026T045612Z
+DTSTAMP:20261031T192123Z
 UID:dothebay-17996768@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:You have fallen. Now rise.\n\n​This Halloween\, SF Social Cl
  ub becomes three worlds.\n\n​Join us on Saturday\, October 31 for The Di
@@ -1701,10 +1777,11 @@ DESCRIPTION:You have fallen. Now rise.\n\n​This Halloween\, SF Social Cl
  inecomedysf.com/\n\n$37+ (21+ open bar)\nSFSC Presents\nListed time is doo
  rs\n\nTickets: https://luma.com/divinecomedy\nDetails: https://dothebay.co
  m/events/2026/10/31/the-divine-comedy-a-halloween-ascent-tickets\nSource: 
- DoTheBay
+ DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/divine-comedy-hallo
+ ween-ascent/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35137440/823daaa0-aa4b-414e-adb0-23a7031b6279.jpg
-LAST-MODIFIED:20261026T045612Z
+LAST-MODIFIED:20261031T192123Z
 LOCATION:SFSC\, RSVP for address\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/the-divine-comedy-a-halloween-a
@@ -4556,6 +4633,49 @@ URL:https://sf.funcheap.com/every-thursday-inner-circle-dance-party-at-whi
  te-rabbit-sf-98/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
+ h)
+DTSTART;TZID=America/Los_Angeles:20261127T170000
+DTEND;TZID=America/Los_Angeles:20261127T230000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1645324@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Drink Fridays: “Battle of the Decades” DJ Party (North 
+ Beach)\nBattle Of the Decades\nFridays are now a little bit more awesome. 
+ Did someone say $1 drinks?\nMonroe in North Beach hosts “Battle of the D
+ ecades” DJ party and happy hour every Friday with a DJ spinning progress
+ ive tunes. Every hour is a different decade – with drink prices to match
+  – $1 drinks during ’60s hour\, $2 drinks during ’70s hour\, and so 
+ on.\nThere’s a live DJ\, two rooms and an outdoor patio.\n\nBattle Of Th
+ e Decades\nEvery Friday | 5 pm ’til late\nMonroe\, 473 Broadway St. (@ K
+ earny)\, SF\n>> FREE with RSVP on Eventbrite\nThe earlier you get there\, 
+ the cheaper the drinks. Drinks typically included in happy hour pricing ar
+ e Well cocktails with Rum\, Vodka\, Tequila\, Whiskey\, Gin\, and Beers li
+ ke PBR\, Rolling Rock\, Miller High Life and Bud Light.\n\n5-6 pm: $1 drin
+ ks – ’60s music\n6-7 pm: $2 drinks – ’70s music\n7-8 pm: $3 drinks
+  – ’80s music\n8-9 pm: $4 drinks – ’90s music\n9-10 pm: $5 drinks 
+ – ’00s music\n10-11 pm: $6 premium cocktails – ’10s music\n11 pm t
+ o 2am – Current Hits\n\nUpdated 10/5/21 – Event info last checked via 
+ Eventbrite.\n\nMonroe\n\nUpcoming $1 Drink Fridays: “Battle of the Decad
+ es” DJ Party (North Beach) Events\nFri 11/6 $1 Drink Fridays: “Battle 
+ of the Decades” DJ Party (North Beach)Fri 11/13 $1 Drink Fridays: “Bat
+ tle of the Decades” DJ Party (North Beach)Fri 11/20 $1 Drink Fridays: 
+ “Battle of the Decades” DJ Party (North Beach)Fri 11/27 $1 Drink Frida
+ ys: “Battle of the Decades” DJ Party (North Beach)Fri 12/4 $1...\n\nFr
+ ee\n\nTickets: https://www.eventbrite.com/e/battle-of-the-decades-60s-70s-
+ 80s-90s-dance-party-tickets-33916376796\nDetails: https://sf.funcheap.com/
+ 1-drink-fridays-battle-of-the-decades-dj-party-north-beach-265/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2013/01/battle
+ -e1633451739789.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
+ -north-beach-265/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Salsa Lessons with Ava & Rodolfo - Friday\, November 27\, 2026
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
@@ -5231,6 +5351,49 @@ URL:https://sf.funcheap.com/sadderday-an-emo-pop-punk-screamo-dance-party-
  sf-104/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
+ h)
+DTSTART;TZID=America/Los_Angeles:20261204T170000
+DTEND;TZID=America/Los_Angeles:20261204T230000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1645326@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Drink Fridays: “Battle of the Decades” DJ Party (North 
+ Beach)\nBattle Of the Decades\nFridays are now a little bit more awesome. 
+ Did someone say $1 drinks?\nMonroe in North Beach hosts “Battle of the D
+ ecades” DJ party and happy hour every Friday with a DJ spinning progress
+ ive tunes. Every hour is a different decade – with drink prices to match
+  – $1 drinks during ’60s hour\, $2 drinks during ’70s hour\, and so 
+ on.\nThere’s a live DJ\, two rooms and an outdoor patio.\n\nBattle Of Th
+ e Decades\nEvery Friday | 5 pm ’til late\nMonroe\, 473 Broadway St. (@ K
+ earny)\, SF\n>> FREE with RSVP on Eventbrite\nThe earlier you get there\, 
+ the cheaper the drinks. Drinks typically included in happy hour pricing ar
+ e Well cocktails with Rum\, Vodka\, Tequila\, Whiskey\, Gin\, and Beers li
+ ke PBR\, Rolling Rock\, Miller High Life and Bud Light.\n\n5-6 pm: $1 drin
+ ks – ’60s music\n6-7 pm: $2 drinks – ’70s music\n7-8 pm: $3 drinks
+  – ’80s music\n8-9 pm: $4 drinks – ’90s music\n9-10 pm: $5 drinks 
+ – ’00s music\n10-11 pm: $6 premium cocktails – ’10s music\n11 pm t
+ o 2am – Current Hits\n\nUpdated 10/5/21 – Event info last checked via 
+ Eventbrite.\n\nMonroe\n\nUpcoming $1 Drink Fridays: “Battle of the Decad
+ es” DJ Party (North Beach) Events\nFri 11/6 $1 Drink Fridays: “Battle 
+ of the Decades” DJ Party (North Beach)Fri 11/13 $1 Drink Fridays: “Bat
+ tle of the Decades” DJ Party (North Beach)Fri 11/20 $1 Drink Fridays: 
+ “Battle of the Decades” DJ Party (North Beach)Fri 11/27 $1 Drink Frida
+ ys: “Battle of the Decades” DJ Party (North Beach)Fri 12/4 $1...\n\nFr
+ ee\n\nTickets: https://www.eventbrite.com/e/battle-of-the-decades-60s-70s-
+ 80s-90s-dance-party-tickets-33916376796\nDetails: https://sf.funcheap.com/
+ 1-drink-fridays-battle-of-the-decades-dj-party-north-beach-266/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2013/01/battle
+ -e1633451739789.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
+ -north-beach-266/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Music For The Masses
 DTSTART;TZID=America/Los_Angeles:20261204T210000
 DTEND;TZID=America/Los_Angeles:20261204T230000
@@ -5724,6 +5887,49 @@ URL:https://sf.funcheap.com/every-thursday-inner-circle-dance-party-at-whi
  te-rabbit-sf-100/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
+ h)
+DTSTART;TZID=America/Los_Angeles:20261211T170000
+DTEND;TZID=America/Los_Angeles:20261211T230000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1645328@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Drink Fridays: “Battle of the Decades” DJ Party (North 
+ Beach)\nBattle Of the Decades\nFridays are now a little bit more awesome. 
+ Did someone say $1 drinks?\nMonroe in North Beach hosts “Battle of the D
+ ecades” DJ party and happy hour every Friday with a DJ spinning progress
+ ive tunes. Every hour is a different decade – with drink prices to match
+  – $1 drinks during ’60s hour\, $2 drinks during ’70s hour\, and so 
+ on.\nThere’s a live DJ\, two rooms and an outdoor patio.\n\nBattle Of Th
+ e Decades\nEvery Friday | 5 pm ’til late\nMonroe\, 473 Broadway St. (@ K
+ earny)\, SF\n>> FREE with RSVP on Eventbrite\nThe earlier you get there\, 
+ the cheaper the drinks. Drinks typically included in happy hour pricing ar
+ e Well cocktails with Rum\, Vodka\, Tequila\, Whiskey\, Gin\, and Beers li
+ ke PBR\, Rolling Rock\, Miller High Life and Bud Light.\n\n5-6 pm: $1 drin
+ ks – ’60s music\n6-7 pm: $2 drinks – ’70s music\n7-8 pm: $3 drinks
+  – ’80s music\n8-9 pm: $4 drinks – ’90s music\n9-10 pm: $5 drinks 
+ – ’00s music\n10-11 pm: $6 premium cocktails – ’10s music\n11 pm t
+ o 2am – Current Hits\n\nUpdated 10/5/21 – Event info last checked via 
+ Eventbrite.\n\nMonroe\n\nUpcoming $1 Drink Fridays: “Battle of the Decad
+ es” DJ Party (North Beach) Events\nFri 11/6 $1 Drink Fridays: “Battle 
+ of the Decades” DJ Party (North Beach)Fri 11/13 $1 Drink Fridays: “Bat
+ tle of the Decades” DJ Party (North Beach)Fri 11/20 $1 Drink Fridays: 
+ “Battle of the Decades” DJ Party (North Beach)Fri 11/27 $1 Drink Frida
+ ys: “Battle of the Decades” DJ Party (North Beach)Fri 12/4 $1...\n\nFr
+ ee\n\nTickets: https://www.eventbrite.com/e/battle-of-the-decades-60s-70s-
+ 80s-90s-dance-party-tickets-33916376796\nDetails: https://sf.funcheap.com/
+ 1-drink-fridays-battle-of-the-decades-dj-party-north-beach-267/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2013/01/battle
+ -e1633451739789.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
+ -north-beach-267/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nightshift
 DTSTART;TZID=America/Los_Angeles:20261211T213000
 DTEND;TZID=America/Los_Angeles:20261211T233000
@@ -6205,6 +6411,49 @@ URL:https://sf.funcheap.com/every-thursday-inner-circle-dance-party-at-whi
  te-rabbit-sf-101/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
+ h)
+DTSTART;TZID=America/Los_Angeles:20261218T170000
+DTEND;TZID=America/Los_Angeles:20261218T230000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1645330@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Drink Fridays: “Battle of the Decades” DJ Party (North 
+ Beach)\nBattle Of the Decades\nFridays are now a little bit more awesome. 
+ Did someone say $1 drinks?\nMonroe in North Beach hosts “Battle of the D
+ ecades” DJ party and happy hour every Friday with a DJ spinning progress
+ ive tunes. Every hour is a different decade – with drink prices to match
+  – $1 drinks during ’60s hour\, $2 drinks during ’70s hour\, and so 
+ on.\nThere’s a live DJ\, two rooms and an outdoor patio.\n\nBattle Of Th
+ e Decades\nEvery Friday | 5 pm ’til late\nMonroe\, 473 Broadway St. (@ K
+ earny)\, SF\n>> FREE with RSVP on Eventbrite\nThe earlier you get there\, 
+ the cheaper the drinks. Drinks typically included in happy hour pricing ar
+ e Well cocktails with Rum\, Vodka\, Tequila\, Whiskey\, Gin\, and Beers li
+ ke PBR\, Rolling Rock\, Miller High Life and Bud Light.\n\n5-6 pm: $1 drin
+ ks – ’60s music\n6-7 pm: $2 drinks – ’70s music\n7-8 pm: $3 drinks
+  – ’80s music\n8-9 pm: $4 drinks – ’90s music\n9-10 pm: $5 drinks 
+ – ’00s music\n10-11 pm: $6 premium cocktails – ’10s music\n11 pm t
+ o 2am – Current Hits\n\nUpdated 10/5/21 – Event info last checked via 
+ Eventbrite.\n\nMonroe\n\nUpcoming $1 Drink Fridays: “Battle of the Decad
+ es” DJ Party (North Beach) Events\nFri 11/6 $1 Drink Fridays: “Battle 
+ of the Decades” DJ Party (North Beach)Fri 11/13 $1 Drink Fridays: “Bat
+ tle of the Decades” DJ Party (North Beach)Fri 11/20 $1 Drink Fridays: 
+ “Battle of the Decades” DJ Party (North Beach)Fri 11/27 $1 Drink Frida
+ ys: “Battle of the Decades” DJ Party (North Beach)Fri 12/4 $1...\n\nFr
+ ee\n\nTickets: https://www.eventbrite.com/e/battle-of-the-decades-60s-70s-
+ 80s-90s-dance-party-tickets-33916376796\nDetails: https://sf.funcheap.com/
+ 1-drink-fridays-battle-of-the-decades-dj-party-north-beach-268/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2013/01/battle
+ -e1633451739789.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
+ -north-beach-268/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slut Puppy
 DTSTART;TZID=America/Los_Angeles:20261218T200000
 DTEND;TZID=America/Los_Angeles:20261218T220000
@@ -6593,6 +6842,49 @@ LOCATION:White Rabbit\, 3138 Fillmore St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/every-thursday-inner-circle-dance-party-at-whi
  te-rabbit-sf-102/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
+ h)
+DTSTART;TZID=America/Los_Angeles:20261225T170000
+DTEND;TZID=America/Los_Angeles:20261225T230000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1645332@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Drink Fridays: “Battle of the Decades” DJ Party (North 
+ Beach)\nBattle Of the Decades\nFridays are now a little bit more awesome. 
+ Did someone say $1 drinks?\nMonroe in North Beach hosts “Battle of the D
+ ecades” DJ party and happy hour every Friday with a DJ spinning progress
+ ive tunes. Every hour is a different decade – with drink prices to match
+  – $1 drinks during ’60s hour\, $2 drinks during ’70s hour\, and so 
+ on.\nThere’s a live DJ\, two rooms and an outdoor patio.\n\nBattle Of Th
+ e Decades\nEvery Friday | 5 pm ’til late\nMonroe\, 473 Broadway St. (@ K
+ earny)\, SF\n>> FREE with RSVP on Eventbrite\nThe earlier you get there\, 
+ the cheaper the drinks. Drinks typically included in happy hour pricing ar
+ e Well cocktails with Rum\, Vodka\, Tequila\, Whiskey\, Gin\, and Beers li
+ ke PBR\, Rolling Rock\, Miller High Life and Bud Light.\n\n5-6 pm: $1 drin
+ ks – ’60s music\n6-7 pm: $2 drinks – ’70s music\n7-8 pm: $3 drinks
+  – ’80s music\n8-9 pm: $4 drinks – ’90s music\n9-10 pm: $5 drinks 
+ – ’00s music\n10-11 pm: $6 premium cocktails – ’10s music\n11 pm t
+ o 2am – Current Hits\n\nUpdated 10/5/21 – Event info last checked via 
+ Eventbrite.\n\nMonroe\n\nUpcoming $1 Drink Fridays: “Battle of the Decad
+ es” DJ Party (North Beach) Events\nFri 11/6 $1 Drink Fridays: “Battle 
+ of the Decades” DJ Party (North Beach)Fri 11/13 $1 Drink Fridays: “Bat
+ tle of the Decades” DJ Party (North Beach)Fri 11/20 $1 Drink Fridays: 
+ “Battle of the Decades” DJ Party (North Beach)Fri 11/27 $1 Drink Frida
+ ys: “Battle of the Decades” DJ Party (North Beach)Fri 12/4 $1...\n\nFr
+ ee\n\nTickets: https://www.eventbrite.com/e/battle-of-the-decades-60s-70s-
+ 80s-90s-dance-party-tickets-33916376796\nDetails: https://sf.funcheap.com/
+ 1-drink-fridays-battle-of-the-decades-dj-party-north-beach-269/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2013/01/battle
+ -e1633451739789.jpg
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
+ -north-beach-269/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leisure

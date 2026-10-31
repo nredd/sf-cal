@@ -40,36 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Casper
-DTSTART;TZID=America/Los_Angeles:20261024T100000
-DTEND;TZID=America/Los_Angeles:20261024T120000
-DTSTAMP:20261025T114202Z
-UID:dothebay-17893633@sf-cal
-SEQUENCE:2
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:When a "ghost therapist" and his daughter move into a drafty o
- ld mansion to exorcise its otherworldly inhabitants\, they meet a friendly
-  but lonely young ghost named Casper (who's just looking for a friend) and
-  his outrageous uncles Stretch\, Stinkie and Fatso.\n\nCinema SF Bay is pr
- oud to announce that our Saturday & Sunday morning POPCORN PALACE movie sc
- reenings at the 4 STAR will continue to be presented FREE OF CHARGE in 202
- 6!\n\nThanks to an incredibly generous grant we will be showing you fantas
- tic family-friendly movies every weekend at 10:00 AM! Perfect for everythi
- ng from birthday get-togethers to casual stop-ins\, so bring the whole fam
- ily over to the 4 STAR THEATER for community movies together.\n\nReservati
- ons will be first-come-first-serve when the box office opens thirty minute
- s before the screening on the day of the show. We look forward to seeing y
- ou at the movies!\n\nDetails: https://dothebay.com/events/2026/10/24/caspe
- r-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/
- free-casper-1995-screening-4-star-sf/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34665052/9876981d-7682-4c3f-a484-23238fc488f9.jpg
-LAST-MODIFIED:20261025T114202Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/24/casper-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wildwood
 DTSTART;TZID=America/Los_Angeles:20261024T130000
 DTEND;TZID=America/Los_Angeles:20261024T150000
@@ -1506,6 +1476,68 @@ LAST-MODIFIED:20261025T205626Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/31/labyrinth-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Word for WordPLAY’s Spooky Fam Jam
+DTSTART;TZID=America/Los_Angeles:20261031T110000
+DTEND;TZID=America/Los_Angeles:20261031T130000
+DTSTAMP:20261031T192123Z
+UID:funcheap-1636981@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Submitted by the Event OrganizerZ SpaceSpooky Fam Jam!\nA Word
+  for WordPLAY Event\n\nSpooky tales\, hair-raising games\, horrific dad jo
+ kes\, treats and more!\nSaturday\, October 31st @ 11am\nSpooky & Fun Morni
+ ng with WordforWordPLAY!\n\nJoin Word for WordPLAY at Z Space for a spine-
+ tingling\, fun-filled adventure where imaginations run wild! Gather the fa
+ mily for spooky storytelling with Word for WordPLAY’s Director\, Gendell
+  Hing-Hernández\, who will delight kids and adults alike. Come for the st
+ ories\, stay for the fun\, and try out your costume before heading out for
+  trick-or-treating! Experience our spooky storytelling and don’t miss th
+ is chance to step into a world where suspense meets creativity.\nEvent Det
+ ails\nWhat: Word for WordPLAY’s Spooky Fam Jam!\nWhen: Saturday\, Octobe
+ r 31st • 11:00 AM\nWhere: Z Space – Lobby\nWho: Everyone! From 6 to 10
+ 6 and everyone in between.\nCost: Free with registration!\nMore info at: W
+ ord for WordPLAY — Z Space\n\nWhat’s in store:\n\nChilling Stories: He
+ ar a few spooky and family friendly tales.\n\nInteractive Storytelling: En
+ gage with the storyteller and help the stories come to life in imaginative
+  ways.\n\nThe Gruffalo\nThe Tale of The Flying Dutchman\nThe Secret Treasu
+ re Haunt\n\nFamily fun atmosphere and games:\n\nMummy Wrapping Race\n\nOh 
+ No! Am a werewooooooooolf! (a transformational game)\n\nZombie Hunt Tag Ga
+ me (We let our Zombie hunt you!)\n\nPumpkin decorating\, Ghost making\, Ha
+ unted House coloring and more!\n\nMonster Sherades\, learn to act like a v
+ ampire\, a werewolf\, a...\n\nFree\n\nTickets: https://www.zspace.org/wfwp
+ lay\nDetails: https://sf.funcheap.com/word-wordplays-spooky-fam-jam/\nSour
+ ce: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Word-f
+ or-WordPLAYS-2026-Season.png
+LAST-MODIFIED:20261031T192123Z
+LOCATION:Z Space Theater\, 450 Florida St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/word-wordplays-spooky-fam-jam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Moors
+DTSTART;TZID=America/Los_Angeles:20261031T140000
+DTEND;TZID=America/Los_Angeles:20261031T154500
+DTSTAMP:20261031T192123Z
+UID:funcheap-1642129@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Submitted by the Event OrganizerSaint Marys College of Califor
+ niaThe Moors by Jen Silverman\, Directed by Dr. Javier Luis Hurtado\nJen S
+ ilverman’s The Moors is a dark\, surreal comedy that brilliantly subvert
+ s classic 19th-century Gothic literature—particularly the works of the B
+ rontë sisters. It explores themes of loneliness\, power\, and visibility 
+ through a bizarre\, sometimes violent\, but darkly hilarious lens. Perform
+ ances will be Oct. 28-Nov. 1.\n\n$20.00\n\nTickets: https://www.stmarys-ca
+ .edu/moors\nDetails: https://sf.funcheap.com/moors-4/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/FINAL-
+ THE-MOORS-8.5x11-off-campus-13.png
+LAST-MODIFIED:20261031T192123Z
+LOCATION:LeFevre Theatre\, 1928 St Marys Rd Moraga
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/moors-4/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$25 Halloween Tix: SF’s Britney Spears Musical “Once Upon a On
