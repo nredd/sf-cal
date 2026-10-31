@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: red
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261006T193603Z
-UID:city-hall-lights-ics-8be345b50b635e0e@sf-cal
-SEQUENCE:0
-DESCRIPTION:Red Ribbon Week\n\nDetails: https://www.sf.gov/location--san-f
- rancisco-city-hall\nSource: SF City Hall lighting (via Robelius/sf-city-ha
- ll-lighting-calendar)
-LAST-MODIFIED:20261006T193603Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: green/red/black/orange
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025

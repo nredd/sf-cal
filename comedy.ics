@@ -932,19 +932,17 @@ BEGIN:VEVENT
 SUMMARY:JT Parr
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20261031T055320Z
+DTSTAMP:20261031T124306Z
 UID:dothebay-17583433@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Comedy
 DESCRIPTION:JT Parr\nFriday\, October 30 | ​Cobb's Comedy Club\n\n18+\n\
  nDetails: https://dothebay.com/events/2026/10/30/jt-parr-tickets-mmq1kre\n
- Source: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/jt-par
- r-san-francisco-california-10-30-2026/event/1C0064E70281A126?utm_source=ca
- ldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ Source: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33207011/b9e7db28-be37-41cc-bf8c-54ef0d073097.png
-LAST-MODIFIED:20261031T055320Z
+LAST-MODIFIED:20261031T124306Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -1167,19 +1165,17 @@ BEGIN:VEVENT
 SUMMARY:JT Parr
 DTSTART;TZID=America/Los_Angeles:20261030T211500
 DTEND;TZID=America/Los_Angeles:20261030T231500
-DTSTAMP:20261031T055320Z
+DTSTAMP:20261031T124306Z
 UID:dothebay-17583432@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Comedy
 DESCRIPTION:JT Parr\nFriday\, October 30 | ​Cobb's Comedy Club\n\n18+\n\
  nDetails: https://dothebay.com/events/2026/10/30/jt-parr-tickets\nSource: 
- DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/jt-parr-san-fr
- ancisco-california-10-30-2026/event/1C0064E70281A126?utm_source=caldiscove
- ry&utm_medium=ics&utm_campaign=san-francisco-ca
+ DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33207006/bbafa73f-d98c-4e2a-a574-65a02972feb7.png
-LAST-MODIFIED:20261031T055320Z
+LAST-MODIFIED:20261031T124306Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -8100,6 +8096,85 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/29/comedy-allstars-featuring-taylo
  r-williamson-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greg Proops: Live Album Recording
+DTSTART;TZID=America/Los_Angeles:20261230T183000
+DTEND;TZID=America/Los_Angeles:20261230T203000
+DTSTAMP:20261031T124306Z
+UID:dothebay-17834321@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Greg Proops: New Year's Eve Show\nWednesday\, December 30 | 
+ ​Punch Line San Francisco\n\n18+\n\nTickets: https://ticketmaster.evyy.n
+ et/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.
+ com%2Fgreg-proops-live-album-recording-san-francisco-california-12-30-2026
+ %2Fevent%2F1C006525DFC04A58\nDetails: https://dothebay.com/events/2026/12/
+ 30/greg-proops-live-album-recording-tickets\nSource: DoTheBay\n\nAlso list
+ ed on:\n- https://www.ticketmaster.com/greg-proops-live-album-recording-sa
+ n-francisco-california-12-30-2026/event/1C006525DFC04A58?utm_source=caldis
+ covery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34383610/1c08b330-0b87-4f52-aa5c-ac124f55d126.png
+LAST-MODIFIED:20261031T124306Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/30/greg-proops-live-album-recordin
+ g-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Allstars featuring Taylor Williamson
+DTSTART;TZID=America/Los_Angeles:20261230T193000
+DTEND;TZID=America/Los_Angeles:20261230T213000
+DTSTAMP:20261031T124306Z
+UID:dothebay-17985538@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Comedy Allstars featuring Taylor Williamson\nWednesday\, Decem
+ ber 30 | ​Cobb's Comedy Club\n\n18+\n\nTickets: https://ticketmaster.evy
+ y.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmast
+ er.com%2Fcomedy-allstars-featuring-taylor-williamson-san-francisco-califor
+ nia-12-30-2026%2Fevent%2F1C0065540D318E6D\nDetails: https://dothebay.com/e
+ vents/2026/12/30/comedy-allstars-featuring-taylor-williamson-tickets\nSour
+ ce: DoTheBay
+GEO:37.802989;-122.4143902
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35095277/285f1640-d4ba-4f86-87a2-814599c94c8f.png
+LAST-MODIFIED:20261031T124306Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/30/comedy-allstars-featuring-taylo
+ r-williamson-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greg Proops: Live Album Recording
+DTSTART;TZID=America/Los_Angeles:20261230T204500
+DTEND;TZID=America/Los_Angeles:20261230T224500
+DTSTAMP:20261031T124306Z
+UID:dothebay-17834322@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Greg Proops: New Year's Eve Show\nWednesday\, December 30 | 
+ ​Punch Line San Francisco\n\n18+\n\nTickets: https://ticketmaster.evyy.n
+ et/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.
+ com%2Fgreg-proops-live-album-recording-san-francisco-california-12-30-2026
+ %2Fevent%2F1C006525DFC54A62\nDetails: https://dothebay.com/events/2026/12/
+ 30/greg-proops-live-album-recording-tickets-mmjyyqe\nSource: DoTheBay\n\nA
+ lso listed on:\n- https://www.ticketmaster.com/greg-proops-live-album-reco
+ rding-san-francisco-california-12-30-2026/event/1C006525DFC04A58?utm_sourc
+ e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34383615/4faa333e-8d42-43d0-971c-c87bf54adbbd.png
+LAST-MODIFIED:20261031T124306Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/30/greg-proops-live-album-recordin
+ g-tickets-mmjyyqe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coit Comedy: Stand Up Comedy & Free Golden Boy Pizza | SF

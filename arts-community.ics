@@ -3218,29 +3218,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/idea-in-formation-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scaregrove at Stern Grove Park
-DTSTART;TZID=America/Los_Angeles:20261030T150000
-DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20261031T055320Z
-UID:caldiscovery-festival-fa9379c7188b81a4@sf-cal
-SEQUENCE:0
-CATEGORIES:family,festival,free,holiday,outdoors
-DESCRIPTION:Join San Francisco Recreation and Parks for Scaregrove\, a fre
- e Halloween celebration at Sigmund Stern Grove. Enjoy a haunted house\, ca
- rnival rides\, a haunted maze\, arts and crafts\, live entertainment\, and
-  more for a fun-filled day for the whole family.\nLearn more and register>
- >\n\nPublished by SF Children & Nature\nContains information from CalDisco
- very (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://sfchildrennature.or
- g/event/scaregrove/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=sa
- n-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261031T055320Z
-LOCATION:Stern Grove Park\, 19th Avenue & Sloat Blvd\, San Francisco\, CA\
- , 94132\, United States
-TRANSP:TRANSPARENT
-URL:https://sfchildrennature.org/event/scaregrove/?utm_source=caldiscovery
- &utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nightmare on Front Street
 DTSTART;TZID=America/Los_Angeles:20261030T160000
 DTEND;TZID=America/Los_Angeles:20261030T180000
@@ -9377,6 +9354,31 @@ URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
  he-arts-ybca-162/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chess Lecture at the Bernal Library
+DTSTART;TZID=America/Los_Angeles:20261118T180000
+DTEND;TZID=America/Los_Angeles:20261118T200000
+DTSTAMP:20261031T124306Z
+UID:dothebay-18015180@sf-cal
+SEQUENCE:0
+CATEGORIES:Lecture/Education
+DESCRIPTION:Join the Bernal Chess Club for our monthly lecture at the Bern
+ al Heights Library. At 6pm we’ll learn about a beautiful game from chess
+  history\, followed by time for casual combat for those who want to play. 
+ All levels and ages are welcome. Bring a chess set if you have one.\n\nBer
+ nal Heights Branch Library\, 500 Cortland Ave. (Downstairs)\nMore info at 
+ www.bernalchess.com\n\nFree\n\nDetails: https://dothebay.com/events/2026/1
+ 1/18/chess-lecture-at-the-bernal-library-tickets\nSource: DoTheBay
+GEO:37.7388503;-122.4161319
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35218981/415eaf00-6d06-499c-abfa-cfe49d320841.jpg
+LAST-MODIFIED:20261031T124306Z
+LOCATION:Bernal Heights Branch Library\, 500 Cortland Ave\, San Francisco\
+ , CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/18/chess-lecture-at-the-bernal-lib
+ rary-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Progressive Art Studio Models: A Lecture By Cléa Massiani
 DTSTART;TZID=America/Los_Angeles:20261118T183000
 DTEND;TZID=America/Los_Angeles:20261118T203000
@@ -9483,10 +9485,10 @@ BEGIN:VEVENT
 SUMMARY:After Dark: Glow Opening
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261031T124306Z
 UID:dothebay-17797860@sf-cal
-SEQUENCE:0
-CATEGORIES:Variety
+SEQUENCE:1
+CATEGORIES:Arts & Family
 DESCRIPTION:After Dark: Glow Opening\nThursday\, November 19 | Exploratori
  um\, Pier 15\n\nJoin us to celebrate the opening of Glow! Our seasonal exh
  ibition brings light to Pier 15 every year with artworks great and small. 
@@ -9494,16 +9496,16 @@ DESCRIPTION:After Dark: Glow Opening\nThursday\, November 19 | Exploratori
  ivities—meet unusual glowing creatures\, play with dazzling exhibits\, a
  nd bask in the radiance of brand-new artworks. From spinning sculptures to
   LED dungeon crawlers\, come find your light this winter.\n\nAfter Dark Th
- ursday Nights • 6–10 p.m.\nAges 18+\nThe Exploratorium\, San Francisco
- \n\nEvery Thursday Night. Unplug and play with 650+ interactive exhibits e
- xploring science\, art\, and perception.\n\n18+\n\nTickets: https://www.ex
- ploratorium.edu/visit/calendar/after-dark-glow-opening\nDetails: https://d
- othebay.com/events/2026/11/19/after-dark-glow-opening-tickets\nSource: DoT
- heBay
+ ursday Nights\nThis event is part of our After Dark Thursday Nights series
+ . Unplug and play with 700+ interactive exhibits exploring science\, art\,
+  and perception.\n\n6–10 p.m.\nAdults Only (Ages 18+)\nThe Exploratorium
+ \, Pier 15\, San Francisco\n\n18+\n\nTickets: https://www.exploratorium.ed
+ u/visit/calendar/after-dark-glow-opening\nDetails: https://dothebay.com/ev
+ ents/2026/11/19/after-dark-glow-opening-tickets\nSource: DoTheBay
 GEO:37.8016649;-122.397348
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34728651/6ed4d2a2-91a6-4877-9ab7-3039b83a76f4.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261031T124306Z
 LOCATION:Exploratorium\, Pier 15 \, San Francisco\, CA\, 94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/19/after-dark-glow-opening-tickets
@@ -9830,6 +9832,33 @@ LOCATION:RedBrick Ceramic Studio\, 2111 Mission St\, San Francisco\, CA\,
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/22/redbrick-ceramic-studio-artist-
  talk-pop-up-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Author Talk: Annalee Newitz in conversation with Soleil Ho
+DTSTART;TZID=America/Los_Angeles:20261122T140000
+DTEND;TZID=America/Los_Angeles:20261122T160000
+DTSTAMP:20261031T124306Z
+UID:dothebay-18018081@sf-cal
+SEQUENCE:0
+CATEGORIES:Literature
+DESCRIPTION:Explore the future of food\, technology\, labor and community 
+ with award-winning author Annalee Newitz in conversation with writer and f
+ ood critic Soleil Ho. Newitz discusses Automatic Noodle\, a speculative no
+ vel about a group of friends who build an automated restaurant while navig
+ ating questions of technology\, work and what makes a community thrive. Le
+ arn more: on.sfpl.org/Annalee-Newitz\n\nFree\n\nPresented by San Francisco
+  Public Library\n\nFree\nSan Francisco Public Library\n\nTickets: https://
+ on.sfpl.org/Annalee-Newitz\nDetails: https://dothebay.com/events/2026/11/2
+ 2/author-talk-annalee-newitz-in-conversation-with-soleil-ho-tickets\nSourc
+ e: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35230651/283d68df-1e57-4848-92fd-76caf7b2fe85.jpg
+LAST-MODIFIED:20261031T124306Z
+LOCATION:Koret Auditorium (SF Public Library)\, 100 Larkin St\, San Franci
+ sco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/22/author-talk-annalee-newitz-in-c
+ onversation-with-soleil-ho-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fast Ties for F*cking! presented by Danarama

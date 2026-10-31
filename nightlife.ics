@@ -40,49 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
- h)
-DTSTART;TZID=America/Los_Angeles:20261023T170000
-DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639202@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:$1 Drink Fridays: “Battle of the Decades” DJ Party (North 
- Beach)\nBattle Of the Decades\nFridays are now a little bit more awesome. 
- Did someone say $1 drinks?\nMonroe in North Beach hosts “Battle of the D
- ecades” DJ party and happy hour every Friday with a DJ spinning progress
- ive tunes. Every hour is a different decade – with drink prices to match
-  – $1 drinks during ’60s hour\, $2 drinks during ’70s hour\, and so 
- on.\nThere’s a live DJ\, two rooms and an outdoor patio.\n\nBattle Of Th
- e Decades\nEvery Friday | 5 pm ’til late\nMonroe\, 473 Broadway St. (@ K
- earny)\, SF\n>> FREE with RSVP on Eventbrite\nThe earlier you get there\, 
- the cheaper the drinks. Drinks typically included in happy hour pricing ar
- e Well cocktails with Rum\, Vodka\, Tequila\, Whiskey\, Gin\, and Beers li
- ke PBR\, Rolling Rock\, Miller High Life and Bud Light.\n\n5-6 pm: $1 drin
- ks – ’60s music\n6-7 pm: $2 drinks – ’70s music\n7-8 pm: $3 drinks
-  – ’80s music\n8-9 pm: $4 drinks – ’90s music\n9-10 pm: $5 drinks 
- – ’00s music\n10-11 pm: $6 premium cocktails – ’10s music\n11 pm t
- o 2am – Current Hits\n\nUpdated 10/5/21 – Event info last checked via 
- Eventbrite.\n\nMonroe\n\nUpcoming $1 Drink Fridays: “Battle of the Decad
- es” DJ Party (North Beach) Events\nFri 10/9 $1 Drink Fridays: “Battle 
- of the Decades” DJ Party (North Beach)Fri 10/16 $1 Drink Fridays: “Bat
- tle of the Decades” DJ Party (North Beach)Fri 10/23 $1 Drink Fridays: 
- “Battle of the Decades” DJ Party (North Beach)Fri 10/30 $1 Drink Frida
- ys: “Battle of the Decades” DJ Party (North Beach)Fri 11/6 $1...\n\nFr
- ee\n\nTickets: https://www.eventbrite.com/e/battle-of-the-decades-60s-70s-
- 80s-90s-dance-party-tickets-33916376796\nDetails: https://sf.funcheap.com/
- 1-drink-fridays-battle-of-the-decades-dj-party-north-beach-260/\nSource: F
- uncheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2013/01/battle
- -e1633451739789.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
- -north-beach-260/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community Coffee Social (Elizabeth Taylor 50-Plus Network)
 DTSTART;TZID=America/Los_Angeles:20261024T100000
 DTEND;TZID=America/Los_Angeles:20261024T120000
@@ -6795,6 +6752,39 @@ LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/29/grupo-de-asistencia-legal-del-p
  rograma-latino-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Play X Land
+DTSTART;TZID=America/Los_Angeles:20261230T210000
+DTEND;TZID=America/Los_Angeles:20261230T230000
+DTSTAMP:20261031T124306Z
+UID:dothebay-17904887@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Hello Pervy Players!\n\nPlayXLand is a BDSM/Kink/Fetish night 
+ hosted by Cat Club in partnership with the Leather Alliance in San Francis
+ co.\n\n——\n\nGo-Go's live and onstage! Don't forget to bring your tip 
+ money\n\nOne of a kind dungeon featuring guest hosts and performances\, as
+  well as furniture and suspension hooks\, and toys that you are more than 
+ welcome to play with!\n\n——\n\n9pm-2am\n\n$10 in Fetishwear / $20 in S
+ treet Clothes\n\n——\n\nTHE CAT CLUB\n\n1190 Folsom\, SF 21+\n\n(wednes
+ days)\n\n(more info)\n\nNO PHOTOS - No photos are allowed to be taken insi
+ de the club during this event. No photos may be taken of patrons at any ti
+ me without consent.\n\nNO TOUCHING WITHOUT CONSENT - This is a general rul
+ e for all events at Cat Club and this event is no exception. DO NOT TOUCH 
+ ANY INDIVIDUAL WITHOUT OBTAINING CONSENT. Consent means an ENTHUSIASTIC YE
+ S.Whatever it is\, the way you tell your story online can make all the dif
+ ference.\n\n$10\n\nTickets: https://www.sfcatclub.com/calendar/sgzbsw3ltzj
+ ngjx-8yj6x-hzsr2-8tx5a-bh2wx-jppm3-d23d2-rg96m-n5tyf-zelb6-hjkwx-2hefm\nDe
+ tails: https://dothebay.com/events/2026/12/30/play-x-land-tickets\nSource:
+  DoTheBay
+GEO:37.77541739999999;-122.409985
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34718003/7b8b08ad-4ade-4295-9738-6381473e80a1.jpg
+LAST-MODIFIED:20261031T124306Z
+LOCATION:Cat Club\, 1190 Folsom Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/30/play-x-land-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Prince vs. Michael Jackson DJ Party (NoPa)
