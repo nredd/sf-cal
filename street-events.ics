@@ -41,42 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Cornhole Tournament
-DTSTART;TZID=America/Los_Angeles:20261023T080000
-DTEND;TZID=America/Los_Angeles:20261023T190000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1592995-2026-10-23T08:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Stockton St from Union St to Filbert St\n\nPermit stat
- us: Permitted\nTimes are SFMTA street-closure permit times and include set
- up and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: http
- s://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.800908;-122.409279
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Stockton St between Union St and Filbert St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jones St - NBK Halloween Extravaganza
-DTSTART;TZID=America/Los_Angeles:20261023T100000
-DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-1516585-2026-10-23T10:00:00-07:00@sf-cal
-SEQUENCE:1
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Jones St from Lombard St to Chestnut St\n\nPermit stat
- us: Permitted\nTimes are SFMTA street-closure permit times and include set
- up and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: http
- s://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.802879;-122.416418
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Jones St between Lombard St and Chestnut St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Beach Farmers Market 2026
 DTSTART;TZID=America/Los_Angeles:20261024T060000
 DTEND;TZID=America/Los_Angeles:20261024T150000

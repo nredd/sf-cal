@@ -40,72 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Golden State Warriors vs. Memphis Grizzlies
-DTSTART;TZID=America/Los_Angeles:20261023T190000
-DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261024T111224Z
-UID:dothebay-17728013@sf-cal
-SEQUENCE:3
-CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. Memphis Grizzlies\n\nDetails: https:
- //dothebay.com/events/2026/10/23/golden-state-warriors-vs-memphis-grizzlie
- s-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/
- train-dragon-musical-jr-bay-area-premiere/\n- https://sf.funcheap.com/artp
- rd-presents-focus/
-GEO:37.7688295;-122.3894164
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33883576/de7bd2dd-c199-440c-acac-09977637c2b6.png
-LAST-MODIFIED:20261024T111224Z
-LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/23/golden-state-warriors-vs-memphi
- s-grizzlies-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
- pe (October 2026)
-DTSTART;TZID=America/Los_Angeles:20261023T190000
-DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638511@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Tel
- escope (Fall 2026)\nSan Francisco State University Observatory\nSan Franci
- sco State University Observatory hosts a free public open night with famil
- y-friendly astronomy talks\, updates on astronomy research\, and rooftop t
- elescope observing. Programming is offered in English and Spanish\, weathe
- r permitting.\nLocated at SFSU Thornton Hall top floor\nUpcoming Weekly Sc
- hedule Through Dec. 4\, 2026\nWednesday\, Thursday + Friday evenings when 
- skies are clear.\n– September: 7:30-9:30 PM.\n– October: 7:00-9:30 PM.
- \n– November/December*: 6:30-9:00 PM (thru 12/4)\n\nNovember/December 20
- 26 Closures\n\nThe observatory will be CLOSED for Veterans day\, Wednesday
- \, Nov 11.\nThe observatory will be CLOSED during Fall Recess\, November 2
- 3-27\, 2026.\nThe Observatory will be CLOSED the last week of classes (Dec
-  7-11).\n\nThe LAST open public night (weather permitting) will be Friday\
- , Dec 4\, 2026\n*** The Observatory is open ONLY when skies are clear! Ple
- ase see SF State Instagram to check if we are closed due to poor weather c
- onditions! ***\nThe SF State Observatory is a student-run facility open to
-  all students\, staff\, and members of the public two or three nights per 
- week in fall and spring semesters. With the aid of observatory docents\, v
- isitors use telescopes to look at craters on the Moon\, planets\, beautifu
- l binary stars\, star clusters\, nebulae\, and more. SF State students: ne
- ed a study break? Drop by\, and bring a friend!\nThornton Hall\, 10th Floo
- r\nSan...\n\nFree\n\nTickets: https://www.instagram.com/p/DdnGZdLNdTy/?utm
- _source=ig_web_copy_link&amp\;stkn=NTc4MTIwNjQ2YQ==\nDetails: https://sf.f
- uncheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telesco
- pe-october-2026-10/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/795430
- 663_18031112828897469_115452629079591010_n-1.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:San Francisco State University Observatory\, Thornton Hall\, 10th
-  Floor San Francisco State University 1600 Holloway Avenue San Francisco\,
-  CA 94132
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
- s-w-huge-telescope-october-2026-10/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:5th Annual Kelly Brush Ride: Bay Area
 DTSTART;TZID=America/Los_Angeles:20261024T070000
 DTEND;TZID=America/Los_Angeles:20261024T160000
@@ -1193,58 +1127,6 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/city-creatures-pest-art-popup-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chess and Mahjong
-DTSTART;TZID=America/Los_Angeles:20261030T140000
-DTEND;TZID=America/Los_Angeles:20261030T170000
-DTSTAMP:20261006T172218Z
-UID:sfrecpark-civic-center-26ae33b326452a0a@sf-cal
-SEQUENCE:0
-DESCRIPTION:Free chess and mahjong lessons and play https://sfrecpark.org/
- calendar.aspx?EID=10602\n\nDetails: /common/modules/iCalendar/iCalendar.as
- px?feed=calendar&catID=40\nSource: SF Rec & Park
-LAST-MODIFIED:20261006T172218Z
-LOCATION:United Nations Plaza - 50 United Nations Plaza San Francisco CA 9
- 4102
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteer at Scaregrove
-DTSTART;TZID=America/Los_Angeles:20261030T150000
-DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20261011T055613Z
-UID:sfrecpark-main-2d2523bf1c7ba110@sf-cal
-SEQUENCE:1
-DESCRIPTION:Volunteer Opportunity https://sfrecpark.org/calendar.aspx?EID=
- 10820\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&c
- atID=14\nSource: SF Rec & Park\n\nAlso listed on:\n- https://sfchildrennat
- ure.org/event/scaregrove/?utm_source=caldiscovery&utm_medium=ics&utm_campa
- ign=san-francisco-ca
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Sigmund Stern Grove - 19th Avenue and Sloat Boulevard San Francis
- co CA 94132
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scaregrove Halloween Event
-DTSTART;TZID=America/Los_Angeles:20261030T150000
-DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20261011T055613Z
-UID:sfrecpark-main-fb78ed1e9d59e5ec@sf-cal
-SEQUENCE:1
-DESCRIPTION:Free Halloween fun for the entire family! https://sfrecpark.or
- g/calendar.aspx?EID=10822\n\nDetails: /common/modules/iCalendar/iCalendar.
- aspx?feed=calendar&catID=14\nSource: SF Rec & Park\n\nAlso listed on:\n- h
- ttps://sfchildrennature.org/event/scaregrove/?utm_source=caldiscovery&utm_
- medium=ics&utm_campaign=san-francisco-ca
-LAST-MODIFIED:20261011T055613Z
-LOCATION:Sigmund Stern Grove - 19th Avenue and Sloat Boulevard San Francis
- co CA 94132
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$5 Night Photo Hike to One of SF’s Best Halloween Neighborhoods 
  (2026)
 DTSTART;TZID=America/Los_Angeles:20261030T183000
@@ -1291,21 +1173,18 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Los Angeles Lakers
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20261025T205626Z
+DTSTAMP:20261031T055320Z
 UID:dothebay-17727996@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. Los Angeles Lakers\n\nTickets: https
- ://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%
- 2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-los-angeles-san-franc
- isco-california-10-30-2026%2Fevent%2F1C00650AB377D7BD\nDetails: https://do
- thebay.com/events/2026/10/30/golden-state-warriors-vs-los-angeles-lakers-t
- ickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sci
- fi-night-shop-horrors-carnivorous-plants-chabot-oakland/
+DESCRIPTION:Golden State Warriors vs. Los Angeles Lakers\n\nDetails: https
+ ://dothebay.com/events/2026/10/30/golden-state-warriors-vs-los-angeles-lak
+ ers-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.co
+ m/scifi-night-shop-horrors-carnivorous-plants-chabot-oakland/
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33883491/cfa772fc-f37a-4983-aca8-01d38ef802d9.png
-LAST-MODIFIED:20261025T205626Z
+LAST-MODIFIED:20261031T055320Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/10/30/golden-state-warriors-vs-los-an
@@ -1393,6 +1272,47 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Rincon Park\, Folsom St. and Embarcadero Dr.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/halloween-sf-world-naked-bike-ride-oct-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16 Ways to Volunteer in SF on Halloween 2026 (w/ Free Coffee or Fo
+ od for Volunteers)
+DTSTART;TZID=America/Los_Angeles:20261031T100000
+DTEND;TZID=America/Los_Angeles:20261031T170000
+DTSTAMP:20261031T055320Z
+UID:funcheap-1645233@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Lots of people volunteer around Thanksgiving and Christmas. Bu
+ t what about Halloween?\n\nSan Francisco has 16 neighborhood cleanup oppor
+ tunities on Saturday\, October 31\, 2026\, giving you an easy way to do a 
+ little good and meet your neighbors before heading out for the night.\n\nT
+ hrough Civic Joy Corps’ volunteer calendar\, you can find neighborhood b
+ eautification events across the city. These volunteer opportunities are su
+ per easy: grab supplies\, team up with a friend or get paired with fellow 
+ volunteers\, and tackle a few blocks together. Many cleanups involve about
+  50 minutes of picking up litter\, although the full event times vary.\n\n
+ Afterwards\, most locations offer a free coffee or meal as a thank-you. Bu
+ t the best perk might be sticking around to chat with fellow volunteers. I
+ t’s a chance to meet people who care about the neighborhood and start ma
+ king connections in real life.\nOUR PICK: CASTRO CLEANUP AT HI TOPS\nOur f
+ avorite is the Castro Cleanup at Hi Tops San Francisco\, 2247 Market St. M
+ eet there to grab supplies and form your crew\, then help clean the neighb
+ orhood from 10–11 a.m.\nAfterwards\, hang out with fellow volunteers and
+  enjoy a $15 food voucher. And take it from us\, the food at Hi Tops is go
+ od! A cleaner Castro\, some free food and a few new neighborhood friends? 
+ That’s a pretty solid start to Halloween.\nCastro signup: https://www.mo
+ bilize.us/civicjoyfund/event/786831/\nHALLOWEEN VOLUNTEER CLEANUPS\nSaturd
+ ay\, October 31\, 2026\n\nGLEN PARK – 10–11:30 a.m. – Meet at: Critt
+ e...\n\nFree\n\nTickets: https://civicjoyfund.org/volunteer\nDetails: http
+ s://sf.funcheap.com/16-ways-volunteer-sf-halloween-2026-free-coffee-food-v
+ olunteers/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
+ shot-2026-10-30-4.04.18-PM.png
+LAST-MODIFIED:20261031T055320Z
+LOCATION:All Over San Francisco\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/16-ways-volunteer-sf-halloween-2026-free-coffe
+ e-food-volunteers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boo at the Zoo
