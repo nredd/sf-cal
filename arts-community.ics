@@ -2950,37 +2950,6 @@ URL:https://sf.funcheap.com/free-de-young-museum-day-for-bay-area-resident
  s-every-saturday-342/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BrickRealm LEGO® Fan Convention
-DTSTART;TZID=America/Los_Angeles:20261031T100000
-DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-festival-e551a3cd2bd8325f@sf-cal
-SEQUENCE:0
-CATEGORIES:family,festival
-DESCRIPTION:Welcome to BrickRealm\, Californias newest and only full four 
- day Lego convention of 2026! Experience incredible LEGO® displays from ma
- ster builders and professional creators alike\, days jam packed with activ
- ities and games\, and events for parents as well! Informational and engagi
- ng workshops and speakers\, star vendors\, building competitions\, prizes\
- , massive LEGO® displays and so much more are waiting for you and your fa
- mily. All ages are welcomed and encouraged to join us as there’s somethi
- ng for everyone here at BrickRealm. (One day of the convention falls on Ha
- lloween\, costumes and cosplay are encouraged and trick or treating/candy 
- stations will be available to give children and adults alike for a great h
- oliday experience!)\n\nPublished by San Francisco Bay Area Moms\nContains 
- information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: ht
- tps://sanfranciscomoms.com/event/brickrealm-lego-fan-convention/2026-10-31
- /?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
- urce: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
-LOCATION:Hyatt Regency Santa Clara Grand Ballroom\, 5101 Great America Pkw
- y\, Santa Clara\, 95054
-TRANSP:TRANSPARENT
-URL:https://sanfranciscomoms.com/event/brickrealm-lego-fan-convention/2026
- -10-31/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
- ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dave & Booster’s Boo Bash
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T130000
@@ -3078,29 +3047,6 @@ LAST-MODIFIED:20261031T192123Z
 LOCATION:Cloud City Supply\, 325 E Campbell Ave Campbell\, CA 95008
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/halloween-cloud-city-supply/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:8th Annual Zombie Bike Parade Festival
-DTSTART;TZID=America/Los_Angeles:20261031T110000
-DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261006T160356Z
-UID:caldiscovery-festival-1db4e0cbe790e808@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:Contact Name: Aaron WedraContact Phone: 5305747306Contact Emai
- l: smartzgraphics@yahoo.comCost: FreeLink: https://www.zombiebikeparade.co
- mFREE all-ages Halloween festival in Davis\, featuring a costumed zombie b
- ike parade (11 AM–12:30 PM)\, BMX stunt show (11:15 AM–12:15 PM)\, and
-  zombie skydivers at 2:30 PM. Treat Trail runs 3–5 PM. The festival supp
- orts NorCal Trykers adaptive tricycles for children with disabilities. Det
- ails: www.zombiebikeparade.com…\n\nPublished by KGO\nContains informatio
- n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.
- zombiebikeparade.com?utm_source=caldiscovery&utm_medium=ics&utm_campaign=s
- an-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261006T160356Z
-TRANSP:TRANSPARENT
-URL:https://www.zombiebikeparade.com?utm_source=caldiscovery&utm_medium=ic
- s&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Fruit Celebration
@@ -3237,9 +3183,9 @@ BEGIN:VEVENT
 SUMMARY:12th Annual Chinatown Halloween Festival + Block Party
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261020T084210Z
+DTSTAMP:20261101T160546Z
 UID:funcheap-1636058@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Kids Families
 DESCRIPTION:Community Youth Center of SFThe 12th annual Chinatown Hallowee
  n Festival returns to Waverly Place in San Francisco on October 31\, 2026.
@@ -3256,12 +3202,10 @@ DESCRIPTION:Community Youth Center of SFThe 12th annual Chinatown Hallowee
  nFree\n\nTickets: https://www.instagram.com/p/DdC0LoMvzFo/?utm_source=ig_w
  eb_copy_link&amp\;stkn=MzRlODBiNWFlZA==\nDetails: https://sf.funcheap.com/
  12th-annual-chinatown-halloween-festival-block-party-sf/\nSource: Funcheap
-  SF\n\nAlso listed on:\n- https://www.cycsf.org/event/12th-annual-chinatow
- n-halloween-festival/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=
- san-francisco-ca
+  SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/801581
  061_18183957169416419_5451037415497514876_n.jpg
-LAST-MODIFIED:20261020T084210Z
+LAST-MODIFIED:20261101T160546Z
 LOCATION:Waverly Place\, Waverly Pl\, San Francisco\, CA 94108
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/12th-annual-chinatown-halloween-festival-block
@@ -3271,9 +3215,9 @@ BEGIN:VEVENT
 SUMMARY:12th Annual Chinatown Halloween Festival
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261020T084210Z
+DTSTAMP:20261101T160546Z
 UID:funcheap-1637123@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Kids Families
 DESCRIPTION:CYCJoin us for CYC 12th Annual Chinatown Halloween Festival on
   Saturday\, October 31 from 11am–3pm on Waverly Place (between Sacrament
@@ -3287,12 +3231,10 @@ DESCRIPTION:CYCJoin us for CYC 12th Annual Chinatown Halloween Festival on
  ting pumpkins.\n\nFree\n\nTickets: https://www.eventbrite.com/e/cyc-chinat
  own-halloween-festival-tickets-2001094095307?aff=oddtdtcreator\nDetails: h
  ttps://sf.funcheap.com/12th-annual-chinatown-halloween-festival-sf/\nSourc
- e: Funcheap SF\n\nAlso listed on:\n- https://www.cycsf.org/event/12th-annu
- al-chinatown-halloween-festival/?utm_source=caldiscovery&utm_medium=ics&ut
- m_campaign=san-francisco-ca
+ e: Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Hallow
  een-Festival-Eventbrite-Banner-1880-x-940-px-1.png
-LAST-MODIFIED:20261020T084210Z
+LAST-MODIFIED:20261101T160546Z
 LOCATION:Waverly Place\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/12th-annual-chinatown-halloween-festival-sf/
@@ -3302,9 +3244,9 @@ SUMMARY:SF’s 12th Annual Balboa Street Fright Fest: Trick-Or-Treat Hallo
  ween Crawl (2026)
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T160000
-DTSTAMP:20261020T084210Z
+DTSTAMP:20261101T160546Z
 UID:funcheap-1638230@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Kids Families
 DESCRIPTION:Balboa Village Merchants AsscThe 12th Annual BalBOOa Fright Fe
  st is a neighborhood Halloween event along Balboa Street between 33rd and 
@@ -3330,12 +3272,10 @@ DESCRIPTION:Balboa Village Merchants AsscThe 12th Annual BalBOOa Fright Fe
  kets: https://www.instagram.com/p/Ddmld49y0tK/?utm_source=ig_web_copy_link
  &amp\;stkn=NTc4MTIwNjQ2YQ==\nDetails: https://sf.funcheap.com/sfs-12th-ann
  ual-balboa-street-fright-fest-trickortreat-halloween-crawl-2026/\nSource: 
- Funcheap SF\n\nAlso listed on:\n- https://www.cycsf.org/event/12th-annual-
- chinatown-halloween-festival/?utm_source=caldiscovery&utm_medium=ics&utm_c
- ampaign=san-francisco-ca
+ Funcheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/818535
  103_18437765185131093_6986527189829686839_n-scaled.jpg
-LAST-MODIFIED:20261020T084210Z
+LAST-MODIFIED:20261101T160546Z
 LOCATION:Balboa Street between 33rd Avenue and 41st Avenue\, San Francisco
  \, CA
 TRANSP:TRANSPARENT
@@ -3604,32 +3544,6 @@ LAST-MODIFIED:20261031T192123Z
 LOCATION:Rick & Roxys\, 2131 Lombard Street
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/time-hollywood-halloween-rick-roxys/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boo on the Block Halloween Festival
-DTSTART;TZID=America/Los_Angeles:20261031T150000
-DTEND;TZID=America/Los_Angeles:20261031T170000
-DTSTAMP:20261017T043703Z
-UID:caldiscovery-festival-d0f4b6a2fd061de2@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,holiday
-DESCRIPTION:Clean Living Magazine presents Boo on the Block’s Family Hal
- loween fest. Join before trick-or-treating at an iconic private estate in 
- Crescent Park\, Palo Alto’s most coveted neighborhood! Bring the kids fo
- r pumpkin gem\, tattoo + bag decorating station\, live art\, music\, prize
-  for the best kids’ + adult costumes\, festive photo moments\, coffee ba
- r\, local vendors\, gifts + Halloween surprises! 👻🍬🕸️ It’s go
- ing to be a fun afternoon bringing local families together. Hope to see yo
- u there! Adults and kids under 2 are FREE!\n\nPublished by San Francisco B
- ay Area Moms\nContains information from CalDiscovery (caldiscovery.com)\, 
- ODbL 1.0\n\nDetails: https://sanfranciscomoms.com/event/boo-on-the-block-h
- alloween-festival/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san
- -francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261017T043703Z
-LOCATION:studio c\, Addison Avenue\, Palo alto\, 94301
-TRANSP:TRANSPARENT
-URL:https://sanfranciscomoms.com/event/boo-on-the-block-halloween-festival
- /?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Halloween Block Party Bayview 2026
@@ -4891,6 +4805,40 @@ URL:https://sf.funcheap.com/sf-arcade-bar-emporium-8-free-game-tokens-for-
  industry-night-every-monday-168/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Potrero del Sol Park: Coros & Mariachi CMC Perform at Día de los 
+ Muertos Festival of Altars
+DTSTART;TZID=America/Los_Angeles:20261102T190000
+DTEND;TZID=America/Los_Angeles:20261102T210000
+DTSTAMP:20261101T160546Z
+UID:caldiscovery-festival-871313f13091879f@sf-cal
+SEQUENCE:0
+CATEGORIES:festival
+DESCRIPTION:Join for traditional music from Mexico at the annual Día de l
+ os Muertos Celebration in Redwood City. Enjoy Live music\, altars\, proces
+ sions\, face painting\, art installations\, and more for the whole family.
+ \nEnjoy a joyful selection of music honoring the Mexican tradition of Día
+  de Muertos at Marigold’s Project Festival of Altars celebration. Featur
+ ing performances by Mariachi CMC ensemble and CMC Coro Solera (Neighborhoo
+ d Choir Program for Older Adults & Adults with Disabilities) and guest art
+ ists. The performance includes traditional music from Mexico and Latin Ame
+ rica directed by Martha Rodríguez-Salazar.\nThe full festival run from 4
+ –10pm on Utah St & San Bruno Ave\, featuring local vendors\, artists\, m
+ usical performances\, food\, sacred circle altars and special exhibitors.\
+ nMonday\, November 2 at 7 pm\nPotrero del Sol Park (2827 Cesar Chavez\, SF
+ )\nFREE\n\nPublished by Mission Local\nContains information from CalDiscov
+ ery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://missionlocal.org/eve
+ nt/potrero-del-sol-park-coros-mariachi-cmc-perform-at-dia-de-los-muertos-f
+ estival-of-altars/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san
+ -francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Potrero del Sol Park\, Potrero Ave and 25th St\, San Francisco\, 
+ CA\, United States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/potrero-del-sol-park-coros-mariachi-cmc
+ -perform-at-dia-de-los-muertos-festival-of-altars/?utm_source=caldiscovery
+ &utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s Conservatory of Flowers Free First Tuesdays (Golden Gate Pa
  rk)
 DTSTART;TZID=America/Los_Angeles:20261103T100000
@@ -5750,6 +5698,45 @@ LOCATION:non/phenomenal presents IDEA in/formation\, 945 Market Street\, 3
  rd floor\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/exhibion-rune-reading-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brava Theater: 2026 San Francisco Dance Film Festival
+DTSTART;TZID=America/Los_Angeles:20261106T140000
+DTEND;TZID=America/Los_Angeles:20261106T150000
+DTSTAMP:20261101T160546Z
+UID:caldiscovery-festival-bdff676e162a9c6b@sf-cal
+SEQUENCE:0
+CATEGORIES:dance,festival,film
+DESCRIPTION:Join us at the 2026 San Francisco Dance Film Festival!\nOfferi
+ ng a kaleidoscopic look at movement in its varied forms\, SFDFF presents 1
+ 8 in-person screenings across the city from October 23 through November 8.
+  For those tuning in from afar\, the Online Festival streams worldwide fro
+ m November 9-30.\nWith intimate documentaries\, dazzling screendance\, thr
+ illing live performance captures\, and much more\, let’s celebrate the e
+ ver-evolving intersection of dance and film at SFDFF!\nLearn more at sfdan
+ cefilmfest.org/festival\nSFDFF 2026 IN-PERSON SCHEDULE AT BRAVA THEATER\nD
+ oc Shorts: Friday\, November 6\, 2:00PM at Brava Theater\nIn Other Words: 
+ Friday\, November 6\, 6:00PM at Brava Theater\nRobert Shields: My Life as 
+ a Robot: Friday\, November 6\, 8:00PM at Brava Theater\nFilmmaking Masterc
+ lass: Saturday\, November 7\, 10:30AM at Brava Theater\nBody Language: Scr
+ eendance Shorts: Saturday\, November 7\, 12:00PM at Brava Theater\nBarefoo
+ t Boy: Saturday\, November 7\, 3:00PM at Brava Theater\nThese Violent Deli
+ ghts: Saturday\, November 7\, 6:00PM at Brava Theater\nSpotlight Shorts: S
+ aturday\, November 7\, 8:30PM at Brava Theater\nThe Sea: Sunday\, November
+  8\, 11:00AM at Brava Theater\nLeap!: Sunday\, November 8\, 1:00PM at Brav
+ a Theater\nMake Work: Sunday\, November 8\, 4:30PM at Brava Theater\nBay A
+ rea Shorts: Sunday\, November 8\, 7:30PM at Brava Theater\n\nPublished by 
+ Mission Local\nContains information from CalDiscovery (caldiscovery.com)\,
+  ODbL 1.0\n\nDetails: https://missionlocal.org/event/brava-theater-2026-sa
+ n-francisco-dance-film-festival/2026-11-06/1/?utm_source=caldiscovery&utm_
+ medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Brava Theater\, 2781 24th Street\, San Francisco\, CA\, 94110\, U
+ nited States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/brava-theater-2026-san-francisco-dance-
+ film-festival/2026-11-06/1/?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Block Fest” Tenderloin Arts Festival & Free Art Making | SF
@@ -8494,6 +8481,27 @@ URL:https://dothebay.com/events/2026/11/14/seth-fleisher-with-anna-norberg
  -the-farther-shore-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:San Francisco Jewish Film Festival Encore – Nov 14
+DTSTART;TZID=America/Los_Angeles:20261114T160000
+DTEND;TZID=America/Los_Angeles:20261114T220000
+DTSTAMP:20261101T160546Z
+UID:caldiscovery-festival-11a72fa4ccd0fa9f@sf-cal
+SEQUENCE:0
+CATEGORIES:festival,film
+DESCRIPTION:Published by Jewish Community Center of San Francisco\nContain
+ s information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: 
+ https://www.jccsf.org/event/san-francisco-jewish-film-festival-46-encore-n
+ ov-14/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-c
+ a\nSource: CalDiscovery
+LAST-MODIFIED:20261101T160546Z
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, Uni
+ ted States
+TRANSP:TRANSPARENT
+URL:https://www.jccsf.org/event/san-francisco-jewish-film-festival-46-enco
+ re-nov-14/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
+ co-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Diwali Celebration: Time of Transformation
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T190000
@@ -8760,6 +8768,27 @@ LOCATION:The Lab\, 2948 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/15/minnette-lehmann-memorial-celeb
  ration-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco Jewish Film Festival Encore – Nov 15
+DTSTART;TZID=America/Los_Angeles:20261115T160000
+DTEND;TZID=America/Los_Angeles:20261115T220000
+DTSTAMP:20261101T160546Z
+UID:caldiscovery-festival-b8821d122e11d92f@sf-cal
+SEQUENCE:0
+CATEGORIES:festival,film
+DESCRIPTION:Published by Jewish Community Center of San Francisco\nContain
+ s information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: 
+ https://www.jccsf.org/event/san-francisco-jewish-film-festival-encore-nov-
+ 15/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n
+ Source: CalDiscovery
+LAST-MODIFIED:20261101T160546Z
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, Uni
+ ted States
+TRANSP:TRANSPARENT
+URL:https://www.jccsf.org/event/san-francisco-jewish-film-festival-encore-
+ nov-15/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
+ ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF Arcade Bar “Emporium” 8 Free Game Tokens for “Industry Ni
@@ -9093,6 +9122,46 @@ URL:https://dothebay.com/events/2026/11/19/out-loud-queer-concert-at-oakst
  op-feat-micahtron-hugo-de-la-lune-and-more-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Larisa Brechun: Somnia
+DTSTART;TZID=America/Los_Angeles:20261120T130000
+DTEND;TZID=America/Los_Angeles:20261120T150000
+DTSTAMP:20261101T160546Z
+UID:dothebay-18019982@sf-cal
+SEQUENCE:0
+CATEGORIES:Arts & Family
+DESCRIPTION:Larisa Brechun: Somnia\nNovember 14–December 5\n\nRyan Graff
+  Contemporary is excited to present Larisa Brechun's debut solo exhibition
+  Somnia.\n\nThe subtle qualities of the soul—softness\, stillness\, frag
+ ility\, solitude—are often belittled for their “weakness\," dismissed 
+ as defects of simpering prey in a predatory age\, where might and volume r
+ ule and humanity fills its hours with chatter and self-exposure. Introspec
+ tion is the enemy of the social machine\, softness a death sentence\, sile
+ nce a grave. And yet\, these delicate instincts are essential to the most 
+ intimate operation of the soul: the dream.\n\nIn Larisa Brechuns’s Somni
+ a\, the artist lays bare the quiet privacy of the dreaming mind and the fu
+ gitive debris of memory\, myth\, and imagination as it freely floats in th
+ e cocoon of sleep\, coalescing into mysterious forms that defy daylight lo
+ gic. Under her gentle hand\, soft animal bodies take shape alongside evapo
+ rating cosmic beings and primordial symbols of wilderness\, all adrift in 
+ the penumbra of the dreaming state\, suspended in etheric margins between 
+ the deep woodland dark and the flirting light of a winking moon.\n\nBrechu
+ n’s darkness has substance\, an amplitude of unseen marrow with texture 
+ and weight\, like a cave or a chrysalis. Lonely figures gently emerge from
+  abyssal thickets\, twisting into the light of the omnipresent moon’s aw
+ areness as quickly as they recede. They are camouflaged by silence and sha
+ dow\, hiding by turns in shyness\, in stillness\, in pain\, in contemplati
+ on\,...\n\nFree\n\nTickets: https://www.ryangraffcontemporary.com/larisabr
+ echun\nDetails: https://dothebay.com/events/2026/11/20/larisa-brechun-somn
+ ia-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35238556/dd2fda58-4107-492e-a864-87ef79255fcb.jpg
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Ryan Graff Contemporary\, 804 Sutter Street\, San Francisco\, CA\
+ , 94109
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/20/larisa-brechun-somnia-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free “Legion of Honor” Museum Day for Bay Area Residents (Ever
  y Saturday)
 DTSTART;TZID=America/Los_Angeles:20261121T093000
@@ -9290,6 +9359,46 @@ LOCATION:KQED LIVE\, The Commons\, KQED Headquarters - 2601 Mariposa Stree
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/the-art-of-bay-area-boxing-tick
  ets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Larisa Brechun: Somnia
+DTSTART;TZID=America/Los_Angeles:20261121T130000
+DTEND;TZID=America/Los_Angeles:20261121T150000
+DTSTAMP:20261101T160546Z
+UID:dothebay-18019992@sf-cal
+SEQUENCE:0
+CATEGORIES:Arts & Family
+DESCRIPTION:Larisa Brechun: Somnia\nNovember 14–December 5\n\nRyan Graff
+  Contemporary is excited to present Larisa Brechun's debut solo exhibition
+  Somnia.\n\nThe subtle qualities of the soul—softness\, stillness\, frag
+ ility\, solitude—are often belittled for their “weakness\," dismissed 
+ as defects of simpering prey in a predatory age\, where might and volume r
+ ule and humanity fills its hours with chatter and self-exposure. Introspec
+ tion is the enemy of the social machine\, softness a death sentence\, sile
+ nce a grave. And yet\, these delicate instincts are essential to the most 
+ intimate operation of the soul: the dream.\n\nIn Larisa Brechuns’s Somni
+ a\, the artist lays bare the quiet privacy of the dreaming mind and the fu
+ gitive debris of memory\, myth\, and imagination as it freely floats in th
+ e cocoon of sleep\, coalescing into mysterious forms that defy daylight lo
+ gic. Under her gentle hand\, soft animal bodies take shape alongside evapo
+ rating cosmic beings and primordial symbols of wilderness\, all adrift in 
+ the penumbra of the dreaming state\, suspended in etheric margins between 
+ the deep woodland dark and the flirting light of a winking moon.\n\nBrechu
+ n’s darkness has substance\, an amplitude of unseen marrow with texture 
+ and weight\, like a cave or a chrysalis. Lonely figures gently emerge from
+  abyssal thickets\, twisting into the light of the omnipresent moon’s aw
+ areness as quickly as they recede. They are camouflaged by silence and sha
+ dow\, hiding by turns in shyness\, in stillness\, in pain\, in contemplati
+ on\,...\n\nFree\n\nTickets: https://www.ryangraffcontemporary.com/larisabr
+ echun\nDetails: https://dothebay.com/events/2026/11/21/larisa-brechun-somn
+ ia-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35238625/6fa0e9c4-64e1-4057-a5d4-9f7c19a2e766.jpg
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Ryan Graff Contemporary\, 804 Sutter Street\, San Francisco\, CA\
+ , 94109
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/21/larisa-brechun-somnia-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Head West at State Street
@@ -9860,6 +9969,48 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/flashback-fridays-presented-by-
  greatest-hits-103-7-at-the-safeway-holiday-ice-rink-in-union-square-ticket
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free “Legion of Honor” Museum Day for Bay Area Residents (Ever
+ y Saturday)
+DTSTART;TZID=America/Los_Angeles:20261128T093000
+DTEND;TZID=America/Los_Angeles:20261128T171500
+DTSTAMP:20261101T160546Z
+UID:funcheap-1645447@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Free “Legion of Honor” Museum Day for Bay Area Residents (
+ Every Saturday)\n© StephanHoerold Getty Images Signature via Canva.com\nE
+ very Saturday the Legion of Honor offers free general admission to the per
+ manent galleries to Bay Area residents. Advanced tickets are required\, an
+ d capacity is limited due to COVID-19 precautions.\nPlease note that admis
+ sion to any special exhibits is not included nor discounted and will requi
+ re the full admission price.\nSaturdays feature engaging art experiences f
+ or the entire family\, including art-making\, gallery guides\, and tours w
+ ith discussion and sketching in the permanent galleries.\n\nFree Saturdays
+  for Bay Area Residents\nLegion of Honor\nLincoln Park \\ 100 34th Avenue\
+ , San Francisco\, CA 94121\n– Most Saturdays\n– Hours are typically 9:
+ 30 am–5:15 pm\nReserve tickets in advance to skip the line\n\nThis offer
+  applies only to general admission for the permanent collection galleries.
+ \nFull-priced admission to special exhibitions still applies.\nFor: Reside
+ nts of Alameda\, Contra Costa\, Marin\, Napa\, San Francisco\, San Mateo\,
+  Santa Clara\, Solano\, and Sonoma Counties with valid photo ID or postmar
+ ked envelope bearing home address\nDates and times: Every Saturday beginni
+ ng October 19\, 9:30 am–5:15 pm\n\nVisitors ages 17 and under always rec
+ eive free admission to the permanent collection galleries.\nPlease note th
+ is free Saturdays offer could be changed or canceled at anytime. Visit leg
+ ionofhonor.famsf.org for updates before attending.\nEssential and Frontlin
+ e Worke...\n\nFree\n\nTickets: https://tickets.famsf.org/events/283/detail
+ /5d94d829c1a3ef7724ff2b27\nDetails: https://sf.funcheap.com/free-legion-of
+ -honor-museum-day-for-bay-area-residents-every-saturday-344/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/10/legion
+ honor.png
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Legion of Honor\, 100 34th Avenue\, San Francisco\, CA 94121
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-legion-of-honor-museum-day-for-bay-area-r
+ esidents-every-saturday-344/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MANGO! Every 4th Saturday 2-8pm!
@@ -10787,6 +10938,48 @@ URL:https://dothebay.com/events/2026/12/4/a-family-affair-after-dark-a-que
  er-90s-00s-throwbacks-only-party-every-1st-friday-5-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free “Legion of Honor” Museum Day for Bay Area Residents (Ever
+ y Saturday)
+DTSTART;TZID=America/Los_Angeles:20261205T093000
+DTEND;TZID=America/Los_Angeles:20261205T171500
+DTSTAMP:20261101T160546Z
+UID:funcheap-1645449@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Free “Legion of Honor” Museum Day for Bay Area Residents (
+ Every Saturday)\n© StephanHoerold Getty Images Signature via Canva.com\nE
+ very Saturday the Legion of Honor offers free general admission to the per
+ manent galleries to Bay Area residents. Advanced tickets are required\, an
+ d capacity is limited due to COVID-19 precautions.\nPlease note that admis
+ sion to any special exhibits is not included nor discounted and will requi
+ re the full admission price.\nSaturdays feature engaging art experiences f
+ or the entire family\, including art-making\, gallery guides\, and tours w
+ ith discussion and sketching in the permanent galleries.\n\nFree Saturdays
+  for Bay Area Residents\nLegion of Honor\nLincoln Park \\ 100 34th Avenue\
+ , San Francisco\, CA 94121\n– Most Saturdays\n– Hours are typically 9:
+ 30 am–5:15 pm\nReserve tickets in advance to skip the line\n\nThis offer
+  applies only to general admission for the permanent collection galleries.
+ \nFull-priced admission to special exhibitions still applies.\nFor: Reside
+ nts of Alameda\, Contra Costa\, Marin\, Napa\, San Francisco\, San Mateo\,
+  Santa Clara\, Solano\, and Sonoma Counties with valid photo ID or postmar
+ ked envelope bearing home address\nDates and times: Every Saturday beginni
+ ng October 19\, 9:30 am–5:15 pm\n\nVisitors ages 17 and under always rec
+ eive free admission to the permanent collection galleries.\nPlease note th
+ is free Saturdays offer could be changed or canceled at anytime. Visit leg
+ ionofhonor.famsf.org for updates before attending.\nEssential and Frontlin
+ e Worke...\n\nFree\n\nTickets: https://tickets.famsf.org/events/283/detail
+ /5d94d829c1a3ef7724ff2b27\nDetails: https://sf.funcheap.com/free-legion-of
+ -honor-museum-day-for-bay-area-residents-every-saturday-345/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/10/legion
+ honor.png
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Legion of Honor\, 100 34th Avenue\, San Francisco\, CA 94121
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-legion-of-honor-museum-day-for-bay-area-r
+ esidents-every-saturday-345/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Healthy Parks Healthy People”: Monthly Nature Walks | Bay Are
  a
 DTSTART;TZID=America/Los_Angeles:20261205T100000
@@ -11586,6 +11779,48 @@ URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  co-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free “Legion of Honor” Museum Day for Bay Area Residents (Ever
+ y Saturday)
+DTSTART;TZID=America/Los_Angeles:20261212T093000
+DTEND;TZID=America/Los_Angeles:20261212T171500
+DTSTAMP:20261101T160546Z
+UID:funcheap-1645451@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Free “Legion of Honor” Museum Day for Bay Area Residents (
+ Every Saturday)\n© StephanHoerold Getty Images Signature via Canva.com\nE
+ very Saturday the Legion of Honor offers free general admission to the per
+ manent galleries to Bay Area residents. Advanced tickets are required\, an
+ d capacity is limited due to COVID-19 precautions.\nPlease note that admis
+ sion to any special exhibits is not included nor discounted and will requi
+ re the full admission price.\nSaturdays feature engaging art experiences f
+ or the entire family\, including art-making\, gallery guides\, and tours w
+ ith discussion and sketching in the permanent galleries.\n\nFree Saturdays
+  for Bay Area Residents\nLegion of Honor\nLincoln Park \\ 100 34th Avenue\
+ , San Francisco\, CA 94121\n– Most Saturdays\n– Hours are typically 9:
+ 30 am–5:15 pm\nReserve tickets in advance to skip the line\n\nThis offer
+  applies only to general admission for the permanent collection galleries.
+ \nFull-priced admission to special exhibitions still applies.\nFor: Reside
+ nts of Alameda\, Contra Costa\, Marin\, Napa\, San Francisco\, San Mateo\,
+  Santa Clara\, Solano\, and Sonoma Counties with valid photo ID or postmar
+ ked envelope bearing home address\nDates and times: Every Saturday beginni
+ ng October 19\, 9:30 am–5:15 pm\n\nVisitors ages 17 and under always rec
+ eive free admission to the permanent collection galleries.\nPlease note th
+ is free Saturdays offer could be changed or canceled at anytime. Visit leg
+ ionofhonor.famsf.org for updates before attending.\nEssential and Frontlin
+ e Worke...\n\nFree\n\nTickets: https://tickets.famsf.org/events/283/detail
+ /5d94d829c1a3ef7724ff2b27\nDetails: https://sf.funcheap.com/free-legion-of
+ -honor-museum-day-for-bay-area-residents-every-saturday-346/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/10/legion
+ honor.png
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Legion of Honor\, 100 34th Avenue\, San Francisco\, CA 94121
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-legion-of-honor-museum-day-for-bay-area-r
+ esidents-every-saturday-346/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:District 3 Chinatown Family Summit
 DTSTART;TZID=America/Los_Angeles:20261212T110000
 DTEND;TZID=America/Los_Angeles:20261212T130000
@@ -12221,6 +12456,48 @@ URL:https://www.hotelcaza.com/explore/event-calendar/winter-walk?utm_sourc
  e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free “Legion of Honor” Museum Day for Bay Area Residents (Ever
+ y Saturday)
+DTSTART;TZID=America/Los_Angeles:20261219T093000
+DTEND;TZID=America/Los_Angeles:20261219T171500
+DTSTAMP:20261101T160546Z
+UID:funcheap-1645453@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Free “Legion of Honor” Museum Day for Bay Area Residents (
+ Every Saturday)\n© StephanHoerold Getty Images Signature via Canva.com\nE
+ very Saturday the Legion of Honor offers free general admission to the per
+ manent galleries to Bay Area residents. Advanced tickets are required\, an
+ d capacity is limited due to COVID-19 precautions.\nPlease note that admis
+ sion to any special exhibits is not included nor discounted and will requi
+ re the full admission price.\nSaturdays feature engaging art experiences f
+ or the entire family\, including art-making\, gallery guides\, and tours w
+ ith discussion and sketching in the permanent galleries.\n\nFree Saturdays
+  for Bay Area Residents\nLegion of Honor\nLincoln Park \\ 100 34th Avenue\
+ , San Francisco\, CA 94121\n– Most Saturdays\n– Hours are typically 9:
+ 30 am–5:15 pm\nReserve tickets in advance to skip the line\n\nThis offer
+  applies only to general admission for the permanent collection galleries.
+ \nFull-priced admission to special exhibitions still applies.\nFor: Reside
+ nts of Alameda\, Contra Costa\, Marin\, Napa\, San Francisco\, San Mateo\,
+  Santa Clara\, Solano\, and Sonoma Counties with valid photo ID or postmar
+ ked envelope bearing home address\nDates and times: Every Saturday beginni
+ ng October 19\, 9:30 am–5:15 pm\n\nVisitors ages 17 and under always rec
+ eive free admission to the permanent collection galleries.\nPlease note th
+ is free Saturdays offer could be changed or canceled at anytime. Visit leg
+ ionofhonor.famsf.org for updates before attending.\nEssential and Frontlin
+ e Worke...\n\nFree\n\nTickets: https://tickets.famsf.org/events/283/detail
+ /5d94d829c1a3ef7724ff2b27\nDetails: https://sf.funcheap.com/free-legion-of
+ -honor-museum-day-for-bay-area-residents-every-saturday-347/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/10/legion
+ honor.png
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Legion of Honor\, 100 34th Avenue\, San Francisco\, CA 94121
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-legion-of-honor-museum-day-for-bay-area-r
+ esidents-every-saturday-347/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Florencia Ramirez\, The Kitchen Activist
 DTSTART;TZID=America/Los_Angeles:20261219T110000
 DTEND;TZID=America/Los_Angeles:20261219T130000
@@ -12401,6 +12678,48 @@ URL:https://dothebay.com/events/2026/12/22/community-investments-committee
  -meeting-december-22-2026-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free “Legion of Honor” Museum Day for Bay Area Residents (Ever
+ y Saturday)
+DTSTART;TZID=America/Los_Angeles:20261226T093000
+DTEND;TZID=America/Los_Angeles:20261226T171500
+DTSTAMP:20261101T160546Z
+UID:funcheap-1645455@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Free “Legion of Honor” Museum Day for Bay Area Residents (
+ Every Saturday)\n© StephanHoerold Getty Images Signature via Canva.com\nE
+ very Saturday the Legion of Honor offers free general admission to the per
+ manent galleries to Bay Area residents. Advanced tickets are required\, an
+ d capacity is limited due to COVID-19 precautions.\nPlease note that admis
+ sion to any special exhibits is not included nor discounted and will requi
+ re the full admission price.\nSaturdays feature engaging art experiences f
+ or the entire family\, including art-making\, gallery guides\, and tours w
+ ith discussion and sketching in the permanent galleries.\n\nFree Saturdays
+  for Bay Area Residents\nLegion of Honor\nLincoln Park \\ 100 34th Avenue\
+ , San Francisco\, CA 94121\n– Most Saturdays\n– Hours are typically 9:
+ 30 am–5:15 pm\nReserve tickets in advance to skip the line\n\nThis offer
+  applies only to general admission for the permanent collection galleries.
+ \nFull-priced admission to special exhibitions still applies.\nFor: Reside
+ nts of Alameda\, Contra Costa\, Marin\, Napa\, San Francisco\, San Mateo\,
+  Santa Clara\, Solano\, and Sonoma Counties with valid photo ID or postmar
+ ked envelope bearing home address\nDates and times: Every Saturday beginni
+ ng October 19\, 9:30 am–5:15 pm\n\nVisitors ages 17 and under always rec
+ eive free admission to the permanent collection galleries.\nPlease note th
+ is free Saturdays offer could be changed or canceled at anytime. Visit leg
+ ionofhonor.famsf.org for updates before attending.\nEssential and Frontlin
+ e Worke...\n\nFree\n\nTickets: https://tickets.famsf.org/events/283/detail
+ /5d94d829c1a3ef7724ff2b27\nDetails: https://sf.funcheap.com/free-legion-of
+ -honor-museum-day-for-bay-area-residents-every-saturday-348/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/10/legion
+ honor.png
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Legion of Honor\, 100 34th Avenue\, San Francisco\, CA 94121
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-legion-of-honor-museum-day-for-bay-area-r
+ esidents-every-saturday-348/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MANGO! Every 4th Saturday 2-8pm!
 DTSTART;TZID=America/Los_Angeles:20261226T140000
 DTEND;TZID=America/Los_Angeles:20261226T160000
@@ -12477,6 +12796,72 @@ LOCATION:Congregation Sherith Israel Newman Hall\, 2266 California St\, Sa
  n Francisco\, CA 94115
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-history-night-pacific-heights-101/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karaokiki with Your Hosts DULCE DE LECHE ++ FRISCO PINK ++ MOJO ++
+  LAMBERT (FREE)
+DTSTART;TZID=America/Los_Angeles:20261231T210000
+DTEND;TZID=America/Los_Angeles:20261231T230000
+DTSTAMP:20261101T160546Z
+UID:dothebay-15407235@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Karaokiki!! Sing your heart out with our incredible rotating h
+ osts DULCE DE LECHE\, FRICSO PINK\, MOJO & LAMBERT. FREE. FAB. FUN. FRICK 
+ YEAH. Every Thursday night! 9pm-midnight No Cover / front room Ins\n\nFree
+ \n\nTickets: https://tockify.com/elriosf2/detail/1444/1798779600000\nDetai
+ ls: https://dothebay.com/events/2026/12/31/karaokiki-with-your-hosts-dulce
+ -de-leche-frisco-pink-mojo-lambert-free-tickets\nSource: DoTheBay
+GEO:37.7468046;-122.4194395
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/22519864/ff8f81dd-692e-45a2-966f-2a43c5ae6a2e.png
+LAST-MODIFIED:20261101T160546Z
+LOCATION:El Rio\, 3158 Mission St\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/31/karaokiki-with-your-hosts-dulce
+ -de-leche-frisco-pink-mojo-lambert-free-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empress Yacht SF New Years Eve
+DTSTART;TZID=America/Los_Angeles:20261231T213000
+DTEND;TZID=America/Los_Angeles:20261231T233000
+DTSTAMP:20261101T160546Z
+UID:dothebay-15407948@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:For tickets or more information about The Empress SF yacht New
+  Year's Eve party\, visit us at NewYears.com\nEnter 2027 on a wild NYE par
+ ty cruise in the Golden City aboard the Empress Yacht! We’re ending the 
+ year with a bang\; cruising on The Bay\, dancing\, drinking\, and getting 
+ the absolute best views of the annual fireworks show. Sounds like fun\, do
+ esn’t it? Order your tickets to this superb San Francisco New Year’s E
+ ve yacht party now\, before it’s too late.\n\nA truly stylish vessel\, t
+ his yacht sports hardwood finishings throughout its climate-controlled int
+ erior\, and panoramic window displays on each deck. Take in the truly asto
+ nishing views of The Bay\, and enjoy a sweet vantage point for the yearly 
+ fireworks show.\n\nFrom the moment you step aboard\, you’ll hear the sou
+ nds of our live DJ cutting it up with a mix of the latest and greatest hit
+ s\, anthems\, and bangers. Grab a tasty app from the tray-passed hors d’
+ oeuvres\, then become acquainted with the bartender as you take advantage 
+ of the 3-hour open bar.\n\nDon’t be shy\, get social with us!! We know h
+ ow much you just love capturing memories on that phone of yours. Why not s
+ hare those memories with the rest of us on Instagram\, Twitter\, and Faceb
+ ook? We want to see all those awesome pics and vids too! So you better not
+  forget to tag us. While you’re at it\, use hashtag #NYEOnTheBay so ever
+ yone knows where the real party’s at.\n\nEmpress Yacht San Francisco\nPi
+ er 40 - 89 King Street\nSan Francisco\, CA 94107\n\n• BOARDING:Dec 31\, 
+ 2026 @ 9:30...\n\n$169 Per Person (21+)\nNewyears.com Presents\n\nTickets:
+  https://www.newyears.com/e/empress-yacht-san-francisco?affiliate=dtb\nDet
+ ails: https://dothebay.com/events/2026/12/31/empress-yacht-sf-new-years-ev
+ e-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/22523355/2c48424e-d89d-427e-8447-f4ef5cea6b46.jpg
+LAST-MODIFIED:20261101T160546Z
+LOCATION:Embarcadero Between Pier 3 and Pier 5\, Pier 3\, 101 The Embarcad
+ ero\, San Francisco\, CA\, 94105
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/31/empress-yacht-sf-new-years-eve-
+ tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s New Year’s Day 2027 Polar Bear Ice Skate at Union Square

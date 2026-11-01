@@ -41,25 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Excelsior district block party
-DTSTART;TZID=America/Los_Angeles:20261024T000000
-DTEND;TZID=America/Los_Angeles:20261024T235900
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1614923-2026-10-24T00:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Madrid St from Persia Ave to Russia Ave\n\nPermit stat
- us: Pending Payment\nTimes are SFMTA street-closure permit times and inclu
- de setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails
- : https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pending
-  permit)
-GEO:37.720841;-122.433396
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Madrid St between Russia Ave and Persia Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Block Party - 29th Avenue
 DTSTART;TZID=America/Los_Angeles:20261025T090000
 DTEND;TZID=America/Los_Angeles:20261025T170000
