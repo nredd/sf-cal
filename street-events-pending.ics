@@ -41,44 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Block Party - 29th Avenue
-DTSTART;TZID=America/Los_Angeles:20261025T090000
-DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1596831-2026-10-25T09:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 29th Ave from Lake St to California St\n\nPermit statu
- s: Application In Review\nTimes are SFMTA street-closure permit times and 
- include setup and teardown\nSource: DataSF Temporary Street Closures\n\nDe
- tails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pe
- nding permit)
-GEO:37.784388;-122.489341
-LAST-MODIFIED:20261006T193028Z
-LOCATION:29th Ave between California St and Lake St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Block Party - Shore View Ave (Lincoln Manor)
-DTSTART;TZID=America/Los_Angeles:20261025T110000
-DTEND;TZID=America/Los_Angeles:20261025T180000
-DTSTAMP:20261006T193028Z
-UID:sf-street-events-pending-1594676-2026-10-25T11:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Shore View Ave from 37th Ave to 38th Ave\n\nPermit sta
- tus: Application In Review\nTimes are SFMTA street-closure permit times an
- d include setup and teardown\nSource: DataSF Temporary Street Closures\n\n
- Details: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (
- pending permit)
-GEO:37.780491;-122.498201
-LAST-MODIFIED:20261006T193028Z
-LOCATION:Shore View Ave between 37th Ave and 38th Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microsoft Ignite 2026
 DTSTART;TZID=America/Los_Angeles:20261111T223000
 DTEND;TZID=America/Los_Angeles:20261112T030000

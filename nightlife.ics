@@ -40,27 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Sunset Sound System Halloween Costume Boat + After-Party 2026
-DTSTART;TZID=America/Los_Angeles:20261025T170000
-DTEND;TZID=America/Los_Angeles:20261025T190000
-DTSTAMP:20261026T131406Z
-UID:dothebay-17957710@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:Sunset Sound System’s Halloween boat after-party lands at Th
- e Great Northern October 25. Costumes on\, dancing into the after-hours.\n
- \nDetails: https://dothebay.com/events/2026/10/25/sunset-sound-system-hall
- oween-costume-boat-after-party-2026-tickets\nSource: DoTheBay
-GEO:37.7674263;-122.4062869
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34967568/5ba489b9-4b09-4dda-a294-553967f3a1dc.png
-LAST-MODIFIED:20261026T131406Z
-LOCATION:The Great Northern\, 119 Utah Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/25/sunset-sound-system-halloween-c
- ostume-boat-after-party-2026-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Programa de gestión de contingencias en español
 DTSTART;TZID=America/Los_Angeles:20261026T093000
 DTEND;TZID=America/Los_Angeles:20261026T113000
@@ -1437,9 +1416,9 @@ BEGIN:VEVENT
 SUMMARY:Dani Flow el Día de los Muertos 11.1
 DTSTART;TZID=America/Los_Angeles:20261101T210000
 DTEND;TZID=America/Los_Angeles:20261101T230000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261102T061947Z
 UID:dothebay-17786417@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:DANI FLOW performing LIVE at The Valencia Room with a nite of 
  urbano\, dembow\, and nonstop dance-floor heat. Celebrate el Día de los M
@@ -1450,12 +1429,11 @@ DESCRIPTION:DANI FLOW performing LIVE at The Valencia Room with a nite of
  rancisco #SF #thecity #sfgate #sfparty #sfevents #sfweekly #partysf #weekl
  ysf #sanfranciscoparty #bayarea #sfclubs #sfclubbing #dothebay #missionsf 
  #bottleservice #vip #nightlife #nightclub #thevalenciaroom\n\nThe Valencia
-  Room\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.event
- brite.com%2Fe%2F1998500290166\nDetails: https://dothebay.com/events/2026/1
- 1/1/dani-flow-el-dia-de-los-muertos-11-1-tickets\nSource: DoTheBay
+  Room\n\nDetails: https://dothebay.com/events/2026/11/1/dani-flow-el-dia-d
+ e-los-muertos-11-1-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34159213/0fdc3cfd-03cb-495a-a823-77a5b271e2c0.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261102T061947Z
 LOCATION:The Valencia Room\, 647 Valencia Street\, San Francisco\, CA\, 94
  110
 TRANSP:TRANSPARENT
