@@ -1,89 +1,7 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-01T16:05:46.530149Z",
+ "last_full_refresh": "2026-11-02T19:33:55.918958Z",
  "events": [
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "6baacc492eab9661",
-   "title": "Victoria Theatre: The Empire Strips Back: A Burlesque Parody",
-   "start": "2026-11-01T16:00:00-08:00",
-   "end": "2026-11-01T18:00:00-08:00",
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Victoria Theatre",
-   "address": "2961 16th St, San Francisco, CA, 94103, United States",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://missionlocal.org/event/victoria-theatre-the-empire-strips-back-a-burlesque-parody/2026-11-01/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "⭐ The hit burlesque parody The Empire Strips Back: A Burlesque Parody is making its way to San Francisco! This audience fave drops classic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark Side is calling you back! Returning fans can now enjoy an exclusive discount on their next visit to this hit burlesque parody. Use code STRIPBACKAGAIN at checkout to get 30% off your next booking.\nTickets for The Empire Strips Back in San Francisco\n🎫 General Admission – includes entry to the experience\n🎫 Rebel Package – includes express entry to the experience + a t-shirt (depending on size availability, another merch item like panties, lightsaber, poster, or calendar could be offered in exchange for the shirt)\n👉 For large groups (8+ people), reserve your tickets here\n🪑 Seats are assigned upon arrival at the venue on a first-come, first-served basis in the selected zone (Zone A, Zone B, Zone C, Emperor’s Zone, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy far, far away, to a world of burlesque fantasy\n🌌 Hilarious parody, menacing and risqué dance, and even the droids you’re looking for\n✨ Your favourite characters are scantily clad, seriously sultry, and live on stage\n⭐ Previously sold-out in London, Seattle, Chicago, New York, Montreal, LA, San Francisco, and more\nGeneral Info\n📅 Dates: choose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n– Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...",
-   "image_url": null,
-   "categories": [
-    "comedy",
-    "theater"
-   ],
-   "notes": [
-    "Published by Mission Local",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "27d2ce233d6a6dac",
-   "title": "S. F. Comedy Showcase",
-   "start": "2026-11-01T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Punch Line Comedy Club - San Francisco",
-   "address": "444 Battery Street, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/s-f-comedy-showcase-san-francisco-california-11-01-2026/event/1C0064E6CFD81F61?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Punch Line Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "9f596435f4a39b90",
-   "title": "Cobb's Comedy Showcase",
-   "start": "2026-11-01T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Cobb's Comedy Club",
-   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/cobbs-comedy-showcase-san-francisco-california-11-01-2026/event/1C0065119A2E9FC9?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Cobb's Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
   {
    "source": "caldiscovery-comedy",
    "source_id": "ea41bae6ffdd38ee",
@@ -575,6 +493,33 @@
    ],
    "notes": [
     "Published by KGO",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "2f667dc3b8b0cec4",
+   "title": "S. F. Comedy Showcase",
+   "start": "2026-11-08T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Punch Line Comedy Club - San Francisco",
+   "address": "444 Battery Street, San Francisco, CA, 94111",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/s-f-comedy-showcase-san-francisco-california-11-08-2026/event/1C0064ED035CFB58?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by Punch Line Comedy Club",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -2540,94 +2485,6 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "f6591167f32252d1",
-   "title": "BrickRealm LEGO® Fan Convention",
-   "start": "2026-11-01T10:00:00-08:00",
-   "end": "2026-11-01T16:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Hyatt Regency Santa Clara Grand Ballroom",
-   "address": "5101 Great America Pkwy, Santa Clara, 95054",
-   "locality": null,
-   "geo": null,
-   "url": "https://sanfranciscomoms.com/event/brickrealm-lego-fan-convention/2026-11-01/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Welcome to BrickRealm, Californias newest and only full four day Lego convention of 2026! Experience incredible LEGO® displays from master builders and professional creators alike, days jam packed with activities and games, and events for parents as well! Informational and engaging workshops and speakers, star vendors, building competitions, prizes, massive LEGO® displays and so much more are waiting for you and your family. All ages are welcomed and encouraged to join us as there’s something for everyone here at BrickRealm. (One day of the convention falls on Halloween, costumes and cosplay are encouraged and trick or treating/candy stations will be available to give children and adults alike for a great holiday experience!)",
-   "image_url": null,
-   "categories": [
-    "family",
-    "festival"
-   ],
-   "notes": [
-    "Published by San Francisco Bay Area Moms",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
-   "source_id": "55be1a44719dafaa",
-   "title": "Brava Theater: Loco Bloco presents: Día De Los Muertos 2026 - Esto No Se Vende",
-   "start": "2026-11-01T14:00:00-08:00",
-   "end": "2026-11-01T22:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Brava Theater",
-   "address": "2781 24th Street, San Francisco, CA, 94110, United States",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://missionlocal.org/event/brava-theater-loco-bloco-presents-dia-de-los-muertos-2026-esto-no-se-vende/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "10:00AM Altares Viewing\nShowtimes: 2:00PM & 6:00PM\nBrava Main Stage\nSF Loco Bloco dancers, drummers & band Cuicacalli Dance Company Lanakila Mangauil Ho’a Hawaii Christelle Durandy Odoiya Women’s Chorus and the Sweet Xequere Big star circus.\nRegular General Admission: $25\nRegular Youth/Student Admission (Valid ID Required): $15\nStep into a living ofrenda! In partnership with Brava Theater, Loco Bloco presents “Esto No Se Vende,” an electrifying Día de los Muertos celebration where live music, dance, ceremony, and storytelling ignite the stage. Bay Area artists and communities come together to honor our ancestors, celebrate resilience, and move toward new life.\n“Esto No Se Vende” (This We Do Not Sell) celebrates Dia de los Muertos at the historic Brava Theater in the Latino Cultural District of San Francisco. Produced by Loco Bloco, this annual event offers unique interpretations of Dia de los Muertos themes by artists from Mexican, Central American, African-American, Caribbean and other communities rooted in San Francisco and the Bay Area. Mainstage performers include: Loco Bloco Performing Ensemble, Cuicacalli Dance Company, Christelle Durandy, Lanakila Manguail and Odoiya Women’s Chorus.\nOn this sacred day, Brava Theater transforms to a living “ofrenda” with altares by community artists and organizations in the lobby and danza azteca ceremony in front. Both performers and the audience experience a moving cross-cultural dialogue, finding common ground that honors ancestors,...",
-   "image_url": null,
-   "categories": [
-    "dance",
-    "festival",
-    "music",
-    "theater"
-   ],
-   "notes": [
-    "Published by Mission Local",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
-   "source_id": "90886cea6549d4ef",
-   "title": "Dia de Muertos Celebration 2026",
-   "start": "2026-11-01T14:00:00-08:00",
-   "end": "2026-11-01T20:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": null,
-   "address": "150 Golden Gate Avenue San Francisco, CA 94102",
-   "locality": null,
-   "geo": null,
-   "url": "https://www.eventbrite.com/e/tenderloin-street-fair-presents-dia-de-muertos-celebration-2026-tickets-2002305378287?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca#location",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Category: Community Events / Volunteerism,Festivals / ParadesContact Name: MaroContact Phone: 415-226-9289Contact Email: maro@intothestreetssf.comCost: FREELink: https://www.eventbrite.com/e/tenderloin-street-fair-presents-dia-de-muertos-celebration-2026-tickets-2002305378287#locationA free Día de Muertos street fair bringing tradition and block party energy to the heart of San Francisco’s Tenderloin.Join us for a street fair takeover in the heart of the Tenderloin, bringing together the traditions of Día de Muertos with a family-friendly block party for everyone.A full day of live FREE Latin music in the streets, from música mexicana and mariachi to cumbia, salsa, Latin rock and more: Agua Pura brings the salsa, Combo Tezeta gets psychedelic with Peruvian cumbia, chicha and música tropical, and Soucano serves up Latin rock and soul—plus música mexicana from Rica Montes, Banda La Tóxica, Mariachi Tradición Mexicana and Trio Sol de México.Main Stage2:00–3:00 PM — Soucano3:30–4:30 PM — Agua Pura5:30–6:30 PM — Combo Tezeta7:00–8:00 PM — Banda La ToxicaLucha Libre Stage2:15–3:15 PM — Farsante3:45–4:45 PM — El Rica MontesIn between luchas — Sonido KillerRooted in the traditions of San Francisco’s diverse Latino communities, the celebration invites everyone to honor the holiday with ofrendas, enjoy delicious food, and celebrate life through music, dance, community, and friends.Fill the streets with us for live music, lucha libre, local food and vendors, a Kids Zone, face painting,...",
-   "image_url": null,
-   "categories": [
-    "community",
-    "family",
-    "festival",
-    "free"
-   ],
-   "notes": [
-    "Published by KGO",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
    "source_id": "6b9ddd60b7407530",
    "title": "Día de los Muertos Procession & Festival of Altars 2026",
    "start": "2026-11-02T00:00:00-08:00",
@@ -2836,6 +2693,35 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://missionlocal.org/event/brava-theater-2026-san-francisco-dance-film-festival/2026-11-06/1/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us at the 2026 San Francisco Dance Film Festival!\nOffering a kaleidoscopic look at movement in its varied forms, SFDFF presents 18 in-person screenings across the city from October 23 through November 8. For those tuning in from afar, the Online Festival streams worldwide from November 9-30.\nWith intimate documentaries, dazzling screendance, thrilling live performance captures, and much more, let’s celebrate the ever-evolving intersection of dance and film at SFDFF!\nLearn more at sfdancefilmfest.org/festival\nSFDFF 2026 IN-PERSON SCHEDULE AT BRAVA THEATER\nDoc Shorts: Friday, November 6, 2:00PM at Brava Theater\nIn Other Words: Friday, November 6, 6:00PM at Brava Theater\nRobert Shields: My Life as a Robot: Friday, November 6, 8:00PM at Brava Theater\nFilmmaking Masterclass: Saturday, November 7, 10:30AM at Brava Theater\nBody Language: Screendance Shorts: Saturday, November 7, 12:00PM at Brava Theater\nBarefoot Boy: Saturday, November 7, 3:00PM at Brava Theater\nThese Violent Delights: Saturday, November 7, 6:00PM at Brava Theater\nSpotlight Shorts: Saturday, November 7, 8:30PM at Brava Theater\nThe Sea: Sunday, November 8, 11:00AM at Brava Theater\nLeap!: Sunday, November 8, 1:00PM at Brava Theater\nMake Work: Sunday, November 8, 4:30PM at Brava Theater\nBay Area Shorts: Sunday, November 8, 7:30PM at Brava Theater",
+   "image_url": null,
+   "categories": [
+    "dance",
+    "festival",
+    "film"
+   ],
+   "notes": [
+    "Published by Mission Local",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-festival",
+   "source_id": "35e94ac624f4203a",
+   "title": "Brava Theater: 2026 San Francisco Dance Film Festival",
+   "start": "2026-11-06T18:00:00-08:00",
+   "end": "2026-11-06T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Brava Theater",
+   "address": "2781 24th Street, San Francisco, CA, 94110, United States",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://missionlocal.org/event/brava-theater-2026-san-francisco-dance-film-festival/2026-11-06/2/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
    "ticket_url": null,
    "price_text": null,
    "is_free": false,
@@ -4410,54 +4296,6 @@
    "description": "Halloween",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17610102",
-   "title": "Programa de gestión de contingencias en español",
-   "start": "2026-10-26T09:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/26/programa-de-gestion-de-contingencias-en-espanol-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "¿Le interesa cambiar, reducir, reevaluar o dejar de consumir estimulantes como la metanfetamina o la cocaína?\n\nOfrecemos un programa de gestión de contingencias en español en nuestra agencia asociada, el Proyecto Gubbio.\n\nEste programa es un programa de refuerzo positivo de 12 semanas/24 sesiones con servicios médicos, asesoramiento individual, gestión de casos y grupo de apoyo, y todos los servicios se brindan en español.\n\nPara obtener más información o unirse al grupo, comuníquese con Maricruz al 415-632-9722 o envíe un correo electrónico a mmoreno@sfaf.org.\n\n___________\n\nContingency management program in Spanish\n\nInterested in changing, reducing, re-evaluating, or stopping your use of stimulants such as meth or cocaine?\n\nWe offer a contingency management program in Spanish at our partner agency, the Gubbio Project.\n\nThis program is a positive reinforcement 12 week/24-session program with medical services, individual counseling, case management, and support group with all services provided in Spanish.\n\nFor more information or to join the group, please contact Maricruz at 415-632-9722 or mmoreno@sfaf.org.",
-   "image_url": null,
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17764333",
-   "title": "Monday Yoga",
-   "start": "2026-10-26T12:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Ferry Building",
-   "address": "One Ferry Marketplace, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/26/monday-yoga-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Join our Monday yoga series on the Back Plaza, with beautiful and peaceful views overlooking the Bay!\n\nAn hour of yoga during your lunch hour is a great way to get out of your office, love your body in community, reconnect to your breath, listen to soulful tunes, and recharge your energy for the day. We’re so glad you choose to spend this precious time with us!\n\nThis vinyasa yoga classes combine accessible and creative flows, dynamic stretching, and core work. All-levels flow moves at a steady, accessible pace so you can slow down, connect to each movement and breath, while still offering some challenge. Headphones are provided to create an immersive sound experience, so it’s easy to hear the teacher, to stay present with the practice, and to enjoy a mix of zen and fun soulful beats!\n\nPlease bring your own mat.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34055909/22f73dff-1157-4c65-a817-8385415c80f7.jpg",
-   "categories": [
-    "Variety"
-   ],
    "notes": []
   },
   {
@@ -14877,6 +14715,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18026851",
+   "title": "Improvised Elections",
+   "start": "2026-11-02T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Marsh - Berkeley",
+   "address": "2120 Allston Way, Berkeley, CA, 94704",
+   "locality": "Berkeley",
+   "geo": [
+    37.8692067,
+    -122.266996
+   ],
+   "url": "https://dothebay.com/events/2026/11/2/improvised-elections-tickets",
+   "ticket_url": "https://themarsh.org/cabaret/improv-on-demand/",
+   "price_text": "Sliding scale, $10-25",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Improvised Elections\nNovember 2, 2026\n7:30–9:00PM\nStick around for an open improv jam at 9PM!\n\nImprovised Elections is an improvised political drama (think House of Cards, West Wing, Scandal) following three fictional political candidates competing in an election. We provide a look into the dirty backroom dealings, fiery debates, and inner lives of these politicians. Note, the show does not feature real politicians or actual political issues. It's just the ~intrigue~ of a political drama applied to fake issues.\n\nImprov On Demand is a narrative long-form improv group based in the Bay Area, whose formats range from Improvised Shakespeare to Improvised Grand Theft Auto. Alumni of the Stanford Improvisors, they play with an emphasis on grounded emotions and relationships. On Demand’s Monday Improv at the Marsh will be part show, part jam. Come for a fully unscripted play, and stick around for a guided group improv jam afterwards!\n\nThe Late Night Show is a Berkeley-born sketch & improv group with roots from all over the country. We blend LA game-forward style with Chicago character work, and use music as a thread to tie it all together to tell chaotic, silly, poignant, and topical stories about the world we live in. Every show starts from one question: What did you do last night?\n\nEach team will do a 45-minute performance, with a 5-minute break in between, and then there will be a 30 minute jam. Drinks will be available.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35262110/ee45ca9f-9d36-4069-80f0-066aa61352a1.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Improv On Demand presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17468395",
    "title": "The Psychedelic Furs",
    "start": "2026-11-02T20:00:00-08:00",
@@ -16157,6 +16024,33 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34570137/02978ab6-2ecf-49a1-b804-8cf7381438dc.jpg",
    "categories": [
     "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017931",
+   "title": "Sf Party",
+   "start": "2026-11-04T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Verdi Club",
+   "address": "2424 Mariposa Street, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7634058,
+    -122.4079386
+   ],
+   "url": "https://dothebay.com/events/2026/11/4/sf-party-tickets",
+   "ticket_url": "https://www.scuff.us/performances/9btgqoaq",
+   "price_text": "$20, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "GOTH NITE RETURNS OCTOBER 28 SF\n\n$20 Single Ticket\n\nParty Pass — 5-pack & 10-pack discounts available\n\nLine Dance Lessons: 8:30 & 10:00 PM\n\nOpen floor requests all night\n\nGet Ready\n\nDress to dance — wear leather-soled shoes or sneakers\n\nNo partner needed — come as you are!\n\n21+\n\nPhoto: Andy Antezana Careaga",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35230013/57ea2460-991f-4f05-8f29-aea28689b5a5.png",
+   "categories": [
+    "Dance"
    ],
    "notes": []
   },
@@ -18486,6 +18380,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18028473",
+   "title": "Bawdy Storytelling's Cum Again? Stories of Near Misses and Second Chances",
+   "start": "2026-11-06T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Verdi Club",
+   "address": "2424 Mariposa Street, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7634058,
+    -122.4079386
+   ],
+   "url": "https://dothebay.com/events/2026/11/6/bawdy-storytelling-s-cum-again-stories-of-near-misses-and-second-chances-tickets",
+   "ticket_url": "https://plra.io/m/bawdy-storytellings-cum-again-stories-of-near-mi",
+   "price_text": "$50",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Bawdy Storytelling 20th Anniversary!\n\n❤ An Iconic Evening, Hosted by her Vajesty Dixie De La Tour\n❤ NPR Snap Judgment Storyteller of the Year Don Reed\n❤ Filmmaker, author & performance artist Madison Young\n❤ Award-winning Cartoonist and Educator Justin Hall\n❤ Professional and Llfestyle FemDom Bufy DaDick Slayr\n❤ Music by Bawdy’s beloved singer-songwriter Jefferson Bergey\n❤ Play Bang-O to make new Friends (& FWBs)",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35269821/a7a7e14c-d3d7-4e10-8e2f-0c918d0fa953.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Bawdy Storytelling"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17864742",
    "title": "Dan and Phil: Hard Launch World Tour",
    "start": "2026-11-06T20:30:00-08:00",
@@ -20801,6 +20724,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18021415",
+   "title": "Bear Disco",
+   "start": "2026-11-07T21:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "The Lone Star Saloon",
+   "address": "1354 Harrison St, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.77216749999999,
+    -122.4108778
+   ],
+   "url": "https://dothebay.com/events/2026/11/7/bear-disco-tickets",
+   "ticket_url": "https://www.lonestarsf.com/new-events-1/2026/11/7/bear-disco",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Get Down (and get back up again) SQ are throwing a Disco-Stravaganza for your dancing pleasure.\n\nBoomers; it's far out. Gen X it's Awesome, Millenials it's Epic, Gen Z it's Fire.So open up that shirt, grab your tight white pants and dance.\n\nDJ: Wanda Doff is gonna keep the party Ah ah ah ah Stayin Aliiiiiiive\n\nMother’s on thew door.\n\n9p - 2a",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35269642/0d5bf08f-3130-46d0-9fb4-b61c911f270d.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17404080",
    "title": "Geoffrey Asmus",
    "start": "2026-11-07T21:15:00-08:00",
@@ -22291,6 +22241,60 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016705",
+   "title": "Naza",
+   "start": "2026-11-09T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Roxie Theater",
+   "address": "3117 16th Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7647103,
+    -122.4224081
+   ],
+   "url": "https://dothebay.com/events/2026/11/9/naza-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22484?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "NAZA is also playing at NEW PEOPLE\n\nIn secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.\n\nDirectors Note:\n\nWe made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel’s military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents’ generation and throughout the 20th century: how does one group of people allow the total dehumanisation of another?\n\nWhat do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of NAZA’s producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence.\n\n– Yuval Abraham and Rachel Szor\n\n“An essential, devastating documentary…there’s no turning away from what’s said, you simply can’t unknow what you have heard” – Nicolas Rapold, Sight and Sound...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35226199/eff8c639-81e1-47b7-bb24-542c49ae5546.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016726",
+   "title": "Fatherland",
+   "start": "2026-11-09T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Roxie Theater",
+   "address": "3117 16th Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7647103,
+    -122.4224081
+   ],
+   "url": "https://dothebay.com/events/2026/11/9/fatherland-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22479?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and rally driver. In the summer of 1949, at the height of the Cold War, father and daughter embark on a challenging and emotional road trip in a black Buick taking them across a Germany in ruins – from US dominated Frankfurt to Soviet controlled Weimar. Returning home after sixteen years of exile in the US, Thomas Mann has to face not only a divided fatherland, but also a deep fracture within his own family.\n\nWith FATHERLAND, director Paweł Pawlikowski picks up where he left off with his award-winning IDA and COLD WAR, exploring – in his elliptic, distilled style – the themes of identity, family, love and guilt amid the turmoil and confusion of post-war Europe.\n\n“Another expansive, enriching work from a modern master” – Time Out\n\n“A rich and moving journey through post-World War II Germany” – TheWrap\n\nMore showtimes will be added soon.\n\nRuntime\n\n1h 22m\n\nYear\n\n2026\n\nDirector\n\nPaweł Pawlikowski\n\nFormat\n\nDCP\n\nCountry\n\nPoland, Germany, Italy & France\n\nLanguage\n\nGerman, French, Russian & English\n\nFirst Showing\n\nNovember 6, 2026\n\nCategories\n\nOpen Caption Screenings\n\n,\n\nFeatured",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35226312/c93649ad-e2bd-4bdd-b708-99bc61de7997.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17464266",
    "title": "Sienna Spiro",
    "start": "2026-11-09T19:00:00-08:00",
@@ -22586,6 +22590,60 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34724932/a5633588-743e-4476-9f23-c97aa6136ed9.jpg",
    "categories": [
     "Variety"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016703",
+   "title": "Fjord",
+   "start": "2026-11-09T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Roxie Theater",
+   "address": "3117 16th Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7647103,
+    -122.4224081
+   ],
+   "url": "https://dothebay.com/events/2026/11/9/fjord-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22483?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout\n\nRomanian husband relocate with their five children to a remote, close-knit, coastal town. Their\n\nteenage children form a fast bond with a neighboring family as unease begins to simmer around\n\ntheir rigid beliefs. When allegations of abuse emerge, they are forced to confront a system of\n\njudgment that blurs the line between concern and prejudice.\n\n“It is a treat to be in the hands of a director with such skill for image-making.” – Sophie Kaufman, BFI\n\n“Fjord explores clashing worldviews, conformity, tolerance and the boundaries of freedom and intimacy.” – Eye Eye Pictures\n\nRuntime\n\n2h 26m\n\nYear\n\n2026\n\nDirector\n\nCristian Mungiu\n\nFormat\n\nDCP\n\nCountry\n\nRomania\n\nLanguage\n\nRomanian, Norwegian and Swedish with English subtitles\n\nFirst Showing\n\nOctober 30, 2026\n\nCategories\n\nFeatured",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35226197/70b0a370-61b6-4d47-b393-0961bd8ce7b5.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016708",
+   "title": "The History of Concrete",
+   "start": "2026-11-09T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Roxie Theater",
+   "address": "3117 16th Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7647103,
+    -122.4224081
+   ],
+   "url": "https://dothebay.com/events/2026/11/9/the-history-of-concrete-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22480?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.\n\n“I doubt any movie, especially not any documentary, will make me laugh harder this year.” –The Hollywood Reporter\n\nRuntime\n\n1h 42m\n\nYear\n\n2026\n\nDirector\n\nJohn Wilson\n\nFormat\n\nDCP\n\nFirst Showing\n\nOctober 16, 2026\n\nCategories\n\nFeatured",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35226226/c1ee8f42-fd36-4459-9845-ecb47a1599cb.jpg",
+   "categories": [
+    "Film"
    ],
    "notes": []
   },
@@ -23783,6 +23841,33 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33327058/f1bd4b23-3e42-4bea-8c77-6bf91ef6013b.png",
    "categories": [
     "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017933",
+   "title": "Sf Party Beginner Nite",
+   "start": "2026-11-11T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Verdi Club",
+   "address": "2424 Mariposa Street, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7634058,
+    -122.4079386
+   ],
+   "url": "https://dothebay.com/events/2026/11/11/sf-party-beginner-nite-tickets",
+   "ticket_url": "https://www.scuff.us/performances/esmrurxx",
+   "price_text": "$20, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "GOTH NITE RETURNS OCTOBER 28 SF\n\n$20 Single Ticket\n\nParty Pass — 5-pack & 10-pack discounts available\n\nOur monthly Beginner Nite is geared toward beginners and first-timers. We teach two beginner lessons at the party, and play the dances from our in-studio beginner class series. Know that all of our parties are beginner-friendly and inclusive of all levels — the more dances you learn, the more fun it gets!\n\nLine Dance Lessons: 8:30 & 10:00 PM\n\nOpen floor requests all night\n\nGet Ready\n\nDress to dance — wear leather-soled shoes or sneakers\n\nNo partner needed — come as you are!\n\n21+\n\nPhoto: Andy Antezana Careaga",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35230031/1a2926f1-af03-49c8-a11f-321fc544be02.png",
+   "categories": [
+    "Dance"
    ],
    "notes": []
   },
@@ -26536,6 +26621,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016552",
+   "title": "Katie Reicher and Nicole Edwards, Greens Restaurant, with Hodo",
+   "start": "2026-11-14T11:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Ferry Plaza",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/14/katie-reicher-and-nicole-edwards-greens-restaurant-with-hodo-tickets",
+   "ticket_url": "https://foodwise.org/events/katie-reicher-nicole-edwards-greens-restaurant-with-hodo/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Saturday, November 14, 2026, 11:00 am - 11:45 am\n\nStop by the Foodwise Classroom for a cooking demo featuring the seasonal bounty of the Ferry Plaza Farmers Market. This month, were showcasing winter squash as part of our Seasonal Spotlight program.\n\nKatie Reicher is the Executive Chef of San Franciscos renowned Greens Restaurant and the author of Seasons of Greens: A Collection of New Recipes from the Iconic San Francisco Restaurant. After studying at the Culinary Institute of America, Katie began working at Greens in 2015 and was named Executive Chef in 2020. As the fourth Executive Chef in Greens history, she continues the legacy of all-female culinary leadership. Originally from New York State, Katie draws on personal traditions, global flavors, professional training, and seasonality to create innovative vegetarian dishes. Nicole Edwards is Chef de Cuisine at Greens Restaurant.\n\nThe demo will feature products from Hodo. A cornerstone of the Bay Areas artisan, craft food community, Hodo was founded by Minh Tsai in 2004 at the farmers market to recreate the rich, delicious tofu of his childhood in Vietnam. While still a beloved Saturday fixture in San Francisco, Hodo has grown into a national leader in tofu and yuba, with its organic, non-GMO products now available in grocery stores nationwide. From Michelin-honored kitchens to local supermarket aisles, Hodo redefines tofu and yuba through combining tradition and innovation, making this delicious, wholesome plant protein ac...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225587/b950766e-b844-4f52-9c26-272879ef4a06.jpg",
+   "categories": [
+    "Shopping"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "18019897",
    "title": "Devendra Banhart - Four Nose Jobs a Day",
    "start": "2026-11-14T12:00:00-08:00",
@@ -27620,6 +27729,33 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34838664/32103e4b-77ec-41aa-a5fe-d0e0e25791cc.jpg",
    "categories": [
     "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18023248",
+   "title": "Marc Broussard",
+   "start": "2026-11-14T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Montalvo Arts Center",
+   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
+   "locality": "Saratoga",
+   "geo": [
+    37.243876,
+    -122.030816
+   ],
+   "url": "https://dothebay.com/events/2026/11/14/marc-broussard-tickets",
+   "ticket_url": "https://my.montalvoarts.org/3232/3246",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Experience an unforgettable night with Marc Broussard, the acclaimed Louisiana soul artist known for his commanding voice and vibrant blend of blues, rock, R&B, and Southern roots. The evening also features special support from Cristina Vane.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35250321/37ba11ad-93e7-423f-9f61-9ba1c374aa01.jpg",
+   "categories": [
+    "Variety"
    ],
    "notes": []
   },
@@ -29755,6 +29891,35 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18023101",
+   "title": "Profs & Pints Alameda: Unhealthy Diets by Design",
+   "start": "2026-11-17T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Faction Brewing",
+   "address": "2501 Monarch Street, Alameda, CA, 94501",
+   "locality": "Alameda",
+   "geo": [
+    37.786495,
+    -122.3092901
+   ],
+   "url": "https://dothebay.com/events/2026/11/17/profs-pints-alameda-unhealthy-diets-by-design-tickets",
+   "ticket_url": "https://events.ticketleap.com/tickets/profsandpints/unhealthy-by-design",
+   "price_text": "Advance: $13.50. Door: $17, or $15 w/ student ID",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Profs and Pints Alameda presents: “Unhealthy Diets by Design,” on how cigarette science made us crave food that’s bad for us, with Laura Schmidt, professor of health policy and emeritus professor of psychiatry at the University of California San Francisco and scholar of the relationship between marketing and chronic disease.\nIt’s no accident that kids everywhere gobble down Lunchables, many of us can’t eat just one Oreo, and warnings by health experts and our own physicians often fail to deter us from loading our shopping carts with ultra-processed foods or pulling up to fast-food restaurants.\nThe truth is that our cravings for unhealthy foods are the product of extensive research, as well as deliberate manufacturing and marketing decisions, informed by lessons learned by Big Tobacco.\nGet the inside skinny on how we’ve been manipulated into eating what makes many of us fat with Laura Schmidt, a highly respected sociologist and public health expert dedicated to understanding how modern lifestyles and economic pressures have driven the rise of chronic disease around the world.\nDr. Schmidt was one of several authors of a recent series of articles in the American Journal of Public Health examining how ultra-processed foods became a huge part of American diets. She exposed how the U.S. tobacco giants Philip Morris and RJ Reynolds got into the food business during the mid-20th century and applied tobacco-industry research to the manufacturing and marketing ultra-processed foods. Th...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35249549/292e9b3c-35db-4f2b-a039-c44872c9ce88.jpg",
+   "categories": [
+    "Lecture/Education"
+   ],
+   "notes": [
+    "Profs and Pints"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17562609",
    "title": "JAZZ at the MAKE OUT ROOM!",
    "start": "2026-11-17T18:30:00-08:00",
@@ -30547,6 +30712,54 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016464",
+   "title": "Electric Dreams",
+   "start": "2026-11-18T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/18/electric-dreams-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20335?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "The most unusual triangle in the history of love: a boy, a girl, and a computer.\n\nMiles Harding buys a state-of-the-art computer that starts expressing conscious thought and emotion after an interaction with spilled champagne. Things begin getting out of hand when both Miles and Edgar, the computer, fall in love with beautiful neighbor Madeline Robistat.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225090/670fc09b-32e2-47bc-9cc7-b384220c542d.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017412",
+   "title": "Electric Dreams",
+   "start": "2026-11-18T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/18/electric-dreams-tickets-0zmaayj",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20335?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "HI NRG presents:\n\nELECTRIC DREAMS\n\nThe most unusual triangle in the history of love: a boy, a girl, and a computer.\n\nMiles Harding buys a state-of-the-art computer that starts expressing conscious thought and emotion after an interaction with spilled champagne. Things begin getting out of hand when both Miles and Edgar, the computer, fall in love with beautiful neighbor Madeline Robistat.\n\nFor our Annual Pass Members and Loyalty Card Holders:\n\nTickets for this film can be acquired in-person at the Box Office with loyalty cards or our Annual CinemaSF passes.\n\nHI NRG curated DJ SET at 7:00 PM | FILM at 7:30 PM",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35269842/e033779b-8aec-4a82-b067-861a2e011601.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "16633313",
    "title": "Corde Snell",
    "start": "2026-11-18T20:00:00-08:00",
@@ -30738,6 +30951,33 @@
    "notes": [
     "Goldenvoice Presents"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017936",
+   "title": "Sf Party",
+   "start": "2026-11-18T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Verdi Club",
+   "address": "2424 Mariposa Street, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7634058,
+    -122.4079386
+   ],
+   "url": "https://dothebay.com/events/2026/11/18/sf-party-tickets",
+   "ticket_url": "https://www.scuff.us/performances/yexus6nz",
+   "price_text": "$20, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "GOTH NITE RETURNS OCTOBER 28 SF\n\n$20 Single Ticket\n\nParty Pass — 5-pack & 10-pack discounts available\n\nPartner Dance Lesson (Beginner-Intermediate Two-Step with Marianne): 8:00 PM\n\nLine Dance Lesson: 10:00 PM\n\nOpen floor requests all night\n\nGet Ready\n\nDress to dance — wear leather-soled shoes or sneakers\n\nNo partner needed — come as you are!\n\n21+\n\nPhoto: Andy Antezana Careaga",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35230046/e13d8900-aa25-41a7-bd1c-96f50c5eef9c.png",
+   "categories": [
+    "Dance"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -31665,6 +31905,33 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33104562/55d6007c-a40c-4324-915e-86c6507d3c86.jpg",
    "categories": [
     "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18023254",
+   "title": "Free Holiday Market Yuletide Boutique",
+   "start": "2026-11-20T10:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Montalvo Arts Center",
+   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
+   "locality": "Saratoga",
+   "geo": [
+    37.243876,
+    -122.030816
+   ],
+   "url": "https://dothebay.com/events/2026/11/20/free-holiday-market-yuletide-boutique-tickets",
+   "ticket_url": "https://my.montalvoarts.org/3283/3284",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35250346/fa115af1-a03d-4fc7-af21-6ef350f3fdd4.jpg",
+   "categories": [
+    "Variety"
    ],
    "notes": []
   },
@@ -33221,6 +33488,33 @@
     "Another Planet Entertainment Presents: Soundship Space Bus Tour",
     "Listed time is doors"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016739",
+   "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+   "start": "2026-11-21T18:35:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Roxie Theater",
+   "address": "3117 16th Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7647103,
+    -122.4224081
+   ],
+   "url": "https://dothebay.com/events/2026/11/21/zhang-yimou-s-raise-the-red-lantern-4k-restoration-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22474?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books.\n\nNineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen’s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul.\n\nOne of international cinema’s greatest stars of the era, Gong Li is “nuanced and understated” (Chicago Reader) as the stifled young woman forced into a repressive world of concubinage. Newly restored, the film stands as one of the defining works of Fifth Generation Chinese cinema and international film of the 1990s.\n\n“As visually striking as it is dramatically effective…subtly exploring the politics of power and control” – Janet Maslin, The New York Times\n\nThe 4K restoration of Raise the...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35226368/834421ab-05e9-4d0b-ac29-6f9e9b2a0140.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -34824,6 +35118,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18023256",
+   "title": "Yuletide Tea",
+   "start": "2026-11-22T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Montalvo Arts Center",
+   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
+   "locality": "Saratoga",
+   "geo": [
+    37.243876,
+    -122.030816
+   ],
+   "url": "https://dothebay.com/events/2026/11/22/yuletide-tea-tickets",
+   "ticket_url": "https://my.montalvoarts.org/3253/3254",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Holiday Tea at Montalvo Arts Center our beloved Yuletide Tea tradition is back—bring a friend and enjoy sweet and savory bites, favorite teas, festive cheer, and the option to purchase a little bubbly.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35250356/e7baaba9-3202-4546-86da-0c971fbf606e.jpg",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17341280",
    "title": "An Evening of Alton Brown",
    "start": "2026-11-22T19:30:00-08:00",
@@ -35873,6 +36194,54 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016456",
+   "title": "A Charlie Brown Thanksgiving",
+   "start": "2026-11-25T18:15:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/25/a-charlie-brown-thanksgiving-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20277?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Peppermint Patty invites herself and her friends over to Charlie Brown's for Thanksgiving, and with Linus, Snoopy, and Woodstock, he attempts to throw together a Thanksgiving dinner.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225053/ff4f1980-c9ed-408f-92d3-53b0205a64ec.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017403",
+   "title": "A Charlie Brown Thanksgiving",
+   "start": "2026-11-25T18:15:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/25/a-charlie-brown-thanksgiving-tickets-pbnxxbd",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20277?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Spend Thanksgiving with good ol’ Charlie Brown!\n\nTurkey, cranberries, pumpkin pie and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown’s house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful.\n\nMake it a double feature with the Grand Budapest Hotel at 7:30 PM!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35269843/28bc1267-6051-43bd-bf43-ca4d44df0d29.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17819123",
    "title": "A Fish Called Wanda (1988)",
    "start": "2026-11-25T18:30:00-08:00",
@@ -36143,6 +36512,54 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34381627/dfe1215d-308a-4509-8949-1f664338ff06.png",
    "categories": [
     "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016477",
+   "title": "The Grand Budapest Hotel",
+   "start": "2026-11-25T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/25/the-grand-budapest-hotel-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20276?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225165/631fc0c6-932b-4177-89e8-c5ce9ef643a7.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017402",
+   "title": "The Grand Budapest Hotel",
+   "start": "2026-11-25T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/25/the-grand-budapest-hotel-tickets-kl533x1",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20276?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!\n\nThe Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.\n\nFor our Annual Pass Members and Loyalty Card Holders:\n\nTickets for this film can be acquired in-person at the Box Office with loyalty cards or our Annual CinemaSF passes on the day of the show while supplies last.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35228067/0285e221-6277-4084-a5fa-227795a42513.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
    ],
    "notes": []
   },
@@ -37016,6 +37433,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18017400",
+   "title": "MC5: A True Testimonial",
+   "start": "2026-11-27T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/27/mc5-a-true-testimonial-tickets-rmzwwzk",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "CHUCK PROPHET’S CINEMA DISCOTHEQUE presents:\n\nMC5: A TRUE TESTIMONIAL\n\nThis documentary, made over a period of eight years, tells the remarkable story of an extremely influential rock’n’roll band. Starting from their mid-60’s garage band roots (sounding amazingly like the Sonics), the Motor City 5 deveoped into an icon for a brand of loud, crushing music reflecting their industrial roots. Even if you don’t care for their music (and you’re bound to like even a few of their songs), their story is fascinating. It combines 60’s protest, youthful braggadocio, and a style of music that would help carry one to the likes of Iggy and the Stooges (not to mention certain aspects of punk rock). This film is clearly a labor of love, combining extraordinarily rare live shows, still shots, a nearly-continuous backdrop of MC5 tunes, penetrating interviews with the remaining members and their spouses, and even FBI surveillance shots. It’s the ultimate testimonial to a band that only gains in stature as time goes on.\n\nDOORS at 7:00 PM | FILM at 7:30 PM",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35269846/c41cbabe-87fb-42a2-954b-be485891da33.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17643190",
    "title": "Emma Ruth Rundle",
    "start": "2026-11-27T20:00:00-08:00",
@@ -37468,6 +37909,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34927248/01cb7f9d-5359-46b0-8171-e7322d7357f2.jpg",
    "categories": [
     "Outdoor & Recreation"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017399",
+   "title": "Ponyo",
+   "start": "2026-11-28T10:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/28/ponyo-tickets",
+   "ticket_url": "https://www.4-star-movies.com/calendar-of-events/ponyo-sat-2026",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "From the legendary Studio Ghibli, creators of Spirited Away and My Neighbor Totoro, and Academy Award-winning director Hayao Miyazaki, comes a heartwarming family adventure. When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.\n\nCinema SF Bay is proud to announce that our Saturday & Sunday morning POPCORN PALACE movie screenings at the 4 STAR will continue to be presented FREE OF CHARGE in 2026!\n\nThanks to an incredibly generous grant we will be showing you fantastic family-friendly movies every weekend at 10:00 AM! Perfect for everything from birthday get-togethers to casual stop-ins, so bring the whole family over to the 4 STAR THEATER for community movies together.\n\nReservations will be first-come-first-serve when the box office opens thirty minutes before the screening on the day of the show. We look forward to seeing you at the movies!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35270602/e6648e9c-cf43-4938-9171-4a3edadde2f4.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
    ],
    "notes": []
   },
@@ -38097,6 +38562,54 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016469",
+   "title": "LIVE MUSIC: Stay Out, East Brothers, Try Harder",
+   "start": "2026-11-28T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/28/live-music-stay-out-east-brothers-try-harder-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20348?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "LIVE MUSIC:\n\nStay Out\n\nEast Brothers\n\nTry Harder\n\n7:00 PM Doors\n\n8:00 PM Music\n\n$15 ADV / $18 DOOR",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225118/7cccd610-5710-4831-a97b-bf2b527bb510.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017398",
+   "title": "LIVE MUSIC: Stay Out, East Brothers, Try Harder",
+   "start": "2026-11-28T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/28/live-music-stay-out-east-brothers-try-harder-tickets-rmzwwzk",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20348?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Stay Out\n\nStay Out is a high-energy punk rock band from Oakland, California, rooted deep in the East Bay DIY scene and driven by a relentless commitment to authenticity, connection, and explosive live performance. Formed in the summer of 2016 by Grant Pack and Mason McGeorge, the band quickly established itself as a force in underground punk- blending raw, aggressive energy with undeniably catchy hooks and melodic sensibility.\n\nFronted by the dual-vocal attack of Pack and McGeorge, Stay Out delivers a dynamic balance of grit and charisma, pairing blistering riffs with anthemic choruses that hit just as hard in a packed venue as they do through speakers. The lineup was solidified in 2018 with the addition of drummer Nate Reynoso, whose impact on the band’s songwriting and sound helped push their evolution into something sharper, louder, and more cohesive.\n\nDrawing from the legacy of Bay Area punk while carving out their own lane, Stay Out fuses high-octane punk rock with pop-punk accessibility, creating music that’s both chaotic and emotionally resonant. Their lyrics tap into themes of defiance, isolation, struggle, and social tension—reflecting real experiences while maintaining an undercurrent of resilience and unity. Known for their wild, unpredictable live shows and DIY ethos, Stay Out has built their reputation from the ground up—handling everything from recording and production to booking, merch, and promotion independently.\n\nThat hands-on approach has earned them a loya...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35270595/eeab72c2-d64c-481a-8357-9ca9858df126.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17781139",
    "title": "The Fin",
    "start": "2026-11-28T20:15:00-08:00",
@@ -38466,6 +38979,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18017397",
+   "title": "Ponyo",
+   "start": "2026-11-29T10:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/29/ponyo-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20280?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "From the legendary Studio Ghibli, creators of Spirited Away and My Neighbor Totoro, and Academy Award-winning director Hayao Miyazaki, comes a heartwarming family adventure. When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.\n\nCinema SF Bay is proud to announce that our Saturday & Sunday morning POPCORN PALACE movie screenings at the 4 STAR will continue to be presented FREE OF CHARGE in 2026!\n\nThanks to an incredibly generous grant we will be showing you fantastic family-friendly movies every weekend at 10:00 AM! Perfect for everything from birthday get-togethers to casual stop-ins, so bring the whole family over to the 4 STAR THEATER for community movies together.\n\nReservations will be first-come-first-serve when the box office opens thirty minutes before the screening on the day of the show. Ticket links are below for later screenings of the film that day. We look forward to seeing you at the movies!\n\nFor our Annual Pass Members and Loyalty Card Holders:\n\nTickets for the afternoon screening of this film can be acquired in-person at the Box Office with loyalty cards or our Annual CinemaSF passes on the day of the show while supplies last.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35228046/ba938360-930f-42f5-bd67-17f03d5dc273.png",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17354883",
    "title": "Red Zone Rally- 49ers vs Seahawks",
    "start": "2026-11-29T10:25:00-08:00",
@@ -38516,6 +39053,30 @@
    "notes": [
     "Mockingbird Lane"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016471",
+   "title": "Ponyo (Dubbed)",
+   "start": "2026-11-29T12:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/29/ponyo-dubbed-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20280?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "In a small town by the sea lives five year old Sosuke, high on a cliff overlooking the Inland Sea. One morning while playing on the rocky beach below his house, he discovers a goldfish he names Ponyo, her head stuck in a jam jar. Sosuke rescues Ponyo and keeps her in a green plastic bucket. Both Ponyo and Sosuke are fascinated by each other and promise to stay firm friends until Ponyos father, a sorcerer who lives deep under the sea, forces her to return with him to the ocean depths. What follows is an amazing underwater adventure for all ages...\n\nPONYO is a substantially lighter and smaller in scope feature when compared to Miyazakis previous two works. The\n\nfilm was completed entirely using traditional hand-drawn animation, primarily in order to showcase the quality of the\n\nartwork by art director Noboru Yoshida as well as celebrating the innocence and cheerfulness of a childs universe.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225130/8dd95476-f410-4b47-8546-68c8ef3d435d.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -38655,6 +39216,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016472",
+   "title": "Ponyo (Subtitled)",
+   "start": "2026-11-29T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/29/ponyo-subtitled-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20281?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "In a small town by the sea lives five year old Sosuke, high on a cliff overlooking the Inland Sea. One morning while playing on the rocky beach below his house, he discovers a goldfish he names Ponyo, her head stuck in a jam jar. Sosuke rescues Ponyo and keeps her in a green plastic bucket. Both Ponyo and Sosuke are fascinated by each other and promise to stay firm friends until Ponyos father, a sorcerer who lives deep under the sea, forces her to return with him to the ocean depths. What follows is an amazing underwater adventure for all ages...\n\nPONYO is a substantially lighter and smaller in scope feature when compared to Miyazakis previous two works. The\n\nfilm was completed entirely using traditional hand-drawn animation, primarily in order to showcase the quality of the\n\nartwork by art director Noboru Yoshida as well as celebrating the innocence and cheerfulness of a childs universe.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225132/83cc5de1-0ab7-46e8-93f0-0cf2d79b35f8.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17866475",
    "title": "New People: An Eye for an Eye",
    "start": "2026-11-29T15:30:00-08:00",
@@ -38757,6 +39342,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33883535/a35ff52a-0a31-4a1f-9a84-eb40ace303c9.png",
    "categories": [
     "Sports"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016473",
+   "title": "Ponyo (Subtitled)",
+   "start": "2026-11-29T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/29/ponyo-subtitled-tickets-g0o5xlz",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20336?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "In a small town by the sea lives five year old Sosuke, high on a cliff overlooking the Inland Sea. One morning while playing on the rocky beach below his house, he discovers a goldfish he names Ponyo, her head stuck in a jam jar. Sosuke rescues Ponyo and keeps her in a green plastic bucket. Both Ponyo and Sosuke are fascinated by each other and promise to stay firm friends until Ponyos father, a sorcerer who lives deep under the sea, forces her to return with him to the ocean depths. What follows is an amazing underwater adventure for all ages...\n\nPONYO is a substantially lighter and smaller in scope feature when compared to Miyazakis previous two works. The\n\nfilm was completed entirely using traditional hand-drawn animation, primarily in order to showcase the quality of the\n\nartwork by art director Noboru Yoshida as well as celebrating the innocence and cheerfulness of a childs universe.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225145/127545f5-bfb2-4585-ac72-001db46c7a15.jpg",
+   "categories": [
+    "Film"
    ],
    "notes": []
   },
@@ -38979,6 +39588,54 @@
    "notes": [
     "Guajirón"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016458",
+   "title": "Begotten",
+   "start": "2026-11-29T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/29/begotten-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20283?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225055/a742819c-ae6e-4485-9417-ada4a70d020c.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017395",
+   "title": "Begotten",
+   "start": "2026-11-29T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/29/begotten-tickets-708yy98",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20283?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "TRASH & TREASURES presents:\n\nBEGOTTEN\n\nWhen it debuted in 1989, E. Elias Merhige’s Begotten fascinated and shocked those who witnessed it. Never before had the screen depicted such a primal, existential drama, and it became one of the must-see films of the 1990s. The intervening decades have not diminished the power of this unique motion picture experience. This new 4K restoration reveals the full photographic body of Begotten, preserving its otherworldly organic texture and retaining its visceral impact, a previously unknown life form captured in cinematic amber.\n\nDOORS & DJ SET at 7:00 PM | FILM at 7:30 PM\n\nOpening DJ Set from Topazu, host of Sutro FM’s Celluloid Mixtape, which recently hosted a Begotten-inspired guest mix from Trash & Treasures host Andrew Sainz.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35228042/47bceb48-0cf6-40f4-8c9f-e08066de2e2f.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -39844,6 +40501,54 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016474",
+   "title": "The Chinese Feast",
+   "start": "2026-12-02T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Cinema SF",
+   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/2/the-chinese-feast-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20295?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Within a few years, petty crook Chiu rises to gang leader. But his professional ambitions are actually quite different: he wants to leave illegality behind and make a career for himself and his lover in Canada as a chef. However, this craft must first be learned and Chius talent in the field of cooking leaves much to be desired.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225146/0f55a14c-aed6-4250-87ac-34a5a2820c67.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18017416",
+   "title": "The Chinese Feast",
+   "start": "2026-12-02T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "4 Star Theater",
+   "address": "2200 Clement St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/2/the-chinese-feast-tickets-medpprn",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20295?siteToken=d2atbcege5knqsavntt91g1250",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "HI NRG presents:\n\nTHE CHINESE FEAST\n\nWithin a few years, petty crook Chiu rises to gang leader. But his professional ambitions are actually quite different: he wants to leave illegality behind and make a career for himself and his lover in Canada as a chef. However, this craft must first be learned and Chiu’s talent in the field of cooking leaves much to be desired.\n\nFor our Annual Pass Members and Loyalty Card Holders:\n\nTickets for this film can be acquired in-person at the Box Office with loyalty cards or our Annual CinemaSF passes.\n\nHI NRG curated DJ SET at 7:00 PM | FILM at 7:30 PM",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35228117/ce7b437e-0c99-4dc8-b24c-3bc31808ca7b.png",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "15341906",
    "title": "Los Train Wreck's All Star Jam Every 1 St Wed! (Free)",
    "start": "2026-12-02T20:00:00-08:00",
@@ -40266,6 +40971,33 @@
    "notes": [
     "Suzy Kopf Studio"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18023253",
+   "title": "Wild-Foraged Wreath-Making Workshop",
+   "start": "2026-12-03T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Montalvo Arts Center",
+   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
+   "locality": "Saratoga",
+   "geo": [
+    37.243876,
+    -122.030816
+   ],
+   "url": "https://dothebay.com/events/2026/12/3/wild-foraged-wreath-making-workshop-tickets",
+   "ticket_url": "https://my.montalvoarts.org/3275/3278",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Breathe in the fresh scent of foraged greenery from Montalvo’s grounds as you craft a beautiful handmade wreath. Welcoming to beginners and seasoned makers alike, this festive workshop offers friendly guidance and plenty of creative inspiration.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35250342/aca7040b-7c10-4184-82a6-42160a4b0868.jpg",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -41940,6 +42672,33 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34727024/6f8ebcee-d862-4596-92bb-e4c9e8d49ed5.jpg",
    "categories": [
     "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18023257",
+   "title": "A Christmas Carol 2026",
+   "start": "2026-12-05T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Montalvo Arts Center",
+   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
+   "locality": "Saratoga",
+   "geo": [
+    37.243876,
+    -122.030816
+   ],
+   "url": "https://dothebay.com/events/2026/12/5/a-christmas-carol-2026-tickets",
+   "ticket_url": "https://my.montalvoarts.org/3261/3262",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Chirstmas Carol Tickets are sold via Silicon Valley Shakespeare Buy Tickets",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35250366/f5d3931f-3ccc-48fc-9778-74b7cd4ce86d.jpg",
+   "categories": [
+    "Variety"
    ],
    "notes": []
   },
@@ -44758,6 +45517,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18028808",
+   "title": "Late Night Editions: Holiday",
+   "start": "2026-12-10T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Legion of Honor",
+   "address": "100 34th Ave., San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": [
+    37.78447790000001,
+    -122.5008906
+   ],
+   "url": "https://dothebay.com/events/2026/12/10/late-night-editions-holiday-tickets",
+   "ticket_url": "https://www.famsf.org/events/late-night-editions-holiday?utm_source=dothebay&utm_medium=partner&utm_campaign=latenighteditions&utm_content=newsletter",
+   "price_text": "$45, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Late Night Editions: Holiday\nThursday, December 10 | Legion of Honor\n\nCome dressed in your holiday best for a festive evening inspired by art, fashion, and the magic of the season.\nWander the Legion of Honor’s illuminated galleries, enjoy live music, and discover Azzedine Alaïa: Sculpting Fashion. Delight in bites from local food trucks, sip festive cocktails, and strike a pose in our stylish portrait lounge.\n\nElevate your evening with VIP tickets for early entry, an exclusive curator-led tour and champagne toast, plus VIP lounge access with a hosted bar, vermouth tasting with Museion Napa, Hog Island oysters, and catered hors d’oeuvres.\n\nTickets are limited and selling fast — reserve yours before they are gone!\n\nGeneral Admission tickets: $45\nIncludes:\n\nDelicious treats and cocktails for purchase from Off the Grid food trucks and bars\nLive DJ sets by In Session all night\nLive music by Radio Gatsby\nStyled photo booth by Photographer and Artist Anna-Alexia Basile\nAccess to Azzedine Alaïa: Sculpting Fashion and the Legion of Honor’s permanent collection galleries\nAdmission starts at 7 pm\n\nVIP tickets: $350\nIncludes all of the above, and:\n\nEarly entry at 5:30 pm\nCurator-led tour and private champagne toast\nExclusive VIP lounge with open bar, and vermouth tasting experience with Museion Napa\nCatered hors d’oeuvres with a specialty Hog Island Oyster Co. bar\n\nEvent details\n\nGuests must be 21+ years of age.\nTicket includes access to Azzedine Alaïa: Sculpting Fashion and the Legion o...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35271565/e84e006a-7feb-4961-87bb-1e43a9ae859e.png",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17982757",
    "title": "Silent Skate Party at the Safeway Holiday Ice Rink in Union Square",
    "start": "2026-12-10T19:05:00-08:00",
@@ -45834,6 +46620,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34000130/7dd0f0b5-f989-45ee-8d53-4fc3daa68b4c.png",
    "categories": [
     "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18016554",
+   "title": "Pop-Ups on the Plaza: Black Holiday Market",
+   "start": "2026-12-12T09:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Ferry Plaza",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/12/12/pop-ups-on-the-plaza-black-holiday-market-tickets",
+   "ticket_url": "https://foodwise.org/events/pop-ups-on-the-plaza-black-holiday-market/",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Saturday, December 12, 2026, 9:00 am - 2:00 pm\n\nCelebrate local Black-owned businesses and get ready for the holiday season with a day of delicious food, crafts, and community at the Ferry Plaza Farmers Market. The south arcade of the Ferry Building will be transformed for a special holiday market featuring 20 Bay Area food makers and designers. Find thoughtful gifts and stocking stuffers for everyone on your list, like baked goods, food crafts, skincare, apparel and accessories, gift cards, and more. Entry is free and open to the public, with products available for purchase.\n\nPop-Ups on the Plaza is a series of events celebrating Bay Area BIPOC entrepreneurs, including businesses in Foodwises Building Equity program. Pop-Ups on the Plaza is a Port sponsored event brought to you by Foodwise. This program is proudly funded in partnership with the San Francisco Human Rights Commission. Additional support is provided by the Ferry Building.\n\nPop-Ups on the Plaza is an initiative of Foodwises Building Equity program. Foodwise and our community partners, In The Black, La Cocina, and Mandela Partners, are proudly committed to uplifting and advancing equity for BIPOC, immigrant, and limited-resource entrepreneurs across the Bay Area.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225593/f332957d-868c-4185-aaeb-4f77c64393b2.png",
+   "categories": [
+    "Shopping"
    ],
    "notes": []
   },
@@ -47699,6 +48509,36 @@
     "Sports"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17870916",
+   "title": "An Evening with podcast host & co-creator Phoebe Judge",
+   "start": "2026-12-14T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Bimbo's 365 Club",
+   "address": "1025 Columbus Ave, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.8036989,
+    -122.4156675
+   ],
+   "url": "https://dothebay.com/events/2026/12/14/an-evening-with-phoebe-judge-tickets",
+   "ticket_url": "https://bimbos365club.com/tm-event/criminal-presents-an-evening-with-phoebe-judge/",
+   "price_text": "21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Another Planet Entertainment and Criminal: A Podcast present\nAn Evening with podcast host & co-creator Phoebe Judge\nMonday, December 14 | Bimbo's 365 Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34559660/d80c75b7-8a32-4de6-ba56-4d95f5a548ca.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment and Criminal: A Podcast present",
+    "Listed time is doors"
+   ]
   },
   {
    "source": "dothebay",
@@ -49835,6 +50675,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18017447",
+   "title": "Balboa Christmas Halloween Mystery Marathon ~ First Film",
+   "start": "2026-12-19T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Balboa Theater",
+   "address": "3630 Balboa St, San Francisco, CA, 94121",
+   "locality": "San Francisco",
+   "geo": [
+    37.7760419,
+    -122.498063
+   ],
+   "url": "https://dothebay.com/events/2026/12/19/balboa-christmas-halloween-mystery-marathon-first-film-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20344?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg",
+   "price_text": "$13",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Due to forces beyond our control, we are no longer able to run the Balboa Halloween Mystery Marathon on Halloween night. In the circumstance, we are hard pivoting to the Balboa Christmas Halloween Mystery Marathon. Same exact run of show, same exact films selected. Only with more holiday vibes.\n\nThis year, the Balboa invites you to the BALBOA CHRISTMAS HALLOWEEN MOVIE MARATHON.\n\nJoin us any time that evening for the low, low price of $13 as four different programmer select one of their favorite horror gems and we run them back to back throughout the night. You won’t know what we’re playing until it’s being announced in the theater, but we can guarantee that all of the films are (a) pre-20th century, (b) never screened in the Bay Area (at least in the past five years), and (c) have one curator on our team who think it’s sick as hell. Along with that, we’ll have hot chocolate, candy canes and special prizes for a mid-way point costume contest for anyone who wants to dress up! Whether you join for one or stay for all, come with friends or alone, we guarantee your Saturday at the Balboa will be a night of pure, sugar high, blood soaked movie adrenaline.\n\n4:30 PM: Mystery Movie #1 (1979) (4:30 PM - 6 PM)\n\n6:10 PM: Mystery Movie #2 (1984) (6:05 PM - 7:30 PM)\n\nCostume Contest/Intermission (Fifteen Minutes)\n\n7:40 PM: Mystery Movie #3 (1988) (7:45 - 9:11 PM)\n\n9:15 PM: Mystery Movie #4 (1986) (9:15 PM - 10:38 PM)",
+   "image_url": null,
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17918166",
    "title": "Skip the Small Talk Night at Fluid510",
    "start": "2026-12-19T17:00:00-08:00",
@@ -51071,6 +51938,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18016745",
+   "title": "Carol",
+   "start": "2026-12-21T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Roxie Theater",
+   "address": "3117 16th Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7647103,
+    -122.4224081
+   ],
+   "url": "https://dothebay.com/events/2026/12/21/carol-tickets",
+   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22452?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Presented by OUTlook and Frameline\n\nDubbed “SF’s hottest new holiday tradition” by the San Francisco Chronicle, Frameline’s fourth annual Carol Day returns to its home at the Roxie Theater. Shake up your martinis, don your gloves (and gay apparel) for a costume contest, and get ready to be flung out of space — again.\n\nSet during Christmastime in 1950s New York, Todd Haynes’ adaptation of Patricia Highsmith’s The Price of Salt centers on shy, aspiring photographer Therese Belivet (Rooney Mara), whose world changes when she meets the elegant Carol Aird (Cate Blanchett). As Carol struggles to maintain custody of her daughter amid a heated divorce, she and Therese develop a secret-yet-passionate romance that changes them both irrevocably.\n\nFeaturing a stunning screenplay from Phyllis Nagy; memorable supporting turns from Sarah Paulson, Kyle Chandler, and Jake Lacy; and wholly transportive production design and costuming, Carol remains one of queer cinema’s most exquisite films.\n\nRuntime\n\n1h 58m\n\nYear\n\n2015\n\nDirector\n\nTodd Haynes\n\nFormat\n\nDCP\n\nFirst Showing\n\nDecember 21, 2026\n\nCategories\n\nOUTlook\n\n,\n\nFeatured",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35226407/bd640154-a746-457c-b427-3051960aaf3c.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17819168",
    "title": "White Christmas",
    "start": "2026-12-21T19:30:00-08:00",
@@ -52217,6 +53111,35 @@
     "Comedy"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18022230",
+   "title": "Aaa Live Tour",
+   "start": "2026-12-26T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Memorial Auditorium",
+   "address": "1515 J Street Sacramento, CA 95814, Sacramento, CA, 95814",
+   "locality": "Sacramento",
+   "geo": [
+    38.5788426,
+    -121.4857235
+   ],
+   "url": "https://dothebay.com/events/2026/12/26/aaa-live-tour-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fwweaaa-presents-aaa-live-tour-sacramento-california-12-26-2026%2Fevent%2F1C00655E9C49B31E",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Due to the historic nature of the Memorial Auditorium there are NO ELEVATORS to the Lower or Upper Balconies. To contact the SAFE Credit Union Performing Arts District Box Office call 916-808-5181 or email SCCBOTickets@cityofsacramento.org.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35245802/c08e3e88-3664-47ca-9d3d-9f887816b8b7.png",
+   "categories": [
+    "Sports"
+   ],
+   "notes": [
+    "WWE/AAA Presents:"
+   ]
   },
   {
    "source": "dothebay",
@@ -54458,52 +55381,331 @@
    "notes": []
   },
   {
-   "source": "funcheap",
-   "source_id": "1644142",
-   "title": "Free Cuban Jam & Salsa Night with Guajirón at Boom Boom Room",
-   "start": "2026-10-25T19:30:00-07:00",
-   "end": "2026-10-25T23:30:00-07:00",
+   "source": "dothebay",
+   "source_id": "17722552",
+   "title": "It's A New Day + Breakfast Of Champions 2027 Block Party",
+   "start": "2027-01-01T04:00:00-08:00",
+   "end": null,
    "all_day": false,
-   "bucket": "music",
-   "venue": "Boom Boom Room",
-   "address": "1601 Fillmore St., San Francisco, CA",
+   "bucket": "nightlife",
+   "venue": "The Great Northern",
+   "address": "119 Utah Street, San Francisco, CA, 94103",
    "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-cuban-jam-salsa-night-guajirn-boom-boom-room/",
-   "ticket_url": "https://guajiron.com/shows/boom-boom-room-2026-10-25/",
-   "price_text": null,
-   "is_free": true,
+   "geo": [
+    37.7674263,
+    -122.4062869
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/it-s-a-new-day-breakfast-of-champions-2027-block-party-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fits-a-new-day-breakfast-of-champions-2027-block-party-tickets-1997772324802%3Faff%3Ddothebay",
+   "price_text": "$43.21-$3800, 21+",
+   "is_free": false,
    "sold_out": false,
-   "description": "GuajirónSpend Sunday evening dancing salsa to live Cuban music with Guajirón at the Boom Boom Room in San Francisco’s Fillmore neighborhood. Come dance, enjoy a drink and the music, or sit in: musicians are welcome to join the band for an Afro-Cuban jam.\nSunday, October 25, 2026, 7:30–11:30 p.m. PDT. Admission is free.\nThis is Guajirón’s last-Sunday-of-the-month residency. Additional published dates: November 29 and December 27, 2026, and January 31, 2027, each starting at 7:30 p.m. Pacific.\n\nBoom Boom Room, 1601 Fillmore St, San Francisco, CA 94115.\nOctober details and RSVP: https://guajiron.com/shows/boom-boom-room-2026-10-25/\nNovember: https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-11-29/\nDecember: https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-12-27/\nJanuary: https://guajiron.com/shows/boom-boom-room-cuban-jam-2027-01-31/",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/guajiron-boom-boom-oct25.jpg",
+   "description": "It's A New DAY + Breakfast Of Champions 2027 is coming back to The Great Northern block for a full day + night of New Year shenanigans!\n\nWe’re kicking off the year again with the ultimate BLOCK PARTY in the heart of San Francisco!\n\nITS A NEW DAY & BOC is bringing that yearly HEAT that gets the whole bay area moving on New Year!\nExpect diversity of music, food, dancing and frolicking in the streets: GOOD VIBES ONLY as we welcome in the first new day of the year all together.\n\nThis isn’t just a party, it’s the first EPIC chapter of 2027.\nBe there. Bring the crew. Let's own the day and night.\n\n- LINE UP TBA -",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33856590/6e74ac5c-4c63-45f1-9a35-1b81cf37daf8.png",
    "categories": [
-    "Live Music Event"
+    "DJ/Parties"
+   ],
+   "notes": [
+    "The Great Northern & Space Cowboys present"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17623607",
+   "title": "San Jose Sharks vs. Philadelphia Flyers",
+   "start": "2027-01-01T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "SAP Center",
+   "address": "525 West Santa Clara Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3322405,
+    -121.9016508
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/san-jose-sharks-vs-philadelphia-flyers-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsan-jose-sharks-vs-philadelphia-flyers-san-jose-california-01-01-2027%2Fevent%2F1C0064E79B229C58",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "By purchasing, you are sharing your contact info and ticket sales data with the NHL and the San Jose Sharks. The NHL may use this info to better understand fan engagement across the league, including to enable the NHL and its Member Clubs to customize their services and advertising. For more information including your NHL privacy choices, see www.nhl.com/info/privacy-policy.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33389845/ddd670e2-a2c9-4ef8-81cc-7a65ffdb8ec2.png",
+   "categories": [
+    "Sports"
    ],
    "notes": []
   },
   {
-   "source": "funcheap",
-   "source_id": "1638087",
-   "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
-   "start": "2026-10-26T09:00:00-07:00",
-   "end": "2026-10-26T10:00:00-07:00",
+   "source": "dothebay",
+   "source_id": "17982767",
+   "title": "Polar Bear Skate at the Safeway Holiday Ice Rink in Union Square",
+   "start": "2027-01-01T14:30:00-08:00",
+   "end": null,
    "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Japanese Tea Garden",
-   "address": "75 Hagiwara Tea Garden Dr, San Francisco, CA",
+   "bucket": "arts-community",
+   "venue": "The Safeway Holiday Ice Rink in Union Square",
+   "address": "333 Post Street, San Francisco, CA, 94108",
    "locality": "San Francisco",
    "geo": null,
-   "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-446/",
-   "ticket_url": "https://www.japaneseteagardensf.com/vist",
+   "url": "https://dothebay.com/events/2027/1/1/polar-bear-skate-at-the-safeway-holiday-ice-rink-in-union-square-tickets",
+   "ticket_url": "https://unionsquareicerink.com/ ",
    "price_text": null,
-   "is_free": true,
+   "is_free": false,
    "sold_out": false,
-   "description": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)\nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from around the world with an opportunity to experience the natural beauty, tranquility, and harmony of a Japanese-style garden in the heart of San Francisco’s Golden Gate Park.\nOriginally created as a “Japanese Village” exhibit for the 1894 California Midwinter International Exposition, the Japanese Tea Garden endures as one of the most popular attractions in San Francisco, featuring classic elements such as an arched drum bridge, pagodas, stone lanterns, stepping stone paths, native Japanese plants, serene koi ponds, and a zen garden. Cherry blossom trees bloom throughout the garden in March and April.\nAdmission to the Japanese Tea Garden is free for San Francisco residents with valid ID. Free hours for everyone (even non-residents) are 9-10 am every Monday, Wednesday and Friday.\n\nPlease note that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiwara Tea Garden, Golden Gate Park, SF\nFREE for San Francisco Residents w/ ID\nFREE for Everyone from 9-10 am on Mondays, Wednesdays and Fridays\nNon Resident Fees\nAdults: $12-16 (depends on season)\n(February – November) $14\n(December – January) $12\n(Weekends year-round) $16\nSeniors (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildren (under 5) FREE\nHours Of Operation\nLast entry 30 minutes before closing\nSpring – Summer Hours\nMarch – October\n9am – 5:45pm\nFall – Winter Hours\nNovembe...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/07/japaneseteagarden-scaled-e1595352236641.jpeg",
+   "description": "Start the year with a splash of boldness at The Safeway Holiday Ice Rink in Union Square presented by Kaiser Permanente! Inspired by the famous Canadian tradition, our New Year’s Day Polar Bear Skate invites skaters of all ages to hit the ice in their most outrageous swimwear on ice in the heart of Union Square!\n\nBreak out your beachwear, bring the sunshine vibes, and skate into the new year in style. Prizes will be awarded for the best-dressed based on theme, creativity, and all-around fabulousness. It’s chilly, it’s cheeky, and it’s the coolest way to kick off 2027.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35081556/59403689-ecd2-4e74-bdea-855ad41cd9ca.jpg",
    "categories": [
-    "Outdoors"
+    "Holiday Event"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17979582",
+   "title": "Megalopolis",
+   "start": "2027-01-01T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Alamo Drafthouse Cinema",
+   "address": "2550 Mission St, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7562198,
+    -122.419185
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/megalopolis-tickets",
+   "ticket_url": "https://drafthouse.com/sf/show/special-event-megalopolis-new-years-day-celebration?cinemaId=0802&sessionId=22980",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Like the famed empire that Francis Ford Coppola’s epic passion project is styled after, MEGALOPOLIS is a towering, monumental spectacle that most people will think about at least once a day. The City of New Rome is at a crossroads. At one end sits Cesar Catilina (Adam Driver), the idealistic artist striving for a utopian future, and at the other sits Mayor Franklin Cicero (Giancarlo Esposito), a powerful figure perpetuating greed, special interests, and partisan warfare. Their titanic struggle will shake the foundations of their city and lay the groundwork for a new tomorrow.\n\nAs engrossing and ambitious as you would expect from the filmmaker behind THE GODFATHER and APOCALYPSE NOW, MEGALOPOLIS is an unforgettable vision that could only have come from Coppola. Of course, he didn’t do it alone, and everyone in the unbelievable cast (including Driver, Esposito, Nathalie Emmanuel, Aubrey Plaza, Laurence Fishburne, and more) delivers some of the most memorable performances of their careers.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35067971/3909476f-05d7-4795-9a24-4f5dd5430bdc.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17699047",
+   "title": "Lord Huron",
+   "start": "2027-01-01T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Channel 24",
+   "address": "1800 24th St, Sacramento, CA, 95816",
+   "locality": "Sacramento",
+   "geo": null,
+   "url": "https://dothebay.com/events/2027/1/1/lord-huron-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Flord-huron-sacramento-california-01-01-2027%2Fevent%2F1C0064FCA5ECBFBE%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
+   "price_text": "all ages",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Lord Huron was created by Los Angeles-based artist Ben Schneider in 2010. After writing and recording two independent EPs (Into the Sun and Mighty) on his own, demand grew for Lord Huron to perform live. Schneider recruited friends Mark Barry (percussion), Miguel Briseño (bass) and Tom Renaud (guitar). Having first played music together at the tender age of 12, the group reunited and quickly hit their stride, transforming the project into a full-fledged live band.\n\nLord Huron’s debut LP Lonesome Dreams was released in 2012 followed by Strange Trails in 2015. The latter featured the multi-platinum single “The Night We Met,” which has gone on to become one of Spotify’s Top 40 most-streamed songs of all time. In 2018, Lord Huron earned widespread critical acclaim and a Top 5 debut on the Billboard Top 200 with their third album, Vide Noir– while their following LP Long Lost garnered praise from NPR, Time, Los Angeles Times, Spin and Stereogum and sparked performances on The Tonight Show Starring Jimmy Fallon, Jimmy Kimmel Live!, The Late Late Show with James Corden and CBS This Morning: Saturday. Their latest album The Cosmic Selector Vol. 1 was released in 2025 and brought the band’s live show into their largest venues to date, including Madison Square Garden in NYC and the Kia Forum in Los Angeles.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33742272/5ace64f9-277c-4c40-8adb-3e673ed86c80.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment Presents",
+    "Listed time is doors"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17702213",
+   "title": "Jeremiah Watkins",
+   "start": "2027-01-01T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Ave, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": [
+    37.802989,
+    -122.4143902
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/jeremiah-watkins-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjeremiah-watkins-san-francisco-california-01-01-2027%2Fevent%2F1C0065044CC3C81B",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Jeremiah Watkins\nFriday, January 1 | ​Cobb's Comedy Club",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33757608/c2ffd274-4068-45f1-a22b-8e30748d0ac1.png",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18001036",
+   "title": "ILLENIUM",
+   "start": "2027-01-01T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Bill Graham Civic Auditorium",
+   "address": "99 Grove Street, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": [
+    37.77814499999999,
+    -122.4174374
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/illenium-bill-graham-civic-auditorium-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F1C00653D9D023EF4%3Fcamefrom%3DCFC_ANOTHERPLANET_artist%26brand%3Danotherplanet%26referrer%3Dhttps%253A%252F%252Fwww.ticketmaster.com%252Fevent%252F1C00653D9D023EF4%253Fcamefrom%253DCFC_ANOTHERPLANET_artist%2526brand%253Danotherplanet",
+   "price_text": "18+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Another Planet Entertainment Presents\n3rd Show Added by Popular Demand!\n\nNew Year's Day 2027\nILLENIUM\nFriday, January 1 | Bill Graham Civic Auditorium\n\nDoors: 7:00pm | Show: 8:00pm\n\n18 & Over Only. A physical drivers license or passport will be required for entry. Do not bring a photo or digital copy.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35160311/c3aa60e3-4fd4-402c-ba66-2283a82e84e1.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Another Planet Entertainment Presents: New Year's Day 2027 - 3rd Show Added by Popular Demand!",
+    "Listed time is doors"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17921660",
+   "title": "Trevor Wallace",
+   "start": "2027-01-01T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "San Jose Improv",
+   "address": "62 S. Second Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3356047,
+    -121.8883856
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/trevor-wallace-tickets",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Ftrevor-wallace-san-jose-improv-tickets%2F14335664%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "price_text": "$43.19 - $113.80, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "There is a ticket delivery delay in place until two days prior to the event. Tickets will not be emailed until then. Tickets are only available online until the delivery delay is lifted.\n\nDO NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM\n\nTICKET RESALE IS STRICTLY PROHIBITED.\n\nTICKETS SUSPECTED OF BEING PURCHASED FOR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF THE SAN JOSE IMPROV.\n\nEVENT INFO:\n\nThere is a two-item minimum purchase requirement in the showroom for all guests.\n\nSeating is general admission, first-come, first-served, with the exception of groups and premium booths.\n\nNo cell phone use, photography or video recording is permitted during performances.\n\nAll sales are final.\n\nMISCELLANOUS:\n\nFor group sales info, e-mail our Events Manager to learn about special menu options and reserved seating.\n\nAdditional questions may be addressed in our Frequently Asked Questions.\n\nFor further assistance, contact San Jose Improv.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34794626/cc15cda2-2a40-4aac-a951-5973856bf827.jpg",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17941270",
+   "title": "Beltran (Open to Close)",
+   "start": "2027-01-01T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Shed A at Pier 48",
+   "address": "San Francisco, CA, 94158",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2027/1/1/beltran-open-to-close-tickets",
+   "ticket_url": "https://www.axs.com/events/1629416/beltran-open-to-close-tickets?skin=goldenvoice?cid=usaffdostuff",
+   "price_text": "21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Goldenvoice Presents\nClub Darc Season 2: NYE Week\nBeltran (Open to Close)\nFriday, January 1 | Shed A at Pier 48",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34889007/2a8cdd35-9c0c-437c-87c5-94b776dd5f1e.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Goldenvoice Presents: Club Darc Season 2 - NYE Week"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "15422781",
+   "title": "A FAMILY AFFAIR AFTER DARK- A Queer 90s-00s Throwbacks Only Party - EVERY 1st FRIDAY ($5)",
+   "start": "2027-01-01T21:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "El Rio",
+   "address": "3158 Mission St, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7468046,
+    -122.4194395
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/a-family-affair-after-dark-a-queer-90s-00s-throwbacks-only-party-every-1st-friday-5-tickets",
+   "ticket_url": "https://tockify.com/elriosf2/detail/3109/1798866000000",
+   "price_text": "$5",
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/22600636/1e629a8d-392d-458d-9409-f49f2a23676f.png",
+   "categories": [
+    "Variety"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17921661",
+   "title": "Trevor Wallace",
+   "start": "2027-01-01T21:45:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "San Jose Improv",
+   "address": "62 S. Second Street, San Jose, CA, 95113",
+   "locality": "San Jose",
+   "geo": [
+    37.3356047,
+    -121.8883856
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/trevor-wallace-tickets-z19abpm",
+   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Ftrevor-wallace-san-jose-improv-tickets%2F14335684%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705",
+   "price_text": "$43.19 - $113.80, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "There is a ticket delivery delay in place until two days prior to the event. Tickets will not be emailed until then. Tickets are only available online until the delivery delay is lifted.\n\nDO NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM\n\nTICKET RESALE IS STRICTLY PROHIBITED.\n\nTICKETS SUSPECTED OF BEING PURCHASED FOR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF THE SAN JOSE IMPROV.\n\nEVENT INFO:\n\nThere is a two-item minimum purchase requirement in the showroom for all guests.\n\nSeating is general admission, first-come, first-served, with the exception of groups and premium booths.\n\nNo cell phone use, photography or video recording is permitted during performances.\n\nAll sales are final.\n\nMISCELLANOUS:\n\nFor group sales info, e-mail our Events Manager to learn about special menu options and reserved seating.\n\nAdditional questions may be addressed in our Frequently Asked Questions.\n\nFor further assistance, contact San Jose Improv.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34794633/1a24d39e-9331-488a-923b-efedb42bf45b.jpg",
+   "categories": [
+    "Comedy"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17973799",
+   "title": "Ayybo",
+   "start": "2027-01-01T22:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "1015 Folsom",
+   "address": "1015 Folsom St, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7781117,
+    -122.4058001
+   ],
+   "url": "https://dothebay.com/events/2027/1/1/ayybo-tickets",
+   "ticket_url": "https://wl.seetickets.us/event/ayybo/708866?afflky=1015Folsom",
+   "price_text": "$35-$45, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "DJ Dials & 1015 Folsom Present\nAyybo\nFriday, January 1 | ​1015 Folsom",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35103146/1f6a39e1-b24d-4304-95a2-0716743705d3.png",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "DJ Dials & 1015 Folsom Present"
+   ]
   },
   {
    "source": "funcheap",
@@ -69157,6 +70359,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645569",
+   "title": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries",
+   "start": "2026-11-29T10:00:00-08:00",
+   "end": "2026-11-29T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Manny’s",
+   "address": "3092 16th St San Francisco, CA 94103",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/mannys-neighborhood-trash-cleanup-w-1-beer-free-yoga-classes-free-fries-sf-160/",
+   "ticket_url": "https://refuserefusesf.org/cleanups",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries (SF)\nManny's\nTired? Sunday Funday. Wired? Sunday done-day. Make our neighborhood better, brunch with cool people (sorry not sorry, we’re biased), get deals to some fave local spots, and wrap it up before the Sunday Scaries hit with an easy hour of picking up trash around our neighborhood with friends and the community!\nRSVP to save your spot\nSF Public Works, TogetherSF, Shine On SF, and Manny’s is hosting a weekly neighborhood trash pick up to help keep our area clean and neat.\n\nBy picking up with us, you’ll get a special certificate that includes a whole host of neighborhood discounts valid that day, including:\n\n$3 well highballs and $1 PBRs – Blondies\nHalf price shots (specific shots only) – Bond Bar\nFree Tasty Small Fries – Beehive Bar\nOne free Yoga Class – HAUM Yoga\nOne free Yoga Class – Love Story Yoga\n2 for 1 empanadas – Venga Empanadas\nOne drink ticket (beer or wine) – Curio Bar\nFree Small Hot Chocolate – Dandelion Chocolate\n2 for 1 draft beer – Standard Deviant\nFrozen margarita with any additional purchase – West of Pecos\nPlease note that the discounts might vary!\n\nWe’ll provide the gear. All you need to bring is yourself(and maybe the two or three friends you get to sign up to enjoy those 2-1 empanadas). When we’re done, and before you settle in for those dollar margs, join us for brunch to support Farming Hope – the non-profit restaurant at Manny’s! Don’t forget to bring layers and comfo...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/07/thumbnail_IMG_6786.jpg",
+   "categories": [
+    "Free Food"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645559",
+   "title": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)",
+   "start": "2026-11-29T11:00:00-08:00",
+   "end": "2026-11-29T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "JFK Drive Lindy Hop Spot",
+   "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-281/",
+   "ticket_url": "http://www.lindyinthepark.com/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)\nLindy in the Park\nGet ready to swing in Golden Gate Park every sunny Sunday at “Lindy in the Park,” a weekly free event near the de Young Museum, when the streets of Golden Gate Park are closed to traffic and the dancers take over.\nThis in person event resumed June 20, 2021\nLindy in the Park | Free Outdoor Swing Dance & Lessons\nEvery Sunday | 11 am to 2 pm\nJFK Dr. btwn 8th and 10th, behind the De Young Museum, Golden Gate Park, SF\nFREE\nRain and Bay to Breakers cancels, but other than that, Lindy in the Park takes place every Sunday – even on holidays – so even if New Year’s Day, Christmas, or Fourth of July falls on a Sunday, they’ll be out there dancing. On the very rare occasion when they cancel, they’ll make a new posting on their website, usually by 10am on Sunday. Lindy in the Park’s Schedule FAQ\n\nFree Beginners Swing Lessons | Noon to 12:30 pm\nLindy in the Park offers a free weekly beginning swing dance lesson, taught by Hep Jen. The lessons are short, easy and fun and then you can practice your new steps with the whole group until 2 pm.\nNo partner is required, as they rotate leaders and followers throughout the lesson.\nUpdated 7/8/2021 – Event info last checked via website.\n\nUpcoming “Lindy in the Park” Swing Dance Party (Golden Gate Park) Events\nSun 11/8 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/15 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/22 “Lindy in the Park” Swing Da...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/20160821-LITP20TH-321.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644403",
    "title": "“Free Oakland Up” Market: Shop for Free Treasures (Every Friday-Sunday)",
    "start": "2026-11-29T12:00:00-08:00",
@@ -69200,6 +70450,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/Zitkala-flyer-image.jpg",
    "categories": [
     "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645530",
+   "title": "Golden Gate Park Sunday Roller Disco Party",
+   "start": "2026-11-29T13:00:00-08:00",
+   "end": "2026-11-29T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Skatin’ Place",
+   "address": "6th Ave. and Kennedy Drive, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-306/",
+   "ticket_url": "https://goldengatepark.com/6th-avenue-skate-park.html",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Golden Gate Park Sunday Roller Disco Party (SF)\nElliot Dumonde via D. Miles\nThere is a place in San Francisco’s Golden Gate Park that is heaven for Bay Area inline skaters and roller skaters who like to boogie to the funky beat on wheels.\nThe Godfather of Skate brings his mobile DJ unit and plays groovy tunes for you to skate to. On most Sundays, there’s usually someone willing to teach you a few choreographed roller disco dance moves.\nGolden Gate Park Sunday Roller Disco Party\nMost Sundays | Noon to 5 pm\n6th Ave & Kennedy Drive, Golden Gate Park\nFREE\nThe area is is called, “Skatin’ Place.” It is located at 6th Avenue and Kennedy Drive in the park. It has been officially dedicated and recognized as the home for outdoor roller skating in the San Francisco.\nSkatin’ Place is available for skating every day. The group skates there every Sunday from noon to 5 pm. Skaters gather on Wednesdays from about 3 to 5 pm and on Saturdays from 1 to 5 pm. During Daylight Saving Time, they extend the time to 6 pm.\nUpdated 5/24/21 – Event confirmed via website.\n\nUpcoming Golden Gate Park Sunday Roller Disco Party (SF) Events\nSun 11/8 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/15 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/22 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/29 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/6 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/13 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/20 Golden Gate Park Sunday R...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
+   "categories": [
+    "Outdoors"
    ],
    "notes": []
   },
@@ -70885,6 +72159,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645571",
+   "title": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries",
+   "start": "2026-12-06T10:00:00-08:00",
+   "end": "2026-12-06T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Manny’s",
+   "address": "3092 16th St San Francisco, CA 94103",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/mannys-neighborhood-trash-cleanup-w-1-beer-free-yoga-classes-free-fries-sf-161/",
+   "ticket_url": "https://refuserefusesf.org/cleanups",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries (SF)\nManny's\nTired? Sunday Funday. Wired? Sunday done-day. Make our neighborhood better, brunch with cool people (sorry not sorry, we’re biased), get deals to some fave local spots, and wrap it up before the Sunday Scaries hit with an easy hour of picking up trash around our neighborhood with friends and the community!\nRSVP to save your spot\nSF Public Works, TogetherSF, Shine On SF, and Manny’s is hosting a weekly neighborhood trash pick up to help keep our area clean and neat.\n\nBy picking up with us, you’ll get a special certificate that includes a whole host of neighborhood discounts valid that day, including:\n\n$3 well highballs and $1 PBRs – Blondies\nHalf price shots (specific shots only) – Bond Bar\nFree Tasty Small Fries – Beehive Bar\nOne free Yoga Class – HAUM Yoga\nOne free Yoga Class – Love Story Yoga\n2 for 1 empanadas – Venga Empanadas\nOne drink ticket (beer or wine) – Curio Bar\nFree Small Hot Chocolate – Dandelion Chocolate\n2 for 1 draft beer – Standard Deviant\nFrozen margarita with any additional purchase – West of Pecos\nPlease note that the discounts might vary!\n\nWe’ll provide the gear. All you need to bring is yourself(and maybe the two or three friends you get to sign up to enjoy those 2-1 empanadas). When we’re done, and before you settle in for those dollar margs, join us for brunch to support Farming Hope – the non-profit restaurant at Manny’s! Don’t forget to bring layers and comfo...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/07/thumbnail_IMG_6786.jpg",
+   "categories": [
+    "Free Food"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1636007",
    "title": "“Castro Art Mart” Mini Block Party on Noe St. (Every First Sunday)",
    "start": "2026-12-06T11:00:00-08:00",
@@ -70928,6 +72226,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/12/Screenshot-at-Oct-03-18-45-08.png",
    "categories": [
     "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645561",
+   "title": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)",
+   "start": "2026-12-06T11:00:00-08:00",
+   "end": "2026-12-06T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "JFK Drive Lindy Hop Spot",
+   "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-282/",
+   "ticket_url": "http://www.lindyinthepark.com/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)\nLindy in the Park\nGet ready to swing in Golden Gate Park every sunny Sunday at “Lindy in the Park,” a weekly free event near the de Young Museum, when the streets of Golden Gate Park are closed to traffic and the dancers take over.\nThis in person event resumed June 20, 2021\nLindy in the Park | Free Outdoor Swing Dance & Lessons\nEvery Sunday | 11 am to 2 pm\nJFK Dr. btwn 8th and 10th, behind the De Young Museum, Golden Gate Park, SF\nFREE\nRain and Bay to Breakers cancels, but other than that, Lindy in the Park takes place every Sunday – even on holidays – so even if New Year’s Day, Christmas, or Fourth of July falls on a Sunday, they’ll be out there dancing. On the very rare occasion when they cancel, they’ll make a new posting on their website, usually by 10am on Sunday. Lindy in the Park’s Schedule FAQ\n\nFree Beginners Swing Lessons | Noon to 12:30 pm\nLindy in the Park offers a free weekly beginning swing dance lesson, taught by Hep Jen. The lessons are short, easy and fun and then you can practice your new steps with the whole group until 2 pm.\nNo partner is required, as they rotate leaders and followers throughout the lesson.\nUpdated 7/8/2021 – Event info last checked via website.\n\nUpcoming “Lindy in the Park” Swing Dance Party (Golden Gate Park) Events\nSun 11/8 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/15 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/22 “Lindy in the Park” Swing Da...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/20160821-LITP20TH-321.jpg",
+   "categories": [
+    "Theater Performance"
    ],
    "notes": []
   },
@@ -71000,6 +72322,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/ONeill-barn.jpg",
    "categories": [
     "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645532",
+   "title": "Golden Gate Park Sunday Roller Disco Party",
+   "start": "2026-12-06T13:00:00-08:00",
+   "end": "2026-12-06T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Skatin’ Place",
+   "address": "6th Ave. and Kennedy Drive, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-307/",
+   "ticket_url": "https://goldengatepark.com/6th-avenue-skate-park.html",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Golden Gate Park Sunday Roller Disco Party (SF)\nElliot Dumonde via D. Miles\nThere is a place in San Francisco’s Golden Gate Park that is heaven for Bay Area inline skaters and roller skaters who like to boogie to the funky beat on wheels.\nThe Godfather of Skate brings his mobile DJ unit and plays groovy tunes for you to skate to. On most Sundays, there’s usually someone willing to teach you a few choreographed roller disco dance moves.\nGolden Gate Park Sunday Roller Disco Party\nMost Sundays | Noon to 5 pm\n6th Ave & Kennedy Drive, Golden Gate Park\nFREE\nThe area is is called, “Skatin’ Place.” It is located at 6th Avenue and Kennedy Drive in the park. It has been officially dedicated and recognized as the home for outdoor roller skating in the San Francisco.\nSkatin’ Place is available for skating every day. The group skates there every Sunday from noon to 5 pm. Skaters gather on Wednesdays from about 3 to 5 pm and on Saturdays from 1 to 5 pm. During Daylight Saving Time, they extend the time to 6 pm.\nUpdated 5/24/21 – Event confirmed via website.\n\nUpcoming Golden Gate Park Sunday Roller Disco Party (SF) Events\nSun 11/8 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/15 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/22 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/29 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/6 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/13 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/20 Golden Gate Park Sunday R...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
+   "categories": [
+    "Outdoors"
    ],
    "notes": []
   },
@@ -72325,6 +73671,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645573",
+   "title": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries",
+   "start": "2026-12-13T10:00:00-08:00",
+   "end": "2026-12-13T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Manny’s",
+   "address": "3092 16th St San Francisco, CA 94103",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/mannys-neighborhood-trash-cleanup-w-1-beer-free-yoga-classes-free-fries-sf-162/",
+   "ticket_url": "https://refuserefusesf.org/cleanups",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries (SF)\nManny's\nTired? Sunday Funday. Wired? Sunday done-day. Make our neighborhood better, brunch with cool people (sorry not sorry, we’re biased), get deals to some fave local spots, and wrap it up before the Sunday Scaries hit with an easy hour of picking up trash around our neighborhood with friends and the community!\nRSVP to save your spot\nSF Public Works, TogetherSF, Shine On SF, and Manny’s is hosting a weekly neighborhood trash pick up to help keep our area clean and neat.\n\nBy picking up with us, you’ll get a special certificate that includes a whole host of neighborhood discounts valid that day, including:\n\n$3 well highballs and $1 PBRs – Blondies\nHalf price shots (specific shots only) – Bond Bar\nFree Tasty Small Fries – Beehive Bar\nOne free Yoga Class – HAUM Yoga\nOne free Yoga Class – Love Story Yoga\n2 for 1 empanadas – Venga Empanadas\nOne drink ticket (beer or wine) – Curio Bar\nFree Small Hot Chocolate – Dandelion Chocolate\n2 for 1 draft beer – Standard Deviant\nFrozen margarita with any additional purchase – West of Pecos\nPlease note that the discounts might vary!\n\nWe’ll provide the gear. All you need to bring is yourself(and maybe the two or three friends you get to sign up to enjoy those 2-1 empanadas). When we’re done, and before you settle in for those dollar margs, join us for brunch to support Farming Hope – the non-profit restaurant at Manny’s! Don’t forget to bring layers and comfo...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/07/thumbnail_IMG_6786.jpg",
+   "categories": [
+    "Free Food"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641580",
    "title": "2026 Holiday Craft Fair: Handmade Gifts + Free Hot Cider",
    "start": "2026-12-13T11:00:00-08:00",
@@ -72373,6 +73743,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645563",
+   "title": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)",
+   "start": "2026-12-13T11:00:00-08:00",
+   "end": "2026-12-13T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "JFK Drive Lindy Hop Spot",
+   "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-283/",
+   "ticket_url": "http://www.lindyinthepark.com/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)\nLindy in the Park\nGet ready to swing in Golden Gate Park every sunny Sunday at “Lindy in the Park,” a weekly free event near the de Young Museum, when the streets of Golden Gate Park are closed to traffic and the dancers take over.\nThis in person event resumed June 20, 2021\nLindy in the Park | Free Outdoor Swing Dance & Lessons\nEvery Sunday | 11 am to 2 pm\nJFK Dr. btwn 8th and 10th, behind the De Young Museum, Golden Gate Park, SF\nFREE\nRain and Bay to Breakers cancels, but other than that, Lindy in the Park takes place every Sunday – even on holidays – so even if New Year’s Day, Christmas, or Fourth of July falls on a Sunday, they’ll be out there dancing. On the very rare occasion when they cancel, they’ll make a new posting on their website, usually by 10am on Sunday. Lindy in the Park’s Schedule FAQ\n\nFree Beginners Swing Lessons | Noon to 12:30 pm\nLindy in the Park offers a free weekly beginning swing dance lesson, taught by Hep Jen. The lessons are short, easy and fun and then you can practice your new steps with the whole group until 2 pm.\nNo partner is required, as they rotate leaders and followers throughout the lesson.\nUpdated 7/8/2021 – Event info last checked via website.\n\nUpcoming “Lindy in the Park” Swing Dance Party (Golden Gate Park) Events\nSun 11/8 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/15 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/22 “Lindy in the Park” Swing Da...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/20160821-LITP20TH-321.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644407",
    "title": "“Free Oakland Up” Market: Shop for Free Treasures (Every Friday-Sunday)",
    "start": "2026-12-13T12:00:00-08:00",
@@ -72392,6 +73786,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/05/581653070_18545957236056522_1669145355429653226_n.jpg",
    "categories": [
     "Community"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645534",
+   "title": "Golden Gate Park Sunday Roller Disco Party",
+   "start": "2026-12-13T13:00:00-08:00",
+   "end": "2026-12-13T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Skatin’ Place",
+   "address": "6th Ave. and Kennedy Drive, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-308/",
+   "ticket_url": "https://goldengatepark.com/6th-avenue-skate-park.html",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Golden Gate Park Sunday Roller Disco Party (SF)\nElliot Dumonde via D. Miles\nThere is a place in San Francisco’s Golden Gate Park that is heaven for Bay Area inline skaters and roller skaters who like to boogie to the funky beat on wheels.\nThe Godfather of Skate brings his mobile DJ unit and plays groovy tunes for you to skate to. On most Sundays, there’s usually someone willing to teach you a few choreographed roller disco dance moves.\nGolden Gate Park Sunday Roller Disco Party\nMost Sundays | Noon to 5 pm\n6th Ave & Kennedy Drive, Golden Gate Park\nFREE\nThe area is is called, “Skatin’ Place.” It is located at 6th Avenue and Kennedy Drive in the park. It has been officially dedicated and recognized as the home for outdoor roller skating in the San Francisco.\nSkatin’ Place is available for skating every day. The group skates there every Sunday from noon to 5 pm. Skaters gather on Wednesdays from about 3 to 5 pm and on Saturdays from 1 to 5 pm. During Daylight Saving Time, they extend the time to 6 pm.\nUpdated 5/24/21 – Event confirmed via website.\n\nUpcoming Golden Gate Park Sunday Roller Disco Party (SF) Events\nSun 11/8 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/15 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/22 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/29 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/6 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/13 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/20 Golden Gate Park Sunday R...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
+   "categories": [
+    "Outdoors"
    ],
    "notes": []
   },
@@ -73139,6 +74557,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645575",
+   "title": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries",
+   "start": "2026-12-20T10:00:00-08:00",
+   "end": "2026-12-20T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Manny’s",
+   "address": "3092 16th St San Francisco, CA 94103",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/mannys-neighborhood-trash-cleanup-w-1-beer-free-yoga-classes-free-fries-sf-163/",
+   "ticket_url": "https://refuserefusesf.org/cleanups",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries (SF)\nManny's\nTired? Sunday Funday. Wired? Sunday done-day. Make our neighborhood better, brunch with cool people (sorry not sorry, we’re biased), get deals to some fave local spots, and wrap it up before the Sunday Scaries hit with an easy hour of picking up trash around our neighborhood with friends and the community!\nRSVP to save your spot\nSF Public Works, TogetherSF, Shine On SF, and Manny’s is hosting a weekly neighborhood trash pick up to help keep our area clean and neat.\n\nBy picking up with us, you’ll get a special certificate that includes a whole host of neighborhood discounts valid that day, including:\n\n$3 well highballs and $1 PBRs – Blondies\nHalf price shots (specific shots only) – Bond Bar\nFree Tasty Small Fries – Beehive Bar\nOne free Yoga Class – HAUM Yoga\nOne free Yoga Class – Love Story Yoga\n2 for 1 empanadas – Venga Empanadas\nOne drink ticket (beer or wine) – Curio Bar\nFree Small Hot Chocolate – Dandelion Chocolate\n2 for 1 draft beer – Standard Deviant\nFrozen margarita with any additional purchase – West of Pecos\nPlease note that the discounts might vary!\n\nWe’ll provide the gear. All you need to bring is yourself(and maybe the two or three friends you get to sign up to enjoy those 2-1 empanadas). When we’re done, and before you settle in for those dollar margs, join us for brunch to support Farming Hope – the non-profit restaurant at Manny’s! Don’t forget to bring layers and comfo...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/07/thumbnail_IMG_6786.jpg",
+   "categories": [
+    "Free Food"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645565",
+   "title": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)",
+   "start": "2026-12-20T11:00:00-08:00",
+   "end": "2026-12-20T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "JFK Drive Lindy Hop Spot",
+   "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-284/",
+   "ticket_url": "http://www.lindyinthepark.com/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)\nLindy in the Park\nGet ready to swing in Golden Gate Park every sunny Sunday at “Lindy in the Park,” a weekly free event near the de Young Museum, when the streets of Golden Gate Park are closed to traffic and the dancers take over.\nThis in person event resumed June 20, 2021\nLindy in the Park | Free Outdoor Swing Dance & Lessons\nEvery Sunday | 11 am to 2 pm\nJFK Dr. btwn 8th and 10th, behind the De Young Museum, Golden Gate Park, SF\nFREE\nRain and Bay to Breakers cancels, but other than that, Lindy in the Park takes place every Sunday – even on holidays – so even if New Year’s Day, Christmas, or Fourth of July falls on a Sunday, they’ll be out there dancing. On the very rare occasion when they cancel, they’ll make a new posting on their website, usually by 10am on Sunday. Lindy in the Park’s Schedule FAQ\n\nFree Beginners Swing Lessons | Noon to 12:30 pm\nLindy in the Park offers a free weekly beginning swing dance lesson, taught by Hep Jen. The lessons are short, easy and fun and then you can practice your new steps with the whole group until 2 pm.\nNo partner is required, as they rotate leaders and followers throughout the lesson.\nUpdated 7/8/2021 – Event info last checked via website.\n\nUpcoming “Lindy in the Park” Swing Dance Party (Golden Gate Park) Events\nSun 11/8 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/15 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/22 “Lindy in the Park” Swing Da...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/20160821-LITP20TH-321.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644409",
    "title": "“Free Oakland Up” Market: Shop for Free Treasures (Every Friday-Sunday)",
    "start": "2026-12-20T12:00:00-08:00",
@@ -73158,6 +74624,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/05/581653070_18545957236056522_1669145355429653226_n.jpg",
    "categories": [
     "Community"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645536",
+   "title": "Golden Gate Park Sunday Roller Disco Party",
+   "start": "2026-12-20T13:00:00-08:00",
+   "end": "2026-12-20T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Skatin’ Place",
+   "address": "6th Ave. and Kennedy Drive, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-309/",
+   "ticket_url": "https://goldengatepark.com/6th-avenue-skate-park.html",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Golden Gate Park Sunday Roller Disco Party (SF)\nElliot Dumonde via D. Miles\nThere is a place in San Francisco’s Golden Gate Park that is heaven for Bay Area inline skaters and roller skaters who like to boogie to the funky beat on wheels.\nThe Godfather of Skate brings his mobile DJ unit and plays groovy tunes for you to skate to. On most Sundays, there’s usually someone willing to teach you a few choreographed roller disco dance moves.\nGolden Gate Park Sunday Roller Disco Party\nMost Sundays | Noon to 5 pm\n6th Ave & Kennedy Drive, Golden Gate Park\nFREE\nThe area is is called, “Skatin’ Place.” It is located at 6th Avenue and Kennedy Drive in the park. It has been officially dedicated and recognized as the home for outdoor roller skating in the San Francisco.\nSkatin’ Place is available for skating every day. The group skates there every Sunday from noon to 5 pm. Skaters gather on Wednesdays from about 3 to 5 pm and on Saturdays from 1 to 5 pm. During Daylight Saving Time, they extend the time to 6 pm.\nUpdated 5/24/21 – Event confirmed via website.\n\nUpcoming Golden Gate Park Sunday Roller Disco Party (SF) Events\nSun 11/8 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/15 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/22 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/29 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/6 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/13 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/20 Golden Gate Park Sunday R...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
+   "categories": [
+    "Outdoors"
    ],
    "notes": []
   },
@@ -73667,6 +75157,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645577",
+   "title": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries",
+   "start": "2026-12-27T10:00:00-08:00",
+   "end": "2026-12-27T11:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Manny’s",
+   "address": "3092 16th St San Francisco, CA 94103",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/mannys-neighborhood-trash-cleanup-w-1-beer-free-yoga-classes-free-fries-sf-164/",
+   "ticket_url": "https://refuserefusesf.org/cleanups",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga Classes, Free Fries (SF)\nManny's\nTired? Sunday Funday. Wired? Sunday done-day. Make our neighborhood better, brunch with cool people (sorry not sorry, we’re biased), get deals to some fave local spots, and wrap it up before the Sunday Scaries hit with an easy hour of picking up trash around our neighborhood with friends and the community!\nRSVP to save your spot\nSF Public Works, TogetherSF, Shine On SF, and Manny’s is hosting a weekly neighborhood trash pick up to help keep our area clean and neat.\n\nBy picking up with us, you’ll get a special certificate that includes a whole host of neighborhood discounts valid that day, including:\n\n$3 well highballs and $1 PBRs – Blondies\nHalf price shots (specific shots only) – Bond Bar\nFree Tasty Small Fries – Beehive Bar\nOne free Yoga Class – HAUM Yoga\nOne free Yoga Class – Love Story Yoga\n2 for 1 empanadas – Venga Empanadas\nOne drink ticket (beer or wine) – Curio Bar\nFree Small Hot Chocolate – Dandelion Chocolate\n2 for 1 draft beer – Standard Deviant\nFrozen margarita with any additional purchase – West of Pecos\nPlease note that the discounts might vary!\n\nWe’ll provide the gear. All you need to bring is yourself(and maybe the two or three friends you get to sign up to enjoy those 2-1 empanadas). When we’re done, and before you settle in for those dollar margs, join us for brunch to support Farming Hope – the non-profit restaurant at Manny’s! Don’t forget to bring layers and comfo...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/07/thumbnail_IMG_6786.jpg",
+   "categories": [
+    "Free Food"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645567",
+   "title": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)",
+   "start": "2026-12-27T11:00:00-08:00",
+   "end": "2026-12-27T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "JFK Drive Lindy Hop Spot",
+   "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-285/",
+   "ticket_url": "http://www.lindyinthepark.com/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)\nLindy in the Park\nGet ready to swing in Golden Gate Park every sunny Sunday at “Lindy in the Park,” a weekly free event near the de Young Museum, when the streets of Golden Gate Park are closed to traffic and the dancers take over.\nThis in person event resumed June 20, 2021\nLindy in the Park | Free Outdoor Swing Dance & Lessons\nEvery Sunday | 11 am to 2 pm\nJFK Dr. btwn 8th and 10th, behind the De Young Museum, Golden Gate Park, SF\nFREE\nRain and Bay to Breakers cancels, but other than that, Lindy in the Park takes place every Sunday – even on holidays – so even if New Year’s Day, Christmas, or Fourth of July falls on a Sunday, they’ll be out there dancing. On the very rare occasion when they cancel, they’ll make a new posting on their website, usually by 10am on Sunday. Lindy in the Park’s Schedule FAQ\n\nFree Beginners Swing Lessons | Noon to 12:30 pm\nLindy in the Park offers a free weekly beginning swing dance lesson, taught by Hep Jen. The lessons are short, easy and fun and then you can practice your new steps with the whole group until 2 pm.\nNo partner is required, as they rotate leaders and followers throughout the lesson.\nUpdated 7/8/2021 – Event info last checked via website.\n\nUpcoming “Lindy in the Park” Swing Dance Party (Golden Gate Park) Events\nSun 11/8 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/15 “Lindy in the Park” Swing Dance Party (Golden Gate Park)Sun 11/22 “Lindy in the Park” Swing Da...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/20160821-LITP20TH-321.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1639511",
    "title": "SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)",
    "start": "2026-12-27T12:00:00-08:00",
@@ -73684,6 +75222,30 @@
    "sold_out": false,
    "description": "SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)\nGreat Highway Park\nCome flow with us every 4th Sundays! After the community yoga class, enjoy a cup of coffee on us at @javabeachsf to warm you up from our San Francisco summer weather.\n12pm, Judah and Great Highway Park\nBYO mat and coffee mug. No registration required, just show up and enjoy yoga to the sound of waves.\n\nSundays at the Beach are possible thanks to a grant award from @avenuegreenlight and help from our friends across the community like @yogabeachsf for helping us bring weekly joy the neighborhood.\n\nView this post on Instagram\n\nA post shared by Great Highway Park (@greathighwaypark)\n\nUpcoming SF’s “Sundays at the Beach” Free Yoga Day (Great Highway) Events\nSun 10/25 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Sun 11/22 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Sun 12/27 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/08/362052454_1658632787980892_4431123144552449366_n.jpeg",
+   "categories": [
+    "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645538",
+   "title": "Golden Gate Park Sunday Roller Disco Party",
+   "start": "2026-12-27T13:00:00-08:00",
+   "end": "2026-12-27T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Skatin’ Place",
+   "address": "6th Ave. and Kennedy Drive, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-310/",
+   "ticket_url": "https://goldengatepark.com/6th-avenue-skate-park.html",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Golden Gate Park Sunday Roller Disco Party (SF)\nElliot Dumonde via D. Miles\nThere is a place in San Francisco’s Golden Gate Park that is heaven for Bay Area inline skaters and roller skaters who like to boogie to the funky beat on wheels.\nThe Godfather of Skate brings his mobile DJ unit and plays groovy tunes for you to skate to. On most Sundays, there’s usually someone willing to teach you a few choreographed roller disco dance moves.\nGolden Gate Park Sunday Roller Disco Party\nMost Sundays | Noon to 5 pm\n6th Ave & Kennedy Drive, Golden Gate Park\nFREE\nThe area is is called, “Skatin’ Place.” It is located at 6th Avenue and Kennedy Drive in the park. It has been officially dedicated and recognized as the home for outdoor roller skating in the San Francisco.\nSkatin’ Place is available for skating every day. The group skates there every Sunday from noon to 5 pm. Skaters gather on Wednesdays from about 3 to 5 pm and on Saturdays from 1 to 5 pm. During Daylight Saving Time, they extend the time to 6 pm.\nUpdated 5/24/21 – Event confirmed via website.\n\nUpcoming Golden Gate Park Sunday Roller Disco Party (SF) Events\nSun 11/8 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/15 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/22 Golden Gate Park Sunday Roller Disco Party (SF)Sun 11/29 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/6 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/13 Golden Gate Park Sunday Roller Disco Party (SF)Sun 12/20 Golden Gate Park Sunday R...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
    "categories": [
     "Outdoors"
    ],
@@ -79778,6 +81340,28 @@
    "notes": []
   },
   {
+   "source": "sfrecpark-main",
+   "source_id": "224ec13db41bab47",
+   "title": "Chair Yoga",
+   "start": "2027-01-01T14:00:00-08:00",
+   "end": "2027-01-01T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Sunset Dunes - Great Highway",
+   "address": "between Lincoln and Sloat San Francisco CA 94122",
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Sunset Dunes on the first Sunday of the month for Chair Yoga at 1400 Upper Great Highway from 2:00 pm - 3:00 pm https://sfrecpark.org/calendar.aspx?EID=10478",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
    "source": "ybgfestival",
    "source_id": "2de19567a308725f",
    "title": "Bhangra & Beats Night Market",
@@ -79850,7 +81434,6 @@
     "1620197": "2026-09-28T17:52:26",
     "1620938": "2026-09-28T17:54:35",
     "1621181": "2026-10-25T16:08:45",
-    "1621693": "2026-09-18T23:56:13",
     "1622075": "2026-09-20T14:25:35",
     "1622194": "2026-09-20T14:25:04",
     "1622670": "2026-10-01T16:58:21",
@@ -79858,7 +81441,6 @@
     "1623262": "2026-10-01T16:59:19",
     "1624083": "2026-10-01T16:58:23",
     "1624281": "2026-09-28T17:57:39",
-    "1624826": "2026-09-19T00:32:32",
     "1625066": "2026-09-22T12:49:07",
     "1625167": "2026-09-28T17:50:13",
     "1626032": "2026-09-30T21:42:49",
@@ -79870,22 +81452,17 @@
     "1627907": "2026-09-28T18:03:09",
     "1628129": "2026-09-22T12:57:02",
     "1628183": "2026-10-18T17:59:30",
-    "1629325": "2026-09-19T00:11:49",
     "1629331": "2026-09-22T12:56:04",
-    "1629685": "2026-09-19T00:12:02",
     "1629716": "2026-09-22T12:57:33",
-    "1629850": "2026-09-19T00:24:03",
     "1630066": "2026-09-20T14:38:28",
     "1630135": "2026-09-22T13:01:02",
     "1630616": "2026-09-22T13:03:13",
-    "1630753": "2026-09-18T16:01:41",
     "1630870": "2026-09-22T13:15:49",
     "1631056": "2026-09-22T13:01:52",
     "1631183": "2026-09-27T00:29:55",
     "1631211": "2026-09-28T18:07:24",
     "1631335": "2026-09-22T12:35:18",
     "1631372": "2026-10-18T18:30:19",
-    "1631398": "2026-09-19T00:24:40",
     "1631422": "2026-09-28T18:00:50",
     "1631426": "2026-09-22T12:44:24",
     "1631613": "2026-10-18T17:56:07",
@@ -79909,8 +81486,6 @@
     "1632472": "2026-09-28T17:50:19",
     "1632586": "2026-09-22T13:02:40",
     "1632616": "2026-09-23T10:48:48",
-    "1632622": "2026-09-19T00:24:34",
-    "1632631": "2026-09-18T16:02:15",
     "1632727": "2026-09-27T00:13:04",
     "1632760": "2026-10-17T18:34:04",
     "1632766": "2026-09-20T14:38:29",
@@ -79918,28 +81493,21 @@
     "1633176": "2026-09-22T12:35:21",
     "1633345": "2026-09-22T13:07:14",
     "1633351": "2026-09-22T13:14:30",
-    "1633397": "2026-09-19T00:31:49",
-    "1633422": "2026-09-19T00:31:56",
     "1633439": "2026-09-27T00:29:38",
     "1633442": "2026-09-22T12:43:13",
     "1633524": "2026-09-27T00:21:27",
     "1633552": "2026-09-27T00:02:57",
     "1633564": "2026-09-27T00:29:28",
     "1633570": "2026-09-20T14:38:28",
-    "1633573": "2026-09-19T00:32:36",
     "1633628": "2026-09-22T12:52:31",
-    "1633648": "2026-09-19T00:24:13",
     "1633666": "2026-09-20T14:32:50",
-    "1633692": "2026-09-19T00:16:00",
     "1633700": "2026-09-22T13:02:11",
     "1633706": "2026-09-22T12:42:33",
-    "1633709": "2026-09-19T00:32:48",
     "1633712": "2026-09-22T12:42:36",
     "1633728": "2026-09-22T13:07:28",
     "1633831": "2026-09-20T14:38:28",
     "1633862": "2026-09-28T17:52:33",
     "1633865": "2026-10-18T18:00:30",
-    "1633909": "2026-09-19T00:31:37",
     "1633919": "2026-09-22T13:13:41",
     "1634059": "2026-09-22T12:35:23",
     "1634083": "2026-09-28T18:07:49",
@@ -79977,13 +81545,10 @@
     "1634695": "2026-09-20T14:38:29",
     "1634701": "2026-09-24T21:35:54",
     "1634764": "2026-09-27T00:02:54",
-    "1634811": "2026-09-18T16:01:38",
     "1634860": "2026-09-28T17:51:02",
-    "1634890": "2026-09-19T00:32:42",
     "1634918": "2026-09-22T13:13:34",
     "1634921": "2026-09-27T00:03:46",
     "1634963": "2026-09-22T13:17:25",
-    "1634972": "2026-09-19T00:10:12",
     "1634980": "2026-10-17T18:34:07",
     "1635023": "2026-09-20T14:37:55",
     "1635026": "2026-09-22T12:48:18",
@@ -80007,8 +81572,6 @@
     "1635728": "2026-09-27T00:03:48",
     "1635731": "2026-09-22T13:02:24",
     "1635734": "2026-09-20T14:46:49",
-    "1635787": "2026-09-19T00:15:52",
-    "1635790": "2026-09-19T00:32:01",
     "1635817": "2026-09-22T12:58:47",
     "1635820": "2026-09-22T12:37:36",
     "1635869": "2026-09-22T12:35:30",
@@ -80021,23 +81584,15 @@
     "1635951": "2026-09-28T18:03:12",
     "1635957": "2026-09-22T12:37:02",
     "1635968": "2026-09-27T00:13:55",
-    "1635980": "2026-09-19T00:24:27",
     "1635986": "2026-09-22T13:00:52",
-    "1635989": "2026-09-18T16:02:33",
     "1635992": "2026-09-27T00:04:17",
-    "1636049": "2026-09-19T00:24:32",
     "1636085": "2026-09-22T13:02:44",
-    "1636091": "2026-09-19T00:31:29",
-    "1636101": "2026-09-19T00:24:48",
-    "1636104": "2026-09-19T00:31:31",
     "1636115": "2026-09-22T12:36:03",
     "1636118": "2026-09-22T12:58:00",
     "1636135": "2026-09-28T17:54:44",
     "1636160": "2026-09-27T00:13:36",
     "1636164": "2026-09-27T00:13:47",
-    "1636167": "2026-09-19T00:12:00",
     "1636170": "2026-09-22T12:52:34",
-    "1636173": "2026-09-19T00:09:48",
     "1636185": "2026-09-22T13:01:05",
     "1636191": "2026-09-22T12:36:00",
     "1636197": "2026-09-20T14:37:55",
@@ -80050,12 +81605,8 @@
     "1636471": "2026-09-20T14:27:42",
     "1636480": "2026-09-22T12:49:13",
     "1636493": "2026-09-22T12:51:28",
-    "1636496": "2026-09-19T00:24:43",
-    "1636499": "2026-09-19T00:12:40",
-    "1636505": "2026-09-18T16:01:32",
     "1636508": "2026-09-28T17:41:29",
     "1636511": "2026-09-23T18:02:14",
-    "1636514": "2026-09-18T16:01:36",
     "1636517": "2026-09-22T13:02:49",
     "1636528": "2026-09-22T12:46:27",
     "1636557": "2026-09-23T01:17:51",
@@ -80072,18 +81623,15 @@
     "1636642": "2026-09-27T00:29:36",
     "1636648": "2026-09-23T01:16:40",
     "1636651": "2026-09-20T14:48:06",
-    "1636654": "2026-09-19T00:32:39",
     "1636658": "2026-09-22T12:36:33",
     "1636666": "2026-09-20T14:46:52",
     "1636669": "2026-09-27T00:15:03",
     "1636675": "2026-09-22T12:43:51",
     "1636678": "2026-09-22T13:17:12",
-    "1636711": "2026-09-19T00:24:45",
     "1636714": "2026-10-18T17:56:10",
     "1636716": "2026-09-28T18:04:31",
     "1636719": "2026-09-23T10:54:01",
     "1636772": "2026-09-22T13:17:28",
-    "1636781": "2026-09-19T00:11:00",
     "1636788": "2026-09-20T14:27:07",
     "1636791": "2026-10-30T21:28:16",
     "1636795": "2026-10-18T18:20:35",
@@ -80092,17 +81640,14 @@
     "1636811": "2026-09-23T01:13:42",
     "1636820": "2026-09-22T12:42:53",
     "1636829": "2026-09-22T13:08:41",
-    "1636837": "2026-09-19T00:31:42",
     "1636843": "2026-09-23T10:48:04",
     "1636850": "2026-09-28T18:03:18",
     "1636860": "2026-09-20T14:47:29",
-    "1636869": "2026-09-19T00:32:46",
     "1636876": "2026-09-22T05:38:57",
     "1636879": "2026-09-20T14:32:50",
     "1636902": "2026-09-22T13:13:25",
     "1636905": "2026-09-23T10:51:54",
     "1636908": "2026-09-22T12:48:26",
-    "1636911": "2026-09-18T16:02:09",
     "1636916": "2026-09-22T12:35:40",
     "1636919": "2026-09-28T18:05:29",
     "1636922": "2026-09-22T13:00:59",
@@ -80112,7 +81657,6 @@
     "1636965": "2026-09-25T13:54:40",
     "1636970": "2026-09-22T13:13:28",
     "1636973": "2026-09-25T13:52:37",
-    "1636976": "2026-09-20T08:29:17",
     "1636979": "2026-09-22T12:58:42",
     "1636981": "2026-10-31T19:14:42",
     "1636984": "2026-09-20T14:47:32",
@@ -80134,12 +81678,10 @@
     "1637058": "2026-09-28T17:59:55",
     "1637062": "2026-09-27T00:28:31",
     "1637070": "2026-09-21T08:38:25",
-    "1637073": "2026-09-19T00:13:52",
     "1637082": "2026-09-28T17:25:15",
     "1637085": "2026-09-22T13:15:54",
     "1637092": "2026-09-25T13:53:31",
     "1637096": "2026-09-22T12:53:45",
-    "1637099": "2026-09-19T00:31:39",
     "1637102": "2026-09-22T13:03:25",
     "1637105": "2026-09-27T00:09:31",
     "1637108": "2026-09-22T12:45:39",
@@ -80153,7 +81695,6 @@
     "1637153": "2026-09-20T14:46:41",
     "1637165": "2026-09-20T14:27:43",
     "1637168": "2026-09-22T12:51:56",
-    "1637171": "2026-09-19T00:13:41",
     "1637188": "2026-09-28T17:46:37",
     "1637204": "2026-10-25T16:40:31",
     "1637224": "2026-09-22T12:43:58",
@@ -80165,11 +81706,9 @@
     "1637248": "2026-09-28T18:05:22",
     "1637251": "2026-09-28T17:50:22",
     "1637276": "2026-09-28T17:26:46",
-    "1637279": "2026-09-19T00:14:40",
     "1637314": "2026-09-22T13:17:07",
     "1637332": "2026-09-20T14:48:12",
     "1637343": "2026-10-01T00:32:35",
-    "1637358": "2026-09-18T16:01:20",
     "1637361": "2026-10-17T18:34:09",
     "1637364": "2026-09-22T12:35:33",
     "1637370": "2026-09-22T12:55:58",
@@ -80177,7 +81716,6 @@
     "1637376": "2026-09-22T12:57:16",
     "1637379": "2026-09-22T13:00:54",
     "1637382": "2026-09-22T12:47:13",
-    "1637385": "2026-09-19T00:24:18",
     "1637387": "2026-09-22T12:37:06",
     "1637393": "2026-09-20T14:47:09",
     "1637396": "2026-09-23T10:49:19",
@@ -80195,13 +81733,8 @@
     "1637444": "2026-09-22T13:02:27",
     "1637447": "2026-09-22T12:43:48",
     "1637454": "2026-09-22T12:47:07",
-    "1637462": "2026-09-19T00:14:21",
-    "1637471": "2026-09-18T15:32:24",
-    "1637474": "2026-09-19T00:15:14",
     "1637490": "2026-09-23T01:10:29",
-    "1637493": "2026-09-19T00:34:39",
     "1637496": "2026-09-22T13:02:31",
-    "1637499": "2026-09-19T00:23:57",
     "1637502": "2026-09-22T12:44:21",
     "1637505": "2026-09-22T13:16:49",
     "1637508": "2026-09-23T05:55:51",
@@ -80210,8 +81743,6 @@
     "1637516": "2026-09-23T01:16:53",
     "1637519": "2026-09-28T18:04:35",
     "1637522": "2026-10-18T17:55:55",
-    "1637528": "2026-09-18T23:54:17",
-    "1637534": "2026-09-19T00:09:21",
     "1637555": "2026-10-18T18:14:04",
     "1637573": "2026-09-27T00:26:59",
     "1637579": "2026-09-28T17:51:50",
@@ -81667,6 +83198,21 @@
     "1645481": "2026-11-01T17:14:18",
     "1645495": "2026-11-01T22:27:49",
     "1645502": "2026-11-01T22:45:43",
+    "1645530": "2026-11-02T10:14:08",
+    "1645532": "2026-11-02T10:14:10",
+    "1645534": "2026-11-02T10:14:12",
+    "1645536": "2026-11-02T10:14:15",
+    "1645538": "2026-11-02T10:14:17",
+    "1645559": "2026-11-02T18:15:33",
+    "1645561": "2026-11-02T18:15:36",
+    "1645563": "2026-11-02T18:15:38",
+    "1645565": "2026-11-02T18:15:40",
+    "1645567": "2026-11-02T18:15:42",
+    "1645569": "2026-11-02T19:13:34",
+    "1645571": "2026-11-02T19:13:37",
+    "1645573": "2026-11-02T19:13:39",
+    "1645575": "2026-11-02T19:13:42",
+    "1645577": "2026-11-02T19:13:44",
     "165284": "2026-10-28T22:14:53",
     "776291": "2026-10-21T21:20:52"
    }
@@ -81739,11 +83285,6 @@
    "content_hash": "50f6dd288041bdda22f9ed016427e9048f06beea40df6d9368bab43034fe9f66",
    "sequence": 2,
    "last_modified": "2026-10-08T18:53:26.448470Z"
-  },
-  "caldiscovery-comedy-6baacc492eab9661@sf-cal": {
-   "content_hash": "78d8ce7ddfc1bc78941282c568a1074704968929046f2295e661a6479bd3be59",
-   "sequence": 0,
-   "last_modified": "2026-10-30T10:10:08.918206Z"
   },
   "caldiscovery-comedy-8cef46583532ca6d@sf-cal": {
    "content_hash": "989254cc0aafd055dfe4f3405da7eb9be4f23d526b3ed3923a390e7915e88e3d",
@@ -81890,6 +83431,11 @@
    "sequence": 2,
    "last_modified": "2026-10-27T22:21:29.169315Z"
   },
+  "caldiscovery-festival-35e94ac624f4203a@sf-cal": {
+   "content_hash": "1148ab7fcb889d60343b9e91da7660fc8641e336804ecc371437a81a740d318d",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "caldiscovery-festival-367366b3b5f1b4b8@sf-cal": {
    "content_hash": "22eacdcfdaf4d8546f0b8d8f4a1e1772391978cb2422c0f4b6fcadd205c26035",
    "sequence": 0,
@@ -81959,11 +83505,6 @@
    "content_hash": "fc4c67c7000bae083736f2045f8cbbfa41525d9dbdc25690a68a63e9e03d61c2",
    "sequence": 0,
    "last_modified": "2026-10-29T10:07:47.796323Z"
-  },
-  "caldiscovery-festival-90886cea6549d4ef@sf-cal": {
-   "content_hash": "d3ddf36666a479c6a7735e7b4246ca126cf99b1e23ee654468944c895e92edcc",
-   "sequence": 0,
-   "last_modified": "2026-10-15T11:39:24.600159Z"
   },
   "caldiscovery-festival-91d6c148765af528@sf-cal": {
    "content_hash": "54bd5f9824d23c396047c5bdd7aab5bfc17b9d9382c2c978615580425e5ba800",
@@ -82065,11 +83606,6 @@
    "sequence": 2,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
-  "caldiscovery-festival-f6591167f32252d1@sf-cal": {
-   "content_hash": "ccaeb96bfb1bdd0fbbb98196c5dbf1811afd41f1f8151e619dfcaef9b9cbf854",
-   "sequence": 0,
-   "last_modified": "2026-11-01T06:18:22.714359Z"
-  },
   "caldiscovery-festival-f6d3cab52cfae0b3@sf-cal": {
    "content_hash": "9a39ec44e7f5ebf2f93a531812bf987d1c6462ee3e5ab6fbb70148e005a3c2c2",
    "sequence": 0,
@@ -82149,6 +83685,11 @@
    "content_hash": "1405353891f5ef8667b1771bc1c5139b0af2abb4a5108474a230d701438c1a17",
    "sequence": 0,
    "last_modified": "2026-11-01T16:05:46.530149Z"
+  },
+  "dothebay-15422781@sf-cal": {
+   "content_hash": "d47f1e3a8947b9826cf20d0277e4f0eca58bd2fa9058e565502d5aacc4431e11",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-16354638@sf-cal": {
    "content_hash": "e5d19f8be61f17c25cc4f4f7261452e315349bf3454764107727fea446c05abb",
@@ -83296,9 +84837,9 @@
    "last_modified": "2026-10-29T10:07:47.796323Z"
   },
   "dothebay-17581245@sf-cal": {
-   "content_hash": "db667c8552af6bcb000e597d87d37a43568c18f790e3c6fbe6a1e2f853ca888f",
-   "sequence": 2,
-   "last_modified": "2026-11-02T06:19:47.372361Z"
+   "content_hash": "4b53dd2985aa9db10f93714e7a67683127b4f225b39e25fbad1f804342f541af",
+   "sequence": 3,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-17581249@sf-cal": {
    "content_hash": "44aabc7321902c82b6b2206544a45d8f1a9fb2110b30a63405c3f6b5353c74fb",
@@ -83405,20 +84946,15 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
-  "dothebay-17610102@sf-cal": {
-   "content_hash": "3bed5891375e2568a8cd7ffe28a51cf2d898907d061fe43da2f5597ac9753136",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
-  },
   "dothebay-17610860@sf-cal": {
    "content_hash": "67a1d80af46da5004f95dbd4f54f1742701f9d336ec706fb681395652d8ece85",
    "sequence": 1,
    "last_modified": "2026-10-29T01:01:45.272982Z"
   },
   "dothebay-17612354@sf-cal": {
-   "content_hash": "e3ad30c94f9784c5ccd9da09ddde7472d59c96a452c158f3ecec18a398cdc013",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "8d30ba965dfdf2151c24369a575130646cee82049fe58478f7713f6b55b3b157",
+   "sequence": 1,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-17612356@sf-cal": {
    "content_hash": "90433654be9dc2fdb5b6bac3fd5664e16dbcfa43bfdc78fa366d8f06b6226159",
@@ -84080,6 +85616,11 @@
    "sequence": 0,
    "last_modified": "2026-10-28T13:07:10.223012Z"
   },
+  "dothebay-17702213@sf-cal": {
+   "content_hash": "61c87c3073f468427931fa8f6dc67b97439fff4ca947331162f2cb48a8f05dd0",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "dothebay-17702483@sf-cal": {
    "content_hash": "975e7a79d444719393a31c694013a93908cac1e15f9a3fa51272edf86d73ad28",
    "sequence": 1,
@@ -84164,6 +85705,11 @@
    "content_hash": "03fa3a05c11e0a696fa946be6f52d30d25783c3b78471e3333bbe5d5652b633a",
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
+  },
+  "dothebay-17722552@sf-cal": {
+   "content_hash": "eb5439b5ddba7e40b2d15b0c8077dd761342c0e443d165ae31e80b990d356077",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-17726037@sf-cal": {
    "content_hash": "031fafd60ea066110cba4b79986456f4c54cea948a5ca3fb199be8ca8fd1fd11",
@@ -84491,9 +86037,9 @@
    "last_modified": "2026-11-01T06:18:22.714359Z"
   },
   "dothebay-17752166@sf-cal": {
-   "content_hash": "7a641599616a41ac9c5002666902bbb6f3c600f500899fd58e82b3da390ef22f",
-   "sequence": 4,
-   "last_modified": "2026-11-02T06:19:47.372361Z"
+   "content_hash": "5a6aa9e088edec5f9b4983e86b2ac1943463aaafa4e7745722bbeaa33fe37f5c",
+   "sequence": 5,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-17752174@sf-cal": {
    "content_hash": "25e39fbba5d4d931b97b977fc8b0808f09fef984b4b27e6cc2a4bc707ac506da",
@@ -84629,11 +86175,6 @@
    "content_hash": "528628af269416668a4cae5aae69452e0cd069b0a5a439ee86b5f0a8b161f842",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17764333@sf-cal": {
-   "content_hash": "754226c9f11bab4374f0d7349722cb5903657fc57bc8179256573c42598dde64",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
   },
   "dothebay-17764334@sf-cal": {
    "content_hash": "dd603c87bfead7c25d033f984fee234bb3b02c5e2425881048e396ee1d276ac4",
@@ -85650,6 +87191,11 @@
    "sequence": 2,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
+  "dothebay-17870916@sf-cal": {
+   "content_hash": "51c86968a34a9923c8be49989fae3e9348b26aa82f7dc16c824fbcf047f22f6d",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "dothebay-17871993@sf-cal": {
    "content_hash": "7af3678d853946b4a7041dc44aa83e78252e27d1fe4c11ec187f555c2ac81f14",
    "sequence": 0,
@@ -86601,9 +88147,9 @@
    "last_modified": "2026-10-31T05:53:20.848608Z"
   },
   "dothebay-17941159@sf-cal": {
-   "content_hash": "21c269067587dabd3cbbced68de55f4a1428f2d843f32f1065e7c9a348fa257d",
-   "sequence": 2,
-   "last_modified": "2026-11-02T06:19:47.372361Z"
+   "content_hash": "d0666e2c75e4608eacea76801c5e2bcc21b788513e2abce63f5c8b40a64c3d60",
+   "sequence": 3,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-17941205@sf-cal": {
    "content_hash": "eece5bc6accbc5f0518a2b5750ed6520154b3b8164c64a4de75b7cf1d880ae5b",
@@ -86634,6 +88180,11 @@
    "content_hash": "9fc02a7be8bc41a7958970c5a8ff9e9a4c8ddad88884e94aaeb3c934d33695bf",
    "sequence": 0,
    "last_modified": "2026-11-01T16:05:46.530149Z"
+  },
+  "dothebay-17941270@sf-cal": {
+   "content_hash": "96a505bf32e48f7f9398d1108f75a45b9f4eb9fb93236b4ec0f2e4856749f1c9",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-17941459@sf-cal": {
    "content_hash": "1a0ff79fcc626c1846325ba560a44ee965633bd080ec88d86407244266c484f6",
@@ -87200,6 +88751,11 @@
    "sequence": 1,
    "last_modified": "2026-10-23T05:00:02.678864Z"
   },
+  "dothebay-17973799@sf-cal": {
+   "content_hash": "ed086c109b7ff742a9442e553e0d7ca6917d5d012d57a66bde9a9fb5cb8e2f7d",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "dothebay-17974903@sf-cal": {
    "content_hash": "4fc8d6341544c439ab6b7d4a3e74f549f31e0ba26d1fa5cf1cc3d36e0f56ab04",
    "sequence": 1,
@@ -87415,6 +88971,11 @@
    "sequence": 0,
    "last_modified": "2026-10-23T17:14:42.400470Z"
   },
+  "dothebay-17979582@sf-cal": {
+   "content_hash": "3d7eeaff50efe65b189a470fa3233af1d692e58396fa75e2c1888cded080eaf3",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "dothebay-17979583@sf-cal": {
    "content_hash": "b6c6539e869c21a737732d35f7ef9cba07ecb35dffd016a6658cbc3f785876fb",
    "sequence": 0,
@@ -87499,6 +89060,11 @@
    "content_hash": "2ae7528adc2d1803469fb174f116b9f764994db8c9a4b8e3e350305595a8ee38",
    "sequence": 1,
    "last_modified": "2026-10-28T13:07:10.223012Z"
+  },
+  "dothebay-17982767@sf-cal": {
+   "content_hash": "160cfc40e117e13fcb1b10c7e4eea6b3ce4573874b03626d1c864c32060f5019",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-17982772@sf-cal": {
    "content_hash": "a2f99e07400fa03558e2ca798127477d0553bc4291b2b5dd37355993b5231ca8",
@@ -87910,6 +89476,11 @@
    "sequence": 1,
    "last_modified": "2026-11-01T06:18:22.714359Z"
   },
+  "dothebay-18001036@sf-cal": {
+   "content_hash": "7cb8fce38a759059d0562b759c8817112c9915d444ee6cb834fa9e3483935864",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "dothebay-18002727@sf-cal": {
    "content_hash": "8dba68882384fa0722668c909657ad08f20e71478d6d7a7e12e0b44a82324dbe",
    "sequence": 0,
@@ -88190,6 +89761,156 @@
    "sequence": 1,
    "last_modified": "2026-10-31T05:53:20.848608Z"
   },
+  "dothebay-18016456@sf-cal": {
+   "content_hash": "292e63ecfb87f582bf09b9d34caaad64981a2a3609e7fc8c69e4d17226169678",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016458@sf-cal": {
+   "content_hash": "efaf9ef6788ea93729680c486ee44efe8ac06d085e98aac7ac7c1ab589efd77e",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016464@sf-cal": {
+   "content_hash": "7da286d03f2d2fd5759b834a18160af71a49bbe99360765e87dd6836b5a2ab56",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016469@sf-cal": {
+   "content_hash": "7f661e513b1c2fd95dcd9b93f9e1c6670a5eabd61ac0076159bdcf7ddb52e73d",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016471@sf-cal": {
+   "content_hash": "0d41da3cbf6509cccd862c51290a9e674f066ceca1ea17677689fc345e27462c",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016472@sf-cal": {
+   "content_hash": "fbc98f6dd8ded21fd58ab677a7a013330b103e888f255b0cb2a1efd9b2a00dcd",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016473@sf-cal": {
+   "content_hash": "8543037aee49ae5c55320aa128c454f672c602f0138749f37828fba79439738a",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016474@sf-cal": {
+   "content_hash": "0ecd80b9e04b5c7d96698671faaf6c6172ad03568af511c4881444a3d1670de2",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016477@sf-cal": {
+   "content_hash": "028a57586cd0869b8812fda9d1bd6a233030ab8d60fc1e1aabcb2c70c7ed136d",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016552@sf-cal": {
+   "content_hash": "f9c4126c6abc759c6ca587d326755beb36204c4e974ace007cdb529f9858c901",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016554@sf-cal": {
+   "content_hash": "6de404b59bf46aceefef9ebdf4877a77b3fd3097005132f13e9e4d8f55d6c1a0",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016703@sf-cal": {
+   "content_hash": "52346e735e8c251d89dd5a3aba812e970d50a68fccc72df72dcf68d54f1c0ac4",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016705@sf-cal": {
+   "content_hash": "9c3acdf6703b26ed319d5470cc0ee03d793b11bf2210446245bba8f8777f6e8b",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016708@sf-cal": {
+   "content_hash": "4d249bbafddc1decb3d7a1ae81121df4167953f5999e6a52df38620f3ff19959",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016726@sf-cal": {
+   "content_hash": "1e35d0c2f6701a6aedc478b125a89407ca96494c679957b2ec60266243311eb7",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016739@sf-cal": {
+   "content_hash": "46475d1161770728c134cd3f09f2d1941c47a8e74571d3f91770bfd038e6f948",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18016745@sf-cal": {
+   "content_hash": "377f8de47a1ba71ea68a01525bd7f5cf939c9e8830c960a469c1cf3349ae2dbe",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017395@sf-cal": {
+   "content_hash": "493638e6aa3084a8c7cfc393af0d521ec290c3f0adee30b9b5cdf78ce8a70afb",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017397@sf-cal": {
+   "content_hash": "00f2b6760ca81973e2ba4111d0ceef66df65eb46719bc81ff7ada80a42310620",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017398@sf-cal": {
+   "content_hash": "444b88aae7ca621591577f56234e4ee9ee8a516900bf1be6ec83520137b40f16",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017399@sf-cal": {
+   "content_hash": "971ab0f4eaaf4d185ed9edbcdfc7c4b29f5243e3cdbd083e353ccd390a0d7b95",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017400@sf-cal": {
+   "content_hash": "71486f70b6a3cc220f4ba4fde058527b8e9268dc5fa6f3ad13fb126754bf3e30",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017402@sf-cal": {
+   "content_hash": "a910871a914f1824572d4a16958bca07eafd36526c52301031094fb83a0ac7aa",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017403@sf-cal": {
+   "content_hash": "1b45af3ceb83d7e246f58a44ff539572fdfb3526206aa114bda72b9c0d6f4c6e",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017412@sf-cal": {
+   "content_hash": "c314fd8b3855e0c36a5d8375f1c3888f5063a180f7be824258e4fbe427a6f163",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017416@sf-cal": {
+   "content_hash": "a4789ba170804d6fc927b55c40e1aae7004270544d28dc28293f105ace6ad217",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017447@sf-cal": {
+   "content_hash": "73649ea39e27e40a0f30e5f839664b11a91eccdb47a7055ab6b1b112856eb3e7",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017931@sf-cal": {
+   "content_hash": "6e08b14be3530170d72b905545e9fb97989499ab3f76dfb2b6c9de01e4c9d60f",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017933@sf-cal": {
+   "content_hash": "93071c6c153a6223ac4c8cc5b1db6344f7bb043ee38dc4e1ad14b2b182376abc",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18017936@sf-cal": {
+   "content_hash": "07175e726ad7cb342f35e746b7dd29e881d85d512bf12238ca562b94aa596494",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "dothebay-18018068@sf-cal": {
    "content_hash": "46e4ac6538c175fcab4e08b3f9cb3b65e640dc27744b77219db6f4671ea80984",
    "sequence": 0,
@@ -88230,6 +89951,11 @@
    "sequence": 0,
    "last_modified": "2026-11-01T00:11:03.615159Z"
   },
+  "dothebay-18021415@sf-cal": {
+   "content_hash": "e988d40dd19c232de1d4ca9b61d531dcf0e4ffa12287651d1d5346e50b9b577a",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
   "dothebay-18023071@sf-cal": {
    "content_hash": "58eb89b51bca56b7fbf7397161ad739fe95f4044fde93dd1fadc0d11c4cfe7fe",
    "sequence": 0,
@@ -88244,6 +89970,16 @@
    "content_hash": "36646f444e51cb082fefbce68fa87ffa4aab4be87789b249eb5dcee36d21aafa",
    "sequence": 0,
    "last_modified": "2026-11-02T06:19:47.372361Z"
+  },
+  "dothebay-18028473@sf-cal": {
+   "content_hash": "b7a1a34648e7c575d868d9181a3ca74e93845d1b51fb59c230fddd62b236c87a",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18028808@sf-cal": {
+   "content_hash": "d7168a3385f4762cfdb34f4af24ca402cc6a08de4093ee68f358e513d66bc39e",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "funcheap-1234124@sf-cal": {
    "content_hash": "8facf467efe8ef6da5d8f69a8f611e5b1ed742535fe4abe31f78778bf449c810",
@@ -88872,11 +90608,6 @@
   },
   "funcheap-1638082@sf-cal": {
    "content_hash": "c643647d00531b156c3ff6a4833b39705f6a085e0cd61a1cb9a812f9e953dddd",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1638087@sf-cal": {
-   "content_hash": "8d54990cc2f8b8ab5a1c96ed040165b80dcd0d042e29c93539ca65c57d59d4d3",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -90450,11 +92181,6 @@
    "sequence": 0,
    "last_modified": "2026-10-31T19:21:23.476017Z"
   },
-  "funcheap-1644142@sf-cal": {
-   "content_hash": "7b985550862de10b554a6784241ad17d024dcc23f01efbdff0c679f56a6ce4d1",
-   "sequence": 0,
-   "last_modified": "2026-11-02T06:19:47.372361Z"
-  },
   "funcheap-1644152@sf-cal": {
    "content_hash": "0e10cfee87e1417afe2bf49db1ff17f0dbbbaeb5dc6881ec445b519445700cff",
    "sequence": 0,
@@ -91095,10 +92821,80 @@
    "sequence": 0,
    "last_modified": "2026-11-02T06:19:47.372361Z"
   },
-  "funcheap-165284@sf-cal": {
-   "content_hash": "0fc3b77a9d3ca04da2525fb48dfdcb9121c07d9352853de739d645dbe1384eeb",
+  "funcheap-1645530@sf-cal": {
+   "content_hash": "3068d8762ef1eda434e73ba4bbf589200e4e79a85a5f754344169941ce043b1f",
    "sequence": 0,
-   "last_modified": "2026-10-29T01:01:45.272982Z"
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645532@sf-cal": {
+   "content_hash": "938ca17c15edb8b3752b62d22c00cdc2bb8c75fa635163d1a9ff7a791baa87c7",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645534@sf-cal": {
+   "content_hash": "57db39a6d1b2f1c1923ba3018242689bca4f0396fe8f45641b4186f20d024df6",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645536@sf-cal": {
+   "content_hash": "3de1166d2f1722aa0d3bcc3a70ebfee1b56e0641fd77be4fa8b7e615f9332d88",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645538@sf-cal": {
+   "content_hash": "9eff4b24a1285f076f1d19b1886633c68fa91b2c76d8276595f324ff8765cce0",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645559@sf-cal": {
+   "content_hash": "ee520f835618a8ce34a55663cd10b78cbf1236b72b7601a00780432507171e22",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645561@sf-cal": {
+   "content_hash": "ad22c5df9091928ac9839a8e5009b5dda66fab856816156857a0fcf67ae17ab9",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645563@sf-cal": {
+   "content_hash": "aa9e0871bbadfb4289c35d157709ca8f55b52d8d8eb42452477cb2ae55a3254b",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645565@sf-cal": {
+   "content_hash": "b33dc7091d95972e1e88751f37a8b87b52ff4924640b398d7bca63d7cddb2dab",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645567@sf-cal": {
+   "content_hash": "780cb5bf1a8a64e63f67caf9306bd94a9fa577ec7564dd594c70857adbb9808d",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645569@sf-cal": {
+   "content_hash": "3ea5cf13de509f8c722ad2b2eb52d8fb48c1cada056743950120578f27152112",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645571@sf-cal": {
+   "content_hash": "3c0655e18f2d396675164f624302d3d6c415d359dc74a0786a2c943636f9c665",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645573@sf-cal": {
+   "content_hash": "9897b8e01bacab049fffaac64de852d161515294968b91a2518bba0505e49877",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645575@sf-cal": {
+   "content_hash": "57d3cb5cd79877a4bee59a0e474c72e8e2f04a6c762a782c9fe8414ea08f56c8",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645577@sf-cal": {
+   "content_hash": "79ba9ec3cb8b048546a57ce7f594fc6f9d6942f39462b25b2b5b99fa535c9c03",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "sf-street-events-1365550-2026-10-28T13:00:00-07:00@sf-cal": {
    "content_hash": "a090fc420eeb069255320cb43251265b15cd1d5394555e81d8abc91ccc7c505a",
@@ -91909,6 +93705,11 @@
    "content_hash": "1edd94e5aab60f75095ba24c2ae1aacd3274f883bb69d285890abcfab1551966",
    "sequence": 0,
    "last_modified": "2026-10-14T12:01:58.272972Z"
+  },
+  "sfrecpark-main-224ec13db41bab47@sf-cal": {
+   "content_hash": "40eace63c3df24510fa9081cf6cdaa5ceb565b9428ebb9540a05892029d22541",
+   "sequence": 0,
+   "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "sfrecpark-main-357f345489996f12@sf-cal": {
    "content_hash": "304908eace5e9ede3585a1162c3987e70f38883fbef56ed82f7a2b60f991b47b",
