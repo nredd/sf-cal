@@ -79,27 +79,6 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sound-baths-grace-cathedral/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inner Wave
-DTSTART;TZID=America/Los_Angeles:20261026T193000
-DTEND;TZID=America/Los_Angeles:20261026T213000
-DTSTAMP:20261027T090716Z
-UID:dothebay-17767019@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:GAMH & Psyched! Fest 2026 presents\nInner Wave\nMonday\, Octob
- er 26 | ​Great American Music Hall\n\n$27-$29\nGAMH & Psyched! Fest 2026
-  presents\n\nDetails: https://dothebay.com/events/2026/10/26/inner-wave-ti
- ckets\nSource: DoTheBay
-GEO:37.7848325;-122.418809
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34083216/48f4ef03-6df9-441c-9647-728f8e48867a.jpg
-LAST-MODIFIED:20261027T090716Z
-LOCATION:Great American Music Hall\, 859 O'farrell Street\, San Francisco\
- , CA\, 94109
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/26/inner-wave-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lil Pete
 DTSTART;TZID=America/Los_Angeles:20261026T200000
 DTEND;TZID=America/Los_Angeles:20261026T220000
@@ -2621,6 +2600,33 @@ URL:https://dothebay.com/events/2026/11/4/bff-fm-presents-karaoke-the-make
  -out-room-hosted-by-bff-fm-djs-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Guajirón at Blondie’s Bar
+DTSTART;TZID=America/Los_Angeles:20261104T200000
+DTEND;TZID=America/Los_Angeles:20261104T220000
+DTSTAMP:20261103T025635Z
+UID:dothebay-18029035@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Hot Cuban salsa\, guaracha and son with Guajirón at Blondie
+ ’s Bar! Irresistible rhythms\, live and for free\, right in the heart of
+  the Mission.\nWednesday\, November 4\, 2026 · 8 PM–midnight\nBlondie
+ ’s Bar · 540 Valencia St\, San Francisco\nFree admission. Come listen\,
+  dance\, and enjoy a night of live Cuban music.\nOfficial event details: h
+ ttps://guajiron.com/shows/blondies-1st-wed-2026-11-04/\n\nFree\n\nTickets:
+  https://guajiron.com/shows/blondies-1st-wed-2026-11-04/\nDetails: https:/
+ /dothebay.com/events/2026/11/4/guajiron-at-blondie-s-bar-tickets\nSource: 
+ DoTheBay
+GEO:37.7641992;-122.4220593
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35273069/1888d285-edaa-4041-b804-bed196cd669c.jpg
+LAST-MODIFIED:20261103T025635Z
+LOCATION:Blondies Bar & No Grill\, 540 Valencia St.\, San Francisco\, CA\,
+  94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/4/guajiron-at-blondie-s-bar-ticket
+ s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GLIDE Holiday Jam 2026
 DTSTART;TZID=America/Los_Angeles:20261105T173000
 DTEND;TZID=America/Los_Angeles:20261105T193000
@@ -2794,30 +2800,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/5/greg-freeman-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnarls Barkley
-DTSTART;TZID=America/Los_Angeles:20261105T200000
-DTEND;TZID=America/Los_Angeles:20261105T220000
-DTSTAMP:20261022T120138Z
-UID:dothebay-17862989@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:To Whom It Still Concerns Tour\nGnarls Barkley\nwith Gallant\n
- \nThursday\, November 5 | The Masonic\n\nTo Whom It Still Concerns Tour\n\
- nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoSt
- uff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fgnarls-barkley-to-whom-it-still
- -san-francisco-california-11-05-2026%2Fevent%2F1C00652FCECC2A01\nDetails: 
- https://dothebay.com/events/2026/11/5/gnarls-barkley-to-whom-it-still-conc
- erns-tour-tickets\nSource: DoTheBay
-GEO:37.7911829;-122.412938
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34522816/55393636-2d3a-47ba-9e15-41ec67127f72.png
-LAST-MODIFIED:20261022T120138Z
-LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/5/gnarls-barkley-to-whom-it-still-
- concerns-tour-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jason Movrich & Friends
 DTSTART;TZID=America/Los_Angeles:20261105T204500
 DTEND;TZID=America/Los_Angeles:20261105T224500
@@ -2840,68 +2822,27 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/5/jason-movrich-friends-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Local 500 & Public Works Present: Function 500 w/ FLUXIONS
+SUMMARY:Function 500 w/ FLUXIONS
 DTSTART;TZID=America/Los_Angeles:20261105T210000
 DTEND;TZID=America/Los_Angeles:20261105T230000
-DTSTAMP:20261024T044458Z
+DTSTAMP:20261103T025635Z
 UID:dothebay-17979408@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Thursday\, November 5th\, 9pm - 2am\n\nLoft / 21+ / Limited Ca
- pacity\n\nWant free entry? Check out the PW Union where members get event 
- access\, drinks\, skip the line\, and more starting at just $12/month or $
- 10 with an annual plan: www.publicsf.com/membership\n\nLocal 500 and Publi
- c Works Present:\n\nFunction 500\n\nFor our eighth installment of our mont
- hly residency\, we will be local crew and event series organizer\, FLUXION
- S (@fluxions.exe). Representing FLUXIONS are co-founders Vertigo (@v.ertii
- g0) & bad juuju (@bad.juuju).\n\nFLUXIONS is bad juuju and Vertigo's event
-  series that curates sweaty\, bassy and foggy DIY focused events in San Fr
- ancisco\, CA. Launching in 2024\, their events and HydeFM residency push s
- oundscapes that mutate in real-time\, weaving between hypnotic atmospheres
- \, pulsating beats\, and heavily percussive bass lines.\n\nIn true Local50
- 0 (@local500sf) fashion\, we’re continuing to bring love back to Thursda
- y nights in San Francisco. Expect techno\, percussive bass lines\, groove\
- , and a tighter underground feel as we showcase local crews and producers.
- \n\nLocal500 support: Panderer(@panderer.dj) and AGROPOL(@agropol_)\n\nSho
- w up. Support local talent. Be apart of something...\n\nNovember 5th\n\n$5
-  online - $10 at door\n\n9pm-2am\n\nbad juuju: Seamlessly weaving between 
- swirling psychedelic worlds\, percussive intensity\, and deep bass frequen
- cies\, bad juuju moves crowds with her eclectic approach rooted in club se
- nsibilities. As a member of rising San Francisco-based DJ collective Vitam
- in1000...\n\n$5-$10\, 21+\n\nTickets: https://tixr.com/af/dostuff/211559\n
- Details: https://dothebay.com/events/2026/11/5/local-500-public-works-pres
- ent-function-500-w-fluxions-tickets\nSource: DoTheBay
+DESCRIPTION:Local 500 & Public Works Present\nFunction 500 w/ FLUXIONS\nTh
+ ursday\, November 5 | Public Works\n\n21+\nLocal 500 & Public Works Presen
+ t\n\nTickets: https://www.tixr.com/groups/publicsf/events/local-500-public
+ -works-present-function-500-w-fluxions-211559?utm_source=publicsf&utm_medi
+ um=venuewebsite\nDetails: https://dothebay.com/events/2026/11/5/local-500-
+ public-works-present-function-500-w-fluxions-tickets\nSource: DoTheBay
 GEO:37.7688759;-122.4194268
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35067102/d24529c2-c4f1-44ee-a92f-dac875ec0cae.jpg
-LAST-MODIFIED:20261024T044458Z
+LAST-MODIFIED:20261103T025635Z
 LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/5/local-500-public-works-present-f
  unction-500-w-fluxions-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Function 500 w/ FLUXIONS
-DTSTART;TZID=America/Los_Angeles:20261105T210000
-DTEND;TZID=America/Los_Angeles:20261105T230000
-DTSTAMP:20261024T111224Z
-UID:dothebay-17985980@sf-cal
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Thursday\, November 5th\, 9pm - 2am\n\nLoft / 21+ / Limited Ca
- pacity\n\nWant free entry? Check out the PW Union where members get event 
- access\, dr\n\n$7.93\nLocal 500 & Public Works Present:\n\nTickets: https:
- //consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Flocal-50
- 0-public-works-present-function-500-w-fluxions-tickets-2003799777074\nDeta
- ils: https://dothebay.com/events/2026/11/5/function-500-w-fluxions-tickets
- \nSource: DoTheBay
-GEO:37.7688759;-122.4194268
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35109390/40dfc3de-bfce-4287-a9ec-98b585ebecb3.jpg
-LAST-MODIFIED:20261024T111224Z
-LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/5/function-500-w-fluxions-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DJ EARTH ANGEL and friends
@@ -3975,6 +3916,43 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/dimensions-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:French Café Music dinner concert with Bistro Moustache
+DTSTART;TZID=America/Los_Angeles:20261109T170000
+DTEND;TZID=America/Los_Angeles:20261109T190000
+DTSTAMP:20261103T025635Z
+UID:dothebay-18029748@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Bistro Moustache plays French Café music\, a style that mixes
+  Manouche\, Gypsy Jazz\, Musette\, Swing\, and that was popular in France 
+ before and after the Second World War\, and that is still very much alive 
+ today.\n\nWe go from the popular timeless classics (Les Feuilles Mortes\, 
+ C’est Si Bon\, Ménilmontant\, J’Attendrai\, La Foule\, Sous Le Ciel D
+ e Paris\, La Vie En Rose) to more modern (Il Est Cinq Heures Paris S’Év
+ eille\, Le Poinçonneur Des Lilas\, Le Déserteur\, Vesoul)\, and even son
+ gs that you may hear on the French radio today. We also feature dance tune
+ s\, Waltzes\, Polkas\, Tangos\, Auvergne Bourrées and Celtic folk\, or Fr
+ ench children comptines\, like Frère Jacques\, or Sur Le Pont D’Avignon
+ . All the songs are sung in French by Olivier\, a native Parisian.\n\nJust
+  as if Charles Trenet\, Jacques Brel\, Yves Montand\, Georges Brassens\, S
+ erge Gainsbourg\, Tino Rossi\, Edith Piaf\, Boris Vian\, Django Reinhardt\
+ , Gus Viseur and Jo Privat were all on the same stage together for one eve
+ ning.\n\nPrepare to be musically transported to the terrace of a Paris Bis
+ tro\, a Guinguette on the Marne river or a Bal Musette on the banks of the
+  Seine.\n\nMore info at: http://www.bistromoustache.com/calendar\n\nFree\n
+ \nTickets: https://www.bistromoustache.com/calendar\nDetails: https://doth
+ ebay.com/events/2026/11/9/french-cafe-music-dinner-with-bistro-moustache-t
+ ickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35276283/ccd5e460-0b08-48f1-b0a0-166b12b09caf.jpg
+LAST-MODIFIED:20261103T025635Z
+LOCATION:Scopo Divino\, 2800 California Street\, San Francisco\, CA\, 9411
+ 5
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/9/french-cafe-music-dinner-with-bi
+ stro-moustache-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sienna Spiro
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T210000
@@ -4393,21 +4371,27 @@ BEGIN:VEVENT
 SUMMARY:Stop Light Observation
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261103T025635Z
 UID:dothebay-17438051@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Please note - there is a delivery delay set for 2 weeks prior 
- to show.\n\nAnother Planet Entertainment Presents\n\nTickets: https://tick
- etmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fww
- w.ticketweb.com%2Fevent%2Fstop-light-observation-the-independent-tickets%2
- F14936543%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id%3Daff_BUYAT_234705%
- 26camefrom%3DCFC_BUYAT_234705\nDetails: https://dothebay.com/events/2026/1
- 1/11/stop-light-observation-tickets\nSource: DoTheBay
+DESCRIPTION:Stop Light Observations is a dynamic four-piece group hailing 
+ from Charleston\, South Carolina. Their versatile sound is a unique blend 
+ of blues\, pop\, and indie rock infused with electronic beats and the soul
+ ful vocals of Will Blackburn. From songs like “2young” to “Security
+ ” their music is a true reflection of their unique personalities\, and t
+ heir live shows are a testament to their authenticity and raw talent.\n\nS
+ LO is Will Blackburn (vocals)\, Oleg Terentiev (drums)\, David Beam (guita
+ r) and Jeremiah King (keys).\n\nAnother Planet Entertainment Presents\n\nT
+ ickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuf
+ f&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fstop-light-observation-the-i
+ ndependent-tickets%2F14936543%3FREFERRAL_ID%3Dtmfeedbuyat234705%26wt.mc_id
+ %3Daff_BUYAT_234705%26camefrom%3DCFC_BUYAT_234705\nDetails: https://dotheb
+ ay.com/events/2026/11/11/stop-light-observation-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32502027/742dda33-16ec-4ada-ac67-a6fef41182b5.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261103T025635Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -4823,19 +4807,19 @@ URL:https://dothebay.com/events/2026/11/13/the-moth-grandslam-championship
  -tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tyla
+SUMMARY:Tyla (Moved to Fox Theater)
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
-DTSTAMP:20261023T171442Z
+DTSTAMP:20261103T025635Z
 UID:dothebay-17966509@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:all ages\nListed time is doors\n\nDetails: https://dothebay.co
  m/events/2026/11/13/tyla-tickets\nSource: DoTheBay
 GEO:37.77814499999999;-122.4174374
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35007966/0cae3330-ef04-4a28-9886-64c37b033a0e.jpg
-LAST-MODIFIED:20261023T171442Z
+LAST-MODIFIED:20261103T025635Z
 LOCATION:Bill Graham Civic Auditorium\, 99 Grove Street\, San Francisco\, 
  CA\, 94102
 TRANSP:TRANSPARENT
@@ -5374,6 +5358,26 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/sean-hayes-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:QTS: Farius' Queer Trance Party San Francisco
+DTSTART;TZID=America/Los_Angeles:20261114T210000
+DTEND;TZID=America/Los_Angeles:20261114T230000
+DTSTAMP:20261103T025635Z
+UID:dothebay-17742742@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Fall Tour 2026\nQTS: Farius' Queer Trance Party San Francisco\
+ nSaturday\, November 14 | Public Works\n\n$27.91-$36.66\, 21+\nFall Tour 2
+ 026\n\nTickets: https://tixr.com/af/dostuff/203472\nDetails: https://dothe
+ bay.com/events/2026/11/14/qts-san-francisco-tickets\nSource: DoTheBay
+GEO:37.7688759;-122.4194268
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33952453/18a1c35a-b63f-426f-836f-c6222ab2cda0.jpg
+LAST-MODIFIED:20261103T025635Z
+LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/14/qts-san-francisco-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PURA Saturdays
 DTSTART;TZID=America/Los_Angeles:20261114T220000
 DTEND;TZID=America/Los_Angeles:20261115T000000
@@ -5501,28 +5505,22 @@ URL:https://dothebay.com/events/2026/11/15/finish-ticket-picture-atlantic-
  field-medic-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sina Bathaie | White Lotus World Tour: Back Together
+SUMMARY:Sina Bathaie
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261103T025635Z
 UID:dothebay-17877351@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:Sunday\, November 15th\, 7pm - 9.30pm\n\nMain Room / 21+ / Lim
- ited Capacity\n\nWant free entry? Check out the PW Union where members get
-  event access\, drinks\, skip the line\, and more starting at just $12/mon
- th or $10 with an annual plan: www.publicsf.com/membership\n\nSina Bathaie
-  returns to San Francisco with Back Together\, a new chapter of the White 
- Lotus World Tour. Blending Persian instruments\, cinematic melodies and el
- ectronic rhythms\, Sina brings his immersive live show back to San Francis
- co for an intimate night of music\, energy and connection.\n\nLINEUP:\n\nS
- ina Bathaie\n\n$39.99-$70\, 21+\n\nTickets: https://tixr.com/af/dostuff/20
- 8060\nDetails: https://dothebay.com/events/2026/11/15/sina-bathaie-white-l
- otus-world-tour-back-together-tickets\nSource: DoTheBay
+DESCRIPTION:White Lotus World Tour: Back Together\nSina Bathaie\nSunday\, 
+ November 15 | Public Works\n\n$39.99-$70\, 21+\nWhite Lotus World Tour: Ba
+ ck Together\n\nTickets: https://tixr.com/af/dostuff/208060\nDetails: https
+ ://dothebay.com/events/2026/11/15/sina-bathaie-white-lotus-world-tour-back
+ -together-tickets\nSource: DoTheBay
 GEO:37.7688759;-122.4194268
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34589132/0fea7f4f-ea06-40a8-b5df-664143059e4e.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261103T025635Z
 LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/15/sina-bathaie-white-lotus-world-
@@ -5794,17 +5792,34 @@ BEGIN:VEVENT
 SUMMARY:Margaret Glaspy
 DTSTART;TZID=America/Los_Angeles:20261116T200000
 DTEND;TZID=America/Los_Angeles:20261116T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261103T025635Z
 UID:dothebay-17447402@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
-DESCRIPTION:$24-$28\, All Ages\n\nTickets: https://wl.seetickets.us/event/
- margaret-glaspy/693371?afflky=TheChapel\nDetails: https://dothebay.com/eve
- nts/2026/11/16/margaret-glaspy-tickets\nSource: DoTheBay
+DESCRIPTION:In an era of excess and endless distraction\, the New York-bas
+ ed singer/songwriter Margaret Glaspy rejects the noise in favor of somethi
+ ng far more essential. Glaspy has assembled a selection of songs that span
+  from fictional vignettes to unguarded self-revelation to empathetic obser
+ vation of the troubled world around her. Produced by Joe Henry (the three-
+ time Grammy-winning singer/songwriter/producer known for his work with lum
+ inaries like Aimee Mann and Joan Baez)\, I Am Both ultimately stands as a 
+ striking new statement from one of the modern music canon’s most formida
+ ble songwriters.\n\nAnna Tivel is a Portland\, Oregon-based\, internationa
+ lly touring songwriter who is forever drawn to the quiet stories of ordina
+ ry life. The characters and imagery that populate her writing are full of 
+ breath and vivid color. With six full-length albums out and a seventh on t
+ he way\, Anna has been likened to a short story writer and praised by NPR\
+ , Rolling Stone\, Billboard\, and others for her keen observations of the 
+ human condition. In fact\, Ann Powers of NPR Music had this to say\, "Anna
+  Tivel is just one of my absolute favorite living songwriters. Her writing
+  on [Outsiders] is at the same level as Paul Simon when he wrote 'The Boxe
+ r' and 'American Tune'"\n\n$24-$28\, All Ages\n\nTickets: https://wl.seeti
+ ckets.us/event/margaret-glaspy/693371?afflky=TheChapel\nDetails: https://d
+ othebay.com/events/2026/11/16/margaret-glaspy-tickets\nSource: DoTheBay
 GEO:37.760565;-122.421188
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32548776/c086325f-f724-407c-9e3a-424c0e71d810.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261103T025635Z
 LOCATION:The Chapel\, 777 Valencia Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/16/margaret-glaspy-tickets

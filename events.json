@@ -3524,6 +3524,33 @@
   },
   {
    "source": "caldiscovery-festival",
+   "source_id": "93a156ab5dbdcd56",
+   "title": "Winterfest 2026",
+   "start": "2026-12-04T00:00:00-08:00",
+   "end": "2026-12-06T23:59:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Salesforce Park",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://www.tjpa.org/transit-center/activities/winterfest-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "*****\nSave the Date\nThe Transbay Joint Powers Authority (TJPA), in coordination with the East Cut Community Benefit District, invite you to join us for the weekend of December 4th-6th at its seventh annual Winterfest celebration at Salesforce Park.\n\nMore details: https://www.tjpa.org/transit-center/activities/winterfest-2026",
+   "image_url": null,
+   "categories": [
+    "festival"
+   ],
+   "notes": [
+    "Published by TJPA Salesforce Park Activities",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-festival",
    "source_id": "6ac706f4bb036146",
    "title": "Terpnami 2026",
    "start": "2026-12-05T12:00:00-08:00",
@@ -4299,329 +4326,179 @@
    "notes": []
   },
   {
-   "source": "dothebay",
-   "source_id": "17946067",
-   "title": "WNBA Playoffs Round 3 Home Game H: Valkyries V Atlanta Dream",
-   "start": "2026-10-26T17:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Chase Center",
-   "address": "300 South Street, San Francisco, CA, 94158",
-   "locality": "San Francisco",
-   "geo": [
-    37.7688295,
-    -122.3894164
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/wnba-playoffs-round-3-home-game-h-valkyries-v-atlanta-dream-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "WNBA Playoffs Round 3 Home Game H: Valkyries V Atlanta Dream",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34910039/5ed2b67f-b428-42bf-a6e7-0574cdb1d8cf.png",
-   "categories": [
-    "Sports"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17662000",
-   "title": "Hook (1991)",
-   "start": "2026-10-26T17:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "The Village at Corte Madera",
-   "address": "1557 Redwood Hwy, Corte Madera, CA",
-   "locality": "Corte Madera",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/26/hook-1991-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.\n\n2hr 22min - PG",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33569854/1dd17802-6668-4542-8874-f449fb3fee9b.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17928627",
-   "title": "Perfect Pairing | Wine & Watch: Haunted Mansion (2023) and Flambeaux Wine",
-   "start": "2026-10-26T18:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "The Walt Disney Family Museum",
-   "address": "104 Montgomery Street, San Francisco, CA, 94129",
-   "locality": "San Francisco",
-   "geo": [
-    37.8013387,
-    -122.4585992
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/perfect-pairing-wine-watch-haunted-mansion-2023-and-flambeaux-wine-tickets",
-   "ticket_url": null,
-   "price_text": "$15-$25",
-   "is_free": false,
-   "sold_out": false,
-   "description": "“Welcome foolish mortals.” In celebration of spooky season, join us for a special screening of Haunted Mansion—the 2023 film inspired by the beloved New Orleans Square attraction and starring LaKeith Stanfield, Tiffany Haddish, and Owen Wilson—paired with wine from Flambeaux Wine, a Healdsburg winery inspired by New Orleans traditions.\n\nThis is an Age 21+ only event.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34827745/3845e348-8513-44fb-a907-36db2b17e270.jpg",
-   "categories": [
-    "Food & Drink"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17955962",
-   "title": "Bay Area Immersive Theater Makers Gathering: Performer Perspectives",
-   "start": "2026-10-26T18:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "The Rueff at A.C.T.'s Strand Theater",
-   "address": "1127 Market Street, San Francisco, CA, 94103",
+   "source": "city-hall-lights-ics",
+   "source_id": "21bd90243e1afa78",
+   "title": "CHC: violet",
+   "start": "2026-11-01T00:00:00-07:00",
+   "end": "2026-11-02T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
    "locality": "San Francisco",
    "geo": null,
-   "url": "https://dothebay.com/events/2026/10/26/bay-area-immersive-theater-makers-gathering-performer-perspectives-tickets",
-   "ticket_url": null,
-   "price_text": "Free, RSVP required.",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Join Detour Productions for a community conversation focused on the performer's perspective in immersive, site-specific, and audience-interactive performance.\n\nThis gathering brings together a group of Bay Area performers for a moderated roundtable about the craft and experience of immersive performance. The conversation will explore devising and building roles, working in close proximity to audiences, improvisation and audience interaction, navigating boundaries and unpredictability, and what makes performers excited to say yes to a project.\n\nFollowing the roundtable, the conversation will open to the room for questions, discussion, and connection with other artists working in and around immersive performance.\n\nModerated by Alex Locust / Glamputee and Eric Garcia / Churro Nomi.\n\nPanelists include Jo Williams, Ja'Moon Jones, Livanna Marissa Maislen, Ava Roy, Natalia Roberts, and Chris Steele aka Polly Amber Ross.\n\nThis gathering is performer-focused, but you don't have to be a performer to attend. Directors, producers, designers, administrators, collaborators, and anyone curious about immersive performance are welcome.\n\nFree, RSVP required.\n\nPresented by Detour Productions",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34958246/588636ca-d87e-44e7-8619-edaae55dd9d4.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": [
-    "Detour Productions"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17923110",
-   "title": "Lady",
-   "start": "2026-10-26T18:20:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Roxie Theater",
-   "address": "3117 16th Street, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7647103,
-    -122.4224081
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/lady-tickets",
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
    "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession with the spotlight takes a surreal turn when she starts becoming… invisible. Blending mockumentary and magical realism, Lady satirises our desperate need to feel seen.\n\n“Outrageous mockumentary is like Saltburn on shrooms” – The Guardian\n\nMore showtimes to be added\n\nRuntime\n\n1h 37m\n\nYear\n\n2025\n\nDirector\n\nSamuel Abrahams\n\nFormat\n\nDCP\n\nCountry\n\nUnited Kingdom\n\nCategories\n\nFeatured",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34800019/fd14414f-5202-4010-83fb-9471a6ae7d49.jpg",
-   "categories": [
-    "Film"
-   ],
+   "description": "the Golden State Valkyries historic WNBA Championship win",
+   "image_url": null,
+   "categories": [],
    "notes": []
   },
   {
-   "source": "dothebay",
-   "source_id": "17955963",
-   "title": "SalsaCrazy Mondays Halloween: Salsa Classes + Salsa & Bachata Dancing SF",
-   "start": "2026-10-26T18:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "Neck of the Woods",
-   "address": "406 Clement Street, San Francisco, CA, 94118",
+   "source": "city-hall-lights-ics",
+   "source_id": "d64760f9cc4d64ec",
+   "title": "CHC: teal",
+   "start": "2026-11-02T00:00:00-08:00",
+   "end": "2026-11-03T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
    "locality": "San Francisco",
-   "geo": [
-    37.7832175,
-    -122.4637743
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/salsacrazy-mondays-halloween-salsa-classes-salsa-bachata-dancing-sf-tickets",
-   "ticket_url": null,
-   "price_text": "$10-40, lessons and/or dancing, subj to avail.",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Monday, October 26, 2026, 6:30-11:30pm Pacific. Doors 6:30pm; beginner salsa 7pm; intermediate salsa 7:55pm; dancing-only admission from 9pm.\n\nCelebrate Halloween at SalsaCrazy Mondays with salsa classes and a salsa and bachata dance party at Neck of the Woods. Costumes are encouraged for both the lessons and the dance party. Come solo, bring a date or gather your friends for a welcoming Monday night on the dance floor.\n\nFor more than 20 years, SalsaCrazy Mondays has helped San Francisco learn to dance. The beginner lessons start with your very first steps: no partner or experience needed. Partners rotate in class so everyone has someone to practice with, and intermediate salsa offers returning dancers a chance to build their moves. Class tickets include the lessons and dancing afterward.\n\nMonday, October 26, 2026, 6:30-11:30pm. Doors open at 6:30pm; beginning salsa starts at 7pm and intermediate salsa at 7:55pm. Stay for salsa and bachata social dancing after class. Dancing-only tickets are valid from 9pm. Arrive early for music and drinks and to avoid the line.\n\nNeck of the Woods is at 406 Clement Street at 5th Avenue, San Francisco, CA 94118, in the Richmond District. Enjoy a full bar, great sound and a lively crowd, with neighborhood restaurants and cafes nearby. Free parking is listed by the event organizer. Ages 21+ with valid ID. Wear comfortable shoes that let you move and turn.\n\nCurrent tickets: lessons and dancing are $38.18 early bird, including a $3.18 fee, or $40...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34958253/2dda5dfc-2ee9-4e1b-9cd3-62b9c5fa1434.jpg",
-   "categories": [
-    "Dance"
-   ],
-   "notes": [
-    "SalsaCrazy, Inc."
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17648905",
-   "title": "Fred Armisen",
-   "start": "2026-10-26T19:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "The Castro",
-   "address": "429 Castro St, San Francisco, CA, 94114",
-   "locality": "San Francisco",
-   "geo": [
-    37.7619917,
-    -122.4347365
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/fred-armisen-comedy-for-musicians-but-everyone-is-welcome-tickets",
-   "ticket_url": null,
-   "price_text": "all ages",
-   "is_free": false,
-   "sold_out": true,
-   "description": "Another Planet Entertainment Presents\nComedy For Musicians But Everyone Is Welcome\nFred Armisen\nMonday, October 26 | The Castro\n\nFred Armisen is a comedian, writer, producer, and musician. He is the co-writer and co-star of IFC’s Emmy-nominated series Portlandia. He is in the hit Netflix series Wednesday as Uncle Fester. He stars in HBO’s Los Espookys, which he co-wrote and executive produced. He can also be heard in the hit animated Super Mario Bros movie. Armisen stars in, writes, and produces IFC’s hit show Documentary Now. He has also appeared in HBO’s Our Flag Means Death, Judd Apatow’s The Bubble, and Amazon’s series Forever. He voices characters in Big Mouth and The Mitchells vs. The Machines. He is currently starring in the Broadway play All In. Armisen is an 11-season veteran of Saturday Night Live. From 2014-2024, Armisen was band leader of the 8G Band on Late Night With Seth Meyers.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33509514/2ef98ba1-5173-4638-a3dd-da103de4886f.jpg",
-   "categories": [
-    "Comedy"
-   ],
-   "notes": [
-    "Another Planet Entertainment Presents: Comedy for Musicians But Everyone is Welcome - Three Nights!",
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17857055",
-   "title": "Wildwood",
-   "start": "2026-10-26T19:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "Balboa Theater",
-   "address": "3630 Balboa St, San Francisco, CA, 94121",
-   "locality": "San Francisco",
-   "geo": [
-    37.7760419,
-    -122.498063
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/wildwood-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel (Peyton Elizabeth Lee) launches a desperate rescue mission into the Impassable Wilderness—an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg (Jacob Tremblay), Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwood’s fragile future, she will have to risk everything. From Oscar®-nominated and BAFTA®-winning LAIKA, Wildwood is a sweeping adventure about love, sacrifice, and the magic that reveals itself when we dare to look beyond the familiar.\n\nThis film can be used with loyalty cards or our 2026 annual CinemaSFBay passes",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34492528/e4546b8b-c317-46fb-a7d7-e47897262ef7.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17996394",
-   "title": "LAST Monday Jam Sessions",
-   "start": "2026-10-26T19:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Brooklyn Sound Lab",
-   "address": "1201 University Ave, Berkeley, CA, 94702",
-   "locality": "Berkeley",
    "geo": null,
-   "url": "https://dothebay.com/events/2026/10/26/last-monday-jam-sessions-tickets",
-   "ticket_url": null,
-   "price_text": "Free and Donation tickets",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Wanna jam with us in Berkeley?\n\nAlongside the jam, we’re creating space for artists, bands, poets, and other performers to showcase their work to a live audience—and leave with a quality audio recording of the moment.\n\nLAST Monday is going strong—and we’re debuting a new format on October 26!\nWe’ve been listening.\n\nFinding a venue, capturing professional-quality live audio, and feeling at home while doing it shouldn’t be so hard.\n\nBSL is here for it.\n\nFirst up - Jamey Williams: Prolific Oakland Rapper and Poet\n\nAdmission by donation will help cover the venue and audio/video team, making professional live performance capture more accessible and affordable.\n\nBring your craft. Bring your people. We’ve got you covered.\n\nAnd let's JAM!\n\nRSVP here - https://www.eventbrite.com/e/1334768581759?aff=oddtdtcreator",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35136095/aa60d860-c457-46e9-87b6-8ec44cfffbaa.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Brooklyn Sound Lab"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17767019",
-   "title": "Inner Wave",
-   "start": "2026-10-26T19:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Great American Music Hall",
-   "address": "859 O'farrell Street, San Francisco, CA, 94109",
-   "locality": "San Francisco",
-   "geo": [
-    37.7848325,
-    -122.418809
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/inner-wave-tickets",
-   "ticket_url": null,
-   "price_text": "$27-$29",
-   "is_free": false,
-   "sold_out": false,
-   "description": "GAMH & Psyched! Fest 2026 presents\nInner Wave\nMonday, October 26 | ​Great American Music Hall",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34083216/48f4ef03-6df9-441c-9647-728f8e48867a.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "GAMH & Psyched! Fest 2026 presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17830864",
-   "title": "Daughters of Darkness",
-   "start": "2026-10-26T19:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Alamo Drafthouse Cinema",
-   "address": "2550 Mission St, San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.7562198,
-    -122.419185
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/daughters-of-darkness-tickets",
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
    "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Of the several amazing things that have ever come out of Europe, right at the top of the list is the Lesbian Vampire movie. And there is no more superlative example of that ecstatic, erotic, licentiously macabre territory than Belgian weirdo Harry Kumel's hyper-stylized psychological high Gothic heart-piercer DAUGHTERS OF DARKNESS. The world's worst newlywed couple arrive at an enormous, abandoned hotel in the middle of winter but are soon joined by a mysterious Countess (played the impossibly elegant Delphine Seyrig) and her beautiful young secretary, who seem to have designs on the tortured young bride. Strange gets stranger as desire and terror intertwine and the couple descend into a world of sadism, obsession, sex, death, and of course — lesbian vampires! Saturated with powerful primary colors and surreal and sultry dialogue, DAUGHTERS OF DARKNESS also features possibly THE greatest horror film score of all time. Eroticized power, decaying grandeur, abstract and ceremonious evil...(Tommy Swenson).",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34368031/99f95658-03c1-46c7-81c4-83895d7144a1.jpg",
-   "categories": [
-    "Film"
-   ],
+   "description": "Alzheimer's Awareness Month",
+   "image_url": null,
+   "categories": [],
    "notes": []
   },
   {
-   "source": "dothebay",
-   "source_id": "17930708",
-   "title": "Community Mondays: Fil Am Futurism with Karl Evangelista and Grex",
-   "start": "2026-10-26T19:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Freight",
-   "address": "2020 Addison St, Berkeley, CA, 94704",
-   "locality": "Berkeley",
-   "geo": [
-    37.8706997,
-    -122.2695537
-   ],
-   "url": "https://dothebay.com/events/2026/10/26/community-mondays-fil-am-futurism-with-karl-evangelista-and-grex-tickets",
+   "source": "city-hall-lights-ics",
+   "source_id": "42a56a9b519d8d50",
+   "title": "CHC: red/white/blue",
+   "start": "2026-11-03T00:00:00-08:00",
+   "end": "2026-11-04T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
    "ticket_url": null,
-   "price_text": "$5+ Sliding Scale",
+   "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Filipino-American guitarist/composer Karl Evangelista presents an evening of daring, contemporary compositions, experimental sounds, and jazz-inflected improvisations, joined by Oakland-based AAPI trio Grex. The group performs selections from Grex's \"Auntie + Tebs,\" a brand new album focused on revolutionary action in the Philippines and South Africa.\n\nKarl Evangelista ranks among the vanguard of musicians pushing the traditions of jazz and experimental music into the future. Signal to Noise magazine hails Evangelista as \"one of the most original instrumentalists and composers of his generation,\" and as the creative force behind boundary-breaking group Grex, Evangelista's music has been called “essential current-and-future listening” (Tiny Mix Tapes). Evangelista has explored new realms in sound and intercultural collaboration alongside the likes of Andrew Cyrille, Fred Frith, Louis Moholo-Moholo, Trevor Watts, Bobby Bradford, Alexander Hawkins, Tatsu Aoki, and Asian Improv aRts co-founder Francis Wong.\n\nGrex is an experimental/art rock band based out of Oakland, California. In biological terms, a \"grex\" is an entity composed of several smaller organisms. Grex (the band) explores the meeting point between surreal songcraft and the dark outer reaches of free jazz and industrial hip-hop.\n\nThe group has been called an \"otherworldly experience\" (Eugene Weekly) and \"true genre warping music\" (KFJC), recalling at turns the ecstatic energy of Milford Graves, the electronic squall of...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34838485/fe0d1f9b-4dee-4d25-9997-70b9df043d54.jpg",
-   "categories": [
-    "Music"
-   ],
+   "description": "Election Day",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "city-hall-lights-ics",
+   "source_id": "ed9ea9c9d0497e1c",
+   "title": "CHC: orange/blue/red",
+   "start": "2026-11-04T00:00:00-08:00",
+   "end": "2026-11-05T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Mayor’s Diwali Celebration in City Hall",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "city-hall-lights-ics",
+   "source_id": "e8f4cf4cd33a82ff",
+   "title": "CHC: blue",
+   "start": "2026-11-14T00:00:00-08:00",
+   "end": "2026-11-15T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "World Diabetes Day",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "city-hall-lights-ics",
+   "source_id": "8f88c59a68c858d8",
+   "title": "CHC: maroon/white",
+   "start": "2026-11-18T00:00:00-08:00",
+   "end": "2026-11-19T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "the National Day of Lativa",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "city-hall-lights-ics",
+   "source_id": "7cf68fe400a96de7",
+   "title": "CHC: blue/pink/white",
+   "start": "2026-11-20T00:00:00-08:00",
+   "end": "2026-11-21T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Transgender Day of Remembrance",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "city-hall-lights-ics",
+   "source_id": "896e79cadf9b7cae",
+   "title": "CHC: light blue",
+   "start": "2026-11-30T00:00:00-08:00",
+   "end": "2026-12-01T00:00:00-08:00",
+   "all_day": true,
+   "bucket": "city-hall-lights",
+   "venue": "San Francisco City Hall",
+   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.sf.gov/location--san-francisco-city-hall",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Stomach Cancer Awareness Day",
+   "image_url": null,
+   "categories": [],
    "notes": []
   },
   {
@@ -14846,6 +14723,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18029074",
+   "title": "Whalefall",
+   "start": "2026-11-03T11:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Alamo Drafthouse Cinema",
+   "address": "2550 Mission St, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7562198,
+    -122.419185
+   ],
+   "url": "https://dothebay.com/events/2026/11/3/whalefall-tickets",
+   "ticket_url": "https://drafthouse.com/sf/show/whalefall?cinemaId=0802&sessionId=23476",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Jay Gardiner is having a whale of a bad day. While diving off the California coast to recover his late father’s remains, he gets swallowed whole by an 80-foot sperm whale and has one hour of oxygen to escape. Austin Abrams, currently having a major moment after starring in Zach Cregger’s RESIDENT EVIL, leads this adaptation of Daniel Kraus’ bestselling novel. Yes, it’s a movie where a guy gets swallowed by a whale, but it’s also a tense and even moving tale of survival, grief, and family. Dive in on the big screen.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35272892/04d332c1-3ff7-4e9e-bee3-5caca28432b3.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17898369",
    "title": "Mind Reels - Maestra",
    "start": "2026-11-03T12:00:00-08:00",
@@ -14892,6 +14796,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35142105/6d26e603-22df-4dd6-848e-c95ac5ce4ee6.jpg",
    "categories": [
     "Theatre & Performing Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18029197",
+   "title": "Valkyries Victory Parade Workshop",
+   "start": "2026-11-03T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Jean Henry School of Art",
+   "address": "2640 Ocean Avenue  , San Francisco, CA, 94132",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/3/valkyries-victory-parade-workshop-tickets",
+   "ticket_url": "https://valkyriesvictory.evenbrite.com",
+   "price_text": "$0 - 20",
+   "is_free": true,
+   "sold_out": false,
+   "description": "A creative session Tuesday night to prepare for the historic Valkyries win!\n\nJean Henry's monthly Creative Workshop series invites attendees to schedule conscious time to work their creative muscles - being present, problem solving, and connecting with the joy of making.\n\nEach session is unique in theme and inspiration. This month we celebrate the Goldenstate Valkyries making history as the 2026 Champions of the WNBA! Fans and attendees show up and select from various media and materials to create a unique piece to show their fandom for the Valkyries Victory Parade the next day on Wednesday, November 4th at noon.\nDoors open at 5pm but you can arrive anytime - This is a perfect place to spread out, get inspired, connect with fellow fans and share some memories of the incredible Valkyries season!\n\nIncluded: Space to creatively explore, company with fellow fans, art supplies, curated set list, and a selection of light snacks and beverages.\n\nAttendees can use materials provided and are also welcome to bring their own supplies. This workshop is all-ages, but we invite folks to BYOB and enjoy responsibly.\n\nThe Jean Henry Creative Workshop is an experience - a unique monthly series for explorative minds hosted by Mike and George. Space is limited!\n\nhttps://valkyriesvictory.eventbrite.com",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35273637/8a91aa16-fa2e-424e-953f-0483f4c61609.jpg",
+   "categories": [
+    "Arts & Family"
    ],
    "notes": []
   },
@@ -14944,6 +14872,33 @@
    "sold_out": false,
    "description": "Ainara is seventeen, brilliant, and expected to choose a university degree. Instead, she makes a choice no one saw coming: she feels called to God and is considering life as a cloistered nun. Her announcement stuns her family, opens a deep rift between them, and forces each of them to question what they believe and what they want for her.\n\nWinner of the Golden Shell at San Sebastián and the Goya for Best Film.\n\nRuntime\n\n1h 55m\n\nYear\n\n2025\n\nDirector\n\nAlauda Ruiz de Azúa\n\nFormat\n\nDCP\n\nCountry\n\nSpain & France\n\nLanguage\n\nSpanish, Basque and English\n\nCategories\n\nFeatured",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35023740/12d006b8-80b5-44f5-b543-8c96281865e0.jpg",
+   "categories": [
+    "Film"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18029068",
+   "title": "Wild at Heart",
+   "start": "2026-11-03T18:45:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "film",
+   "venue": "Alamo Drafthouse Cinema",
+   "address": "2550 Mission St, San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7562198,
+    -122.419185
+   ],
+   "url": "https://dothebay.com/events/2026/11/3/wild-at-heart-tickets",
+   "ticket_url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0802&sessionId=22085",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "David Lynch blends together southern gothic melodrama, THE WIZARD OF OZ, surreal kinky violence, and Elvis in this nightmare soap opera thrill ride.\n\nBased on the pulp novel by author Barry Gifford, WILD AT HEART follows outlaw lovers Sailor (Nicolas Cage) and Lula (Laura Dern) as they go on the run through a menacing Deep South, populated by the usual stable of unsettling Lynchian weirdos (including a bonkers Willem Dafoe). Funny, scary, and brilliantly cinematic, Lynch received the Palme d’Or for this film at Cannes amid “the most violent chorus of boos and hisses to be heard in a decade.” Strap in.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35272869/19e66bba-aaf1-4a9d-b0f4-e6a9bbc1dedf.jpg",
    "categories": [
     "Film"
    ],
@@ -15358,6 +15313,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18029103",
+   "title": "Valkyries Championship Parade",
+   "start": "2026-11-04T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The Embarcadero",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/4/valkyries-championship-parade-tickets",
+   "ticket_url": "https://valkyries.com/playoffs/?_gl=1*n63cuy*_gcl_au*ODkxMTg5MDg3LjE3OTMyMjExMDE.#parade",
+   "price_text": "Free, All Ages",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Kaiser Permanente Presents\nValkyries Championship Parade\nWednesday, November 4 | The Embarcadero\n\nYour Golden State Valkyries are the 2026 WNBA Champions\n\nThe Golden State Valkyries defeated the Atlanta Dream in the WNBA Finals to capture the team's first WNBA Championship, becoming the only organization to ever win a title in their first two years of expansion. Gabby Williams earned the title of Finals Most Valuable Player after her 30-point performance in the clinching victory.\n\nThe 2026 WNBA Champion Golden State Valkyries and the City of San Francisco will host the Valkyries Championship Parade, presented by Kaiser Permanente, on Wednesday, Nov. 4 from 12 p.m. to 2 p.m. The parade will travel along The Embarcadero, starting at the Ferry Building near Mission Street and ending at King and 2nd Street. Fans can begin lining up along the parade route at 9 a.m. on the bay side of Embarcadero from Mission Street to 2nd Street.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35273052/01b4310f-dd61-4570-8d45-e36a671b1e7b.png",
+   "categories": [
+    "Variety"
+   ],
+   "notes": [
+    "Kaiser Permanente Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17637832",
    "title": "TransLife Galaxy Mental Health Series",
    "start": "2026-11-04T13:00:00-08:00",
@@ -15379,6 +15360,35 @@
     "LGBTQ"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18028863",
+   "title": "Free Art Workshop: Clay Tile Textures",
+   "start": "2026-11-04T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Yerba Buena Center for the Arts",
+   "address": "701 Mission St, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7856437,
+    -122.4021904
+   ],
+   "url": "https://dothebay.com/events/2026/11/4/free-art-workshop-clay-tile-textures-tickets",
+   "ticket_url": "https://bit.ly/4hyAzCv",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Create art inspired by our programming at this drop-in art workshop! All ages welcome, all materials provided.\n\nLearn how to carve marks and textures on clay tiles in a workshop inspired by “Rael San Fratello: Prototypes and Provocations” on view at YBCA.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35271818/a833abd9-5522-4d93-99e3-5a78f9d0d34f.jpg",
+   "categories": [
+    "Arts & Family"
+   ],
+   "notes": [
+    "Yerba Buena Center for the Arts"
+   ]
   },
   {
    "source": "dothebay",
@@ -16051,6 +16061,33 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35230013/57ea2460-991f-4f05-8f29-aea28689b5a5.png",
    "categories": [
     "Dance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18029035",
+   "title": "Guajirón at Blondie’s Bar",
+   "start": "2026-11-04T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Blondies Bar & No Grill",
+   "address": "540 Valencia St., San Francisco, CA, 94110",
+   "locality": "San Francisco",
+   "geo": [
+    37.7641992,
+    -122.4220593
+   ],
+   "url": "https://dothebay.com/events/2026/11/4/guajiron-at-blondie-s-bar-tickets",
+   "ticket_url": "https://guajiron.com/shows/blondies-1st-wed-2026-11-04/",
+   "price_text": "Free admission. Live music 8 PM–midnight.",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Hot Cuban salsa, guaracha and son with Guajirón at Blondie’s Bar! Irresistible rhythms, live and for free, right in the heart of the Mission.\nWednesday, November 4, 2026 · 8 PM–midnight\nBlondie’s Bar · 540 Valencia St, San Francisco\nFree admission. Come listen, dance, and enjoy a night of live Cuban music.\nOfficial event details: https://guajiron.com/shows/blondies-1st-wed-2026-11-04/",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35273069/1888d285-edaa-4041-b804-bed196cd669c.jpg",
+   "categories": [
+    "Music"
    ],
    "notes": []
   },
@@ -17133,35 +17170,6 @@
   },
   {
    "source": "dothebay",
-   "source_id": "17862989",
-   "title": "Gnarls Barkley",
-   "start": "2026-11-05T20:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Masonic",
-   "address": "1111 California St., San Francisco, CA, 94108",
-   "locality": "San Francisco",
-   "geo": [
-    37.7911829,
-    -122.412938
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/gnarls-barkley-to-whom-it-still-concerns-tour-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fgnarls-barkley-to-whom-it-still-san-francisco-california-11-05-2026%2Fevent%2F1C00652FCECC2A01",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "To Whom It Still Concerns Tour\nGnarls Barkley\nwith Gallant\n\nThursday, November 5 | The Masonic",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34522816/55393636-2d3a-47ba-9e15-41ec67127f72.png",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "To Whom It Still Concerns Tour"
-   ]
-  },
-  {
-   "source": "dothebay",
    "source_id": "17929975",
    "title": "LIVE MUSIC: Good Friends, The Lowtimers & more",
    "start": "2026-11-05T20:00:00-08:00",
@@ -17293,33 +17301,6 @@
   {
    "source": "dothebay",
    "source_id": "17979408",
-   "title": "Local 500 & Public Works Present: Function 500 w/ FLUXIONS",
-   "start": "2026-11-05T21:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Public Works",
-   "address": "161 Erie Street, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7688759,
-    -122.4194268
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/local-500-public-works-present-function-500-w-fluxions-tickets",
-   "ticket_url": "https://tixr.com/af/dostuff/211559",
-   "price_text": "$5-$10, 21+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Thursday, November 5th, 9pm - 2am\n\nLoft / 21+ / Limited Capacity\n\nWant free entry? Check out the PW Union where members get event access, drinks, skip the line, and more starting at just $12/month or $10 with an annual plan: www.publicsf.com/membership\n\nLocal 500 and Public Works Present:\n\nFunction 500\n\nFor our eighth installment of our monthly residency, we will be local crew and event series organizer, FLUXIONS (@fluxions.exe). Representing FLUXIONS are co-founders Vertigo (@v.ertiig0) & bad juuju (@bad.juuju).\n\nFLUXIONS is bad juuju and Vertigo's event series that curates sweaty, bassy and foggy DIY focused events in San Francisco, CA. Launching in 2024, their events and HydeFM residency push soundscapes that mutate in real-time, weaving between hypnotic atmospheres, pulsating beats, and heavily percussive bass lines.\n\nIn true Local500 (@local500sf) fashion, we’re continuing to bring love back to Thursday nights in San Francisco. Expect techno, percussive bass lines, groove, and a tighter underground feel as we showcase local crews and producers.\n\nLocal500 support: Panderer(@panderer.dj) and AGROPOL(@agropol_)\n\nShow up. Support local talent. Be apart of something...\n\nNovember 5th\n\n$5 online - $10 at door\n\n9pm-2am\n\nbad juuju: Seamlessly weaving between swirling psychedelic worlds, percussive intensity, and deep bass frequencies, bad juuju moves crowds with her eclectic approach rooted in club sensibilities. As a member of rising San Francisco-based DJ collective Vitamin1000...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35067102/d24529c2-c4f1-44ee-a92f-dac875ec0cae.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17985980",
    "title": "Function 500 w/ FLUXIONS",
    "start": "2026-11-05T21:00:00-08:00",
    "end": null,
@@ -17332,18 +17313,18 @@
     37.7688759,
     -122.4194268
    ],
-   "url": "https://dothebay.com/events/2026/11/5/function-500-w-fluxions-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Flocal-500-public-works-present-function-500-w-fluxions-tickets-2003799777074",
-   "price_text": "$7.93",
+   "url": "https://dothebay.com/events/2026/11/5/local-500-public-works-present-function-500-w-fluxions-tickets",
+   "ticket_url": "https://www.tixr.com/groups/publicsf/events/local-500-public-works-present-function-500-w-fluxions-211559?utm_source=publicsf&utm_medium=venuewebsite",
+   "price_text": "21+",
    "is_free": false,
    "sold_out": false,
-   "description": "Thursday, November 5th, 9pm - 2am\n\nLoft / 21+ / Limited Capacity\n\nWant free entry? Check out the PW Union where members get event access, dr",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35109390/40dfc3de-bfce-4287-a9ec-98b585ebecb3.jpg",
+   "description": "Local 500 & Public Works Present\nFunction 500 w/ FLUXIONS\nThursday, November 5 | Public Works",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35067102/d24529c2-c4f1-44ee-a92f-dac875ec0cae.jpg",
    "categories": [
     "Music"
    ],
    "notes": [
-    "Local 500 & Public Works Present:"
+    "Local 500 & Public Works Present"
    ]
   },
   {
@@ -19751,6 +19732,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18029364",
+   "title": "Indigenous Voices: Greg Sarris & Jennifer Foerster in Conversation",
+   "start": "2026-11-07T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Telegraph Hill Books",
+   "address": "1501 Grant Avenue, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/7/indigenous-voices-greg-sarris-jennifer-foerster-in-conversation-tickets",
+   "ticket_url": "https://telhil.it/Greg-and-Jennifer",
+   "price_text": "Free",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us as we welcome Greg Sarris and Jennifer Foerster to share their latest works — The Last Human Bear and The Maybe-Bird. This evening kicks off our Native American Heritage Month series, celebrating Native voices in literature and community.\n\nFree to attend — RSVP required to reserve your seat.\n\nSpeakers\nGreg Sarris is an enrolled member of the Federated Indians of Graton Rancheria and is currently serving his seventeenth consecutive elected term as chairman of the tribe. He is the author of several books, including the novel Grand Avenue, which he adapted for an HBO miniseries and co-executive produced with Robert Redford; the novel Watermelon Nights; Weaving the Dream, a biography of Mabel McKay; Becoming Story, a memoir; and the story collections How a Mountain Was Made and The Forgetters. Formerly a full professor of English at UCLA, Sarris serves on the University of California Board of Regents and the Sundance Institute Board, and he holds the Distinguished Emeritus Graton Endowed Chair in Native American Studies at Sonoma State University. He lives in Sonoma County, California. (Photo by Beowulf Sheehan)\n\nJennifer Elise Foerster is the author of three books of poetry, The Maybe Bird (The Song Cave, 2022), Bright Raft in the Afterweather (University of Arizona Press, 2018), and Leaving Tulsa (University of Arizona Press, 2013), and served as the Associate Editor of When the Light of the World Was Subdued, Our Songs Came Through: A Norton Anthology of Native Nations...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35274469/8527ee1f-c42b-4e7a-8b29-5f1dad827f18.jpg",
+   "categories": [
+    "Literature"
+   ],
+   "notes": [
+    "Telegraph Hill Arts and Literature Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17025025",
    "title": "Mark Normand",
    "start": "2026-11-07T19:00:00-08:00",
@@ -20151,6 +20158,30 @@
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34955992/580ec724-fef1-4b16-8edf-26566187deae.jpg",
    "categories": [
     "The Arts"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18028986",
+   "title": "Comedy Night in Fremont: Laugh Track City Live Improv",
+   "start": "2026-11-07T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Made Up Theatre",
+   "address": "4000 Bay Street, Suite B, Fremont, CA, 94538",
+   "locality": "Fremont",
+   "geo": null,
+   "url": "https://dothebay.com/events/weekly/sat/comedy-night-in-fremont-laugh-track-city-live-improv-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F2004250885351",
+   "price_text": "$15 + fees ($17.85 total); recommended ages 16+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Looking for a Saturday comedy night in Fremont? Laugh Track City brings live improv comedy to Made Up Theatre in the Irvington district. Inspired by audience suggestions, the cast creates unscripted games, scenes and characters on the spot. Every show is different!\nAn East Bay date night, a fun night out with friends, or a solo comedy adventure. If you enjoy Whose Line Is It Anyway?, experience spontaneous improv in person. Participation is voluntary.\nSaturdays November 7, 2026 through December 25, 2027, 7:00–8:15 PM. Doors 6:45 PM.\nMade Up Theatre, 4000 Bay Street, Suite B, Fremont, CA 94538. Second floor; stairs required, no elevator. Recommended ages 16+; adult language and content possible.\nTickets: $15 + Eventbrite fees ($17.85 total).\nhttps://www.eventbrite.com/e/2004250885351\nOfficial show schedule: https://madeuptheatre.com/upcoming-shows/laugh-track-city/\nTheatre website: https://madeuptheatre.com/\nMore Fremont comedy: https://fremontcomedyscene.com/",
+   "image_url": null,
+   "categories": [
+    "Comedy"
    ],
    "notes": []
   },
@@ -21080,6 +21111,32 @@
     "Holiday Event"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18029606",
+   "title": "Raiders vs 49ers",
+   "start": "2026-11-08T11:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Las Palams Event Center",
+   "address": "9305 Railroad Ave, Oakland, CA 94603, Oakland, CA, 94603",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/8/raiders-vs-49ers-tickets",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "**TWO TEAMS. ONE BAY. ONE COMMUNITY!**\n\nOakland has always been more than just a city. It's a culture, a movement, a family, and a spirit that can't be duplicated!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35275566/485bc6cf-fdaa-40b5-9e7d-8000e57cc2fb.jpg",
+   "categories": [
+    "Sports"
+   ],
+   "notes": [
+    "Forever Oakland Presents"
+   ]
   },
   {
    "source": "dothebay",
@@ -22217,6 +22274,30 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18029748",
+   "title": "French Café Music dinner concert with Bistro Moustache",
+   "start": "2026-11-09T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Scopo Divino",
+   "address": "2800 California Street, San Francisco, CA, 94115",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/9/french-cafe-music-dinner-with-bistro-moustache-tickets",
+   "ticket_url": "https://www.bistromoustache.com/calendar",
+   "price_text": "Free, no cover",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Bistro Moustache plays French Café music, a style that mixes Manouche, Gypsy Jazz, Musette, Swing, and that was popular in France before and after the Second World War, and that is still very much alive today.\n\nWe go from the popular timeless classics (Les Feuilles Mortes, C’est Si Bon, Ménilmontant, J’Attendrai, La Foule, Sous Le Ciel De Paris, La Vie En Rose) to more modern (Il Est Cinq Heures Paris S’Éveille, Le Poinçonneur Des Lilas, Le Déserteur, Vesoul), and even songs that you may hear on the French radio today. We also feature dance tunes, Waltzes, Polkas, Tangos, Auvergne Bourrées and Celtic folk, or French children comptines, like Frère Jacques, or Sur Le Pont D’Avignon. All the songs are sung in French by Olivier, a native Parisian.\n\nJust as if Charles Trenet, Jacques Brel, Yves Montand, Georges Brassens, Serge Gainsbourg, Tino Rossi, Edith Piaf, Boris Vian, Django Reinhardt, Gus Viseur and Jo Privat were all on the same stage together for one evening.\n\nPrepare to be musically transported to the terrace of a Paris Bistro, a Guinguette on the Marne river or a Bal Musette on the banks of the Seine.\n\nMore info at: http://www.bistromoustache.com/calendar",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35276283/ccd5e460-0b08-48f1-b0a0-166b12b09caf.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "17959670",
    "title": "The Future of Public Media with PBS CEO Paula Kerger and KQED CEO Michael Isip",
    "start": "2026-11-09T18:00:00-08:00",
@@ -22899,16 +22980,16 @@
    "end": null,
    "all_day": false,
    "bucket": "arts-community",
-   "venue": "KQED LIVE",
-   "address": "The Commons, KQED Headquarters - 2601 Mariposa Street, San Francisco, CA 94110, San Francisco, CA",
+   "venue": "The Commons, KQED Headquarters",
+   "address": "2601 Mariposa Street, San Francisco, CA, 94110",
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/11/10/paint-sip-play-a-mission-district-game-night-tickets",
    "ticket_url": "https://www.kqed.org/event/6827/paint-sip-play-a-mission-district-game-night",
-   "price_text": null,
+   "price_text": "$25+",
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "It’s a Mission District-themed paint-&-sip experience! Whether you’re a beginner to lotería, or whether it’s a staple in your home, this KQED Live game night brings a local twist on the beloved Mexican game. Start by painting your lotería board, or tabla, which features a portrait of San Francisco Drag Laureate Per Sia. While you’re painting, enjoy a performance and conversation with Per Sia and Mission Lotería. Then, we play! Led by Mission Lotería, the game uncovers the rich history of San Francisco’s Mission District.\n\nFeaturing artwork that celebrates the neighborhood’s people, landmarks, and traditions, Mission Lotería invites players to learn while they play. The evening also includes a conversation with one of the cultural keepers featured in the deck, offering stories that bring the cards to life. Come ready to paint, play, laugh, and connect all while learning about the special district many call home.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34278278/ffa13c51-5061-46e4-8b78-5559d4bf4077.png",
    "categories": [
     "Lecture/Education"
@@ -23347,32 +23428,6 @@
   },
   {
    "source": "dothebay",
-   "source_id": "17989719",
-   "title": "Music: the Gathering",
-   "start": "2026-11-11T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Savoy Tivoli",
-   "address": "1434 Grant Avenue, San Francisco, CA, 94133",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/11/music-the-gathering-tickets",
-   "ticket_url": "https://partiful.com/e/zIFwj4smfmJqf4QvEzoC",
-   "price_text": "Free, 21+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Play some music, play some magic, bring your decks, bring your instrument!\n\nJoin us once again at The Savoy Tivoli for Commander games and a video game music jam session. All skill levels are welcome for both, and we also offer pod placement.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35111897/11bf9d93-f9ca-43d9-bf4a-014228e31415.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": [
-    "Checkpoint"
-   ]
-  },
-  {
-   "source": "dothebay",
    "source_id": "17999185",
    "title": "Bay Area Remodeling Awards | BE INSPIRED & SPONSORSHIPS for BIZ SPOTLIGHT!!",
    "start": "2026-11-11T18:00:00-08:00",
@@ -23808,7 +23863,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Please note - there is a delivery delay set for 2 weeks prior to show.",
+   "description": "Stop Light Observations is a dynamic four-piece group hailing from Charleston, South Carolina. Their versatile sound is a unique blend of blues, pop, and indie rock infused with electronic beats and the soulful vocals of Will Blackburn. From songs like “2young” to “Security” their music is a true reflection of their unique personalities, and their live shows are a testament to their authenticity and raw talent.\n\nSLO is Will Blackburn (vocals), Oleg Terentiev (drums), David Beam (guitar) and Jeremiah King (keys).",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32502027/742dda33-16ec-4ada-ac67-a6fef41182b5.jpg",
    "categories": [
     "Music"
@@ -24411,8 +24466,8 @@
    "end": null,
    "all_day": false,
    "bucket": "arts-community",
-   "venue": "KQED LIVE",
-   "address": "The Commons, KQED Headquarters - 2601 Mariposa Street, San Francisco, CA 94110, San Francisco, CA",
+   "venue": "The Commons, KQED Headquarters",
+   "address": "2601 Mariposa Street, San Francisco, CA, 94110",
    "locality": "San Francisco",
    "geo": null,
    "url": "https://dothebay.com/events/2026/11/12/object-stories-san-francisco-tickets",
@@ -25661,7 +25716,7 @@
   {
    "source": "dothebay",
    "source_id": "17966509",
-   "title": "Tyla",
+   "title": "Tyla (Moved to Fox Theater)",
    "start": "2026-11-13T19:00:00-08:00",
    "end": null,
    "all_day": false,
@@ -25842,7 +25897,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "Waitress tells the story of Jenna, an expert pie maker who dreams of a way out of her small town in this uplifting celebration of friendship, motherhood, and the magic of a well-made pie.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33506796/f4ce2458-3e8e-45a6-8875-b9fedbaf0904.jpg",
    "categories": [
     "Theatre & Performing Arts"
@@ -27258,6 +27313,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18029372",
+   "title": "Indigenous Voices: Sara Calvosa Olson and Crystal Wahpepah in Conversation",
+   "start": "2026-11-14T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Telegraph Hill Books",
+   "address": "1501 Grant Avenue, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/14/indigenous-voices-sara-calvosa-olson-and-crystal-wahpepah-in-conversation-tickets",
+   "ticket_url": "https://telhil.it/Sara-and-Crystal",
+   "price_text": "Free",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us as we continue our Native American Heritage Month series, welcoming Sara Calvosa Olson and Crystal Wahpepah to share their latest works — Chími Nu'am and A Feather and a Fork.\n\nFree to attend — RSVP required to reserve your seat.\n\nSpeakers\nSara Calvosa Olson (Karuk) is a food writer and editor living in the Bay Area with her husband and two teenage sons. Her work dwells at the intersection of storytelling, Indigenous food systems, security, sovereignty, reconnection, and recipe development. Her writing has appeared in News from Native California and Edible Shasta-Butte. Visit her website at akihsara.com, and follow her on Instagram at @thefrybreadriot.\n\nChef Crystal Wahpepah, a registered member of the Kickapoo Tribe of Oklahoma, has long been a warrior for Indigenous food sovereignty. She is the creative tour de force behind the inventive, healthy, and delicious dishes served at her restaurant, Wahpepah’s Kitchen, in Oakland, California—the first Native woman-owned restaurant in Northern California.\nIf Crystal is not at her Oakland, California restaurant, Wahpepah’s Kitchen, she is on the road, talking about Native American foodways, advocating for Indigenous food sovereignty, and celebrating the launch of her debut cookbook, “A Feather and a Fork.”",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35274564/680d3ba7-0b4c-4576-a9f0-99e0d74af903.jpg",
+   "categories": [
+    "Literature"
+   ],
+   "notes": [
+    "Telegraph Hill Arts and Literature Presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "16993991",
    "title": "Mo Amer",
    "start": "2026-11-14T19:00:00-08:00",
@@ -27648,6 +27729,35 @@
     "Music"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18029691",
+   "title": "MONUMENTS",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Palace of Fine Arts",
+   "address": "3301 Lyon Street, San Francisco, CA, 94123",
+   "locality": "San Francisco",
+   "geo": [
+    37.8019913,
+    -122.4486565
+   ],
+   "url": "https://dothebay.com/events/2026/11/14/monuments-tickets",
+   "ticket_url": "https://rasa.fyi/event/monuments/igbio",
+   "price_text": "21+, tickets starting at $50",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Born from RASA’s Eiffel Tower show in Paris, MONUMENTS transforms extraordinary landmarks into singular nights of music, atmosphere, and connection. For one night, the architecture becomes part of the experience. San Francisco’s Palace of Fine Arts is next.\n\nMONUMENTS is RASA’s new event series bringing music into some of the world’s most remarkable spaces. Each edition is shaped by its setting, pairing iconic architecture with carefully curated artists, immersive production, and the community around it.\n\nThe idea is simple: take a place people already know and create a night they’ve never experienced there before.",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35276030/63fa4b42-103e-46aa-96b7-522e33ac08e0.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "PRESENTED BY RASA X NPU"
+   ]
   },
   {
    "source": "dothebay",
@@ -28078,6 +28188,35 @@
    ],
    "notes": [
     "Another Planet Entertainment Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17742742",
+   "title": "QTS: Farius' Queer Trance Party San Francisco",
+   "start": "2026-11-14T21:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Public Works",
+   "address": "161 Erie Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7688759,
+    -122.4194268
+   ],
+   "url": "https://dothebay.com/events/2026/11/14/qts-san-francisco-tickets",
+   "ticket_url": "https://tixr.com/af/dostuff/203472",
+   "price_text": "$27.91-$36.66, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Fall Tour 2026\nQTS: Farius' Queer Trance Party San Francisco\nSaturday, November 14 | Public Works",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33952453/18a1c35a-b63f-426f-836f-c6222ab2cda0.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": [
+    "Fall Tour 2026"
    ]
   },
   {
@@ -29142,7 +29281,7 @@
   {
    "source": "dothebay",
    "source_id": "17877351",
-   "title": "Sina Bathaie | White Lotus World Tour: Back Together",
+   "title": "Sina Bathaie",
    "start": "2026-11-15T19:00:00-08:00",
    "end": null,
    "all_day": false,
@@ -29159,12 +29298,14 @@
    "price_text": "$39.99-$70, 21+",
    "is_free": false,
    "sold_out": false,
-   "description": "Sunday, November 15th, 7pm - 9.30pm\n\nMain Room / 21+ / Limited Capacity\n\nWant free entry? Check out the PW Union where members get event access, drinks, skip the line, and more starting at just $12/month or $10 with an annual plan: www.publicsf.com/membership\n\nSina Bathaie returns to San Francisco with Back Together, a new chapter of the White Lotus World Tour. Blending Persian instruments, cinematic melodies and electronic rhythms, Sina brings his immersive live show back to San Francisco for an intimate night of music, energy and connection.\n\nLINEUP:\n\nSina Bathaie",
+   "description": "White Lotus World Tour: Back Together\nSina Bathaie\nSunday, November 15 | Public Works",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34589132/0fea7f4f-ea06-40a8-b5df-664143059e4e.jpg",
    "categories": [
     "Music"
    ],
-   "notes": []
+   "notes": [
+    "White Lotus World Tour: Back Together"
+   ]
   },
   {
    "source": "dothebay",
@@ -29684,6 +29825,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18029607",
+   "title": "Found Company: A Spontaneous Staged Reading",
+   "start": "2026-11-16T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Eclectic Box SF",
+   "address": "446 Valencia Street, San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/16/found-company-a-spontaneous-staged-reading-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F2003737868905",
+   "price_text": "$20-40 / 2-for-1 promo / NOTAFLOF",
+   "is_free": false,
+   "sold_out": false,
+   "description": "What: Found Company\nWhere: Eclectic Box (map)\nWhen: November 16, 2026 at 7:00 PM\nTickets\n\nYou are invited to a one-of-a-kind theater experience: be a part of a one-day play performance! Mission StageWorks welcomes you to experience the joy of acting and playing onstage. Here’s your chance to connect in a radically inclusive space. Never been on stage? Getting back into acting? Just like to perform? Perfect! This low pressure environment is designed to meet people, create characters, play during rehearsal, and present short staged-reading performances with a short-term theater ensemble.\nCome for the love of theater. Leave with found company.\n\nFree food and drinks!\n\nClick here for tickets\n\nClick here for more information",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35275578/48e0ec63-583a-4620-82e0-b146c54b95c1.jpg",
+   "categories": [
+    "Theatre & Performing Arts"
+   ],
+   "notes": [
+    "Mission StageWorks presents:"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17903007",
    "title": "Dive in Wonderland",
    "start": "2026-11-16T19:15:00-08:00",
@@ -29780,7 +29947,7 @@
    "price_text": "$24-$28, All Ages",
    "is_free": false,
    "sold_out": false,
-   "description": null,
+   "description": "In an era of excess and endless distraction, the New York-based singer/songwriter Margaret Glaspy rejects the noise in favor of something far more essential. Glaspy has assembled a selection of songs that span from fictional vignettes to unguarded self-revelation to empathetic observation of the troubled world around her. Produced by Joe Henry (the three-time Grammy-winning singer/songwriter/producer known for his work with luminaries like Aimee Mann and Joan Baez), I Am Both ultimately stands as a striking new statement from one of the modern music canon’s most formidable songwriters.\n\nAnna Tivel is a Portland, Oregon-based, internationally touring songwriter who is forever drawn to the quiet stories of ordinary life. The characters and imagery that populate her writing are full of breath and vivid color. With six full-length albums out and a seventh on the way, Anna has been likened to a short story writer and praised by NPR, Rolling Stone, Billboard, and others for her keen observations of the human condition. In fact, Ann Powers of NPR Music had this to say, \"Anna Tivel is just one of my absolute favorite living songwriters. Her writing on [Outsiders] is at the same level as Paul Simon when he wrote 'The Boxer' and 'American Tune'\"",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32548776/c086325f-f724-407c-9e3a-424c0e71d810.png",
    "categories": [
     "Music"
@@ -55709,30 +55876,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1643383",
-   "title": "Rafiki Community Market",
-   "start": "2026-10-26T13:30:00-07:00",
-   "end": "2026-10-26T15:30:00-07:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "umoja hap",
-   "address": "5000 3rd Street, San Francisco, CA 94124",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/rafiki-community-market-5/",
-   "ticket_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=k_5j3A5PDkuDIFm0pUUR3tODlOTRAYRIobVeubX5OoxUNzBPQk5aQlNNQkNGQU5ERVpWRTlVVUE1MyQlQCN0PWcu",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerrafikiRafiki Coalition and SF-Marin Food Bank are working together to bring healthy, fresh food to eligible Bayview residents in need for FREE!.\nThe Rafiki Community Food Market is for people connected to the Bayview community. You can sign up if you:\n\nYou must live in San Francisco in the 94124 zip code.\nLow-to-moderate income (about at or below twice the federal poverty level).\nNo proof of income required — eligibility is based on self-attestation.\nEach household may only attend one weekly San Francisco-Marin Food Bank grocery distribution",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Rafiki-Community-Market-Postcard-Front-3-3.png",
-   "categories": [
-    "Free Food"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1643579",
    "title": "Dune: Part Three in IMAX (San Jose)",
    "start": "2026-10-26T17:00:00-07:00",
@@ -55752,30 +55895,6 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/image-2026-10-21T071746.653.png",
    "categories": [
     "Movies"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1644431",
-   "title": "2026 Valkyries WNBA Finals Game 5: Free Outdoor Rooftop Watch Party (Salesforce Park)",
-   "start": "2026-10-26T17:00:00-07:00",
-   "end": "2026-10-26T19:00:00-07:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Salesforce Park",
-   "address": "425 Mission St., San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/2026-valkyries-finals-game-5-watch-party-free-sf/",
-   "ticket_url": "https://www.instagram.com/p/De9zMOll436/?hl=en",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "TJPA’s Salesforce ParkSalesforce Park hosts a free outdoor rooftop watch party for the Golden State Valkyries’ WNBA Finals Game 5 against the Atlanta Dream at 5:00 PM. Fans are invited to wear purple and watch with fellow supporters. The event graphic also lists Game 6 on October 29 and Game 7 on October 31, both at 5:00 PM.\nOriginal Event Description:\n_Valkyries fans, let’s bring the energy! 💜🏀\nJoin us TODAY at TJPA’s Salesforce Park for our WNBA Finals Game 5 Watch Party! Wear your purple, bring your crew, and cheer on Golden State with fellow fans as the Finals excitement continues.\nLet’s get loud for the Valkyries! 💜\n#SalesforcePark #Valkyries #WNBAFinals #GoldenStateValkyries\nSalesforce Park – Rooftop Park in Downtown SF – Free_\nText extracted from provided image:\nFUNDING PROVIDED BY:\nTJPA\nTRANSBAY JOINT POWERS AUTHORITY\nTHE EAST CUT\n26 OCT\nWATCH\nGAME 5\nPARTY\n5PM\n@SALESFORCEPARKSF\nGOLDEN STATE\nVALKYRIES\nV.\nATLANTA DREAM\nAdditional Dates:\nGame 6: October 29, 5:00 PM\nGame 7: October 31, 5:00 PM\n\n@salesforceparksf\nTJPA’s Salesforce Park\nPublic park owned and operated by the Transbay Joint Powers Authority, open 6am – 9pm daily.\ntjpa.org/salesforce-transit-center/activities",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/867286113_17992243605026936_8339231435426244716_n.jpg",
-   "categories": [
-    "Outdoors"
    ],
    "notes": []
   },
@@ -55896,30 +56015,6 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/4805_v0.jpg",
    "categories": [
     "Club Dj"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1643685",
-   "title": "Author Talk: How to Look Away with Daniel Peña and Sasha Vasilyuk",
-   "start": "2026-10-26T18:30:00-07:00",
-   "end": "2026-10-26T19:30:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Mill Valley Public Library",
-   "address": "375 Throckmorton Ave., Mill Valley, CA",
-   "locality": "Mill Valley",
-   "geo": null,
-   "url": "https://sf.funcheap.com/author-talk-daniel-pea-sasha-vasilyuk/",
-   "ticket_url": "https://millvalleylibrary.libcal.com/event/17292117",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerPhoto courtesy of the authorIn How to Look Away, Daniel Peña explores how fringe elements of his Texas childhood—AM radio, conspiracy theories, Post-Cold War paranoia—came to dominate the American political discourse and contributed to our extreme tolerance of human rights abuses against migrants from Latin America and elsewhere. He asks: What compels us to look away from these abuses? And how do we wake ourselves into action?\nThese evocative essays braid journalism, cultural criticism, and memoir, roaming from the vestigial Comanche War battlefields of his native Austin, to the black markets of Mexico City, to the home of a cartel hitman’s family doomed to live in the unglamorous aftermath of his crimes. Writing from both Mexico and the United States, Daniel Peña reflects on two childhood fears: demons and the death penalty. Or the answer to the question, “Do you ever really belong to yourself?” A question that serves as the looking glass through which Peña meditates on American citizenship and the kinds of people we are willing to disappear in the name of the American project.\n\nDaniel Peña is a Pushcart Prize-winning writer and Associate Professor at the University of North Texas where he teaches in the PhD Program in Creative Writing. Formerly, he was based out of the UNAM in Mexico City where he worked as Fulbright-Garcia Robles Scholar. A graduate of Cornell University and a former Picador Guest Professor in Leipzig, Germany, his writing h...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/author-talk-daniel-pena-insta.jpg",
-   "categories": [
-    "Lectures Workshops"
    ],
    "notes": []
   },
@@ -71559,6 +71654,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645633",
+   "title": "“Let’s Glow SF” 2026: SF’s Huge Holiday Projection Arts Fest (Opening Night Celebration)",
+   "start": "2026-12-04T17:30:00-08:00",
+   "end": "2026-12-04T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Harry Bridges Plaza",
+   "address": "One Ferry Building, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/lets-glow-sf-2026-sfs-huge-holiday-projection-arts-fest-opening-night-celebration/",
+   "ticket_url": "https://www.downtownsf.org/events/letsglowsf/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "“Let’s Glow SF” 2026: SF’s Huge Holiday Projection Arts Festival (Dec. 4-13)\nDowntown San Francisco Partnership\nLet’s Glow SF, the nation’s largest free holiday projection arts festival, is lighting up downtown San Francisco once again for its sixth and brightest year yet.\nThis all-ages, family-friendly festival runs for 10 dazzling nights from December 4-13, 2026. Experience breathtaking animated projections illuminating iconic buildings across downtown San Francisco, transforming them into colossal, colorful canvases featuring spectacular artwork by 19 artists from around the globe. It’s a larger-than-life holiday light show that turns the heart of the city into an open-air art gallery after dark.\n\n2026 Let’s Glow SF Festival Showtimes\n\nFriday, December 4: Countdown to Glow opening-night celebration, 6-7pm at Harry Bridges Plaza in front of the Ferry Building.\nFriday, December 4: Festival projections, 7-10pm.\nDecember 5-13: Nightly projections, 5:30-10pm.\n\n2026 Show Locations (map)\n\nFerry Building (1 Ferry Building) – Best viewed from Harry Bridges Plaza.\n101 California St. (101 California St.) – Best viewed from inside 101 California Plaza.\nPacific Exchange (301 Pine St.) – Best viewed from 300 Pine Street.\nHobart Building (582 Market St.) – Best viewed from 1 Post Street.\nYerba Buena Lane (Market St.) – Best viewed from Yerba Buena Lane off Market Street.\nSalesforce Tower (415 Mission St.) – Best viewed from anywhere in downtown.\n\nLGSF Business Specials\nParticipating down...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/10/Lets-Glow-SF.jpg",
+   "categories": [
+    "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1638522",
    "title": "SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telescope (Final Night of 2026)",
    "start": "2026-12-04T18:30:00-08:00",
@@ -83213,6 +83332,7 @@
     "1645573": "2026-11-02T19:13:39",
     "1645575": "2026-11-02T19:13:42",
     "1645577": "2026-11-02T19:13:44",
+    "1645633": "2026-11-03T01:10:49",
     "165284": "2026-10-28T22:14:53",
     "776291": "2026-10-21T21:20:52"
    }
@@ -83511,6 +83631,11 @@
    "sequence": 0,
    "last_modified": "2026-10-30T10:10:08.918206Z"
   },
+  "caldiscovery-festival-93a156ab5dbdcd56@sf-cal": {
+   "content_hash": "42226d1d55fc80fc4766724ecd1db790ba2155d4e6e71b4b0a697ffd6c9e6dd5",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
   "caldiscovery-festival-970827771cc92965@sf-cal": {
    "content_hash": "ec7304138ed88b6e13f597c31db194b3d71718205888d89140dd12fd29ee4f11",
    "sequence": 0,
@@ -83616,15 +83741,55 @@
    "sequence": 0,
    "last_modified": "2026-10-13T06:51:57.281803Z"
   },
+  "city-hall-lights-ics-21bd90243e1afa78@sf-cal": {
+   "content_hash": "6a3093a7ff1d0f614ee4d03f67b371d5781a9191c8caf007b9538d27beb9a93c",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "city-hall-lights-ics-42a56a9b519d8d50@sf-cal": {
+   "content_hash": "341fe559b1e92be22e530aa319db821d46dbde6acc87721b031447ef2647f592",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "city-hall-lights-ics-7cf68fe400a96de7@sf-cal": {
+   "content_hash": "0891926861664965de6e13fa6c1f7e3aecc1565686befaf04e3c8f055defaa63",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "city-hall-lights-ics-896e79cadf9b7cae@sf-cal": {
+   "content_hash": "c8a4d09ef025d9da1d87f252e257d56eb313c67ad0f562180c8b47f9bc6e4527",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "city-hall-lights-ics-8f88c59a68c858d8@sf-cal": {
+   "content_hash": "f65a98734865f93eb7651572548781adc45d59e6195da3ccb6b3d9dd2016a2ef",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
   "city-hall-lights-ics-986aab3a07cf9fe2@sf-cal": {
    "content_hash": "eda25895dab31cbc7af5c4b7221b2753b2198a6262ce7453325df2ed751814d0",
    "sequence": 0,
    "last_modified": "2026-10-27T00:32:00.629104Z"
   },
+  "city-hall-lights-ics-d64760f9cc4d64ec@sf-cal": {
+   "content_hash": "e78ec171725515a819b9de92283b403cbafd32c3825bb5ea40a36752968f31de",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
   "city-hall-lights-ics-e8eb38f0447e2649@sf-cal": {
    "content_hash": "d5b34dc087a6c499f48b39056afa5821f4433bb786f02c0405ff1dc2fd80a81d",
    "sequence": 0,
    "last_modified": "2026-10-06T19:36:03.292649Z"
+  },
+  "city-hall-lights-ics-e8f4cf4cd33a82ff@sf-cal": {
+   "content_hash": "07a96be38b58e4cd104c8bbbf5f291441ac21aba3101877ebdcaf314ec3678d6",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "city-hall-lights-ics-ed9ea9c9d0497e1c@sf-cal": {
+   "content_hash": "bcf8a6dfcb7a17aa844267926bb9aa7aae0531eb123b589373fdeea6e0a99624",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-10986676@sf-cal": {
    "content_hash": "874e4cba816e506c05538f10a74c53034ecbea34a1139391c40733a81dad29b8",
@@ -84342,9 +84507,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17438051@sf-cal": {
-   "content_hash": "90d2a78d48088764c6191fbfec733b1f1fe3f5276cd4bc7d6f608dd7b0e9c031",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "c5c5ffc60e96c79ba9e806b1ed5062a50b02b0e3187963c20962ad057a66dfe4",
+   "sequence": 1,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17443150@sf-cal": {
    "content_hash": "dd8d62fd5e437d62bb047d6af8b58891a63d3eed1affccd6ae39ec99c73797d4",
@@ -84357,9 +84522,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17447402@sf-cal": {
-   "content_hash": "75c3cb7e66cabf9c9e2673a4d719a8a5c86ea223d002e6ebffa9ed55dc90d61e",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "068d4cc442b86d82c7fce18a6c91c2ec9b0abd32fa400a464b259328bc5d6653",
+   "sequence": 1,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17448863@sf-cal": {
    "content_hash": "fa2fa17afd49ef9d01b11b78f10f8883a4140378ee725d7393309471144589f0",
@@ -85217,9 +85382,9 @@
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
   "dothebay-17648108@sf-cal": {
-   "content_hash": "2ff5aa05f2c6ea7558de24b439c8550e30ba614e93d0c8148646b063f2dc59e6",
-   "sequence": 2,
-   "last_modified": "2026-10-28T13:07:10.223012Z"
+   "content_hash": "50f264bc2cc39aed9bf5eaef64537e9bdc5173f869ab0388e714512073fecd8d",
+   "sequence": 3,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17648109@sf-cal": {
    "content_hash": "d2744074471c91a36ece68f9a7c5b3e7fc0c25a90304e869100ca544cb44fccb",
@@ -85245,11 +85410,6 @@
    "content_hash": "ac8580f59d5697a4e980b1ece80d4236a5e3e3077d9335e92c0f4f644caeb7e6",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17648905@sf-cal": {
-   "content_hash": "9608bf9e5d89aec11e93f13858de4b68910172efacfae9ee8db7a353465e7605",
-   "sequence": 2,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
   },
   "dothebay-17659281@sf-cal": {
    "content_hash": "dde6376ae8c35ed200249c033db6f9d52f54b93a93caace204361dc7b0f05d4f",
@@ -85971,6 +86131,11 @@
    "sequence": 0,
    "last_modified": "2026-10-21T17:19:08.982623Z"
   },
+  "dothebay-17742742@sf-cal": {
+   "content_hash": "6f7f7ce6512b222a23d47f3586141f4e20bf2d373cd807cd98f8f36f0eff2dd6",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
   "dothebay-17742961@sf-cal": {
    "content_hash": "32d682124b548f9e026df33229b3ab31d3a8d4af548bca34d4f75614fcd4b92c",
    "sequence": 0,
@@ -86256,11 +86421,6 @@
    "sequence": 1,
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
-  "dothebay-17767019@sf-cal": {
-   "content_hash": "5903d54d97fce357d59fa27d07bc7cdbff1de4a7cbc32514beb7b94241cf4863",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
-  },
   "dothebay-17767020@sf-cal": {
    "content_hash": "d53404b55f5284db9124fc0eef48d6af8d9ad2b33609f4f8ba60e4d63b6c4a28",
    "sequence": 1,
@@ -86522,14 +86682,14 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17811267@sf-cal": {
-   "content_hash": "a86691c57118f457b3df0579634e924f214e450c4c97a0f6fe377c254a0e4f1c",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "52443424d9bfa9e536005388556a41a21fd97f745d88467371d75872fbd3544d",
+   "sequence": 1,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17811270@sf-cal": {
-   "content_hash": "2a1c2152da05d95bde3fc88333726198c75be824e7ce3e374b852bc023367cd6",
-   "sequence": 1,
-   "last_modified": "2026-10-09T18:23:57.839093Z"
+   "content_hash": "08ab4857d0215a0ea113b87135380070e1db0a34e385fa3d80d7d8d65530aec3",
+   "sequence": 2,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17811273@sf-cal": {
    "content_hash": "1e646fbc098bf559581b0c7f56108ce00f393e4c897da07ad0710fc51da1fd14",
@@ -86725,11 +86885,6 @@
    "content_hash": "372421680b49cea50918eba743b211a9a809305f4aebb1cb2bb31c95715461a4",
    "sequence": 0,
    "last_modified": "2026-10-23T17:14:42.400470Z"
-  },
-  "dothebay-17830864@sf-cal": {
-   "content_hash": "297a8732a3a566d20e58b47d388ab299de0857cdd1d43e743a254ccd51b27b05",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
   },
   "dothebay-17830869@sf-cal": {
    "content_hash": "9f73133b3391bb9387d72133b4b9d56eb951f1393da637c9eccebec85877c840",
@@ -87036,11 +87191,6 @@
    "sequence": 1,
    "last_modified": "2026-10-28T05:52:35.456620Z"
   },
-  "dothebay-17857055@sf-cal": {
-   "content_hash": "f72f62f6025b0f1b4414762b34ab4d6b4a3bee46cc034fd699826c2476ce82c0",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
-  },
   "dothebay-17857138@sf-cal": {
    "content_hash": "8499eb74f57b1caf382e0a96612245231464a3a7c8cc77ad4b9c13fd1510c85f",
    "sequence": 0,
@@ -87151,11 +87301,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
-  "dothebay-17862989@sf-cal": {
-   "content_hash": "1737622adc5e9504920983d263551c25c1d7931d31db0becfba442233ba358a1",
-   "sequence": 1,
-   "last_modified": "2026-10-22T12:01:38.361786Z"
-  },
   "dothebay-17865876@sf-cal": {
    "content_hash": "6490c1890b1ee649ebfddd9380999aa1323f1442426e3816791aa84955644fa4",
    "sequence": 0,
@@ -87252,9 +87397,9 @@
    "last_modified": "2026-10-18T11:18:13.035663Z"
   },
   "dothebay-17877351@sf-cal": {
-   "content_hash": "24c848bbffebe5121d5ca4806b1b6959876b9a8907910bfa4399383133f03b62",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "4f0638f9b73ff86eee394353a04742da51c5eac17ff23ed5e05a59e700d5068c",
+   "sequence": 1,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17877376@sf-cal": {
    "content_hash": "2ab44a61b32ff8bd7269432792a6065478b337ce5fb58b8b7a949e6aec817a04",
@@ -87726,11 +87871,6 @@
    "sequence": 1,
    "last_modified": "2026-11-01T06:18:22.714359Z"
   },
-  "dothebay-17923110@sf-cal": {
-   "content_hash": "c24fe11aa58ea45ff2359a42da17a7e7086528eef78c1a04cfc1fc47dd3d8d85",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
-  },
   "dothebay-17923115@sf-cal": {
    "content_hash": "fb227ac8416dc43d977903b320802849eeaadb04ffacd08d60f74645e7c6e427",
    "sequence": 1,
@@ -87825,11 +87965,6 @@
    "content_hash": "224733744daf0a7811f1b93474c1ea5bc279955f5a0af1ebb1ef33697c2dad31",
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
-  },
-  "dothebay-17928627@sf-cal": {
-   "content_hash": "6853f246abca3c7649099313072c9f41e2b6fa081fd86e5f3c6141e38b3c1e78",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
   },
   "dothebay-17928628@sf-cal": {
    "content_hash": "9432f206daa8110efe19ea100c06079dcaed6cfad12110c4dd07b188a648e13f",
@@ -88226,11 +88361,6 @@
    "sequence": 0,
    "last_modified": "2026-10-14T21:46:46.382284Z"
   },
-  "dothebay-17946067@sf-cal": {
-   "content_hash": "d8f231a5b0b174e6074ed17f328c368a2df09d26c9453f3f1ac9261bac81c9a8",
-   "sequence": 1,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
-  },
   "dothebay-17946068@sf-cal": {
    "content_hash": "7109bcdaa2b4ab93ce456059fbffe9f74005b31e86ec4c000247af347d771759",
    "sequence": 1,
@@ -88426,16 +88556,6 @@
    "sequence": 3,
    "last_modified": "2026-10-30T01:15:25.948988Z"
   },
-  "dothebay-17955962@sf-cal": {
-   "content_hash": "b84763823cb0041e04f4c372fa9e26708e0422df8238f83a6ef12e2e6903d5c2",
-   "sequence": 2,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
-  },
-  "dothebay-17955963@sf-cal": {
-   "content_hash": "406bb12f97041d99b0eb5c17affdca2fe29a51381c623f1ee2d842f4df179876",
-   "sequence": 2,
-   "last_modified": "2026-10-27T09:07:16.683946Z"
-  },
   "dothebay-17955965@sf-cal": {
    "content_hash": "c7ef3436b7cb438e28ecc19ad3974ddf738c2ccfb821eefb3b3d0a2d89ed8290",
    "sequence": 1,
@@ -88592,9 +88712,9 @@
    "last_modified": "2026-10-19T21:02:49.966287Z"
   },
   "dothebay-17966509@sf-cal": {
-   "content_hash": "54738639aa079bc65d7e0263b003c2f5ed7d97edd5375d1f5485f956e1ae8758",
-   "sequence": 0,
-   "last_modified": "2026-10-23T17:14:42.400470Z"
+   "content_hash": "5efe663687ef9fa1705e51c77dd67ce829d59bf7bc1fb4c6929dd9846c0583a1",
+   "sequence": 1,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17966689@sf-cal": {
    "content_hash": "ccb8df57349b613bb69abd6d8e88533b66161e0100f88544ebecfc02816828dc",
@@ -88847,9 +88967,9 @@
    "last_modified": "2026-10-29T10:07:47.796323Z"
   },
   "dothebay-17979408@sf-cal": {
-   "content_hash": "d8b650fddbddcbd9b4c14a51dfd3bd511e9627c5787357410b143a09a1eef30f",
-   "sequence": 0,
-   "last_modified": "2026-10-24T04:44:58.540677Z"
+   "content_hash": "24961192fc26ba9cbced361a6fa3e6aa8c661cd9fa821755d297ecf03eea3728",
+   "sequence": 1,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "dothebay-17979535@sf-cal": {
    "content_hash": "a6d098caf86a479f23d0cf7c839638db3030c452f3b5fb87af6594332d478ac6",
@@ -89141,11 +89261,6 @@
    "sequence": 0,
    "last_modified": "2026-10-23T17:14:42.400470Z"
   },
-  "dothebay-17985980@sf-cal": {
-   "content_hash": "1e802d7918acc88ed30a18c5292d922d2213d905d5d2419972518bf9f000c68c",
-   "sequence": 0,
-   "last_modified": "2026-10-24T11:12:24.016024Z"
-  },
   "dothebay-17986121@sf-cal": {
    "content_hash": "10f6839ae7318ee98b92d2e9a8023456bab9991cfa35a93363aeb43dc85f520f",
    "sequence": 1,
@@ -89325,11 +89440,6 @@
    "content_hash": "5dce20f59f50a53011f664217371a804569b49fa409dc2a36203c473bcba783a",
    "sequence": 2,
    "last_modified": "2026-10-31T05:53:20.848608Z"
-  },
-  "dothebay-17989719@sf-cal": {
-   "content_hash": "e54acdd98a1a83fdc609248d5dcc4197d50d8102648f0d93943575f760bbb115",
-   "sequence": 0,
-   "last_modified": "2026-10-24T16:02:25.399258Z"
   },
   "dothebay-17993134@sf-cal": {
    "content_hash": "bcef042c54723e3c9bf3ad260be768634b1098a52713644d2e78722eae85b875",
@@ -89980,6 +90090,61 @@
    "content_hash": "d7168a3385f4762cfdb34f4af24ca402cc6a08de4093ee68f358e513d66bc39e",
    "sequence": 0,
    "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "dothebay-18028863@sf-cal": {
+   "content_hash": "5e41d1ebde5cd2919755bda888a157bbcab62ccd623dbf9f37b4401217b70974",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029035@sf-cal": {
+   "content_hash": "f2075422e7c317c9dfd90b328f51b216af6fcfdab944dc516efd60fd36b584aa",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029068@sf-cal": {
+   "content_hash": "a3ed062d17b80c1d62b3bfe7a2f0b108e089d2fe9d140629470f66adca7f1274",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029074@sf-cal": {
+   "content_hash": "0dfb1677bc8dd0012713e44111adea370d58ca37be9efdbf2ef55aba58293d84",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029103@sf-cal": {
+   "content_hash": "51cbc2b6598c3b6642b37e40dda99ce25bcfeefda144e8c2d355cba421c4c608",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029197@sf-cal": {
+   "content_hash": "bc3dad05b1c3b2c2d91d2f943fea718ebd82e03c5f98da1def6023b8ef332f6d",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029364@sf-cal": {
+   "content_hash": "54cb50b65a1fa93a37bf24d10cbb455e40bb41f087e7f7ad4e710e864fbe53ef",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029372@sf-cal": {
+   "content_hash": "17b087e8c2d1da191eeb3cc1352fdb1d8e4863d4fa4adce398349af9723b459e",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029607@sf-cal": {
+   "content_hash": "b51aa98d2bd38a7a46c150313ebabad8dcb65da42887155bb85da6ec4a4997e3",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029691@sf-cal": {
+   "content_hash": "bac83d974e960f08279bc2f208707d9e2acf2f601bceb5c06a1ee9b5330aacfb",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "dothebay-18029748@sf-cal": {
+   "content_hash": "2537e05abe60c837baa7d2459d08a67e3b101bbe00e1463370ba78b6a381c678",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "funcheap-1234124@sf-cal": {
    "content_hash": "8facf467efe8ef6da5d8f69a8f611e5b1ed742535fe4abe31f78778bf449c810",
@@ -92011,11 +92176,6 @@
    "sequence": 0,
    "last_modified": "2026-10-25T20:56:26.182266Z"
   },
-  "funcheap-1643383@sf-cal": {
-   "content_hash": "a17a73220c2c7b7b260d81bc9edb222d450584fe7f7588d93a1fb71c7d2317ad",
-   "sequence": 0,
-   "last_modified": "2026-10-25T16:30:45.329813Z"
-  },
   "funcheap-1643386@sf-cal": {
    "content_hash": "640c2e875ac312f80e6d942dd4b97d15e9a76b059b01405fd8f453c16be7052a",
    "sequence": 0,
@@ -92070,6 +92230,16 @@
    "content_hash": "25a1212cd75aedfc4a9f045904ea28297a141ea33e6c439d6b3f6fd7aed2df5f",
    "sequence": 0,
    "last_modified": "2026-10-23T05:00:02.678864Z"
+  },
+  "funcheap-1643623@sf-cal": {
+   "content_hash": "98f53a0aba7afb4694e1476c61b5b37ec4d7d1c4226e30f5ebfb2564066b5e6b",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
+  },
+  "funcheap-1643632@sf-cal": {
+   "content_hash": "0f57377292de67bee777d9d584f26e075b08767ce2d78a7b628ed57adfd0a935",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "funcheap-1643638@sf-cal": {
    "content_hash": "bf88a9ba6b951a0bbb7a195493d8139518ea94d7bcc4758237054bb45ef5145b",
@@ -92215,11 +92385,6 @@
    "content_hash": "3dccaf053e49a04e06dedef98d29cab435e74e6c8d2698c79de6d94f069322e2",
    "sequence": 0,
    "last_modified": "2026-10-31T19:21:23.476017Z"
-  },
-  "funcheap-1644431@sf-cal": {
-   "content_hash": "5e60a0269b0392840242555a4d179a49818982712c3b10dbff9044d986889891",
-   "sequence": 0,
-   "last_modified": "2026-10-26T20:34:23.387246Z"
   },
   "funcheap-1644433@sf-cal": {
    "content_hash": "0e0db84c667daac6dcf63e24c60f42e77bfe611302a1aa5f96aa8afb5301e434",
@@ -92895,6 +93060,11 @@
    "content_hash": "79ba9ec3cb8b048546a57ce7f594fc6f9d6942f39462b25b2b5b99fa535c9c03",
    "sequence": 0,
    "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "funcheap-1645633@sf-cal": {
+   "content_hash": "83d8c1eba8d96a56815a130afd7f25ad8a24f7be503edef8947a8e53610df90b",
+   "sequence": 0,
+   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "sf-street-events-1365550-2026-10-28T13:00:00-07:00@sf-cal": {
    "content_hash": "a090fc420eeb069255320cb43251265b15cd1d5394555e81d8abc91ccc7c505a",
