@@ -40,64 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Sound Baths at Grace Cathedral
-DTSTART;TZID=America/Los_Angeles:20261026T190000
-DTEND;TZID=America/Los_Angeles:20261026T203000
-DTSTAMP:20261020T194441Z
-UID:funcheap-1642899@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Submitted by the Event OrganizerOver Power ProductionA Sound B
- ath Like Nowhere Else in San Francisco\nEnter the soaring architecture of 
- Grace Cathedral\, where light pours through stained glass and sound rises 
- skyward\, resonating between the Gothic columns.\n\nOur immersive Sound Ba
- th invites you into a transcendent sonic world crafted by Fractals of Soun
- d — a collective of celebrated Bay Area musicians\, Egemen Sanli\, Phoen
- ix Song\, and Sam Jackson.\nThis is more than a meditation. It is a full-b
- ody\, vibrational experience — a place to exhale\, reset\, and let sound
-  carry you inward -discover spacious quiet. Settle in with your favorite m
- ats\, blankets\, and headrests\, cocooned with candlelight and a celestial
-  wash of luminous light\, and rest on our sacred stone.\nLet waves of crys
- tal bowls\, frame drums\, flute\, overtone singing\, and devotional voice 
- move through you\, dissolving tension and awakening a grounded sense of pe
- ace and presence. In this sanctuary where generations have come to reflect
- \, renew\, and reconnect\, you’re invited to simply be — held by sound
- \, light\, and community.\nCome curious. Leave transformed.\nReserve your 
- space in one of San Francisco’s most extraordinary experiences.\nAbout F
- ractals of Sound\nEgemen Sanli is a modern dervish\, carrying the flag of 
- his Turkish roots as a musician. He plays the sitar alongside other ethnic
-  instruments (shamisen\, saz\, hang and handpan drums\, banjo\, flutes). H
- e utilizes beats\, loops\, and tanpura machines to compliment his joyful i
- mprovi...\n\n$33.00\n\nTickets: https://gracecathedral.org/series/sound-ba
- ths-at-grace-cathedral/\nDetails: https://sf.funcheap.com/sound-baths-grac
- e-cathedral/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/202303
- 27_Sound-Bath.-Web.-Cr.-Over-Power-Production-50.jpg
-LAST-MODIFIED:20261020T194441Z
-LOCATION:Grace Cathedral\, 1100 California Street. San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/sound-baths-grace-cathedral/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lil Pete
-DTSTART;TZID=America/Los_Angeles:20261026T200000
-DTEND;TZID=America/Los_Angeles:20261026T220000
-DTSTAMP:20261027T090716Z
-UID:dothebay-17861735@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:Real Is Back Tour\nLil Pete\nMonday\, October 6 | ​August Ha
- ll\n\nAll Ages\nReal Is Back Tour\n\nDetails: https://dothebay.com/events/
- 2026/10/26/lil-pete-tickets\nSource: DoTheBay
-GEO:37.7875878;-122.4096056
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34516790/7de53a4a-bb02-4f56-828d-e1c89f95aa19.jpg
-LAST-MODIFIED:20261027T090716Z
-LOCATION:August Hall\, 420 Mason St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/26/lil-pete-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Free Concerts & Food Trucks: “Civic Center Soundtrack” 
  (Every Tue/Thu)
 DTSTART;TZID=America/Los_Angeles:20261027T120000
@@ -2382,19 +2324,18 @@ BEGIN:VEVENT
 SUMMARY:Lexi Jayde
 DTSTART;TZID=America/Los_Angeles:20261102T193000
 DTEND;TZID=America/Los_Angeles:20261102T213000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261103T105857Z
 UID:dothebay-17790883@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment Presents\nLexi Jayde\nMonday\, No
  vember 2 | The Independent\n\n$126.05\, All ages\nAnother Planet Entertain
- ment Presents: The Lover Girl Tour\nListed time is doors\n\nTickets: https
- ://www.theindependentsf.com/tm-event/lexi-jayde/\nDetails: https://dotheba
- y.com/events/2026/11/2/lexi-jayde-tickets\nSource: DoTheBay
+ ment Presents: The Lover Girl Tour\nListed time is doors\n\nDetails: https
+ ://dothebay.com/events/2026/11/2/lexi-jayde-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34180235/d0744b19-b1e8-4e2b-80ef-c950207805f8.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261103T105857Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -3161,6 +3102,27 @@ LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/bounce-sf-ueberrest-flash-gea-dj
  -try-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Koolt\, Naone
+DTSTART;TZID=America/Los_Angeles:20261106T210000
+DTEND;TZID=America/Los_Angeles:20261106T230000
+DTSTAMP:20261103T105857Z
+UID:dothebay-18029953@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:fieldtest presents\nDJ Koolt\, Naone\nFriday\, November 6 | Pu
+ blic Works\n\n21+\nfieldtest presents\n\nTickets: https://www.tixr.com/gro
+ ups/publicsf/events/fieldtest-dj-koolt-naone-208426?utm_source=publicsf&ut
+ m_medium=venuewebsite\nDetails: https://dothebay.com/events/2026/11/6/dj-k
+ oolt-naone-tickets\nSource: DoTheBay
+GEO:37.7688759;-122.4194268
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35276783/ec873d68-111b-4f21-888a-97b90bb933fe.jpg
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/6/dj-koolt-naone-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mira
@@ -8879,6 +8841,46 @@ URL:https://sf.funcheap.com/castro-art-mart-2026-drag-music-art-1st-sunday
  s-8/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Castro Art Mart” 2026: Drag\, Music + Art (1st Sundays)
+DTSTART;TZID=America/Los_Angeles:20261206T140000
+DTEND;TZID=America/Los_Angeles:20261206T200000
+DTSTAMP:20261103T105857Z
+UID:funcheap-1645673@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:“Castro Art Mart” 2026: Drag\, Music + Art (1st Sundays)\n
+ Join us for Castro Art Mart\, a vibrant community event celebrating local 
+ creativity!\nUPDATE – NOV & DEC 2026 EVENTS CANCELED\nExperience a livel
+ y day in the heart of The Castro as Castro Art Mart brings together talent
+ ed local artists\, makers\, musicians\, and performers for an unforgettabl
+ e celebration of art\, culture\, and connection. Held every first Sunday o
+ f the month\, this open-air community market showcases unique handmade goo
+ ds\, original artwork\, live entertainment\, and special performances that
+  reflect the vibrant spirit of San Francisco’s creative community.\n\nBe
+ st of all\, this event is completely FREE and open to everyone! Bring your
+  friends\, bring your family\, and spend the day supporting local artists 
+ while enjoying an inspiring and welcoming neighborhood experience.\nHighli
+ ghts:\nArt & Handmade Goods by Local Artists\nLive Drag Performances\nMusi
+ c by Local Musicians\nA Celebration of Creativity in The Castro\n\nView th
+ is post on Instagram\n\nA post shared by Castro Art Mart (@castro.artmart)
+ \n\nEvent Details:\nDates: May 3 – June 7th – July 5th – August 2nd 
+ – September 6th – October 4th – November 1st – December 6th\nTime:
+  2:00 PM – 8:00 PM\nLocation: Noe St. between Market and Beaver\, Castro
+  District\, San Francisco\nWant to Participate?\nFor more information on h
+ ow to become an artist\, vendor\, or performer:\nhttps://artyhood.org/cast
+ ro-art-mart/\nFollow Us for Updates:\nInstagram:\nhttps://www.instagram.co
+ m/artyhood_sf\nhttps://ins...\n\nFree\n\nTickets: https://www.instagram.co
+ m/castro.artmart/\nDetails: https://sf.funcheap.com/castro-art-mart-2026-d
+ rag-music-art-1st-sundays-7/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/04/01-Cas
+ tro-Art-Mart-Poster.png
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Noe Street between Market and Beaver\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/castro-art-mart-2026-drag-music-art-1st-sunday
+ s-7/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s Civic Music Free Concerts (2026)
 DTSTART;TZID=America/Los_Angeles:20261206T150000
 DTEND;TZID=America/Los_Angeles:20261206T160000
@@ -11476,6 +11478,76 @@ LAST-MODIFIED:20261102T193355Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/1/ayybo-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Castro Art Mart” Mini Block Party on Noe St. (Every First Sun
+ day)
+DTSTART;TZID=America/Los_Angeles:20270103T110000
+DTEND;TZID=America/Los_Angeles:20270103T170000
+DTSTAMP:20261103T105857Z
+UID:funcheap-1645662@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:“Castro Art Mart” Mini Block Party on Noe St. (Every First
+  Sunday)\nCastro Art Mart\nThe Castro Art Mart Features LGBTQ Artists\, Li
+ ve Music\, and Drag Performances every 1st Sunday of the month on Noe St a
+ nd Market St (Next to the Lookout Bar)\, 11-5pm.\nCome enjoy this Free\, F
+ amily & Friendly event hosted by Castro Merchants\, while supporting local
+  artists\, musicians\, drag performers\, and small businesses.\nCastro Art
+  Mart\nEvery First Sunday | 11a-5p (except January)\nNoe and Market Street
+ \, San Francisco\nFree\n\nAccording to the SF Health Code Article 19L this
+  is a No Smoking Event\n\nUpcoming “Castro Art Mart” Mini Block Party 
+ on Noe St. (Every First Sunday) Events\nSun 12/6 “Castro Art Mart” Min
+ i Block Party on Noe St. (Every First Sunday)Sun 1/3 “Castro Art Mart”
+  Mini Block Party on Noe St. (Every First Sunday)Sun 2/7 “Castro Art Mar
+ t” Mini Block Party on Noe St. (Every First Sunday)Disclaimer: Please do
+ uble check event information with the event organizer as events can be can
+ celed\, details can change after they are added to our calendar\, and erro
+ rs do occur.\n\nFree\n\nTickets: https://www.instagram.com/castro.artmart/
+ \nDetails: https://sf.funcheap.com/castro-art-mart-mini-block-party-on-noe
+ -st-every-first-sunday-54/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/04/castro
+ artmart.png
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Market & Noe\, Market and Castro\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/castro-art-mart-mini-block-party-on-noe-st-eve
+ ry-first-sunday-54/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Castro Art Mart” Mini Block Party on Noe St. (Every First Sun
+ day)
+DTSTART;TZID=America/Los_Angeles:20270207T110000
+DTEND;TZID=America/Los_Angeles:20270207T170000
+DTSTAMP:20261103T105857Z
+UID:funcheap-1645664@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:“Castro Art Mart” Mini Block Party on Noe St. (Every First
+  Sunday)\nCastro Art Mart\nThe Castro Art Mart Features LGBTQ Artists\, Li
+ ve Music\, and Drag Performances every 1st Sunday of the month on Noe St a
+ nd Market St (Next to the Lookout Bar)\, 11-5pm.\nCome enjoy this Free\, F
+ amily & Friendly event hosted by Castro Merchants\, while supporting local
+  artists\, musicians\, drag performers\, and small businesses.\nCastro Art
+  Mart\nEvery First Sunday | 11a-5p (except January)\nNoe and Market Street
+ \, San Francisco\nFree\n\nAccording to the SF Health Code Article 19L this
+  is a No Smoking Event\n\nUpcoming “Castro Art Mart” Mini Block Party 
+ on Noe St. (Every First Sunday) Events\nSun 12/6 “Castro Art Mart” Min
+ i Block Party on Noe St. (Every First Sunday)Sun 1/3 “Castro Art Mart”
+  Mini Block Party on Noe St. (Every First Sunday)Sun 2/7 “Castro Art Mar
+ t” Mini Block Party on Noe St. (Every First Sunday)Disclaimer: Please do
+ uble check event information with the event organizer as events can be can
+ celed\, details can change after they are added to our calendar\, and erro
+ rs do occur.\n\nFree\n\nTickets: https://www.instagram.com/castro.artmart/
+ \nDetails: https://sf.funcheap.com/castro-art-mart-mini-block-party-on-noe
+ -st-every-first-sunday-55/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/04/castro
+ artmart.png
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Market & Noe\, Market and Castro\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/castro-art-mart-mini-block-party-on-noe-st-eve
+ ry-first-sunday-55/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Win Tix: Slipknot (sic)est Tour at Golden Gate Park

@@ -42,24 +42,6 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Sparks Client Event
-DTSTART;TZID=America/Los_Angeles:20261026T060000
-DTEND;TZID=America/Los_Angeles:20261026T210000
-DTSTAMP:20261027T222129Z
-UID:sf-street-events-1599180-2026-10-26T06:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 4th St from Minna St to Howard St\n\nPermit status: Pe
- rmitted\nTimes are SFMTA street-closure permit times and include setup and
-  teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://da
- ta.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.783652;-122.40321
-LAST-MODIFIED:20261027T222129Z
-LOCATION:04th St between Minna St and Howard St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sparks Client Event
 DTSTART;TZID=America/Los_Angeles:20261027T060000
 DTEND;TZID=America/Los_Angeles:20261027T210000
 DTSTAMP:20261027T222129Z
@@ -2673,6 +2655,43 @@ DESCRIPTION:Closed: Clement St from Arguello Blvd to 02nd Ave\; Clement St
 GEO:37.783163;-122.459568
 LAST-MODIFIED:20261028T130710Z
 LOCATION:Clement St between Arguello Blvd and 2nd Ave\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Beach Farmers Market 2026
+DTSTART;TZID=America/Los_Angeles:20270102T060000
+DTEND;TZID=America/Los_Angeles:20270102T150000
+DTSTAMP:20261103T105857Z
+UID:sf-street-events-1429598-2027-01-02T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Greenwich St from Powell St to Via Bufano\; Greenwich 
+ St from Via Bufano to Columbus Ave\n\nPermit status: Permitted\nTimes are 
+ SFMTA street-closure permit times and include setup and teardown\nSource: 
+ DataSF Temporary Street Closures\n\nDetails: https://data.sf.gov/d/8x25-yy
+ br\nSource: DataSF street closures
+GEO:37.802075;-122.411401
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Greenwich St between Columbus Ave and Powell St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayes Valley Farmers Market
+DTSTART;TZID=America/Los_Angeles:20270102T070000
+DTEND;TZID=America/Los_Angeles:20270102T150000
+DTSTAMP:20261103T105857Z
+UID:sf-street-events-1493851-2027-01-02T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Hayes St from Gough St to Octavia St\n\nPermit status:
+  Permitted\nTimes are SFMTA street-closure permit times and include setup 
+ and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:/
+ /data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.776786;-122.423746
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Hayes St between Octavia St and Gough St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT

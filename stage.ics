@@ -40,44 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Bay Area Immersive Theater Makers Gathering: Performer Perspective
- s
-DTSTART;TZID=America/Los_Angeles:20261026T180000
-DTEND;TZID=America/Los_Angeles:20261026T203000
-DTSTAMP:20261103T025635Z
-UID:funcheap-1643623@sf-cal
-SEQUENCE:0
-CATEGORIES:Theater Performance
-DESCRIPTION:Submitted by the Event OrganizerDetour ProductionsJoin Detour 
- Productions for a community conversation focused on the performer’s pers
- pective in immersive\, site-specific\, and audience-interactive performanc
- e.\nThis gathering brings together a group of Bay Area performers for a mo
- derated roundtable about the craft and experience of immersive performance
- . The conversation will explore devising and building roles\, working in c
- lose proximity to audiences\, improvisation and audience interaction\, nav
- igating boundaries and unpredictability\, and what makes performers excite
- d to say yes to a project.\n\nFollowing the roundtable\, the conversation 
- will open to the room for questions\, discussion\, and connection with oth
- er artists working in and around immersive performance.\nModerated by Alex
-  Locust / Glamputee and Eric Garcia / Churro Nomi.\nPanelists include Jo W
- illiams\, Ja’Moon Jones\, Livanna Marissa Maislen\, Ava Roy\, Natalia Ro
- berts\, and Chris Steele aka Polly Amber Ross.\nThis gathering is performe
- r-focused\, but you don’t have to be a performer to attend. Directors\, 
- producers\, designers\, administrators\, collaborators\, and anyone curiou
- s about immersive performance are welcome.\nPresented by Detour Production
- s\n\nFree\n\nTickets: https://detour.productions/2026/immersive-gathering-
- performers\nDetails: https://sf.funcheap.com/bay-area-immersive-theater-ma
- kers-gathering-performer-perspectives/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/4810_v
- 0.jpg
-LAST-MODIFIED:20261103T025635Z
-LOCATION:The Rueff at The Strand Theater\, 1127 Market Street\, San Franci
- sco\, CA 94103
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/bay-area-immersive-theater-makers-gathering-pe
- rformer-perspectives/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Found Company: A Spontaneous Staged Reading
 DTSTART;TZID=America/Los_Angeles:20261027T180000
 DTEND;TZID=America/Los_Angeles:20261027T193000
@@ -1374,9 +1336,9 @@ BEGIN:VEVENT
 SUMMARY:PALESTINE CINEMA DAYS: Return to Haifa
 DTSTART;TZID=America/Los_Angeles:20261102T173000
 DTEND;TZID=America/Los_Angeles:20261102T193000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261103T105857Z
 UID:dothebay-17989154@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Filmlab Palestine presents Palestine Cinema Days Around the Wo
  rld:\n\nRETURN TO HAIFA\n\nOn April 21\, 1948\, the quiet life in the Pale
@@ -1398,13 +1360,12 @@ DESCRIPTION:Filmlab Palestine presents Palestine Cinema Days Around the Wo
   on our existence\, and our grief is treated as background noise\, cinema 
  becomes more than art\; it becomes presence\, memory\, and resistance. Thr
  ough Palestine Cinema Days Around the World 2026\, we gather not only to s
- creen films but to affirm that the Palestinian narrative cannot...\n\nTick
- ets: https://www.4-star-movies.com/calendar-of-events/return-to-haifa\nDet
- ails: https://dothebay.com/events/2026/11/2/palestine-cinema-days-return-t
- o-haifa-tickets\nSource: DoTheBay
+ creen films but to affirm that the Palestinian narrative cannot...\n\nDeta
+ ils: https://dothebay.com/events/2026/11/2/palestine-cinema-days-return-to
+ -haifa-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35142043/a3d69c98-45da-4247-9179-86957d28d136.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261103T105857Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/2/palestine-cinema-days-return-to-
@@ -1414,21 +1375,20 @@ BEGIN:VEVENT
 SUMMARY:Naza
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T200000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261103T105857Z
 UID:dothebay-17989176@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this investigative do
  cumentary examines the civilian casualties of Israel’s military operatio
  ns in Gaza and the systems behind targeted killings of Palestinians.\n\nTh
  is film can be used with loyalty cards or our 2026 annual CinemaSFBay pass
- es\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20259?siteToken
- =52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/events/2026/11/
- 2/naza-tickets-7081nol\nSource: DoTheBay
+ es\n\nDetails: https://dothebay.com/events/2026/11/2/naza-tickets-7081nol\
+ nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35142098/d89cb7d7-c628-4530-8cc8-75d05ccd5d88.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261103T105857Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/2/naza-tickets-7081nol
@@ -1437,9 +1397,9 @@ BEGIN:VEVENT
 SUMMARY:You Can See Everything
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261102T210000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261103T105857Z
 UID:dothebay-17989175@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sil
  icon Valley founder Elizabeth Holmes invites a skeptical film crew to docu
@@ -1447,13 +1407,12 @@ DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sil
  elon becomes a mind-bending three-year journey into the abyss. From bounda
  ry-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See 
  Everything.\n\nThis film can be used with loyalty cards or our 2026 annual
-  CinemaSFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchas
- e/20255?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.co
- m/events/2026/11/2/you-can-see-everything-tickets\nSource: DoTheBay
+  CinemaSFBay passes\n\nDetails: https://dothebay.com/events/2026/11/2/you-
+ can-see-everything-tickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35109522/ab632755-39c4-4038-bf4b-93d76e61be33.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261103T105857Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/2/you-can-see-everything-tickets
@@ -1462,9 +1421,9 @@ BEGIN:VEVENT
 SUMMARY:Runa Simi
 DTSTART;TZID=America/Los_Angeles:20261102T193000
 DTEND;TZID=America/Los_Angeles:20261102T213000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261103T105857Z
 UID:dothebay-17989153@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:CiNEOLA presents:\n\nRUNA SIMI\n\n“Fernando\, a Peruvian sin
  gle father\, sits in an audio-recording room with his young son Dylan\, re
@@ -1487,12 +1446,11 @@ DESCRIPTION:CiNEOLA presents:\n\nRUNA SIMI\n\n“Fernando\, a Peruvian sin
  riaga\, and star Fernando Valencia to follow the screening.\n\nFor our Ann
  ual Pass Members and Loyalty Card Holders:\n\nTickets for this film can be
   acquired in-person at the Box Office with loyalty cards or our Annual Cin
- emaSF passes...\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20
- 284?siteToken=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay.com/ev
- ents/2026/11/2/runa-simi-tickets-ymaqzrl\nSource: DoTheBay
+ emaSF passes...\n\nDetails: https://dothebay.com/events/2026/11/2/runa-sim
+ i-tickets-ymaqzrl\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35109428/02b19ec5-506a-4604-9230-77733f67e551.png
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261103T105857Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/2/runa-simi-tickets-ymaqzrl
@@ -1501,9 +1459,9 @@ BEGIN:VEVENT
 SUMMARY:Ken Russell's The Devils
 DTSTART;TZID=America/Los_Angeles:20261102T200000
 DTEND;TZID=America/Los_Angeles:20261102T220000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261103T105857Z
 UID:dothebay-17989174@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:An enduring masterpiece of cinema starring Oliver Reed and Van
  essa Redgrave\, KEN RUSSELL’S THE DEVILS is a prescient epic of obsessio
@@ -1511,14 +1469,12 @@ DESCRIPTION:An enduring masterpiece of cinema starring Oliver Reed and Van
   Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrica
  l experience that Russell always envisioned – and the first time the fil
  m will be presented restored and in 4K.\n\nThis film can be used with loya
- lty cards or our 2026 annual CinemaSFBay passes\n\nTickets: https://ticket
- ing.uswest.veezi.com/purchase/20258?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\n
- Details: https://dothebay.com/events/2026/11/2/ken-russell-s-the-devils-ti
- ckets\nSource: DoTheBay
+ lty cards or our 2026 annual CinemaSFBay passes\n\nDetails: https://dotheb
+ ay.com/events/2026/11/2/ken-russell-s-the-devils-tickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35109515/d0e2f02d-3596-4990-8454-e891471b6dab.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261103T105857Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/2/ken-russell-s-the-devils-tickets

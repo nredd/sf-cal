@@ -1250,20 +1250,17 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Phoenix Suns
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261102T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261103T105857Z
 UID:dothebay-17727994@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. Phoenix Suns\n\nTickets: https://tic
- ketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fw
- ww.ticketmaster.com%2Fgolden-state-warriors-vs-phoenix-suns-san-francisco-
- california-11-02-2026%2Fevent%2F1C00650AB39CD82C\nDetails: https://dotheba
- y.com/events/2026/11/2/golden-state-warriors-vs-phoenix-suns-tickets\nSour
- ce: DoTheBay
+DESCRIPTION:Golden State Warriors vs. Phoenix Suns\n\nDetails: https://dot
+ hebay.com/events/2026/11/2/golden-state-warriors-vs-phoenix-suns-tickets\n
+ Source: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33883485/b3073125-34e9-43da-923a-431d7dfb1dce.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261103T105857Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/2/golden-state-warriors-vs-phoenix
@@ -2317,9 +2314,9 @@ BEGIN:VEVENT
 SUMMARY:Free Waterfront Walkabout: The Holiday Season Finale
 DTSTART;TZID=America/Los_Angeles:20261119T170000
 DTEND;TZID=America/Los_Angeles:20261119T200000
-DTSTAMP:20261031T124306Z
+DTSTAMP:20261103T105857Z
 UID:funcheap-1645291@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoors
 DESCRIPTION:Downtown SF PartnershipWaterfront Walkabout returns for a nigh
  t of captivating artist vignettes\, live music\, holiday drinks\, & season
@@ -2346,11 +2343,10 @@ DESCRIPTION:Downtown SF PartnershipWaterfront Walkabout returns for a nigh
  out-the-holiday-season-finale-tickets-2004044354612?aff=oddtdtcreator\nDet
  ails: https://sf.funcheap.com/free-waterfront-walkabout-the-holiday-season
  -finale-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Waterf
- ront-Walkabout-6-scaled.png
-LAST-MODIFIED:20261031T124306Z
-LOCATION:Ferry Building\, The Embarcadero and Ferry Plaza\, San Francisco\
- , CA
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/NOV-Ev
+ entbrite-Header.png
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Pier 14\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-waterfront-walkabout-the-holiday-season-f
  inale-sf/
@@ -4729,6 +4725,73 @@ TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Monthly Yoga Class for Beginners | SF﻿
+DTSTART;TZID=America/Los_Angeles:20270103T123000
+DTEND;TZID=America/Los_Angeles:20270103T140000
+DTSTAMP:20261103T105857Z
+UID:funcheap-1645658@sf-cal
+SEQUENCE:0
+CATEGORIES:Yoga
+DESCRIPTION:Submitted by the Event OrganizerFree Monthly Yoga Class for Be
+ ginners | SF﻿\nPhoto | via Yoga Garden SF Yelp\nLearn how to practice yo
+ ga in a fun\, supportive class with other beginners. This class is for stu
+ dents who have never taken a yoga class before or are interested in learni
+ ng about how they teach yoga at Yoga Garden SF.\nIn order to keep their cl
+ ass sizes small\, pre-registration is required.\n\nIf you’re curious abo
+ ut yoga\, but feel nervous about getting started\, this is the perfect cla
+ ss for you. They’ll provide everything you need. Just wear comfortable c
+ lothing (a t-shirt and shorts or sweats are a good choice) and come ready 
+ to have fun.\nThis event happens every first and third Sundays of the mont
+ h from 12:30-2 pm at Yoga Garden SF.\n– Updated 6/26/19 – Event info l
+ ast checked via website\n\nUpcoming Free Monthly Yoga Class for Beginners 
+ | SF﻿ Events\nSun 12/6 Free Monthly Yoga Class for Beginners | SF﻿Sun 
+ 1/3 Free Monthly Yoga Class for Beginners | SF﻿Sun 2/7 Free Monthly Yoga
+  Class for Beginners | SF﻿Disclaimer: Please double check event informat
+ ion with the event organizer as events can be canceled\, details can chang
+ e after they are added to our calendar\, and errors do occur.\n\nFree\n\nT
+ ickets: https://www.yogagardensf.com/events/\nDetails: https://sf.funcheap
+ .com/free-monthly-yoga-class-for-beginners-sf-95/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2016/04/o1.jpg
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Yoga Garden SF\, 286 Divisadero Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-monthly-yoga-class-for-beginners-sf-95/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Free “Sundays at the Beach” Chair Yoga Day (Great Highw
+ ay)
+DTSTART;TZID=America/Los_Angeles:20270103T140000
+DTEND;TZID=America/Los_Angeles:20270103T170000
+DTSTAMP:20261103T105857Z
+UID:funcheap-1645666@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:SF’s Free “Sundays at the Beach” Chair Yoga Day (Great H
+ ighway)\nGreat Highway Park\nWelcome to Sundays at the Beach!\nWith help f
+ rom @avenuegreenlight and our friends across the neighborhood\, we’re ex
+ cited to bring free community events to Great Highway Park every weekend f
+ or the next year.\n1st Sunday: Chair Yoga\, 2pm @ Irving\n2nd Sunday: Live
+  Music\, 1-3 @Noriega\n3rd Sunday: Tai Chi\, 10am @ Judah\n4th Sunday: Mat
+  Yoga\, 12pm @ Judah\n\nCoffee is on us at @javabeachsf after every wellne
+ ss course.\nSee you Sunday at the beach?\n\nUpcoming SF’s Free “Sunday
+ s at the Beach” Chair Yoga Day (Great Highway) Events\nSun 12/6 SF’s F
+ ree “Sundays at the Beach” Chair Yoga Day (Great Highway)Sun 1/3 SF’
+ s Free “Sundays at the Beach” Chair Yoga Day (Great Highway)Sun 2/7 SF
+ ’s Free “Sundays at the Beach” Chair Yoga Day (Great Highway)Disclai
+ mer: Please double check event information with the event organizer as eve
+ nts can be canceled\, details can change after they are added to our calen
+ dar\, and errors do occur.\n\nFree\n\nTickets: https://www.instagram.com/p
+ /CuIUasfymoW/\nDetails: https://sf.funcheap.com/sfs-free-sundays-at-the-be
+ ach-chair-yoga-day-great-highway-40/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/08/356799
+ 184_3412170722365527_7262830163867165123_n.jpeg
+LAST-MODIFIED:20261103T105857Z
+LOCATION:The Great Highway\, Irving and Great Highway\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-free-sundays-at-the-beach-chair-yoga-day-g
+ reat-highway-40/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Personal Safety & Self-Defense Class | SF
 DTSTART;TZID=America/Los_Angeles:20270106T183000
 DTEND;TZID=America/Los_Angeles:20270106T193000
@@ -4845,5 +4908,72 @@ LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/final-day-to-ice-skate-at-union-squares-holida
  y-ice-rink/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Monthly Yoga Class for Beginners | SF﻿
+DTSTART;TZID=America/Los_Angeles:20270207T123000
+DTEND;TZID=America/Los_Angeles:20270207T140000
+DTSTAMP:20261103T105857Z
+UID:funcheap-1645660@sf-cal
+SEQUENCE:0
+CATEGORIES:Yoga
+DESCRIPTION:Submitted by the Event OrganizerFree Monthly Yoga Class for Be
+ ginners | SF﻿\nPhoto | via Yoga Garden SF Yelp\nLearn how to practice yo
+ ga in a fun\, supportive class with other beginners. This class is for stu
+ dents who have never taken a yoga class before or are interested in learni
+ ng about how they teach yoga at Yoga Garden SF.\nIn order to keep their cl
+ ass sizes small\, pre-registration is required.\n\nIf you’re curious abo
+ ut yoga\, but feel nervous about getting started\, this is the perfect cla
+ ss for you. They’ll provide everything you need. Just wear comfortable c
+ lothing (a t-shirt and shorts or sweats are a good choice) and come ready 
+ to have fun.\nThis event happens every first and third Sundays of the mont
+ h from 12:30-2 pm at Yoga Garden SF.\n– Updated 6/26/19 – Event info l
+ ast checked via website\n\nUpcoming Free Monthly Yoga Class for Beginners 
+ | SF﻿ Events\nSun 12/6 Free Monthly Yoga Class for Beginners | SF﻿Sun 
+ 1/3 Free Monthly Yoga Class for Beginners | SF﻿Sun 2/7 Free Monthly Yoga
+  Class for Beginners | SF﻿Disclaimer: Please double check event informat
+ ion with the event organizer as events can be canceled\, details can chang
+ e after they are added to our calendar\, and errors do occur.\n\nFree\n\nT
+ ickets: https://www.yogagardensf.com/events/\nDetails: https://sf.funcheap
+ .com/free-monthly-yoga-class-for-beginners-sf-96/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2016/04/o1.jpg
+LAST-MODIFIED:20261103T105857Z
+LOCATION:Yoga Garden SF\, 286 Divisadero Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-monthly-yoga-class-for-beginners-sf-96/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Free “Sundays at the Beach” Chair Yoga Day (Great Highw
+ ay)
+DTSTART;TZID=America/Los_Angeles:20270207T140000
+DTEND;TZID=America/Los_Angeles:20270207T170000
+DTSTAMP:20261103T105857Z
+UID:funcheap-1645668@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:SF’s Free “Sundays at the Beach” Chair Yoga Day (Great H
+ ighway)\nGreat Highway Park\nWelcome to Sundays at the Beach!\nWith help f
+ rom @avenuegreenlight and our friends across the neighborhood\, we’re ex
+ cited to bring free community events to Great Highway Park every weekend f
+ or the next year.\n1st Sunday: Chair Yoga\, 2pm @ Irving\n2nd Sunday: Live
+  Music\, 1-3 @Noriega\n3rd Sunday: Tai Chi\, 10am @ Judah\n4th Sunday: Mat
+  Yoga\, 12pm @ Judah\n\nCoffee is on us at @javabeachsf after every wellne
+ ss course.\nSee you Sunday at the beach?\n\nUpcoming SF’s Free “Sunday
+ s at the Beach” Chair Yoga Day (Great Highway) Events\nSun 12/6 SF’s F
+ ree “Sundays at the Beach” Chair Yoga Day (Great Highway)Sun 1/3 SF’
+ s Free “Sundays at the Beach” Chair Yoga Day (Great Highway)Sun 2/7 SF
+ ’s Free “Sundays at the Beach” Chair Yoga Day (Great Highway)Disclai
+ mer: Please double check event information with the event organizer as eve
+ nts can be canceled\, details can change after they are added to our calen
+ dar\, and errors do occur.\n\nFree\n\nTickets: https://www.instagram.com/p
+ /CuIUasfymoW/\nDetails: https://sf.funcheap.com/sfs-free-sundays-at-the-be
+ ach-chair-yoga-day-great-highway-41/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/08/356799
+ 184_3412170722365527_7262830163867165123_n.jpeg
+LAST-MODIFIED:20261103T105857Z
+LOCATION:The Great Highway\, Irving and Great Highway\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-free-sundays-at-the-beach-chair-yoga-day-g
+ reat-highway-41/
 END:VEVENT
 END:VCALENDAR
