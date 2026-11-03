@@ -76,36 +76,6 @@ URL:https://go.evvnt.com/3840058-0?pid=12352&utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Transportation and Senior Services Resource Fair (Burlingame)
-DTSTART;TZID=America/Los_Angeles:20261027T100000
-DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20261007T210655Z
-UID:funcheap-1641303@sf-cal
-SEQUENCE:0
-CATEGORIES:Fairs Festivals
-DESCRIPTION:Burlingame Community CenterCome gather information and engage 
- with local staff of 20+ organizations that offer crucial transportation an
- d services to older adults and people with disabilities in San Mateo Count
- y!\nFree to attend. Bring family and friends!\nBurlingame Community Center
-  is a 2-block walk from the Burlingame Caltrain station\, and a 3-block wa
- lk from the California & Howard bus stop (ECR or 292).\nNeed a ride to the
-  resource fair? Via Assist has free-rides (residents who live from Burling
- ame and south) until the end of 2026!\nBook a ride by:\n– downloading th
- e Via Assist NorCal app\n– calling 650-215-6550\n\nFree\n\nTickets: http
- s://www.eventbrite.com/e/transportation-senior-services-resource-fair-burl
- ingame-cc-tickets-2003034523179?aff=ebdssbcategorybrowse\nDetails: https:/
- /sf.funcheap.com/transportation-senior-services-resource-fair-burlingame/\
- nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/2026_B
- urlingae-Resource-Fair_jpg.jpg
-LAST-MODIFIED:20261007T210655Z
-LOCATION:Burlingame Community Center: Sequioa Room\, 850 Burlingame Avenue
- \, Burlingame
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/transportation-senior-services-resource-fair-b
- urlingame/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PBS Film Preview: Lynn Novick's "Crime and Punishment in America"
 DTSTART;TZID=America/Los_Angeles:20261027T180000
 DTEND;TZID=America/Los_Angeles:20261027T200000
@@ -4103,9 +4073,9 @@ BEGIN:VEVENT
 SUMMARY:Valkyries Victory Parade Workshop
 DTSTART;TZID=America/Los_Angeles:20261103T170000
 DTEND;TZID=America/Los_Angeles:20261103T190000
-DTSTAMP:20261103T025635Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-18029197@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Arts & Family
 DESCRIPTION:A creative session Tuesday night to prepare for the historic V
  alkyries win!\n\nJean Henry's monthly Creative Workshop series invites att
@@ -4127,10 +4097,11 @@ DESCRIPTION:A creative session Tuesday night to prepare for the historic V
   Mike and George. Space is limited!\n\nhttps://valkyriesvictory.eventbrite
  .com\n\nFree\n\nTickets: https://valkyriesvictory.evenbrite.com\nDetails: 
  https://dothebay.com/events/2026/11/3/valkyries-victory-parade-workshop-ti
- ckets\nSource: DoTheBay
+ ckets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/free
+ -valkyries-victory-parade-signmaking-workshop-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35273637/8a91aa16-fa2e-424e-953f-0483f4c61609.jpg
-LAST-MODIFIED:20261103T025635Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Jean Henry School of Art\, 2640 Ocean Avenue  \, San Francisco\, 
  CA\, 94132
 TRANSP:TRANSPARENT
@@ -4142,9 +4113,9 @@ SUMMARY:Kristen Naiman with Sherri McMullen - Real Style (The RealReal\, S
  F)
 DTSTART;TZID=America/Los_Angeles:20261103T190000
 DTEND;TZID=America/Los_Angeles:20261103T210000
-DTSTAMP:20261011T195433Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-17945126@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Literature
 DESCRIPTION:Please join us for our upcoming ​event with Kristen Naiman\,
   co-author of Real Style and Chief Brand Officer at The RealReal.\nRather 
@@ -4163,10 +4134,11 @@ DESCRIPTION:Please join us for our upcoming ​event with Kristen Naiman\,
   at books@bookpassage.com.\n\nBook Passage Presents:\n\nTickets: https://b
  ookpassage.com/event/2026-11-03/kristen-naiman-real-style-realreal-sf\nDet
  ails: https://dothebay.com/events/2026/11/3/kristen-naiman-with-sherri-mcm
- ullen-real-style-the-realreal-sf-tickets\nSource: DoTheBay
+ ullen-real-style-the-realreal-sf-tickets\nSource: DoTheBay\n\nAlso listed 
+ on:\n- https://sf.funcheap.com/kristen-naiman-sherri-mcmullen-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34905786/82d6ad80-a39a-4409-b1e8-7d6dbf48ae7a.jpg
-LAST-MODIFIED:20261011T195433Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:The RealReal\, 253 Post St\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/3/kristen-naiman-with-sherri-mcmul
@@ -4371,9 +4343,9 @@ BEGIN:VEVENT
 SUMMARY:Free Art Workshop: Clay Tile Textures
 DTSTART;TZID=America/Los_Angeles:20261104T140000
 DTEND;TZID=America/Los_Angeles:20261104T160000
-DTSTAMP:20261103T025635Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-18028863@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Arts & Family
 DESCRIPTION:Create art inspired by our programming at this drop-in art wor
  kshop! All ages welcome\, all materials provided.\n\nLearn how to carve ma
@@ -4381,11 +4353,12 @@ DESCRIPTION:Create art inspired by our programming at this drop-in art wor
  llo: Prototypes and Provocations” on view at YBCA.\n\nFree\nYerba Buena 
  Center for the Arts\n\nTickets: https://bit.ly/4hyAzCv\nDetails: https://d
  othebay.com/events/2026/11/4/free-art-workshop-clay-tile-textures-tickets\
- nSource: DoTheBay
+ nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/free-art-w
+ orkshop-clay-tile-textures/
 GEO:37.7856437;-122.4021904
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35271818/a833abd9-5522-4d93-99e3-5a78f9d0d34f.jpg
-LAST-MODIFIED:20261103T025635Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
  , CA\, 94103
 TRANSP:TRANSPARENT
@@ -4396,18 +4369,19 @@ BEGIN:VEVENT
 SUMMARY:Dread Scot & RSF Gallery Tour & Sketching Activity\,
 DTSTART;TZID=America/Los_Angeles:20261104T160000
 DTEND;TZID=America/Los_Angeles:20261104T180000
-DTSTAMP:20261029T010145Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-18007655@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Arts & Family
 DESCRIPTION:Free\nYBCA\n\nTickets: https://ybca.org/event/gallery-tour-ske
  tching-activity-dread-scott-rael-san-fratello-11-4-26/\nDetails: https://d
  othebay.com/events/2026/11/4/dread-scot-rsf-gallery-tour-sketching-activit
- y-tickets\nSource: DoTheBay
+ y-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/
+ dread-scot-rsf-gallery-tour-sketching-activity-ybca/
 GEO:37.7856437;-122.4021904
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35187992/12fdb959-72ee-4e79-9eb7-d9ea5042e643.jpg
-LAST-MODIFIED:20261029T010145Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
  , CA\, 94103
 TRANSP:TRANSPARENT
@@ -4419,9 +4393,9 @@ SUMMARY:Opening Celebration of the Safeway Holiday Ice Rink in Union Squar
  e
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T190000
-DTSTAMP:20261027T222129Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-17982723@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Holiday Event
 DESCRIPTION:The Safeway Holiday Ice Rink in Union Square\, presented by Ka
  iser Permanente\, will open with a festive evening ceremony to kick off th
@@ -4435,15 +4409,114 @@ DESCRIPTION:The Safeway Holiday Ice Rink in Union Square\, presented by Ka
  ired\, $22 general admission for adults\, $17 for children 8 and under\n\n
  Tickets:  https://unionsquareicerink.com/ \nDetails: https://dothebay.com/
  events/2026/11/4/opening-celebration-of-the-safeway-holiday-ice-rink-in-un
- ion-square-tickets\nSource: DoTheBay
+ ion-square-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.func
+ heap.com/100-guests-skate-free-sfs-holiday-ice-rink-opening-union-square/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35081300/a508cba0-01dc-47c8-990e-493dad89a736.jpg
-LAST-MODIFIED:20261027T222129Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:The Safeway Holiday Ice Rink\, 333 Post Street\, San Francisco\, 
  CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/4/opening-celebration-of-the-safew
  ay-holiday-ice-rink-in-union-square-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice French + Meet SF Francophones (Tala Wine)
+DTSTART;TZID=America/Los_Angeles:20261104T170000
+DTEND;TZID=America/Los_Angeles:20261104T183000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1643341@sf-cal
+SEQUENCE:0
+CATEGORIES:Community
+DESCRIPTION:Submitted by the Event OrganizerSFPLCome to Tala Wine for a sp
+ ecial meeting of Excelsior’s French Conversation Club. Level up your Fre
+ nch conversational skills and celebrate San Francisco’s Francophone comm
+ unity!\nVenez à Tala Wine pour un évenèment spécial du Club de Convers
+ ation en Français! Parlez français dans une atmosphère détendu et fêt
+ ez la communauté francophone de San Francisco.\n\nMust be over 21. Bevera
+ ges and bites available for purchase.\n\nFree\n\nTickets: https://sfpl.org
+ /events/2026/11/04/social-french-conversation\nDetails: https://sf.funchea
+ p.com/practice-french-meet-sf-francophones-tala-wine/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Tala-F
+ rench-Club-Event.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Tala Wine\, 4625 Mission Street\, San Francisco 94112
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/practice-french-meet-sf-francophones-tala-wine
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Millennial Punk Documentary Screening + Q&A
+DTSTART;TZID=America/Los_Angeles:20261104T180000
+DTEND;TZID=America/Los_Angeles:20261104T200000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1642348@sf-cal
+SEQUENCE:0
+DESCRIPTION:Submitted by the Event Organizer© SWR/ Felix Bundschuh\nWhat 
+ does punk mean when it’s already been declared dead? Millennial Punk –
+  Eine Subkultur in Zeiten der Digitalisierung looks at the punk scene of t
+ he 1990s and early 2000s through the voices of the people who lived it.\nW
+ e’re screening the first two episodes of the four-part documentary serie
+ s. After the screening\, writer Diana Ringelsiep and director Felix Bundsc
+ huh join us for a conversation and Q&A.\n\nThe series was made in 2024. Mu
+ sicians\, journalists and activists from the scene look back on a time whe
+ n punk was often written off as a thing of the past. Beyond the music\, th
+ e series explores punk’s lasting ties to anti-discrimination\, anti-fasc
+ ism and diversity\, and asks what it takes to keep Punk’s not dead! aliv
+ e in an increasingly digital world.\nEpisodes 3 and 4 screen the following
+  evening\, November 5.\n\nFree\n\nTickets: https://www.eventbrite.com/e/mi
+ llennial-punk-episodes-1-2-conversation-tickets-2002239766039\nDetails: ht
+ tps://sf.funcheap.com/free-millennial-punk-documentary-screening-qa-sf/\nS
+ ource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Websit
+ e-quer2.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Goethe-Institut San Francisco\, 657 Howard Street San Francisco\,
+  CA 94105
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-millennial-punk-documentary-screening-qa-
+ sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Drawing Portraits From Photos (3 Session Class)
+DTSTART;TZID=America/Los_Angeles:20261104T180000
+DTEND;TZID=America/Los_Angeles:20261104T210000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1643926@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerStock ImageIn this three week 
+ course\, students will learn and practice observational skills and fundame
+ ntal drawing techniques while learning the basics of drawing portraits fro
+ m photographs.\nDrawing human faces requires the same basic drawing skills
+  that one employs for any subject – observing proportion\, flattening sh
+ apes\, and utilizing line or value to convey volume. But the conceptual we
+ ight of human faces tends to intimidate artists. When drawing any subject\
+ , the hardest skill is simply learning to see\, a skill that anyone can be
+  taught\, practice\, and hone. This course will focus on the practice of l
+ ooking\, and discovering strategies to find objectivity when rendering por
+ traits.\n\nThis class is for anyone who wants to practice and advance thei
+ r drawing skills – beginners\, those who haven’t practiced in years\, 
+ or any artists who just want to learn new techniques and practice their sk
+ ills with consistent feedback and guidance. Through demonstration\, practi
+ ce\, and reflective discussion\, this class will explore the foundations o
+ f rendering human expression with classical drawing techniques in a low pr
+ essure environment.\nObservational drawing gives all artists a foundation 
+ of practical knowledge and skills that infinitely expands the possibilitie
+ s of what one can create. If your ideas feel limited by your drawing skill
+ s\, if you feel frustrated or stuck in your painting practice\, or if you 
+ simply want to start drawing and are looking for a place...\n\n$165.00\n\n
+ Tickets: https://www.sebarts.org/classeslectures/p/drawingportraitsfrompho
+ tos\nDetails: https://sf.funcheap.com/introduction-drawing-portraits-photo
+ s-3-session-class/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/pexels
+ -katherine-mihailova-7393595-10153481.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Sebastopol Center for the Arts\, 282 South High Street\, Sebastop
+ ol
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/introduction-drawing-portraits-photos-3-sessio
+ n-class/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ryli
@@ -4498,6 +4571,44 @@ LOCATION:Catharine Clark Gallery\, 248 Utah Street\, San Francisco\, CA\,
  94105
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/4/dance-heals-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidi Evelyn Swing Band – Live Swing Music & Lindy Hop
+DTSTART;TZID=America/Los_Angeles:20261104T190000
+DTEND;TZID=America/Los_Angeles:20261104T220000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1645521@sf-cal
+SEQUENCE:0
+DESCRIPTION:Submitted by the Event OrganizerCat's Corner SFSF’s original
+  Wednesday night live-music swing dance party — now lighting up Broadway
+  Studios in historic North Beach. http://www.CatsCornerSF.com Music this w
+ eek: Heidi Evelyn Swing Band === Since 2007\, Cat’s Corner has brought d
+ ancers together for live swing bands\, beginner-friendly lessons\, Lindy H
+ op classes\, cocktails at the bar\, and a packed dance floor that makes We
+ dnesday feel like the weekend. New to swing dancing? Start with our 9 PM B
+ eginner Swing Crash Course — 30 minutes\, absolute-beginner friendly\, n
+ o partner needed\, no advance registration. We’ll show you enough to jum
+ p into the party right away. Wednesday at Cat’s Corner Broadway Studios 
+ / Mabuhay Gardens 435 Broadway Street\, San Francisco (near Columbus) 7–
+ 8 PM – Intermediate Lindy Hop Monthly Series 8–9 PM – Beginning Lind
+ y Hop Monthly Series 8–9 PM – Special Topics in the Side Room — see 
+ website for more 9–9:30 PM – Beginner Swing Lesson 9–11:30 PM – Li
+ ve Music & Social Dancing $15 general — includes beginner lesson $10 bef
+ ore 8:30 PM or after 10 PM $5 after 11 PM 18+ Want to go deeper? Monthly L
+ indy Hop class series start the first Wednesday of each month. Great for n
+ ewer dancers who want the real foundation: rhythm\, connection\, classic m
+ oves\, and confidence on the social floor. Register for classes: https://r
+ egister.catscornersf.com RSVP\, invite a friend\, and come dance with us W
+ ednesday night. https://go.airhorn.events/r/2wv8XD\n\n$10.00\n\nTickets: h
+ ttps://go.airhorn.events/r/2wv8XD\nDetails: https://sf.funcheap.com/heidi-
+ evelyn-swing-band-live-swing-music-lindy-hop/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/heidi-
+ jazz.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Cat's Corner\, 435 Broadway\, San Francisco\, CA 94133-4514
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/heidi-evelyn-swing-band-live-swing-music-lindy
+ -hop/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Train Wreck's All Star Jam Every 1 St Wed! (Free)
@@ -4666,9 +4777,9 @@ BEGIN:VEVENT
 SUMMARY:Downtown First Thursdays w/ Big Freedia
 DTSTART;TZID=America/Los_Angeles:20261105T170000
 DTEND;TZID=America/Los_Angeles:20261105T190000
-DTSTAMP:20261019T210249Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-17971993@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:Into the Streets SF + Civic Joy Fund Present\nDowntown First T
  hursdays\nwith special guest Big Freedia\n\nFriday\, November 6 | Market &
@@ -4695,15 +4806,36 @@ DESCRIPTION:Into the Streets SF + Civic Joy Fund Present\nDowntown First T
  ickets: https://www.eventbrite.com/e/downtown-first-thursdays-with-big-fre
  edia-nov-5-2026-tickets-1980043217565?aff=erelpanelorg\nDetails: https://d
  othebay.com/events/2026/11/5/downtown-first-thursdays-big-freedia-tickets\
- nSource: DoTheBay
+ nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/guajirn-fr
+ ee-cuban-salsa-downtown-thursday/
 GEO:37.7892901;-122.4013887
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35031761/b07de6a1-2e36-46dd-a84b-61cce27dc7b5.jpg
-LAST-MODIFIED:20261019T210249Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Market & 2nd\, Market St. & 2nd St. \, San Francisco\, CA\, 94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/5/downtown-first-thursdays-big-fre
  edia-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ArtU After Dark
+DTSTART;TZID=America/Los_Angeles:20261105T170000
+DTEND;TZID=America/Los_Angeles:20261105T220000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1645031@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerCome create with Academy of Ar
+ t University at Downtown First Thursdays: live painting\, student-created 
+ video games\, pottery throwing\, and Shop ArtU.\n\nFree\n\nTickets: https:
+ //www.dftsf.com/\nDetails: https://sf.funcheap.com/artu-dark/\nSource: Fun
+ cheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
+ shot-2026-10-29-161805.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Acadmey of Art\, 79 New Montgomery St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/artu-dark/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:After Dark Thursday Nights
@@ -4855,6 +4987,65 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/lower-polk-tl-art-walk-trendyloin-136/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Art + Science Talk: Inside the Kelp Forest
+DTSTART;TZID=America/Los_Angeles:20261105T180000
+DTEND;TZID=America/Los_Angeles:20261105T190000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1644985@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event Organizersfpl\nArtist\, author and desi
+ gner Josie Iselin shares the creative journey behind her work exploring se
+ aweed and kelp forests. Drawing from art\, science\, history and close obs
+ ervation of the natural world\, she will discuss how her fascination with 
+ marine algae developed into books and projects that reveal the beauty\, co
+ mplexity and ecological importance of these underwater ecosystems.\nJosie 
+ Iselin is a photographer\, author and designer whose recent work explores 
+ seaweed\, kelp and coastal ecosystems. Her newest book\, The Mysterious Wo
+ rld of the Bull Kelp Forest (Heyday Books\, 2026)\, features illustrations
+  by Ellen Litwiller and builds on her earlier books\, The Curious World of
+  Seaweed and An Ocean Garden: The Secret Life of Seaweed. Her work brings 
+ together art\, design\, science and environmental history.\n\nIselin is co
+ -director of Above/Below\, a campaign that raises awareness of underwater 
+ kelp forests. She serves as the primary writer and content creator for its
+  educational web-based books\, including The Mysterious World of Bull Kelp
+  and The Alluring World of Olympia Oysters. She has also created exhibitio
+ ns and installations that bring seaweed imagery and marine science into ga
+ llery spaces.\nIselin holds a BA in Visual and Environmental Studies from 
+ Harvard University and an MFA from San Francisco State University\, where 
+ she taught in the School of Design. She uses a flatbed scanner and digital
+  tools to create imagery inspired by the ecology of t...\n\nFree\n\nTicket
+ s: https://on.sfpl.org/11-5-26\nDetails: https://sf.funcheap.com/free-art-
+ science-talk-kelp-forest-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/11-5-2
+ 6ARtAlgaeBanner-1920-x-1080-px.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:San Francisco Main Public Library\, 100 Larkin St\, San Francisco
+ \, CA 94102
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-art-science-talk-kelp-forest-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Remains | SF First Thursdays Art Walk
+DTSTART;TZID=America/Los_Angeles:20261105T180000
+DTEND;TZID=America/Los_Angeles:20261105T220000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1645254@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerAcademy of Art UniversityAn Im
+ mersive Meditation on Loss\, Memory\, and Infinity\n\nFree\n\nTickets: htt
+ ps://sffirstthursdays.org/map\nDetails: https://sf.funcheap.com/remains-sf
+ -thursdays-art-walk/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
+ shot-2026-10-30-171020.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Academy of Art University\, 79 New Montgomery\, San Francisco\, C
+ A
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/remains-sf-thursdays-art-walk/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Happy Hour Showdown
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
@@ -4878,9 +5069,9 @@ SUMMARY:The Clift Hotel’s Legendary Redwood Room Continues Free Live Jaz
  z Programming
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261028T055235Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-18003727@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Lecture/Education
 DESCRIPTION:The Clift Royal Sonesta Hotel is extending its popular Redwood
   Room After Dark entertainment series with two evenings of live jazz each 
@@ -4905,10 +5096,11 @@ DESCRIPTION:The Clift Royal Sonesta Hotel is extending its popular Redwood
  Eamonn Flynn\nNovember 12: Sundra Manning Duo\nNovember 13: David Udol...\
  n\nFree\n\nDetails: https://dothebay.com/events/2026/11/5/the-clift-hotel-
  s-legendary-redwood-room-continues-free-live-jazz-programming-tickets\nSou
- rce: DoTheBay
+ rce: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/live-jazz-stor
+ ied-1933-redwoodpaneled-lounge-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35170613/bc55acd7-ddf8-4d61-aa28-eb8fdc5ff178.jpg
-LAST-MODIFIED:20261028T055235Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:The Clift Royal Sonesta Hotel\, 495 Geary Street\, San Francisco\
  , CA\, 94102
 TRANSP:TRANSPARENT
@@ -4987,6 +5179,33 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/exhibion-rune-reading-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hack The Feed: Free Creator Tools Hackathon + $5K in Prizes
+DTSTART;TZID=America/Los_Angeles:20261106T130000
+DTEND;TZID=America/Los_Angeles:20261106T183000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1641937@sf-cal
+SEQUENCE:0
+CATEGORIES:Lectures Workshops
+DESCRIPTION:Submitted by the Event OrganizerYuqi Hou\, GMI Cloud (event or
+ ganizer)Build a product for creators and ship it by sunset. Use real TikTo
+ k & Instagram video intelligence (Oriane API)\, prompt-to-product (Lovable
+ ) and GPU hosting (GMI Cloud). Every attendee gets free credits. Devs\, ma
+ rketers and creators welcome\, solo or in teams\, with no code required. $
+ 3\,000 top package plus $1\,500\, $750 and a wildcard award. Judged by Jea
+ n Lee\, Sumit Gupta and Amney Mounir. Free\, approval required. Agenda: 1:
+ 00 doors and teams\, 1:30 kickoff and API demos\, 2:00 build\, 5:30 demos\
+ , 6:15 winners\, 6:30 drinks and pizza. Hosted at Amplitude HQ.\n\nFree\n\
+ nTickets: https://luma.com/92iq2a12\nDetails: https://sf.funcheap.com/hack
+ -feed-free-creator-tools-hackathon-5k-prizes-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/hack.j
+ pg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Amplitude HQ\, 201 3rd St #200\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/hack-feed-free-creator-tools-hackathon-5k-priz
+ es-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brava Theater: 2026 San Francisco Dance Film Festival
 DTSTART;TZID=America/Los_Angeles:20261106T140000
 DTEND;TZID=America/Los_Angeles:20261106T150000
@@ -5026,6 +5245,29 @@ URL:https://missionlocal.org/event/brava-theater-2026-san-francisco-dance-
  paign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chair Yoga With Kayko
+DTSTART;TZID=America/Los_Angeles:20261106T143000
+DTEND;TZID=America/Los_Angeles:20261106T153000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1634103@sf-cal
+SEQUENCE:0
+CATEGORIES:Community
+DESCRIPTION:Submitted by the Event OrganizerKayko WatanabePractice chair y
+ oga\, a gentle\, seated practice\, perfect for those seeking low-impact ex
+ ercise. Chair yoga improves your well-being.\nKayko is a certified yoga th
+ erapist and instructor. She has years of experience teaching older adults 
+ the joy of yoga in a chair!\n\nSpace limited. Seats available first come\,
+  first served.\n\nFree\n\nTickets: https://sfpl.org/events/2026/11/06/work
+ shop-chair-yoga-kayko\nDetails: https://sf.funcheap.com/chair-yoga-kayko-3
+ /\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/08/Headsh
+ ot-23.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Sunset Branch Library\, 1305 18th Avenue\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/chair-yoga-kayko-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Block Fest” Tenderloin Arts Festival & Free Art Making | SF
 DTSTART;TZID=America/Los_Angeles:20261106T150000
 DTEND;TZID=America/Los_Angeles:20261106T170000
@@ -5061,6 +5303,34 @@ LOCATION:CounterPULSE\, 80 Turk St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/block-fest-tenderloin-arts-festival-free-art-m
  aking-sf-135/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collage Capsules: Build a Mini Museum
+DTSTART;TZID=America/Los_Angeles:20261106T153000
+DTEND;TZID=America/Los_Angeles:20261106T173000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1642556@sf-cal
+SEQUENCE:0
+CATEGORIES:Literature
+DESCRIPTION:Submitted by the Event OrganizerMuseum of American HeritageJoi
+ n us for a fun evening of community crafting with the Palo Alto Library!\n
+ Transform an Altoid tin into your own miniature museum exhibit or tiny lib
+ rary bookshelf using vintage-inspired collage materials\, miniature trinke
+ ts\, and unique ephemera. This hands-on creative workshop is presented in 
+ partnership with the Museum of American Heritage and Palo Alto Library. Al
+ l are welcome though this program is best suited for teens and adults. Pat
+ rons will leave with a one-of-a-kind keepsake that tells a story in miniat
+ ure.\n\nAll supplies are provided\, and no experience is necessary. Join u
+ s for an afternoon of creativity\, history\, and imaginative making!\n\nFr
+ ee\n\nTickets: https://www.moah.org/moahevents/collage-capsules-build-a-mi
+ ni-museum\nDetails: https://sf.funcheap.com/collage-capsules-build-mini-mu
+ seum/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/In-Hou
+ se-Event-Proposal-Real-Estate-Flyer.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Palo Alto City Library\, 270 Forest Ave. Palo Alto\, CA 94301
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/collage-capsules-build-mini-museum/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castro Art Walk
@@ -5742,6 +6012,48 @@ LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/jam-session-with-creativity-expl
  ored-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A 15-Year Celebration of Few and Far Women\, an Art and Skate Coll
+ ective Pop-Up Show
+DTSTART;TZID=America/Los_Angeles:20261107T170000
+DTEND;TZID=America/Los_Angeles:20261107T190000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18033419@sf-cal
+SEQUENCE:0
+CATEGORIES:Arts & Family
+DESCRIPTION:Few and Far Women\, one of the world’s largest women’s art
+  collective crews\, is proud to announce its monumental 15-year anniversar
+ y celebration. Bringing together an extraordinary international lineup of 
+ creators\, the collective is hosting an exclusive pop-up art show on Satur
+ day\, November 7th\, 2026\, from 6:00 PM to Midnight at the renowned 111 M
+ inna Gallery (located at 111 Minna St.\, San Francisco\, CA 94105). This m
+ ilestone event is strictly 21+.\n\nOver the past decade and a half\, Few a
+ nd Far Women has been making their mark worldwide\, championing the vital 
+ importance of women in art and skateboarding. Remaining fiercely consisten
+ t in their mission of "women refining the arts of the streets"\, members h
+ ave crossed borders and cultures to break barriers\, reclaim public spaces
+ \, and uplift female creators in historically male-dominated subcultures.\
+ n\nIn addition to celebrating 15 years of creative resilience\, community 
+ building\, and groundbreaking murals\, this special pop-up event will serv
+ e as a launchpad to build support and generate financial backing to bring 
+ our highly anticipated 15-year retrospective coffee table book to life. At
+ tendees and supporters will have a unique opportunity to contribute to the
+  realization of this upcoming publication\, which will permanently archive
+  the global history\, artwork\, skateboarding culture\, and international 
+ impact of the crew - whilst getting a first glimpse of this photographic\,
+  and illustrated chronicle.\n\nWhat to expect: a multi-media co...\n\n111 
+ Minna Gallery Presents:\n\nDetails: https://dothebay.com/events/2026/11/7/
+ a-15-year-celebration-of-few-and-far-women-an-art-and-skate-collective-pop
+ -up-show-tickets\nSource: DoTheBay
+GEO:37.7873057;-122.3993712
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35291336/b621c223-4763-4d6d-8f9f-927d56243f8d.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:111 Minna Gallery\, 111 Minna St\, San Francisco\, CA\, 94105
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/7/a-15-year-celebration-of-few-and
+ -far-women-an-art-and-skate-collective-pop-up-show-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Growing Up on the Hippie Trail: Caleb Dardick at Adobe Books
@@ -8421,6 +8733,51 @@ URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
  he-arts-ybca-162/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Art Workshop: Velveteen Rabbit Pop-up Book
+DTSTART;TZID=America/Los_Angeles:20261118T140000
+DTEND;TZID=America/Los_Angeles:20261118T160000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18028867@sf-cal
+SEQUENCE:0
+CATEGORIES:Arts & Family
+DESCRIPTION:Create art inspired by our programming at this drop-in art wor
+ kshop! All ages welcome\, all materials provided.\n\nDesign an imaginative
+  pop-up book featuring characters from the story of “The Velveteen Rabbi
+ t.”\n\nFree\nYerba Buena Center for the Arts\n\nTickets: https://bit.ly/
+ 4hyAzCv\nDetails: https://dothebay.com/events/2026/11/18/free-art-workshop
+ -velveteen-rabbit-pop-up-book-tickets\nSource: DoTheBay
+GEO:37.7856437;-122.4021904
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35271852/91d748ee-2562-4a56-9535-d3a06f90712b.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
+ , CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/18/free-art-workshop-velveteen-rab
+ bit-pop-up-book-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music: the Gathering
+DTSTART;TZID=America/Los_Angeles:20261118T180000
+DTEND;TZID=America/Los_Angeles:20261118T200000
+DTSTAMP:20261103T193658Z
+UID:dothebay-17989719@sf-cal
+SEQUENCE:0
+CATEGORIES:Variety
+DESCRIPTION:Play some music\, play some magic\, bring your decks\, bring y
+ our instrument!\n\nJoin us once again at The Savoy Tivoli for Commander ga
+ mes and a video game music jam session. All skill levels are welcome for b
+ oth\, and we also offer pod placement.\n\nFree\, 21+\nCheckpoint\n\nTicket
+ s: https://partiful.com/e/zIFwj4smfmJqf4QvEzoC\nDetails: https://dothebay.
+ com/events/2026/11/18/music-the-gathering-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35111897/11bf9d93-f9ca-43d9-bf4a-014228e31415.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:The Savoy Tivoli\, 1434 Grant Avenue\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/18/music-the-gathering-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chess Lecture at the Bernal Library
 DTSTART;TZID=America/Los_Angeles:20261118T180000
 DTEND;TZID=America/Los_Angeles:20261118T200000
@@ -9614,6 +9971,47 @@ URL:https://dothebay.com/events/2026/11/28/mango-every-4th-saturday-2-8pm-
  tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Indigenous Voices: Joey Clift and Terria Smith in conversation
+DTSTART;TZID=America/Los_Angeles:20261128T183000
+DTEND;TZID=America/Los_Angeles:20261128T203000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18029374@sf-cal
+SEQUENCE:0
+CATEGORIES:Literature
+DESCRIPTION:Join us as we close out our Native American Heritage Month ser
+ ies\, welcoming Joey Clift and Terria Smith to share their latest works 
+ — We've Been Here The Whole Time! and I Love You So Many.\n\nFree to att
+ end — RSVP required to reserve your seat.\n\nSpeakers\nJoey Clift is a L
+ os Angeles-based\, Peabody and 2x Emmy Award-nominated comedian\, writer\,
+  director\, producer and enrolled member of the Cowlitz Indian Tribe.\nJoe
+ y attended college to become a local TV weather person because as a kid he
+  didn’t see any Native American comedians on television\, and that made 
+ him believe he wasn’t allowed to work in comedy. Since then he has learn
+ ed that this is not true – and his comedy style reflects that. Joey’s 
+ work has been featured in The Washington Post\, Pitchfork\, NPR\, Dead Mea
+ t\, Dropout and Comedy Central.\n\nTerria Smith is a tribal member of the 
+ Torres Martinez Desert Cahuilla Indians and a proud original Californian. 
+ She is the editor of News from Native California magazine and director of 
+ the Berkeley Roundhouse\, Heyday’s California Indian publishing program.
+  Smith is also the editor of the 2023 anthology Know We Are Here: Voices o
+ f Native California Resistance. She received her undergraduate degree at C
+ al Poly Humboldt (formerly Humboldt State University) and earned her maste
+ r’s degree at the UC Berkeley Graduate School of Journalism. She lives o
+ n her ancestral homelands in the Coachella Valley with her puppy Havana.\n
+ \nFree\nTelegraph Hill Arts and Literature Presents\n\nTickets: https://te
+ lhil.it/Joey-and-Terria\nDetails: https://dothebay.com/events/2026/11/28/i
+ ndigenous-voices-joey-clift-and-terria-smith-in-conversation-tickets\nSour
+ ce: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35274576/9310ffb1-199f-459a-98e7-754cf45811e0.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Telegraph Hill Books\, 1501 Grant Avenue\, San Francisco\, CA\, 9
+ 4133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/28/indigenous-voices-joey-clift-an
+ d-terria-smith-in-conversation-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF Arcade Bar “Emporium” 8 Free Game Tokens for “Industry Ni
  ght” (Every Monday)
 DTSTART;TZID=America/Los_Angeles:20261130T180000
@@ -9803,6 +10201,36 @@ LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/1/head-west-at-the-ferry-building-
  tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:555 California Holiday Tree Lighting and Mercantile
+DTSTART;TZID=America/Los_Angeles:20261201T110000
+DTEND;TZID=America/Los_Angeles:20261201T130000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18028901@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:This year\, Sunset Mercantile is teaming up with the Annual 55
+ 5 California Holiday Tree Lighting to bring a festive holiday market to th
+ e heart of the Financial District.\n\nThe event will take place on Tuesday
+ \, December 1st\, from 11am to 7pm in the iconic A.P. Giannini Plaza. Join
+  us for a full day of shopping\, food\, themed activities\, fun\, and seas
+ onal cheer as the holidays get started in San Francisco!\n\nThe tree light
+ ing happens at 6pm and there will be plenty to do beforehand so get there 
+ early and grab your spot to see the splendor of the holidays illuminated.\
+ n\nPresented by 555 California Street and Sunset Mercantile\n\nFree\n\nTic
+ kets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2F
+ e%2F2004251037807%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com/eve
+ nts/2026/12/1/555-california-holiday-tree-lighting-and-mercantile-tickets\
+ nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35272057/952b5cfb-6e42-42c7-bb81-bf14fd221492.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:555 California Street\, 555 California St.\, San Francisco \, CA\
+ , 94104
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/1/555-california-holiday-tree-ligh
+ ting-and-mercantile-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Cartoon Art Museum’s “Pay What You Wish” Day (First T
@@ -11784,6 +12212,41 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:The School Farm\, 555 Portola Drive\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/eco-sf-school-farm-volunteer-work-day-sf-165/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Fair | San Francisco
+DTSTART;TZID=America/Los_Angeles:20261212T130000
+DTEND;TZID=America/Los_Angeles:20261212T150000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18029121@sf-cal
+SEQUENCE:0
+CATEGORIES:Holiday Event
+DESCRIPTION:Celebrate the Magic of Christmas—Eastern European Style!\nEx
+ perience the festive traditions of Eastern Europe at San Francisco's annua
+ l Christmas Fair on Saturday\, December 12\, from 1–4 PM!\n\nEnjoy live 
+ music and holiday performances\, delicious traditional foods\, festive cra
+ fts\, unique gifts\, and holiday cheer for all ages.\n\nChildren ages 12 a
+ nd under can meet Father Frost (Santa Claus)\, take a photo\, and receive 
+ a special gift—all included with admission!\n\nEnter our Christmas Raffl
+ e for a chance to win a prize package valued at over $1\,500!\n\nAdmission
+ : $25 adults | $20 students ages 17 and under. Food and beverages sold sep
+ arately.\n\nLocation: Russian Center of San Francisco\n\nDate: Saturday\, 
+ December 12\, 2026\nTime: 1:00–4:00 PM\n\nMake magical holiday memories!
+  Get your tickets today and join the celebration!\n\nTickets: $25 for adul
+ ts\; $20 for students ages 17 and under. Admission includes holiday crafts
+ \, a photo with Father Frost (Santa Claus)\, and a special gift for childr
+ en ages 12 and under. Food\, beverages\, and raffle tickets sold separatel
+ y. Advance ticket\n\nTickets: https://christmasfairsf.eventbrite.com\nDeta
+ ils: https://dothebay.com/events/2026/12/12/christmas-fair-san-francisco-t
+ ickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35273276/0bd2dae4-fa67-4258-b8a9-8f1fc541a4bf.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Russian Center of San Francisco\, 2460 Sutter St.\, San Francisco
+ \, CA\, 94115
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/12/christmas-fair-san-francisco-ti
+ ckets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Walk

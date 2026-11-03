@@ -59,24 +59,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fog City - North Beach
-DTSTART;TZID=America/Los_Angeles:20261027T070000
-DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20261027T222129Z
-UID:sf-street-events-1618262-2026-10-27T07:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Grant Ave from Green St to Union St\n\nPermit status: 
- Permitted\nTimes are SFMTA street-closure permit times and include setup a
- nd teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://
- data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.800171;-122.40749
-LAST-MODIFIED:20261027T222129Z
-LOCATION:Grant Ave between Green St and Union St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:One Way Ventures Summit
 DTSTART;TZID=America/Los_Angeles:20261028T060000
 DTEND;TZID=America/Los_Angeles:20261028T210000

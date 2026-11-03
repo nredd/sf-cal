@@ -2568,6 +2568,33 @@ URL:https://dothebay.com/events/2026/11/4/guajiron-at-blondie-s-bar-ticket
  s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Guajirón: Free Cuban Salsa at Blondie’s Bar
+DTSTART;TZID=America/Los_Angeles:20261104T200000
+DTEND;TZID=America/Los_Angeles:20261105T000000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1644354@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event OrganizerGuajirónDance to live Cuban s
+ on\, salsa and tropical jazz with Guajirón at Blondie’s Bar in San Fran
+ cisco’s Mission District. Come for the music and enjoy a free night of l
+ ive Cuban grooves.\nWednesday\, November 4\, 2026\, 8 p.m.–midnight. Als
+ o Wednesday\, December 2\, 2026\, 8 p.m.–midnight (first Wednesday of th
+ e month).\nBlondie’s Bar\, 540 Valencia St\, San Francisco\, CA 94110. F
+ ree admission.\n\nPlease create dated calendar entries for both November 4
+  and December 2. Details and flyers: https://guajiron.com/shows/blondies-1
+ st-wed-2026-11-04/ and https://guajiron.com/shows/blondies-1st-wed-2026-12
+ -02/\n\nFree\n\nTickets: https://guajiron.com/shows/blondies-1st-wed-2026-
+ 11-04/\nDetails: https://sf.funcheap.com/guajirn-free-cuban-salsa-blondies
+ -bar/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/guajir
+ on-band-photo.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Blondie’s Bar\, 540 Valencia St\, San Francisco\, CA 94110
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/guajirn-free-cuban-salsa-blondies-bar/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GLIDE Holiday Jam 2026
 DTSTART;TZID=America/Los_Angeles:20261105T173000
 DTEND;TZID=America/Los_Angeles:20261105T193000
@@ -2673,19 +2700,20 @@ BEGIN:VEVENT
 SUMMARY:Moby
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-17767006@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Goldenvoice + Another Planet Entertainment Present\nMoby\nThur
  sday\, November 5 | ​Bill Graham Civic Auditorium\n\n18+\nGoldenvoice + 
  Another Planet Entertainment Present\nListed time is doors\n\nTickets: htt
  ps://tinyurl.com/MobySF2026\nDetails: https://dothebay.com/events/2026/11/
- 5/moby-bill-graham-civic-auditorium-tickets\nSource: DoTheBay
+ 5/moby-bill-graham-civic-auditorium-tickets\nSource: DoTheBay\n\nAlso list
+ ed on:\n- https://sf.funcheap.com/chorus-line-teen-edition/
 GEO:37.77814499999999;-122.4174374
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34069120/765db3a5-4406-426e-80d4-063828d6aaf0.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Bill Graham Civic Auditorium\, 99 Grove Street\, San Francisco\, 
  CA\, 94102
 TRANSP:TRANSPARENT
@@ -3587,9 +3615,9 @@ BEGIN:VEVENT
 SUMMARY:Blvk h3ro\, with DJ Sep\, Irie Dole\, Guidance
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T140000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-17998396@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Blvkh3ro is wrapping up his West Coast tour with a free show\n
  at San Francisco’s historic Golden Gate Park Bandshell. This is a full d
@@ -3600,10 +3628,11 @@ DESCRIPTION:Blvkh3ro is wrapping up his West Coast tour with a free show\n
  r # CrucialReggaeSundays\n\nFree\nCrucial Reggae Sundays\n\nTickets: https
  ://www.instagram.com/crucialreggaesundayssf/p/De9fK9LxvtF/\nDetails: https
  ://dothebay.com/events/2026/11/8/blvk-h3ro-with-dj-sep-irie-dole-guidance-
- tickets\nSource: DoTheBay
+ tickets\nSource: DoTheBay\n\nAlso listed on:\n- /common/modules/iCalendar/
+ iCalendar.aspx?feed=calendar&catID=35
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35146677/b82e8743-44d0-4cc7-bb3a-1ba5c6353de7.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Golden Gate Park Bandshell in SF\, 75 Hagiwara Tea Garden Drive\,
   San Francisco\, CA\, 94118
 TRANSP:TRANSPARENT
@@ -4140,6 +4169,23 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/10/tecnologia-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Singer/Songwriter Wednesday
+DTSTART;TZID=America/Los_Angeles:20261111T160000
+DTEND;TZID=America/Los_Angeles:20261111T190000
+DTSTAMP:20261103T193658Z
+UID:sfrecpark-bandshell-8418224547e5cd74@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell for Singer/Songwriter We
+ dnesday on November 11 from 4 pm to 7 pm https://sfrecpark.org/calendar.as
+ px?EID=10840\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=cal
+ endar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cherrybomb Presents A Monthly Fundraiser
 DTSTART;TZID=America/Los_Angeles:20261111T180000
 DTEND;TZID=America/Los_Angeles:20261111T200000
@@ -4663,6 +4709,23 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/12/pillow-talk-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Friday Happy Hour
+DTSTART;TZID=America/Los_Angeles:20261113T163000
+DTEND;TZID=America/Los_Angeles:20261113T193000
+DTSTAMP:20261103T193658Z
+UID:sfrecpark-bandshell-ead32d544330ff51@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Friday\, November 13 
+ from 4:30 pm to 7:30 pm for Friday Happy Hour https://sfrecpark.org/calend
+ ar.aspx?EID=10841\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?fee
+ d=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:L7
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
@@ -4948,6 +5011,23 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:1015 Folsom St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/13/eli-fur-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Tribute to Legends
+DTSTART;TZID=America/Los_Angeles:20261114T100000
+DTEND;TZID=America/Los_Angeles:20261114T140000
+DTSTAMP:20261103T193658Z
+UID:sfrecpark-bandshell-7bf1c340715d03eb@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Saturday\, November 1
+ 4 for a Tribute to Legends Concert from 10 am to 2 pm https://sfrecpark.or
+ g/calendar.aspx?EID=10842\n\nDetails: /common/modules/iCalendar/iCalendar.
+ aspx?feed=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF VegFest 2026: Plant-Based Food + 80+ Exhibitors
@@ -5397,6 +5477,23 @@ LAST-MODIFIED:20261028T130710Z
 LOCATION:Herbst Theatre\, 401 Van Ness Avenue\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Crucial Reggae Sunday
+DTSTART;TZID=America/Los_Angeles:20261115T163000
+DTEND;TZID=America/Los_Angeles:20261115T193000
+DTSTAMP:20261103T193658Z
+UID:sfrecpark-bandshell-6bc405f4bc4ede62@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Sunday\, November 15 
+ from 4:30 pm to 7:30 pm for Crucial Reggae Sunday https://sfrecpark.org/ca
+ lendar.aspx?EID=10843\n\nDetails: /common/modules/iCalendar/iCalendar.aspx
+ ?feed=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rodrigo y Gabriela
@@ -5960,6 +6057,23 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/17/techno-tuesday-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Singer/Songwriter Wednesday
+DTSTART;TZID=America/Los_Angeles:20261118T160000
+DTEND;TZID=America/Los_Angeles:20261118T190000
+DTSTAMP:20261103T193658Z
+UID:sfrecpark-bandshell-5caf1e090190283e@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Wedesday\, November 1
+ 8 for Singer/Songwriter Wednesday from 4 pm to 7 pm https://sfrecpark.org/
+ calendar.aspx?EID=10844\n\nDetails: /common/modules/iCalendar/iCalendar.as
+ px?feed=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Icona Pop
 DTSTART;TZID=America/Los_Angeles:20261118T183000
 DTEND;TZID=America/Los_Angeles:20261118T203000
@@ -6372,6 +6486,23 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/19/new-monthly-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Friday Happy Hour Finale
+DTSTART;TZID=America/Los_Angeles:20261120T160000
+DTEND;TZID=America/Los_Angeles:20261120T190000
+DTSTAMP:20261103T193658Z
+UID:sfrecpark-bandshell-fbebb301aea2ae71@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Friday\, November 20 
+ for Friday Happy Hour Finale fom 4 pm to 7 pm https://sfrecpark.org/calend
+ ar.aspx?EID=10845\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?fee
+ d=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART;TZID=America/Los_Angeles:20261120T190000
 DTEND;TZID=America/Los_Angeles:20261120T210000
@@ -6637,6 +6768,28 @@ LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/20/fjaak-hiroko-yamamura-presented
  -by-public-works-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Let The Zoo Out - Jonny Wild
+DTSTART;TZID=America/Los_Angeles:20261120T210000
+DTEND;TZID=America/Los_Angeles:20261120T230000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18029950@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Who Let The Zoo Out - Jonny Wild\nFriday\, November 20 | Publi
+ c Works\n\n21+\n\nTickets: https://www.tixr.com/groups/publicsf/events/who
+ -let-the-zoo-out-jonny-wild-209211?utm_source=publicsf&utm_medium=venueweb
+ site\nDetails: https://dothebay.com/events/2026/11/20/who-let-the-zoo-out-
+ jonny-wild-tickets\nSource: DoTheBay
+GEO:37.7688759;-122.4194268
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35276770/0f92f3f7-849d-43ab-8fc0-749a558b8361.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/20/who-let-the-zoo-out-jonny-wild-
+ tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Westend
@@ -6928,6 +7081,23 @@ LOCATION:St. Luke's Episcopal Church\, 1755 Clay St\, San Francisco\, CA\,
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/22/concert-evensong-at-st-luke-s-e
  piscopal-church-eric-choate-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden Gate Bandshell: Crucial Reggae Sunday Finale
+DTSTART;TZID=America/Los_Angeles:20261122T163000
+DTEND;TZID=America/Los_Angeles:20261122T193000
+DTSTAMP:20261103T193658Z
+UID:sfrecpark-bandshell-92ea33451aa5c0c3@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to the Golden Gate Bandshell on Sunday\, November 22 
+ from 4:30 to 7:30 pm for Crucial Reggae Sunday https://sfrecpark.org/calen
+ dar.aspx?EID=10846\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?fe
+ ed=calendar&catID=35\nSource: SF Rec & Park
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
+ 118
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Legends Awards
@@ -7546,9 +7716,9 @@ BEGIN:VEVENT
 SUMMARY:Hook in Concert
 DTSTART;TZID=America/Los_Angeles:20261127T193000
 DTEND;TZID=America/Los_Angeles:20261127T213000
-DTSTAMP:20261029T100747Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-17183899@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Film with Live Orchestra\nHook in Concert\nFriday\, November 2
  7 | Davies Symphony Hall\n\nLights\, Camera\, Music!: Watch Steven Spielbe
@@ -7566,11 +7736,12 @@ DESCRIPTION:Film with Live Orchestra\nHook in Concert\nFriday\, November 2
  \nFilm with Live Orchestra\n\nTickets: https://www.sfsymphony.org/Buy-Tick
  ets/2026-27/Hook?utm_source=dothebay&utm_medium=email&utm_campaign=hook\nD
  etails: https://dothebay.com/events/2026/11/27/hook-tickets\nSource: DoThe
- Bay
+ Bay\n\nAlso listed on:\n- https://sf.funcheap.com/hook-live-in-concert-wit
+ h-sf-symphony/
 GEO:37.7782755;-122.4198453
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31307867/4b16332f-b57e-49b9-ac77-f0847022284d.jpg
-LAST-MODIFIED:20261029T100747Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -7733,6 +7904,44 @@ LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/28/hook-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Hook” Live in Concert with SF Symphony (Nov. 27-28)
+DTSTART;TZID=America/Los_Angeles:20261128T143000
+DTEND;TZID=America/Los_Angeles:20261128T173000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1645738@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:“Hook” Live in Concert with SF Symphony (Nov. 27-28)\nSF S
+ ymphony\nLights\, Camera\, Music!: Watch Steven Spielberg’s Hook on the 
+ big screen at Davies Symphony Hall as John Williams’s score is performed
+  live by the SF Symphony. Kids’ Tickets Half Off!\nHook\nFriday November
+  27\, 2026 | 7:30p\nSaturday\, November 28\, 2026 | 2p\nDavies Symphony Ha
+ ll\, 201 Van Ness Ave.\, SF\nTickets – Starts at $49.5 (while supplies l
+ ast)\nKids’ Tickets Half Off!\nPlease note that we do not allow children
+  under 3 at any performance\, except for our Music for Families and Deck t
+ he Hall programs. Everyone entering Davies Symphony Hall\, regardless of a
+ ge\, must have a ticket. Children under the age of 12 must be seated with 
+ an accompanying adult.\nArtists\n\nSarah Hicks – Conductor\nSan Francisc
+ o Symphony\n\nProgram\n\nJohn Williams – Composer\nSteven Spielberg – 
+ Director\n\nUpcoming “Hook” Live in Concert with SF Symphony (Nov. 27-
+ 28) Events\nFri 11/27 “Hook” Live in Concert with SF Symphony (Nov. 27
+ -28)Sat 11/28 “Hook” Live in Concert with SF Symphony (Nov. 27-28)Disc
+ laimer: Please double check event information with the event organizer as 
+ events can be canceled\, details can change after they are added to our ca
+ lendar\, and errors do occur.\n\n$49.50\n\nTickets: https://www.sfsymphony
+ .org/Buy-Tickets/2026-27/Hook?utm_source=funcheap&amp\;utm_medium=referral
+ &amp\;utm_campaign=hook\nDetails: https://sf.funcheap.com/hook-live-in-con
+ cert-with-sf-symphony-nov-27-28/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/351350
+ -26_Social_NovFilms-Hook_1x1-1.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Davies Symphony Hall\, 201 Van Ness Ave\, San Francisco\, CA 9410
+ 2
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/hook-live-in-concert-with-sf-symphony-nov-27-2
+ 8/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Federale\, El Radio Fantastique and Noelle And The Deserters
@@ -8722,6 +8931,28 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/5/dragon-smoke-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Studio de Laune: Regularfantasy & Max Sprauer
+DTSTART;TZID=America/Los_Angeles:20261205T210000
+DTEND;TZID=America/Los_Angeles:20261205T230000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18029946@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Studio de Laune: Regularfantasy & Max Sprauer\nSaturday\, Dece
+ mber 5 | Public Works\n\n21+\n\nTickets: https://www.tixr.com/groups/publi
+ csf/events/studio-de-laune-regularfantasy-max-sprauer-209748?utm_source=pu
+ blicsf&utm_medium=venuewebsite\nDetails: https://dothebay.com/events/2026/
+ 12/5/studio-de-laune-regularfantasy-max-sprauer-tickets\nSource: DoTheBay
+GEO:37.7688759;-122.4194268
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35276749/49636230-6d99-4578-9621-bbe9fca5e3eb.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/studio-de-laune-regularfantasy-m
+ ax-sprauer-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Desert Dwellers
 DTSTART;TZID=America/Los_Angeles:20261205T213000
 DTEND;TZID=America/Los_Angeles:20261205T233000
@@ -9575,6 +9806,29 @@ URL:https://dothebay.com/events/2026/12/11/as-you-like-it-unedited-open-to
  -close-with-axel-boman-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Certified Freak: Jiggle All The Way Ft. Kevin Aviance
+DTSTART;TZID=America/Los_Angeles:20261211T210000
+DTEND;TZID=America/Los_Angeles:20261211T230000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18024848@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Certified Freak: Jiggle All The Way Ft. Kevin Aviance\nFriday\
+ , December 11 | Public Works\n\nTickets: https://consumer.pxf.io/APvP5J?u=
+ https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fcertified-freak-jiggle-all-the-way-
+ ft-kevin-aviance-tickets-2003838055566\nDetails: https://dothebay.com/even
+ ts/2026/12/11/certified-freak-jiggle-all-the-way-ft-kevin-aviance-tickets\
+ nSource: DoTheBay
+GEO:37.7688759;-122.4194268
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35276609/fa8b1168-b46a-4082-8694-58b536478a20.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/11/certified-freak-jiggle-all-the-
+ way-ft-kevin-aviance-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Authentic Open-Air German Holiday Market 2026 (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20261212T110000
 DTEND;TZID=America/Los_Angeles:20261212T210000
@@ -9823,21 +10077,21 @@ BEGIN:VEVENT
 SUMMARY:Metalheadz: Goldie & Photek
 DTSTART;TZID=America/Los_Angeles:20261212T210000
 DTEND;TZID=America/Los_Angeles:20261212T230000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261103T193658Z
 UID:dothebay-17861713@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Stamina & Public Works Present\nMetalheadz: Goldie & Photek\nS
- aturday\, December 12 | Public Works\n\n$15-$45\, 21+\nStamina & Public Wo
- rks present\n\nTickets: https://www.tixr.com/groups/publicsf/events/metalh
- eadz-goldie-photek-presented-by-stamina-public-works-206157?utm_source=pub
- licsf&utm_medium=venuewebsite\nDetails: https://dothebay.com/events/2026/1
- 2/12/metalheadz-goldie-photek-presented-by-stamina-public-works-tickets\nS
- ource: DoTheBay
+ aturday\, December 12 | Public Works\n\n21+\nStamina & Public Works presen
+ t\n\nTickets: https://www.tixr.com/groups/publicsf/events/metalheadz-goldi
+ e-photek-presented-by-stamina-public-works-206157?utm_source=publicsf&utm_
+ medium=venuewebsite\nDetails: https://dothebay.com/events/2026/12/12/metal
+ headz-goldie-photek-presented-by-stamina-public-works-tickets\nSource: DoT
+ heBay
 GEO:37.7688759;-122.4194268
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34516665/0248038e-b0cd-4056-95c1-1a8583864b16.jpg
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261103T193658Z
 LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/12/metalheadz-goldie-photek-presen
@@ -11406,6 +11660,26 @@ LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA\, 94133
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/31/new-year-s-eve-with-tainted-lov
  e-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOF: New Year's Eve
+DTSTART;TZID=America/Los_Angeles:20261231T210000
+DTEND;TZID=America/Los_Angeles:20261231T230000
+DTSTAMP:20261103T193658Z
+UID:dothebay-18028872@sf-cal
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:BOOF: New Year's Eve\nThursday\, December 31 | Public Works\n\
+ n$50.45-$89.33\, 21+\n\nTickets: https://tixr.com/af/dostuff/212130\nDetai
+ ls: https://dothebay.com/events/2026/12/31/boof-new-year-s-eve-tickets\nSo
+ urce: DoTheBay
+GEO:37.7688759;-122.4194268
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35271885/051ecf56-7d06-4e20-a695-6dca0a032ddb.jpg
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Public Works\, 161 Erie Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/31/boof-new-year-s-eve-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ILLENIUM

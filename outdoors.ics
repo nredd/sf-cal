@@ -1267,6 +1267,31 @@ URL:https://dothebay.com/events/2026/11/2/golden-state-warriors-vs-phoenix
  -suns-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Floral Design Workshop
+DTSTART;TZID=America/Los_Angeles:20261103T130000
+DTEND;TZID=America/Los_Angeles:20261103T160000
+DTSTAMP:20261103T193658Z
+UID:funcheap-1643922@sf-cal
+SEQUENCE:0
+CATEGORIES:Nature
+DESCRIPTION:Submitted by the Event OrganizerImage from instructor\, Mariso
+ l Ruiz.Celebrate the beauty of each season with flowers! In every class\, 
+ create a different arrangement using seasonal blooms and colors. Enjoy ste
+ p-by-step guidance\, learn floral design techniques\, and connect with new
+  friends. Leave with a beautiful arrangement you made yourself. No experie
+ nce needed!\nFlowers\, Greenery\, and Vase included.\n\nRefreshments provi
+ ded.\nLimited space!\n\n$98.00\n\nTickets: https://www.sebarts.org/classes
+ lectures/p/floral-design-workshop\nDetails: https://sf.funcheap.com/floral
+ -design-workshop/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/100000
+ 1569-1.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Sebastopol Center for the Arts\, 282 South High Street\, Sebastop
+ ol
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/floral-design-workshop/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261104T090000
 DTEND;TZID=America/Los_Angeles:20261104T100000
@@ -4723,6 +4748,29 @@ LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
  cisco CA 94122
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Brooklyn Nets
+DTSTART;TZID=America/Los_Angeles:20270102T173000
+DTEND;TZID=America/Los_Angeles:20270102T193000
+DTSTAMP:20261103T193658Z
+UID:dothebay-17728020@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Brooklyn Nets\n\nTickets: https://ti
+ cketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2F
+ www.ticketmaster.com%2Fgolden-state-warriors-vs-brooklyn-nets-san-francisc
+ o-california-01-02-2027%2Fevent%2F1C00650AB2E8D64D\nDetails: https://dothe
+ bay.com/events/2027/1/2/golden-state-warriors-vs-brooklyn-nets-tickets\nSo
+ urce: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883610/6880deb9-86c7-43ca-bba1-370373458d87.png
+LAST-MODIFIED:20261103T193658Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/2/golden-state-warriors-vs-brooklyn
+ -nets-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Monthly Yoga Class for Beginners | SF﻿
