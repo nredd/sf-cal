@@ -41,61 +41,6 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Fred Armisen
-DTSTART;TZID=America/Los_Angeles:20261027T190000
-DTEND;TZID=America/Los_Angeles:20261027T210000
-DTSTAMP:20261028T055235Z
-UID:dothebay-17314840@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Another Planet Entertainment presents\nComedy For Musicians Bu
- t Everyone Is Welcome\nFred Armisen\nTuesday\, October 27 | The Castro\n\n
- Fred Armisen is a comedian\, writer\, producer\, and musician. He is the c
- o-writer and co-star of IFC’s Emmy-nominated series Portlandia. He is in
-  the hit Netflix series Wednesday as Uncle Fester. He stars in HBO’s Los
-  Espookys\, which he co-wrote and executive produced. He can also be heard
-  in the hit animated Super Mario Bros movie. Armisen stars in\, writes\, a
- nd produces IFC’s hit show Documentary Now. He has also appeared in HBO
- ’s Our Flag Means Death\, Judd Apatow’s The Bubble\, and Amazon’s se
- ries Forever. He voices characters in Big Mouth and The Mitchells vs. The 
- Machines. He is currently starring in the Broadway play All In. Armisen is
-  an 11-season veteran of Saturday Night Live. From 2014-2024\, Armisen was
-  band leader of the 8G Band on Late Night With Seth Meyers.\n\nall ages\nS
- old out\nAnother Planet Entertainment Presents: Comedy for Musicians But E
- veryone is Welcome - Three Nights!\nListed time is doors\n\nDetails: https
- ://dothebay.com/events/2026/10/27/fred-armisen-comedy-for-musicians-but-ev
- eryone-is-welcome-tickets\nSource: DoTheBay
-GEO:37.7619917;-122.4347365
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31925307/7df1823c-e81f-41df-a4b5-e79bc6123f08.jpg
-LAST-MODIFIED:20261028T055235Z
-LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/27/fred-armisen-comedy-for-musicia
- ns-but-everyone-is-welcome-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tokyo Kanpai Boys (in Japanese)
-DTSTART;TZID=America/Los_Angeles:20261027T193000
-DTEND;TZID=America/Los_Angeles:20261027T213000
-DTSTAMP:20261028T130710Z
-UID:dothebay-17739439@sf-cal
-SEQUENCE:3
-CATEGORIES:Comedy
-DESCRIPTION:Tokyo Kanpai Boys (in Japanese)\nTuesday\, October 27 | Cobb's
-  Comedy Club\n\n18+\n\nDetails: https://dothebay.com/events/2026/10/27/tok
- yo-kanpai-boys-in-japanese-tickets\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33934993/5ad08c5e-49ff-42d9-bffb-7f54b7e7bd38.png
-LAST-MODIFIED:20261028T130710Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/27/tokyo-kanpai-boys-in-japanese-t
- ickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fred Armisen
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T210000
 DTSTAMP:20261029T100747Z
@@ -1104,26 +1049,17 @@ BEGIN:VEVENT
 SUMMARY:Winston Hodges
 DTSTART;TZID=America/Los_Angeles:20261103T193000
 DTEND;TZID=America/Los_Angeles:20261103T213000
-DTSTAMP:20261030T011525Z
+DTSTAMP:20261104T110513Z
 UID:dothebay-17477993@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Comedy
 DESCRIPTION:Winston Hodges\nTuesday\, November 3 | ​Punch Line San Franc
- isco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
- ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fwinston-hodges-sa
- n-francisco-california-11-03-2026%2Fevent%2F1C0064C9CA867E67\nDetails: htt
- ps://dothebay.com/events/2026/11/3/winston-hodges-tickets\nSource: DoTheBa
- y\n\nAlso listed on:\n- https://sf.funcheap.com/headliner-comedy-night-ree
- m-edan-melissa-shoshahi-sf/\n- https://www.ticketmaster.com/reem-edan-meli
- ssa-shoshahi-san-francisco-california-11-03-2026/event/1C006521F0FA790E?ut
- m_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n- http
- s://www.ticketmaster.com/winston-hodges-san-francisco-california-11-03-202
- 6/event/1C0064C9CA867E67?utm_source=caldiscovery&utm_medium=ics&utm_campai
- gn=san-francisco-ca
+ isco\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/3/winston-hodg
+ es-tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32695631/5aac43b5-4c4b-4f89-be91-2031e381a727.png
-LAST-MODIFIED:20261030T011525Z
+LAST-MODIFIED:20261104T110513Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1133,26 +1069,19 @@ BEGIN:VEVENT
 SUMMARY:Reem Edan & Melissa Shoshahi: Two Headliners. One Night.
 DTSTART;TZID=America/Los_Angeles:20261103T193000
 DTEND;TZID=America/Los_Angeles:20261103T213000
-DTSTAMP:20261030T011525Z
+DTSTAMP:20261104T110513Z
 UID:dothebay-17808722@sf-cal
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Comedy
 DESCRIPTION:Reem Edan & Melissa Shoshahi\nTuesday\, November 3 | ​​Cob
- b's Comedy Club\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/
- 264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Freem-e
- dan-melissa-shoshahi-san-francisco-california-11-03-2026%2Fevent%2F1C00652
- 1F0FA790E\nDetails: https://dothebay.com/events/2026/11/3/reem-edan-meliss
- a-shoshahi-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.func
- heap.com/headliner-comedy-night-reem-edan-melissa-shoshahi-sf/\n- https://
- www.ticketmaster.com/reem-edan-melissa-shoshahi-san-francisco-california-1
- 1-03-2026/event/1C006521F0FA790E?utm_source=caldiscovery&utm_medium=ics&ut
- m_campaign=san-francisco-ca\n- https://www.ticketmaster.com/winston-hodges
- -san-francisco-california-11-03-2026/event/1C0064C9CA867E67?utm_source=cal
- discovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ b's Comedy Club\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/3/r
+ eem-edan-melissa-shoshahi-tickets\nSource: DoTheBay\n\nAlso listed on:\n- 
+ https://sf.funcheap.com/headliner-comedy-night-reem-edan-melissa-shoshahi-
+ sf/
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35170554/49d4080a-8c83-4cab-abe7-76878c05d124.jpg
-LAST-MODIFIED:20261030T011525Z
+LAST-MODIFIED:20261104T110513Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -1407,6 +1336,28 @@ TRANSP:TRANSPARENT
 URL:https://www.eventbrite.com/e/about-last-night-dating-disaster-stories-
  sf-tickets-1999715709518?aff=oddtdtcreator&keep_tld=true&utm_source=caldis
  covery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Comedy @ 620 Jones
+DTSTART;TZID=America/Los_Angeles:20261105T190000
+DTEND;TZID=America/Los_Angeles:20261105T203000
+DTSTAMP:20261104T110513Z
+UID:caldiscovery-comedy-b43d229fffba7c7f@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:Every other Thursday\, 620 Jones opens the mic to comedians te
+ sting new material\, sharpening their sets and taking a few big swings.\nG
+ rab a cocktail\, order some bites and catch a rotating lineup of local com
+ ics in an intimate\, laid-back setting. Whether you’re stepping up to th
+ e mic or just coming for the laughs\, everyone is welcome. And who knows\,
+  you can try your luck too!\n\nPublished by 620 Jones\nContains informatio
+ n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-
+ jones.com/calendar/open-mic-comedy-620-jones-3/?utm_source=caldiscovery&ut
+ m_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261104T110513Z
+TRANSP:TRANSPARENT
+URL:https://620-jones.com/calendar/open-mic-comedy-620-jones-3/?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Miles of Laughter: Stand-Up Comedy Show @7 Mile House
@@ -2677,26 +2628,38 @@ URL:https://sf.funcheap.com/shame-cave-comedy-show-a-shameful-yet-shameles
  s-night-sf-99/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nirvanna the Band the Show Season One ~ 7 PM (as part of NTBTS the
-  Fest)
+SUMMARY:UIU Bay Area: Comedy Night
 DTSTART;TZID=America/Los_Angeles:20261113T190000
-DTEND;TZID=America/Los_Angeles:20261113T222500
-DTSTAMP:20261104T012711Z
-UID:caldiscovery-comedy-987a30837120c452@sf-cal
+DTEND;TZID=America/Los_Angeles:20261113T213000
+DTSTAMP:20261104T110513Z
+UID:caldiscovery-comedy-2f0d9261c628fe3f@sf-cal
 SEQUENCE:0
-CATEGORIES:comedy,festival,film
-DESCRIPTION:Published by Calendar of Events\nContains information from Cal
- Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
- es.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-1
- 3?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
- urce: CalDiscovery\n\nAlso listed on:\n- https://www.balboamovies.com/cale
- ndar-of-events/nirvanna-the-band-the-show-season-one-november-13?utm_sourc
- e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-LAST-MODIFIED:20261104T012711Z
+CATEGORIES:comedy
+DESCRIPTION:Join us for a special night celebrating some of the Bay Area
+ ’s funniest comedic talent as they deliver the jokes you won’t want to
+  miss.\n\nMore Info: https://linktr.ee/UIUBayArea\nBig laughs. Zero ego.\n
+ Get ready for a night of unforgettable laughs at Ego Check – The Bay Are
+ a Comedy Showcase! Join us Friday\, November 13\, for a special night cele
+ brating some of the Bay Area’s funniest comedic talent as they take the 
+ stage to deliver the jokes\, stories\, and punchlines you won’t want to 
+ miss.\nHosted at the stylish 620 Jones Cocktail Bar & Restaurant in San Fr
+ ancisco\, this upscale nightlife experience brings together comedy\, cockt
+ ails\, and great company for one memorable Friday night.\nWhether you’re
+  a comedy enthusiast\, looking for a unique night out\, or simply ready to
+  laugh until your ribs hurt\, this is the place to be. Grab a drink\, brin
+ g your friends\, meet someone new\, and get ready for an evening full of b
+ ig laughs and good vibes.\nLeave the ego at the door. Bring your sense of 
+ humor.\nCome out\, show love to rising comedic talent\, and experience Ego
+  Check for yourself!\n\nPublished by 620 Jones\nContains information from 
+ CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-jones.c
+ om/calendar/uiu-bay-area-comedy-night/?utm_source=caldiscovery&utm_medium=
+ ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261104T110513Z
+LOCATION:620 Jones\, 620 Jones St.\, San Francisco\, CA\, 94102\, United S
+ tates
 TRANSP:TRANSPARENT
-URL:https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-
- show-season-one-november-13?utm_source=caldiscovery&utm_medium=ics&utm_cam
- paign=san-francisco-ca
+URL:https://620-jones.com/calendar/uiu-bay-area-comedy-night/?utm_source=c
+ aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amir K
@@ -2971,28 +2934,6 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/richie-o-farrill-en-espanol-tic
  kets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nirvanna the Band the Show Season Two ~ 4 PM (as part of NTBTS the
-  Fest)
-DTSTART;TZID=America/Los_Angeles:20261114T160000
-DTEND;TZID=America/Los_Angeles:20261114T192500
-DTSTAMP:20261104T012711Z
-UID:caldiscovery-comedy-d6671ed5210a851a@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,festival
-DESCRIPTION:Published by Calendar of Events\nContains information from Cal
- Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
- es.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-1
- 4?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
- urce: CalDiscovery\n\nAlso listed on:\n- https://www.balboamovies.com/cale
- ndar-of-events/nirvanna-the-band-the-show-season-two-november-14?utm_sourc
- e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-LAST-MODIFIED:20261104T012711Z
-TRANSP:TRANSPARENT
-URL:https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-
- show-season-two-november-14?utm_source=caldiscovery&utm_medium=ics&utm_cam
- paign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
@@ -3650,6 +3591,30 @@ URL:https://dothebay.com/events/2026/11/18/infamous-boom-boom-comedy-showc
  ase-3rd-wednesdays-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Mic Comedy @ 620 Jones
+DTSTART;TZID=America/Los_Angeles:20261119T190000
+DTEND;TZID=America/Los_Angeles:20261119T203000
+DTSTAMP:20261104T110513Z
+UID:caldiscovery-comedy-2e839db6485cb228@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:Every other Thursday\, 620 Jones opens the mic to comedians te
+ sting new material\, sharpening their sets and taking a few big swings.\nG
+ rab a cocktail\, order some bites and catch a rotating lineup of local com
+ ics in an intimate\, laid-back setting. Whether you’re stepping up to th
+ e mic or just coming for the laughs\, everyone is welcome. And who knows\,
+  you can try your luck too!\n\nPublished by 620 Jones\nContains informatio
+ n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-
+ jones.com/calendar/open-mic-comedy-620-jones-4/?utm_source=caldiscovery&ut
+ m_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261104T110513Z
+LOCATION:620 Jones\, 620 Jones St.\, San Francisco\, CA\, 94102\, United S
+ tates
+TRANSP:TRANSPARENT
+URL:https://620-jones.com/calendar/open-mic-comedy-620-jones-4/?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amber Autry
 DTSTART;TZID=America/Los_Angeles:20261119T190000
 DTEND;TZID=America/Los_Angeles:20261119T210000
@@ -3760,6 +3725,20 @@ LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
 TRANSP:TRANSPARENT
 URL:https://go.evvnt.com/3848473-2?pid=12352&utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:laughs with benefits
+DTSTART;TZID=America/Los_Angeles:20261120T190000
+DTEND;TZID=America/Los_Angeles:20261120T210000
+DTSTAMP:20261104T110513Z
+UID:caldiscovery-comedy-c61f3abe07ceba57@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:point of contact : Ry 4153128287\n\nPublished by ADOBE BOOKS\n
+ Contains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nSo
+ urce: CalDiscovery
+LAST-MODIFIED:20261104T110513Z
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s HellaSecret “Crazy Funny Asians” Friday Night Comedy Sh

@@ -40,93 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Found Company: A Spontaneous Staged Reading
-DTSTART;TZID=America/Los_Angeles:20261027T180000
-DTEND;TZID=America/Los_Angeles:20261027T193000
-DTSTAMP:20261025T205626Z
-UID:funcheap-1640138@sf-cal
-SEQUENCE:0
-CATEGORIES:Theater Performance
-DESCRIPTION:Submitted by the Event OrganizerRob LewisYou are invited to a 
- one-of-a-kind theater experience: be a part of a one-day play performance!
-  Mission StageWorks welcomes you to experience the joy of acting and playi
- ng onstage. Here’s your chance to connect in a radically inclusive space
- . Never been on stage? Getting back into acting? Just like to perform? Per
- fect! This low pressure environment is designed to meet people\, create ch
- aracters\, play during rehearsal\, and present short staged-reading perfor
- mances with a short-term theater ensemble.\nCome for the love of theater. 
- Leave with found company.\nFree food and beverages.\nGet tickets\nMission 
- StageWorks offers tickets on a sliding scale. At this event\, you have the
-  following options:\n\nPay It Forward = $40\nStandard Rate = $30\nIntroduc
- tory Rate = $20\nBring a Friend promo = $20\, two tickets for the price of
-  one\n\nMission StageWorks is committed to making our events accessible to
-  our entire community. If our current sliding scale tiers do not fit your 
- budget\, please contact us at info@missionstageworks.org\n\n$20.00\n\nTick
- ets: https://www.missionstageworks.org/events/foundcompany4\nDetails: http
- s://sf.funcheap.com/company-spontaneous-staged-reading/\nSource: Funcheap 
- SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/FC-Ban
- ner-16x9-1.jpg
-LAST-MODIFIED:20261025T205626Z
-LOCATION:Eclectic Box\, 446 Valencia Street San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/company-spontaneous-staged-reading/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261027T190000
-DTEND;TZID=America/Los_Angeles:20261027T210000
-DTSTAMP:20261028T055235Z
-UID:dothebay-17857054@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:After her baby brother is abducted by a murder of crows\, head
- strong teenager Prue McKeel (Peyton Elizabeth Lee) launches a desperate re
- scue mission into the Impassable Wilderness—an enchanted forest hidden j
- ust beyond Portland\, Oregon. Joined by her hapless but loyal classmate Cu
- rtis Mehlberg (Jacob Tremblay)\, Prue navigates a world of talking animals
- \, bandits\, and powerful figures driven by grief and ambition. As the pai
- r is drawn into a conflict threatening the balance of the forest itself\, 
- Prue must discover the strength and belief she never knew she possessed. I
- f she hopes to save her brother and protect Wildwood’s fragile future\, 
- she will have to risk everything. From Oscar®-nominated and BAFTA®-winni
- ng LAIKA\, Wildwood is a sweeping adventure about love\, sacrifice\, and t
- he magic that reveals itself when we dare to look beyond the familiar.\n\n
- This film can be used with loyalty cards or our 2026 annual CinemaSFBay pa
- sses\n\nDetails: https://dothebay.com/events/2026/10/27/wildwood-tickets\n
- Source: DoTheBay
-GEO:37.7760419;-122.498063
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34492514/53f3a208-f1bc-4ba9-bba6-ba4cffe95afd.jpg
-LAST-MODIFIED:20261028T055235Z
-LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/27/wildwood-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cottontails & After-Hours Jam at the Woodchopper's Ball\, Hall
- oween Edition!
-DTSTART;TZID=America/Los_Angeles:20261027T210000
-DTEND;TZID=America/Los_Angeles:20261027T230000
-DTSTAMP:20261028T055235Z
-UID:dothebay-17989157@sf-cal
-SEQUENCE:2
-CATEGORIES:Dance
-DESCRIPTION:20\nThe Cottontails & After-Hours Jam at the Woodchopper's Bal
- l\, Halloween Edition!\n\nDetails: https://dothebay.com/events/2026/10/27/
- the-cottontails-after-hours-jam-at-the-woodchopper-s-ball-halloween-editio
- n-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/
- cottontails-afterhours-jam-woodchoppers-ball-halloween-edition/
-GEO:37.7634058;-122.4079386
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35109445/db05ecc5-3c25-4f4b-9de3-13c4c5089367.jpg
-LAST-MODIFIED:20261028T055235Z
-LOCATION:Verdi Club\, 2424 Mariposa Street\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/27/the-cottontails-after-hours-jam
- -at-the-woodchopper-s-ball-halloween-edition-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$10 Off Tix: SF’s “Terror Vault” 1874 Halloween Haunt (Final
   Week 2026)
 DTSTART;TZID=America/Los_Angeles:20261028T180000
@@ -1483,9 +1396,9 @@ BEGIN:VEVENT
 SUMMARY:Ken Russell's The Devils
 DTSTART;TZID=America/Los_Angeles:20261103T170000
 DTEND;TZID=America/Los_Angeles:20261103T190000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261104T110513Z
 UID:dothebay-17989173@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:An enduring masterpiece of cinema starring Oliver Reed and Van
  essa Redgrave\, KEN RUSSELL’S THE DEVILS is a prescient epic of obsessio
@@ -1493,14 +1406,12 @@ DESCRIPTION:An enduring masterpiece of cinema starring Oliver Reed and Van
   Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrica
  l experience that Russell always envisioned – and the first time the fil
  m will be presented restored and in 4K.\n\nThis film can be used with loya
- lty cards or our 2026 annual CinemaSFBay passes\n\nTickets: https://ticket
- ing.uswest.veezi.com/purchase/20261?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\n
- Details: https://dothebay.com/events/2026/11/3/ken-russell-s-the-devils-ti
- ckets\nSource: DoTheBay
+ lty cards or our 2026 annual CinemaSFBay passes\n\nDetails: https://dotheb
+ ay.com/events/2026/11/3/ken-russell-s-the-devils-tickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35142105/6d26e603-22df-4dd6-848e-c95ac5ce4ee6.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261104T110513Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/3/ken-russell-s-the-devils-tickets
@@ -1509,9 +1420,9 @@ BEGIN:VEVENT
 SUMMARY:You Can See Everything
 DTSTART;TZID=America/Los_Angeles:20261103T190000
 DTEND;TZID=America/Los_Angeles:20261103T210000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261104T110513Z
 UID:dothebay-17989172@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sil
  icon Valley founder Elizabeth Holmes invites a skeptical film crew to docu
@@ -1519,13 +1430,12 @@ DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sil
  elon becomes a mind-bending three-year journey into the abyss. From bounda
  ry-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See 
  Everything.\n\nThis film can be used with loyalty cards or our 2026 annual
-  CinemaSFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchas
- e/20256?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.co
- m/events/2026/11/3/you-can-see-everything-tickets\nSource: DoTheBay
+  CinemaSFBay passes\n\nDetails: https://dothebay.com/events/2026/11/3/you-
+ can-see-everything-tickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35142099/d5311250-805b-4620-b9fb-fc5198a869ca.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261104T110513Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/3/you-can-see-everything-tickets
@@ -1534,21 +1444,20 @@ BEGIN:VEVENT
 SUMMARY:Naza
 DTSTART;TZID=America/Los_Angeles:20261103T200000
 DTEND;TZID=America/Los_Angeles:20261103T220000
-DTSTAMP:20261026T203423Z
+DTSTAMP:20261104T110513Z
 UID:dothebay-17989171@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this investigative do
  cumentary examines the civilian casualties of Israel’s military operatio
  ns in Gaza and the systems behind targeted killings of Palestinians.\n\nTh
  is film can be used with loyalty cards or our 2026 annual CinemaSFBay pass
- es\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20260?siteToken
- =52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/events/2026/11/
- 3/naza-tickets\nSource: DoTheBay
+ es\n\nDetails: https://dothebay.com/events/2026/11/3/naza-tickets\nSource:
+  DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35109508/ab0668c2-e868-4ad0-8873-24563daa111e.jpg
-LAST-MODIFIED:20261026T203423Z
+LAST-MODIFIED:20261104T110513Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/3/naza-tickets

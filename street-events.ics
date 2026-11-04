@@ -41,24 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Sparks Client Event
-DTSTART;TZID=America/Los_Angeles:20261027T060000
-DTEND;TZID=America/Los_Angeles:20261027T210000
-DTSTAMP:20261027T222129Z
-UID:sf-street-events-1599180-2026-10-27T06:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 4th St from Minna St to Howard St\n\nPermit status: Pe
- rmitted\nTimes are SFMTA street-closure permit times and include setup and
-  teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https://da
- ta.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.783652;-122.40321
-LAST-MODIFIED:20261027T222129Z
-LOCATION:04th St between Minna St and Howard St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:One Way Ventures Summit
 DTSTART;TZID=America/Los_Angeles:20261028T060000
 DTEND;TZID=America/Los_Angeles:20261028T210000
@@ -2674,6 +2656,44 @@ DESCRIPTION:Closed: Hayes St from Gough St to Octavia St\n\nPermit status:
 GEO:37.776786;-122.423746
 LAST-MODIFIED:20261103T105857Z
 LOCATION:Hayes St between Octavia St and Gough St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outer Sunset Farmers' Market 2026
+DTSTART;TZID=America/Los_Angeles:20270103T060000
+DTEND;TZID=America/Los_Angeles:20270103T160000
+DTSTAMP:20261104T110513Z
+UID:sf-street-events-1419904-2027-01-03T06:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: 37th Ave from Ortega St to Pacheco St\; 37th Ave from 
+ Pacheco St to Quintara St\; Pacheco St from Sunset Blvd to 37th Ave\n\nPer
+ mit status: Permitted\nTimes are SFMTA street-closure permit times and inc
+ lude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetai
+ ls: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.750594;-122.495565
+LAST-MODIFIED:20261104T110513Z
+LOCATION:37th Ave between Ortega St and Quintara St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clement Street Farmers Market
+DTSTART;TZID=America/Los_Angeles:20270103T070000
+DTEND;TZID=America/Los_Angeles:20270103T153000
+DTSTAMP:20261104T110513Z
+UID:sf-street-events-1498354-2027-01-03T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Clement St from Arguello Blvd to 02nd Ave\; Clement St
+  from 3rd Ave to Th Ave\; Clement St from 02nd Ave to 03rd Ave\n\nPermit s
+ tatus: Permitted\nTimes are SFMTA street-closure permit times and include 
+ setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: h
+ ttps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+GEO:37.783163;-122.459568
+LAST-MODIFIED:20261104T110513Z
+LOCATION:Clement St between Arguello Blvd and 2nd Ave\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
