@@ -75,28 +75,6 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/tapas-tuesday-10-small-plates-union-square/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The 48 Hills Triple Gala
-DTSTART;TZID=America/Los_Angeles:20261027T180000
-DTEND;TZID=America/Los_Angeles:20261027T200000
-DTSTAMP:20261028T055235Z
-UID:dothebay-17974903@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:Help save local indie media and have three times the fun\, wit
- h DJ Lizzy al Toque\, Chile Lindo empanadas\, wild live performances\, and
-  fab cocktails. Free drink with ticket! Oct. 27\, 6pm-9pm\, at El Rio.\n\n
- $50\n\nDetails: https://dothebay.com/events/2026/10/27/the-48-hills-triple
- -gala-tickets\nSource: DoTheBay
-GEO:37.7468046;-122.4194395
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35046399/7f7d24ed-63a5-4cb3-988f-3dea54f1d021.jpg
-LAST-MODIFIED:20261028T055235Z
-LOCATION:El Rio\, 3158 Mission St\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/27/the-48-hills-triple-gala-ticket
- s
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Texas Tuesdays - Line Dancing with Cassaundra - Tuesday\, October 
  27\, 2026
 DTSTART;TZID=America/Los_Angeles:20261027T190000
@@ -3016,9 +2994,9 @@ BEGIN:VEVENT
 SUMMARY:MONUMENTS
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261103T025635Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-18029691@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Born from RASA’s Eiffel Tower show in Paris\, MONUMENTS tran
  sforms extraordinary landmarks into singular nights of music\, atmosphere\
@@ -3031,11 +3009,13 @@ DESCRIPTION:Born from RASA’s Eiffel Tower show in Paris\, MONUMENTS tran
  ow and create a night they’ve never experienced there before.\n\n21+\, t
  ickets starting at $50\nPRESENTED BY RASA X NPU\n\nTickets: https://rasa.f
  yi/event/monuments/igbio\nDetails: https://dothebay.com/events/2026/11/14/
- monuments-tickets\nSource: DoTheBay
+ monuments-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://rasa.fyi
+ /event/monuments/igbio?utm_source=caldiscovery&utm_medium=ics&utm_campaign
+ =san-francisco-ca
 GEO:37.8019913;-122.4486565
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35276030/63fa4b42-103e-46aa-96b7-522e33ac08e0.jpg
-LAST-MODIFIED:20261103T025635Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:Palace of Fine Arts\, 3301 Lyon Street\, San Francisco\, CA\, 941
  23
 TRANSP:TRANSPARENT

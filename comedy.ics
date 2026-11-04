@@ -1999,20 +1999,23 @@ BEGIN:VEVENT
 SUMMARY:Chelsea Handler
 DTSTART;TZID=America/Los_Angeles:20261107T200000
 DTEND;TZID=America/Los_Angeles:20261107T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17133607@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Doors open at 7pm\n\nThe High And Mighty Tour\n\nTickets: http
  s://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A
  %2F%2Fwww.ticketmaster.com%2Fchelsea-handler-the-high-and-mighty-san-franc
  isco-california-11-07-2026%2Fevent%2F1C006473A637B8F9\nDetails: https://do
  thebay.com/events/2026/11/7/chelsea-handler-the-high-and-mighty-tour-ticke
- ts\nSource: DoTheBay
+ ts\nSource: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/ch
+ elsea-handler-the-high-and-mighty-san-francisco-california-11-07-2026/even
+ t/1C006473A637B8F9?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san
+ -francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31073954/2c1e60f4-c0cd-4cca-aeb0-38b2616a9f97.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/chelsea-handler-the-high-and-mig
@@ -2674,6 +2677,28 @@ URL:https://sf.funcheap.com/shame-cave-comedy-show-a-shameful-yet-shameles
  s-night-sf-99/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nirvanna the Band the Show Season One ~ 7 PM (as part of NTBTS the
+  Fest)
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T222500
+DTSTAMP:20261104T012711Z
+UID:caldiscovery-comedy-987a30837120c452@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,festival,film
+DESCRIPTION:Published by Calendar of Events\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
+ es.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-1
+ 3?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
+ urce: CalDiscovery\n\nAlso listed on:\n- https://www.balboamovies.com/cale
+ ndar-of-events/nirvanna-the-band-the-show-season-one-november-13?utm_sourc
+ e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+LAST-MODIFIED:20261104T012711Z
+TRANSP:TRANSPARENT
+URL:https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-
+ show-season-one-november-13?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amir K
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
@@ -2946,6 +2971,28 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/richie-o-farrill-en-espanol-tic
  kets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nirvanna the Band the Show Season Two ~ 4 PM (as part of NTBTS the
+  Fest)
+DTSTART;TZID=America/Los_Angeles:20261114T160000
+DTEND;TZID=America/Los_Angeles:20261114T192500
+DTSTAMP:20261104T012711Z
+UID:caldiscovery-comedy-d6671ed5210a851a@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,festival
+DESCRIPTION:Published by Calendar of Events\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
+ es.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-1
+ 4?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
+ urce: CalDiscovery\n\nAlso listed on:\n- https://www.balboamovies.com/cale
+ ndar-of-events/nirvanna-the-band-the-show-season-two-november-14?utm_sourc
+ e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+LAST-MODIFIED:20261104T012711Z
+TRANSP:TRANSPARENT
+URL:https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-
+ show-season-two-november-14?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
@@ -3849,19 +3896,22 @@ BEGIN:VEVENT
 SUMMARY:Anthony Jeselnik: Wrath of Man
 DTSTART;TZID=America/Los_Angeles:20261120T193000
 DTEND;TZID=America/Los_Angeles:20261120T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17517178@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Doors open at 6:30pm\n\nTickets: https://ticketmaster.evyy.net
  /c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.co
  m%2Fanthony-jeselnik-wrath-of-man-san-francisco-california-11-20-2026%2Fev
  ent%2F1C0064BCA96DF90C\nDetails: https://dothebay.com/events/2026/11/20/an
- thony-jeselnik-wrath-of-man-tickets\nSource: DoTheBay
+ thony-jeselnik-wrath-of-man-tickets\nSource: DoTheBay\n\nAlso listed on:\n
+ - https://www.ticketmaster.com/anthony-jeselnik-wrath-of-man-san-francisco
+ -california-11-20-2026/event/1C0064BCA96DF90C?utm_source=caldiscovery&utm_
+ medium=ics&utm_campaign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32883453/1fe20452-b9ac-4256-aaf9-0180aeb7a2ba.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/20/anthony-jeselnik-wrath-of-man-t
@@ -4041,19 +4091,22 @@ BEGIN:VEVENT
 SUMMARY:Anthony Jeselnik: Wrath of Man
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17460647@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Doors open at 6pm\n\nTickets: https://ticketmaster.evyy.net/c/
  253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2
  Fanthony-jeselnik-wrath-of-man-san-francisco-california-11-21-2026%2Fevent
  %2F1C0064BCA971F91F\nDetails: https://dothebay.com/events/2026/11/21/antho
- ny-jeselnik-wrath-of-man-tickets\nSource: DoTheBay
+ ny-jeselnik-wrath-of-man-tickets\nSource: DoTheBay\n\nAlso listed on:\n- h
+ ttps://www.ticketmaster.com/anthony-jeselnik-wrath-of-man-san-francisco-ca
+ lifornia-11-21-2026/event/1C0064BCA971F91F?utm_source=caldiscovery&utm_med
+ ium=ics&utm_campaign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32610727/9c6c65a5-581d-4213-ac5e-5cebb9911a99.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/anthony-jeselnik-wrath-of-man-t
@@ -4142,6 +4195,23 @@ LOCATION:Noe Valley Farm SF\, 1828 Castro Street\, San Francisco\, CA\, 94
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/san-francisco-comedy-undergroun
  d-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy at the Balboa: Johana Coca ~ Doors at 7 PM/Show at 8 PM
+DTSTART;TZID=America/Los_Angeles:20261121T200000
+DTEND;TZID=America/Los_Angeles:20261121T221500
+DTSTAMP:20261104T012711Z
+UID:caldiscovery-comedy-3370682aeb257860@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by Calendar of Events\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
+ es.com/calendar-of-events/comedy-night-november-21?utm_source=caldiscovery
+ &utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261104T012711Z
+TRANSP:TRANSPARENT
+URL:https://www.balboamovies.com/calendar-of-events/comedy-night-november-
+ 21?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Puff Puff Laugh” SF’s Cannabis Lounge Comedy Show (Moe Gree
@@ -5306,6 +5376,24 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/29/cobb-s-comedy-allstars-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julio Torres at Castro
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261104T012711Z
+UID:caldiscovery-comedy-d6d22fd31300a41e@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by SF Live Music This Week\nContains information fro
+ m CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://sfmusic.l
+ ive/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\
+ nSource: CalDiscovery
+LAST-MODIFIED:20261104T012711Z
+LOCATION:Castro\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sfmusic.live/?utm_source=caldiscovery&utm_medium=ics&utm_campa
+ ign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steve Hofstetter
@@ -6915,19 +7003,22 @@ BEGIN:VEVENT
 SUMMARY:Matteo Lane: We Gotta Catch Up!
 DTSTART;TZID=America/Los_Angeles:20261211T200000
 DTEND;TZID=America/Los_Angeles:20261211T220000
-DTSTAMP:20261012T211826Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17285687@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Doors open at 7pm\n\nTickets: https://ticketmaster.evyy.net/c/
  253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2
  Fmatteo-lane-we-gotta-catch-up-san-francisco-california-12-11-2026%2Fevent
  %2F1C0064960AC26F71\nDetails: https://dothebay.com/events/2026/12/11/matte
- o-lane-we-gotta-catch-up-tickets\nSource: DoTheBay
+ o-lane-we-gotta-catch-up-tickets\nSource: DoTheBay\n\nAlso listed on:\n- h
+ ttps://www.ticketmaster.com/matteo-lane-we-gotta-catch-up-san-francisco-ca
+ lifornia-12-11-2026/event/1C0064960AC26F71?utm_source=caldiscovery&utm_med
+ ium=ics&utm_campaign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31788500/6db67954-fdc5-4d03-a303-a9aa8d6ad7ab.png
-LAST-MODIFIED:20261012T211826Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/11/matteo-lane-we-gotta-catch-up-t
@@ -7109,19 +7200,22 @@ BEGIN:VEVENT
 SUMMARY:Matteo Lane: We Gotta Catch Up!
 DTSTART;TZID=America/Los_Angeles:20261212T200000
 DTEND;TZID=America/Los_Angeles:20261212T220000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17831179@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Doors open at 7pm\n\nTickets: https://ticketmaster.evyy.net/c/
  253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2
  Fmatteo-lane-we-gotta-catch-up-san-francisco-california-12-12-2026%2Fevent
  %2F1C0064960AC76F7F\nDetails: https://dothebay.com/events/2026/12/12/matte
- o-lane-we-gotta-catch-up-tickets\nSource: DoTheBay
+ o-lane-we-gotta-catch-up-tickets\nSource: DoTheBay\n\nAlso listed on:\n- h
+ ttps://www.ticketmaster.com/matteo-lane-we-gotta-catch-up-san-francisco-ca
+ lifornia-12-12-2026/event/1C0064960AC76F7F?utm_source=caldiscovery&utm_med
+ ium=ics&utm_campaign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34369253/c0392768-a4e3-4ab2-bbc9-7307d5165057.png
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/12/matteo-lane-we-gotta-catch-up-t
@@ -7499,12 +7593,26 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/17/emily-catalano-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:laughs with benefits
+DTSTART;TZID=America/Los_Angeles:20261218T190000
+DTEND;TZID=America/Los_Angeles:20261218T210000
+DTSTAMP:20261104T012711Z
+UID:caldiscovery-comedy-4be13a3c6edfe195@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:point of contact: Ry 4153128287\n\nPublished by ADOBE BOOKS\nC
+ ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nSou
+ rce: CalDiscovery
+LAST-MODIFIED:20261104T012711Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261218T190000
 DTEND;TZID=America/Los_Angeles:20261218T210000
-DTSTAMP:20261019T210249Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17006307@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ali Wong Live\nFriday\, December 18 | The Masonic\n\nSold out\
  n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=Do
@@ -7512,11 +7620,14 @@ DESCRIPTION:Ali Wong Live\nFriday\, December 18 | The Masonic\n\nSold out\
  alifornia-12-18-2026%2Fevent%2F1C006452C0DE9C87%3F_gl%3D1%2Avre1sa%2A_ga%2
  AODgxNzE3ODQ2LjE3NzA2ODEzNDE.%2A_ga_C1T806G4DF%2AczE3NzIwNTY3MzAkbzUkZzEkd
  DE3NzIwNTc3MjMkajU4JGwwJGgw\nDetails: https://dothebay.com/events/2026/12/
- 18/ali-wong-live-tickets\nSource: DoTheBay
+ 18/ali-wong-live-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://w
+ ww.ticketmaster.com/ali-wong-live-san-francisco-california-12-18-2026/even
+ t/1C006452C0DE9C87?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san
+ -francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30458962/e31a8b61-74cd-4920-9595-71ea58927adc.jpg
-LAST-MODIFIED:20261019T210249Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/18/ali-wong-live-tickets
@@ -7676,9 +7787,9 @@ BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261219T160000
 DTEND;TZID=America/Los_Angeles:20261219T180000
-DTSTAMP:20261020T194441Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17847467@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:New Show Added!\nAli Wong Live\nSaturday\, December 19 | 4pm |
   The Masonic\n\nDoors open at 3pm\n\nNew Show Added!\n\nTickets: https://t
@@ -7686,11 +7797,16 @@ DESCRIPTION:New Show Added!\nAli Wong Live\nSaturday\, December 19 | 4pm |
  Fwww.ticketmaster.com%2Fali-wong-live-san-francisco-california-12-19-2026%
  2Fevent%2F1C006528B836E1C0%3FrefArtist%3DK8vZ917uNOf%26f_simplified_filter
  %3Dtrue%26f_enable_merch_slot%3Dtrue\nDetails: https://dothebay.com/events
- /2026/12/19/ali-wong-live-tickets\nSource: DoTheBay
+ /2026/12/19/ali-wong-live-tickets\nSource: DoTheBay\n\nAlso listed on:\n- 
+ https://www.ticketmaster.com/ali-wong-live-san-francisco-california-12-19-
+ 2026/event/1C006528B836E1C0?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca\n- https://www.ticketmaster.com/ali-wong-live-san-f
+ rancisco-california-12-19-2026/event/1C006452C0E39C96?utm_source=caldiscov
+ ery&utm_medium=ics&utm_campaign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34443747/8ea4e7d8-076a-466c-962f-91ffae29d894.jpg
-LAST-MODIFIED:20261020T194441Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/19/ali-wong-live-tickets
@@ -7699,9 +7815,9 @@ BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261219T190000
 DTEND;TZID=America/Los_Angeles:20261219T210000
-DTSTAMP:20261020T194441Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17006316@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ali Wong Live\nSaturday\, December 19 | The Masonic\n\nDoors o
  pen at 6pm\n\nSold out\n\nTickets: https://ticketmaster.evyy.net/c/253185/
@@ -7709,11 +7825,16 @@ DESCRIPTION:Ali Wong Live\nSaturday\, December 19 | The Masonic\n\nDoors o
  ng-live-san-francisco-california-12-19-2026%2Fevent%2F1C006452C0E39C96%3Fr
  efArtist%3DK8vZ917uNOf%26f_simplified_filter%3Dtrue%26f_enable_merch_slot%
  3Dtrue\nDetails: https://dothebay.com/events/2026/12/19/ali-wong-live-1772
- 057888\nSource: DoTheBay
+ 057888\nSource: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.co
+ m/ali-wong-live-san-francisco-california-12-19-2026/event/1C006528B836E1C0
+ ?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n- h
+ ttps://www.ticketmaster.com/ali-wong-live-san-francisco-california-12-19-2
+ 026/event/1C006452C0E39C96?utm_source=caldiscovery&utm_medium=ics&utm_camp
+ aign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30459009/3938a736-a906-425d-9499-6ffac6dea06e.jpg
-LAST-MODIFIED:20261020T194441Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/19/ali-wong-live-1772057888
@@ -7962,20 +8083,23 @@ BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261220T190000
 DTEND;TZID=America/Los_Angeles:20261220T210000
-DTSTAMP:20261021T171908Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17006317@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ali Wong Live\nSunday\, December 20 | The Masonic\n\nTickets: 
  https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=http
  s%3A%2F%2Fwww.ticketmaster.com%2Fali-wong-live-san-francisco-california-12
  -20-2026%2Fevent%2F1C006452C0E89CA7%3FrefArtist%3DK8vZ917uNOf%26f_simplifi
  ed_filter%3Dtrue%26f_enable_merch_slot%3Dtrue\nDetails: https://dothebay.c
- om/events/2026/12/20/ali-wong-live-1772057939\nSource: DoTheBay
+ om/events/2026/12/20/ali-wong-live-1772057939\nSource: DoTheBay\n\nAlso li
+ sted on:\n- https://www.ticketmaster.com/ali-wong-live-san-francisco-calif
+ ornia-12-20-2026/event/1C006452C0E89CA7?utm_source=caldiscovery&utm_medium
+ =ics&utm_campaign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30459014/03e74fd6-5b38-44a9-b9d3-1f5959c805ce.jpg
-LAST-MODIFIED:20261021T171908Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/20/ali-wong-live-1772057939
@@ -8076,19 +8200,22 @@ BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261222T190000
 DTEND;TZID=America/Los_Angeles:20261222T210000
-DTSTAMP:20261023T171442Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17099296@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ali Wong Live\nTuesday\, December 22 | The Masonic\n\nTickets:
   https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=htt
  ps%3A%2F%2Fwww.ticketmaster.com%2Fali-wong-live-san-francisco-california-1
  2-22-2026%2Fevent%2F1C006452C0F09CBF\nDetails: https://dothebay.com/events
- /2026/12/22/ali-wong-live-tickets\nSource: DoTheBay
+ /2026/12/22/ali-wong-live-tickets\nSource: DoTheBay\n\nAlso listed on:\n- 
+ https://www.ticketmaster.com/ali-wong-live-san-francisco-california-12-22-
+ 2026/event/1C006452C0F09CBF?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30907421/db9863e8-23fe-44db-aa45-a478bc4d557d.png
-LAST-MODIFIED:20261023T171442Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/22/ali-wong-live-tickets
@@ -8120,19 +8247,22 @@ BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261223T190000
 DTEND;TZID=America/Los_Angeles:20261223T210000
-DTSTAMP:20261024T160225Z
+DTSTAMP:20261104T012711Z
 UID:dothebay-17099297@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Ali Wong Live\nWednesday\, December 23 | The Masonic\n\nTicket
  s: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=h
  ttps%3A%2F%2Fwww.ticketmaster.com%2Fali-wong-live-san-francisco-california
  -12-23-2026%2Fevent%2F1C006452C0F59CCE\nDetails: https://dothebay.com/even
- ts/2026/12/23/ali-wong-live-tickets\nSource: DoTheBay
+ ts/2026/12/23/ali-wong-live-tickets\nSource: DoTheBay\n\nAlso listed on:\n
+ - https://www.ticketmaster.com/ali-wong-live-san-francisco-california-12-2
+ 3-2026/event/1C006452C0F59CCE?utm_source=caldiscovery&utm_medium=ics&utm_c
+ ampaign=san-francisco-ca
 GEO:37.7911829;-122.412938
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/30907422/b30c2d25-0254-49bd-bef1-406b1fce499b.png
-LAST-MODIFIED:20261024T160225Z
+LAST-MODIFIED:20261104T012711Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/23/ali-wong-live-tickets
@@ -8244,6 +8374,26 @@ LAST-MODIFIED:20261101T001103Z
 LOCATION:Moe Greens\, 1276 Market St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/the-stoner-comedy-jam-friday-nights-sf-196/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ali Wong Live
+DTSTART;TZID=America/Los_Angeles:20261226T190000
+DTEND;TZID=America/Los_Angeles:20261226T210000
+DTSTAMP:20261104T012711Z
+UID:caldiscovery-comedy-2b78f008e5d161e2@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by The Masonic Tickets & Schedule\nContains informat
+ ion from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://ww
+ w.ticketmaster.com/ali-wong-live-san-francisco-california-12-26-2026/event
+ /1C006452C0FD9CEB?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-
+ francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261104T012711Z
+LOCATION:The Masonic\, 1111 California St\, San Francisco\, CA\, 94108
+TRANSP:TRANSPARENT
+URL:https://www.ticketmaster.com/ali-wong-live-san-francisco-california-12
+ -26-2026/event/1C006452C0FD9CEB?utm_source=caldiscovery&utm_medium=ics&utm
+ _campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rex Navarrete
