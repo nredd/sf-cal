@@ -213,9 +213,9 @@ BEGIN:VEVENT
 SUMMARY:Coit Comedy
 DTSTART;TZID=America/Los_Angeles:20261029T200000
 DTEND;TZID=America/Los_Angeles:20261029T220000
-DTSTAMP:20261030T011525Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-10986676@sf-cal
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Comedy
 DESCRIPTION:Coit Comedy\nEvery Thursday | Columbus Cafe\n\nCoit Comedy is 
  a live stand-up comedy show every last Thursday of the month in the secret
@@ -234,9 +234,10 @@ DESCRIPTION:Coit Comedy\nEvery Thursday | Columbus Cafe\n\nCoit Comedy is
  2F%2Fwww.eventbrite.com%2Fe%2Fcoit-comedy-tickets-381499123147%3Faff%3Ddot
  hebay\nDetails: https://dothebay.com/events/weekly/thu/coit-comedy\nSource
  : DoTheBay
+GEO:37.799788;-122.408435
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/9504870/a8e2f96d-de38-4d34-a873-f0b2ee757a36.jpg
-LAST-MODIFIED:20261030T011525Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:Columbus Cafe\, 562 Green Street\, San Francisco\, CA\, 94133
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/weekly/thu/coit-comedy
@@ -2059,9 +2060,9 @@ BEGIN:VEVENT
 SUMMARY:Stand-Up Comedy Show @Barracuda: "Stand-Up & Sushi"
 DTSTART;TZID=America/Los_Angeles:20261107T210000
 DTEND;TZID=America/Los_Angeles:20261107T230000
-DTSTAMP:20261103T105857Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-18031584@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Welcome to the Only Stand-Up Comedy Show in Downtown Burlingam
  e & it goes down at Barracuda Sushi. Peninsula Comedy brings their brand o
@@ -2087,9 +2088,10 @@ DESCRIPTION:Welcome to the Only Stand-Up Comedy Show in Downtown Burlingam
  //consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F20042169
  77933%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/11/
  7/stand-up-comedy-show-barracuda-stand-up-sushi-tickets\nSource: DoTheBay
+GEO:37.764864;-122.431791
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35282235/e31e6193-fa8c-42a7-98d4-ab4c1f695e36.jpg
-LAST-MODIFIED:20261103T105857Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:Barracuda Sushi\, 2251 Market Street\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/7/stand-up-comedy-show-barracuda-s
@@ -2185,9 +2187,9 @@ BEGIN:VEVENT
 SUMMARY:Drunk Theatre SF: The Wildest Bay Area Comedy!
 DTSTART;TZID=America/Los_Angeles:20261107T220000
 DTEND;TZID=America/Los_Angeles:20261108T000000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-17535072@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  erform an improvised play with five sober comedians. What could go wrong?!
@@ -2195,9 +2197,10 @@ DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  %2Fwww.eventbrite.com%2Fe%2Fdrunk-theatre-sf-the-wildest-bay-area-comedy-t
  ickets-1991885567352%3F\nDetails: https://dothebay.com/events/2026/11/7/dr
  unk-theatre-sf-the-wildest-bay-area-comedy-tickets\nSource: DoTheBay
+GEO:37.76577;-122.4223
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32971272/c8267cca-219b-4abe-b40f-31424b597e0b.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:Eclectic Box SF\, 446 Valencia Street\, San Francisco\, CA\, 9410
  3
 TRANSP:TRANSPARENT
@@ -2662,6 +2665,28 @@ URL:https://620-jones.com/calendar/uiu-bay-area-comedy-night/?utm_source=c
  aldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nirvanna the Band the Show Season One ~ 7 PM (as part of NTBTS the
+  Fest)
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T222500
+DTSTAMP:20261104T195100Z
+UID:caldiscovery-comedy-987a30837120c452@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,festival,film
+DESCRIPTION:Published by Calendar of Events\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
+ es.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-1
+ 3?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
+ urce: CalDiscovery\n\nAlso listed on:\n- https://www.balboamovies.com/cale
+ ndar-of-events/nirvanna-the-band-the-show-season-one-november-13?utm_sourc
+ e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+LAST-MODIFIED:20261104T195100Z
+TRANSP:TRANSPARENT
+URL:https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-
+ show-season-one-november-13?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amir K
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
@@ -2936,6 +2961,28 @@ URL:https://dothebay.com/events/2026/11/14/richie-o-farrill-en-espanol-tic
  kets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nirvanna the Band the Show Season Two ~ 4 PM (as part of NTBTS the
+  Fest)
+DTSTART;TZID=America/Los_Angeles:20261114T160000
+DTEND;TZID=America/Los_Angeles:20261114T192500
+DTSTAMP:20261104T195100Z
+UID:caldiscovery-comedy-d6671ed5210a851a@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,festival
+DESCRIPTION:Published by Calendar of Events\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
+ es.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-1
+ 4?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSo
+ urce: CalDiscovery\n\nAlso listed on:\n- https://www.balboamovies.com/cale
+ ndar-of-events/nirvanna-the-band-the-show-season-two-november-14?utm_sourc
+ e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+LAST-MODIFIED:20261104T195100Z
+TRANSP:TRANSPARENT
+URL:https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-
+ show-season-two-november-14?utm_source=caldiscovery&utm_medium=ics&utm_cam
+ paign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live - No
  vember 13 - 15\, 2026
 DTSTART;TZID=America/Los_Angeles:20261114T183000
@@ -2974,6 +3021,26 @@ LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
 TRANSP:TRANSPARENT
 URL:https://go.evvnt.com/3848471-2?pid=12352&utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Comedy "run" Club (San Francisco)
+DTSTART;TZID=America/Los_Angeles:20261114T190000
+DTEND;TZID=America/Los_Angeles:20261114T203000
+DTSTAMP:20261104T195100Z
+UID:caldiscovery-comedy-026d33ce720a4435@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by dougcordell.com\nContains information from CalDis
+ covery (caldiscovery.com)\, ODbL 1.0\n\nDetails: http://www.dougcordell.co
+ m/events/2026/11/14/the-comedy-run-club-san-francisco?utm_source=caldiscov
+ ery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261104T195100Z
+LOCATION:Sports Basement Presidio\, 610 Old Mason Street\, San Francisco\,
+  CA 94129
+TRANSP:TRANSPARENT
+URL:http://www.dougcordell.com/events/2026/11/14/the-comedy-run-club-san-f
+ rancisco?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco
+ -ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nicole Aimee Schreiber
@@ -4136,9 +4203,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Comedy Underground
 DTSTART;TZID=America/Los_Angeles:20261121T193000
 DTEND;TZID=America/Los_Angeles:20261121T213000
-DTSTAMP:20261026T131406Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-14271512@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Best Medicine Comedy Presents\nSan Francisco Comedy Undergroun
  d\nEvery 3rd Saturday | Noe Valley Farm\n\nLooking for a comedy experience
@@ -4166,9 +4233,10 @@ DESCRIPTION:Best Medicine Comedy Presents\nSan Francisco Comedy Undergroun
  %2Fsan-francisco-comedy-underground-tickets-128685037411%3Faff%3DDotheBay\
  nDetails: https://dothebay.com/events/2026/11/21/san-francisco-comedy-unde
  rground-tickets\nSource: DoTheBay
+GEO:37.746805;-122.433879
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/17858801/dcf6aa47-daca-44b3-ab99-e09ebe2b9a3b.jpg
-LAST-MODIFIED:20261026T131406Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:Noe Valley Farm SF\, 1828 Castro Street\, San Francisco\, CA\, 94
  131
 TRANSP:TRANSPARENT
@@ -4366,9 +4434,9 @@ BEGIN:VEVENT
 SUMMARY:Drunk Theatre SF: The Wildest Bay Area Comedy!
 DTSTART;TZID=America/Los_Angeles:20261121T220000
 DTEND;TZID=America/Los_Angeles:20261122T000000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-17535075@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  erform an improvised play with five sober comedians. What could go wrong?!
@@ -4376,9 +4444,10 @@ DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  %2Fwww.eventbrite.com%2Fe%2Fdrunk-theatre-sf-the-wildest-bay-area-comedy-t
  ickets-1991885567352%3F\nDetails: https://dothebay.com/events/2026/11/21/d
  runk-theatre-sf-the-wildest-bay-area-comedy-1782492472\nSource: DoTheBay
+GEO:37.76577;-122.4223
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32971287/b4eba1dd-c3ad-4a9f-912e-fbf36eded58a.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:Eclectic Box SF\, 446 Valencia Street\, San Francisco\, CA\, 9410
  3
 TRANSP:TRANSPARENT
@@ -6139,16 +6208,17 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Commons SF- The Holiday Edition
 DTSTART;TZID=America/Los_Angeles:20261205T193000
 DTEND;TZID=America/Los_Angeles:20261205T213000
-DTSTAMP:20261019T210249Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-17971695@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:$25.00\n\nTickets: https://luma.com/the-9myd\nDetails: https:/
  /dothebay.com/events/2026/12/5/comedy-at-the-commons-sf-the-holiday-editio
  n-tickets\nSource: DoTheBay
+GEO:37.776377;-122.426045
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35029483/fa25ed35-c39b-48b5-8751-3d5882f82536.jpg
-LAST-MODIFIED:20261019T210249Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:The Commons SF\, 550 Laguna Street\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/5/comedy-at-the-commons-sf-the-hol
@@ -6354,9 +6424,9 @@ BEGIN:VEVENT
 SUMMARY:Drunk Theatre SF: The Wildest Bay Area Comedy!
 DTSTART;TZID=America/Los_Angeles:20261205T220000
 DTEND;TZID=America/Los_Angeles:20261206T000000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-17535076@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  erform an improvised play with five sober comedians. What could go wrong?!
@@ -6364,9 +6434,10 @@ DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  %2Fwww.eventbrite.com%2Fe%2Fdrunk-theatre-sf-the-wildest-bay-area-comedy-t
  ickets-1991885567352%3F\nDetails: https://dothebay.com/events/2026/12/5/dr
  unk-theatre-sf-the-wildest-bay-area-comedy-1782492497\nSource: DoTheBay
+GEO:37.76577;-122.4223
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32971292/281877df-314b-437c-bebe-0f6d76e51b4e.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:Eclectic Box SF\, 446 Valencia Street\, San Francisco\, CA\, 9410
  3
 TRANSP:TRANSPARENT
@@ -8039,9 +8110,9 @@ BEGIN:VEVENT
 SUMMARY:Drunk Theatre SF: The Wildest Bay Area Comedy!
 DTSTART;TZID=America/Los_Angeles:20261219T220000
 DTEND;TZID=America/Los_Angeles:20261220T000000
-DTSTAMP:20261020T194441Z
+DTSTAMP:20261104T195100Z
 UID:dothebay-17535077@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  erform an improvised play with five sober comedians. What could go wrong?!
@@ -8049,9 +8120,10 @@ DESCRIPTION:A comedian takes five shots of whiskey in a row and tries to p
  %2Fwww.eventbrite.com%2Fe%2Fdrunk-theatre-sf-the-wildest-bay-area-comedy-t
  ickets-1991885567352%3F\nDetails: https://dothebay.com/events/2026/12/19/d
  runk-theatre-sf-the-wildest-bay-area-comedy-1782492515\nSource: DoTheBay
+GEO:37.76577;-122.4223
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32971302/1ecec1ca-9764-4457-9da6-766396253ff0.jpg
-LAST-MODIFIED:20261020T194441Z
+LAST-MODIFIED:20261104T195100Z
 LOCATION:Eclectic Box SF\, 446 Valencia Street\, San Francisco\, CA\, 9410
  3
 TRANSP:TRANSPARENT
@@ -8355,26 +8427,6 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/the-stoner-comedy-jam-friday-nights-sf-196/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ali Wong Live
-DTSTART;TZID=America/Los_Angeles:20261226T190000
-DTEND;TZID=America/Los_Angeles:20261226T210000
-DTSTAMP:20261104T012711Z
-UID:caldiscovery-comedy-2b78f008e5d161e2@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy
-DESCRIPTION:Published by The Masonic Tickets & Schedule\nContains informat
- ion from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://ww
- w.ticketmaster.com/ali-wong-live-san-francisco-california-12-26-2026/event
- /1C006452C0FD9CEB?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-
- francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261104T012711Z
-LOCATION:The Masonic\, 1111 California St\, San Francisco\, CA\, 94108
-TRANSP:TRANSPARENT
-URL:https://www.ticketmaster.com/ali-wong-live-san-francisco-california-12
- -26-2026/event/1C006452C0FD9CEB?utm_source=caldiscovery&utm_medium=ics&utm
- _campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rex Navarrete
 DTSTART;TZID=America/Los_Angeles:20261226T190000
 DTEND;TZID=America/Los_Angeles:20261226T210000
@@ -8420,6 +8472,29 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/26/comedy-allstars-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ali Wong Live
+DTSTART;TZID=America/Los_Angeles:20261226T190000
+DTEND;TZID=America/Los_Angeles:20261226T210000
+DTSTAMP:20261104T195100Z
+UID:dothebay-18007864@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Doors open at 6pm\n\nTickets: https://ticketmaster.evyy.net/c/
+ 253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2
+ Fali-wong-live-san-francisco-california-12-26-2026%2Fevent%2F1C006452C0FD9
+ CEB\nDetails: https://dothebay.com/events/2026/12/26/ali-wong-live-tickets
+ \nSource: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/ali-
+ wong-live-san-francisco-california-12-26-2026/event/1C006452C0FD9CEB?utm_s
+ ource=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.7911829;-122.412938
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35189130/ab2b749a-e01d-49f2-af5d-e861b7cb3ef2.png
+LAST-MODIFIED:20261104T195100Z
+LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/26/ali-wong-live-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Puff Puff Laugh” SF’s Cannabis Lounge Comedy Show (Moe Gree
@@ -8594,6 +8669,26 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/27/s-f-comedy-showcase-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haight Laughsbury Comedy Show (San Francisco)
+DTSTART;TZID=America/Los_Angeles:20261228T193000
+DTEND;TZID=America/Los_Angeles:20261228T210000
+DTSTAMP:20261104T195100Z
+UID:caldiscovery-comedy-0b9d527f541dfff6@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by dougcordell.com\nContains information from CalDis
+ covery (caldiscovery.com)\, ODbL 1.0\n\nDetails: http://www.dougcordell.co
+ m/events/2026/2/9/haight-laughsbury-comedy-show-san-francisco-kd45c-hrbkp?
+ utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSour
+ ce: CalDiscovery
+LAST-MODIFIED:20261104T195100Z
+LOCATION:O'Reilly's Pub\, 1840 Haight Street\, San Francisco\, CA\, 94117
+TRANSP:TRANSPARENT
+URL:http://www.dougcordell.com/events/2026/2/9/haight-laughsbury-comedy-sh
+ ow-san-francisco-kd45c-hrbkp?utm_source=caldiscovery&utm_medium=ics&utm_ca
+ mpaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Emily Van Dyke
@@ -9147,5 +9242,50 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/2/comedy-allstars-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S. F. Comedy Showcase
+DTSTART;TZID=America/Los_Angeles:20270103T190000
+DTEND;TZID=America/Los_Angeles:20270103T210000
+DTSTAMP:20261104T195100Z
+UID:dothebay-17834320@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:S. F. Comedy Showcase\nSunday\, January 3 | ​Punch Line San 
+ Francisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167
+ /4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fs-f-comedy-s
+ howcase-san-francisco-california-01-03-2027%2Fevent%2F1C006525DB2F3E03\nDe
+ tails: https://dothebay.com/events/2027/1/3/s-f-comedy-showcase-tickets\nS
+ ource: DoTheBay
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34383603/55c34657-11b1-47e4-8fbe-f1b77a514459.png
+LAST-MODIFIED:20261104T195100Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/3/s-f-comedy-showcase-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Francisco Ramos
+DTSTART;TZID=America/Los_Angeles:20270103T190000
+DTEND;TZID=America/Los_Angeles:20270103T210000
+DTSTAMP:20261104T195100Z
+UID:dothebay-17906077@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Francisco Ramos\nSunday\, January 3 | ​Cobb's Comedy Club\n\
+ n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Shared
+ Id=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Ffrancisco-ramos-san-fran
+ cisco-california-01-03-2027%2Fevent%2F1C00653D1ACDC269\nDetails: https://d
+ othebay.com/events/2027/1/3/francisco-ramos-tickets\nSource: DoTheBay
+GEO:37.802989;-122.4143902
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34724726/2beff7d5-de7c-4acc-a8f1-5c21182e95b4.png
+LAST-MODIFIED:20261104T195100Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/3/francisco-ramos-tickets
 END:VEVENT
 END:VCALENDAR
