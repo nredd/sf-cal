@@ -1388,9 +1388,9 @@ BEGIN:VEVENT
 SUMMARY:Our City\, Our Sport: San Francisco Fútbol
 DTSTART;TZID=America/Los_Angeles:20261104T190000
 DTEND;TZID=America/Los_Angeles:20261104T210000
-DTSTAMP:20261104T012711Z
+DTSTAMP:20261105T012941Z
 UID:dothebay-18034550@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
 DESCRIPTION:Join KALW for an evening exploring the culture\, community & f
  uture of fútbol in San Francisco\, with filmmakers\, photographers\, and 
@@ -1417,10 +1417,11 @@ DESCRIPTION:Join KALW for an evening exploring the culture\, community & f
  .io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Four-city-our-sport-san
  -francisco-futbol-tickets-2004001293816%3Faff%3Doddtdtcreator\nDetails: ht
  tps://dothebay.com/events/2026/11/4/our-city-our-sport-san-francisco-futbo
- l-tickets\nSource: DoTheBay
+ l-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/
+ free-sf-ftbol-night-roll-fog-film-preview-panel-kalw/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35297123/91e3cbe7-3093-46aa-b41b-fbe3825decfd.jpg
-LAST-MODIFIED:20261104T012711Z
+LAST-MODIFIED:20261105T012941Z
 LOCATION:KALW @ 220 Montgomery\, 220 Montgomery St\, San Francisco\, CA\, 
  94104
 TRANSP:TRANSPARENT
@@ -2957,6 +2958,37 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-461/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Nob Hill Tree Lighting Ceremony
+DTSTART;TZID=America/Los_Angeles:20261130T173000
+DTEND;TZID=America/Los_Angeles:20261130T193000
+DTSTAMP:20261105T012941Z
+UID:funcheap-1016840@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Grace Cathedral🎄 Join Us for a Magical Evening! ✨The Nob 
+ Hill Association is delighted to invite you to our annual Holiday Lighting
+  Celebration at Huntington Park!\nThis cherished tradition is free and ope
+ n to the entire community. Come enjoy an unforgettable evening filled with
+  holiday spirit and joyful surprises\, including:\n🎶 Live holiday music
+ 🍪 Festive treats\, cookies\, and warm seasonal beverages🎨 Family-fri
+ endly activities for children of all ages🌟 The enchanting lighting of o
+ ur beloved park!\n\nLet’s kick off the holiday season together in true N
+ ob Hill style. We can’t wait to celebrate with you!\nHoliday Lighting Ce
+ lebrationMonday\, November 30\, 2026*Huntington Park — California St. & 
+ Taylor St.\n*Please note that the Nob Hill Association website lists Monda
+ y\, November 30\, 2025\, but we believe this is a typo. The 2025 lighting 
+ happened on December 1\, 2025.\n\nFree\n\nTickets: https://nobhillassociat
+ ion.org/treelighting-2026/\nDetails: https://sf.funcheap.com/nob-hill-tree
+ -lighting-ceremony-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2019/11/Screen
+ shot_50.png
+LAST-MODIFIED:20261105T012941Z
+LOCATION:Huntington Park\, Sacramento Street and Mason St.\, San Francisco
+ \, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/nob-hill-tree-lighting-ceremony-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chair Yoga
 DTSTART;TZID=America/Los_Angeles:20261201T140000
 DTEND;TZID=America/Los_Angeles:20261201T150000
@@ -3336,6 +3368,29 @@ LAST-MODIFIED:20261101T001103Z
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-471/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayes Valley’s 36th Annual Holiday Stroll (2026)
+DTSTART;TZID=America/Los_Angeles:20261204T170000
+DTEND;TZID=America/Los_Angeles:20261204T200000
+DTSTAMP:20261105T012941Z
+UID:funcheap-1433100@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Explore Hayes ValleyJoin your neighbors for the Hayes Valley H
+ oliday Stroll! Hosted by the Hayes Valley Merchants Council and the Hayes 
+ Valley Neighborhood Association\, the event takes place Friday\, December 
+ 4\, 2026\, from 5-8pm.\nDiscover festive in-store events\, special promoti
+ ons\, and plenty of holiday cheer with music\, shopping\, performers\, kid
+ s’ activities and more.\n\nExplore Hayes Valley\n\nFree\n\nTickets: http
+ s://www.explorehayesvalley.com/holiday-stroll\nDetails: https://sf.funchea
+ p.com/hayes-valleys-annual-holiday-stroll/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2022/11/316713
+ 789_382060174079959_7988322386128269859_n-e1699348610567.jpeg
+LAST-MODIFIED:20261105T012941Z
+LOCATION:Hayes Valley\, Hayes St. and Laguna St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/hayes-valleys-annual-holiday-stroll/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco

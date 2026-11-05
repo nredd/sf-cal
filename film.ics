@@ -40,34 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Desierto
-DTSTART;TZID=America/Los_Angeles:20261028T180000
-DTEND;TZID=America/Los_Angeles:20261028T200000
-DTSTAMP:20261029T100747Z
-UID:dothebay-17923115@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:Marking its 10th anniversary\, Jonás Cuarón’s DESIERTO is 
- a tense border thriller with the stripped-down intensity of survival horro
- r. When a group of migrants crossing the U.S.-Mexico border is hunted thro
- ugh the desert by an armed vigilante\, the journey becomes a brutal fight 
- for survival. Starring Gael García Bernal and Jeffrey Dean Morgan.\n\nAud
- ience members can also add a $5 or $10 donation to La Raza Centro Legal wh
- en purchasing tickets\, supporting their work with immigrant communities i
- n the Bay Area.\n\nRuntime\n\n1h 34m\n\nYear\n\n2015\n\nDirector\n\nJonás
-  Cuarón\n\nFormat\n\nDCP\n\nCountry\n\nMexico\n\nLanguage\n\nSpanish w/ E
- nglish subtitles and English\n\nFirst Showing\n\nOctober 28\, 2026\n\nCate
- gories\n\nRoxCine\n\n\,\n\nFeatured\n\nDetails: https://dothebay.com/event
- s/2026/10/28/desierto-tickets\nSource: DoTheBay
-GEO:37.7647103;-122.4224081
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34800049/ead5cf85-1043-4bf8-b235-2898de2f6d80.jpg
-LAST-MODIFIED:20261029T100747Z
-LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/28/desierto-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:When ICE Melts
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T210000
@@ -2910,9 +2882,9 @@ BEGIN:VEVENT
 SUMMARY:“forget me not” Short Film Premiere
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T190000
-DTSTAMP:20261103T105857Z
+DTSTAMP:20261105T012941Z
 UID:dothebay-18030296@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Come join us for a showcase of over 40 charming\, magical\, an
  d possibly even peculiar animated shorts by artists from across the globe.
@@ -2923,11 +2895,13 @@ DESCRIPTION:Come join us for a showcase of over 40 charming\, magical\, an
   Francisco premiere of this year’s anthology! 5-7pm\nPurchase tickets he
  re!\n\nFree\nWithin the FRAME\n\nTickets: https://madroneartbar.com/event/
  forget-me-not-premiere/\nDetails: https://dothebay.com/events/2026/11/14/f
- orget-me-not-short-film-premiere-tickets\nSource: DoTheBay
+ orget-me-not-short-film-premiere-tickets\nSource: DoTheBay\n\nAlso listed 
+ on:\n- https://sf.funcheap.com/40-global-animated-shorts-7-days-madrone-ar
+ t-bar-sf/
 GEO:37.7742426;-122.4373238
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35278727/29edbe1f-7f6b-46a4-8a35-f4d35836905f.jpg
-LAST-MODIFIED:20261103T105857Z
+LAST-MODIFIED:20261105T012941Z
 LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/forget-me-not-short-film-premie

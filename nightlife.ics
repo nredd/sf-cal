@@ -40,27 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:TransLife Drop-In
-DTSTART;TZID=America/Los_Angeles:20261028T130000
-DTEND;TZID=America/Los_Angeles:20261028T150000
-DTSTAMP:20261029T100747Z
-UID:dothebay-17621012@sf-cal
-SEQUENCE:1
-CATEGORIES:LGBTQ
-DESCRIPTION:TransLife empowers and supports group members with whatever th
- ey are going through. We understand that life as a trans woman\, trans man
- \, or gender-fluid individual can be tough. Our group brings a blend of sp
- irituality\, friendship and community to give the support you need and the
-  family you long for. Come join us.\n\nQuestions? Email Translife@sfaf.org
-  or call 415-487-8090.\n\nGroup held at 940 Howard St.\n\nDetails: https:/
- /dothebay.com/events/2026/10/28/translife-drop-in-tickets\nSource: DoTheBa
- y
-LAST-MODIFIED:20261029T100747Z
-LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/28/translife-drop-in-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
 DTSTART;TZID=America/Los_Angeles:20261028T163000
 DTEND;TZID=America/Los_Angeles:20261028T220000
@@ -1765,26 +1744,45 @@ URL:https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-part
  y-3-shots-sf-5/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dirtybird x Thrive City: Dirtybird Night Market
+SUMMARY:Dirtybird Night Market
 DTSTART;TZID=America/Los_Angeles:20261106T170000
 DTEND;TZID=America/Los_Angeles:20261106T190000
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261105T012941Z
 UID:dothebay-17925901@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:DJ/Parties
-DESCRIPTION:Thrive City x Dirtybird brings the Dirtybird Night Market to l
- ife with music\, vendors\, games\, and interactive fun throughout the nigh
- t.\n\nDirtybird x Thrive City\n\nTickets: https://consumer.pxf.io/APvP5J?u
- =https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fdirtybird-x-thrive-city-dirtybird-
- night-market-tickets-2002666865505%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue
- \nDetails: https://dothebay.com/events/2026/11/6/dirtybird-x-thrive-city-d
- irtybird-night-market-tickets\nSource: DoTheBay\n\nAlso listed on:\n- http
- s://sf.funcheap.com/dirtybird-night-market-dj-sets-games-cocktails-sfs-thr
- ive-city/
+DESCRIPTION:Dirtybird x Thrive City Present\nDirtybird Night Market\nFrida
+ y\, November 6 | ​Thrive City\n\nThrive City x Dirtybird brings the Dirt
+ ybird Night Market to life with music\, vendors\, games\, and interactive 
+ fun throughout the night.\n\nFREE ENTRY :: ALL AGES EVENT\n\nThrive City a
+ nd Dirtybird brings the Dirtybird Night Market to life with music\, local 
+ vendors\, games\, Dirtybird cocktails\, and interactive fun throughout the
+  night! Enjoy live DJ sets from Black V Neck\, Joanna Magik\, and Matsu\, 
+ plus shop Dirtybird merch\, get decked out with tooth gems by Gina\, get a
+  new look by Contagious Facepainting\, tarot readings from North Beach Psy
+ chic\, accessories from Kandie’s World\, and permanent jewelry from Link
+ ed by Soph.\n\nMusic Lineup:\n\nBlack V Neck\nJoanna Magik\nMatsu\n\nSplas
+ h at Thrive City's Dirtybird Takeover Menu!\nDrinks: $15\n\nSpicybird- bla
+ nco tequila\, jalapeño\, citrus\, bitters\nPrettybird- reposado tequila\,
+  mezcal\, grapefruit\, salt\, soda\nSkinnybird- vodka\, passionfruit\, van
+ illa\, citrus\, sparkling wine\nDirtybird- vodka\, dry vermouth\, olive ju
+ ice\, olives and a twist\n\nFood: $12\n\nDirtybird Chicken Sliders\n\nVend
+ or Lineup:\n\nDirtybird Merchandise\nNorth Beach Psychic\nTooth Gems by GG
+ \nContagious Facepainting\nKandie’s World\nLinked by Soph\n\nProhibited 
+ Items & Activities at Thrive City:\n\nNo weapons of any kind\nNo alcohol b
+ rought onto the plaza\, unless from a Thrive City restaurant or bar with a
+  valid stamp and compostable cup\nAll pets* on a leash\nNo coolers\nNo law
+ n chairs\nFace coverings are not permitt...\n\nFree\nDirtybird x Thrive Ci
+ ty Present\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.
+ eventbrite.com%2Fe%2Fdirtybird-x-thrive-city-dirtybird-night-market-ticket
+ s-2002666865505\nDetails: https://dothebay.com/events/2026/11/6/dirtybird-
+ x-thrive-city-dirtybird-night-market-tickets\nSource: DoTheBay\n\nAlso lis
+ ted on:\n- https://sf.funcheap.com/dirtybird-night-market-dj-sets-games-co
+ cktails-sfs-thrive-city/
 GEO:37.768018;-122.387877
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34814647/cae37bf3-d79b-43c2-a953-010d2f1b5fcd.jpg
-LAST-MODIFIED:20261104T195100Z
+ et/34814647/2dc4e968-1c16-404b-99b9-4749ec0c9661.jpg
+LAST-MODIFIED:20261105T012941Z
 LOCATION:Thrive City\, Chase Center\, 1 Warriors Way\, San Francisco\, CA\
  , 94158
 TRANSP:TRANSPARENT
