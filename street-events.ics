@@ -41,24 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:High Priestess of Souls\, Feature Film
-DTSTART;TZID=America/Los_Angeles:20261028T220000
-DTEND;TZID=America/Los_Angeles:20261029T070000
-DTSTAMP:20261028T202041Z
-UID:sf-street-events-1640089-2026-10-28T22:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Grant Ave from Clay St to Washington St\n\nPermit stat
- us: Permitted\nTimes are SFMTA street-closure permit times and include set
- up and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: http
- s://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.794704;-122.40639
-LAST-MODIFIED:20261028T202041Z
-LOCATION:Grant Ave between Clay St and Washington St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:One Way Ventures Summit
 DTSTART;TZID=America/Los_Angeles:20261029T060000
 DTEND;TZID=America/Los_Angeles:20261029T210000
