@@ -40,33 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Go Ghost Hunting This Halloween with Haunted Haight® Walking Tour
-DTSTART;TZID=America/Los_Angeles:20261029T190000
-DTEND;TZID=America/Los_Angeles:20261029T210000
-DTSTAMP:20261030T101008Z
-UID:dothebay-17917297@sf-cal
-SEQUENCE:2
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:We are the ONLY Authentic Ghost Hunting Tour in San Francisco!
-  We are REAL paranormal investigators with actual ghost gear from TV shows
-  we have been part of. No other tour offers our experience or tools. No gi
- mmicks. No tricks. No fake reviews. Exclusive and private with original re
- searched Ghost Stories and evidence that you catch yourself! No other tour
-  offers exclusive small private tours like we do!\n\n$29 (13 years and old
- er recommened)\n\nDetails: https://dothebay.com/events/2026/10/29/go-ghost
- -hunting-this-halloween-with-haunted-haight-walking-tour-tickets\nSource: 
- DoTheBay
-GEO:37.7703879;-122.4451741
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34776918/1bea8222-2ecf-4fe4-a3da-42bac848d018.jpg
-LAST-MODIFIED:20261030T101008Z
-LOCATION:Magnolia Gastropub & Brewery\, 1398 Haight Street\, San Francisco
- \, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/29/go-ghost-hunting-this-halloween
- -with-haunted-haight-walking-tour-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261030T090000
 DTEND;TZID=America/Los_Angeles:20261030T100000
@@ -1257,20 +1230,17 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Miami Heat
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261106T110227Z
 UID:dothebay-17728014@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. Miami Heat\n\nTickets: https://ticke
- tmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww
- .ticketmaster.com%2Fgolden-state-warriors-vs-miami-heat-san-francisco-cali
- fornia-11-05-2026%2Fevent%2F1C00650AB382D7DB\nDetails: https://dothebay.co
- m/events/2026/11/5/golden-state-warriors-vs-miami-heat-tickets\nSource: Do
- TheBay
+DESCRIPTION:Golden State Warriors vs. Miami Heat\n\nDetails: https://dothe
+ bay.com/events/2026/11/5/golden-state-warriors-vs-miami-heat-tickets\nSour
+ ce: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33883577/b672cb40-4c13-4bc7-8c52-0f4946479b15.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261106T110227Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/5/golden-state-warriors-vs-miami-h
@@ -2243,9 +2213,9 @@ BEGIN:VEVENT
 SUMMARY:Falling for Native Plants at Fort Mason
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T130000
-DTSTAMP:20261105T200237Z
+DTSTAMP:20261106T110227Z
 UID:dothebay-18043828@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:When: Saturday\, November 21st\, 2026\, 11am–2pm.\nWhere: Bl
  ack Point Historic Gardens - Van Ness Side\n\nJoin the Parks Conservancy t
@@ -2264,10 +2234,11 @@ DESCRIPTION:When: Saturday\, November 21st\, 2026\, 11am–2pm.\nWhere: Bl
  lling-native-plants?utm_source=dothebay&utm_medium=web&utm_campaign=fallin
  g_plants&utm_content=listing_112126\nDetails: https://dothebay.com/events/
  2026/11/21/falling-for-native-plants-at-fort-mason-tickets\nSource: DoTheB
- ay
+ ay\n\nAlso listed on:\n- https://sf.funcheap.com/2026-fall-native-plant-fe
+ st-free-wildflower-seeds-fort-mason-gardens-sf/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35336169/c7469914-1ceb-4d36-baf1-b020025e817d.jpg
-LAST-MODIFIED:20261105T200237Z
+LAST-MODIFIED:20261106T110227Z
 LOCATION:Black Point Historic Garden\, Black Point - Fort Mason Side\, For
  t Mason\, San Francisco\, CA\, 94123
 TRANSP:TRANSPARENT
