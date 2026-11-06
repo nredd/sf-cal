@@ -40,84 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:New People: The Great Experiment
-DTSTART;TZID=America/Los_Angeles:20261029T180000
-DTEND;TZID=America/Los_Angeles:20261029T200000
-DTSTAMP:20261030T101008Z
-UID:dothebay-17866473@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:This screening will take place at NEW PEOPLE CINEMA\, located 
- at 1746 Post Street in Japantown.\n\nFollowed by a post-screening Q&A with
-  Co-Director Eric Daniel Metzgar\n\nTHE GREAT EXPERIMENT is an epic poem i
- n documentary form—a mirror held to an American nation at war with its o
- wn reflection\, asking not who is right\, but whether the experiment itsel
- f can survive.\n\nFilmed in striking black and white across the US over fo
- ur consequential years\, from 2017 to 2021\, the film considers the result
- s of what George Washington once called “our last great experiment” in
-  democracy.\n\nThe approach is spatial and observational—less interested
-  in the ideological binary of left and right than in the vast\, complicate
- d country that exists at the intersection of many kinds of American experi
- ence.\n\nMuch as Robert Frank traveled the U.S. in the mid-1950s—bearing
-  witness yet refusing to editorialize in his seminal photographic antholog
- y of America—the film weaves these lives together not to resolve their c
- ontradictions\, but to hold them in the same frame long enough for somethi
- ng surprising to emerge.\n\nRuntime\n\n1h 40m\n\nYear\n\n2026\n\nDirector\
- n\nStephen Maing & Eric Daniel Metzgar\n\nFormat\n\nDCP\n\nFirst Showing\n
- \nOctober 29\, 2026\n\nCategories\n\nNew People Cinema\n\n\,\n\nFeatured\n
- \nDetails: https://dothebay.com/events/2026/10/29/new-people-the-great-exp
- eriment-tickets\nSource: DoTheBay
-GEO:37.7647103;-122.4224081
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34538606/2d4f938f-386e-467e-ad77-4d92bb13cb98.jpg
-LAST-MODIFIED:20261030T101008Z
-LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/29/new-people-the-great-experiment
- -tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2 Movie Night
-DTSTART;TZID=America/Los_Angeles:20261029T180000
-DTEND;TZID=America/Los_Angeles:20261029T200000
-DTSTAMP:20261030T101008Z
-UID:dothebay-17963982@sf-cal
-SEQUENCE:3
-CATEGORIES:Film
-DESCRIPTION:Practical Magic 2 Movie Night\nThursday\, October 29 | Oracle 
- Park\n\nThe Owens Sisters arrive on the largest screen in San Francisco fo
- r one night only. Join us at Oracle Park on Thursday\, October 29 for a sp
- ecial Halloween screening of the Warner Bros. film PRACTICAL MAGIC 2\, the
-  highly anticipated sequel to the beloved modern classic.\n\nPurchase tick
- ets early to guarantee your spot at this spellbinding event!\n\nDoors open
-  at 6:00 p.m. and the film begins promptly at 7:30 p.m. Tickets are $28. A
- ll tickets are general admission with the option to sit directly on the fi
- eld or in Lower Box seats. Seating is first-come\, first-served.\n\nA Magi
- cal Night: The screening will also feature a candlelit red carpet\, photo 
- opportunities\, Midnight Margaritas\, trick-or-treating for kids\, and mor
- e.\n\nAll ticket holders will enjoy access to the following amenities:\n\n
- Candlelit Red Carpet: Walk the red carpet like a celebrity and snap a pict
- ure in front of the Practical Magic 2 backdrop lined with candles and spoo
- ky décor.\nThemed Food & Beverage: Enjoy a variety of ballpark fan-favori
- te fare for purchase\, including an exclusive one-day menu of film-inspire
- d items.\nMidnight Margarita Bar: Snag the witchy cocktail in both classic
-  and frozen varieties. Non-alcoholic themed drinks will also be available.
- \nThe Magic of Scent: Step into a world of enchanting aromas before the ma
- gic hits the big screen. San Francisco’s own Ministry of Scent brings yo
- u an immersive\, sensory experience of Witchy Winter Wears fe...\n\n$28\, 
- All Ages\nListed time is doors\n\nDetails: https://dothebay.com/events/202
- 6/10/29/practical-magic-2-movie-night-at-oracle-park-tickets\nSource: DoTh
- eBay\n\nAlso listed on:\n- https://sf.funcheap.com/practical-magic-movie-o
- racle-park/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34997083/4892649d-fe53-4957-8a9d-debb91a4563f.jpg
-LAST-MODIFIED:20261030T101008Z
-LOCATION:Oracle Park\, 24 Willie Mays Plaza\, San Francisco\, CA\, 94107
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/29/practical-magic-2-movie-night-a
- t-oracle-park-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Halloween-Screening: Zombie Films
 DTSTART;TZID=America/Los_Angeles:20261029T180000
 DTEND;TZID=America/Los_Angeles:20261029T210000
@@ -149,6 +71,46 @@ LOCATION:Goethe-Institut San Francisco\, 657 Howard Street San Francisco\,
   CA 94105
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/halloweenscreening-zombie-films-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Practical Magic 2” Halloween-Themed Outdoor Movie Night at Or
+ acle Park
+DTSTART;TZID=America/Los_Angeles:20261029T180000
+DTEND;TZID=America/Los_Angeles:20261029T213000
+DTSTAMP:20261106T013613Z
+UID:funcheap-1643965@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Giants EnterprisesGiants Enterprises is bringing Movie Night b
+ ack to Oracle Park with a special screening of Warner Bros. Pictures’ Pr
+ actical Magic 2 on Thursday\, October 29\, 2026.\nThis will be the fourth 
+ annual collaboration between Giants Enterprises & Warner Bros.\, closely f
+ ollowing the success of last year’s Superman Movie Night.\nPractical Mag
+ ic 2 Movie Night at Oracle Park\nThursday\, October 29\, 2026 | Doors 6p\,
+  Film 7:30p\nOracle Park\, 3rd and King St.\, SF\nGet Tickets – $28 – 
+ All in – no added fees!\nArrive early – the first 500 guests will rece
+ ive an exclusive fragrance sample.\nDoors for this year’s Movie Night op
+ en at 6 p.m. and the film begins promptly at 7:30 p.m. Tickets are $28. Gu
+ ests can watch from Lower Box seats or sit directly on the field.\nSet aga
+ inst the backdrop of Oracle Park\, the evening will bring Practical Magic 
+ 2 beyond the theater and into the ballpark for a one-of-a-kind experience 
+ with several enchanting activations\, including:\n\nCandlelit Red Carpet: 
+ Walk the red carpet like a celebrity and snap a picture in front of the Pr
+ actical Magic 2 backdrop\, lined with candles and spooky décor.\nThemed F
+ ood & Beverage: Enjoy a variety of ballpark fan-favorite fare for purchase
+ \, including an exclusive one-day menu of film-inspired items.\nMidnight M
+ argarita Bar: Snag the witchy cocktail in both classic and frozen varietie
+ s. Non-alcoholic themed drinks will also be available.\nThe Magic of Scent
+ : Step into a world of enchanting aromas before the magic hits the big s..
+ .\n\n$28.00\n\nTickets: https://sfgiants.com/practicalmagic\nDetails: http
+ s://sf.funcheap.com/practical-magic-movie-oracle-park/\nSource: Funcheap S
+ F
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/gpyvui
+ aafuicvot5ktof.jpg
+LAST-MODIFIED:20261106T013613Z
+LOCATION:Oracle Park\, 24 Willie Mays Plaza\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/practical-magic-movie-oracle-park/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restoration at Grayson Manor

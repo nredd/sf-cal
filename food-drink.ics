@@ -40,30 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Gaetani Real Estate Cleanup w/ Free Drink For Volunteers
-DTSTART;TZID=America/Los_Angeles:20261029T160000
-DTEND;TZID=America/Los_Angeles:20261029T170000
-DTSTAMP:20261025T205626Z
-UID:funcheap-1643827@sf-cal
-SEQUENCE:0
-CATEGORIES:Free Food
-DESCRIPTION:Submitted by the Event OrganizerRefuse RefuseMeet at Gaetani R
- eal Estate (4444 Geary Blvd) to grab cleaning tools. Then\, cleaning will 
- occur from 4:00pm to 5:00pm. Stay afterwards for a free drink and to meet 
- fellow volunteers at Lost Marbles Brewpub (823 Clement St). Sign up on thi
- s Civic Joy Fund Mobilize page or email info@refuserefusesf.org with event
-  name.\n\nFree\n\nTickets: https://www.mobilize.us/civicjoyfund/event/9655
- 59/\nDetails: https://sf.funcheap.com/gaetani-real-estate-cleanup-free-dri
- nk-volunteers-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Large-
- Group-30.jpg
-LAST-MODIFIED:20261025T205626Z
-LOCATION:Gaetani Real Estate\, 4444 Geary Blvd #100\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/gaetani-real-estate-cleanup-free-drink-volunte
- ers-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monster Smash Burger Charity Event
 DTSTART;TZID=America/Los_Angeles:20261029T170000
 DTEND;TZID=America/Los_Angeles:20261029T200000
@@ -115,6 +91,43 @@ LAST-MODIFIED:20261025T205626Z
 LOCATION:Rafiki Coalition\, 601 Cesar Chavez\, San Francisco\, CA\, 94124
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/reclaiming-wellness-healing-headlines/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Night Echoes of the Past: Nature as Metaphor
+DTSTART;TZID=America/Los_Angeles:20261029T180000
+DTEND;TZID=America/Los_Angeles:20261029T203000
+DTSTAMP:20261106T013613Z
+UID:funcheap-1641766@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerFrancophone MuseumThe Francoph
+ one Museum is pleased to present Echoes of the Past: Nature as Metaphor\, 
+ a new exhibition by award-winning San Francisco artist Danièle Erville\, 
+ with a special opening night reception on October 29th.\nLandscapes have a
+ lways been at the heart of Danièle’s work\, whether painted en plein ai
+ r or imagined from within. Inspired by Jules Supervielle’s poem “Le pe
+ tit bois\,” the show brings together drawing\, painting\, and collage th
+ at use trees and landscapes as metaphors for memory and feeling. Each piec
+ e is a direct expression of Danièle’s interiority at the moment of crea
+ tion\, and together they show how the things that move us as children can 
+ speak to us for a lifetime.\n\nDanièle Erville holds a BA from Clark Univ
+ ersity\, studied at the Maryland Institute College of Art\, and graduated 
+ from the School of the Museum of Fine Arts\, Boston. Her work is part of t
+ he Photograph Study Collection at the Smithsonian American Art Museum and 
+ has been exhibited in France\, Boston\, Santa Fe\, and throughout the Bay 
+ Area. See her work on Instagram @danieleervilleart.\nJoin us for the openi
+ ng of the exhibition: meet the artist\, enjoy light refreshments\, and be 
+ among the first to see the show.\nFree entry\, but kindly RSVP. Doors open
+  6pm\, artist talk at 6:45pm.\n\nFree\n\nTickets: https://www.francophonem
+ useum.org/events/opening-night-danile-erville\nDetails: https://sf.funchea
+ p.com/opening-night-echoes-nature-metaphor/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Daniel
+ e-Erville-banner.jpg
+LAST-MODIFIED:20261106T013613Z
+LOCATION:Alliance Française de San Francisco\, 1345 Bush Street\, San Fra
+ ncisco\, CA 94109
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/opening-night-echoes-nature-metaphor/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sincere Cider x Johnny Doughnuts: Apple Cider Donut Tasting at Pal
