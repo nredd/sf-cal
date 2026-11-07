@@ -301,24 +301,6 @@ TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Furthur Send Off
-DTSTART;TZID=America/Los_Angeles:20261031T130000
-DTEND;TZID=America/Los_Angeles:20261031T140000
-DTSTAMP:20261028T202041Z
-UID:sf-street-events-1625774-2026-10-31T13:00:00-07:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Haight St from Masonic Ave to Ashbury St\n\nPermit sta
- tus: Permitted\nTimes are SFMTA street-closure permit times and include se
- tup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: htt
- ps://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.770109;-122.446139
-LAST-MODIFIED:20261028T202041Z
-LOCATION:Haight St between Masonic Ave and Ashbury St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trick or Treat - 6th Ave
 DTSTART;TZID=America/Los_Angeles:20261031T140000
 DTEND;TZID=America/Los_Angeles:20261031T220000
