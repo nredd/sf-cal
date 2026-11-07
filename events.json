@@ -988,33 +988,6 @@
   },
   {
    "source": "caldiscovery-comedy",
-   "source_id": "c63bf37960acf3e9",
-   "title": "Luis Juarez",
-   "start": "2026-11-15T15:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Punch Line Comedy Club - San Francisco",
-   "address": "444 Battery Street, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/luis-juarez-san-francisco-california-11-15-2026/event/1C00653D00F8AEA3?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Punch Line Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
    "source_id": "b49fd72bde4acf3b",
    "title": "Chisme with DoKnow & Jakarta",
    "start": "2026-11-15T18:00:00-08:00",
@@ -4206,7 +4179,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. Happening rain or shine, there will be both bleacher seating and street-level/ADA accessible seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and Orpheum Theatre, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
+   "description": "On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. There will be both bleacher and street-level seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and ATG San Francisco, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
    "image_url": null,
    "categories": [
     "dance",
@@ -5622,265 +5595,6 @@
    "image_url": null,
    "categories": [],
    "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17959046",
-   "title": "Trick or Treat in Oakland Chinatown",
-   "start": "2026-10-30T14:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Oakland Asian Cultural Center",
-   "address": "388 9th St., Suite 290, Oakland, CA, 94607",
-   "locality": "Oakland",
-   "geo": [
-    37.8007587,
-    -122.2712585
-   ],
-   "url": "https://dothebay.com/events/2026/10/30/trick-or-treat-in-oakland-chinatown-tickets",
-   "ticket_url": null,
-   "price_text": "FREE, Kid Friendly",
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34974452/de435a78-17ad-48b2-b6b3-e0abc726bacd.jpg",
-   "categories": [
-    "Holiday Event"
-   ],
-   "notes": [
-    "Oakland Chinatown Chamber Presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18005912",
-   "title": "IDEA in/formation",
-   "start": "2026-10-30T14:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "non/phenomenal presents IDEA in/formation",
-   "address": "945 Market Street, 3rd floor, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/30/idea-in-formation-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": null,
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35179133/8907b784-4c0b-44fe-8c70-50e85e4ca9c7.jpg",
-   "categories": [
-    "The Arts"
-   ],
-   "notes": [
-    "non/phenomenal"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17926222",
-   "title": "L.A. Comic Con Returns October 30 For Its 15th Annual Event",
-   "start": "2026-10-30T15:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Los Angeles Convention Center",
-   "address": "1201 South Figueroa Street, Los Angeles, CA, 90015",
-   "locality": "Los Angeles",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/30/l-a-comic-con-returns-october-30-for-its-15th-annual-event-tickets",
-   "ticket_url": null,
-   "price_text": "($49-$119, All Ages (Kids 0-12, free))",
-   "is_free": false,
-   "sold_out": false,
-   "description": "L.A COMIC CON UNVEILS FULL LINEUP FOR ITS 15TH ANNIVERSARY SHOW\n\nNicolas Cage, the Cast of Breaking Bad and Star Wars: Ahsoka Headline a Weekend of Convention Firsts, October 30–November 1\n\nLos Angeles Comic Con, L.A.’s largest event for comics, gaming, sci-fi, anime, and pop culture, is thrilled to unveil its full lineup of celebrity talent, panels, and activations for its 15th anniversary show, taking place October 30-November 1. To celebrate the milestone year, L.A. Comic Con is going bigger across the entire fan experience, with major celebrity guests and cast reunions, an expanded Akiba Station and Gaming Hall, Halloween festivities, and more throughout all three days.\n\n“Fifteen years of L.A. Comic Con wouldn’t be possible without the fans who show up year-after-year to celebrate the fandoms they love,” said Chris DeMoulin, CEO/GM of Los Angeles Comic Con parent company Comikaze Entertainment Inc. “This anniversary show is for them, and we want every fan to have something they’re excited to experience. Whether they’ve been coming to the show for years or are joining for the first time, we’re celebrating fifteen years in a big way with our largest and most diverse talent line-up ever, including several first-ever convention appearances.”\n\nAcross the three-day event, L.A. Comic Con 2026 will feature more than 1,000 artists, vendors, and exhibitors, and more than 200 panel and programming moments spanning celebrity guests, comics, anime, gaming, cosplay, and more. This year...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34817146/fcf22654-ad3c-405b-8197-123fa4394bab.jpg",
-   "categories": [
-    "Festival"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17949452",
-   "title": "The Moors",
-   "start": "2026-10-30T16:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "LeFevre Theatre",
-   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
-   "locality": "Moraga",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/30/the-moors-tickets",
-   "ticket_url": null,
-   "price_text": "General Admission ($20), Faculty/Staff/Non-SMC Students ($15)",
-   "is_free": false,
-   "sold_out": false,
-   "description": "The MoorsFall '26 Theatre Production\n\nDates & Times\nWednesday, October 28, 2026, 8:00 pm\nThursday, October 29, 2026, 8:00 pm\nFriday, October 30, 2026, 4:00 pm\nSaturday, October 31, 2026, 2:00 pm\nSunday, November 1, 2026, 2:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\nAbout\nThe Moors by Jen Silverman, Directed by Dr. Javier Luis Hurtado\nJen Silverman's The Moors is a dark, surreal comedy that brilliantly subverts classic 19th-century Gothic literature—particularly the works of the Brontë sisters. It explores themes of loneliness, power, and visibility through a bizarre, sometimes violent, but darkly hilarious lens. Performances will be Oct. 28-Nov. 1.\nContact\nTara Sundy\nPerforming Arts Coordinator & Events Manager\ntms8@stmarys-ca.edu\n(925) 631-4670",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34924765/5f67dc40-3384-4d3c-b92a-d48b4fd3af88.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": [
-    "Saint Marys College of California"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17998887",
-   "title": "Nightmare on Front Street",
-   "start": "2026-10-30T16:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "245 Front St",
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/30/nightmare-on-front-street-tickets",
-   "ticket_url": null,
-   "price_text": "Free, All Ages",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Nightmare on Front Street\nFriday, October 30 | 245 Front Street\n\nGet ready for NIGHTMARE on Front STREET! Kicking off Halloween weekend in San Francisco!\n\nGet Ready for Nightmare on Front Street!\n\nKick off Halloween weekend at the Front Street Entertainment Zone with San Francisco’s ultimate Halloween block party!\nCome dressed in your best Halloween costume and get ready to dance all night to some of SF’s best live DJs. Grab a cocktail, hit the dance floor, enjoy great food and take over Front Street for one unforgettable night.\n\nDANCE. DRINK. EAT. PARTY.\n\nDJ lineup coming soon!\nCostumes highly encouraged.\nFREE to attend!\n\nGOOD TO KNOW\n\n245 Front Street between Sacramento Street and California Street.\nJust a short 4-minute walk from the Embarcadero BART/MUNI Station\nAll ages event.\n\nAttendees interested in consuming alcohol (21+) must present a valid ID upon entry. Bikes, strollers, and four-legged fur babies welcome! This is a smoke-free event per SF Health Code, Article 19L.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35149128/13e632a1-0acf-402f-9630-ed228474db86.png",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17641517",
-   "title": "Lost In Dreams Block Party w/ Marshmello",
-   "start": "2026-10-30T17:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Midway",
-   "address": "900 Marin St., San Francisco, CA, 94124",
-   "locality": "San Francisco",
-   "geo": [
-    37.7494472,
-    -122.3860183
-   ],
-   "url": "https://dothebay.com/events/2026/10/30/lost-in-dreams-block-party-tickets",
-   "ticket_url": null,
-   "price_text": "18+",
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33516820/ebaca805-3ff3-487a-8ee4-942ff60667c6.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "The Midway SF & Insomniac Present"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17764337",
-   "title": "Board Game Night",
-   "start": "2026-10-30T17:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Ferry Building",
-   "address": "One Ferry Marketplace, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/30/board-game-night-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Grab your favorite food and drinks from Ferry Building shops and stay to play a variety of games inside the Marketplace!\n\nEnjoy classics like Scrabbles, chess, and Monopoly or try something new with our friends from Gamescape SF.\n\nGames are provided by the Ferry Building Marketplace and will be available from 5:00pm – 8:00pm in the public seating area between Book Passage and Cholita Linda.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34055939/a0e2a193-e539-4ca8-ba22-63533b10ee9a.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17937736",
-   "title": "Meet the Moment International Video Festival: Opening Reception",
-   "start": "2026-10-30T17:00:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "TNT Art Lab",
-   "address": "67 Turk Street, San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/30/meet-the-moment-international-video-festival-opening-reception-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Join artists, curators and coalition partners to open the Meet the Moment Video Festival, three days of politically engaged video art across Mid-Market storefronts and public spaces. The festival is presented by Meet the Moment, a Bay Area coalition of artists, curators and cultural organizations initiated by TnT Art Lab. Free and open to the public.\n\nVisit: https://www.meetthemoment.us/video-festival.html for more info",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34873660/b0b77d8b-a5f0-4936-8a45-a0a4d3fe94f3.jpg",
-   "categories": [
-    "The Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17627870",
-   "title": "Gallery Chats at OMCA",
-   "start": "2026-10-30T17:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Oakland Museum of California",
-   "address": "1000 Oak Street, Oakland, CA, 94607",
-   "locality": "Oakland",
-   "geo": [
-    37.7986167,
-    -122.264194
-   ],
-   "url": "https://dothebay.com/events/2026/10/30/gallery-chats-at-omca-tickets",
-   "ticket_url": null,
-   "price_text": "Admission ticket required",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Gallery Chats puts a twist on the traditional museum tour by encouraging meaningful conversations and fresh interpretations of the artwork, artifacts, and stories in OMCA’s galleries. This informal drop-in experience is an opportunity for visitors to share their personal reflections with and ask questions of our enthusiastic and knowledgeable volunteer facilitators.\n\nVisitors can find Gallery Chatters—wearing their blue “Let’s Chat” shirts—and floating between OMCA’s Galleries of California Art, History, Natural Science, and the Great Hall during Friday Nights (April-Oct), ThursDates (Jan-March), and our community celebrations, including Lunar New Year, Día de los Muertos, and Juneteenth (hours vary).\n\nWhether you’re curious about something on view or excited to reflect on your own experiences, Gallery Chatters are here to help spark conversation and connection. Your stories matter at OMCA—just say hello to start exploring together.\n\nOMCA Members have access to special Member Tours every second Saturday of the month from noon to 1 pm.\n\nOakland Museum of California (OMCA) is committed to providing programs that are accessible, welcoming, and inclusive of our community. Wheelchairs, sensory inclusive devices, and additional amenities are available for checkout on a first come, first served basis at the Ticketing Desk. To request other accommodations, like American Sign Language (ASL), Cantonese, Spanish or another language interpreter, please email [email protected] at least th...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33408053/c638288d-8547-428c-ae33-a387cc9419ea.jpg",
-   "categories": [
-    "The Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17952904",
-   "title": "Most Best Halloween Open Mic",
-   "start": "2026-10-30T17:30:00-07:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "KALW @ 220 Montgomery",
-   "address": "220 Montgomery St, San Francisco, CA, 94104",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/10/30/most-best-halloween-open-mic-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Celebrate Halloween with Bay Area poets, musicians, & storytellers. Who will win the performance of the night & be broadcast on KALW?\n\nGet spooky with the Bay Area's most vibrant performers at KALW's Most Best Open Mic! Host Charlie Getter gathers a homegrown harvest of poets, musicians, and storytellers with something to say. Stay until the end to find out who will win performance of the night and have their voice broadcast on KALW 91.7 FM.\n\nShare your creative sparkle. Come to KALW's Most Best Open Mic!",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34943501/3b0825ce-a749-4770-af51-1fea0470b5fd.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": [
-    "KALW Public Media"
-   ]
   },
   {
    "source": "dothebay",
@@ -16320,7 +16034,7 @@
   {
    "source": "dothebay",
    "source_id": "17926207",
-   "title": "Dia de Los Muertos and Diwali Festival",
+   "title": "Dia de Los Muertos & Diwali Festival",
    "start": "2026-11-07T10:00:00-08:00",
    "end": null,
    "all_day": false,
@@ -16333,16 +16047,18 @@
     -122.455483
    ],
    "url": "https://dothebay.com/events/2026/11/7/dia-de-los-muertos-and-diwali-festival-tickets",
-   "ticket_url": "https://presidio.gov/explore/events/dia-de-los-muertos-and-diwali-festival",
-   "price_text": null,
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fdia-de-los-muertos-and-diwali-festival-tickets-2002088484552%3Faff%3Doddtdtcreator%26keep_tld%3Dtrue",
+   "price_text": "Free, All ages",
    "is_free": true,
    "sold_out": false,
-   "description": "Join us at the Presidio Tunnel Tops for a family-friendly Día de los Muertos & Diwali event in the park. Celebrated annually in the fall season, these two distinct cultural observances come together in a national park to honor South Asian and Latinx traditions. Designed intentionally as a celebration and a learning opportunity, attendees are invited to participate in a wide range of activities that include arts and crafts, storytelling, cultural dance, song, and a fire ceremony, and learn about social and environmental justice issues in both cultures.",
+   "description": "Please join us at the Crissy Field Center on Presidio Tunnel Tops for a family-friendly Día de los Muertos & Diwali event in the park!\n\nObserved annually in the fall season, these two distinct cultural celebrations come together in a national park to honor South Asian and Latinx traditions. Designed intentionally as a celebration and a learning opportunity, attendees are invited to participate in a wide range of activities that include arts and crafts, storytelling, cultural dance, song, and a fire ceremony, and learn about social and environmental justice issues in both cultures.\n\nHosted by the Presidio Trust and Parks Conservancy with Alliance for South Asians Taking Action.\n\nSee the schedule below (please note that some activities require additional registration):\n\n10-10:30am: Ceremonial Opening & Welcome at the Field Station Plaza\n10:30-11:30am: Cultural Art Sessions at Crissy Field Center (Note: There are multiple time slots for art sessions)\n10:30am-12:30pm: Planting as Remembrance Quartermaster Reach (please register here)\n11:30am-12pm: Fire Ceremony at Crissy Field Center\n12-12:30pm: Duniya Dance and Drum Company performance at Presidio Steps/Field Station Plaza\n12:30-1:30pm: Cultural Art Sessions at Crissy Field Center (Note: There are multiple time slots for art sessions)\n1:30-2pm: Fire Ceremony at Crissy Field Center\n2:30-3pm: Closing Performance at Crissy Field Center Courtyard - Mexican guitar/vocal music performance by Diana Gameros",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34817038/b5ac80a6-a8c3-4644-aa33-d1603d8a33c5.jpg",
    "categories": [
     "Arts & Family"
    ],
-   "notes": []
+   "notes": [
+    "Presidio Trust, Golden Gate Parks Conservancy & Alliance for South Asians Taking Action Present"
+   ]
   },
   {
    "source": "dothebay",
@@ -18551,6 +18267,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18051329",
+   "title": "DJ Meikee Magnetic",
+   "start": "2026-11-07T21:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Thriller Social Club",
+   "address": "508 4th Street, San Francisco, CA, 94107",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/7/dj-meikee-magnetic-tickets",
+   "ticket_url": null,
+   "price_text": "Free, 21+",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Meikee Magnetic\nHip Hop | Mashups | Top40 | House\n\nMusic starts 9:30pm (no cover)\n\nThriller Social Club is San Francisco's retro-inspired arcade social club for games, cocktails, nightlife, and unforgettable group experiences across multiple immersive spaces. Surrounded by lounge seating, high-top tables, glowing signage PLUS upstairs, features a second bar alongside a curated mix of classic and modern arcade-style games.\n\n508 4th Street | 21+\nSan Francisco, CA",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35366846/86ea1edc-61df-4dd3-8d12-7a1bfa7193f7.jpg",
+   "categories": [
+    "DJ/Parties"
+   ],
+   "notes": [
+    "Thriller Social Club and GlitterazziSF present"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17535072",
    "title": "Drunk Theatre SF: The Wildest Bay Area Comedy!",
    "start": "2026-11-07T22:00:00-08:00",
@@ -18824,7 +18566,7 @@
   {
    "source": "dothebay",
    "source_id": "17955484",
-   "title": "San Francisco Diwali & New Year Celebration 2026: Free Family Festival",
+   "title": "San Francisco Diwali & New Year Celebration 2026",
    "start": "2026-11-08T12:00:00-08:00",
    "end": null,
    "all_day": false,
@@ -18838,7 +18580,7 @@
    ],
    "url": "https://dothebay.com/events/2026/11/8/sf-diwali-festival-of-lights-and-kids-diwali-celebration-tickets",
    "ticket_url": "https://tinyurl.com/sfdiwali2026",
-   "price_text": "Free tickets, family event (all ages welcome)",
+   "price_text": "Free, All ages",
    "is_free": true,
    "sold_out": false,
    "description": "Celebrate Diwali, the Festival of Lights, with a FREE, family-friendly festival at the Shri Swaminarayan Hindu Temple in San Francisco (333 Tunnel Ave, San Francisco, CA 94134)!\n\nExperience the vibrant colors, traditions, and spirit of Diwali through cultural exhibits, delicious vegetarian food, and exciting activities for all ages.\n\nFestival Highlights:\nGrand Annakut Display: Marvel at a breathtaking display of hundreds of vegetarian dishes offered in devotion.\n\nImmersive Cultural Exhibition: Discover the traditions, values, and significance of Hinduism and Diwali.\n\nKids' Diwali Celebration: Explore the five days of Diwali through interactive experiences, arts & crafts, inflatables, carnival games, face painting, and mehndi (henna).\n\nFree Vegetarian Food: Enjoy delicious food with family and friends.\n\nTraditional Ārti: Experience a Hindu prayer ceremony every hour, starting at 12 PM. Open to everyone.\n\nFREE ADMISSION • FREE FOOD • FREE ACTIVITIES",
@@ -18885,16 +18627,13 @@
    "end": null,
    "all_day": false,
    "bucket": "music",
-   "venue": "Golden Gate Park Bandshell in SF",
-   "address": "75 Hagiwara Tea Garden Drive, San Francisco, CA, 94118",
+   "venue": "Golden Gate Bandshell",
+   "address": "75 Hagiwara Tea Garden Dr, San Francisco, CA, 94118",
    "locality": "San Francisco",
-   "geo": [
-    37.770244,
-    -122.469542
-   ],
+   "geo": null,
    "url": "https://dothebay.com/events/2026/11/8/blvk-h3ro-with-dj-sep-irie-dole-guidance-tickets",
-   "ticket_url": "https://www.instagram.com/crucialreggaesundayssf/p/De9fK9LxvtF/",
-   "price_text": "Free & Family-Friendly",
+   "ticket_url": "https://illuminate.org/event/crucial-reggae-sundays-november-8/",
+   "price_text": "Free, All ages",
    "is_free": true,
    "sold_out": false,
    "description": "Blvkh3ro is wrapping up his West Coast tour with a free show\nat San Francisco’s historic Golden Gate Park Bandshell. This is a full day\nspecial event, starting at noon with some of the city’s best selectors, then\nthe big show at 4:20, alongside Crucial Reggae Sundays residents Irie Dole,\nGuidance, and DJ Sep. Bring some canned goods for the SF-Marin Food Bank’s holiday\nfood drive.\n#Blvkh3ro #strictlygoodvibestour # CrucialReggaeSundays",
@@ -22907,7 +22646,7 @@
    "price_text": "18+",
    "is_free": false,
    "sold_out": false,
-   "description": "Ricky Velez\nThursday, November 12 | Punch Line San Francisco",
+   "description": "Nicole Aimee Schreiber\nThursday, November 12 | Punch Line San Francisco",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33480370/03625044-dbc8-44fb-8c44-ca316f362691.jpg",
    "categories": [
     "Comedy"
@@ -22967,6 +22706,32 @@
     "Theatre & Performing Arts"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18050486",
+   "title": "Refracted Elements",
+   "start": "2026-11-12T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/12/refracted-elements-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/dance-fa26?_gl=1*ov6dwu*_gcl_au*MTc0Nzg2MDI0NC4xNzkzOTQyMjgw*_ga*MTU1OTk2NDMwNy4xNzIxNDI1MjQy*_ga_CH47EGNN3F*czE3OTQwMDA3MTQkbzQwNCRnMSR0MTc5NDAwMTM4NyRqNTkkbDAkaDA.",
+   "price_text": "General Admission: $20 plus fees",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Refracted ElementsFall '26 Senior Dance Show\n\nDates & Times\nThursday, November 12, 2026, 8:00 pm\nFriday, November 13, 2026, 8:00 pm\nSaturday, November 14, 2026, 3:00 pm\nSaturday, November 14, 2026, 8:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\n\nThe senior dancers choreograph pieces for the SMC Dance Company to perform. Styles include jazz, modern/contemporary, Baile Folklórico, and a little bit of hip hop and tap.\nTICKETS: Except for SMC students, please purchase your tickets at least 24 hours ahead of time\n\nFaculty, Staff Non-SMC Students: $15 *plus minimal fees at the door or online\nGeneral Admission: $20 *plus minimal fees at the door or online\nProspective SMC Dance students (for admission in Fall '27) also are provided free admission for themselves and up to 3 family members.\n\nWe encourage you to choose the SMC Dance Supporter ticket option, if you are able to. These funds help pay for taking our dancers to the American College Dance Association, where they participate in performances, classes, and scholarly exchange.\n\nCheck out our website for even more information!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35363902/631ff298-8c36-472a-bf9e-fd76afe38e21.jpg",
+   "categories": [
+    "Dance"
+   ],
+   "notes": [
+    "Saint Mary's College"
+   ]
   },
   {
    "source": "dothebay",
@@ -23102,6 +22867,35 @@
     "Outdoor & Recreation"
    ],
    "notes": []
+  },
+  {
+   "source": "dothebay",
+   "source_id": "17930132",
+   "title": "Bhangra & Beats Night Market",
+   "start": "2026-11-13T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Yerba Buena Gardens",
+   "address": "Yerba Buena Gardens covers two square city blocks bounded by Mission, Folsom, Third and Fourth Streets., San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7850153,
+    -122.4023464
+   ],
+   "url": "https://dothebay.com/events/2026/11/13/bhangra-beats-night-market-official-city-of-sf-diwali-tickets",
+   "ticket_url": "https://bb-diwali-26.eventbrite.com",
+   "price_text": "Free, All Ages",
+   "is_free": true,
+   "sold_out": false,
+   "description": "Into The Streets & Non Stop Bhangra Present\nThird Annual Official City and County of San Francisco Diwali Celebration\nBhangra & Beats Night Market\nFriday, November 13 | Yerba Buena Gardens\n\nBhangra & Beats returns to Yerba Buena Gardens for a special Diwali edition. Join us for an unforgettable evening as Yerba Buena Gardens, Jessie Square, and Yerba Buena Lane glow with the vibrant sights, sounds, flavors, and spirit of South Asian culture as we celebrate Diwali, the Festival of Lights.\n\nAt the heart of it all is the joyful Bhangra & Beats experience—a family-friendly celebration where traditional Punjabi rhythms meet Bay Area energy. Non Stop Bhangra will once again lead the festivities with its signature mix of interactive dance lessons, vibrant performances, live dhol drumming, DJs, and an open dance floor, alongside a lively night market featuring local food vendors, artisans, community activations, family-friendly activities, and special offerings from neighborhood restaurants and bars.\n\nDiwali celebrates light over darkness, hope, renewal, and the triumph of good over evil. Whether you're celebrating with family and friends or experiencing the Festival of Lights for the first time, everyone is welcome to come dance, connect, and celebrate together in the heart of San Francisco.\n\nPresented by Into The Streets and Non Stop Bhangra, in partnership with Yerba Buena Partnership, the Mayor's Office of Daniel Lurie, the San Francisco Office of Economic and Workforce Developme...",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34835857/2b00508d-6843-4ffb-b372-985f487a5c74.jpg",
+   "categories": [
+    "Variety"
+   ],
+   "notes": [
+    "Into The Streets & Non Stop Bhangra Present: Third Annual Official City and County of San Francisco Diwali Celebration"
+   ]
   },
   {
    "source": "dothebay",
@@ -23824,7 +23618,7 @@
    "price_text": "18+",
    "is_free": false,
    "sold_out": false,
-   "description": "Ricky Velez\nFriday, November 13 | Punch Line San Francisco",
+   "description": "Nicole Aimee Schreiber\nFriday, November 13 | Punch Line San Francisco",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33480412/89cfa602-7ff6-4f71-a283-03df50b38156.jpg",
    "categories": [
     "Comedy"
@@ -24019,7 +23813,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Ceremony\nFriday, November 13 | The Fillmore",
+   "description": "Ceremony\nwith SPELLING, Iron Lung\n\nFriday, November 13 | The Fillmore",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32812984/f91fff56-7a39-491c-8b90-e98ea8e5ecb0.png",
    "categories": [
     "Music"
@@ -24107,6 +23901,32 @@
    ],
    "notes": [
     "Do-Kwa Productions Presents"
+   ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18050496",
+   "title": "Refracted Elements",
+   "start": "2026-11-13T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/13/refracted-elements-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/dance-fa26?_gl=1*ov6dwu*_gcl_au*MTc0Nzg2MDI0NC4xNzkzOTQyMjgw*_ga*MTU1OTk2NDMwNy4xNzIxNDI1MjQy*_ga_CH47EGNN3F*czE3OTQwMDA3MTQkbzQwNCRnMSR0MTc5NDAwMTM4NyRqNTkkbDAkaDA.",
+   "price_text": "General Admission: $20 plus fees",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Refracted ElementsFall '26 Senior Dance Show\n\nDates & Times\nThursday, November 12, 2026, 8:00 pm\nFriday, November 13, 2026, 8:00 pm\nSaturday, November 14, 2026, 3:00 pm\nSaturday, November 14, 2026, 8:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\n\nThe senior dancers choreograph pieces for the SMC Dance Company to perform. Styles include jazz, modern/contemporary, Baile Folklórico, and a little bit of hip hop and tap.\nTICKETS: Except for SMC students, please purchase your tickets at least 24 hours ahead of time\nFaculty, Staff Non-SMC Students: $15 *plus minimal fees at the door or online\nGeneral Admission: $20 *plus minimal fees at the door or online\nProspective SMC Dance students (for admission in Fall '27) also are provided free admission for themselves and up to 3 family members.\n\nWe encourage you to choose the SMC Dance Supporter ticket option, if you are able to. These funds help pay for taking our dancers to the American College Dance Association, where they participate in performances, classes, and scholarly exchange.\n\nCheck out our website for even more information!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35363924/2e2c0d60-bb04-4bc7-be62-946eef1c4bf5.jpg",
+   "categories": [
+    "Dance"
+   ],
+   "notes": [
+    "Saint Mary's College"
    ]
   },
   {
@@ -24407,7 +24227,7 @@
    "price_text": "18+",
    "is_free": false,
    "sold_out": false,
-   "description": "Ricky Velez\nFriday, November 13 | Punch Line San Francisco",
+   "description": "Nicole Aimee Schreiber\nFriday, November 13 | Punch Line San Francisco",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33480381/965282c6-f17b-4ae4-868c-1a3242424d0b.jpg",
    "categories": [
     "Comedy"
@@ -24442,6 +24262,33 @@
    "notes": [
     "DJ Dials, All Day All Night, & 1015 Folsom present"
    ]
+  },
+  {
+   "source": "dothebay",
+   "source_id": "18045497",
+   "title": "RAW CUTS: San Francisco w/ Jacques Greene, EREZ, James Juke +more",
+   "start": "2026-11-13T22:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Monarch",
+   "address": "101 Sixth St., San Francisco, CA, 94103",
+   "locality": "San Francisco",
+   "geo": [
+    37.7809743,
+    -122.4084128
+   ],
+   "url": "https://dothebay.com/events/2026/11/13/raw-cuts-san-francisco-w-jacques-greene-erez-james-juke-more-tickets",
+   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fraw-cuts-san-francisco-w-jacques-greene-erez-james-juke-more-tickets-2004026466107%3F",
+   "price_text": "$25.55-$37.33",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Jacques Greene’s sound and new album is a perfect fit for this location out in nature!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35343480/cd9421c2-cb51-464c-84a4-753231e01294.png",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
   },
   {
    "source": "dothebay",
@@ -25093,6 +24940,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18050499",
+   "title": "Refracted Elements",
+   "start": "2026-11-14T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/14/refracted-elements-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/dance-fa26?_gl=1*ov6dwu*_gcl_au*MTc0Nzg2MDI0NC4xNzkzOTQyMjgw*_ga*MTU1OTk2NDMwNy4xNzIxNDI1MjQy*_ga_CH47EGNN3F*czE3OTQwMDA3MTQkbzQwNCRnMSR0MTc5NDAwMTM4NyRqNTkkbDAkaDA.",
+   "price_text": "General Admission: $20 plus fees",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Refracted ElementsFall '26 Senior Dance Show\n\nDates & Times\nThursday, November 12, 2026, 8:00 pm\nFriday, November 13, 2026, 8:00 pm\nSaturday, November 14, 2026, 3:00 pm\nSaturday, November 14, 2026, 8:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\n\nThe senior dancers choreograph pieces for the SMC Dance Company to perform. Styles include jazz, modern/contemporary, Baile Folklórico, and a little bit of hip hop and tap.\nTICKETS: Except for SMC students, please purchase your tickets at least 24 hours ahead of time\n\nFaculty, Staff Non-SMC Students: $15 *plus minimal fees at the door or online\nGeneral Admission: $20 *plus minimal fees at the door or online\nProspective SMC Dance students (for admission in Fall '27) also are provided free admission for themselves and up to 3 family members.\n\nWe encourage you to choose the SMC Dance Supporter ticket option, if you are able to. These funds help pay for taking our dancers to the American College Dance Association, where they participate in performances, classes, and scholarly exchange.\n\nCheck out our website for even more information!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35363952/95aa36ff-3c99-4e61-8845-554da2abdcfb.jpg",
+   "categories": [
+    "Dance"
+   ],
+   "notes": [
+    "Saint Mary's College"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17635222",
    "title": "Richie O'Farrill - En Español",
    "start": "2026-11-14T15:30:00-08:00",
@@ -25684,7 +25557,7 @@
    "price_text": "18+",
    "is_free": false,
    "sold_out": false,
-   "description": "Ricky Velez\nSaturday, November 14 | Punch Line San Francisco",
+   "description": "Nicole Aimee Schreiber\nSaturday, November 14 | Punch Line San Francisco",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33480495/8fa5e0ad-8844-481f-8af2-8a01d97c5ad4.jpg",
    "categories": [
     "Comedy"
@@ -26352,6 +26225,32 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18050510",
+   "title": "Refracted Elements Senior Dance Show",
+   "start": "2026-11-14T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 Saint Mary's Road, Moraga, CA, 94575",
+   "locality": "Moraga",
+   "geo": null,
+   "url": "https://dothebay.com/events/2026/11/14/refracted-elements-senior-dance-show-tickets",
+   "ticket_url": "https://www.stmarys-ca.edu/dance-fa26?_gl=1*ov6dwu*_gcl_au*MTc0Nzg2MDI0NC4xNzkzOTQyMjgw*_ga*MTU1OTk2NDMwNy4xNzIxNDI1MjQy*_ga_CH47EGNN3F*czE3OTQwMDA3MTQkbzQwNCRnMSR0MTc5NDAwMTM4NyRqNTkkbDAkaDA.",
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Refracted ElementsFall '26 Senior Dance Show\n\nDates & Times\nThursday, November 12, 2026, 8:00 pm\nFriday, November 13, 2026, 8:00 pm\nSaturday, November 14, 2026, 3:00 pm\nSaturday, November 14, 2026, 8:00 pm\n\nLocation (On-campus)\nLeFevre Theatre\n1928 St. Marys Road\nMoraga, CA 94575\n\nThe senior dancers choreograph pieces for the SMC Dance Company to perform. Styles include jazz, modern/contemporary, Baile Folklórico, and a little bit of hip hop and tap.\nTICKETS: Except for SMC students, please purchase your tickets at least 24 hours ahead of time\n\nFaculty, Staff Non-SMC Students: $15 *plus minimal fees at the door or online\nGeneral Admission: $20 *plus minimal fees at the door or online\nProspective SMC Dance students (for admission in Fall '27) also are provided free admission for themselves and up to 3 family members.\n\nWe encourage you to choose the SMC Dance Supporter ticket option, if you are able to. These funds help pay for taking our dancers to the American College Dance Association, where they participate in performances, classes, and scholarly exchange.\n\nCheck out our website for even more information!",
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35364012/8084df2d-61be-4ee4-ad95-cf14c3fac2d3.jpg",
+   "categories": [
+    "Dance"
+   ],
+   "notes": [
+    "Saint Mary's College"
+   ]
+  },
+  {
+   "source": "dothebay",
    "source_id": "17505059",
    "title": "The Avengers, Pansy Division",
    "start": "2026-11-14T20:30:00-08:00",
@@ -26534,7 +26433,7 @@
    "price_text": "18+",
    "is_free": false,
    "sold_out": false,
-   "description": "Ricky Velez\nSaturday, November 14 | Punch Line San Francisco",
+   "description": "Nicole Aimee Schreiber\nSaturday, November 14 | Punch Line San Francisco",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33480444/a0863203-f069-4793-bb6c-9cdaea97b0ad.jpg",
    "categories": [
     "Comedy"
@@ -29721,6 +29620,33 @@
   },
   {
    "source": "dothebay",
+   "source_id": "18012910",
+   "title": "JAMILA WOODS: 10 Years of HEAVN",
+   "start": "2026-11-18T20:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Rickshaw Stop",
+   "address": "155 Fell Street, San Francisco, CA, 94102",
+   "locality": "San Francisco",
+   "geo": [
+    37.7760033,
+    -122.4204681
+   ],
+   "url": "https://dothebay.com/events/2026/11/18/jamila-woods-10-years-of-heavn-tickets-6zp000n",
+   "ticket_url": "https://wl.seetickets.us/event/jamila-woods-10-years-of-heavn/709496?afflky=RickshawStop",
+   "price_text": "$35-$100, All Ages",
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35364993/b4505ce6-d7a4-46a4-8773-3e647ce23f59.jpg",
+   "categories": [
+    "Music"
+   ],
+   "notes": []
+  },
+  {
+   "source": "dothebay",
    "source_id": "18017936",
    "title": "Sf Party",
    "start": "2026-11-18T20:00:00-08:00",
@@ -30283,10 +30209,10 @@
    ],
    "url": "https://dothebay.com/events/2026/11/19/out-loud-queer-concert-feat-micahtron-hugo-de-la-lune-and-more-tickets",
    "ticket_url": "http://tixr.com/pr/DTBOutLoud/204399",
-   "price_text": "$18-$30",
+   "price_text": "$28.95",
    "is_free": false,
    "sold_out": false,
-   "description": "KQED Live Presents\nOut Loud: Queer Concert\nFeaturing MicahTron, Hugo De La Lune, and more\n\nThursday, November 19 | Oakstop (Broadway), Oakland\n\nImmerse yourself in live music that spans across genres, yet is connected by community. Out Loud spotlights the next generation of Black and brown queer artists shaping the Bay Area’s creative ecosystem, and invites you to come be a part of the transformation.\n\nJoin an interactive Vogue and Tone workshop led by Sir JoQ, followed by an intimate conversation where local musicians share how identity, culture, and community influence their artistry and creative journeys. Then, sit back for the main act: Live performances from Hugo De La Lune (Transylvanian Afrosoul), MicahTron (Rap/hip-hop), zen rocker (indie, R&B), and King Isis (alt-rock to RnB, to boho indie-pop).\n\nFor artists, entertainers, and music-lovers, the night ends with a community mixer featuring music from DJ ALIGN.",
+   "description": "KQED Live Presents\nOut Loud: Queer Concert\nFeaturing MicahTron, Hugo De La Lune, and more\n\nThursday, November 19 | Oakstop (Broadway)\n\nImmerse yourself in live music that spans across genres, yet is connected by community. Out Loud spotlights the next generation of Black and brown queer artists shaping the Bay Area’s creative ecosystem, and invites you to come be a part of the transformation.\n\nJoin an interactive Vogue and Tone workshop led by Sir JoQ, followed by an intimate conversation where local musicians share how identity, culture, and community influence their artistry and creative journeys. Then, sit back for the main act: Live performances from Hugo De La Lune (Transylvanian Afrosoul), MicahTron (Rap/hip-hop), zen rocker (indie, R&B), and King Isis (alt-rock to RnB, to boho indie-pop).\n\nFor artists, entertainers, and music-lovers, the night ends with a community mixer featuring music from DJ ALIGN.",
    "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34471348/bf40faf4-eefa-47fd-a2f3-bd57b0f825bc.png",
    "categories": [
     "Music"
@@ -57665,102 +57591,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1642305",
-   "title": "Halloween Hike With Rafiki",
-   "start": "2026-10-30T09:45:00-07:00",
-   "end": "2026-10-30T14:00:00-07:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "rafiki coalition",
-   "address": "601 Cesar Chavez, San Francisco, CA 94124",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/halloween-hike-rafiki/",
-   "ticket_url": "https://rafikicoalition.org/event/halloween-hike-with-rafiki/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "rafikiThis hike includes a visit to the Pet Cemetery to hear creepy stories from Presidio lore. Wear a costume if you dare!\nPlease meet at Rafiki Coalition (601 Cesar Chavez Street, San Francisco, CA 94124) 20 minutes early for COVID testing. A free shuttle promptly leaves at 10:00 AM to take us to our destination. Lunch will be provided.\nRSVP to Maxine at 415-654-0451 by Wed., 10/27. Space is limited.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Hike-Flyer_10.30.26-2.png",
-   "categories": [
-    "Free Food"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1641096",
-   "title": "Free Halloween Hike: Creepy Presidio Pet Cemetery Stories",
-   "start": "2026-10-30T10:00:00-07:00",
-   "end": "2026-10-30T14:00:00-07:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Rafiki Coalition",
-   "address": "601 Cesar Chavez, San Francisco, CA 94124",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-halloween-hike-creepy-presidio-pet-cemetery-stories-sf/",
-   "ticket_url": "https://rafikicoalition.org/event/halloween-hike-with-rafiki/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "rafikiThis hike includes a visit to the Pet Cemetery to hear creepy stories from Presidio lore. Wear a costume if you dare!\nPlease meet at Rafiki Coalition (601 Cesar Chavez Street, San Francisco, CA 94124) 20 minutes early for COVID testing. A free shuttle promptly leaves at 10:00 AM to take us to our destination. Lunch will be provided.\nRSVP to Maxine at 415-654-0451 by Wed., 10/27. Space is limited.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Hike-Flyer_10.30.26.png",
-   "categories": [
-    "Outdoors"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1643374",
-   "title": "Free Halloween Hike in The Presidio + Creepy Pet Cemetery Stories",
-   "start": "2026-10-30T10:00:00-07:00",
-   "end": "2026-10-30T14:00:00-07:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "rafiki coalition",
-   "address": "601 Cesar Chavez, San Francisco, CA 94124",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-halloween-hike-presidio-creepy-pet-cemetery-stories-sf/",
-   "ticket_url": "https://rafikicoalition.org/event/halloween-hike-with-rafiki/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "rafikiCelebrate Halloween early with Rafiki on a beautiful fall Hike in the Presidio!\nThis hike includes a visit to the Pet Cemetery to hear creepy stories from Presidio lore. Wear a costume if you dare!\nPlease meet at Rafiki Coalition (601 Cesar Chavez Street, San Francisco, CA 94124) 20 minutes early for COVID testing. A free shuttle promptly leaves at 10:00 AM to take us to our destination. Lunch will be provided.\n\nRSVP to Maxine at 415-654-0451 by Wed., 10/27. Space is limited.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Hike-Flyer_10.30.26-3.jpg",
-   "categories": [
-    "Free Food"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1637881",
-   "title": "Oakland’s “Trunk or Treat” at the Lake (Lake Merrit)",
-   "start": "2026-10-30T11:00:00-07:00",
-   "end": "2026-10-30T14:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Lake Meritt – Edoff Memorial Bandstand",
-   "address": "664 Bellevue Ave., Oakland, CA",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://sf.funcheap.com/oaklands-trunk-treat-lake-lake-merrit/",
-   "ticket_url": "https://www.eventbrite.com/e/trunk-or-treat-at-the-lake-tickets-2001982716196?aff=oddtdtcreator&amp;keep_tld=true",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Oakland Parks, Recreation & Youth DevelopmentTRUNK OR TREAT AT THE LAKE!\nBring the whole family to the lake for a FREE Halloween celebration! Enjoy a fun-filled afternoon with decorated trunks, candy and treats, music, games, and activities for the whole family.\nSpecial focus on youth ages 0–5, but all ages are welcome!\n\nEdoff Memorial Bandstand at Lake Merritt\nFriday, October 30\n⏰ 11:00 AM–2:00 PM\nCome dressed in your favorite costume and get ready for a spooktacular day at the lake! ✨",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/Trunk-or-Treat-at-the-Lake-2026.png",
-   "categories": [
-    "Kids Families"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1639134",
    "title": "Free 1/4 lb. Candy on Halloween Eve at SF’s “The Candy Store” (Russian Hill)",
    "start": "2026-10-30T11:00:00-07:00",
@@ -57779,54 +57609,6 @@
    "description": "Pre-game your Halloween with The Candy Store! We’re giving out goodies because we know Candy isn’t just for kids. Stop by between 11 and 6 on Friday October 30th and say “Trick or Treat” for a free 1/4lb of candy (our choice, but you know it will be delicious!) while supplies last.\nLocated at 1507 Vallejo Street just off upper Polk Street in Russian Hill, our one-of-a-kind boutique features walls lined with old-fashioned candy jars, shelves stocked with the finest confections from around the world, and nostalgic treats you probably haven’t seen in years. Diane opened this speciality shop in 2007 and The Candy Store has become a San Francisco obsession.\n\nFree Candy to celebrate Halloween\nDate: 10/30/2026\nThe Candy Store\nCost: FREE\n– Free, guests should say trick or treat, Available while supplies last\n–",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_9630.jpeg",
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1639190",
-   "title": "“Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)",
-   "start": "2026-10-30T11:00:00-07:00",
-   "end": "2026-10-30T17:00:00-07:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "Tato",
-   "address": "4608 3rd St., San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/pay-what-you-can-taco-day-at-sfs-tato-every-friday-303/",
-   "ticket_url": "https://www.facebook.com/tatosf/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "“Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)\nTATO\nWhile many restaurants are struggling, San Francisco Mexican restaurant TATO wants to give back.\nThey’re bringing back their “Taco Love” special which features a two taco plate with sides, and pay-what-you-can pricing.\nPay-What-You-Can Taco Day\nTato\n4608 3rd St. (@ McKinnon) San Francisco (Bayview)\nEvery Friday from 11am to 5 pm, customers can order off the Taco Love menu and pay anywhere from $0 up to $10. When a customer pays the full price of $10, TATO will give a free meal to someone in need in The City.\nClosed Christmas & New Years / Restarting January 8, 2021 – Tato plans to offer Taco Love “indefinitely every Friday,” butplease check Facebook for updates as schedules can change.\n\nThe special is open to anyone, but especially for fellow restaurant and bar industry workers who have been hit particularly hard during the pandemic.\nThe menu might change weekly, but often includes Beef Quesabirria, Mushroom Quesabirria, and Chicken Tacos\n\nView this post on Instagram\n\nA post shared by TATO san francisco (@tatosf)\n\nHat Tip: Fox Business\n\nUpcoming “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday) Events\nFri 10/9 “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 10/16 “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 10/23 “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 10/30 “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 11/6 “Pay-What-You-Can” Taco Day at SF’s Tato (Ever...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/12/124504055_3773572219321626_3855622622917317646_n.jpg",
-   "categories": [
-    "Eating Drinking"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1644433",
-   "title": "Free Halloween Boonanza 2026 Rooftop Fairy Festival at Salesforce Park",
-   "start": "2026-10-30T12:00:00-07:00",
-   "end": "2026-10-30T14:00:00-07:00",
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "TJPA’s Salesforce Park - Rooptop Park",
-   "address": "425 Mission St, San Francisco, CA 94105",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-halloween-boonanza-2026-rooftop-fairy-festival-salesforce-park-sf/",
-   "ticket_url": "https://www.instagram.com/p/DezfUxrF4SK/?hl=en",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "TJPA’s Salesforce ParkSalesforce Park hosts a free Halloween Boonanza for children and families featuring crafts, candy, fairy encounters from Happily Ever Laughter, and a Jamaroo performance. Costumes are encouraged.\nOriginal Event Description:\n_Something magical is brewing four stories above the city! 🎃✨\nBring your little ghosts and goblins to Salesforce Park’s Halloween Boonanza for crafts, candy, and enchanting encounters with the fairies of Happily Ever Laughter. Then, finish the festivities with a lively Jamaroo performance! 🧚🎶\nPut on your costumes, bring your Halloween spirit, and join us for a spellbinding day in the park! 🍬👻\n📍 TJPA’s Salesforce Park – Rooptop Park – Free\n📅 Friday, October 30, 12 PM – 2 PM\n#SalesforcePark #HalloweenBoonanza #SFHalloween #SFKids_\nText extracted from provided image:\nHALLOWEEN\nBOO\nNANZA\nAT TJPA’S SALESFORCE PARK\nCANDY • CRAFTS • FAIRIES • PERFORMANCES\n\n@salesforceparksf\nTJPA’s Salesforce Park\nPublic park owned and operated by the Transbay Joint Powers Authority, open 6am – 9pm daily.\ntjpa.org/salesforce-transit-center/activities",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/860066985_17991616284026936_1375197653599574735_n.jpg",
-   "categories": [
-    "Theater Performance"
-   ],
    "notes": []
   },
   {
@@ -57879,54 +57661,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1640496",
-   "title": "Oakland Chinatown’s “Trick Or Treat” Trail (2026)",
-   "start": "2026-10-30T14:00:00-07:00",
-   "end": "2026-10-30T16:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Oakland Asian Cultural Center Lobby",
-   "address": "388 9th Street, Suite 290, Oakland, CA 94607",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://sf.funcheap.com/oakland-chinatowns-trick-treat-trail-2026/",
-   "ticket_url": "https://www.instagram.com/p/Dd-XLl1EjM4/?utm_source=ig_web_copy_link&amp;stkn=NTc4MTIwNjQ2YQ==",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Oakland Chinatown Chamber 屋崙華埠商會Oakland Chinatown hosts a Halloween trick-or-treat event for costumed attendees, who can follow participating-business signs throughout the neighborhood. Check in at the Oakland Asian Cultural Center Lobby for activities and games, followed by a family-friendly costume contest at 3:30 PM. The top three costume-contest winners will receive surprise gift cards.\nOriginal Event Description:\n_🎃Trick or Treat in Oakland Chinatown is Coming!👻 🗺️Come dressed up in your costumes and trick or treat in Oakland Chinatown! Follow the “Trick or Treaters Welcomed” signs for participating small businesses and organizations. 👉🏼Check in at the Oakland Asian Cultural Center for activities and games. 🧑‍⚖️At 3:30PM we will have a family-friendly costume contest. Top three winners will receive surprise gift cards!⭐️ 🗓️Friday, October 30, 2026 | 2:00 to 4:00pm. Costume Contest at 3:30PM 📍Check In at Oakland Asian Cultural Center Lobby | 388 9th Street Suite 290 Oakland, CA 94607 Hosted by Oakland Chinatown Chamber of Comemrce and Oakland Asian Cultural Center 🗺️Trick or Treat trail is coming soon! Stay tuned._\nText extracted from provided image:\nTRICK\nor\nTREAT\nIN\nOAKLAND CHINATOWN\nCome dressed up in your costumes and trick or treat in Oakland\nChinatown! Follow the “Trick or Treaters Welcomed” signs for\nparticipating small businesses and organizations. Check in at the\nOakland Asian Cultural Center for activities and games. At\n3:30PM we will have a family-friendly cost...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/831154897_18122618068903959_6926617331071555750_n.jpg",
-   "categories": [
-    "Kids Families"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1642363",
-   "title": "Trick or Treat in Oakland Chinatown",
-   "start": "2026-10-30T14:00:00-07:00",
-   "end": "2026-10-30T14:00:00-07:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Oakland Asian Cultural Center",
-   "address": "388 9th Street, Oakland, CA",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://sf.funcheap.com/trick-treat-oakland-chinatown/",
-   "ticket_url": "https://business.oaklandchinatownchamber.org/calendar/Details/trick-or-treat-in-oakland-chinatown-1940388?sourceTypeId=Website",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Oakland Chinatown ChamberCalling all little ghosts, superheroes, princesses, and Halloween characters! Dress up in your favorite costume and join our family-friendly costume contest in Oakland Chinatown. Kids are invited to show off their Halloween spirit, creativity, and spooktacular looks!\nPrizes: Top 3 winners will receive surprise gift cards, and all other participants will receive a participation prize!\nDate: Friday, October 30, 2026\nTime: 3:30 PM\nLocation: Oakland Asian Cultural Center\n\n️ Free to participate! Limited to 30 participants. Best suited for children and families.\nMore Halloween Fun!\nMake it a Halloween afternoon for the whole family! Trick-or-treat through Oakland Chinatown by following the “Trick or Treaters Welcomed” signs at participating small businesses and organizations. Then, stop by the Oakland Asian Cultural Center for fun activities, games, and community resources hosted by local organizations.\nDate: Friday, October 30, 2026\nTime: 2:00–4:00 PM\nCheck-In: Oakland Asian Cultural Center Lobby\n️ Cost: Free",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Halloween-eng-4.png",
-   "categories": [
-    "Community"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1638738",
    "title": "Hayes Valley’s Glowing Halloween “Trick-or-Treat Trail” + Free Outdoor Movie (2026)",
    "start": "2026-10-30T16:00:00-07:00",
@@ -57970,30 +57704,6 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/mtm-video-festival-poster-v2.jpg",
    "categories": [
     "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1642126",
-   "title": "The Moors",
-   "start": "2026-10-30T16:00:00-07:00",
-   "end": "2026-10-30T17:45:00-07:00",
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "LeFevre Theatre",
-   "address": "1928 St Marys Rd Moraga",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/moors/",
-   "ticket_url": "https://www.stmarys-ca.edu/moors",
-   "price_text": "$20.00",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerSaint Marys College of CaliforniaThe Moors by Jen Silverman, Directed by Dr. Javier Luis Hurtado\nJen Silverman’s The Moors is a dark, surreal comedy that brilliantly subverts classic 19th-century Gothic literature—particularly the works of the Brontë sisters. It explores themes of loneliness, power, and visibility through a bizarre, sometimes violent, but darkly hilarious lens. Performances will be Oct. 28-Nov. 1.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/FINAL-THE-MOORS-8.5x11-off-campus-12.png",
-   "categories": [
-    "Theater Performance"
    ],
    "notes": []
   },
@@ -66036,7 +65746,7 @@
   {
    "source": "funcheap",
    "source_id": "1645675",
-   "title": "“Drunk Theatre” SF’s Wildest Comedy Show (Nov. 7)",
+   "title": "FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 7)",
    "start": "2026-11-07T20:00:00-08:00",
    "end": "2026-11-07T22:00:00-08:00",
    "all_day": false,
@@ -66047,10 +65757,10 @@
    "geo": null,
    "url": "https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-nov-7/",
    "ticket_url": "https://www.eventbrite.com/e/drunk-theatre-sf-the-wildest-bay-area-comedy-tickets-2004130243508?discount=FUNCHEAP&amp;aff=FuncheapSponsoredTopPick",
-   "price_text": "$23.18",
-   "is_free": false,
+   "price_text": null,
+   "is_free": true,
    "sold_out": false,
-   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in November\nEclectic Box, 446 Valencia Street, SF\nBuy Tickets – Starts at $23.18 adv / $25 door\n\nDoor opens at 7:45pm, show starts at 8pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more information: @drunktheatrecompany, www.drun...",
+   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in November\nEclectic Box, 446 Valencia Street, SF\nGet FREE Tickets – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door\n\nDoor opens at 7:45pm, show starts at 8pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more info...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/07/Untitled-design-11.png",
    "categories": [
     "Comedy Event Types Event"
@@ -70136,7 +69846,7 @@
   {
    "source": "funcheap",
    "source_id": "1645680",
-   "title": "“Drunk Theatre” SF’s Wildest Comedy Show (Nov. 21)",
+   "title": "FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 21)",
    "start": "2026-11-21T21:30:00-08:00",
    "end": "2026-11-21T23:00:00-08:00",
    "all_day": false,
@@ -70147,10 +69857,10 @@
    "geo": null,
    "url": "https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-nov-21/",
    "ticket_url": "https://www.eventbrite.com/e/drunk-theatre-sf-the-wildest-bay-area-comedy-tickets-2004130396967?discount=FUNCHEAP&amp;aff=FuncheapSponsoredTopPick",
-   "price_text": "$23.18",
-   "is_free": false,
+   "price_text": null,
+   "is_free": true,
    "sold_out": false,
-   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in November\nEclectic Box, 446 Valencia Street, SF\nBuy Tickets – Starts at $23.18 adv / $25 door\n\nDoor opens at 9:15pm, show starts at 9:30pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more information: @drunktheatrecompany, www.d...",
+   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in November\nEclectic Box, 446 Valencia Street, SF\nGet FREE Tickets – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door\n\nDoor opens at 9:15pm, show starts at 9:30pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more i...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/07/Untitled-design-11.png",
    "categories": [
     "Comedy Event Types Event"
@@ -72991,6 +72701,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1598213",
+   "title": "Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (Dec 4-11)",
+   "start": "2026-12-04T14:30:00-08:00",
+   "end": "2026-12-04T17:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Union Square Park",
+   "address": "Geary and Powell, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/union-squares-chanukah-festival/",
+   "ticket_url": "https://www.billgrahammenorah.org/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975, San Francisco celebrates the 51st anniversary of the first giant public menorah outside Israel, a landmark Bill Graham project that inspired thousands of menorahs around the world. This year’s eight-night celebration brings music, community gatherings, and nightly ceremonies honoring leaders and traditions across the Jewish community.\n\nUnion Square Menorah Lighting Schedule 2026\nDecember 4-11, 2026\nFriday, December 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday, December 5\n\n8:00 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes, followed by music and dancing.\n\nSunday, December 6\n“Bill Graham Menorah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Ceremony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Children’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm – Bill Graham All Stars featuring Jordan Feinstein (keys/vocals, Jordan and the Ritual), Aaron Kaplan (guitar), Ben Bernstein (bass), and Greg Errico (drums, original Sly and the Family Stone)\n5:00 pm – Menorah Lighting Ceremony honoring Friends of Bill, dignitaries and special guests\n\nMonday, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting Ceremony\n\nCeremony lasts approximately 20 minutes, followed by music and dancing.\n\nTuesday, December 8\n\n4:30 pm – Live Music\n5:00 pm – 5th Lighting Ceremony\n\nCeremony lasts approximately 20 minutes, followed by mus...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1stNightUnionSquare-211128.jpeg",
+   "categories": [
+    "Fairs Festivals"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1635256",
    "title": "“Block Fest” Tenderloin Arts Festival & Free Art Making | SF",
    "start": "2026-12-04T15:00:00-08:00",
@@ -73807,6 +73541,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646304",
+   "title": "Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (2nd Night)",
+   "start": "2026-12-05T20:00:00-08:00",
+   "end": "2026-12-05T23:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Union Square Park",
+   "address": "Geary and Powell, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/union-squares-2026-chanukah-festival-25-foot-tall-menorah-2nd-night/",
+   "ticket_url": "https://www.billgrahammenorah.org/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975, San Francisco celebrates the 51st anniversary of the first giant public menorah outside Israel, a landmark Bill Graham project that inspired thousands of menorahs around the world. This year’s eight-night celebration brings music, community gatherings, and nightly ceremonies honoring leaders and traditions across the Jewish community.\nThe festival is capped off with a festive menorah car parade rolling out from Union Square (date TBA).\n\nUnion Square Menorah Lighting Schedule 2026\nDecember 4-11, 2026\nFriday, December 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday, December 5\n\n8:00 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes, followed by music and dancing.\n\nSunday, December 6\n“Bill Graham Menorah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Ceremony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Children’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm – Bill Graham All Stars featuring Jordan Feinstein (keys/vocals, Jordan and the Ritual), Aaron Kaplan (guitar), Ben Bernstein (bass), and Greg Errico (drums, original Sly and the Family Stone)\n5:00 pm – Menorah Lighting Ceremony honoring Friends of Bill, dignitaries and special guests\n\nMonday, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting Ceremony\n\nCeremony lasts approximately 20 minutes, followed by music and dancing.\n\nTuesday, December 8\n\n4:30 pm...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1stNightUnionSquare-211128.jpeg",
+   "categories": [
+    "Fairs Festivals"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1640861",
    "title": "SF’s Prince vs. Michael Jackson DJ Party (NoPa)",
    "start": "2026-12-05T21:00:00-08:00",
@@ -73856,7 +73614,7 @@
   {
    "source": "funcheap",
    "source_id": "1645685",
-   "title": "“Drunk Theatre” SF’s Wildest Comedy Show (Dec. 5)",
+   "title": "FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Dec. 5)",
    "start": "2026-12-05T21:30:00-08:00",
    "end": "2026-12-05T23:00:00-08:00",
    "all_day": false,
@@ -73867,10 +73625,10 @@
    "geo": null,
    "url": "https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-dec-5/",
    "ticket_url": "https://www.eventbrite.com/e/drunk-theatre-sf-the-wildest-bay-area-comedy-tickets-2004130414018?discount=FUNCHEAP&amp;aff=FuncheapSponsoredTopPick",
-   "price_text": "$23.18",
-   "is_free": false,
+   "price_text": null,
+   "is_free": true,
    "sold_out": false,
-   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in December\nEclectic Box, 446 Valencia Street, SF\nBuy Tickets – Starts at $23.18 adv / $25 door\n\nDoor opens at 9:15pm, show starts at 9:30pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more information: @drunktheatrecompany, www.d...",
+   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in December\nEclectic Box, 446 Valencia Street, SF\nGet FREE Tickets – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door\n\nDoor opens at 9:15pm, show starts at 9:30pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more i...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/07/Untitled-design-11.png",
    "categories": [
     "Comedy Event Types Event"
@@ -74138,6 +73896,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
    "categories": [
     "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1598211",
+   "title": "Union Square’s 2026 Chanukah Festival: Bill Graham Menorah Day",
+   "start": "2026-12-06T14:00:00-08:00",
+   "end": "2026-12-06T18:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Union Square Park",
+   "address": "Geary and Powell, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/union-squares-chanukah-festival-bill-graham-menorah-day/",
+   "ticket_url": "https://www.billgrahammenorah.org/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975, San Francisco celebrates the 51st anniversary of the first giant public menorah outside Israel, a landmark Bill Graham project that inspired thousands of menorahs around the world. This year’s eight-night celebration brings music, community gatherings, and nightly ceremonies honoring leaders and traditions across the Jewish community.\nThe festival is capped off with a festive menorah car parade rolling out from Union Square (date TBA).\n\nUnion Square Menorah Lighting Schedule 2026\nDecember 4-11, 2026\nFriday, December 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday, December 5\n\n8:00 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes, followed by music and dancing.\n\nSunday, December 6\n“Bill Graham Menorah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Ceremony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Children’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm – Bill Graham All Stars featuring Jordan Feinstein (keys/vocals, Jordan and the Ritual), Aaron Kaplan (guitar), Ben Bernstein (bass), and Greg Errico (drums, original Sly and the Family Stone)\n5:00 pm – Menorah Lighting Ceremony honoring Friends of Bill, dignitaries and special guests\n\nMonday, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting Ceremony\n\nCeremony lasts approximately 20 minutes, followed by music and dancing.\n\nTuesday, December 8\n\n4:30 pm...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1stNightUnionSquare-211128.jpeg",
+   "categories": [
+    "Fairs Festivals"
    ],
    "notes": []
   },
@@ -75583,6 +75365,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "2530",
+   "title": "San Francisco SantaCon: City-Wide Santa Pub Crawl (2026)",
+   "start": "2026-12-12T12:00:00-08:00",
+   "end": "2026-12-12T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Union Square Park",
+   "address": "Geary and Powell, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/santacon-san-francisco/",
+   "ticket_url": "https://www.instagram.com/officialsantaconsf",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Steve Rhodes via Flickr - CC BY-NC-ND 2.0“SantaCon” is San Francisco’s annual city-wide Santas-only pub crawl happening on Saturday, December 12, 2026*.\nSantaCon Comedy Show! Funcheap is hosting our second ever SantaCon Comedy Crawl at The Function 1414 Market St. @ Polk opening at 6p with winter cocktail, and a Santa + Elves comedy show at 7P + 9P! RSVP for Free tickets\n\nAll full-on Santas will get all-night happy hour pricing on the holiday cocktail menu – just ask at the bar when ordering!\n\nThis flash mob-type event brings together hundreds of slightly sober people dressed in Santa costumes parading around the city, visiting landmarks drinking at bars, and causing general mayhem.\n\nSponsored: If you’d prefer something a little more coordinated – with guaranteed bar access, wristband enry, and a clear crawl route –this ticketed SantaCon-style pub crawl in the Mission and Downtown is a great alternative!\nAnd just so you know, wearing a Santa hat isn’t enough… get yourself a full-on Santa suit.\nSantaCon 2026\nSaturday, December 12, 2026 | Noon to about 7pm*\n*TENTATIVE FOR 2026 – “OFFICIAL” INFO NOT YET RELEASED FOR 2026 – IT’S A SEMI-ORGANIZED, UNOFFICIAL EVENT\nMeet at Union Square Park, San Francisco\nFREE – Rain or Shine – if you see people selling tickets to SantaCon, please note it is not affiliated with the original SantaCon in any way – Instead, bring a toy to donate.\n2025 Map + Schedule – Coming Soon!\n\nBring a new unwrapped toy to donate to the SF Fire Dept. Toy Drive – b...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2015/12/santacon-1.jpg",
+   "categories": [
+    "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645591",
    "title": "2026 Russian Center Christmas Fair w/ Eastern European Food",
    "start": "2026-12-12T13:00:00-08:00",
@@ -76854,7 +76660,7 @@
   {
    "source": "funcheap",
    "source_id": "1645688",
-   "title": "“Drunk Theatre” SF’s Wildest Comedy Show (Dec. 19)",
+   "title": "FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Dec. 19)",
    "start": "2026-12-19T21:30:00-08:00",
    "end": "2026-12-19T23:00:00-08:00",
    "all_day": false,
@@ -76865,10 +76671,10 @@
    "geo": null,
    "url": "https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-dec-19/",
    "ticket_url": "https://www.eventbrite.com/e/drunk-theatre-sf-the-wildest-bay-area-comedy-tickets-2004130493255?discount=FUNCHEAP&amp;aff=FuncheapSponsoredTopPick",
-   "price_text": "$23.18",
-   "is_free": false,
+   "price_text": null,
+   "is_free": true,
    "sold_out": false,
-   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in December\nEclectic Box, 446 Valencia Street, SF\nBuy Tickets – Starts at $23.18 adv / $25 door\n\nDoor opens at 9:15pm, show starts at 9:30pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more information: @drunktheatrecompany, www.d...",
+   "description": "Drunk Theatre LLCA comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians. What could go wrong?!\nDrunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend into overdrive. See what the SF Chronicle, CBS, LA Times, SF Weekly, SFGate, Thrillist, and TimeOut have all been talking about.\nThis unpredictable improv comedy show blends chaos, sharp wit, and audience interaction for a truly one‑of‑a‑kind night out in the Bay Area.\nDrunk Theatre SF\nSaturday Nights in December\nEclectic Box, 446 Valencia Street, SF\nGet FREE Tickets – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door\n\nDoor opens at 9:15pm, show starts at 9:30pm (starts promptly)\nLimited ticket availability at the door.\n\n*The event is open to all ages, but the comedy may not be suitable for children.\n24-hour notice is required for cancelations. Late cancelations may be transferred to another show date of your choosing. Seating is first come, first serve. Parties later than 15-20 minutes may have their tickets sold at the door.\n\n2026 San Francisco Drunk Theatre Schedule\nNovember – December 2026 shows\n\nSaturday, November 7, 2026 | 8:00pm – 10:00pm – Get Tickets\nSaturday, November 21, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 5, 2026 | 9:30pm – 11:00pm – Get Tickets\nSaturday, December 19, 2026 | 9:30:00pm – 11:00pm – Get Tickets\n\nFollow Drunk Theatre Company on Instagram and Facebook for more i...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/07/Untitled-design-11.png",
    "categories": [
     "Comedy Event Types Event"
@@ -78221,6 +78027,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646289",
+   "title": "SF’s Conservatory of Flowers Free First Tuesdays (Golden Gate Park)",
+   "start": "2027-01-05T10:00:00-08:00",
+   "end": "2027-01-05T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Conservatory of Flowers",
+   "address": "100 John F Kennedy Dr, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-conservatory-of-flowers-free-first-tuesdays-golden-gate-park-74/",
+   "ticket_url": "https://conservatoryofflowers.org/visit/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SF’s Conservatory of Flowers Free First Tuesdays (Golden Gate Park)\nConservatory of Flowers\nWhether you’re a native San Franciscan, a visitor from the other side of the world, or a budding botanist, the Conservatory of Flowers, located in Golden Gate Park, offers an intimate, up-close experience with nearly 2,000 species of rare, exotic, and endangered plants from more than 50 different countries.\nOpened in 1879, the wood and glass greenhouse is the oldest existing conservatory of its kind in the Western Hemisphere.\nConservatory of Flowers’ Free Admission Day\nFirst Tuesday of Every Month\n100 JFK Dr., Golden Gate Park, San Francisco\nFREE for everyone\nAdmission is normally free for SF residents ($12 for non-SF residents), but it’s free for all visitors on the first Tuesday of every month.\nThe Conservatory will also continue offering free or reduced admission through Museums for All, a program to bring free or reduced admission to San Francisco residents who receive public beneﬁts, including Medi-Cal and CalFresh. Plus, there’s free admission for Military & Veterans and children 4 and under.\n\nHours:\nThursday-Tuesday\n10am – 4:30pm\nLast entry at 4pm\nFree Day: First Tuesday of the Month\nEnjoy our winter light show, Photosynthesis, beginning 30 minutes after sunset every night. The show is free to the public and is about 30 minutes long.\nClosed: Wednesdays for weekly maintenance; 2026 Annual Maintenance Closure: January 21, 2026-February 4, 2026.\n\nUpcoming SF’s Conservatory of Flowe...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/Conservatory-Of-Flowers-San-Francisco-1280x6401.jpg",
+   "categories": [
+    "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641676",
    "title": "SF’s Cartoon Art Museum’s “Pay What You Wish” Day (First Tuesdays)",
    "start": "2027-01-05T11:00:00-08:00",
@@ -78576,6 +78406,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/lev_webpage.png",
    "categories": [
     "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646291",
+   "title": "SF’s Conservatory of Flowers Free First Tuesdays (Golden Gate Park)",
+   "start": "2027-02-02T10:00:00-08:00",
+   "end": "2027-02-02T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Conservatory of Flowers",
+   "address": "100 John F Kennedy Dr, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-conservatory-of-flowers-free-first-tuesdays-golden-gate-park-75/",
+   "ticket_url": "https://conservatoryofflowers.org/visit/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SF’s Conservatory of Flowers Free First Tuesdays (Golden Gate Park)\nConservatory of Flowers\nWhether you’re a native San Franciscan, a visitor from the other side of the world, or a budding botanist, the Conservatory of Flowers, located in Golden Gate Park, offers an intimate, up-close experience with nearly 2,000 species of rare, exotic, and endangered plants from more than 50 different countries.\nOpened in 1879, the wood and glass greenhouse is the oldest existing conservatory of its kind in the Western Hemisphere.\nConservatory of Flowers’ Free Admission Day\nFirst Tuesday of Every Month\n100 JFK Dr., Golden Gate Park, San Francisco\nFREE for everyone\nAdmission is normally free for SF residents ($12 for non-SF residents), but it’s free for all visitors on the first Tuesday of every month.\nThe Conservatory will also continue offering free or reduced admission through Museums for All, a program to bring free or reduced admission to San Francisco residents who receive public beneﬁts, including Medi-Cal and CalFresh. Plus, there’s free admission for Military & Veterans and children 4 and under.\n\nHours:\nThursday-Tuesday\n10am – 4:30pm\nLast entry at 4pm\nFree Day: First Tuesday of the Month\nEnjoy our winter light show, Photosynthesis, beginning 30 minutes after sunset every night. The show is free to the public and is about 30 minutes long.\nClosed: Wednesdays for weekly maintenance; 2026 Annual Maintenance Closure: January 21, 2026-February 4, 2026.\n\nUpcoming SF’s Conservatory of Flowe...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/Conservatory-Of-Flowers-San-Francisco-1280x6401.jpg",
+   "categories": [
+    "Art Museums"
    ],
    "notes": []
   },
@@ -78960,37 +78814,6 @@
    "is_free": false,
    "sold_out": false,
    "description": "Closed: Fern St from Larkin St to Polk St; Fern St from Polk St to Van Ness Ave; Moulton St from Fillmore St to Steiner St",
-   "image_url": null,
-   "categories": [
-    "Special Event"
-   ],
-   "notes": [
-    "Permit status: Permitted",
-    "Times are SFMTA street-closure permit times and include setup and teardown",
-    "Source: DataSF Temporary Street Closures"
-   ]
-  },
-  {
-   "source": "sf-street-events",
-   "source_id": "1595123-2026-10-30T12:30:00-07:00",
-   "title": "Building Kidz Sunset Halloween Trunk Or Treat!",
-   "start": "2026-10-30T12:30:00-07:00",
-   "end": "2026-10-30T17:30:00-07:00",
-   "all_day": false,
-   "bucket": "street-events",
-   "venue": "36th Ave between Taraval St and Santiago St",
-   "address": null,
-   "locality": "San Francisco",
-   "geo": [
-    37.743182,
-    -122.493973
-   ],
-   "url": "https://data.sf.gov/d/8x25-yybr",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Closed: 36th Ave from Santiago St to Taraval St",
    "image_url": null,
    "categories": [
     "Special Event"
@@ -83715,9 +83538,37 @@
   },
   {
    "source": "sfciviccenter",
-   "source_id": "a7efd4be26e20e37",
+   "source_id": "80fe217dbc3cb349",
+   "title": "Performing Arts Showcase",
+   "start": "2026-11-13T17:00:00-08:00",
+   "end": "2026-11-13T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": null,
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://sfciviccenter.org/event/holiday-season-performing-arts-showcase/",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. There will be both bleacher and street-level seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and ATG San Francisco, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
+   "image_url": null,
+   "categories": [
+    "Art",
+    "Community",
+    "Dance",
+    "Music",
+    "Theater"
+   ],
+   "notes": []
+  },
+  {
+   "source": "sfciviccenter",
+   "source_id": "a1b9110affa7daed",
    "title": "Asian Art Museum's Annual Holiday Artisan Market",
-   "start": "2026-11-13T08:00:00-08:00",
+   "start": "2026-11-14T08:00:00-08:00",
    "end": "2026-11-15T17:00:00-08:00",
    "all_day": false,
    "bucket": "arts-community",
@@ -83737,34 +83588,6 @@
     "Community",
     "Holiday",
     "Shopping"
-   ],
-   "notes": []
-  },
-  {
-   "source": "sfciviccenter",
-   "source_id": "80fe217dbc3cb349",
-   "title": "Performing Arts Showcase",
-   "start": "2026-11-13T17:00:00-08:00",
-   "end": "2026-11-13T20:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": null,
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://sfciviccenter.org/event/holiday-season-performing-arts-showcase/",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. Happening rain or shine, there will be both bleacher seating and street-level/ADA accessible seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and Orpheum Theatre, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
-   "image_url": null,
-   "categories": [
-    "Art",
-    "Community",
-    "Dance",
-    "Music",
-    "Theater"
    ],
    "notes": []
   },
@@ -84321,6 +84144,8 @@
     "1591361": "2026-10-20T00:44:41",
     "1592796": "2026-11-05T20:38:42",
     "1597332": "2026-10-28T22:47:06",
+    "1598211": "2026-11-06T23:20:44",
+    "1598213": "2026-11-06T23:02:40",
     "1616547": "2026-10-25T16:06:59",
     "1617214": "2026-10-01T16:58:39",
     "1617220": "2026-10-01T16:58:36",
@@ -84439,7 +84264,6 @@
     "1636716": "2026-09-28T18:04:31",
     "1636719": "2026-09-23T10:54:01",
     "1636795": "2026-10-18T18:20:35",
-    "1636798": "2026-09-23T05:56:04",
     "1636805": "2026-09-27T00:18:57",
     "1636843": "2026-09-23T10:48:04",
     "1636850": "2026-09-28T18:03:18",
@@ -84458,7 +84282,6 @@
     "1637042": "2026-09-23T08:29:35",
     "1637045": "2026-09-27T00:19:11",
     "1637051": "2026-09-28T17:51:28",
-    "1637055": "2026-09-23T05:56:39",
     "1637058": "2026-09-28T17:59:55",
     "1637062": "2026-09-27T00:28:31",
     "1637082": "2026-09-28T17:25:15",
@@ -84481,7 +84304,6 @@
     "1637404": "2026-09-27T00:27:40",
     "1637417": "2026-09-24T21:35:50",
     "1637421": "2026-09-25T13:52:53",
-    "1637508": "2026-09-23T05:55:51",
     "1637519": "2026-09-28T18:04:35",
     "1637522": "2026-10-18T17:55:55",
     "1637555": "2026-10-18T18:14:04",
@@ -84497,7 +84319,6 @@
     "1637643": "2026-10-18T18:04:15",
     "1637646": "2026-10-01T00:35:56",
     "1637655": "2026-09-23T18:52:49",
-    "1637658": "2026-09-23T05:48:26",
     "1637737": "2026-09-27T00:15:17",
     "1637740": "2026-09-24T21:36:49",
     "1637743": "2026-09-27T00:20:05",
@@ -84512,7 +84333,6 @@
     "1637846": "2026-09-23T18:51:04",
     "1637859": "2026-09-28T18:07:21",
     "1637866": "2026-09-28T17:59:16",
-    "1637869": "2026-09-24T14:42:30",
     "1637872": "2026-09-27T00:29:22",
     "1637875": "2026-10-18T18:08:51",
     "1637878": "2026-10-21T23:16:54",
@@ -84523,7 +84343,6 @@
     "1637915": "2026-09-28T18:04:48",
     "1637933": "2026-09-23T18:51:46",
     "1637946": "2026-09-23T18:52:10",
-    "1638125": "2026-09-23T05:49:37",
     "1638130": "2026-09-28T18:07:27",
     "1638165": "2026-09-23T18:50:47",
     "1638168": "2026-09-25T13:50:17",
@@ -84544,7 +84363,6 @@
     "1638256": "2026-09-23T10:46:39",
     "1638259": "2026-09-27T00:31:40",
     "1638264": "2026-09-28T17:54:25",
-    "1638272": "2026-09-23T05:48:12",
     "1638291": "2026-09-23T10:47:11",
     "1638294": "2026-09-23T10:53:19",
     "1638297": "2026-10-18T18:23:25",
@@ -85914,10 +85732,10 @@
     "1645666": "2026-11-03T08:13:51",
     "1645668": "2026-11-03T08:13:53",
     "1645673": "2026-11-03T09:13:51",
-    "1645675": "2026-11-03T11:57:50",
-    "1645680": "2026-11-03T12:13:06",
-    "1645685": "2026-11-03T12:13:59",
-    "1645688": "2026-11-03T12:15:03",
+    "1645675": "2026-11-06T21:23:51",
+    "1645680": "2026-11-06T21:24:20",
+    "1645685": "2026-11-06T21:24:11",
+    "1645688": "2026-11-06T21:24:02",
     "1645706": "2026-11-03T11:13:58",
     "1645708": "2026-11-03T11:14:08",
     "1645713": "2026-11-03T11:14:16",
@@ -85994,7 +85812,11 @@
     "1646176": "2026-11-06T01:40:03",
     "1646219": "2026-11-06T11:13:30",
     "1646221": "2026-11-06T11:13:32",
+    "1646289": "2026-11-06T22:14:03",
+    "1646291": "2026-11-06T22:14:06",
+    "1646304": "2026-11-06T23:18:56",
     "165284": "2026-10-28T22:14:53",
+    "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52"
    }
   },
@@ -86147,11 +85969,6 @@
    "sequence": 0,
    "last_modified": "2026-11-04T11:05:13.938019Z"
   },
-  "caldiscovery-comedy-c63bf37960acf3e9@sf-cal": {
-   "content_hash": "8be40854515aa7ef6d58d4c9d39b37da7ba915c4d3d2a644fece144f17785c69",
-   "sequence": 0,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
-  },
   "caldiscovery-comedy-cef7799e6c83ad55@sf-cal": {
    "content_hash": "41e89ee33faf1d313534e50b074b74e7c55045e88bc4c0918cb77bf7f3321fcc",
    "sequence": 2,
@@ -86268,9 +86085,9 @@
    "last_modified": "2026-11-04T01:27:11.380793Z"
   },
   "caldiscovery-festival-3596af29cef2fb62@sf-cal": {
-   "content_hash": "f38b25f07f80d8e86fb330698d91b87f4041709ced52fa87398834aeec722321",
-   "sequence": 4,
-   "last_modified": "2026-11-06T01:36:13.096518Z"
+   "content_hash": "ca6ae9fdc197e0dbfa1e602a440c71e3b6cedabff4cb4e9627dff9424a4b7d90",
+   "sequence": 5,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "caldiscovery-festival-35e94ac624f4203a@sf-cal": {
    "content_hash": "1148ab7fcb889d60343b9e91da7660fc8641e336804ecc371437a81a740d318d",
@@ -87358,9 +87175,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17502173@sf-cal": {
-   "content_hash": "d0421480a11aa8002af0eddf3d2bd412e8317b232214b4d3e8155fb2a4325cf0",
-   "sequence": 1,
-   "last_modified": "2026-10-23T17:14:42.400470Z"
+   "content_hash": "bc0077b66f34d04365a0a8522d05290192b29ef13d2a7c99acf633412f894e46",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17504221@sf-cal": {
    "content_hash": "85682d1a1c359b99d820c4171761ae4e0055f85cc350b7830c83cad2e595d0bd",
@@ -87877,11 +87694,6 @@
    "sequence": 1,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
-  "dothebay-17641517@sf-cal": {
-   "content_hash": "1710b6d9df164bc779d2649178165b5dbb29365d47d20bdf2f08901753f6d6d7",
-   "sequence": 1,
-   "last_modified": "2026-10-31T05:53:20.848608Z"
-  },
   "dothebay-17642135@sf-cal": {
    "content_hash": "b5e7f33c8796af4ae1bdbeb76c02d57888247504644b3a74dd0989069a6420b3",
    "sequence": 1,
@@ -87913,9 +87725,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17642531@sf-cal": {
-   "content_hash": "77942e2b3e4a7c31c262b260c19b21720ff38f4bf8b6b86b2e5dcc2f4ab1bf9f",
-   "sequence": 3,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
+   "content_hash": "bf8fbd204275bb2eebf89584b5e553c88cf693a8d095b8fff91be9fbae7ef875",
+   "sequence": 4,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17642532@sf-cal": {
    "content_hash": "e0d7524f9ef1a7c2706fd9780d4cc129a808217956e6a02f79599186b58cf9d4",
@@ -87923,24 +87735,24 @@
    "last_modified": "2026-10-18T11:18:13.035663Z"
   },
   "dothebay-17642533@sf-cal": {
-   "content_hash": "102beebd9226cfa565d8bb01d94a752eee9c8653e744eb4ed3ab3eb033e31b04",
-   "sequence": 1,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
+   "content_hash": "ad5e906f0819e1dc8e026e9ca2d4dd1afbd01e53e85c794895094b27f404a0f4",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17642538@sf-cal": {
-   "content_hash": "51cfcd75fc911dbd4f1a0c045d7b3a058f16ca4410ffa1bf82fcbd885bf8ad53",
-   "sequence": 1,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
+   "content_hash": "b0654411ea7e99b27cd11b3600a944a6cca24858ae135220319cee1f9728e622",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17642547@sf-cal": {
-   "content_hash": "ff14b32cb28fd16fe442f4f69205b6efc5038e12e3b53c64194709e74906f368",
-   "sequence": 1,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
+   "content_hash": "086289e13b42760f68b9ad31d72460725b96316e2a85ba4de0edb092f3730c94",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17642556@sf-cal": {
-   "content_hash": "eefd481e9c8ba5e4d3bdbb8b1802de1f6ff39b0e3e76a7549af3888fada61875",
-   "sequence": 1,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
+   "content_hash": "6d252cdf05ee43d741f6cd1674376ce1f835de6740c05d13e68e2238906d9b9e",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17642557@sf-cal": {
    "content_hash": "a74b28d575c7fd7d34e7d49af46cfd09e6763455803ab0b27a0873e64c9c62c8",
@@ -88896,11 +88708,6 @@
    "content_hash": "b5fae64957d8f5bbebd480343895f0b9bd2b0c38d3809de9a35ca8b6e7ce19ca",
    "sequence": 1,
    "last_modified": "2026-11-04T19:51:00.176134Z"
-  },
-  "dothebay-17764337@sf-cal": {
-   "content_hash": "03307b837ad8cbaf67f9fd5f098027e34c4bfac9ac5e6c95c00c1d1abcee92cc",
-   "sequence": 1,
-   "last_modified": "2026-10-31T05:53:20.848608Z"
   },
   "dothebay-17764566@sf-cal": {
    "content_hash": "46df60347e470109251d28658873f0f8858648d9e9bd888077fac3e44396ee62",
@@ -90373,9 +90180,9 @@
    "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17926207@sf-cal": {
-   "content_hash": "f1d715439e0255b8ff0bc9b7b159fd83140b6b049b588c843db8c4480bdc815f",
-   "sequence": 5,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
+   "content_hash": "9c42a650ce0ed12a30a2dab5abc7ebbdd79e93ed9d876108ccf9c24317db50e9",
+   "sequence": 6,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17926269@sf-cal": {
    "content_hash": "d7bcb114ccabf17031e752d0871bad1e58a0ca5450ecdb9e1117c519e4539a64",
@@ -90421,6 +90228,11 @@
    "content_hash": "b28964f044ccd5ee2d8c8f11653fda68c181c901ee3aef843f7a60a13f62ae0e",
    "sequence": 2,
    "last_modified": "2026-11-06T11:02:27.517478Z"
+  },
+  "dothebay-17930132@sf-cal": {
+   "content_hash": "ca2be7fecde6a5ce85448418d0f65410949f290331693f91e9c590d09e106ddf",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17930225@sf-cal": {
    "content_hash": "9d404e5c98f647e5ffc7bc0f95068b3ffab6f62b2c6ea216cf60fb5ec984e8d3",
@@ -90556,11 +90368,6 @@
    "content_hash": "1bd75f35158fc57617c6783b1635e2729fcf1559ad501e176bf56779018ee4f3",
    "sequence": 1,
    "last_modified": "2026-11-02T06:19:47.372361Z"
-  },
-  "dothebay-17937736@sf-cal": {
-   "content_hash": "3287ca4887b895c7d5ae279a381a4f4dd38c709a7803ea08ec32abba17d4aec8",
-   "sequence": 0,
-   "last_modified": "2026-10-09T18:23:57.839093Z"
   },
   "dothebay-17939017@sf-cal": {
    "content_hash": "04f98859052883c4017696968d3fe9984acff8aa685b50fece6badeacdb4e7fb",
@@ -90817,11 +90624,6 @@
    "sequence": 0,
    "last_modified": "2026-10-14T21:46:46.382284Z"
   },
-  "dothebay-17952904@sf-cal": {
-   "content_hash": "939bdaaf36f2e1e479219cc64b57a0cefa85e1af34aa835227fe05032d55529c",
-   "sequence": 2,
-   "last_modified": "2026-10-31T05:53:20.848608Z"
-  },
   "dothebay-17952915@sf-cal": {
    "content_hash": "033397b21302e1c28f394043600a4b0c704cd1a9782fb74a7759c41b8f31e39a",
    "sequence": 2,
@@ -90903,9 +90705,9 @@
    "last_modified": "2026-10-14T21:46:46.382284Z"
   },
   "dothebay-17955484@sf-cal": {
-   "content_hash": "c53fabc2dae980f1496b399d661c91affa761a603ad37f90f54402c1e8f99c8c",
-   "sequence": 5,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
+   "content_hash": "81cc655fc7af45b88ec155f03b54a42e76d34653cc75d9282ddeb4bc43998670",
+   "sequence": 6,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17955534@sf-cal": {
    "content_hash": "7b089ce7489446716006cc08d20df967fe51fec3427f634c9c427ddf773b9447",
@@ -91828,9 +91630,9 @@
    "last_modified": "2026-11-06T11:02:27.517478Z"
   },
   "dothebay-17998396@sf-cal": {
-   "content_hash": "73114b3eb9992e62337b472ea9ce12ee4380b0cb9e18ecc3ab8cf51c5ee3cb74",
-   "sequence": 3,
-   "last_modified": "2026-11-06T11:02:27.517478Z"
+   "content_hash": "4d1bb20e727d847f2204e77e4513abf2555a824965704cb4609a00170ae8eb95",
+   "sequence": 4,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17998438@sf-cal": {
    "content_hash": "c0209889f17be4e6c3ca46cbe5c8d3090550c7474b8ade4c0e9ce4a3cfeed27c",
@@ -91841,11 +91643,6 @@
    "content_hash": "2ba10d946c7b052127765615ddeafd4b2ca50495fe0014d135a53335706cd69a",
    "sequence": 1,
    "last_modified": "2026-11-01T06:18:22.714359Z"
-  },
-  "dothebay-17998887@sf-cal": {
-   "content_hash": "68035facab874130ca969f1bca2b93b5e201b3266279ebf262edbefc180b2398",
-   "sequence": 1,
-   "last_modified": "2026-10-31T05:53:20.848608Z"
   },
   "dothebay-17998892@sf-cal": {
    "content_hash": "c49ce9b21649bbaa2e145993afb0141589dcee64c9ff80565d20c310d7c5cece",
@@ -91921,11 +91718,6 @@
    "content_hash": "de514e9dd48ec66463e0b9b40031be50527de5712c5cf6a7c34a0a31a9f2ae78",
    "sequence": 1,
    "last_modified": "2026-11-04T19:51:00.176134Z"
-  },
-  "dothebay-18005912@sf-cal": {
-   "content_hash": "fca2ffc8dfff5c054103c3bf562f3ff145ab2c380d12aee3f0758e1d1af60b9f",
-   "sequence": 1,
-   "last_modified": "2026-10-31T05:53:20.848608Z"
   },
   "dothebay-18006138@sf-cal": {
    "content_hash": "8eccc3efe3aa77a832f1cbc026a6d71179712e133e012453df3d4e9d2d3e6343",
@@ -92116,6 +91908,11 @@
    "content_hash": "5ee8942a3ae4ff6d725f8ef0490032cb4b4dcd7ec276204e4e73e418f6f4ac4d",
    "sequence": 1,
    "last_modified": "2026-11-01T06:18:22.714359Z"
+  },
+  "dothebay-18012910@sf-cal": {
+   "content_hash": "676acf84a0c3df321b3234aa5854d9b096751582d0c9a4d8d6a1de6aa25d2f2d",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-18013963@sf-cal": {
    "content_hash": "8e591397b1142e8c421d7c5bac087b9f824c503681b7e34659b4a900c8e06516",
@@ -92682,6 +92479,16 @@
    "sequence": 0,
    "last_modified": "2026-11-06T01:36:13.096518Z"
   },
+  "dothebay-18045497@sf-cal": {
+   "content_hash": "44bb822c1ab664bbeace30abadf5c9ffbc3c94844201944f51c9d8c480ed604d",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
+  },
+  "dothebay-18051329@sf-cal": {
+   "content_hash": "8644611f937869b72440f793b0cb83856d728f9e9c04a736cb53ccc1dfde13f3",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
+  },
   "funcheap-1016840@sf-cal": {
    "content_hash": "72192621c5f06f94bc97224a81f62e59f6301d423f67784aa4430c06cd0cb524",
    "sequence": 0,
@@ -92786,6 +92593,16 @@
    "content_hash": "3fce514d14926138c4c403a690f98a2268205926723dc1f5ed23b25cd2e43fb9",
    "sequence": 0,
    "last_modified": "2026-10-29T01:01:45.272982Z"
+  },
+  "funcheap-1598211@sf-cal": {
+   "content_hash": "7da0e78e3804277e9c913b449bea69df8622a8d1aaca9a815ac846ce11771c1b",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
+  },
+  "funcheap-1598213@sf-cal": {
+   "content_hash": "4e0d93a8422b666809d2d263b196c63fe8a0b32517a4cee11f1db2504ff328a8",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "funcheap-1617220@sf-cal": {
    "content_hash": "14828bf36827fbe19726318dcbc15c99510e4f790997e7a0b67a1a1c99f6728a",
@@ -93512,11 +93329,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1639190@sf-cal": {
-   "content_hash": "dad89b95f9b02f847df70d9ed04b0aaac058a2d14bfecff83dae2b583bc8218c",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1639192@sf-cal": {
    "content_hash": "3d7be93055270cb313304d5375d91ff240aa02ce0594a6927b7d9b374e114665",
    "sequence": 0,
@@ -93957,11 +93769,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
-  "funcheap-1641096@sf-cal": {
-   "content_hash": "784d16a0ac77bf0091c2eb8833a8801a31a876fd54a0314d35fbcd5351488ba2",
-   "sequence": 0,
-   "last_modified": "2026-10-06T17:22:18.408093Z"
-  },
   "funcheap-1641110@sf-cal": {
    "content_hash": "e6a9ee6b870f6682621019a1eafc734f6fcd685649059104f5b293d69c390429",
    "sequence": 0,
@@ -94177,11 +93984,6 @@
    "sequence": 0,
    "last_modified": "2026-10-31T19:21:23.476017Z"
   },
-  "funcheap-1642126@sf-cal": {
-   "content_hash": "56e10c2a86523d8185272f81c012bb8843544644ee323d342496f91158e0265c",
-   "sequence": 0,
-   "last_modified": "2026-10-25T20:56:26.182266Z"
-  },
   "funcheap-1642129@sf-cal": {
    "content_hash": "844b12cc4e99b29b1f07809d6b40bae30f8e0f045f0c439d749ed6cf0ba8a02d",
    "sequence": 0,
@@ -94237,11 +94039,6 @@
    "sequence": 0,
    "last_modified": "2026-10-31T19:21:23.476017Z"
   },
-  "funcheap-1642305@sf-cal": {
-   "content_hash": "da1fcc2670829ea18865bcd81411a758726b0fb1f6858058debfc5965be4f3ed",
-   "sequence": 0,
-   "last_modified": "2026-10-23T05:00:02.678864Z"
-  },
   "funcheap-1642308@sf-cal": {
    "content_hash": "890d4304f479accb95a3d75f47ef992ec38418973879990bc88286cc37d6c454",
    "sequence": 0,
@@ -94256,6 +94053,11 @@
    "content_hash": "3b714244266a0402ca418997d7419ac4d66a25fc40c7b8a55befbdd5de1d9acc",
    "sequence": 0,
    "last_modified": "2026-11-03T19:36:58.555449Z"
+  },
+  "funcheap-1642408@sf-cal": {
+   "content_hash": "794ad2e051e6672d4c4af5c417441fbe160b9deeafb6355c273ebba12037444b",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "funcheap-1642430@sf-cal": {
    "content_hash": "9f3e4ea2cdb93ec2a8398268e69be1f451c6adcd88a8a8e25766c770406342f3",
@@ -94507,11 +94309,6 @@
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
-  "funcheap-1643374@sf-cal": {
-   "content_hash": "e5eb1cfbaadea28309895105668de6506f88a61287b0a813248c283196aedc4a",
-   "sequence": 0,
-   "last_modified": "2026-10-20T19:44:41.088494Z"
-  },
   "funcheap-1643386@sf-cal": {
    "content_hash": "640c2e875ac312f80e6d942dd4b97d15e9a76b059b01405fd8f453c16be7052a",
    "sequence": 0,
@@ -94741,11 +94538,6 @@
    "content_hash": "3dccaf053e49a04e06dedef98d29cab435e74e6c8d2698c79de6d94f069322e2",
    "sequence": 0,
    "last_modified": "2026-10-31T19:21:23.476017Z"
-  },
-  "funcheap-1644433@sf-cal": {
-   "content_hash": "0e0db84c667daac6dcf63e24c60f42e77bfe611302a1aa5f96aa8afb5301e434",
-   "sequence": 0,
-   "last_modified": "2026-10-26T20:34:23.387246Z"
   },
   "funcheap-1644444@sf-cal": {
    "content_hash": "9e5234bbdd09338248a365535443eb995a78c7e483bdb8a2b21ad45386c2ed53",
@@ -95493,24 +95285,24 @@
    "last_modified": "2026-11-03T10:58:57.858912Z"
   },
   "funcheap-1645675@sf-cal": {
-   "content_hash": "f3492f0dc56067e66e0970b7e5f48e53a01bb7e8493b7a95c7e346c928fd2141",
-   "sequence": 1,
-   "last_modified": "2026-11-03T19:36:58.555449Z"
+   "content_hash": "4847b45c9f1301450d78c336cb07030d4a496158116129012f1e67be5a4d80dc",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "funcheap-1645680@sf-cal": {
-   "content_hash": "8f012d73aef3be92a36de9c80eb9d564490471c1976a10e70388c61e15bf1270",
-   "sequence": 1,
-   "last_modified": "2026-11-03T19:36:58.555449Z"
+   "content_hash": "881c41a13141f1de7eb7c5b93b13884f1d1432c87ea5727837d541b819d9faad",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "funcheap-1645685@sf-cal": {
-   "content_hash": "62fcd2f1b662efbae1e8ff08fa51d832261bf4aa7844b0dbdbb39661c6f14518",
-   "sequence": 1,
-   "last_modified": "2026-11-03T19:36:58.555449Z"
+   "content_hash": "53315a0ac07b525db36cdfdeb62f17c725ae6b34d4945d22f997b1fd9cc9823c",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "funcheap-1645688@sf-cal": {
-   "content_hash": "74bfed24450a12727f7c4da79e5e13119756ce202852a97ae1a9c545ce75d6df",
-   "sequence": 1,
-   "last_modified": "2026-11-03T19:36:58.555449Z"
+   "content_hash": "59b7788fdf6a07786ca2066b25b322067856734bd7f57f9898121170e4ae7177",
+   "sequence": 2,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "funcheap-1645713@sf-cal": {
    "content_hash": "3bde49a52b4d637dd46b747f11a1b8045fe3663f614fcdf28093b2ab123e271f",
@@ -95701,6 +95493,26 @@
    "content_hash": "71b99539e737372f26d1e956dfe5b76d6e3d13533aa161ddef99d0dfc8eee1ee",
    "sequence": 0,
    "last_modified": "2026-11-06T19:29:30.775776Z"
+  },
+  "funcheap-1646289@sf-cal": {
+   "content_hash": "e956a625105bbb7ecbc0cdac758ed7e7857fb9421b3640ddb3b720e6fd4b89a2",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
+  },
+  "funcheap-1646291@sf-cal": {
+   "content_hash": "fddb1b5953b154e1bb01d12c305a36c48c30e4ccdfce1ad563f2e8f1c64494cd",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
+  },
+  "funcheap-1646304@sf-cal": {
+   "content_hash": "26d6f5fd6e63f4266cd945ccc95c6babb40b4eb5bedafaa91c835634e51da18f",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
+  },
+  "funcheap-2530@sf-cal": {
+   "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",
+   "sequence": 0,
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "sf-street-events-1365550-2026-11-04T13:00:00-08:00@sf-cal": {
    "content_hash": "1aab8380030f46fd38958802bbbb13059d2aae98803eee1767f7413646fa2780",
@@ -96197,11 +96009,6 @@
    "sequence": 0,
    "last_modified": "2026-10-27T22:21:29.169315Z"
   },
-  "sf-street-events-1595123-2026-10-30T12:30:00-07:00@sf-cal": {
-   "content_hash": "0e535c661a9dca371c0c9231a49b86db97571b5d3d097f9d9c3a0e7546794a1c",
-   "sequence": 0,
-   "last_modified": "2026-10-27T22:21:29.169315Z"
-  },
   "sf-street-events-1595282-2026-10-31T16:00:00-07:00@sf-cal": {
    "content_hash": "47b45fe6009cb35b1ae5f81feb57b6065e71557278dc7d4cf5ad8357f2cd607e",
    "sequence": 0,
@@ -96442,10 +96249,10 @@
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
-  "sfciviccenter-a7efd4be26e20e37@sf-cal": {
-   "content_hash": "69e2fe9d659932d6056a83088dc383d732c762aab6a2a34ee39df8a88b26033c",
+  "sfciviccenter-a1b9110affa7daed@sf-cal": {
+   "content_hash": "faed1b27d9943507817d33e6264d73239eec3ebd7b84769eb6824c96fa50fabf",
    "sequence": 0,
-   "last_modified": "2026-10-20T19:44:41.088494Z"
+   "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "sfrecpark-bandshell-57d2463942c5fc25@sf-cal": {
    "content_hash": "7feb7c1b7efa8948f805eb59bc825fa6ad3ab6c501f35c117d4b2e180bb95c77",

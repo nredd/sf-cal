@@ -40,95 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Halloween Hike With Rafiki
-DTSTART;TZID=America/Los_Angeles:20261030T094500
-DTEND;TZID=America/Los_Angeles:20261030T140000
-DTSTAMP:20261023T050002Z
-UID:funcheap-1642305@sf-cal
-SEQUENCE:0
-CATEGORIES:Free Food
-DESCRIPTION:rafikiThis hike includes a visit to the Pet Cemetery to hear c
- reepy stories from Presidio lore. Wear a costume if you dare!\nPlease meet
-  at Rafiki Coalition (601 Cesar Chavez Street\, San Francisco\, CA 94124) 
- 20 minutes early for COVID testing. A free shuttle promptly leaves at 10:0
- 0 AM to take us to our destination. Lunch will be provided.\nRSVP to Maxin
- e at 415-654-0451 by Wed.\, 10/27. Space is limited.\n\nFree\n\nTickets: h
- ttps://rafikicoalition.org/event/halloween-hike-with-rafiki/\nDetails: htt
- ps://sf.funcheap.com/halloween-hike-rafiki/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Hike-F
- lyer_10.30.26-2.png
-LAST-MODIFIED:20261023T050002Z
-LOCATION:rafiki coalition\, 601 Cesar Chavez\, San Francisco\, CA 94124
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/halloween-hike-rafiki/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Halloween Hike in The Presidio + Creepy Pet Cemetery Stories
-DTSTART;TZID=America/Los_Angeles:20261030T100000
-DTEND;TZID=America/Los_Angeles:20261030T140000
-DTSTAMP:20261020T194441Z
-UID:funcheap-1643374@sf-cal
-SEQUENCE:0
-CATEGORIES:Free Food
-DESCRIPTION:rafikiCelebrate Halloween early with Rafiki on a beautiful fal
- l Hike in the Presidio!\nThis hike includes a visit to the Pet Cemetery to
-  hear creepy stories from Presidio lore. Wear a costume if you dare!\nPlea
- se meet at Rafiki Coalition (601 Cesar Chavez Street\, San Francisco\, CA 
- 94124) 20 minutes early for COVID testing. A free shuttle promptly leaves 
- at 10:00 AM to take us to our destination. Lunch will be provided.\n\nRSVP
-  to Maxine at 415-654-0451 by Wed.\, 10/27. Space is limited.\n\nFree\n\nT
- ickets: https://rafikicoalition.org/event/halloween-hike-with-rafiki/\nDet
- ails: https://sf.funcheap.com/free-halloween-hike-presidio-creepy-pet-ceme
- tery-stories-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Hike-F
- lyer_10.30.26-3.jpg
-LAST-MODIFIED:20261020T194441Z
-LOCATION:rafiki coalition\, 601 Cesar Chavez\, San Francisco\, CA 94124
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-halloween-hike-presidio-creepy-pet-cemete
- ry-stories-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)
-DTSTART;TZID=America/Los_Angeles:20261030T110000
-DTEND;TZID=America/Los_Angeles:20261030T170000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639190@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:“Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)\
- nTATO\nWhile many restaurants are struggling\, San Francisco Mexican resta
- urant TATO wants to give back.\nThey’re bringing back their “Taco Love
- ” special which features a two taco plate with sides\, and pay-what-you-
- can pricing.\nPay-What-You-Can Taco Day\nTato\n4608 3rd St. (@ McKinnon) S
- an Francisco (Bayview)\nEvery Friday from 11am to 5 pm\, customers can ord
- er off the Taco Love menu and pay anywhere from $0 up to $10. When a custo
- mer pays the full price of $10\, TATO will give a free meal to someone in 
- need in The City.\nClosed Christmas & New Years / Restarting January 8\, 2
- 021 – Tato plans to offer Taco Love “indefinitely every Friday\,” bu
- tplease check Facebook for updates as schedules can change.\n\nThe special
-  is open to anyone\, but especially for fellow restaurant and bar industry
-  workers who have been hit particularly hard during the pandemic.\nThe men
- u might change weekly\, but often includes Beef Quesabirria\, Mushroom Que
- sabirria\, and Chicken Tacos\n\nView this post on Instagram\n\nA post shar
- ed by TATO san francisco (@tatosf)\n\nHat Tip: Fox Business\n\nUpcoming 
- “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday) Events\nFri 
- 10/9 “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 10/1
- 6 “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 10/23 
- “Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 10/30 “
- Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)Fri 11/6 “Pay-
- What-You-Can” Taco Day at SF’s Tato (Ever...\n\nFree\n\nTickets: https
- ://www.facebook.com/tatosf/\nDetails: https://sf.funcheap.com/pay-what-you
- -can-taco-day-at-sfs-tato-every-friday-303/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/12/124504
- 055_3773572219321626_3855622622917317646_n.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Tato\, 4608 3rd St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/pay-what-you-can-taco-day-at-sfs-tato-every-fr
- iday-303/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Halloween Night BOOs Cruise: 90-Minute Bay Cruise with Blue & G
  old Fleet (Oct. 30-31)
 DTSTART;TZID=America/Los_Angeles:20261030T183000
@@ -2457,6 +2368,45 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Ocean Ave & Mission St.\, San Francisco\, CA 94112\, USA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/from-the-e-holiday-night-market-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco SantaCon: City-Wide Santa Pub Crawl (2026)
+DTSTART;TZID=America/Los_Angeles:20261212T120000
+DTEND;TZID=America/Los_Angeles:20261212T190000
+DTSTAMP:20261107T005802Z
+UID:funcheap-2530@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Steve Rhodes via Flickr - CC BY-NC-ND 2.0“SantaCon” is San
+  Francisco’s annual city-wide Santas-only pub crawl happening on Saturda
+ y\, December 12\, 2026*.\nSantaCon Comedy Show! Funcheap is hosting our se
+ cond ever SantaCon Comedy Crawl at The Function 1414 Market St. @ Polk ope
+ ning at 6p with winter cocktail\, and a Santa + Elves comedy show at 7P + 
+ 9P! RSVP for Free tickets\n\nAll full-on Santas will get all-night happy h
+ our pricing on the holiday cocktail menu – just ask at the bar when orde
+ ring!\n\nThis flash mob-type event brings together hundreds of slightly so
+ ber people dressed in Santa costumes parading around the city\, visiting l
+ andmarks drinking at bars\, and causing general mayhem.\n\nSponsored: If y
+ ou’d prefer something a little more coordinated – with guaranteed bar 
+ access\, wristband enry\, and a clear crawl route –this ticketed SantaCo
+ n-style pub crawl in the Mission and Downtown is a great alternative!\nAnd
+  just so you know\, wearing a Santa hat isn’t enough… get yourself a f
+ ull-on Santa suit.\nSantaCon 2026\nSaturday\, December 12\, 2026 | Noon to
+  about 7pm*\n*TENTATIVE FOR 2026 – “OFFICIAL” INFO NOT YET RELEASED 
+ FOR 2026 – IT’S A SEMI-ORGANIZED\, UNOFFICIAL EVENT\nMeet at Union Squ
+ are Park\, San Francisco\nFREE – Rain or Shine – if you see people sel
+ ling tickets to SantaCon\, please note it is not affiliated with the origi
+ nal SantaCon in any way – Instead\, bring a toy to donate.\n2025 Map + S
+ chedule – Coming Soon!\n\nBring a new unwrapped toy to donate to the SF 
+ Fire Dept. Toy Drive – b...\n\nFree\n\nTickets: https://www.instagram.co
+ m/officialsantaconsf\nDetails: https://sf.funcheap.com/santacon-san-franci
+ sco/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2015/12/santac
+ on-1.jpg
+LAST-MODIFIED:20261107T005802Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/santacon-san-francisco/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga 
