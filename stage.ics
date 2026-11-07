@@ -40,41 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Labyrinth
-DTSTART;TZID=America/Los_Angeles:20261031T100000
-DTEND;TZID=America/Los_Angeles:20261031T120000
-DTSTAMP:20261101T061822Z
-UID:dothebay-17893631@sf-cal
-SEQUENCE:3
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:David Bowie and Jennifer Connelly invite you into a magical un
- iverse where nothing is what it seems! Babysitting infant stepbrother Toby
-  on a weekend night isn't young Sarah's (Connelly) idea of fun. Frustrated
-  by his crying\, she secretly imagines the Goblins from her favorite book\
- , LABYRINTH\, carrying Toby away. When her fantasy comes true\, a distraug
- ht Sarah must enter a maze of illusion to bring Toby back from a kingdom i
- nhabited by mystical creatures and governed by the wicked Goblin King (Bow
- ie).\n\nCinema SF Bay is proud to announce that our Saturday & Sunday morn
- ing POPCORN PALACE movie screenings at the 4 STAR will continue to be pres
- ented FREE OF CHARGE in 2026!\n\nThanks to an incredibly generous grant we
-  will be showing you fantastic family-friendly movies every weekend at 10:
- 00 AM! Perfect for everything from birthday get-togethers to casual stop-i
- ns\, so bring the whole family over to the 4 STAR THEATER for community mo
- vies together.\n\nReservations will be first-come-first-serve when the box
-  office opens thirty minutes before the screening on the day of the show. 
- We look forward to seeing you at the movies!\n\nDetails: https://dothebay.
- com/events/2026/10/31/labyrinth-tickets\nSource: DoTheBay\n\nAlso listed o
- n:\n- https://sf.funcheap.com/free-labyrinth-1986-screening-sfs-4-star-the
- ater/\n- https://sf.funcheap.com/david-bowies-labyrinth-free-halloween-wee
- kend-film-day-oct-31nov-1/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34665038/3513f85e-0ae0-4afb-933f-7397350004b9.jpg
-LAST-MODIFIED:20261101T061822Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/10/31/labyrinth-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Word for WordPLAY’s Spooky Fam Jam
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T130000
@@ -1336,6 +1301,38 @@ LOCATION:Verdi Club\, 2424 Mariposa Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/6/bawdy-storytelling-s-cum-again-s
  tories-of-near-misses-and-second-chances-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Free Día de los Muertos + Diwali Celebration w/ Fire Cerem
+ ony (Presido Tunnel Tops)
+DTSTART;TZID=America/Los_Angeles:20261107T100000
+DTEND;TZID=America/Los_Angeles:20261107T150000
+DTSTAMP:20261107T174631Z
+UID:funcheap-1640997@sf-cal
+SEQUENCE:0
+CATEGORIES:Theater Performance
+DESCRIPTION:Presidio TrustJoin us at the Presidio Tunnel Tops for a family
+ -friendly Día de los Muertos & Diwali event in the park. Celebrated annua
+ lly in the fall season\, these two distinct cultural observances come toge
+ ther in a national park to honor South Asian and Latinx traditions. Design
+ ed intentionally as a celebration and a learning opportunity\, attendees a
+ re invited to participate in a wide range of activities that include arts 
+ and crafts\, storytelling\, cultural dance\, song\, and a fire ceremony\, 
+ and learn about social and environmental justice issues in both cultures.\
+ nWhere is this event? The listing at Parks Conservancy says that the event
+  is at Crissy Field Center\, but please note that Presidio.gov says that t
+ here is a festival at Presidio Tunnel Tops\n\nFree\n\nTickets: https://pre
+ sidio.gov/explore/events/dia-de-los-muertos-and-diwali-festival\nDetails: 
+ https://sf.funcheap.com/sfs-free-da-de-los-muertos-diwali-celebration-fire
+ -ceremony-presido-tunnel-tops/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Dia-lo
+ s-muertos.jpg
+LAST-MODIFIED:20261107T174631Z
+LOCATION:Presidio Tunnel Tops\, 210 Lincoln Boulevard\, San Francisco\, CA
+  94129
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-free-da-de-los-muertos-diwali-celebration-
+ fire-ceremony-presido-tunnel-tops/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero

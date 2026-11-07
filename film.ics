@@ -40,6 +40,57 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Free Labyrinth (1986) Screening at SF’s 4 Star Theater
+DTSTART;TZID=America/Los_Angeles:20261031T100000
+DTEND;TZID=America/Los_Angeles:20261031T130000
+DTSTAMP:20261107T174631Z
+UID:funcheap-1642830@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Jim Henson’s Labyrinth (1986)\, starring David Bowie\, plays
+  the 4 Star Theater on Halloween weekend\, with free 10 AM screenings in t
+ he Popcorn Palace on Saturday 10/31 and Sunday 11/1. Evening shows are als
+ o scheduled.\n\nFree\n\nTickets: https://www.4-star-movies.com/calendar-of
+ -events/labyrinth-sat\nDetails: https://sf.funcheap.com/free-labyrinth-198
+ 6-screening-sfs-4-star-theater/\nSource: Funcheap SF
+LAST-MODIFIED:20261107T174631Z
+LOCATION:The 4 Star Theater\, 2200 Clement Street\, San Francisco\, CA 941
+ 21
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-labyrinth-1986-screening-sfs-4-star-theat
+ er/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Bowie’s “Labyrinth” Free Halloween Weekend Film Day (O
+ ct 31-Nov 1)
+DTSTART;TZID=America/Los_Angeles:20261031T100000
+DTEND;TZID=America/Los_Angeles:20261031T130000
+DTSTAMP:20261107T174631Z
+UID:funcheap-1643200@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:David Bowie’s “Labyrinth” Free Halloween Weekend Film Da
+ y (Oct 31-Nov 1)Jim Henson’s Labyrinth (1986)\, starring David Bowie\, p
+ lays the 4 Star Theater on Halloween weekend\, with free 10 AM screenings 
+ in the Popcorn Palace on Saturday 10/31 and Sunday 11/1. Evening shows are
+  also scheduled at regular price. More Bay Area Halloween screenings: cine
+ lover.app/halloween?ref=funcheap\n\nUpcoming David Bowie’s “Labyrinth
+ ” Free Halloween Weekend Film Day (Oct 31-Nov 1) Events\nSat 10/31 David
+  Bowie’s “Labyrinth” Free Halloween Weekend Film Day (Oct 31-Nov 1)D
+ isclaimer: Please double check event information with the event organizer 
+ as events can be canceled\, details can change after they are added to our
+  calendar\, and errors do occur.\n\nFree\n\nTickets: https://www.4-star-mo
+ vies.com/calendar-of-events/labyrinth-sat\nDetails: https://sf.funcheap.co
+ m/david-bowies-labyrinth-free-halloween-weekend-film-day-oct-31nov-1/\nSou
+ rce: Funcheap SF
+LAST-MODIFIED:20261107T174631Z
+LOCATION:The 4 Star Theater\, 2200 Clement Street\, San Francisco\, CA 941
+ 21
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/david-bowies-labyrinth-free-halloween-weekend-
+ film-day-oct-31nov-1/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:It's the Great Pumpkin\, Charlie Brown
 DTSTART;TZID=America/Los_Angeles:20261031T123000
 DTEND;TZID=America/Los_Angeles:20261031T143000
@@ -317,22 +368,19 @@ BEGIN:VEVENT
 SUMMARY:Labyrinth
 DTSTART;TZID=America/Los_Angeles:20261031T181500
 DTEND;TZID=America/Los_Angeles:20261031T201500
-DTSTAMP:20261101T061822Z
+DTSTAMP:20261107T174631Z
 UID:dothebay-17922935@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Labyrinth\, 1986 Directed by Jim Henson\n\nWHERE EVERYTHING SE
  EMS POSSIBLE AND NOTHING IS WHAT IT SEEMS.\n\nWhen teen Sarah is forced to
   babysit Toby\, her baby stepbrother\, she summons Jareth the Goblin King 
  to take him away. When he is actually kidnapped\, Sarah is given just thir
  teen hours to solve a labyrinth and rescue him.\n\nDetails: https://dotheb
- ay.com/events/2026/10/31/labyrinth-tickets-eqqymek\nSource: DoTheBay\n\nAl
- so listed on:\n- https://sf.funcheap.com/free-labyrinth-1986-screening-sfs
- -4-star-theater/\n- https://sf.funcheap.com/david-bowies-labyrinth-free-ha
- lloween-weekend-film-day-oct-31nov-1/
+ ay.com/events/2026/10/31/labyrinth-tickets-eqqymek\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34799233/a1f9f344-a985-4d32-8f7b-746c4bc64951.jpg
-LAST-MODIFIED:20261101T061822Z
+LAST-MODIFIED:20261107T174631Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
