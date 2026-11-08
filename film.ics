@@ -40,6 +40,37 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:David Bowie’s “Labyrinth” Free Halloween Weekend Film Day (O
+ ct 31-Nov 1)
+DTSTART;TZID=America/Los_Angeles:20261101T100000
+DTEND;TZID=America/Los_Angeles:20261101T130000
+DTSTAMP:20261108T194419Z
+UID:funcheap-1644325@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:David Bowie’s “Labyrinth” Free Halloween Weekend Film Da
+ y (Oct 31-Nov 1)Jim Henson’s Labyrinth (1986)\, starring David Bowie\, p
+ lays the 4 Star Theater on Halloween weekend\, with free 10 AM screenings 
+ in the Popcorn Palace on Saturday 10/31 and Sunday 11/1. Evening shows are
+  also scheduled at regular price. More Bay Area Halloween screenings: cine
+ lover.app/halloween?ref=funcheap\n\nUpcoming David Bowie’s “Labyrinth
+ ” Free Halloween Weekend Film Day (Oct 31-Nov 1) Events\nSat 10/31 David
+  Bowie’s “Labyrinth” Free Halloween Weekend Film Day (Oct 31-Nov 1)S
+ un 11/1 David Bowie’s “Labyrinth” Free Halloween Weekend Film Day (O
+ ct 31-Nov 1)Disclaimer: Please double check event information with the eve
+ nt organizer as events can be canceled\, details can change after they are
+  added to our calendar\, and errors do occur.\n\nFree\n\nTickets: https://
+ www.4-star-movies.com/calendar-of-events/labyrinth-sat\nDetails: https://s
+ f.funcheap.com/david-bowies-labyrinth-free-halloween-weekend-film-day-oct-
+ 31-nov-1/\nSource: Funcheap SF
+LAST-MODIFIED:20261108T194419Z
+LOCATION:The 4 Star Theater\, 2200 Clement Street\, San Francisco\, CA 941
+ 21
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/david-bowies-labyrinth-free-halloween-weekend-
+ film-day-oct-31-nov-1/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Godzilla Mystery Movie Marathon
 DTSTART;TZID=America/Los_Angeles:20261101T120000
 DTEND;TZID=America/Los_Angeles:20261101T140000
@@ -188,21 +219,19 @@ BEGIN:VEVENT
 SUMMARY:Labyrinth
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T210000
-DTSTAMP:20261102T061947Z
+DTSTAMP:20261108T194419Z
 UID:dothebay-17883595@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Film
 DESCRIPTION:Labyrinth\, 1986 Directed by Jim Henson\n\nWHERE EVERYTHING SE
  EMS POSSIBLE AND NOTHING IS WHAT IT SEEMS.\n\nWhen teen Sarah is forced to
   babysit Toby\, her baby stepbrother\, she summons Jareth the Goblin King 
  to take him away. When he is actually kidnapped\, Sarah is given just thir
  teen hours to solve a labyrinth and rescue him.\n\nDetails: https://dotheb
- ay.com/events/2026/11/1/labyrinth-tickets\nSource: DoTheBay\n\nAlso listed
-  on:\n- https://sf.funcheap.com/david-bowies-labyrinth-free-halloween-week
- end-film-day-oct-31-nov-1/
+ ay.com/events/2026/11/1/labyrinth-tickets\nSource: DoTheBay
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34618190/e97e8ceb-d734-4a5a-8a5a-8c58e3097770.jpg
-LAST-MODIFIED:20261102T061947Z
+LAST-MODIFIED:20261108T194419Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
@@ -4761,5 +4790,39 @@ LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\,
  94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/1/megalopolis-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sleepaway Camp: The Midnight Mass Experience
+DTSTART;TZID=America/Los_Angeles:20270107T183000
+DTEND;TZID=America/Los_Angeles:20270107T203000
+DTSTAMP:20261108T194419Z
+UID:dothebay-17937745@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment Presents:\nSleepaway Camp: The Mi
+ dnight Mass Experience\nHosted by Peaches Christ & Michael Varrati with sp
+ ecial guest Felissa Rose\n\nThursday\, January 7 | The Castro\n\nJoin cult
+  filmmaker and drag icon Peaches Christ\, Sleepaway Camp star Felissa Rose
+ \, and filmmaker and podcaster Michael Varrati for an unforgettable evenin
+ g celebrating one of the most gloriously shocking horror films of all time
+ ! The event begins with a live pre-show featuring performances\, conversat
+ ion\, behind-the-scenes stories\, audience participation\, and a 1980s Cam
+ p Costume Contest\, followed by a screening of Sleepaway Camp. A limited V
+ IP Meet & Greet experience will also be available.\n\nThis event is Rated 
+ R.**\n\n**This film is rated R. Children under age 17 require an accompany
+ ing parent or guardian (age 21 or older) to attend R rated screenings. 25 
+ years and under may be asked to show ID for R rated screenings.\n\n$27.75 
+ - $80\, All Ages\nAnother Planet Entertainment Presents:\nListed time is d
+ oors\n\nTickets: https://thecastro.com/events/sleepaway-camp-270107\nDetai
+ ls: https://dothebay.com/events/2027/1/7/sleepaway-camp-the-midnight-mass-
+ experience-tickets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34873607/36d2d502-4b9f-414b-b3c2-ff8ff36f39b4.jpg
+LAST-MODIFIED:20261108T194419Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/7/sleepaway-camp-the-midnight-mass-
+ experience-tickets
 END:VEVENT
 END:VCALENDAR

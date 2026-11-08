@@ -4125,6 +4125,29 @@ URL:https://dothebay.com/events/2027/1/6/golden-state-warriors-vs-new-york
  -knicks-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Detroit Pistons
+DTSTART;TZID=America/Los_Angeles:20270107T190000
+DTEND;TZID=America/Los_Angeles:20270107T210000
+DTSTAMP:20261108T194419Z
+UID:dothebay-17728007@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Detroit Pistons\n\nTickets: https://
+ ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%
+ 2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-detroit-pistons-san-fran
+ cisco-california-01-07-2027%2Fevent%2F1C00650AB2F3D65C\nDetails: https://d
+ othebay.com/events/2027/1/7/golden-state-warriors-vs-detroit-pistons-ticke
+ ts\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883550/a21bf807-e9a6-4269-a67f-de3c8aa8029b.png
+LAST-MODIFIED:20261108T194419Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/7/golden-state-warriors-vs-detroit-
+ pistons-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Botanical Garden’s Free Day (2nd Tuesdays)
 DTSTART;TZID=America/Los_Angeles:20270112T073000
 DTEND;TZID=America/Los_Angeles:20270112T180000

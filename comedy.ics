@@ -40,74 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Halloween Vampire Tour of San Francisco
-DTSTART;TZID=America/Los_Angeles:20261031T200000
-DTEND;TZID=America/Los_Angeles:20261101T093000
-DTSTAMP:20261025T205626Z
-UID:funcheap-1637204@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Submitted by the Event OrganizerNick NasarowThe Vampire Tour o
- f San Francisco is a walking tour of the famous Nob Hill neighborhood. You
- r Host\, Mina Harker\, will take you to 6 thrilling stops: Grace Cathedral
- \, the Nob Hill Cafe\, Huntington Park\, the Pacific-Union Club\, the Fair
- mont Hotel\, and the Mark Hopkins Hotel. She will tell you the history of 
- each of the stops and how vampires played a role in that history. The scri
- pt is about 85% true history with fun vampire lore and humor mixed in. It 
- is not dark or gory and is suitable for all ages. It is a very easy walk w
- ith no hills involved\, so it is wheelchair friendly. There will be a cost
- ume contest\, so look your worst!\n\n$30.00\n\nTickets: https://www.facebo
- ok.com/vampiretourofsanfrancisco/\nDetails: https://sf.funcheap.com/hallow
- een-vampire-tour-san-francisco-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/Andrea
- -and-Dante.jpg
-LAST-MODIFIED:20261025T205626Z
-LOCATION:Nob Hill Neighbor\, 1100 California Street\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/halloween-vampire-tour-san-francisco-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers
-DTSTART;TZID=America/Los_Angeles:20261101T094500
-DTEND;TZID=America/Los_Angeles:20261101T110000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1639306@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF
- )\nPhuong Le\nLower Nob Hill Weekly Cleanup\nSundays\, 9:45 AM to 11:00 AM
- \nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker\, meet the pe
- ople on your block\, and leave the sidewalks cleaner than you found them. 
- We provide all the supplies: grabbers\, bags\, gloves\, and vests. Just we
- ar comfortable shoes and show up.\nWhat volunteers get:\n\nA free sandwich
- \, salad\, or drink and pastry from Another Cafe\, ready when the cleanup 
- ends\nA chance at free tickets to that evening’s 7:45 PM stand-up comedy
-  show at Cheaper Than Therapy (533 Sutter St)\, a neighborhood comedy club
-  around the corner from Union Square. Seats are limited each week and go t
- o volunteers who claim them at check-in.\n\nEveryone is welcome\, includin
- g first-timers\, families\, and drop-ins. Check in with a QR code when you
-  arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by neighborho
- od volunteers in partnership with Civic Joy Fund and SF Public Works.\n\nU
- pcoming Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF) Ev
- ents\nSun 10/11 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers
-  (SF)Sun 10/18 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers 
- (SF)Sun 10/25 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (
- SF)Sun 11/1 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF
- )Disclaimer: Please double check event information with the event organize
- r as events can be canceled\, details can change after they are...\n\nFree
- \n\nTickets: https://www.instagram.com/lowernobhillcleanup\nDetails: https
- ://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-voluntee
- rs-sf-5/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_27
- 662.jpg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
-  on Leavenworth St. side)\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for
- -volunteers-sf-5/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T210000
@@ -8408,6 +8340,28 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/6/tom-rhodes-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tom Rhodes
+DTSTART;TZID=America/Los_Angeles:20270107T200000
+DTEND;TZID=America/Los_Angeles:20270107T220000
+DTSTAMP:20261108T194419Z
+UID:dothebay-17861701@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Tom Rhodes\nThursday\, January 7 | ​Punch Line San Francisco
+ \n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sha
+ redId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Ftom-rhodes-san-franci
+ sco-california-01-07-2027%2Fevent%2F1C00652DAB6E989E\nDetails: https://dot
+ hebay.com/events/2027/1/7/tom-rhodes-tickets\nSource: DoTheBay
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34516589/42c5488b-9b20-498b-a6c8-a9a985e3d242.png
+LAST-MODIFIED:20261108T194419Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/7/tom-rhodes-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Tuesdays Free Comedy Showcase & Happy Hour | The Layover
