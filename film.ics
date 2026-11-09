@@ -40,28 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Labyrinth
-DTSTART;TZID=America/Los_Angeles:20261101T190000
-DTEND;TZID=America/Los_Angeles:20261101T210000
-DTSTAMP:20261108T194419Z
-UID:dothebay-17883595@sf-cal
-SEQUENCE:3
-CATEGORIES:Film
-DESCRIPTION:Labyrinth\, 1986 Directed by Jim Henson\n\nWHERE EVERYTHING SE
- EMS POSSIBLE AND NOTHING IS WHAT IT SEEMS.\n\nWhen teen Sarah is forced to
-  babysit Toby\, her baby stepbrother\, she summons Jareth the Goblin King 
- to take him away. When he is actually kidnapped\, Sarah is given just thir
- teen hours to solve a labyrinth and rescue him.\n\nDetails: https://dotheb
- ay.com/events/2026/11/1/labyrinth-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34618190/e97e8ceb-d734-4a5a-8a5a-8c58e3097770.jpg
-LAST-MODIFIED:20261108T194419Z
-LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
-  Francisco\, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/1/labyrinth-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Kid\, in 35mm
 DTSTART;TZID=America/Los_Angeles:20261102T173000
 DTEND;TZID=America/Los_Angeles:20261102T193000
@@ -1119,9 +1097,9 @@ SUMMARY:Studio 8 Film Festival 2026: Legacy Award for Babeth Mondini VanLo
  o
 DTSTART;TZID=America/Los_Angeles:20261108T123000
 DTEND;TZID=America/Los_Angeles:20261108T143000
-DTSTAMP:20261024T160225Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17989040@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:The finale of the Studio 8 Film Festival. The 2026 Legacy Awar
  d honors Dutch filmmaker Babeth Mondini VanLoo (SFAI\, 1977)\, a student o
@@ -1134,14 +1112,13 @@ DESCRIPTION:The finale of the Studio 8 Film Festival. The 2026 Legacy Awar
  aker. Part of Studio 8 Film Festival\, Nov 6 to 8: Juror Night (Fri\, 7:30
   PM) and Juried Show: Personal Visions (Sat\, 2 PM) at the 4-Star Theater.
   Weekend Pass $30.\n\n$15 ($30 supporter ticket)\, all ages\nSF Artists Al
- umni presents:\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2F
- www.eventbrite.com%2Fe%2F1999811959404%3Faff%3Doddtdtcreator\nDetails: htt
- ps://dothebay.com/events/2026/11/8/studio-8-film-festival-2026-legacy-awar
- d-for-babeth-mondini-vanloo-tickets\nSource: DoTheBay
+ umni presents:\n\nDetails: https://dothebay.com/events/2026/11/8/studio-8-
+ film-festival-2026-legacy-award-for-babeth-mondini-vanloo-tickets\nSource:
+  DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35108869/bc913be8-fe4e-444c-94ce-ebfcc85c60fa.jpg
-LAST-MODIFIED:20261024T160225Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/studio-8-film-festival-2026-lega
@@ -1151,9 +1128,9 @@ BEGIN:VEVENT
 SUMMARY:Everything For Sale
 DTSTART;TZID=America/Los_Angeles:20261108T151000
 DTEND;TZID=America/Los_Angeles:20261108T171000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17923119@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:The lead protagonist of a film disappears mid production\, and
   his family and crew search for him before tragic news reaches them. Wajda
@@ -1171,14 +1148,12 @@ DESCRIPTION:The lead protagonist of a film disappears mid production\, and
  lish Film Institute.\n\nRuntime\n\n1h 45m\n\nYear\n\n1969\n\nDirector\n\nA
  ndrzej Wajda\n\nFormat\n\nDCP\n\nCountry\n\nPoland\n\nLanguage\n\nPolish w
  ith English subtitles\n\nFirst Showing\n\nNovember 8\, 2026\n\nCategories\
- n\nWajda at 100\n\n\,\n\nFeatured\n\nTickets: https://ticketing.uswest.vee
- zi.com/purchase/22249?siteToken=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https
- ://dothebay.com/events/2026/11/8/everything-for-sale-tickets\nSource: DoTh
- eBay
+ n\nWajda at 100\n\n\,\n\nFeatured\n\nDetails: https://dothebay.com/events/
+ 2026/11/8/everything-for-sale-tickets\nSource: DoTheBay
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34800069/37dbd920-7a50-4848-8c96-344e86732751.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/everything-for-sale-tickets
@@ -1187,9 +1162,9 @@ BEGIN:VEVENT
 SUMMARY:The Magnificent Ambersons
 DTSTART;TZID=America/Los_Angeles:20261108T153000
 DTEND;TZID=America/Los_Angeles:20261108T173000
-DTSTAMP:20261023T171442Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17979571@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:The young\, handsome\, but somewhat wild Eugene Morgan wants t
  o marry Isabel Amberson\, daughter of a rich upper-class family\, but she 
@@ -1200,13 +1175,12 @@ DESCRIPTION:The young\, handsome\, but somewhat wild Eugene Morgan wants t
  attentions paid to his mother\, and he and his whacko aunt Fanny manage to
   sabotage the romance. A series of disasters befall the Ambersons and Geor
  ge\, and he gets his come-uppance in the end.\n\n4k DCP courtesy of Warner
-  Bros.\n\nTickets: https://drafthouse.com/sf/show/the-magnificent-amberson
- s?cinemaId=0802&sessionId=22946\nDetails: https://dothebay.com/events/2026
- /11/8/the-magnificent-ambersons-tickets\nSource: DoTheBay
+  Bros.\n\nDetails: https://dothebay.com/events/2026/11/8/the-magnificent-a
+ mbersons-tickets\nSource: DoTheBay
 GEO:37.7562198;-122.419185
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35067917/5780dac1-afc3-4cb6-8798-eb75929581ee.jpg
-LAST-MODIFIED:20261023T171442Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
  94110
 TRANSP:TRANSPARENT
@@ -1217,9 +1191,9 @@ BEGIN:VEVENT
 SUMMARY:Hold on to Your Music: A Mother's Legacy
 DTSTART;TZID=America/Los_Angeles:20261108T170000
 DTEND;TZID=America/Los_Angeles:20261108T190000
-DTSTAMP:20261015T212936Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17956737@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Join us for the San Francisco premiere of Hold On To Your Musi
  c: A Mother's Legacy\, including a live performance by internationally acc
@@ -1237,13 +1211,12 @@ DESCRIPTION:Join us for the San Francisco premiere of Hold On To Your Musi
   worldwide.\n\nFollowing the screening and live performance\, Golabek join
  s director Josh Aronson and producer Susan Solomon Libitzky in conversatio
  n with executive producer\, Dr. Anita Friedman.\n\n$30.\n\nPresented by JC
- C SF\n\n$30.\nJCC SF\n\nTickets: https://www.jccsf.org/event/hold-on-to-yo
- ur-music-a-mothers-legacy/\nDetails: https://dothebay.com/events/2026/11/8
- /hold-on-to-your-music-a-mother-s-legacy-tickets\nSource: DoTheBay
+ C SF\n\n$30.\nJCC SF\n\nDetails: https://dothebay.com/events/2026/11/8/hol
+ d-on-to-your-music-a-mother-s-legacy-tickets\nSource: DoTheBay
 GEO:37.787374;-122.4473551
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34962749/d3229d73-be80-448c-ae4d-f9ed0e5d0864.jpg
-LAST-MODIFIED:20261015T212936Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Jewish Community Center of San Francisco\, 3200 California Street
  \, San Francisco\, CA\, 94118
 TRANSP:TRANSPARENT
@@ -1254,9 +1227,9 @@ BEGIN:VEVENT
 SUMMARY:Edward Said: Between Worlds (Bay Area Premiere)
 DTSTART;TZID=America/Los_Angeles:20261108T174500
 DTEND;TZID=America/Los_Angeles:20261108T194500
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17998256@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:As part of the 30th Arab Film Festival\, join us for the Bay A
  rea Premiere of Edward Said: Between Worlds\, an archival documentary exam
@@ -1278,14 +1251,13 @@ DESCRIPTION:As part of the 30th Arab Film Festival\, join us for the Bay A
   film\, industry and community panels\, filmmaker Q&As and more. Select pr
  ograms will also be simultaneously presented online.\n\nFor more details\,
   visit arabfilmfestival.org\n\nhttps://aff30.arabfilmfestival.org/events#c
- enterpiece\nThe Arab Film Festival presents:\n\nTickets: https://aff30.ara
- bfilmfestival.org/events#centerpiece\nDetails: https://dothebay.com/events
- /2026/11/8/edward-said-between-worlds-bay-area-premiere-tickets\nSource: D
- oTheBay
+ enterpiece\nThe Arab Film Festival presents:\n\nDetails: https://dothebay.
+ com/events/2026/11/8/edward-said-between-worlds-bay-area-premiere-tickets\
+ nSource: DoTheBay
 GEO:37.761992;-122.434743
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35145471/4ae16428-513a-4b67-b2f2-1cb9c47ded40.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:The Castro Theatre\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/edward-said-between-worlds-bay-a
@@ -1295,19 +1267,18 @@ BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Society of Rockets\, Amores Vigilantes
 DTSTART;TZID=America/Los_Angeles:20261108T200000
 DTEND;TZID=America/Los_Angeles:20261108T220000
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17953429@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:LIVE MUSIC:\n\nSociety of Rockets\n\nAmores Vigilantes\n\nKitt
  en on the Keys\n\n7:00 PM Doors\n\n8:00 PM Music\n\n$15 ADV / $18 DOOR\n\n
- Tickets: https://ticketing.uswest.veezi.com/purchase/20202?siteToken=d2atb
- cege5knqsavntt91g1250\nDetails: https://dothebay.com/events/2026/11/8/live
- -music-society-of-rockets-amores-vigilantes-tickets\nSource: DoTheBay
+ Details: https://dothebay.com/events/2026/11/8/live-music-society-of-rocke
+ ts-amores-vigilantes-tickets\nSource: DoTheBay
 GEO:37.782364;-122.482951
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34945801/ef41b378-165b-45d5-ba1a-b69825d5e095.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
   Francisco\, CA\, 94117
 TRANSP:TRANSPARENT
@@ -1421,6 +1392,28 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:The Knockout\, 3223 Mission St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-148/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio 26: Fantom Classroom of the Art Institute
+DTSTART;TZID=America/Los_Angeles:20261109T190000
+DTEND;TZID=America/Los_Angeles:20261109T210000
+DTSTAMP:20261109T114430Z
+UID:dothebay-18060155@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:A free seminar\, investigating the 16mm experimental films in 
+ the collection of the SFAI Legacy Foundation and Archives.\n\nFree\n\nDeta
+ ils: https://dothebay.com/events/2026/11/9/studio-26-fantom-classroom-of-t
+ he-art-institute-tickets\nSource: DoTheBay
+GEO:37.7570372;-122.4215521
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35402483/46bfbfc2-43af-4cbb-99a2-bf35173da220.jpg
+LAST-MODIFIED:20261109T114430Z
+LOCATION:Artists' Television Access\, 992 Valencia St.\, San Francisco\, C
+ A\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/9/studio-26-fantom-classroom-of-th
+ e-art-institute-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjord
@@ -1546,6 +1539,42 @@ LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/10/claudio-simonettis-goblin-perfo
  rms-the-live-score-to-tenebre-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Extra)Ordinary Rendition(s)
+DTSTART;TZID=America/Los_Angeles:20261110T191000
+DTEND;TZID=America/Los_Angeles:20261110T211000
+DTSTAMP:20261109T114430Z
+UID:dothebay-18060156@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:The Arab Film and Media Institute (AFMI) presents (Extra)Ordin
+ ary Rendition(s)\, a multi-part program of video art created in response t
+ o and in reflection of repression of Arab and Latinx communities\, particu
+ larly by American imperialism. Based in the Mission District\, AFMI encour
+ ages its Latinx neighbors to join our audience and dialogue with us.\n\nCu
+ rated & Organized by\nCaterina Saddi\nNational Fellow at Arab Film & Media
+  Institute\n\nProgram\n\nTeach Me (1996) 5’59”\nAkram Zaatari (b. 1966
+ \, Lebanon)\n\nLucía Méndez and the Peace in Lebanon\, (2015—2018) 13
+ ’18”\nOmar Mismar (b. 1986\, Lebanon)\n\nرغبات / Deseos (2015) 32
+ ’29”\nCarlos Motta (b. 1978\, Colombia)\n\nTravelling Laundry Line (20
+ 24) 14’12”\nGhida Anouti (Lebanon)\, Juan Manuel Chávez (Mexico)\, an
+ d Hajar Alrifai (Syria/US)\n\nJourney Inside a City (2022) 11’33”\nSar
+ ah Munafs (b. 1986\, Iraq)\n\nAnthem (2022) 10’14”\nRijin Sahakian (b.
+  1978\, Iraq)\n\nMondial\, 2010 (2013) 19’16”\nRoy Dib (1983\, Lebanon
+ )\nEmilia Estrada (1989\, Argentina/Palestine)\n\nAs Close As I get (2021)
+  7’48”\nFrancisca Khamis Giacoman (b. 1988\, Palestine/Chile)\n\nDetai
+ ls: https://dothebay.com/events/2026/11/10/extra-ordinary-rendition-s-tick
+ ets\nSource: DoTheBay
+GEO:37.7570372;-122.4215521
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35402533/a928da8b-9bf8-4d48-8b29-8ba0dd2d2787.jpg
+LAST-MODIFIED:20261109T114430Z
+LOCATION:Artists' Television Access\, 992 Valencia St.\, San Francisco\, C
+ A\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/10/extra-ordinary-rendition-s-tick
+ ets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Henry: Portrait of a Serial Killer
@@ -1939,9 +1968,9 @@ BEGIN:VEVENT
 SUMMARY:Sftff 2026 – Speculative Fiction
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261024T160225Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17988725@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:The 2026 San Francisco Transgender Film Festival continues wit
  h SPECULATIVE FICTION\, a shorts block featuring six out of this world fil
@@ -1966,11 +1995,14 @@ DESCRIPTION:The 2026 San Francisco Transgender Film Festival continues wit
  to our present and meet the man she can barely remember… and try to find
   out...\n\nTickets: https://sftff2026.eventive.org/schedule/tickets/6a760f
  b1dc6a19eb0d654d7b\nDetails: https://dothebay.com/events/2026/11/14/sftff-
- 2026-speculative-fiction-tickets\nSource: DoTheBay
+ 2026-speculative-fiction-tickets\nSource: DoTheBay\n\nAlso listed on:\n- h
+ ttps://dancersgroup.org/calendar/29th-anniversary-san-francisco-transgende
+ r-film-festival/2026-11-14/1/?utm_source=caldiscovery&utm_medium=ics&utm_c
+ ampaign=san-francisco-ca
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35107385/fbf84e23-8298-430a-ae9a-62edb2e32aa1.jpg
-LAST-MODIFIED:20261024T160225Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/sftff-2026-speculative-fiction-
@@ -2517,6 +2549,37 @@ LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/basement-presents-it-on-vhs-wit
  h-director-q-a-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome to Fear City
+DTSTART;TZID=America/Los_Angeles:20261121T200000
+DTEND;TZID=America/Los_Angeles:20261121T220000
+DTSTAMP:20261109T114430Z
+UID:dothebay-18060157@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Welcome to Fear City: NYPD Surveillance Films from The Bureau 
+ of Special Services\n\nThe NYPD Bureau of Special Services conducted cover
+ t surveillance on political and social activists from 1960 to 1980\, captu
+ ring on film activities of the Civil Rights Movement\, Vietnam War protest
+ ors\, Cold War activists and many more developments of this politically tu
+ multuous period. Now\, all 1\,450 films have been digitized and made publi
+ cly available by the NYC Department of Records.\n\nThis special screening 
+ features a small selection of these revealing films hosted by the former f
+ ilm archivist from the NYC Department of Records who digitized and preserv
+ ed these films. Join us for an open discussion and screening of the conten
+ ts of these silent films where the audience is encouraged to pose their qu
+ estions to the archivist who worked directly with these historic records.\
+ n\nDetails: https://dothebay.com/events/2026/11/21/welcome-to-fear-city-ti
+ ckets\nSource: DoTheBay
+GEO:37.7570372;-122.4215521
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35402538/8e28d59d-e8fc-4282-9c87-5f8c5567439e.jpg
+LAST-MODIFIED:20261109T114430Z
+LOCATION:Artists' Television Access\, 992 Valencia St.\, San Francisco\, C
+ A\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/21/welcome-to-fear-city-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New People: A Deeper Love: The Story of Miss Peppermint

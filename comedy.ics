@@ -40,48 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:S. F. Comedy Showcase
-DTSTART;TZID=America/Los_Angeles:20261101T190000
-DTEND;TZID=America/Los_Angeles:20261101T210000
-DTSTAMP:20261102T193355Z
-UID:dothebay-17581245@sf-cal
-SEQUENCE:3
-CATEGORIES:Comedy
-DESCRIPTION:S. F. Comedy Showcase\nSunday\, November 1 | ​Punch Line San
-  Francisco\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/1/s-f-co
- medy-showcase-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33196068/69040e2a-4eb1-4e9c-9e48-d7416039623b.png
-LAST-MODIFIED:20261102T193355Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/1/s-f-comedy-showcase-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cobb's Comedy Showcase
-DTSTART;TZID=America/Los_Angeles:20261101T190000
-DTEND;TZID=America/Los_Angeles:20261101T210000
-DTSTAMP:20261102T193355Z
-UID:dothebay-17752166@sf-cal
-SEQUENCE:5
-CATEGORIES:Comedy
-DESCRIPTION:Cobb's Comedy Showcase\nSunday\, November 1 | ​​Cobb's Com
- edy Club\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/1/cobb-s-c
- omedy-showcase-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.
- funcheap.com/secret-guest-list-cobbs-free-comedy-nights-cobbs-comedy-showc
- ase-4/
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33998798/b91fc591-1112-4cfb-ae7f-0a198185ceed.png
-LAST-MODIFIED:20261102T193355Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/1/cobb-s-comedy-showcase-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
 DTSTART;TZID=America/Los_Angeles:20261102T200000
 DTEND;TZID=America/Los_Angeles:20261102T230000
@@ -983,87 +941,22 @@ URL:https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for
  -volunteers-sf-6/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Santi Espinosa - ME Time (English/Spanish Show)
-DTSTART;TZID=America/Los_Angeles:20261108T153000
-DTEND;TZID=America/Los_Angeles:20261108T173000
-DTSTAMP:20261018T111813Z
-UID:caldiscovery-comedy-8cef46583532ca6d@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy
-DESCRIPTION:Published by Punch Line Comedy Club\nContains information from
-  CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticket
- master.com/santi-espinosa-me-time-englishspanish-show-san-francisco-califo
- rnia-11-08-2026/event/1C00650BAE9AE60A?utm_source=caldiscovery&utm_medium=
- ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261018T111813Z
-LOCATION:Punch Line Comedy Club - San Francisco\, 444 Battery Street\, San
-  Francisco\, CA\, 94111
-TRANSP:TRANSPARENT
-URL:https://www.ticketmaster.com/santi-espinosa-me-time-englishspanish-sho
- w-san-francisco-california-11-08-2026/event/1C00650BAE9AE60A?utm_source=ca
- ldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
-DTSTART;TZID=America/Los_Angeles:20261108T160000
-DTEND;TZID=America/Los_Angeles:20261108T180000
-DTSTAMP:20261108T061419Z
-UID:caldiscovery-comedy-cf0e3f636f36d76a@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,theater
-DESCRIPTION:⭐ The hit burlesque parody The Empire Strips Back: A Burlesq
- ue Parody is making its way to San Francisco! This audience fave drops cla
- ssic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟
- ️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark
-  Side is calling you back! Returning fans can now enjoy an exclusive disco
- unt on their next visit to this hit burlesque parody. Use code STRIPBACKAG
- AIN at checkout to get 30% off your next booking.\nTickets for The Empire 
- Strips Back in San Francisco\n🎫 General Admission – includes entry to
-  the experience\n🎫 Rebel Package – includes express entry to the expe
- rience + a t-shirt (depending on size availability\, another merch item li
- ke panties\, lightsaber\, poster\, or calendar could be offered in exchang
- e for the shirt)\n👉 For large groups (8+ people)\, reserve your tickets
-  here\n🪑 Seats are assigned upon arrival at the venue on a first-come\,
-  first-served basis in the selected zone (Zone A\, Zone B\, Zone C\, Emper
- or’s Zone\, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy 
- far\, far away\, to a world of burlesque fantasy\n🌌 Hilarious parody\, 
- menacing and risqué dance\, and even the droids you’re looking for\n✨
-  Your favourite characters are scantily clad\, seriously sultry\, and live
-  on stage\n⭐ Previously sold-out in London\, Seattle\, Chicago\, New Yor
- k\, Montreal\, LA\, San Francisco\, and more\nGeneral Info\n📅 Dates: ch
- oose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n
- – Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...\n\nPublished 
- by Mission Local\nContains information from CalDiscovery (caldiscovery.com
- )\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/victoria-theatre-t
- he-empire-strips-back-a-burlesque-parody/2026-11-08/?utm_source=caldiscove
- ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261108T061419Z
-LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA\, 94103\, Un
- ited States
-TRANSP:TRANSPARENT
-URL:https://missionlocal.org/event/victoria-theatre-the-empire-strips-back
- -a-burlesque-parody/2026-11-08/?utm_source=caldiscovery&utm_medium=ics&utm
- _campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Murray Hill
 DTSTART;TZID=America/Los_Angeles:20261108T180000
 DTEND;TZID=America/Los_Angeles:20261108T200000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17352624@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Another Planet Entertainment Presents\nShowbiz! The Tour\nMurr
  ay Hill\nSunday\, November 8 | ​Bimbo's 365 Club\n\n$46.36\, 21+\nAnothe
  r Planet Entertainment Presents: Showbiz! The Tour\nListed time is doors\n
- \nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoS
- tuff&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fmurray-hill-bimbos-365-cl
- ub-tickets%2F14911943\nDetails: https://dothebay.com/events/2026/11/8/murr
- ay-hill-tickets\nSource: DoTheBay
+ \nDetails: https://dothebay.com/events/2026/11/8/murray-hill-tickets\nSour
+ ce: DoTheBay
 GEO:37.8036989;-122.4156675
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32094610/046e88ea-5b5c-4ee6-ba48-a9fce8f69217.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA\, 94133
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/murray-hill-tickets
@@ -1072,83 +965,37 @@ BEGIN:VEVENT
 SUMMARY:Geoffrey Asmus
 DTSTART;TZID=America/Los_Angeles:20261108T180000
 DTEND;TZID=America/Los_Angeles:20261108T200000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17823203@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:Geoffrey Asmus\nSunday\, November 8 | ​Cobb's Comedy Club\n\
- n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Shared
- Id=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fgeoffrey-asmus-san-franc
- isco-california-11-08-2026%2Fevent%2F1C0065281BE82B51\nDetails: https://do
- thebay.com/events/2026/11/8/geoffrey-asmus-tickets\nSource: DoTheBay
+ n18+\n\nDetails: https://dothebay.com/events/2026/11/8/geoffrey-asmus-tick
+ ets\nSource: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34332459/f97d6beb-ec86-434c-9a33-52cda609786e.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/geoffrey-asmus-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
-DTSTART;TZID=America/Los_Angeles:20261108T183000
-DTEND;TZID=America/Los_Angeles:20261108T200000
-DTSTAMP:20261008T185326Z
-UID:caldiscovery-comedy-66fe3335db7b2dcc@sf-cal
-SEQUENCE:2
-CATEGORIES:comedy,theater
-DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
- Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
- l Admission: USD 55.00Link: https://go.evvnt.com/3848469-2?pid=12352At the
-  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
- experience... a carefully engineered collision of impossible mentalism\, l
- augh-out-loud comedy\, and illusions that punch through the wall of your r
- eality.What You'll DoStep off the streets of SF and into our historic Moro
- ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
- appetizers\, and live close-up magic.Then enter our jewel-box theater for 
- Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
- n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
- exander... the performer who's astonished Bono\, made John Cleese grin lik
- e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
- - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
- Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
- memorable date night\, impressing visitors\, or an elevated/unique evening
-  out with friends or family.This is not just entertainment. This is the re
- surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
- oroccan flair.Find out why this is the highest-rated show in the city and 
- leave with a story to tell.Pick your date and reserve your seats today!***
- **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
- ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
- ails: https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm
- _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261008T185326Z
-LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech 41
- 9 O'Farrell Street San Francisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://go.evvnt.com/3848469-2?pid=12352&utm_source=caldiscovery&utm_m
- edium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261102T193355Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17612354@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:S. F. Comedy Showcase\nSunday\, November 8 | ​Punch Line San
-  Francisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/26416
- 7/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fs-f-comedy-
- showcase-san-francisco-california-11-08-2026%2Fevent%2F1C0064ED035CFB58\nD
- etails: https://dothebay.com/events/2026/11/8/s-f-comedy-showcase-tickets\
- nSource: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/s-f-c
- omedy-showcase-san-francisco-california-11-08-2026/event/1C0064ED035CFB58?
- utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+  Francisco\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/8/s-f-co
+ medy-showcase-tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33336867/3cd72d67-f96d-4caa-9c9a-a87747b9cc5b.png
-LAST-MODIFIED:20261102T193355Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1282,6 +1129,48 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/the-laugh-boat-local-brews-free-comedy-sf-111/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
+DTSTART;TZID=America/Los_Angeles:20261111T193000
+DTEND;TZID=America/Los_Angeles:20261111T213000
+DTSTAMP:20261109T114430Z
+UID:caldiscovery-comedy-6f9e14b7e3ce3bd8@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,theater
+DESCRIPTION:⭐ The hit burlesque parody The Empire Strips Back: A Burlesq
+ ue Parody is making its way to San Francisco! This audience fave drops cla
+ ssic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟
+ ️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark
+  Side is calling you back! Returning fans can now enjoy an exclusive disco
+ unt on their next visit to this hit burlesque parody. Use code STRIPBACKAG
+ AIN at checkout to get 30% off your next booking.\nTickets for The Empire 
+ Strips Back in San Francisco\n🎫 General Admission – includes entry to
+  the experience\n🎫 Rebel Package – includes express entry to the expe
+ rience + a t-shirt (depending on size availability\, another merch item li
+ ke panties\, lightsaber\, poster\, or calendar could be offered in exchang
+ e for the shirt)\n👉 For large groups (8+ people)\, reserve your tickets
+  here\n🪑 Seats are assigned upon arrival at the venue on a first-come\,
+  first-served basis in the selected zone (Zone A\, Zone B\, Zone C\, Emper
+ or’s Zone\, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy 
+ far\, far away\, to a world of burlesque fantasy\n🌌 Hilarious parody\, 
+ menacing and risqué dance\, and even the droids you’re looking for\n✨
+  Your favourite characters are scantily clad\, seriously sultry\, and live
+  on stage\n⭐ Previously sold-out in London\, Seattle\, Chicago\, New Yor
+ k\, Montreal\, LA\, San Francisco\, and more\nGeneral Info\n📅 Dates: ch
+ oose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n
+ – Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...\n\nPublished 
+ by Mission Local\nContains information from CalDiscovery (caldiscovery.com
+ )\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/victoria-theatre-t
+ he-empire-strips-back-a-burlesque-parody/2026-11-11/?utm_source=caldiscove
+ ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261109T114430Z
+LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA\, 94103\, Un
+ ited States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/victoria-theatre-the-empire-strips-back
+ -a-burlesque-parody/2026-11-11/?utm_source=caldiscovery&utm_medium=ics&utm
+ _campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF Comedy Kings: An Old School Blowout
 DTSTART;TZID=America/Los_Angeles:20261111T193000
 DTEND;TZID=America/Los_Angeles:20261111T213000
@@ -1347,6 +1236,48 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/11/roast-battle-bay-area-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
+DTSTART;TZID=America/Los_Angeles:20261112T193000
+DTEND;TZID=America/Los_Angeles:20261112T213000
+DTSTAMP:20261109T114430Z
+UID:caldiscovery-comedy-b316eb1e13d37a40@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,theater
+DESCRIPTION:⭐ The hit burlesque parody The Empire Strips Back: A Burlesq
+ ue Parody is making its way to San Francisco! This audience fave drops cla
+ ssic characters into the world of burlesque. Don’t miss out!\n﻿﻿🎟
+ ️ Returning Customer Offer\nSeen The Empire Strips Back before? The Dark
+  Side is calling you back! Returning fans can now enjoy an exclusive disco
+ unt on their next visit to this hit burlesque parody. Use code STRIPBACKAG
+ AIN at checkout to get 30% off your next booking.\nTickets for The Empire 
+ Strips Back in San Francisco\n🎫 General Admission – includes entry to
+  the experience\n🎫 Rebel Package – includes express entry to the expe
+ rience + a t-shirt (depending on size availability\, another merch item li
+ ke panties\, lightsaber\, poster\, or calendar could be offered in exchang
+ e for the shirt)\n👉 For large groups (8+ people)\, reserve your tickets
+  here\n🪑 Seats are assigned upon arrival at the venue on a first-come\,
+  first-served basis in the selected zone (Zone A\, Zone B\, Zone C\, Emper
+ or’s Zone\, and ADA seats)\nHighlights\n🤩 Be transported to a galaxy 
+ far\, far away\, to a world of burlesque fantasy\n🌌 Hilarious parody\, 
+ menacing and risqué dance\, and even the droids you’re looking for\n✨
+  Your favourite characters are scantily clad\, seriously sultry\, and live
+  on stage\n⭐ Previously sold-out in London\, Seattle\, Chicago\, New Yor
+ k\, Montreal\, LA\, San Francisco\, and more\nGeneral Info\n📅 Dates: ch
+ oose directly in the ticket selector\n🕒 Time:\n– Wednesday: 7:30 PM\n
+ – Thursday: 7:30 PM\n– Friday: 7:00 PM\n– Saturday:...\n\nPublished 
+ by Mission Local\nContains information from CalDiscovery (caldiscovery.com
+ )\, ODbL 1.0\n\nDetails: https://missionlocal.org/event/victoria-theatre-t
+ he-empire-strips-back-a-burlesque-parody/2026-11-12/?utm_source=caldiscove
+ ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261109T114430Z
+LOCATION:Victoria Theatre\, 2961 16th St\, San Francisco\, CA\, 94103\, Un
+ ited States
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/victoria-theatre-the-empire-strips-back
+ -a-burlesque-parody/2026-11-12/?utm_source=caldiscovery&utm_medium=ics&utm
+ _campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nicole Aimee Schreiber
@@ -4486,6 +4417,26 @@ URL:https://sf.funcheap.com/hometown-free-comedy-night-happy-hour-emeryvil
  le-99/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cheaper than Therapy (San Francisco)
+DTSTART;TZID=America/Los_Angeles:20261202T194500
+DTEND;TZID=America/Los_Angeles:20261202T211500
+DTSTAMP:20261109T114430Z
+UID:caldiscovery-comedy-23ab8252bdd24358@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by dougcordell.com\nContains information from CalDis
+ covery (caldiscovery.com)\, ODbL 1.0\n\nDetails: http://www.dougcordell.co
+ m/events/2025/7/30/cheaper-than-therapy-san-francisco-p3rle-gcae8-cd3cr-5c
+ kkk-m7dz4-kkma5-dxp8j?utm_source=caldiscovery&utm_medium=ics&utm_campaign=
+ san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261109T114430Z
+LOCATION:Shelton Theater\, 533 Sutter St. \, San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:http://www.dougcordell.com/events/2025/7/30/cheaper-than-therapy-san-f
+ rancisco-p3rle-gcae8-cd3cr-5ckkk-m7dz4-kkma5-dxp8j?utm_source=caldiscovery
+ &utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sandra Bernhard
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T210000
@@ -7019,6 +6970,26 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/20/s-f-comedy-showcase-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cheaper than Therapy (San Francisco)
+DTSTART;TZID=America/Los_Angeles:20261220T194500
+DTEND;TZID=America/Los_Angeles:20261220T211500
+DTSTAMP:20261109T114430Z
+UID:caldiscovery-comedy-6269b44ae765280c@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by dougcordell.com\nContains information from CalDis
+ covery (caldiscovery.com)\, ODbL 1.0\n\nDetails: http://www.dougcordell.co
+ m/events/2025/7/30/cheaper-than-therapy-san-francisco-p3rle-gcae8-cd3cr-5c
+ kkk-m7dz4-kkma5-zcmzx?utm_source=caldiscovery&utm_medium=ics&utm_campaign=
+ san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261109T114430Z
+LOCATION:Shelton Theater\, 533 Sutter St. \, San Francisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:http://www.dougcordell.com/events/2025/7/30/cheaper-than-therapy-san-f
+ rancisco-p3rle-gcae8-cd3cr-5ckkk-m7dz4-kkma5-zcmzx?utm_source=caldiscovery
+ &utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Monday Night Hubba: Rosa Robada's AntiChrist-mas Show
 DTSTART;TZID=America/Los_Angeles:20261221T200000
 DTEND;TZID=America/Los_Angeles:20261221T220000
@@ -8362,6 +8333,45 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/7/tom-rhodes-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mortified
+DTSTART;TZID=America/Los_Angeles:20270108T183000
+DTEND;TZID=America/Los_Angeles:20270108T203000
+DTSTAMP:20261109T114430Z
+UID:caldiscovery-comedy-7363924a6ce17aae@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,literary
+DESCRIPTION:MORTIFIED\n\nMortified is a comic excavation of adolescent wri
+ ting\, art & media. PS: It totally likes you.\n\nPerformers TBA...\n\nHail
+ ed as a \\"cultural phenomenon\\" by Newsweek and celebrated for years by 
+ the likes of This American Life\, The Today Show\, The Onion AV Club\, & E
+ ntertainment Weekly\, Mortified is a comic excavation of teen angst artifa
+ cts (journals\, poems\, letters\, lyrics\, home movies\, schoolwork) as sh
+ ared by their original authors -- in front of total strangers!\n\nWhere el
+ se can you hear grown men and women confront their past with firsthand tal
+ es of their first kiss\, first puff\, worst prom\, fights with mom\, life 
+ at bible camp\, worst hand job\, best mall job\, and reasons they deserved
+  to marry Bon Jovi? Submissions come from a wide range of participants\, f
+ rom professional performers to total amateurs . All in the noble pursuit o
+ f self-degradation. Share the shame.\n\nTickets and Seating Information:\n
+ \nGeneral Admission tickets do not include guaranteed seating. When the se
+ ats are full\, there is ample standing room.\n\nReserved Seating is sold b
+ y the chair\, and is in the first or second row.\n\nPizza Special: A table
+  for five\, admission for five\, and a large two topping pizza!\n\nFront R
+ ow VIP: A table for five right in front of the stage\, including admission
+  for five and bottle service.\n\nDownstairs VIP Booths: These are against 
+ the wall with a good view of the stage and include admission for six and b
+ ottle service.\n\nUpstairs VIP\, and Double: These don't have an unimpeded
+  view...\n\nPublished by DNA Lounge\nContains information from CalDiscover
+ y (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/cale
+ ndar/2027/01-08a.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=
+ san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261109T114430Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2027/01-08a.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Tuesdays Free Comedy Showcase & Happy Hour | The Layover

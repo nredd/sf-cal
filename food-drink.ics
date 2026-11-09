@@ -40,42 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Sprouts' Annual Gala: Powerful Women in Food
-DTSTART;TZID=America/Los_Angeles:20261101T170000
-DTEND;TZID=America/Los_Angeles:20261101T190000
-DTSTAMP:20261102T061947Z
-UID:dothebay-17690941@sf-cal
-SEQUENCE:1
-CATEGORIES:Food & Drink
-DESCRIPTION:Join us for an unforgettable evening featuring welcome bubbles
- \, cocktails\, chef-crafted bites\, and an exceptional four-course dinner 
- by Michelin-starred and award-winning women chefs\, alongside honorary gue
- sts Alice Waters of Chez Panisse and Debby Soo\, CEO of OpenTable. Savor e
- xpertly paired wines\, exclusive VIP experiences\, and a live auction host
- ed by Emmy Award-winning broadcaster Liam Mayclem.\n\nCity View at Metreon
-  | November 1\, 2026\n\nCulinary Talent:\n\nChef Carrie Blease | Wolfsbane
- \nChef Azalina Eusope | Azalina's\nChef Danielle Lefevre | Trestle SF\nChe
- f Belinda Leong | B. Patisserie\nChef Nancy Oakes | Boulevard\nChef Laura 
- Ozyilmaz | Dalida\nChef Melissa Perello | Frances & Octavia\nChef Gayle Pi
- rie | Foreign Cinema\nChef Pim Techamuanvivit | Nari\nChef Dana S. Younkin
-  | Boulevard\n\nThis special evening will celebrate Powerful Women in Food
-  while supporting Sprouts Chef Training’s mission to empower aspiring Ba
- y Area Youth through culinary training\, mentorship\, and career opportuni
- ties. ‍\n\nEvent Co-Chairs: Tommy Halvorson\, Michael Bauer\nEvent Produ
- ction: Foxtail Events\nSprouts Chef Training is a 501(c)(3) nonprofit. 70%
-  of each ticket is tax-deductible.\n\nFor ticket inquiries or general even
- t questions please contact: julias@sproutscheftraining.org\n\nTickets from
-  $650\n\nDetails: https://dothebay.com/events/2026/11/1/sprouts-annual-gal
- a-powerful-women-in-food-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33701154/81d28071-0280-402d-b520-36fe84590de6.jpg
-LAST-MODIFIED:20261102T061947Z
-LOCATION:The Aviary\, 135 4th St\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/1/sprouts-annual-gala-powerful-wom
- en-in-food-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Free Arcade Game Night at The Detour (First Tuesdays)
 DTSTART;TZID=America/Los_Angeles:20261103T160000
 DTEND;TZID=America/Los_Angeles:20261103T235900
@@ -720,18 +684,16 @@ BEGIN:VEVENT
 SUMMARY:La Mar Uncorked: A Wine Country Harvest
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T140000
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17972465@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Food & Drink
-DESCRIPTION:$89/pp\n\nTickets: https://app.acuityscheduling.com/schedule/b
- cc2db54/appointment/99233145/calendar/11716151?appointmentTypeIds[]=992331
- 45\nDetails: https://dothebay.com/events/2026/11/8/la-mar-uncorked-a-wine-
- country-harvest-tickets\nSource: DoTheBay
+DESCRIPTION:$89/pp\n\nDetails: https://dothebay.com/events/2026/11/8/la-ma
+ r-uncorked-a-wine-country-harvest-tickets\nSource: DoTheBay
 GEO:37.795838;-122.39378
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35034919/af6db902-011d-4332-8e0a-0e4b1c558fe4.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:La Mar\, Pier 1 1/2\, The Embarcadero\, San Francisco\, CA\, 9411
  1
 TRANSP:TRANSPARENT

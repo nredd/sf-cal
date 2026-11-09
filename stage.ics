@@ -40,67 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:$10 Off: Oceánica Ballet 2026 (San Mateo)
-DTSTART;TZID=America/Los_Angeles:20261101T130000
-DTEND;TZID=America/Los_Angeles:20261101T180000
-DTSTAMP:20261020T002817Z
-UID:funcheap-1640600@sf-cal
-SEQUENCE:1
-CATEGORIES:Dance
-DESCRIPTION:Vin EiamvuthikornJoin Oceánica Ballet for family-friendly sto
- ry ballets inspired by halloween and Día de los Muertos!\nViva La Vida wi
- th Excerpts from P1N0CCH10 & Carmilla features new works and a returning O
- ceánica Ballet autumn tradition. Act 1 premieres selections from two upco
- ming story ballets. P1N0CCH10\, a retelling of Carlo Collodi’s classic t
- ale\, explores humanity\, artificial intelligence\, and our relationship w
- ith the natural world. Carmilla\, an adaptation of Sheridan Le Fanu’s gr
- oundbreaking sapphic vampire novella\, stages a mysterious masquerade ball
- .\nAct Two features the return of Viva La Vida\, the original story of Luc
- io and Lupita in a joyful folklórico-infused tale about transcending loss
-  and the resilience of love\, inspired by Día de los Muertos. In this “
- celebration of life\, loved ones and culture\,” writes Jocelyn Tong of t
- he Daily Californian\, “mythic creatures from the land of the dead … [
- lead to] twirled scarves and snapped-open fans …in a story of homecoming
- .” Throughout all three stories\, the wisdom of women across time and cu
- ltures is amplified.\nViva La Vida with Excerpts from P1N0CCH10 & Carmilla
- \nSunday\, November 1\, 2026 | 1p & 4p\nCollege of San Mateo Theatre\, 170
- 0 W Hillsdale Blvd\, San Mateo – Map & Directions\nGet Tickets: Starting
-  at $19 ($10 off) – General Admission (fees included)\n\nLimited time of
- fer Lucky 13: 13% off 4:00 performance on Sunday\, November 1st tix when p
- urchased Oct 2 thru Oct 13 2026 while supplies last. Lowest price tickets 
- are $25....\n\n$19.00\n\nTickets: https://oceanicaballet.org/\nDetails: ht
- tps://sf.funcheap.com/ocenica-ballet-2026-san-mateo/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/VLV202
- 6LinkTreeAliceOnly.jpg
-LAST-MODIFIED:20261020T002817Z
-LOCATION:College of San Mateo Theatre\, 1700 W Hillsdale Blvd (Bldg 3)\, S
- an Mateo
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/ocenica-ballet-2026-san-mateo/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza
-DTSTART;TZID=America/Los_Angeles:20261101T173000
-DTEND;TZID=America/Los_Angeles:20261101T193000
-DTSTAMP:20261102T061947Z
-UID:dothebay-17989177@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this investigative do
- cumentary examines the civilian casualties of Israel’s military operatio
- ns in Gaza and the systems behind targeted killings of Palestinians.\n\nTh
- is film can be used with loyalty cards or our 2026 annual CinemaSFBay pass
- es\n\nDetails: https://dothebay.com/events/2026/11/1/naza-tickets\nSource:
-  DoTheBay
-GEO:37.7760419;-122.498063
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35109527/ca19af39-4b49-4bc3-81b2-fce03c881fba.jpg
-LAST-MODIFIED:20261102T061947Z
-LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/1/naza-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PALESTINE CINEMA DAYS: Return to Haifa
 DTSTART;TZID=America/Los_Angeles:20261102T173000
 DTEND;TZID=America/Los_Angeles:20261102T193000
@@ -1215,9 +1154,9 @@ BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
 DTSTART;TZID=America/Los_Angeles:20261108T130000
 DTEND;TZID=America/Los_Angeles:20261108T150000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17930755@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
  . Two years have passed since then\, and the country has faced agonizing s
@@ -1225,14 +1164,12 @@ DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus
  s humanity managed to cling to a hard-won peace\, a new threat strikes\, c
  rushing hope in an instant.\n\nThere is no third time. Everything ends her
  e.\n\nSubtitled Screening\n\nThis film can be used with loyalty cards or o
- ur 2026 annual CinemaSFBay passes\n\nTickets: https://ticketing.uswest.vee
- zi.com/purchase/20097?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https
- ://dothebay.com/events/2026/11/8/godzilla-minus-zero-tickets\nSource: DoTh
- eBay
+ ur 2026 annual CinemaSFBay passes\n\nDetails: https://dothebay.com/events/
+ 2026/11/8/godzilla-minus-zero-tickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34838704/1a1d7486-ad9f-476f-aa63-72ea180e11e9.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/godzilla-minus-zero-tickets
@@ -1241,9 +1178,9 @@ BEGIN:VEVENT
 SUMMARY:Bay Area Shorts
 DTSTART;TZID=America/Los_Angeles:20261108T193000
 DTEND;TZID=America/Los_Angeles:20261108T213000
-DTSTAMP:20261107T102259Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17882175@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Dance
 DESCRIPTION:The grand finale to our 2026 San Francisco Dance Film Festival
  \, Bay Area Shorts is an annual tradition honoring the depth and range of 
@@ -1261,23 +1198,12 @@ DESCRIPTION:The grand finale to our 2026 San Francisco Dance Film Festival
  ate in a live Q&A.\n\nAll ticket holders are invited to attend a post-scre
  ening reception in the lobby to celebrate the end of the 2026 Festival.\n\
  nTickets and info: https://sfdancefilmfest.org/fall-festival-2026/bay-area
- -shorts-2026/\n\n$25-45\n2026 SF Dance Film Festival:\n\nTickets: https://
- sfdancefilmfest.org/fall-festival-2026/bay-area-shorts-2026\nDetails: http
- s://dothebay.com/events/2026/11/8/bay-area-shorts-tickets\nSource: DoTheBa
- y\n\nAlso listed on:\n- https://missionlocal.org/event/brava-theater-2026-
- san-francisco-dance-film-festival/2026-11-08/1/?utm_source=caldiscovery&ut
- m_medium=ics&utm_campaign=san-francisco-ca\n- https://missionlocal.org/eve
- nt/brava-theater-2026-san-francisco-dance-film-festival/2026-11-08/2/?utm_
- source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n- https:
- //dancersgroup.org/calendar/bay-area-shorts-2026-sf-dance-film-festival/?u
- tm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n- htt
- ps://missionlocal.org/event/brava-theater-2026-san-francisco-dance-film-fe
- stival/2026-11-08/3/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=s
- an-francisco-ca
+ -shorts-2026/\n\n$25-45\n2026 SF Dance Film Festival:\n\nDetails: https://
+ dothebay.com/events/2026/11/8/bay-area-shorts-tickets\nSource: DoTheBay
 GEO:37.7526148;-122.4078356
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34611311/12350ecf-2354-4781-86d0-f77db669085b.jpg
-LAST-MODIFIED:20261107T102259Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:Brava Theater\, 2781 24th Street\, San Francisco\, CA\, 94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/bay-area-shorts-tickets
@@ -1287,9 +1213,9 @@ SUMMARY:LIVE MUSIC: Society of Rockets\, Amores Vigilantes\, Kitten on the
   Keys
 DTSTART;TZID=America/Los_Angeles:20261108T200000
 DTEND;TZID=America/Los_Angeles:20261108T220000
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17954114@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Society of Rockets\n\nPack your psychedelic psuitcase for a jo
  urney to the center of The Society of Rockets' latest brain-melting blowpo
@@ -1312,14 +1238,13 @@ DESCRIPTION:Society of Rockets\n\nPack your psychedelic psuitcase for a jo
   Know finally reaches its audience with a songwriting message that transce
  nds time or trends.\n\nBandcamp | IG\n\nKitten on the Keys\n\nSan Francisc
  o Cabaret Performer: Piano\, Accordion\, Vocals\, Ukulele\n\nIG\n\nDOORS a
- t 7:00PM | M...\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20
- 202?siteToken=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay.com/ev
- ents/2026/11/8/live-music-society-of-rockets-amores-vigilantes-kitten-on-t
- he-keys-tickets\nSource: DoTheBay
+ t 7:00PM | M...\n\nDetails: https://dothebay.com/events/2026/11/8/live-mus
+ ic-society-of-rockets-amores-vigilantes-kitten-on-the-keys-tickets\nSource
+ : DoTheBay
 GEO:37.782364;-122.482951
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34948651/95cf47cb-8fd8-446b-8790-aa16b020382c.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/8/live-music-society-of-rockets-am
@@ -1834,9 +1759,9 @@ BEGIN:VEVENT
 SUMMARY:NCTC Education FUNdraiser: Improv Show
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
-DTSTAMP:20261014T214646Z
+DTSTAMP:20261109T114430Z
 UID:dothebay-17944590@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Get four shows for the price of one! New Conservatory Theatre 
  Center invites you to a special improv comedy fundraiser featuring some of
@@ -1849,11 +1774,14 @@ DESCRIPTION:Get four shows for the price of one! New Conservatory Theatre
  ity theatre education to kidsbecause access to the arts should never be op
  tional!\n\nTickets: https://nctcsf.org/event/improv-fundraiser-26/\nDetail
  s: https://dothebay.com/events/2026/11/13/nctc-education-fundraiser-improv
- -show-tickets\nSource: DoTheBay
+ -show-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://missionlocal
+ .org/event/victoria-theatre-the-empire-strips-back-a-burlesque-parody/2026
+ -11-13/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
+ ca
 GEO:37.7756318;-122.4198806
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34903241/7ea27334-eaba-4777-8376-c84061e51deb.jpg
-LAST-MODIFIED:20261014T214646Z
+LAST-MODIFIED:20261109T114430Z
 LOCATION:New Conservatory Theatre Center\, 25 Van Ness Avenue\, San Franci
  sco\, CA\, 94102
 TRANSP:TRANSPARENT

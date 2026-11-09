@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: violet
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261103T025635Z
-UID:city-hall-lights-ics-21bd90243e1afa78@sf-cal
-SEQUENCE:0
-DESCRIPTION:the Golden State Valkyries historic WNBA Championship win\n\nD
- etails: https://www.sf.gov/location--san-francisco-city-hall\nSource: SF C
- ity Hall lighting (via Robelius/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261103T025635Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: teal
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
