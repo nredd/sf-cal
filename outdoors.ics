@@ -40,47 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20261102T090000
-DTEND;TZID=America/Los_Angeles:20261102T100000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638090@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
- \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
- nd the world with an opportunity to experience the natural beauty\, tranqu
- ility\, and harmony of a Japanese-style garden in the heart of San Francis
- co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
- xhibit for the 1894 California Midwinter International Exposition\, the Ja
- panese Tea Garden endures as one of the most popular attractions in San Fr
- ancisco\, featuring classic elements such as an arched drum bridge\, pagod
- as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
- ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
-  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
- for San Francisco residents with valid ID. Free hours for everyone (even n
- on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
- ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
- ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
- / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
- Non Resident Fees\nAdults: $12-16 (depends on season)\n(February – Novem
- ber) $14\n(December – January) $12\n(Weekends year-round) $16\nSeniors (
- ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildre
- n (under 5) FREE\nHours Of Operation\nLast entry 30 minutes before closing
- \nSpring – Summer Hours\nMarch – October\n9am – 5:45pm\nFall – Win
- ter Hours\nNovembe...\n\nFree\n\nTickets: https://www.japaneseteagardensf.
- com/vist\nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admis
- sion-hour-golden-gate-park-447/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
- seteagarden-scaled-e1595352236641.jpeg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
-  CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
- n-gate-park-447/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Ice Skating Lessons at Union Square Ice Rink (Registration Op
  ens for Dec-Jan)
 DTSTART;TZID=America/Los_Angeles:20261102T100000
@@ -1275,48 +1234,6 @@ URL:https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-night
  s-w-huge-telescope-nov-2026-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Waterfront Walkabout: The Holiday Season Finale
-DTSTART;TZID=America/Los_Angeles:20261119T170000
-DTEND;TZID=America/Los_Angeles:20261119T200000
-DTSTAMP:20261104T110513Z
-UID:funcheap-1645291@sf-cal
-SEQUENCE:2
-CATEGORIES:Outdoors
-DESCRIPTION:Downtown SF PartnershipWaterfront Walkabout returns for a nigh
- t of captivating artist vignettes\, live music\, holiday drinks\, & season
- al memory-making.\nSan Francisco\, this is our holiday love letter to you!
-  After a joyous autumn of community and creativity\, Waterfront Walkabout 
- returns for its season finale on Thursday\, November 19.\nBundle up and br
- ing your family\, friends\, and four-legged companions to the waterfront
- ’s Big Art Loop – Portside for a festive evening of art\, interactive 
- experiences\, and unexpected delights. Explore at your own pace or sign up
-  for a free guided tour featuring special appearances by the artists behin
- d the sculptures. And don’t miss the free professional holiday portraits
-  at the Got Framed sculpture!\nWaterfront Walkabout\nThursday\, November 1
- 9\, 2026 | 5-8p\nThe Embarcadero btwn Pier 14 & the Exploratorium\, SF\nFR
- EE\nGUIDED ART TOURS\nJoin a free docent-led tour to hear the stories behi
- nd the four featured sculptures! These 50-minute guided walks depart from 
- Pier 14 (at Corpus) and end at Pier 7.\n\n5:30 PM – Guided Art Tour\n6:3
- 0 PM – Guided Art Tour\n\nHow to sign up for guided art tours: Space is 
- limited—advance tour registration is required. To sign up\, please selec
- t the tour ticket type option during Eventbrite checkout. No purchase is n
- ecessary.\nWHATS ON DECK\n\nCorpus (Pier 14): Stop by the welcome booth an
- d meet sculptor Michael Christian\, the artist behind Corpus. Get creative
-  with holiday postcards or letters to Santa using custom stamps designed b
- y H...\n\nFree\n\nTickets: https://www.eventbrite.com/e/waterfront-walkabo
- ut-the-holiday-season-finale-tickets-2004044354612?aff=oddtdtcreator\nDeta
- ils: https://sf.funcheap.com/free-waterfront-walkabout-the-holiday-season-
- finale-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/NOV-Ev
- entbrite-Header.png
-LAST-MODIFIED:20261104T110513Z
-LOCATION:The Embarcadero (btwn Pier 14 & the Exploratorium)\, The Embarcad
- ero\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-waterfront-walkabout-the-holiday-season-f
- inale-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NightLife: November 19
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T200000
@@ -2224,6 +2141,21 @@ LOCATION:Secret Location (SF)\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/intro-to-personal-safety-self-defense-class-sf
  -103/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Tree Lighting
+DTSTART;TZID=America/Los_Angeles:20261203T160000
+DTEND;TZID=America/Los_Angeles:20261203T200000
+DTSTAMP:20261109T222818Z
+UID:sfrecpark-main-05226708a19ef536@sf-cal
+SEQUENCE:0
+DESCRIPTION:Annual Holiday Tree Lighting at McLaren Lodge in Golden Gate P
+ ark https://sfrecpark.org/calendar.aspx?EID=10857\n\nDetails: /common/modu
+ les/iCalendar/iCalendar.aspx?feed=calendar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261109T222818Z
+LOCATION:McLaren Lodge - 501 Stanyan Street San Francisco CA 94117
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NightLife: Naughty or Nice

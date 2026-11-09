@@ -1238,6 +1238,25 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/11/roast-battle-bay-area-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chuckles Comedy Show
+DTSTART;TZID=America/Los_Angeles:20261111T200000
+DTEND;TZID=America/Los_Angeles:20261111T220000
+DTSTAMP:20261109T222818Z
+UID:dothebay-18061603@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Free\nG$MakinMonsta Presents\nListed time is doors\n\nDetails:
+  https://dothebay.com/events/2026/11/11/chuckles-comedy-show-tickets\nSour
+ ce: DoTheBay
+GEO:37.7468046;-122.4194395
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35410254/f2ad658b-95e8-49de-93e0-09578616c171.jpg
+LAST-MODIFIED:20261109T222818Z
+LOCATION:El Rio\, 3158 Mission St\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/11/chuckles-comedy-show-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Victoria Theatre: The Empire Strips Back: A Burlesque Parody
 DTSTART;TZID=America/Los_Angeles:20261112T193000
 DTEND;TZID=America/Los_Angeles:20261112T213000
@@ -2079,20 +2098,22 @@ BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261109T222818Z
 UID:dothebay-17642530@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:S. F. Comedy Showcase\nSunday\, November 15 | Punch Line San F
  rancisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/
  4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fs-f-comedy-sh
  owcase-san-francisco-california-11-15-2026%2Fevent%2F1C0064F5CD8C12B5\nDet
  ails: https://dothebay.com/events/2026/11/15/s-f-comedy-showcase-tickets\n
- Source: DoTheBay
+ Source: DoTheBay\n\nAlso listed on:\n- https://www.ticketmaster.com/s-f-co
+ medy-showcase-san-francisco-california-11-15-2026/event/1C0064F5CD8C12B5?u
+ tm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33480361/844403e0-13f7-45f0-8f67-0d1f83cfaebd.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261109T222818Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -8372,6 +8393,94 @@ LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
 TRANSP:TRANSPARENT
 URL:https://www.dnalounge.com/calendar/2027/01-08a.html?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mario Adrion
+DTSTART;TZID=America/Los_Angeles:20270108T190000
+DTEND;TZID=America/Los_Angeles:20270108T210000
+DTSTAMP:20261109T222818Z
+UID:dothebay-17726271@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Mario Adrion\nFriday\, January 8 | ​Cobb's Comedy Club\n\n18
+ +\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=
+ DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmario-adrion-san-francisco-
+ california-01-08-2027%2Fevent%2F1C00650B160F0B82\nDetails: https://dotheba
+ y.com/events/2027/1/8/mario-adrion-tickets-drknzwx\nSource: DoTheBay
+GEO:37.802989;-122.4143902
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33875383/0de3a55d-bdf7-4a76-8762-9c0ea9337d9a.png
+LAST-MODIFIED:20261109T222818Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/8/mario-adrion-tickets-drknzwx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tom Rhodes
+DTSTART;TZID=America/Los_Angeles:20270108T193000
+DTEND;TZID=America/Los_Angeles:20270108T213000
+DTSTAMP:20261109T222818Z
+UID:dothebay-17861702@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Tom Rhodes\nFriday\, January 8 | ​Punch Line San Francisco\n
+ \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
+ dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Ftom-rhodes-san-francisc
+ o-california-01-08-2027%2Fevent%2F1C00652DAB7398AC\nDetails: https://dothe
+ bay.com/events/2027/1/8/tom-rhodes-tickets\nSource: DoTheBay
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34516590/f59f9a07-8311-4f94-a567-f5596649fab8.png
+LAST-MODIFIED:20261109T222818Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/8/tom-rhodes-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mario Adrion
+DTSTART;TZID=America/Los_Angeles:20270108T211500
+DTEND;TZID=America/Los_Angeles:20270108T231500
+DTSTAMP:20261109T222818Z
+UID:dothebay-17726270@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Mario Adrion\nFriday\, January 8 | ​Cobb's Comedy Club\n\n18
+ +\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=
+ DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmario-adrion-san-francisco-
+ california-01-08-2027%2Fevent%2F1C00650B16140B85\nDetails: https://dotheba
+ y.com/events/2027/1/8/mario-adrion-tickets\nSource: DoTheBay
+GEO:37.802989;-122.4143902
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33875379/558e1348-cc71-4479-8c87-c85e23059e8c.png
+LAST-MODIFIED:20261109T222818Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
+ 3
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/8/mario-adrion-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tom Rhodes
+DTSTART;TZID=America/Los_Angeles:20270108T214500
+DTEND;TZID=America/Los_Angeles:20270108T234500
+DTSTAMP:20261109T222818Z
+UID:dothebay-17861703@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Tom Rhodes\nFriday\, January 8 | ​Punch Line San Francisco\n
+ \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
+ dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Ftom-rhodes-san-francisc
+ o-california-01-08-2027%2Fevent%2F1C00652DAB7898BA\nDetails: https://dothe
+ bay.com/events/2027/1/8/tom-rhodes-tickets-ebyk8z6\nSource: DoTheBay
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34516599/247d818d-5bac-431d-a3e3-c4890231d031.png
+LAST-MODIFIED:20261109T222818Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/8/tom-rhodes-tickets-ebyk8z6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Tuesdays Free Comedy Showcase & Happy Hour | The Layover
