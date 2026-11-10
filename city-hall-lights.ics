@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: teal
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-DTSTAMP:20261103T025635Z
-UID:city-hall-lights-ics-d64760f9cc4d64ec@sf-cal
-SEQUENCE:0
-DESCRIPTION:Alzheimer's Awareness Month\n\nDetails: https://www.sf.gov/loc
- ation--san-francisco-city-hall\nSource: SF City Hall lighting (via Robeliu
- s/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261103T025635Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: red/white/blue
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104

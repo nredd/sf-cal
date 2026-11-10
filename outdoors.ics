@@ -3832,6 +3832,23 @@ URL:https://dothebay.com/events/2027/1/7/golden-state-warriors-vs-detroit-
  pistons-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zumba and Shake The Fog
+DTSTART;TZID=America/Los_Angeles:20270109T103000
+DTEND;TZID=America/Los_Angeles:20270109T111500
+DTSTAMP:20261110T171200Z
+UID:sfrecpark-main-8c90ed8de684f36f@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes on every 2nd Saturday of the month fo
+ r Zumba and Shake The Fog https://sfrecpark.org/calendar.aspx?EID=10465\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261110T171200Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Botanical Garden’s Free Day (2nd Tuesdays)
 DTSTART;TZID=America/Los_Angeles:20270112T073000
 DTEND;TZID=America/Los_Angeles:20270112T180000

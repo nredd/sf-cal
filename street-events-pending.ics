@@ -291,4 +291,23 @@ LOCATION:Ofarrell St between Fillmore St and Steiner St\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://data.sf.gov/d/8x25-yybr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fillmore Farmers Market
+DTSTART;TZID=America/Los_Angeles:20270109T070000
+DTEND;TZID=America/Los_Angeles:20270109T150000
+DTSTAMP:20261110T171200Z
+UID:sf-street-events-pending-1598190-2027-01-09T07:00:00-08:00@sf-cal
+SEQUENCE:0
+CATEGORIES:Special Event
+DESCRIPTION:Closed: Ofarrell St from Fillmore St to Steiner St\n\nPermit s
+ tatus: Application In Review\nTimes are SFMTA street-closure permit times 
+ and include setup and teardown\nSource: DataSF Temporary Street Closures\n
+ \nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
+  (pending permit)
+GEO:37.783188;-122.433528
+LAST-MODIFIED:20261110T171200Z
+LOCATION:Ofarrell St between Fillmore St and Steiner St\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://data.sf.gov/d/8x25-yybr
+END:VEVENT
 END:VCALENDAR
