@@ -40,37 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Bare Maximum
-DTSTART;TZID=America/Los_Angeles:20261102T190000
-DTEND;TZID=America/Los_Angeles:20261102T210000
-DTSTAMP:20261103T105857Z
-UID:dothebay-17926269@sf-cal
-SEQUENCE:1
-CATEGORIES:DJ/Parties
-DESCRIPTION:rivia is BACK at Lone Star Saloon!\n\nThink you’re the smart
- est in the bar? Prove it.\n\nAfter the Success of our Launch on Monday\, A
- pril 6th\, Lone Star Saloon is bringing back TRIVIA NIGHT on the first Mon
- day of every month! Gather your crew\, grab a drink\, and get ready to bat
- tle it out for bragging rights (and maybe a few surprises along the way ).
- \n\nYour host for the night will be DJ Jimmy Swear keeping the questions s
- picy and the energy high — and yours truly will be behind the bar making
-  sure the drinks keep flowing.\n\nFirst Monday of Every Month\n\nTrivia ki
- cks off April 6th\n\nHosted by DJ Jimmy Swear\n\nStrong drinks + questiona
- ble answers\n\nBring your smartest friends or your best guessers. Either w
- ay\, it’s going to be a good time.\n\nLone Star Saloon — where the dri
- nks are cold and the competition is fierce.\n\n#LoneStarSaloon #TriviaNigh
- t #MondayFun #GayBarTrivia #SFNightlife\n\nDetails: https://dothebay.com/e
- vents/2026/11/2/bare-maximum-tickets\nSource: DoTheBay
-GEO:37.77216749999999;-122.4108778
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34817432/ec951b28-154e-431b-b65a-d777c47ca1b6.webp
-LAST-MODIFIED:20261103T105857Z
-LOCATION:The Lone Star Saloon\, 1354 Harrison St\, San Francisco\, CA\, 94
- 103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/2/bare-maximum-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Motown On Mondays” DJ Night (Madrone Art Bar)
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261103T020000
@@ -1163,9 +1132,9 @@ BEGIN:VEVENT
 SUMMARY:Programa de gestión de contingencias en español
 DTSTART;TZID=America/Los_Angeles:20261109T093000
 DTEND;TZID=America/Los_Angeles:20261109T113000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261110T072652Z
 UID:dothebay-17648821@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:LGBTQ
 DESCRIPTION:¿Le interesa cambiar\, reducir\, reevaluar o dejar de consumi
  r estimulantes como la metanfetamina o la cocaína?\n\nOfrecemos un progra
@@ -1183,11 +1152,9 @@ DESCRIPTION:¿Le interesa cambiar\, reducir\, reevaluar o dejar de consumi
   services\, individual counseling\, case management\, and support group wi
  th all services provided in Spanish.\n\nFor more information or to join th
  e group\, please contact Maricruz at 415-632-9722 or mmoreno@sfaf.org.\n\n
- Tickets: https://resources.sfaf.org/event/programa-de-gestion-de-contingen
- cias-en-espanol/2026-11-09/\nDetails: https://dothebay.com/events/2026/11/
- 9/programa-de-gestion-de-contingencias-en-espanol-tickets\nSource: DoTheBa
- y
-LAST-MODIFIED:20261006T003107Z
+ Details: https://dothebay.com/events/2026/11/9/programa-de-gestion-de-cont
+ ingencias-en-espanol-tickets\nSource: DoTheBay
+LAST-MODIFIED:20261110T072652Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/9/programa-de-gestion-de-contingen
@@ -1446,6 +1413,30 @@ LOCATION:Cigar Bar & Grill\, 850 Montgomery St.\, San Francisco\, CA\, 941
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/12/bachata-party-with-inessence-da
  nce-co-thursday-november-12-2026-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juan Atkins Forever: Free Tribute Party to the Godfather of Detroi
+ t Techno
+DTSTART;TZID=America/Los_Angeles:20261112T200000
+DTEND;TZID=America/Los_Angeles:20261112T220000
+DTSTAMP:20261110T072652Z
+UID:dothebay-18062307@sf-cal
+SEQUENCE:0
+CATEGORIES:DJ/Parties
+DESCRIPTION:Free\nUNPLUG! + The Foundry present:\n\nTickets: https://consu
+ mer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fjuan-atkins-for
+ ever-free-tribute-party-to-the-godfather-of-detroit-techno-tickets-2004402
+ 891004\nDetails: https://dothebay.com/events/2026/11/12/juan-atkins-foreve
+ r-free-tribute-party-to-the-godfather-of-detroit-techno-tickets\nSource: D
+ oTheBay
+GEO:37.7723345;-122.4129685
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35414042/619b4838-979f-45b6-93df-17618bfce8dd.jpg
+LAST-MODIFIED:20261110T072652Z
+LOCATION:The Foundry\, 1425 Folsom St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/12/juan-atkins-forever-free-tribut
+ e-party-to-the-godfather-of-detroit-techno-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Every Thursday: “Inner Circle” Dance Party at White Rabbit

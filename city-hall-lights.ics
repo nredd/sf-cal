@@ -104,6 +104,22 @@ TRANSP:TRANSPARENT
 URL:https://www.sf.gov/location--san-francisco-city-hall
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHC: yellow
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261110T072652Z
+UID:city-hall-lights-ics-4168a5bfd130a37e@sf-cal
+SEQUENCE:0
+DESCRIPTION:World Day of Remembrance for Road Traffic Victims\n\nDetails: 
+ https://www.sf.gov/location--san-francisco-city-hall\nSource: SF City Hall
+  lighting (via Robelius/sf-city-hall-lighting-calendar)
+LAST-MODIFIED:20261110T072652Z
+LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
+ rancisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://www.sf.gov/location--san-francisco-city-hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHC: maroon/white
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -114,6 +130,22 @@ DESCRIPTION:the National Day of Lativa\n\nDetails: https://www.sf.gov/loca
  tion--san-francisco-city-hall\nSource: SF City Hall lighting (via Robelius
  /sf-city-hall-lighting-calendar)
 LAST-MODIFIED:20261103T025635Z
+LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
+ rancisco\, CA 94102
+TRANSP:TRANSPARENT
+URL:https://www.sf.gov/location--san-francisco-city-hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHC: purple
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261110T072652Z
+UID:city-hall-lights-ics-8e53b98c56623782@sf-cal
+SEQUENCE:0
+DESCRIPTION:World Pancreatic Cancer Day\n\nDetails: https://www.sf.gov/loc
+ ation--san-francisco-city-hall\nSource: SF City Hall lighting (via Robeliu
+ s/sf-city-hall-lighting-calendar)
+LAST-MODIFIED:20261110T072652Z
 LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
  rancisco\, CA 94102
 TRANSP:TRANSPARENT

@@ -40,93 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Free Ice Skating Lessons at Union Square Ice Rink (Registration Op
- ens for Dec-Jan)
-DTSTART;TZID=America/Los_Angeles:20261102T100000
-DTEND;TZID=America/Los_Angeles:20261102T230000
-DTSTAMP:20261102T061947Z
-UID:funcheap-1644788@sf-cal
-SEQUENCE:1
-CATEGORIES:Sports Fitness
-DESCRIPTION:SF’s Holiday Ice Skating Rink at Union Square (2026-27)\nUni
- on Square Ice Rink\nOne of San Francisco’s favorite holiday traditions r
- eturns for its 19th season. The Safeway Holiday Ice Rink in Union Square o
- pens November 4\, 2026\, bringing outdoor ice skating to the heart of down
- town San Francisco through January 18\, 2027.\nSkate beneath the holiday l
- ights in Union Square\, with themed nights throughout the season ranging f
- rom ’80s music and country glam to a silent disco on ice.\nThe rink is o
- pen daily\, with hour-long skating sessions starting every 90 minutes. Thi
- s year’s lineup includes returning favorites like Drag on Ice\, Silent S
- kate\, Flashback Fridays and Polar Bear Skate\, plus a new series of Wedne
- sday night themed skating sessions. Tickets are on sale now at unionsquare
- icerink.com.\n\nSpecial Events at the Union Square Ice Rink\nOpening Celeb
- ration\nWednesday\, November 4\, 2026 | 5-7 p.m.\nThe season kicks off wit
- h an evening celebration and on-ice performances. The first 100 guests can
-  skate for free during the 5:30 p.m. and 7 p.m. sessions. Registration is 
- required upon arrival.\nFlashback Fridays\nNovember 27\, December 18\, 202
- 6\, and January 15\, 2027 | 7 p.m. and 8:30 p.m. sessions\nSkate to 1980s 
- hits with music from Greatest Hits 103.7. Expect throwback tracks from art
- ists like Madonna\, Michael Jackson\, Queen\, Prince and Pat Benatar.\nDra
- g on Ice\nThursday\, December 3\, 2026 | 6:30-8 p.m. | $35\nLocal drag per
- formers bring their show to the ice for an evening of skating and live ent
- ...\n\nFree\n\nTickets: http://unionsquareicerink.com/union-square-ice-ska
- ting/\nDetails: https://sf.funcheap.com/free-ice-skating-lessons-at-union-
- square-holiday-rink-registration-opens/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/09/Union-
- Square-Ice-Rink_Aerial-at-Night.jpg
-LAST-MODIFIED:20261102T061947Z
-LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-ice-skating-lessons-at-union-square-holid
- ay-rink-registration-opens/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chess Night at Barebottle Brewery
-DTSTART;TZID=America/Los_Angeles:20261102T170000
-DTEND;TZID=America/Los_Angeles:20261102T190000
-DTSTAMP:20261104T195100Z
-UID:dothebay-16373407@sf-cal
-SEQUENCE:1
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:Chess Night at Barebottle Brewery\nEvery Monday\, Barebottle B
- rewing Co. | FREE\n\nJoin us every Monday night from 5-8pm for casual game
- s in a friendly setting. All levels and ages are welcome. Bring a chess se
- t if you have one. Please make a purchase to thank our generous hosts for 
- letting us use their space.\n\nBarebottle Brewery\, 1525 Cortland Ave\, Sa
- n Francisco\nCalendar and mailing list at www.bernalchess.com\n\nFree\n\nD
- etails: https://dothebay.com/events/weekly/mon/chess-night-at-barebottle-b
- rewery-tickets\nSource: DoTheBay
-GEO:37.740118;-122.409102
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/27353777/ce14155a-26b1-4e11-b868-5d3f09d02b09.jpg
-LAST-MODIFIED:20261104T195100Z
-LOCATION:BAREBOTTLE BREWING CO.\, 1525 Cortland Ave.\, San Francisco\, CA\
- , 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/weekly/mon/chess-night-at-barebottle-brewe
- ry-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Golden State Warriors vs. Phoenix Suns
-DTSTART;TZID=America/Los_Angeles:20261102T190000
-DTEND;TZID=America/Los_Angeles:20261102T210000
-DTSTAMP:20261103T105857Z
-UID:dothebay-17727994@sf-cal
-SEQUENCE:1
-CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. Phoenix Suns\n\nDetails: https://dot
- hebay.com/events/2026/11/2/golden-state-warriors-vs-phoenix-suns-tickets\n
- Source: DoTheBay
-GEO:37.7688295;-122.3894164
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33883485/b3073125-34e9-43da-923a-431d7dfb1dce.png
-LAST-MODIFIED:20261103T105857Z
-LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/2/golden-state-warriors-vs-phoenix
- -suns-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Floral Design Workshop
 DTSTART;TZID=America/Los_Angeles:20261103T130000
 DTEND;TZID=America/Los_Angeles:20261103T160000
@@ -674,20 +587,17 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. New Orleans Pelicans
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261110T072652Z
 UID:dothebay-17728016@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. New Orleans Pelicans\n\nTickets: htt
- ps://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3
- A%2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-new-orleans-san-fra
- ncisco-california-11-09-2026%2Fevent%2F1C00650AB38CD7FB\nDetails: https://
- dothebay.com/events/2026/11/9/golden-state-warriors-vs-new-orleans-pelican
- s-tickets\nSource: DoTheBay
+DESCRIPTION:Golden State Warriors vs. New Orleans Pelicans\n\nDetails: htt
+ ps://dothebay.com/events/2026/11/9/golden-state-warriors-vs-new-orleans-pe
+ licans-tickets\nSource: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33883580/39cde144-e546-4c73-9e5a-aeedf8023e66.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261110T072652Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/9/golden-state-warriors-vs-new-orl

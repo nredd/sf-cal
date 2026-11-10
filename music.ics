@@ -40,27 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Lexi Jayde
-DTSTART;TZID=America/Los_Angeles:20261102T193000
-DTEND;TZID=America/Los_Angeles:20261102T213000
-DTSTAMP:20261103T105857Z
-UID:dothebay-17790883@sf-cal
-SEQUENCE:2
-CATEGORIES:Music
-DESCRIPTION:Another Planet Entertainment Presents\nLexi Jayde\nMonday\, No
- vember 2 | The Independent\n\n$126.05\, All ages\nAnother Planet Entertain
- ment Presents: The Lover Girl Tour\nListed time is doors\n\nDetails: https
- ://dothebay.com/events/2026/11/2/lexi-jayde-tickets\nSource: DoTheBay
-GEO:37.7755362;-122.4376556
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34180235/d0744b19-b1e8-4e2b-80ef-c950207805f8.jpg
-LAST-MODIFIED:20261103T105857Z
-LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
- 117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/2/lexi-jayde-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dj Lotta Notta
 DTSTART;TZID=America/Los_Angeles:20261103T180000
 DTEND;TZID=America/Los_Angeles:20261103T200000
@@ -1670,9 +1649,9 @@ BEGIN:VEVENT
 SUMMARY:French Café Music dinner concert with Bistro Moustache
 DTSTART;TZID=America/Los_Angeles:20261109T170000
 DTEND;TZID=America/Los_Angeles:20261109T190000
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261110T072652Z
 UID:dothebay-18029748@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Bistro Moustache plays French Café music\, a style that mixes
   Manouche\, Gypsy Jazz\, Musette\, Swing\, and that was popular in France 
@@ -1691,13 +1670,12 @@ DESCRIPTION:Bistro Moustache plays French Café music\, a style that mixes
  ning.\n\nPrepare to be musically transported to the terrace of a Paris Bis
  tro\, a Guinguette on the Marne river or a Bal Musette on the banks of the
   Seine.\n\nMore info at: http://www.bistromoustache.com/calendar\n\nFree\n
- \nTickets: https://www.bistromoustache.com/calendar\nDetails: https://doth
- ebay.com/events/2026/11/9/french-cafe-music-dinner-with-bistro-moustache-t
- ickets\nSource: DoTheBay
+ \nDetails: https://dothebay.com/events/2026/11/9/french-cafe-music-dinner-
+ with-bistro-moustache-tickets\nSource: DoTheBay
 GEO:37.788182;-122.440667
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35276283/ccd5e460-0b08-48f1-b0a0-166b12b09caf.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261110T072652Z
 LOCATION:Scopo Divino\, 2800 California Street\, San Francisco\, CA\, 9411
  5
 TRANSP:TRANSPARENT
@@ -1708,22 +1686,19 @@ BEGIN:VEVENT
 SUMMARY:Sienna Spiro
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261110T072652Z
 UID:dothebay-17464266@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Another Planet Entertainment presents\nMy House Tour\nSienna S
  piro\nMonday\, November 9 | The Castro\n\nall ages\nSold out\nAnother Plan
- et Entertainment presents: My House Tour\nListed time is doors\n\nTickets:
-  https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=htt
- ps%3A%2F%2Fwww.ticketmaster.com%2Fsienna-spiro-my-house-tour-san-francisco
- -california-11-09-2026%2Fevent%2F1C0064C4FD867F42%3Fcamefrom%3DCFC_ANOTHER
- PLANET_web%26brand%3Danotherplanet\nDetails: https://dothebay.com/events/2
- 026/11/9/sienna-spiro-tickets\nSource: DoTheBay
+ et Entertainment presents: My House Tour\nListed time is doors\n\nDetails:
+  https://dothebay.com/events/2026/11/9/sienna-spiro-tickets\nSource: DoThe
+ Bay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32629613/e2182195-7975-41f1-b66e-c461080a4149.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261110T072652Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/9/sienna-spiro-tickets
@@ -1732,9 +1707,9 @@ BEGIN:VEVENT
 SUMMARY:Karaoke: NightZ @ Z
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T210000
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261110T072652Z
 UID:dothebay-17956742@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Join us for Karaoke in Z Space's spacious lobby-the perfect ch
  ance to cut loose and belt out your favorite tunes while enjoying a few dr
@@ -1747,13 +1722,12 @@ DESCRIPTION:Join us for Karaoke in Z Space's spacious lobby-the perfect ch
  ing your own dinner or have food delivered to our space. No outside bevera
  ges\, please.\n\nReservations are highly encouraged for this FREE event\, 
  so we know roughly how many people to expect. Thank you!\n\nFree RSVP.\n\n
- Presented by Z Space\n\nFree\nZ Space\n\nTickets: http://www.zspace.org\nD
- etails: https://dothebay.com/events/2026/11/9/karaoke-nightz-z-tickets\nSo
- urce: DoTheBay
+ Presented by Z Space\n\nFree\nZ Space\n\nDetails: https://dothebay.com/eve
+ nts/2026/11/9/karaoke-nightz-z-tickets\nSource: DoTheBay
 GEO:37.763497;-122.411481
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34962768/22b7278f-662d-46d2-8e38-df97ee041b93.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261110T072652Z
 LOCATION:Z Space - Steindler Stage\, 450 Florida St\, San Francisco\, CA\,
   94110
 TRANSP:TRANSPARENT
@@ -1763,19 +1737,18 @@ BEGIN:VEVENT
 SUMMARY:Weston Estate
 DTSTART;TZID=America/Los_Angeles:20261109T193000
 DTEND;TZID=America/Los_Angeles:20261109T213000
-DTSTAMP:20261007T210655Z
+DTSTAMP:20261110T072652Z
 UID:dothebay-17838724@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Music
 DESCRIPTION:Second Night Added By Popular Demand!\n\nAnother Planet Entert
  ainment Presents\nWeston Estate\nMonday\, November 9 | ​The Independent\
- n\n$35+\nAnother Planet Entertainment Presents\n\nTickets: https://www.the
- independentsf.com/tm-event/weston-estate-2/\nDetails: https://dothebay.com
- /events/2026/11/9/weston-estate-tickets\nSource: DoTheBay
+ n\n$35+\nAnother Planet Entertainment Presents\n\nDetails: https://dotheba
+ y.com/events/2026/11/9/weston-estate-tickets\nSource: DoTheBay
 GEO:37.7755362;-122.4376556
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34403489/8c0cdff1-5a77-45f6-ae81-0bd475625a25.jpg
-LAST-MODIFIED:20261007T210655Z
+LAST-MODIFIED:20261110T072652Z
 LOCATION:The Independent\, 628 Divisadero Street\, San Francisco\, CA\, 94
  117
 TRANSP:TRANSPARENT
@@ -1785,20 +1758,17 @@ BEGIN:VEVENT
 SUMMARY:Quadeca
 DTSTART;TZID=America/Los_Angeles:20261109T200000
 DTEND;TZID=America/Los_Angeles:20261109T220000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261110T072652Z
 UID:dothebay-17645492@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:Life 1 Tour\nQuadeca\nwith DERBY + Olēka\n\nMonday\, November
-  9 | The Fillmore\n\nLife 1 Tour\n\nTickets: https://ticketmaster.evyy.net
- /c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.co
- m%2Fquadeca-san-francisco-california-11-09-2026%2Fevent%2F1C0064F48D166DDE
- \nDetails: https://dothebay.com/events/2026/11/9/quadeca-tickets\nSource: 
- DoTheBay
+  9 | The Fillmore\n\nLife 1 Tour\n\nDetails: https://dothebay.com/events/2
+ 026/11/9/quadeca-tickets\nSource: DoTheBay
 GEO:37.7840042;-122.4331332
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33493379/78fa41bb-9ef6-4861-9d0a-49177f70b90e.png
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261110T072652Z
 LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/9/quadeca-tickets
