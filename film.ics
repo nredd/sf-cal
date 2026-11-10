@@ -40,32 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Whalefall
-DTSTART;TZID=America/Los_Angeles:20261103T113000
-DTEND;TZID=America/Los_Angeles:20261103T133000
-DTSTAMP:20261104T110513Z
-UID:dothebay-18029074@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:Jay Gardiner is having a whale of a bad day. While diving off 
- the California coast to recover his late father’s remains\, he gets swal
- lowed whole by an 80-foot sperm whale and has one hour of oxygen to escape
- . Austin Abrams\, currently having a major moment after starring in Zach C
- regger’s RESIDENT EVIL\, leads this adaptation of Daniel Kraus’ bestse
- lling novel. Yes\, it’s a movie where a guy gets swallowed by a whale\, 
- but it’s also a tense and even moving tale of survival\, grief\, and fam
- ily. Dive in on the big screen.\n\nDetails: https://dothebay.com/events/20
- 26/11/3/whalefall-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35272892/04d332c1-3ff7-4e9e-bee3-5caca28432b3.jpg
-LAST-MODIFIED:20261104T110513Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/3/whalefall-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Domingos
 DTSTART;TZID=America/Los_Angeles:20261103T180000
 DTEND;TZID=America/Los_Angeles:20261103T200000

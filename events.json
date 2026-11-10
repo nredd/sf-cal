@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-09T22:28:18.990128Z",
+ "last_full_refresh": "2026-11-10T23:28:45.964621Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -835,33 +835,6 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://www.ticketmaster.com/alvin-kuai-san-francisco-california-11-17-2026/event/1C0064F5CE111428?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Punch Line Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "bbc60511ec53798f",
-   "title": "Caitlin Peluffo",
-   "start": "2026-11-18T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Punch Line Comedy Club - San Francisco",
-   "address": "444 Battery Street, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/caitlin-peluffo-san-francisco-california-11-18-2026/event/1C00653697A1B1ED?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
    "ticket_url": null,
    "price_text": null,
    "is_free": false,
@@ -4772,60 +4745,6 @@
    "description": "Stomach Cancer Awareness Day",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18029074",
-   "title": "Whalefall",
-   "start": "2026-11-03T11:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Alamo Drafthouse Cinema",
-   "address": "2550 Mission St, San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.7562198,
-    -122.419185
-   ],
-   "url": "https://dothebay.com/events/2026/11/3/whalefall-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Jay Gardiner is having a whale of a bad day. While diving off the California coast to recover his late father’s remains, he gets swallowed whole by an 80-foot sperm whale and has one hour of oxygen to escape. Austin Abrams, currently having a major moment after starring in Zach Cregger’s RESIDENT EVIL, leads this adaptation of Daniel Kraus’ bestselling novel. Yes, it’s a movie where a guy gets swallowed by a whale, but it’s also a tense and even moving tale of survival, grief, and family. Dive in on the big screen.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35272892/04d332c1-3ff7-4e9e-bee3-5caca28432b3.jpg",
-   "categories": [
-    "Film"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17898369",
-   "title": "Mind Reels - Maestra",
-   "start": "2026-11-03T12:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "The Village at Corte Madera",
-   "address": "1557 Redwood Hwy, Corte Madera, CA",
-   "locality": "Corte Madera",
-   "geo": [
-    37.93161,
-    -122.513699
-   ],
-   "url": "https://dothebay.com/events/2026/11/3/mind-reels-maestra-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Follows five international women who participate in ‘La Maestra’, the only competition in the world for female orchestra conductors.\n\n1hr 28min - NR\n\nLunch Option will appear as FEES upon checkout.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34689259/26df98a0-843c-4ccf-9aca-e520277b26ff.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
    "notes": []
   },
   {
@@ -53585,30 +53504,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1641306",
-   "title": "Transportation & Senior Services Resource Fair (Redwood City)",
-   "start": "2026-11-03T10:00:00-08:00",
-   "end": "2026-11-03T12:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Veterans Memorial Senior Center",
-   "address": "1333 Madison Avenue, Redwood City",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/transportation-senior-services-resource-fair-redwood-city/",
-   "ticket_url": "https://www.eventbrite.com/e/transportation-senior-services-resource-fair-redwood-city-tickets-2003035082853?aff=ebdssbdestsearch",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Veterans Memorial Senior CenterCome gather information and engage with staff of local organizations that offer crucial transportation and services to older adults in San Mateo County!\nFree to attend. Bring family and friends!\nNeed a ride to the resource fair? Via Assist is offering free-rides to residents who live from Burlingame to the southern region of San Mateo County until the end of 2026!\nBook a ride by:\n– downloading the Via Assist NorCal app\n– calling 650-215-6550\nSee you at the resource fair!",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/2026_11_03_Resource-Fair_Redwood-City.jpg",
-   "categories": [
-    "Fairs Festivals"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1644852",
    "title": "Free 2026 Stray Kids K-Pop Pop-Up at Serramante Daly City (Nov. 3-11)",
    "start": "2026-11-03T10:00:00-08:00",
@@ -61209,6 +61104,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646741",
+   "title": "Colma’s Asian Night Market & Parol Lantern Workshop",
+   "start": "2026-11-20T17:00:00-08:00",
+   "end": "2026-11-20T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Colma Community Center Parking Lot",
+   "address": "1520 Hillside Blvd, Colma, CA",
+   "locality": "Colma",
+   "geo": null,
+   "url": "https://sf.funcheap.com/colmas-asian-night-market-parol-lantern-workshop/",
+   "ticket_url": "https://www.instagram.com/p/DfDBRbmoSWt/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Town Of ColmaThe Town of Colma and Lemon Nerds are teaming up for a free Night Market featuring a taste of Asia. Stop by for food vendors, music, and a hands-on Parol Lantern Workshop. Enjoy an evening of food, culture, and community at the Colma Community Center.\nFriday, November 20, 2026 | 5-8 PM\nColma Community Center Parking Lot (1520 Hillside Blvd, Colma)\nFREE\nOriginal Event Description:\nJoin us this November for our first ever Night Market, in collaboration with @lemonnerds ✨ Get a taste of Asia, participate in a Parol Lantern Workshop and enjoy the vibes 🌙",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/870005662_18638212600024797_4244832160049960089_n.jpg",
+   "categories": [
+    "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1638519",
    "title": "SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telescope (Nov. 2026)",
    "start": "2026-11-20T18:30:00-08:00",
@@ -62978,6 +62897,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/351350-26_Social_NovFilms-Hook_1x1-1.jpg",
    "categories": [
     "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646723",
+   "title": "3rd Annual Holiday Tree Lighting, Carousel Lighting + Free Ice Skating (Yerba Buena Gardens)",
+   "start": "2026-11-28T16:30:00-08:00",
+   "end": "2026-11-28T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Yerba Buena Gardens",
+   "address": "Mission St. & 3rd St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/3rd-annual-holiday-tree-lighting-carousel-lighting-free-ice-skating-yerba-buena-gardens/",
+   "ticket_url": "https://www.eventbrite.com/e/3rd-annual-holiday-tree-lighting-at-yerba-buena-garden-tickets-2001012501257?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "YBGC\nCome kick off the holiday season with us at Yerba Buena Gardens with a tree lighting, hot cocoa, and more!\n\nWith cheer and good spirits, we invite you to celebrate the holiday season at Yerba Buena Gardens. Enjoy hot cocoa, a tree lighting, free carousel rides, and free ice skating with discounted skate rentals.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Lighting-40.jpg",
+   "categories": [
+    "Community"
    ],
    "notes": []
   },
@@ -70373,6 +70316,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646763",
+   "title": "Intro to Personal Safety & Self-Defense Class | Berkeley",
+   "start": "2027-01-11T19:00:00-08:00",
+   "end": "2027-01-11T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Sports Basement (Berkeley)",
+   "address": "2727 Milvia St, Berkeley, CA",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/intro-to-personal-safety-self-defense-class-berkeley-103/",
+   "ticket_url": "https://www.impactbayarea.org/1_hour_intro",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerIntro to Personal Safety & Self-Defense Class | Berkeley\nImpact Bay Area\nThis one hour class provides an introduction to IMPACT Bay Area’s style of empowerment self-defense. In this class students develop intuition, situational awareness, congruent body language and verbal skills to deescalate and deter assault and harassment, as well as learn two simple and effective physical techniques.\nStudents who complete this class will receive a discount off a future full-length Basics course. 1 Hour Intro classes are open to adults of all genders and are totally free.\n\nIntro to Personal Safety & Self-Defense Class\nEvery 2nd Monday | 7 pm to 8 pm\nSports Basement, 2727 Milvia St, Berkeley, CA\nFREE, an RSVP is required.\n– Updated 6/7/19 – Event info last checked via website\n\nUpcoming Intro to Personal Safety & Self-Defense Class | Berkeley Events\nMon 12/14 Intro to Personal Safety & Self-Defense Class | BerkeleyMon 1/11 Intro to Personal Safety & Self-Defense Class | BerkeleyMon 2/8 Intro to Personal Safety & Self-Defense Class | BerkeleyDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2018/01/Self-defense.png",
+   "categories": [
+    "Sports Fitness"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1642846",
    "title": "San Francisco Botanical Garden’s Free Day (2nd Tuesdays)",
    "start": "2027-01-12T07:30:00-08:00",
@@ -70872,6 +70839,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/08/356799184_3412170722365527_7262830163867165123_n.jpeg",
    "categories": [
     "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646765",
+   "title": "Intro to Personal Safety & Self-Defense Class | Berkeley",
+   "start": "2027-02-08T19:00:00-08:00",
+   "end": "2027-02-08T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Sports Basement (Berkeley)",
+   "address": "2727 Milvia St, Berkeley, CA",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/intro-to-personal-safety-self-defense-class-berkeley-104/",
+   "ticket_url": "https://www.impactbayarea.org/1_hour_intro",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerIntro to Personal Safety & Self-Defense Class | Berkeley\nImpact Bay Area\nThis one hour class provides an introduction to IMPACT Bay Area’s style of empowerment self-defense. In this class students develop intuition, situational awareness, congruent body language and verbal skills to deescalate and deter assault and harassment, as well as learn two simple and effective physical techniques.\nStudents who complete this class will receive a discount off a future full-length Basics course. 1 Hour Intro classes are open to adults of all genders and are totally free.\n\nIntro to Personal Safety & Self-Defense Class\nEvery 2nd Monday | 7 pm to 8 pm\nSports Basement, 2727 Milvia St, Berkeley, CA\nFREE, an RSVP is required.\n– Updated 6/7/19 – Event info last checked via website\n\nUpcoming Intro to Personal Safety & Self-Defense Class | Berkeley Events\nMon 12/14 Intro to Personal Safety & Self-Defense Class | BerkeleyMon 1/11 Intro to Personal Safety & Self-Defense Class | BerkeleyMon 2/8 Intro to Personal Safety & Self-Defense Class | BerkeleyDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2018/01/Self-defense.png",
+   "categories": [
+    "Sports Fitness"
    ],
    "notes": []
   },
@@ -74564,8 +74555,6 @@
     "1617223": "2026-10-01T16:58:33",
     "1618374": "2026-09-28T18:00:47",
     "1618407": "2026-10-18T18:23:19",
-    "1618500": "2026-09-27T00:28:25",
-    "1619371": "2026-09-27T00:29:13",
     "1620152": "2026-10-01T16:59:38",
     "1620155": "2026-09-28T17:55:18",
     "1620197": "2026-09-28T17:52:26",
@@ -74578,18 +74567,13 @@
     "1624281": "2026-09-28T17:57:39",
     "1625167": "2026-09-28T17:50:13",
     "1626032": "2026-09-30T21:42:49",
-    "1626431": "2026-09-27T00:29:48",
     "1627907": "2026-09-28T18:03:09",
     "1628183": "2026-10-18T17:59:30",
-    "1631183": "2026-09-27T00:29:55",
     "1631211": "2026-09-28T18:07:24",
     "1631372": "2026-10-18T18:30:19",
     "1631422": "2026-09-28T18:00:50",
     "1631613": "2026-10-18T17:56:07",
-    "1631620": "2026-09-27T00:27:55",
-    "1631623": "2026-09-27T00:28:19",
     "1631626": "2026-09-28T17:26:56",
-    "1632051": "2026-09-27T00:14:50",
     "1632054": "2026-09-28T17:50:16",
     "1632057": "2026-10-01T16:58:10",
     "1632060": "2026-10-01T16:58:06",
@@ -74601,24 +74585,17 @@
     "1632213": "2026-10-18T17:55:31",
     "1632273": "2026-10-22T13:52:04",
     "1632472": "2026-09-28T17:50:19",
-    "1632727": "2026-09-27T00:13:04",
     "1632760": "2026-10-17T18:34:04",
     "1633130": "2026-10-18T17:57:01",
-    "1633439": "2026-09-27T00:29:38",
-    "1633524": "2026-09-27T00:21:27",
-    "1633564": "2026-09-27T00:29:28",
     "1633862": "2026-09-28T17:52:33",
     "1633865": "2026-10-18T18:00:30",
     "1634083": "2026-09-28T18:07:49",
     "1634103": "2026-11-03T17:33:53",
-    "1634199": "2026-09-27T00:14:47",
-    "1634243": "2026-09-27T00:13:26",
     "1634255": "2026-09-28T17:25:45",
     "1634289": "2026-10-07T00:21:19",
     "1634292": "2026-09-28T17:59:59",
     "1634320": "2026-10-21T11:48:24",
     "1634343": "2026-10-25T16:22:10",
-    "1634346": "2026-09-27T00:21:38",
     "1634349": "2026-09-28T17:59:14",
     "1634416": "2026-09-30T17:48:54",
     "1634419": "2026-09-28T17:41:39",
@@ -74635,7 +74612,6 @@
     "1634860": "2026-09-28T17:51:02",
     "1634966": "2026-11-03T17:35:17",
     "1634980": "2026-10-17T18:34:07",
-    "1635030": "2026-09-27T00:19:13",
     "1635198": "2026-10-18T17:56:42",
     "1635313": "2026-10-18T18:30:22",
     "1635358": "2026-09-28T18:07:29",
@@ -74645,22 +74621,14 @@
     "1635893": "2026-10-17T18:30:35",
     "1635905": "2026-09-28T17:54:38",
     "1635909": "2026-09-28T17:54:31",
-    "1635922": "2026-09-27T00:19:00",
     "1635951": "2026-09-28T18:03:12",
-    "1635968": "2026-09-27T00:13:55",
     "1636135": "2026-09-28T17:54:44",
-    "1636160": "2026-09-27T00:13:36",
-    "1636164": "2026-09-27T00:13:47",
     "1636418": "2026-09-30T17:47:48",
     "1636447": "2026-09-30T17:35:49",
     "1636508": "2026-09-28T17:41:29",
-    "1636585": "2026-09-27T00:29:42",
-    "1636642": "2026-09-27T00:29:36",
-    "1636669": "2026-09-27T00:15:03",
     "1636714": "2026-10-18T17:56:10",
     "1636716": "2026-09-28T18:04:31",
     "1636795": "2026-10-18T18:20:35",
-    "1636805": "2026-09-27T00:18:57",
     "1636850": "2026-09-28T18:03:18",
     "1636919": "2026-09-28T18:05:29",
     "1636948": "2026-09-28T17:51:11",
@@ -74668,17 +74636,13 @@
     "1637003": "2026-09-28T17:42:33",
     "1637009": "2026-10-18T18:23:22",
     "1637015": "2026-10-18T18:22:35",
-    "1637045": "2026-09-27T00:19:11",
     "1637051": "2026-09-28T17:51:28",
     "1637058": "2026-09-28T17:59:55",
-    "1637062": "2026-09-27T00:28:31",
     "1637082": "2026-09-28T17:25:15",
-    "1637111": "2026-09-27T00:22:13",
     "1637188": "2026-09-28T17:46:37",
     "1637204": "2026-10-25T16:40:31",
     "1637228": "2026-10-18T17:59:55",
     "1637236": "2026-10-31T19:17:31",
-    "1637239": "2026-09-27T00:28:59",
     "1637245": "2026-09-28T17:52:33",
     "1637248": "2026-09-28T18:05:22",
     "1637251": "2026-09-28T17:50:22",
@@ -74686,39 +74650,22 @@
     "1637343": "2026-10-01T00:32:35",
     "1637361": "2026-10-17T18:34:09",
     "1637398": "2026-10-17T18:25:36",
-    "1637404": "2026-09-27T00:27:40",
     "1637519": "2026-09-28T18:04:35",
     "1637522": "2026-10-18T17:55:55",
     "1637555": "2026-10-18T18:14:04",
-    "1637573": "2026-09-27T00:26:59",
     "1637579": "2026-09-28T17:51:50",
-    "1637582": "2026-09-27T00:19:02",
-    "1637597": "2026-09-27T00:19:15",
     "1637604": "2026-09-30T17:47:51",
-    "1637610": "2026-09-27T00:19:19",
-    "1637619": "2026-09-27T00:29:17",
-    "1637631": "2026-09-27T00:20:26",
     "1637643": "2026-10-18T18:04:15",
     "1637646": "2026-10-01T00:35:56",
-    "1637737": "2026-09-27T00:15:17",
-    "1637743": "2026-09-27T00:20:05",
-    "1637753": "2026-09-27T00:18:55",
     "1637756": "2026-10-25T16:22:13",
     "1637762": "2026-09-28T17:52:31",
     "1637786": "2026-09-28T17:50:35",
-    "1637834": "2026-09-27T00:14:44",
     "1637859": "2026-09-28T18:07:21",
     "1637866": "2026-09-28T17:59:16",
-    "1637872": "2026-09-27T00:29:22",
     "1637875": "2026-10-18T18:08:51",
     "1637878": "2026-10-21T23:16:54",
-    "1637902": "2026-09-27T00:29:35",
     "1637915": "2026-09-28T18:04:48",
     "1638130": "2026-09-28T18:07:27",
-    "1638236": "2026-09-27T00:22:18",
-    "1638243": "2026-09-27T00:26:17",
-    "1638247": "2026-09-27T00:28:35",
-    "1638259": "2026-09-27T00:31:40",
     "1638264": "2026-09-28T17:54:25",
     "1638297": "2026-10-18T18:23:25",
     "1638299": "2026-10-17T18:25:38",
@@ -74726,15 +74673,11 @@
     "1638425": "2026-09-28T17:46:53",
     "1638472": "2026-09-28T17:24:56",
     "1638573": "2026-09-28T17:33:41",
-    "1638582": "2026-09-27T00:13:16",
     "1638629": "2026-09-28T17:50:25",
     "1638652": "2026-09-28T17:54:50",
-    "1638663": "2026-09-27T00:13:58",
     "1638667": "2026-10-18T18:23:27",
     "1638676": "2026-10-14T16:31:47",
     "1638682": "2026-10-21T23:17:28",
-    "1638704": "2026-09-27T00:19:38",
-    "1638707": "2026-10-05T22:55:12",
     "1638710": "2026-09-28T17:25:32",
     "1638859": "2026-10-18T18:04:44",
     "1638913": "2026-10-18T18:22:09",
@@ -74743,27 +74686,18 @@
     "1639081": "2026-09-28T18:04:39",
     "1639097": "2026-09-30T17:49:16",
     "1639103": "2026-09-28T17:42:05",
-    "1639106": "2026-09-27T00:21:12",
     "1639109": "2026-09-28T18:05:20",
     "1639115": "2026-09-28T18:00:03",
     "1639125": "2026-10-25T20:17:26",
     "1639128": "2026-10-25T16:42:29",
-    "1639131": "2026-09-27T00:27:52",
     "1639134": "2026-10-25T16:37:09",
     "1639150": "2026-10-25T16:23:49",
     "1639153": "2026-10-01T00:35:07",
     "1639156": "2026-09-28T17:42:21",
     "1639162": "2026-10-01T00:35:14",
-    "1639165": "2026-09-27T00:19:08",
     "1639222": "2026-09-28T17:54:20",
-    "1639225": "2026-09-27T00:31:54",
     "1639252": "2026-09-28T17:57:48",
     "1639255": "2026-09-30T17:48:04",
-    "1639295": "2026-09-27T00:13:37",
-    "1639297": "2026-09-27T00:13:42",
-    "1639300": "2026-09-27T00:13:51",
-    "1639303": "2026-09-27T00:13:57",
-    "1639306": "2026-09-27T00:14:08",
     "1639362": "2026-10-18T17:55:44",
     "1639365": "2026-09-27T10:13:33",
     "1639367": "2026-09-27T10:13:38",
@@ -75987,6 +75921,10 @@
     "1646666": "2026-11-10T02:39:52",
     "1646667": "2026-11-10T02:40:04",
     "1646668": "2026-11-10T02:40:21",
+    "1646723": "2026-11-10T17:55:52",
+    "1646741": "2026-11-10T21:18:29",
+    "1646763": "2026-11-10T22:15:45",
+    "1646765": "2026-11-10T22:15:46",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52",
@@ -76112,6 +76050,11 @@
    "sequence": 1,
    "last_modified": "2026-11-05T01:29:41.916374Z"
   },
+  "caldiscovery-comedy-987a30837120c452@sf-cal": {
+   "content_hash": "bf1722ef5d584f1b931d8b7adb3597e8fe525e7bba2db786f1e8758361473745",
+   "sequence": 0,
+   "last_modified": "2026-11-10T23:28:45.964621Z"
+  },
   "caldiscovery-comedy-a093f78390786f63@sf-cal": {
    "content_hash": "6360217e4731d345297b5ed9e9b4f7f080da1c20a8ec69bc421f926e00b79132",
    "sequence": 2,
@@ -76151,6 +76094,11 @@
    "content_hash": "721eb8ecb95eb86e873287d16410620d55368f8f154c09593284daf241e34362",
    "sequence": 2,
    "last_modified": "2026-10-08T18:53:26.448470Z"
+  },
+  "caldiscovery-comedy-d6671ed5210a851a@sf-cal": {
+   "content_hash": "b18ffd5a66e0557ff140db29290d416b53fc8ba73e1bbca9095df2084b79bda9",
+   "sequence": 0,
+   "last_modified": "2026-11-10T23:28:45.964621Z"
   },
   "caldiscovery-comedy-d6d22fd31300a41e@sf-cal": {
    "content_hash": "ffd95fb696b9f7c0e2c90f74fe5f52d98fe9565461987f3979b38fbcf0cd40a1",
@@ -76297,11 +76245,6 @@
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
-  "caldiscovery-festival-987a30837120c452@sf-cal": {
-   "content_hash": "632b5919b2d21016470b76a2a333c95e5ce4a61ccdf1673a678cb3615635fb9f",
-   "sequence": 0,
-   "last_modified": "2026-11-08T13:37:56.405463Z"
-  },
   "caldiscovery-festival-9967d4ac3bfe7f87@sf-cal": {
    "content_hash": "a3392c2bfacf5f3e9d4082b69c321a087e3b0903de1ba699e978a1e028cc35a5",
    "sequence": 0,
@@ -76366,11 +76309,6 @@
    "content_hash": "a5bce92cdb48bc002d2da78ddd3b823cc0868bafe0abda20a9b097381f7e982d",
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
-  },
-  "caldiscovery-festival-d6671ed5210a851a@sf-cal": {
-   "content_hash": "bcff06ebab09cf7526ae45ed415831c148a801ba88ca244878745ed46ec993a8",
-   "sequence": 0,
-   "last_modified": "2026-11-08T13:37:56.405463Z"
   },
   "caldiscovery-festival-f6d3cab52cfae0b3@sf-cal": {
    "content_hash": "9a39ec44e7f5ebf2f93a531812bf987d1c6462ee3e5ab6fbb70148e005a3c2c2",
@@ -79528,9 +79466,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17877344@sf-cal": {
-   "content_hash": "4fda7e94139c9b2a03fc59aec27993684424e3d8711bbb7506bb7b1679f7ce40",
-   "sequence": 1,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
+   "content_hash": "451f418d1d8a301197bb708a76a16e0074d6da2939e4e04f11cb61e416f00cb5",
+   "sequence": 2,
+   "last_modified": "2026-11-10T23:28:45.964621Z"
   },
   "dothebay-17877351@sf-cal": {
    "content_hash": "4f0638f9b73ff86eee394353a04742da51c5eac17ff23ed5e05a59e700d5068c",
@@ -81662,11 +81600,6 @@
    "sequence": 1,
    "last_modified": "2026-11-04T11:05:13.938019Z"
   },
-  "dothebay-18029074@sf-cal": {
-   "content_hash": "d512273241183d49fb5ace8d05bb4ab25ad3f59ef40f9f55576b1b7bbb824739",
-   "sequence": 1,
-   "last_modified": "2026-11-04T11:05:13.938019Z"
-  },
   "dothebay-18029103@sf-cal": {
    "content_hash": "88de92a7a8d20b2dee380e41d3f666553ea08433648b82518b8d7c47a006730e",
    "sequence": 1,
@@ -83212,11 +83145,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T17:22:18.408093Z"
   },
-  "funcheap-1641306@sf-cal": {
-   "content_hash": "3226785ac3c9e190941b22e352a4d91fe5e08ac33824102346cb6c483e35aa6e",
-   "sequence": 0,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
-  },
   "funcheap-1641463@sf-cal": {
    "content_hash": "8ebe34481446254f535f55ec2dae2144f640e549ad206e61caaa859168dd1959",
    "sequence": 0,
@@ -84711,6 +84639,11 @@
    "content_hash": "646ba100a9d32fed3e0ef8c77c5ee342750c17e429f2afbc46c6d6bd645e8ed1",
    "sequence": 0,
    "last_modified": "2026-11-10T07:26:52.401273Z"
+  },
+  "funcheap-1646723@sf-cal": {
+   "content_hash": "c96eb66cbba752003e5f5008b9978bc85fe163a6df28c41fbf97ea0368a3cc31",
+   "sequence": 0,
+   "last_modified": "2026-11-10T23:28:45.964621Z"
   },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",
