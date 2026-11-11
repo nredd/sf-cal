@@ -2784,37 +2784,6 @@ URL:https://sf.funcheap.com/sf-arcade-bar-emporium-8-free-game-tokens-for-
  industry-night-every-monday-169/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Festival of Lights Celebration
-DTSTART;TZID=America/Los_Angeles:20261110T090000
-DTEND;TZID=America/Los_Angeles:20261110T120000
-DTSTAMP:20261109T114430Z
-UID:caldiscovery-festival-9d908cc52a55537c@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:Join the Asian-Pacific Islander Alliance BRG (APIA BRG)\, in c
- ollaboration with Nutrition Services\, for a Festival of Lights Celebratio
- n at Clements University Hospital.\n\nOriginating in the South Asian subco
- ntinent of India\, the Festival of Lights is a cultural celebration that s
- ymbolizes the triumph of light over darkness while celebrating hope\, unit
- y\, and community.\n\nEnjoy a special Indian cuisine lunch featuring: samo
- sas\, paneer tikka masala\, jeera potatoes\, dal fry\, butter naan\, basma
- ti rice\, gulab jamun\, and chai tea. Plates are $10 per person.\n\nExperi
- ence the festive atmosphere with traditional music and beautiful diya disp
- laysParticipate in a community art activity by adding gems to our collabor
- ative designConnect with colleagues across UTSW and members of the APIA BR
- GLearn about the Festival of Lights and upcoming APIA BRG eventsRegister h
- ere.\n\nPublished by UT Southwestern Events Calendar Calendar\nContains in
- formation from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: http
- s://events.utsouthwestern.edu/event/festival-of-lights-celebration-2026?ut
- m_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource
- : CalDiscovery
-LAST-MODIFIED:20261109T114430Z
-LOCATION:William P. Clements Jr. University Hospital\, Glass Dining Hall
-TRANSP:TRANSPARENT
-URL:https://events.utsouthwestern.edu/event/festival-of-lights-celebration
- -2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NEW DATE: Henry J. Evans - Bombs\, Bacon\, and Bankruptcy
 DTSTART;TZID=America/Los_Angeles:20261110T173000
 DTEND;TZID=America/Los_Angeles:20261110T193000
@@ -3979,6 +3948,40 @@ LOCATION:Ferry Building\, One Ferry Marketplace\, San Francisco\, CA\, 941
  11
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/13/board-game-night-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performing Arts Showcase (Canceled due to weather)
+DTSTART;TZID=America/Los_Angeles:20261113T170000
+DTEND;TZID=America/Los_Angeles:20261113T200000
+DTSTAMP:20261111T171419Z
+UID:sfciviccenter-80fe217dbc3cb349@sf-cal
+SEQUENCE:0
+CATEGORIES:Art,Community,Dance,Music,Theater
+DESCRIPTION:UPDATE: Due to rain\, this event has been canceled. We will re
+ schedule the Performing Arts Showcase for a future date.\nOriginal: On Fri
+ day\, November 13\, from 5–8 pm\, Fulton Plaza will come alive beneath t
+ he dazzling SPECTRA lights for the holiday season’s Performing Arts Show
+ case\, a celebration bringing together some of downtown’s most exciting 
+ performing arts organizations for one unforgettable evening.\nGuests will 
+ be treated to a dynamic lineup of live performances of what’s on stage F
+ all 2026-Winter 2027. Expect short works from the San Francisco Opera\, Sa
+ n Francisco Ballet musicians\, San Francisco Conservatory of Music\, the A
+ frican American Shakespeare Company\, RAWdance\, and more. From powerful v
+ oices and sweeping orchestral music to captivating movement and theatrical
+  performances\, the showcase offers a little bit of everything — and is 
+ a memorable way to launch the holiday season.\nThis event is free\, RSVP h
+ ere. There will be both bleacher and street-level seating.\nAfter the perf
+ ormances there opportunity to mingle with the performing arts organization
+ s along with the SF Symphony and ATG San Francisco\, as well as ticket sal
+ es\, ticket raffles\, and bites and drinks for purchase.\n\nThank you to e
+ vent sponsors: Avenue Greenlight\, Civic Center Community Benefit District
+ \, Illuminate\, and the San Francisco Public Library\n\nDetails: https://s
+ fciviccenter.org/event/holiday-season-performing-arts-showcase/\nSource: S
+ F Civic Center
+LAST-MODIFIED:20261111T171419Z
+TRANSP:TRANSPARENT
+URL:https://sfciviccenter.org/event/holiday-season-performing-arts-showcas
+ e/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNDSCVRD Made With Mahal Mural Unveiling
@@ -9380,9 +9383,9 @@ BEGIN:VEVENT
 SUMMARY:Small Press Book Bazaar
 DTSTART;TZID=America/Los_Angeles:20261205T120000
 DTEND;TZID=America/Los_Angeles:20261205T140000
-DTSTAMP:20261109T222818Z
+DTSTAMP:20261111T171419Z
 UID:dothebay-18051611@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Variety
 DESCRIPTION:12pm – 7pm\n\nFree Entry\n\nThe Small Press Book Bazaar is a
   one-day gathering of Bay Area artists\, designers and booksellers that ce
@@ -9399,11 +9402,13 @@ DESCRIPTION:12pm – 7pm\n\nFree Entry\n\nThe Small Press Book Bazaar is a
  e Merchant*\n\nHarpy House Press*\n\nilletante books\n\nIrrelevant Press\n
  \nKATE LASTER\n\nLa Chancleta Voladora\n\nLower Grand Radio*\n\nModlitbook
  s\n\nMore Human Editions\n\nDetails: https://dothebay.com/events/2026/12/5
- /small-press-book-bazaar-tickets\nSource: DoTheBay
+ /small-press-book-bazaar-tickets\nSource: DoTheBay\n\nAlso listed on:\n- h
+ ttps://sf.funcheap.com/sfs-small-press-book-bazaar-2026-50-bay-area-vendor
+ s/
 GEO:37.765289;-122.418493
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35368037/e1b367ab-1c44-4593-be89-5a9ff2f5a906.jpg
-LAST-MODIFIED:20261109T222818Z
+LAST-MODIFIED:20261111T171419Z
 LOCATION:The Lab\, 2948 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/5/small-press-book-bazaar-tickets
@@ -12944,6 +12949,36 @@ URL:https://sf.funcheap.com/moad-museum-of-the-african-diaspora-free-museu
  m-day-sf-47/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anime & Manga Club: An Afternoon Full Of Fun | SF
+DTSTART;TZID=America/Los_Angeles:20270110T140000
+DTEND;TZID=America/Los_Angeles:20270110T153000
+DTSTAMP:20261111T171419Z
+UID:funcheap-1646957@sf-cal
+SEQUENCE:0
+CATEGORIES:Geek Event
+DESCRIPTION:Submitted by the Event OrganizerAnime & Manga Club: An Afterno
+ on Full Of Fun | SF\nPhoto | via Somerville Public Library\n\nCome join at
+  the Park Branch Library\, every 2nd Sunday of the month\, for an afternoo
+ n of anime\, manga\, discussion\, art\, and lots of fun.\nSnacks and refre
+ shments will be provided. This club is for teens ages 12-18 years old.\n\n
+ Upcoming Anime & Manga Club: An Afternoon Full Of Fun | SF Events\nSun 12/
+ 13 Anime & Manga Club: An Afternoon Full Of Fun | SFSun 1/10 Anime & Manga
+  Club: An Afternoon Full Of Fun | SFSun 2/14 Anime & Manga Club: An Aftern
+ oon Full Of Fun | SFDisclaimer: Please double check event information with
+  the event organizer as events can be canceled\, details can change after 
+ they are added to our calendar\, and errors do occur.\n\nFree\n\nTickets: 
+ http://sfpl.org/index.php?pg=2000172901&amp\;loc=17\nDetails: https://sf.f
+ uncheap.com/anime-manga-club-an-afternoon-full-of-fun-sf-118/\nSource: Fun
+ cheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2016/05/teens_
+ reading.jpg
+LAST-MODIFIED:20261111T171419Z
+LOCATION:Park Branch Library\, 1833 Page Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/anime-manga-club-an-afternoon-full-of-fun-sf-1
+ 18/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Cartoonist Conspiracy of San Francisco” Collaborative Drawing
   Jam
 DTSTART;TZID=America/Los_Angeles:20270112T190000
@@ -13206,5 +13241,35 @@ LAST-MODIFIED:20261107T102259Z
 LOCATION:North Beach\, Grant Ave. and Vallejo St.\, San Francisco
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/north-beach-first-fridays-art-crawl-sf-143/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anime & Manga Club: An Afternoon Full Of Fun | SF
+DTSTART;TZID=America/Los_Angeles:20270214T140000
+DTEND;TZID=America/Los_Angeles:20270214T153000
+DTSTAMP:20261111T171419Z
+UID:funcheap-1646959@sf-cal
+SEQUENCE:0
+CATEGORIES:Geek Event
+DESCRIPTION:Submitted by the Event OrganizerAnime & Manga Club: An Afterno
+ on Full Of Fun | SF\nPhoto | via Somerville Public Library\n\nCome join at
+  the Park Branch Library\, every 2nd Sunday of the month\, for an afternoo
+ n of anime\, manga\, discussion\, art\, and lots of fun.\nSnacks and refre
+ shments will be provided. This club is for teens ages 12-18 years old.\n\n
+ Upcoming Anime & Manga Club: An Afternoon Full Of Fun | SF Events\nSun 12/
+ 13 Anime & Manga Club: An Afternoon Full Of Fun | SFSun 1/10 Anime & Manga
+  Club: An Afternoon Full Of Fun | SFSun 2/14 Anime & Manga Club: An Aftern
+ oon Full Of Fun | SFDisclaimer: Please double check event information with
+  the event organizer as events can be canceled\, details can change after 
+ they are added to our calendar\, and errors do occur.\n\nFree\n\nTickets: 
+ http://sfpl.org/index.php?pg=2000172901&amp\;loc=17\nDetails: https://sf.f
+ uncheap.com/anime-manga-club-an-afternoon-full-of-fun-sf-119/\nSource: Fun
+ cheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2016/05/teens_
+ reading.jpg
+LAST-MODIFIED:20261111T171419Z
+LOCATION:Park Branch Library\, 1833 Page Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/anime-manga-club-an-afternoon-full-of-fun-sf-1
+ 19/
 END:VEVENT
 END:VCALENDAR

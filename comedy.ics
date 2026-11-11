@@ -925,22 +925,19 @@ BEGIN:VEVENT
 SUMMARY:Jamie Kaler
 DTSTART;TZID=America/Los_Angeles:20261110T193000
 DTEND;TZID=America/Los_Angeles:20261110T213000
-DTSTAMP:20261018T111813Z
+DTSTAMP:20261111T171419Z
 UID:dothebay-17642532@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Jamie Kaler\nTuesday\, November 10 | Punch Line San Francisco\
  n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Shar
  edId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjamie-kaler-san-franci
  sco-california-11-10-2026%2Fevent%2F1C0064F5CBCC0ED1\nDetails: https://dot
- hebay.com/events/2026/11/10/jamie-kaler-tickets\nSource: DoTheBay\n\nAlso 
- listed on:\n- https://www.ticketmaster.com/jamie-kaler-san-francisco-calif
- ornia-11-10-2026/event/1C0064F5CBCC0ED1?utm_source=caldiscovery&utm_medium
- =ics&utm_campaign=san-francisco-ca
+ hebay.com/events/2026/11/10/jamie-kaler-tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33480377/32f3c0b7-d58b-4ffb-b99c-ac0b04df6733.png
-LAST-MODIFIED:20261018T111813Z
+LAST-MODIFIED:20261111T171419Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1765,6 +1762,48 @@ LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-104
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manny’s: Bernice Ye: Wuhan Clan Ain't Nuthin' ta Duck Wit | Live
+  Comedy SF
+DTSTART;TZID=America/Los_Angeles:20261114T193000
+DTEND;TZID=America/Los_Angeles:20261114T210000
+DTSTAMP:20261111T171419Z
+UID:caldiscovery-comedy-5d1bdece35d6757b@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Live stand-up comedy in San Francisco: Bernice Ye brings her a
+ cclaimed solo show Wuhan Clan Ain’t Nuthin’ ta Duck Wit to Manny’s i
+ n the Mission for one night only – Saturday\, November 14.\nShe landed i
+ n the U.S. from Wuhan\, China with $1\,000 and a computer science degree. 
+ She built a career at Microsoft and Hulu\, then walked away from tech for 
+ the comedy stage. Now she’s an international touring comedian\, comedy r
+ apper\, and Taekwondo black belt dubbed “The Jackie Chan of Comedy” by
+  The Stranger\, with 400K+ followers and over 100 million views online.\nW
+ uhan Clan Ain’t Nuthin’ ta Duck Wit is where razor-sharp stand-up\, in
+ fectious rap hooks\, martial arts\, audience interaction\, and cinematic m
+ ultimedia collide. It’s a show about identity\, ambition\, and building 
+ your own clan when the world doesn’t hand you one. Part comedy special\,
+  part concert\, and unlike anything else on the comedy circuit.\nHer work 
+ has been featured in the Wall Street Journal and the Los Angeles Times.\n
+ “She hypnotizes you. You leave lighter\, louder\, and with her songs stu
+ ck in your head.”\n“High-energy and hilarious – Bernice keeps surpri
+ sing you.”\n“Beautifully woven from personal experience… resilient\,
+  sharp\, and universally resonant.”\nManny’s is one of the few rooms i
+ n the country where this show makes complete sense\, a civic gathering spa
+ ce in the Mission built for exactly this kind of night. San Francisco\, jo
+ in the Wuhan Clan.\n\nPublished by Mission Local\nContains information fro
+ m CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://missionlo
+ cal.org/event/mannys-bernice-ye-wuhan-clan-aint-nuthin-ta-duck-wit-live-co
+ medy-sf/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco
+ -ca\nSource: CalDiscovery
+LAST-MODIFIED:20261111T171419Z
+LOCATION:Manny’s\, 3092 16th St\, San Francisco\, CA\, 94103\, United St
+ ates
+TRANSP:TRANSPARENT
+URL:https://missionlocal.org/event/mannys-bernice-ye-wuhan-clan-aint-nuthi
+ n-ta-duck-wit-live-comedy-sf/?utm_source=caldiscovery&utm_medium=ics&utm_c
+ ampaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Mortified Live” Embarrassing Teen Diary Storytelling (Berkele

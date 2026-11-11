@@ -3857,6 +3857,23 @@ TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2nd Sunday Serenades
+DTSTART;TZID=America/Los_Angeles:20270110T120000
+DTEND;TZID=America/Los_Angeles:20270110T140000
+DTSTAMP:20261111T171419Z
+UID:sfrecpark-main-5aa83311a260af73@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd
+  Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10472\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261111T171419Z
+LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
+ cisco CA 94122
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Botanical Garden’s Free Day (2nd Tuesdays)
 DTSTART;TZID=America/Los_Angeles:20270112T073000
 DTEND;TZID=America/Los_Angeles:20270112T180000

@@ -4,33 +4,6 @@
  "events": [
   {
    "source": "caldiscovery-comedy",
-   "source_id": "08682f898507cd5d",
-   "title": "Jamie Kaler",
-   "start": "2026-11-10T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Punch Line Comedy Club - San Francisco",
-   "address": "444 Battery Street, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/jamie-kaler-san-francisco-california-11-10-2026/event/1C0064F5CBCC0ED1?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Punch Line Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
    "source_id": "375e16d56baaf5db",
    "title": "Comedy at Alameda Cinema Grill (Alameda, CA)",
    "start": "2026-11-11T19:00:00-08:00",
@@ -656,6 +629,33 @@
    ],
    "notes": [
     "Published by KGO",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "5d1bdece35d6757b",
+   "title": "Manny’s: Bernice Ye: Wuhan Clan Ain't Nuthin' ta Duck Wit | Live Comedy SF",
+   "start": "2026-11-14T19:30:00-08:00",
+   "end": "2026-11-14T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Manny’s",
+   "address": "3092 16th St, San Francisco, CA, 94103, United States",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://missionlocal.org/event/mannys-bernice-ye-wuhan-clan-aint-nuthin-ta-duck-wit-live-comedy-sf/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Live stand-up comedy in San Francisco: Bernice Ye brings her acclaimed solo show Wuhan Clan Ain’t Nuthin’ ta Duck Wit to Manny’s in the Mission for one night only – Saturday, November 14.\nShe landed in the U.S. from Wuhan, China with $1,000 and a computer science degree. She built a career at Microsoft and Hulu, then walked away from tech for the comedy stage. Now she’s an international touring comedian, comedy rapper, and Taekwondo black belt dubbed “The Jackie Chan of Comedy” by The Stranger, with 400K+ followers and over 100 million views online.\nWuhan Clan Ain’t Nuthin’ ta Duck Wit is where razor-sharp stand-up, infectious rap hooks, martial arts, audience interaction, and cinematic multimedia collide. It’s a show about identity, ambition, and building your own clan when the world doesn’t hand you one. Part comedy special, part concert, and unlike anything else on the comedy circuit.\nHer work has been featured in the Wall Street Journal and the Los Angeles Times.\n“She hypnotizes you. You leave lighter, louder, and with her songs stuck in your head.”\n“High-energy and hilarious – Bernice keeps surprising you.”\n“Beautifully woven from personal experience… resilient, sharp, and universally resonant.”\nManny’s is one of the few rooms in the country where this show makes complete sense, a civic gathering space in the Mission built for exactly this kind of night. San Francisco, join the Wuhan Clan.",
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by Mission Local",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -3138,33 +3138,6 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "9d908cc52a55537c",
-   "title": "Festival of Lights Celebration",
-   "start": "2026-11-10T09:00:00-08:00",
-   "end": "2026-11-10T12:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "William P. Clements Jr. University Hospital",
-   "address": "Glass Dining Hall",
-   "locality": null,
-   "geo": null,
-   "url": "https://events.utsouthwestern.edu/event/festival-of-lights-celebration-2026?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Join the Asian-Pacific Islander Alliance BRG (APIA BRG), in collaboration with Nutrition Services, for a Festival of Lights Celebration at Clements University Hospital.\n\nOriginating in the South Asian subcontinent of India, the Festival of Lights is a cultural celebration that symbolizes the triumph of light over darkness while celebrating hope, unity, and community.\n\nEnjoy a special Indian cuisine lunch featuring: samosas, paneer tikka masala, jeera potatoes, dal fry, butter naan, basmati rice, gulab jamun, and chai tea. Plates are $10 per person.\n\nExperience the festive atmosphere with traditional music and beautiful diya displaysParticipate in a community art activity by adding gems to our collaborative designConnect with colleagues across UTSW and members of the APIA BRGLearn about the Festival of Lights and upcoming APIA BRG eventsRegister here.",
-   "image_url": null,
-   "categories": [
-    "festival"
-   ],
-   "notes": [
-    "Published by UT Southwestern Events Calendar Calendar",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
    "source_id": "1d511af3e32fe8d2",
    "title": "29th Anniversary San Francisco Transgender Film Festival",
    "start": "2026-11-12T19:00:00-08:00",
@@ -4764,28 +4737,6 @@
     "Published by Calendar Of Events",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
-  },
-  {
-   "source": "city-hall-lights-ics",
-   "source_id": "42a56a9b519d8d50",
-   "title": "CHC: red/white/blue",
-   "start": "2026-11-03T00:00:00-08:00",
-   "end": "2026-11-04T00:00:00-08:00",
-   "all_day": true,
-   "bucket": "city-hall-lights",
-   "venue": "San Francisco City Hall",
-   "address": "1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.sf.gov/location--san-francisco-city-hall",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Election Day",
-   "image_url": null,
-   "categories": [],
-   "notes": []
   },
   {
    "source": "city-hall-lights-ics",
@@ -53177,78 +53128,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1634754",
-   "title": "SF’s Free Arcade Game Night at The Detour (First Tuesdays)",
-   "start": "2026-11-03T16:00:00-08:00",
-   "end": "2026-11-03T23:59:00-08:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "The Detour SF",
-   "address": "2200 Market St #A San Francisco, CA",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/sfs-free-arcade-game-night-at-the-detour-first-tuesdays-61/",
-   "ticket_url": "https://www.detoursf.com/event/free-play-tuesday/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "SF’s Free Arcade Game Night at The Detour (First Tuesdays)\nThe Detour\nPaid rent in SF? Hella Broke? Then first Tuesdays are the night for you. The Detour hosts “Free Play Tuesday” with all arcade games on free play with purchase from the bar. Come enjoy all the video game glory from today and yesteryear while enjoying delicious craft beer & cocktails.\nFree Play Tuesdays\nFirst Tuesday of the Month (4pm ’til Midnight)\nThe Detour, 2200 Market St, SF\nFREE unlimited play wristband with any drink/food purchase from bar – includes all 40+ video games plus two featured pinball machines.\n\nFree Play Tuesday resumed on August 3, 2021 – confirmed on 12/7/21\nProof of vaccination required for indoor dining/drinking/gaming\nMasks are required when not actively eating or drinking indoors\n\nHappy Hour is 4-6pm (M-F) with $8 Beer and a shot (Holy Ghost Pilsner & Fernet, Tecate & Tequila or KSA Kolsh & Bourbon) plus Well Drink $7 (1 liquor + 1 mixer) or $1 off Specialty Cocktails – Skill Shot and Young Buck plus Red Blend, Sauvignon Blanc, Draft Beers (please note the happy hour was last confirmed in August 2021.\n\nArcade Game Lineup\nSubject to change Play games like Time Crisis 2, The Simpsons, 10-player Killer Queen, Buck Hunter HD Wild, Ms. Pac Man, Paper Boy, Mortal Kombat 3, pinball games like Adams Family and Game of Thrones, classic multicade gaemes and lots more. Plus the pinball line up has been expanded with the addition of The Mandelorian – Check out The Detour’s pinball and arcade game...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2018/09/The-Detour.jpg",
-   "categories": [
-    "Eating Drinking"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1643007",
-   "title": "First Tuesday “Free Play” Arcade Game Night at The Detour",
-   "start": "2026-11-03T17:00:00-08:00",
-   "end": "2026-11-04T00:00:00-08:00",
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "The Detour",
-   "address": "2200 Market St San Francisco CA 94114",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/tuesday-free-play-arcade-game-night-detour-sf/",
-   "ticket_url": "https://www.detoursf.com/event/free-play-tuesday/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "The DetourOn the 1st Tuesday of every month enjoy all of our arcade games for free with a food or beverage purchase. Get here early before it gets busy since it’s the best night in town! 21+ event.\n\nLocated in the heart of the vibrant Castro district of SF, come eat, drink, and play with us! Step into our neon-lit industrial space and dive into a curated collection of vintage arcade cabinets, modern consoles, and a library of board games – there’s truly something for everyone.\n\nARCADE/PINBALL\nGROUP GAMES\nArmed & Gelatinus (indie game)\nBlitz 2000\nCosmotrons (indie game)\nKiller Queen (indie game) x2\nPac Man Royale\nPop-A-Shot (Basketball)\nPong\nSuper Chexx (Hockey)\nSkee Ball x2\nSimpsons\nSuper Slam Dunk Touch Down (indie game)\nTeenage Mutant Ninja Turtles\nX-Men\nMario Kart & Super Smash Bros (Nintendo Switch) *Play for free on the big screen (with purchase of food or drink)\nPINBALL – Usually two pinball game are free on free play night\nAddams Family\nAttack From Mars “Remake” LE\nFish Tails\nGame of Thrones Premium\nGhostbusters Pro\nGodzilla Pro\nMandalorian Pro\nMedieval Madness Remake Merlin Edition\nMonster Bash “Remake” LE\nPokemon Pro\nVenom Pro\nSHOOTING\nArea 51\nBig Buck Hunter World\nBig Buck Hunter HD\nMax Force x2\nOperation Wolf 3\nTime Crisis II\nCLASSICS\nArcade Classic Multigame Cab\nBlack Emperor (indie game)\nBlitz 2000\nCentipede\nDeath Ball (indie game)\nDig Dug\nFlaming Finger x2\nFrogger\nGalaga\nIce Cold Beer\nMarble Madness\nMetal Slug\nNeo Geo Multi-game Cab x 2\nPac Man\nMrs. Pacman x2\nRa...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/IMG_4692.jpg",
-   "categories": [
-    "Lgbtq"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1640028",
-   "title": "$6 Drive-In Movie Night in Concord & San Jose",
-   "start": "2026-11-03T20:30:00-08:00",
-   "end": "2026-11-03T23:59:00-08:00",
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Solano 2 Drive In",
-   "address": "1611 Solano Way, Concord, CA",
-   "locality": "Concord",
-   "geo": null,
-   "url": "https://sf.funcheap.com/6-drive-in-movie-night-in-concord-san-jose-212/",
-   "ticket_url": "https://www.westwinddi.com/locations/solano",
-   "price_text": "$6.00",
-   "is_free": false,
-   "sold_out": false,
-   "description": "$6 Drive-In Movie Night in Concord & San Jose\nWest Wind Drive-In and Public Market\nOne of the most socially-distant ways to have fun, The West Wind Drive-In theaters in both San Jose and Concord are open for good old-fashioned drive-in movie fun.\nWest Wind Drive In Locations\nSolano Drive-In – 1611 Solano Way, Concord\nCapitol Drive-In – 3630 Hillcap Ave., San Jose\n– $9 adults, $2 kids 5-11 (kids 4 and under free)\n– Tuesday night “Family Fun Night” is $6 per adult (price updated in 2022)\n– Occasionally, screens are double features – so you might get 2 movies for price of 1\n\nUpcoming $6 Drive-In Movie Night in Concord & San Jose Events\nTue 10/6 $6 Drive-In Movie Night in Concord & San JoseTue 10/13 $6 Drive-In Movie Night in Concord & San JoseTue 10/20 $6 Drive-In Movie Night in Concord & San JoseTue 10/27 $6 Drive-In Movie Night in Concord & San JoseTue 11/3 $6 Drive-In Movie Night in Concord & San JoseTue 11/10 $6 Drive-In Movie Night in Concord & San JoseTue 11/17 $6 Drive-In Movie Night in Concord & San JoseTue 11/24 $6 Drive-In Movie Night in Concord & San JoseDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/05/93705395_2638902969719383_3202548059389034496_n.jpg",
-   "categories": [
-    "Movies"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1638816",
    "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
    "start": "2026-11-04T09:00:00-08:00",
@@ -66797,6 +66676,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646954",
+   "title": "SF’s Small Press Book Bazaar 2026: 50 Bay Area Vendors",
+   "start": "2026-12-05T12:00:00-08:00",
+   "end": "2026-12-05T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The Lab",
+   "address": "2948 16th St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-small-press-book-bazaar-2026-50-bay-area-vendors/",
+   "ticket_url": "https://www.instagram.com/p/DfjTnaavYoQ/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SAN FRANCISCO ART BOOK FAIRThe Small Press Book Bazaar is a free one-day gathering at The Lab featuring 50 Bay Area artists, designers, and booksellers. The bazaar focuses on local art publishing and print culture, with books, prints, posters, stickers, t-shirts, and other artist-made goods available. Food will be provided by Cold Summers.\nOriginal Event Description:\nThe Small Press Book Bazaar is a one-day gathering of Bay Area artists, designers and booksellers that celebrates local art publishing and print culture. Free to the public, the bazaar is a great place to find affordable art, old and new books, prints, posters, stickers, t-shirts and other artist-made goods from a group of 50 Bay Area vendors.\nFood will be provided by Cold Summers.\nFlyer design by Justin Carder.\nParticipants at link in bio!\nText extracted from provided image:\nSMALL PRESS\nBOOK\nBAZAAR\n12-7\nDec. 5\nTHE LAB\n2948 16TH ST. SF\n\n@sfartbookfair\nSAN FRANCISCO ART BOOK FAIR\nSFABF is an annual multi-day festival of artists’ publications. Next in July 2027\nsfartbookfair.com",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/902592003_18494563516105749_1860928704378243848_n.jpg",
+   "categories": [
+    "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1640591",
    "title": "City of San Rafael’s Winter Wonderland: 45th Anniversary",
    "start": "2026-12-05T13:00:00-08:00",
@@ -72339,6 +72242,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646957",
+   "title": "Anime & Manga Club: An Afternoon Full Of Fun | SF",
+   "start": "2027-01-10T14:00:00-08:00",
+   "end": "2027-01-10T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Park Branch Library",
+   "address": "1833 Page Street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/anime-manga-club-an-afternoon-full-of-fun-sf-118/",
+   "ticket_url": "http://sfpl.org/index.php?pg=2000172901&amp;loc=17",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerAnime & Manga Club: An Afternoon Full Of Fun | SF\nPhoto | via Somerville Public Library\n\nCome join at the Park Branch Library, every 2nd Sunday of the month, for an afternoon of anime, manga, discussion, art, and lots of fun.\nSnacks and refreshments will be provided. This club is for teens ages 12-18 years old.\n\nUpcoming Anime & Manga Club: An Afternoon Full Of Fun | SF Events\nSun 12/13 Anime & Manga Club: An Afternoon Full Of Fun | SFSun 1/10 Anime & Manga Club: An Afternoon Full Of Fun | SFSun 2/14 Anime & Manga Club: An Afternoon Full Of Fun | SFDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2016/05/teens_reading.jpg",
+   "categories": [
+    "Geek Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1646763",
    "title": "Intro to Personal Safety & Self-Defense Class | Berkeley",
    "start": "2027-01-11T19:00:00-08:00",
@@ -72982,6 +72909,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/HJ-220960_TSegura_27-0212-13_TXMSTR1.jpg",
    "categories": [
     "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646959",
+   "title": "Anime & Manga Club: An Afternoon Full Of Fun | SF",
+   "start": "2027-02-14T14:00:00-08:00",
+   "end": "2027-02-14T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Park Branch Library",
+   "address": "1833 Page Street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/anime-manga-club-an-afternoon-full-of-fun-sf-119/",
+   "ticket_url": "http://sfpl.org/index.php?pg=2000172901&amp;loc=17",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerAnime & Manga Club: An Afternoon Full Of Fun | SF\nPhoto | via Somerville Public Library\n\nCome join at the Park Branch Library, every 2nd Sunday of the month, for an afternoon of anime, manga, discussion, art, and lots of fun.\nSnacks and refreshments will be provided. This club is for teens ages 12-18 years old.\n\nUpcoming Anime & Manga Club: An Afternoon Full Of Fun | SF Events\nSun 12/13 Anime & Manga Club: An Afternoon Full Of Fun | SFSun 1/10 Anime & Manga Club: An Afternoon Full Of Fun | SFSun 2/14 Anime & Manga Club: An Afternoon Full Of Fun | SFDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2016/05/teens_reading.jpg",
+   "categories": [
+    "Geek Event"
    ],
    "notes": []
   },
@@ -75686,6 +75637,68 @@
    ]
   },
   {
+   "source": "sf-street-events",
+   "source_id": "1419904-2027-01-10T06:00:00-08:00",
+   "title": "Outer Sunset Farmers' Market 2026",
+   "start": "2027-01-10T06:00:00-08:00",
+   "end": "2027-01-10T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "37th Ave between Ortega St and Quintara St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.750594,
+    -122.495565
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: 37th Ave from Ortega St to Pacheco St; 37th Ave from Pacheco St to Quintara St; Pacheco St from Sunset Blvd to 37th Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Permitted",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1498354-2027-01-10T07:00:00-08:00",
+   "title": "Clement Street Farmers Market",
+   "start": "2027-01-10T07:00:00-08:00",
+   "end": "2027-01-10T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Clement St between Arguello Blvd and 2nd Ave",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783163,
+    -122.459568
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Clement St from Arguello Blvd to 02nd Ave; Clement St from 3rd Ave to Th Ave; Clement St from 02nd Ave to 03rd Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Permitted",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
    "source": "sf-street-events-pending",
    "source_id": "1589716-2026-11-11T22:30:00-08:00",
    "title": "Microsoft Ignite 2026",
@@ -76122,7 +76135,7 @@
   {
    "source": "sfciviccenter",
    "source_id": "80fe217dbc3cb349",
-   "title": "Performing Arts Showcase",
+   "title": "Performing Arts Showcase (Canceled due to weather)",
    "start": "2026-11-13T17:00:00-08:00",
    "end": "2026-11-13T20:00:00-08:00",
    "all_day": false,
@@ -76136,7 +76149,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. There will be both bleacher and street-level seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and ATG San Francisco, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
+   "description": "UPDATE: Due to rain, this event has been canceled. We will reschedule the Performing Arts Showcase for a future date.\nOriginal: On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. There will be both bleacher and street-level seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and ATG San Francisco, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
    "image_url": null,
    "categories": [
     "Art",
@@ -76556,6 +76569,28 @@
    "notes": []
   },
   {
+   "source": "sfrecpark-main",
+   "source_id": "5aa83311a260af73",
+   "title": "2nd Sunday Serenades",
+   "start": "2027-01-10T12:00:00-08:00",
+   "end": "2027-01-10T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Sunset Dunes - Great Highway",
+   "address": "between Lincoln and Sloat San Francisco CA 94122",
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx?EID=10472",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
    "source": "ybgfestival",
    "source_id": "2de19567a308725f",
    "title": "Canceled Due to Rain: Bhangra & Beats Night Market",
@@ -76770,11 +76805,6 @@
     "1639252": "2026-09-28T17:57:48",
     "1639255": "2026-09-30T17:48:04",
     "1639362": "2026-10-18T17:55:44",
-    "1639404": "2026-09-27T16:13:33",
-    "1639406": "2026-09-27T16:13:36",
-    "1639408": "2026-09-27T16:13:39",
-    "1639410": "2026-09-27T16:13:42",
-    "1639412": "2026-09-27T16:13:45",
     "1639414": "2026-09-28T17:51:15",
     "1639416": "2026-09-28T17:34:21",
     "1639419": "2026-09-28T17:31:40",
@@ -78093,6 +78123,9 @@
     "1646767": "2026-11-11T00:46:35",
     "1646770": "2026-11-11T00:47:41",
     "1646773": "2026-11-11T00:41:39",
+    "1646954": "2026-11-11T07:08:22",
+    "1646957": "2026-11-11T07:13:54",
+    "1646959": "2026-11-11T07:13:56",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52",
@@ -78192,6 +78225,11 @@
    "content_hash": "30bb5ae27a976fc3524c050d71edd7d76a31c19e2d9dcb0d49de2c4e6f4a98be",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
+  },
+  "caldiscovery-comedy-5d1bdece35d6757b@sf-cal": {
+   "content_hash": "ecd792be281772c372b57f97c5aa9a35a17a935bc210f758810e0b031ca2a33f",
+   "sequence": 0,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
   },
   "caldiscovery-comedy-6269b44ae765280c@sf-cal": {
    "content_hash": "371f35c65640d5eeb901eb0afa0e51e0a5f85d3904a52869c895f07d55e6e282",
@@ -78428,11 +78466,6 @@
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
-  "caldiscovery-festival-9d908cc52a55537c@sf-cal": {
-   "content_hash": "b5fb4233975597a936c030c4b82cff156eb9494cc408e48b18962fb425c5d36f",
-   "sequence": 0,
-   "last_modified": "2026-11-09T11:44:30.596594Z"
-  },
   "caldiscovery-festival-a0e0e490a36aec02@sf-cal": {
    "content_hash": "334f849700689adf6a3c53c5fc9480f39517b8730129a4d91056c0f1bb4f4a10",
    "sequence": 0,
@@ -78512,11 +78545,6 @@
    "content_hash": "71119494f97d31c6da1967758f521e2cd943beb4d9267397fb220db7533aefe0",
    "sequence": 0,
    "last_modified": "2026-11-10T07:26:52.401273Z"
-  },
-  "city-hall-lights-ics-42a56a9b519d8d50@sf-cal": {
-   "content_hash": "341fe559b1e92be22e530aa319db821d46dbde6acc87721b031447ef2647f592",
-   "sequence": 0,
-   "last_modified": "2026-11-03T02:56:35.676256Z"
   },
   "city-hall-lights-ics-7cf68fe400a96de7@sf-cal": {
    "content_hash": "0891926861664965de6e13fa6c1f7e3aecc1565686befaf04e3c8f055defaa63",
@@ -79784,9 +79812,9 @@
    "last_modified": "2026-11-07T00:58:02.896323Z"
   },
   "dothebay-17642532@sf-cal": {
-   "content_hash": "e0d7524f9ef1a7c2706fd9780d4cc129a808217956e6a02f79599186b58cf9d4",
-   "sequence": 1,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
+   "content_hash": "850415631526877176c574f857e5ba9913187898798396d76684a8f7ebc86355",
+   "sequence": 2,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
   },
   "dothebay-17642533@sf-cal": {
    "content_hash": "ad5e906f0819e1dc8e026e9ca2d4dd1afbd01e53e85c794895094b27f404a0f4",
@@ -82744,9 +82772,9 @@
    "last_modified": "2026-10-23T05:00:02.678864Z"
   },
   "dothebay-17979163@sf-cal": {
-   "content_hash": "0a77a0d553f89deebd4c9df391087abb3cd316472aab86bddc55ae9dce1d3ef4",
-   "sequence": 2,
-   "last_modified": "2026-10-24T20:56:25.000462Z"
+   "content_hash": "4bdfca4815b96ecd7552399e80697571194fd627ff40e3b95fe18ed8dd967892",
+   "sequence": 3,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
   },
   "dothebay-17979206@sf-cal": {
    "content_hash": "0e5dcaf2b6110ea052f77af2c335a4cc0c096c82b4df3a80081f549108a11721",
@@ -84034,9 +84062,9 @@
    "last_modified": "2026-11-09T22:28:18.990128Z"
   },
   "dothebay-18051611@sf-cal": {
-   "content_hash": "5da6ac9d8a437b3c047b93836c1f1e4d375e79371f685a04946af15df77253e4",
-   "sequence": 0,
-   "last_modified": "2026-11-09T22:28:18.990128Z"
+   "content_hash": "c6e9568c5ac039291173b2a462f3a2c222fa50991c9aff24dea0755f0bd4646c",
+   "sequence": 1,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
   },
   "dothebay-18052426@sf-cal": {
    "content_hash": "956c57c272a494f9e1743b4a2e72af7dbef849eea6ddf7f882cbf388ea68a986",
@@ -84380,11 +84408,6 @@
   },
   "funcheap-1634734@sf-cal": {
    "content_hash": "1604cec846289529efee2bbb0db329bef7185b6082e12c1d6bcb0d5ef53bcc9f",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1634754@sf-cal": {
-   "content_hash": "f84f626045c1255ee08b557ef79d8ada98cfcc61ea9e9b78e1e2dd290b4d48f8",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -85605,11 +85628,6 @@
   },
   "funcheap-1643001@sf-cal": {
    "content_hash": "17cda9253449eb6c3819aa76830a11db655aa870418778facf8906448443d7c0",
-   "sequence": 0,
-   "last_modified": "2026-10-20T19:44:41.088494Z"
-  },
-  "funcheap-1643007@sf-cal": {
-   "content_hash": "44d2faf013ba4f38b260c2ee1f8f1516741f72dc4a3436456e33f7921f8925b0",
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
@@ -87063,6 +87081,16 @@
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
+  "funcheap-1646957@sf-cal": {
+   "content_hash": "c8172ab85c348784e04f7ab24b89afc7308e4a470449be108a40b2185a2f9d5a",
+   "sequence": 0,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
+  },
+  "funcheap-1646959@sf-cal": {
+   "content_hash": "0d486a089440258069189c805f89af6232ba8a5c0bd00e045562b70d653ee0f8",
+   "sequence": 0,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
+  },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",
    "sequence": 0,
@@ -87233,6 +87261,11 @@
    "sequence": 0,
    "last_modified": "2026-11-04T11:05:13.938019Z"
   },
+  "sf-street-events-1419904-2027-01-10T06:00:00-08:00@sf-cal": {
+   "content_hash": "ed63fdbf338f10e674b4ba2534637048d6e4efc54bbed00beebb5315db8e0c2a",
+   "sequence": 0,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
+  },
   "sf-street-events-1429598-2026-11-07T06:00:00-08:00@sf-cal": {
    "content_hash": "6bcdea76b5ef836f123f68f8d45f39eb3c4d79c3c25501deae6515a991ab5627",
    "sequence": 1,
@@ -87387,6 +87420,11 @@
    "content_hash": "258409014d37f9e79387efbec26cbe4d4066cb7929edeb8506aa0ba26a5f036f",
    "sequence": 0,
    "last_modified": "2026-11-04T11:05:13.938019Z"
+  },
+  "sf-street-events-1498354-2027-01-10T07:00:00-08:00@sf-cal": {
+   "content_hash": "a553fea3820016bee08eeeb737725d594b9d3bd28117f38b479c42b662acda5e",
+   "sequence": 0,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
   },
   "sf-street-events-1523475-2026-12-06T11:00:00-08:00@sf-cal": {
    "content_hash": "97c73cc26c996056db37bb00ad851c5dffeab7a145b698e0edfa41cb63477b2c",
@@ -87573,6 +87611,11 @@
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
+  "sfciviccenter-80fe217dbc3cb349@sf-cal": {
+   "content_hash": "48c808fe8fe6d8729219aa646e7fa5454c4734f87953a171b09082816304add2",
+   "sequence": 0,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
+  },
   "sfciviccenter-a1b9110affa7daed@sf-cal": {
    "content_hash": "faed1b27d9943507817d33e6264d73239eec3ebd7b84769eb6824c96fa50fabf",
    "sequence": 0,
@@ -87632,6 +87675,11 @@
    "content_hash": "40eace63c3df24510fa9081cf6cdaa5ceb565b9428ebb9540a05892029d22541",
    "sequence": 0,
    "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "sfrecpark-main-5aa83311a260af73@sf-cal": {
+   "content_hash": "91078a154520c48e0a45852bacce9fb598d6f416910754d2fce5cdc71852afba",
+   "sequence": 0,
+   "last_modified": "2026-11-11T17:14:19.835664Z"
   },
   "sfrecpark-main-78c79e404577cd9c@sf-cal": {
    "content_hash": "a0aab9f5152edb3b7c993ef6fefacb1a20c3ac025d33eb48ed98c5a96f61fdb1",
