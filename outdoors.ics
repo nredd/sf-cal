@@ -40,31 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Floral Design Workshop
-DTSTART;TZID=America/Los_Angeles:20261103T130000
-DTEND;TZID=America/Los_Angeles:20261103T160000
-DTSTAMP:20261103T193658Z
-UID:funcheap-1643922@sf-cal
-SEQUENCE:0
-CATEGORIES:Nature
-DESCRIPTION:Submitted by the Event OrganizerImage from instructor\, Mariso
- l Ruiz.Celebrate the beauty of each season with flowers! In every class\, 
- create a different arrangement using seasonal blooms and colors. Enjoy ste
- p-by-step guidance\, learn floral design techniques\, and connect with new
-  friends. Leave with a beautiful arrangement you made yourself. No experie
- nce needed!\nFlowers\, Greenery\, and Vase included.\n\nRefreshments provi
- ded.\nLimited space!\n\n$98.00\n\nTickets: https://www.sebarts.org/classes
- lectures/p/floral-design-workshop\nDetails: https://sf.funcheap.com/floral
- -design-workshop/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/100000
- 1569-1.png
-LAST-MODIFIED:20261103T193658Z
-LOCATION:Sebastopol Center for the Arts\, 282 South High Street\, Sebastop
- ol
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/floral-design-workshop/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261104T090000
 DTEND;TZID=America/Los_Angeles:20261104T100000
@@ -729,6 +704,40 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/12/the-great-catsby-gala-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flowering Plants of the Sierra Nevada
+DTSTART;TZID=America/Los_Angeles:20261112T190000
+DTEND;TZID=America/Los_Angeles:20261112T203000
+DTSTAMP:20261111T063824Z
+UID:funcheap-1644118@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Joanna ClinesIn person\, Joanna Clines will describe the proce
+ ss of completing this rather hefty but beautiful book\; including shots of
+  photography and collecting trips throughout the Sierra Nevada\, herbarium
+  work at UC/Jeps\, and the overall process of completing this rather hefty
+  but lovely book.\nJoanna was born in Fresno\, CA. After falling in love w
+ ith biology through an introductory class at Fresno City College\, she ear
+ ned a BA in Environmental Biology\, then a Master’s in botany at CSU Fre
+ sno. Her thesis research was on the reproductive and fire ecology of the r
+ are shrub Carpenteria californica.\nJoanna began working on this book proj
+ ect with photographer Stephen Sharnoff in 2008. She is the Forest Botanist
+  for the Sierra National Forest. Joanna served on the State CNPS board in 
+ the 1990s and is past president of the Sequoia Chapter. She also served on
+  the Cal-IPC board.\n\nThe inspiring Jake Sigg was an early mentor and fri
+ end. Jake contributed financially to producing this book and his encourage
+ ment meant a lot. Joanna lives in the Sierra Nevada north of Oakhurst.\n\n
+ Free\n\nTickets: https://cnps-yerbabuena.org/calendar/speaker-series/\nDet
+ ails: https://sf.funcheap.com/flowering-plants-sierra-nevada/\nSource: Fun
+ cheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Joanna
+ WithBook12-2025_edited.jpg
+LAST-MODIFIED:20261111T063824Z
+LOCATION:San Francisco County Fair Building\, 9th and Lincoln Street\, San
+  Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/flowering-plants-sierra-nevada/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261113T090000
 DTEND;TZID=America/Los_Angeles:20261113T100000
@@ -771,9 +780,9 @@ BEGIN:VEVENT
 SUMMARY:Bhangra & Beats Night Market
 DTSTART;TZID=America/Los_Angeles:20261113T160000
 DTEND;TZID=America/Los_Angeles:20261113T180000
-DTSTAMP:20261006T172218Z
+DTSTAMP:20261111T063824Z
 UID:dothebay-17358572@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Outdoor & Recreation
 DESCRIPTION:San Francisco’s biggest South Asian celebration is back\, an
  d for the first time ever\, it lands at Yerba Buena Gardens\, one of downt
@@ -798,12 +807,11 @@ DESCRIPTION:San Francisco’s biggest South Asian celebration is back\, an
  .org/event/bhangra-and-beats-111326/\nDetails: https://dothebay.com/events
  /2026/11/13/bhangra-beats-night-market-tickets\nSource: DoTheBay\n\nAlso l
  isted on:\n- https://sf.funcheap.com/bhangra-beats-night-market-sfs-offici
- al-diwali-celebration-yerba-buena-gardens/\n- https://ybgfestival.org/even
- t/bhangra-and-beats-111326/
+ al-diwali-celebration-yerba-buena-gardens/
 GEO:37.7850153;-122.4023464
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32120481/7a06c2ae-1e15-4657-ad32-a0ca7c42c4ea.jpg
-LAST-MODIFIED:20261006T172218Z
+LAST-MODIFIED:20261111T063824Z
 LOCATION:Yerba Buena Gardens covers two square city blocks bounded by Miss
  ion\, Folsom\, Third and Fourth Streets.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT

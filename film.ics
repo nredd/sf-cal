@@ -40,59 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Los Domingos
-DTSTART;TZID=America/Los_Angeles:20261103T180000
-DTEND;TZID=America/Los_Angeles:20261103T200000
-DTSTAMP:20261104T110513Z
-UID:dothebay-17970511@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:Ainara is seventeen\, brilliant\, and expected to choose a uni
- versity degree. Instead\, she makes a choice no one saw coming: she feels 
- called to God and is considering life as a cloistered nun. Her announcemen
- t stuns her family\, opens a deep rift between them\, and forces each of t
- hem to question what they believe and what they want for her.\n\nWinner of
-  the Golden Shell at San Sebastián and the Goya for Best Film.\n\nRuntime
- \n\n1h 55m\n\nYear\n\n2025\n\nDirector\n\nAlauda Ruiz de Azúa\n\nFormat\n
- \nDCP\n\nCountry\n\nSpain & France\n\nLanguage\n\nSpanish\, Basque and Eng
- lish\n\nCategories\n\nFeatured\n\nDetails: https://dothebay.com/events/202
- 6/11/3/los-domingos-tickets\nSource: DoTheBay
-GEO:37.7647103;-122.4224081
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35023740/12d006b8-80b5-44f5-b543-8c96281865e0.jpg
-LAST-MODIFIED:20261104T110513Z
-LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/3/los-domingos-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild at Heart
-DTSTART;TZID=America/Los_Angeles:20261103T184500
-DTEND;TZID=America/Los_Angeles:20261103T204500
-DTSTAMP:20261104T110513Z
-UID:dothebay-18029068@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:David Lynch blends together southern gothic melodrama\, THE WI
- ZARD OF OZ\, surreal kinky violence\, and Elvis in this nightmare soap ope
- ra thrill ride.\n\nBased on the pulp novel by author Barry Gifford\, WILD 
- AT HEART follows outlaw lovers Sailor (Nicolas Cage) and Lula (Laura Dern)
-  as they go on the run through a menacing Deep South\, populated by the us
- ual stable of unsettling Lynchian weirdos (including a bonkers Willem Dafo
- e). Funny\, scary\, and brilliantly cinematic\, Lynch received the Palme d
- ’Or for this film at Cannes amid “the most violent chorus of boos and 
- hisses to be heard in a decade.” Strap in.\n\nDetails: https://dothebay.
- com/events/2026/11/3/wild-at-heart-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35272869/19e66bba-aaf1-4a9d-b0f4-e6a9bbc1dedf.jpg
-LAST-MODIFIED:20261104T110513Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/3/wild-at-heart-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw 
  the TV Glow
 DTSTART;TZID=America/Los_Angeles:20261104T180000
@@ -1459,9 +1406,9 @@ BEGIN:VEVENT
 SUMMARY:Rock Ross: Go Like This (16mm)
 DTSTART;TZID=America/Los_Angeles:20261111T180000
 DTEND;TZID=America/Los_Angeles:20261111T200000
-DTSTAMP:20261024T160225Z
+DTSTAMP:20261111T063824Z
 UID:dothebay-17988720@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
 DESCRIPTION:Presented by Canyon Cinema\n\nFilmmaker Rock Ross in person fo
  r a post-screening audience Q&A!\n\nCanyon at The Roxie is back with a spo
@@ -1486,15 +1433,49 @@ DESCRIPTION:Presented by Canyon Cinema\n\nFilmmaker Rock Ross in person fo
  ss\, 1988\, 6.5 minutes\, b&w\, sound\, 16mm)\n\nTill My Head Caves In (Ro
  ck Ro...\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22387?sit
  eToken=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/20
- 26/11/11/rock-ross-go-like-this-16mm-tickets\nSource: DoTheBay
+ 26/11/11/rock-ross-go-like-this-16mm-tickets\nSource: DoTheBay\n\nAlso lis
+ ted on:\n- https://sf.funcheap.com/timed-artmaking-challenge-group-showcas
+ e-sf/
 GEO:37.7647103;-122.4224081
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35107373/cd53fce5-165c-4aba-a4fe-764d3737a197.jpg
-LAST-MODIFIED:20261024T160225Z
+LAST-MODIFIED:20261111T063824Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/11/rock-ross-go-like-this-16mm-tic
  kets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glue Stick Social: Junk Journaling by the Glow of a Creepy Picture
+  Show (Oakland)
+DTSTART;TZID=America/Los_Angeles:20261111T180000
+DTEND;TZID=America/Los_Angeles:20261111T200000
+DTSTAMP:20261111T063824Z
+UID:funcheap-1646338@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:DarkParlourSocietyEvery Wednesday\, Dark Parlour Society turns
+  Spire\, a century-old church in West Oakland\, into a candlelit parlour f
+ or junk journaling. Cut\, collage\, glue and make something strange while 
+ a vintage picture show plays on the big screen. The film is atmosphere\, n
+ ot homework: talk\, wander and work at your own pace.\nPapers\, scraps\, s
+ cissors and glue are on the tables. Bring your own journal\, scraps or yar
+ n to share\, or bring nothing at all.\nThis season’s pictures:\nWed\, No
+ v 11: Nosferatu (1922)\, with Hugh Doolan’s orchestral score\nWed\, Nov 
+ 18: House on Haunted Hill (1959)\, with Vincent Price\nWed\, Nov 25: Chara
+ de (1963)\, with Audrey Hepburn and Cary Grant\nWed\, Dec 9: Santa Claus C
+ onquers the Martians (1964)\n6 to 8 PM. Spire\, 825 Athens Ave\, Oakland.\
+ nFree. 18+. Supplies provided. Donations go to Spire.\nRSVP at darkparlour
+ society.com/rsvp\n\nFree\n\nTickets: https://www.darkparloursociety.com\nD
+ etails: https://sf.funcheap.com/glue-stick-social-junk-journaling-glow-cre
+ epy-picture-show-oakland-2/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/GSS_li
+ sting_banner_2160x1080.jpg
+LAST-MODIFIED:20261111T063824Z
+LOCATION:Spire The Church\, 825 Athens Avenue\, Oakland
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/glue-stick-social-junk-journaling-glow-creepy-
+ picture-show-oakland-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How to Rob a Bank
@@ -2274,6 +2255,44 @@ LAST-MODIFIED:20261019T210249Z
 LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/19/los-domingos-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film: Defiant to the Last- Resistance at the Tule Lake Jail
+DTSTART;TZID=America/Los_Angeles:20261120T190000
+DTEND;TZID=America/Los_Angeles:20261120T210000
+DTSTAMP:20261111T063824Z
+UID:funcheap-1646534@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Submitted by the Event OrganizerDefiant to the Last filmFilm S
+ creening & Discussion of Defiant to the Last\, Resistance at the Tule Lake
+  Jail\nwith Filmmaker Emiko Omori and\nSatsuki Ina\, author of The Poet an
+ d the Silk Girl\nAbout the Film from the Defiant to the Last website:\n“
+ Based on lies and wartime propaganda\, during WWII the U.S. government for
+ cibly removed and incarcerated more than 125\,000 innocent Japanese Americ
+ ans in ten American concentration camps\, solely because of their race.\n
+ “At all the prison sites\, despite the mythology of quiet compliance\, J
+ apanese Americans showed moral courage\, resisted\, and refused to accept 
+ the government’s abuse. Defiant to the Last tells the story of the Tule 
+ Lake Segregation Center where dissident Japanese Americans were demonized 
+ and punished for speaking out against the false wartime incarceration.”\
+ nRevolution Books is showing this film because the story of resistance to 
+ the unjust treatment of the Japanese Americans in WW II resonates deeply w
+ ith our own time\, when immigrants’ rights are stripped away\, they are 
+ demonized\, and some deported to torture prisons in countries they’ve ne
+ ver lived in – and people who oppose this treatment are attacked and vil
+ ified by the government.\nThis is a time for defiance\, for voices of cons
+ cience to speak out\, and for revolution. Defiant to the Last brings cruci
+ al experience and important lessons from the past\, and we are very glad t
+ o be able to bring Satsuki Ina and Emiko Omori to our store.\nWatch th...\
+ n\nFree\n\nTickets: https://revolutionbooks.org\nDetails: https://sf.funch
+ eap.com/film-defiant-resistance-tule-lake-jail/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/defian
+ ttothelastposter1.jpg
+LAST-MODIFIED:20261111T063824Z
+LOCATION:Revolution Books\, 2444 Durant Avenue Berkeley\, CA 94704
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/film-defiant-resistance-tule-lake-jail/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aliens (Special Edition)
