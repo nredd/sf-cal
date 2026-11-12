@@ -75,46 +75,6 @@ URL:https://go.evvnt.com/3840058-0?pid=12352&utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marjorie Keller: Intimate Observer
-DTSTART;TZID=America/Los_Angeles:20261105T080000
-DTEND;TZID=America/Los_Angeles:20261105T100000
-DTSTAMP:20261106T110227Z
-UID:dothebay-17900140@sf-cal
-SEQUENCE:1
-CATEGORIES:Variety
-DESCRIPTION:Buy Tickets\n\nDoors 6:30pm / Film 7pm\n\n$15 / free or discou
- nted for members\n\nMarjorie Keller was one of the most significant figure
- s in late 20th century American experimental film. A profoundly original a
- rtist\, scholar\, teacher and advocate\, Keller was staunchly feminist wit
- hout limiting herself to that movement’s ideological orthodoxies. Fierce
- ly independent\, her work was sharply critical of the customary role women
-  were relegated to in patriarchal society\, even as she embraced aspects o
- f traditional family life. Keller cherished the mostly male history of ava
- nt-garde filmmaking\, but she was one of the foremost advocates for women 
- film artists throughout her life. When she died at age 43 in 1994\, Keller
-  had already produced twenty-seven 8mm and 16mm films. They were remarkabl
- e for their thematic and poetical complexity and by investigating her dome
- stic life as a woman for their starting point. Her expressive cinematograp
- hy and intricate montage were sensual\, emotional and intellectually chall
- enging\, and while she was clearly influenced by such predecessors as Mari
- e Menken\, Stan Brakhage and Saul Levine\, Keller's cinematic voice was di
- stinctly her own from beginning with her first film.\n\nIn conjunction wit
- h the publication of a new book on Keller's work\, In the Absence of Marjo
- rie Keller\, edited by Robin Blaetz and Scott Hammen\, two programs of her
-  films\, spanning twenty-four years\, will be presented by Berkeley Art Mu
- seum and Pacific Film Archive and San Francisco Cinematheq...\n\n$15\n\nDe
- tails: https://dothebay.com/events/2026/11/5/marjorie-keller-intimate-obse
- rver-tickets\nSource: DoTheBay
-GEO:37.765289;-122.418493
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34695674/4faae3df-e20b-4097-ac2b-13878c1a4f8f.jpg
-LAST-MODIFIED:20261106T110227Z
-LOCATION:The Lab\, 2948 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/5/marjorie-keller-intimate-observe
- r-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free First Thursdays at SF’s Museum of Craft and Design
 DTSTART;TZID=America/Los_Angeles:20261105T120000
 DTEND;TZID=America/Los_Angeles:20261105T170000
@@ -39865,6 +39825,47 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-467/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
+DTSTART;TZID=America/Los_Angeles:20261209T110000
+DTEND;TZID=America/Los_Angeles:20261209T170000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647091@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerFree Admission Day at Yerba Bu
+ ena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to
+  the public in 1993\, YBCA was founded as the cultural anchor of San Franc
+ isco’s Yerba Buena Gardens neighborhood. Our work spans the realms of co
+ ntemporary art\, performance\, film\, civic engagement\, and public life. 
+ Centering artists as essential to social and cultural movement\, YBCA is r
+ eimagining the role an arts institution can play in the community it serve
+ s.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood\, 
+ across the street from SFMOMA and the Moscone Convention Center. The main 
+ entrance to our galleries and forum event space is at 701 Mission Street. 
+ The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wed
+ nesday–Sunday\, 11–5pm.\nEntry to YBCA Galleries is free every Wednesd
+ ay\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seni
+ ors: $5\nYouth (17 and under)\, Military Personnel\, & Museums for All: Fr
+ ee\nWednesdays: Free\nEmployees of other museums with current valid staff 
+ ID receive free general admission for themselves and one guest.\nMuseums f
+ or All\nYBCA offers free admission for Medi-Cal and EBT card holders as pa
+ rt of the Museums for All program. Benefits card required upon entry. Tick
+ ets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWe
+ d–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day a
+ t Yerba Buena Center for the Arts (YBCA) Events\nWed 11/18 Free Admission 
+ Day a...\n\nFree\n\nTickets: https://www.ybca.org/visit-us\nDetails: https
+ ://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-y
+ bca-165/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-b
+ uilding.png
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
+ o\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
+ he-arts-ybca-165/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TransLife Drop-In
 DTSTART;TZID=America/Los_Angeles:20261209T130000
 DTEND;TZID=America/Los_Angeles:20261209T150000
@@ -39939,6 +39940,40 @@ LOCATION:San Francisco Center for the Book\, 375 Rhode Island St\, San Fra
  ncisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-holiday-open-house-sf-center-book/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261209T163000
+DTEND;TZID=America/Los_Angeles:20261209T220000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647080@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 11/18 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)W
+ ed 12/9 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 12/16 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 12/23 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/30 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 1/6 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please d
+ ouble check event information with the event organizer as events can be ca
+ nceled\, details can change after they are added to our calendar\, and err
+ ors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-wed
+ nesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-und
+ erdogs-cantina-soma-76/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-76
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Let’s Glow SF” 2026: SF’s Huge Holiday Projection Arts Fe
@@ -45751,6 +45786,47 @@ URL:https://sf.funcheap.com/biblio-bistro-farmers-market-cooking-school-un
  -plaza-123/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
+DTSTART;TZID=America/Los_Angeles:20261216T110000
+DTEND;TZID=America/Los_Angeles:20261216T170000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647093@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerFree Admission Day at Yerba Bu
+ ena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to
+  the public in 1993\, YBCA was founded as the cultural anchor of San Franc
+ isco’s Yerba Buena Gardens neighborhood. Our work spans the realms of co
+ ntemporary art\, performance\, film\, civic engagement\, and public life. 
+ Centering artists as essential to social and cultural movement\, YBCA is r
+ eimagining the role an arts institution can play in the community it serve
+ s.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood\, 
+ across the street from SFMOMA and the Moscone Convention Center. The main 
+ entrance to our galleries and forum event space is at 701 Mission Street. 
+ The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wed
+ nesday–Sunday\, 11–5pm.\nEntry to YBCA Galleries is free every Wednesd
+ ay\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seni
+ ors: $5\nYouth (17 and under)\, Military Personnel\, & Museums for All: Fr
+ ee\nWednesdays: Free\nEmployees of other museums with current valid staff 
+ ID receive free general admission for themselves and one guest.\nMuseums f
+ or All\nYBCA offers free admission for Medi-Cal and EBT card holders as pa
+ rt of the Museums for All program. Benefits card required upon entry. Tick
+ ets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWe
+ d–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day a
+ t Yerba Buena Center for the Arts (YBCA) Events\nWed 11/18 Free Admission 
+ Day a...\n\nFree\n\nTickets: https://www.ybca.org/visit-us\nDetails: https
+ ://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-y
+ bca-166/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-b
+ uilding.png
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
+ o\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
+ he-arts-ybca-166/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TransLife Galaxy Mental Health Series
 DTSTART;TZID=America/Los_Angeles:20261216T130000
 DTEND;TZID=America/Los_Angeles:20261216T150000
@@ -45797,6 +45873,40 @@ LAST-MODIFIED:20261017T204148Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/16/transformaciones-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261216T163000
+DTEND;TZID=America/Los_Angeles:20261216T220000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647082@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 11/18 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)W
+ ed 12/9 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 12/16 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 12/23 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/30 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 1/6 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please d
+ ouble check event information with the event organizer as events can be ca
+ nceled\, details can change after they are added to our calendar\, and err
+ ors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-wed
+ nesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-und
+ erdogs-cantina-soma-77/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-77
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitter Christmas
@@ -49299,6 +49409,47 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-469/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
+DTSTART;TZID=America/Los_Angeles:20261223T110000
+DTEND;TZID=America/Los_Angeles:20261223T170000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647095@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerFree Admission Day at Yerba Bu
+ ena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to
+  the public in 1993\, YBCA was founded as the cultural anchor of San Franc
+ isco’s Yerba Buena Gardens neighborhood. Our work spans the realms of co
+ ntemporary art\, performance\, film\, civic engagement\, and public life. 
+ Centering artists as essential to social and cultural movement\, YBCA is r
+ eimagining the role an arts institution can play in the community it serve
+ s.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood\, 
+ across the street from SFMOMA and the Moscone Convention Center. The main 
+ entrance to our galleries and forum event space is at 701 Mission Street. 
+ The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wed
+ nesday–Sunday\, 11–5pm.\nEntry to YBCA Galleries is free every Wednesd
+ ay\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seni
+ ors: $5\nYouth (17 and under)\, Military Personnel\, & Museums for All: Fr
+ ee\nWednesdays: Free\nEmployees of other museums with current valid staff 
+ ID receive free general admission for themselves and one guest.\nMuseums f
+ or All\nYBCA offers free admission for Medi-Cal and EBT card holders as pa
+ rt of the Museums for All program. Benefits card required upon entry. Tick
+ ets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWe
+ d–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day a
+ t Yerba Buena Center for the Arts (YBCA) Events\nWed 11/18 Free Admission 
+ Day a...\n\nFree\n\nTickets: https://www.ybca.org/visit-us\nDetails: https
+ ://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-y
+ bca-167/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-b
+ uilding.png
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
+ o\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
+ he-arts-ybca-167/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TransLife Drop-In
 DTSTART;TZID=America/Los_Angeles:20261223T130000
 DTEND;TZID=America/Los_Angeles:20261223T150000
@@ -49319,6 +49470,40 @@ LAST-MODIFIED:20261024T160225Z
 LOCATION:San Francisco AIDS Foundation\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/23/translife-drop-in-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261223T163000
+DTEND;TZID=America/Los_Angeles:20261223T220000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647084@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 11/18 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)W
+ ed 12/9 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 12/16 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 12/23 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/30 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 1/6 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please d
+ ouble check event information with the event organizer as events can be ca
+ nceled\, details can change after they are added to our calendar\, and err
+ ors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-wed
+ nesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-und
+ erdogs-cantina-soma-78/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-78
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Wiener Wednesday” Free Hot Dog Night at Rye
@@ -51580,6 +51765,81 @@ LOCATION:Bottom Of The Hill\, 1233 17th Street\, San Francisco\, CA\, 9410
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/29/man-or-astro-man-the-subsonics-
  tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
+DTSTART;TZID=America/Los_Angeles:20261230T110000
+DTEND;TZID=America/Los_Angeles:20261230T170000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647097@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerFree Admission Day at Yerba Bu
+ ena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to
+  the public in 1993\, YBCA was founded as the cultural anchor of San Franc
+ isco’s Yerba Buena Gardens neighborhood. Our work spans the realms of co
+ ntemporary art\, performance\, film\, civic engagement\, and public life. 
+ Centering artists as essential to social and cultural movement\, YBCA is r
+ eimagining the role an arts institution can play in the community it serve
+ s.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood\, 
+ across the street from SFMOMA and the Moscone Convention Center. The main 
+ entrance to our galleries and forum event space is at 701 Mission Street. 
+ The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wed
+ nesday–Sunday\, 11–5pm.\nEntry to YBCA Galleries is free every Wednesd
+ ay\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seni
+ ors: $5\nYouth (17 and under)\, Military Personnel\, & Museums for All: Fr
+ ee\nWednesdays: Free\nEmployees of other museums with current valid staff 
+ ID receive free general admission for themselves and one guest.\nMuseums f
+ or All\nYBCA offers free admission for Medi-Cal and EBT card holders as pa
+ rt of the Museums for All program. Benefits card required upon entry. Tick
+ ets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWe
+ d–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day a
+ t Yerba Buena Center for the Arts (YBCA) Events\nWed 11/18 Free Admission 
+ Day a...\n\nFree\n\nTickets: https://www.ybca.org/visit-us\nDetails: https
+ ://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-y
+ bca-168/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-b
+ uilding.png
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
+ o\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
+ he-arts-ybca-168/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261230T163000
+DTEND;TZID=America/Los_Angeles:20261230T220000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647086@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 11/18 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)W
+ ed 12/9 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 12/16 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 12/23 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/30 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 1/6 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please d
+ ouble check event information with the event organizer as events can be ca
+ nceled\, details can change after they are added to our calendar\, and err
+ ors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-wed
+ nesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-und
+ erdogs-cantina-soma-79/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-79
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Greg Proops: Live Album Recording
@@ -53962,6 +54222,47 @@ URL:https://sf.funcheap.com/sfs-glbt-history-museum-free-first-wednesday-5
  0/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Admission Day at Yerba Buena Center for the Arts (YBCA)
+DTSTART;TZID=America/Los_Angeles:20270106T110000
+DTEND;TZID=America/Los_Angeles:20270106T170000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647099@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Submitted by the Event OrganizerFree Admission Day at Yerba Bu
+ ena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to
+  the public in 1993\, YBCA was founded as the cultural anchor of San Franc
+ isco’s Yerba Buena Gardens neighborhood. Our work spans the realms of co
+ ntemporary art\, performance\, film\, civic engagement\, and public life. 
+ Centering artists as essential to social and cultural movement\, YBCA is r
+ eimagining the role an arts institution can play in the community it serve
+ s.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood\, 
+ across the street from SFMOMA and the Moscone Convention Center. The main 
+ entrance to our galleries and forum event space is at 701 Mission Street. 
+ The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wed
+ nesday–Sunday\, 11–5pm.\nEntry to YBCA Galleries is free every Wednesd
+ ay\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seni
+ ors: $5\nYouth (17 and under)\, Military Personnel\, & Museums for All: Fr
+ ee\nWednesdays: Free\nEmployees of other museums with current valid staff 
+ ID receive free general admission for themselves and one guest.\nMuseums f
+ or All\nYBCA offers free admission for Medi-Cal and EBT card holders as pa
+ rt of the Museums for All program. Benefits card required upon entry. Tick
+ ets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWe
+ d–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day a
+ t Yerba Buena Center for the Arts (YBCA) Events\nWed 11/18 Free Admission 
+ Day a...\n\nFree\n\nTickets: https://www.ybca.org/visit-us\nDetails: https
+ ://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-y
+ bca-169/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-b
+ uilding.png
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission Street San Francisc
+ o\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-t
+ he-arts-ybca-169/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TransLife Galaxy Mental Health Series
 DTSTART;TZID=America/Los_Angeles:20270106T130000
 DTEND;TZID=America/Los_Angeles:20270106T150000
@@ -54047,6 +54348,40 @@ LOCATION:Connolly Ranch\, 3141 Browns Valley Road  Napa
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/ranch-first-wednesday-open-community-day-napa-
  98/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$1 Wing Wednesdays at Underdogs Cantina (SoMa)
+DTSTART;TZID=America/Los_Angeles:20270106T163000
+DTEND;TZID=America/Los_Angeles:20270106T220000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647088@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:$1 Wing Wednesdays at Underdogs Cantina (SoMa)\nUnderdogs Cant
+ ina\nJoin us for Wing Wednesdays at Underdogs Cantina with $1 Wings from 4
+ :30pm – Close!\n$1 Wing Wednesdays\nEvery Wednesday | 4:30pm to Close\nU
+ nderdogs Cantina\, 128 King St. (Across from ballpark)\, SF\nFREE (No Cove
+ r)\n$1 WINGS from 4:30pm – Close\nHappy Hour from 4:30 – 6pm\n\nMarch 
+ 11th\nMarch 18th\n\n25+ TVs // 300+ Capacity // Arcade Games\n\nUpcoming $
+ 1 Wing Wednesdays at Underdogs Cantina (SoMa) Events\nWed 11/18 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 11/25 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/2 $1 Wing Wednesdays at Underdogs Cantina (SoMa)W
+ ed 12/9 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Wed 12/16 $1 Wing We
+ dnesdays at Underdogs Cantina (SoMa)Wed 12/23 $1 Wing Wednesdays at Underd
+ ogs Cantina (SoMa)Wed 12/30 $1 Wing Wednesdays at Underdogs Cantina (SoMa)
+ Wed 1/6 $1 Wing Wednesdays at Underdogs Cantina (SoMa)Disclaimer: Please d
+ ouble check event information with the event organizer as events can be ca
+ nceled\, details can change after they are added to our calendar\, and err
+ ors do occur.\n\nFree\n\nTickets: https://www.eventbrite.com/cc/1-wing-wed
+ nesdays-2800599\nDetails: https://sf.funcheap.com/1-wing-wednesdays-at-und
+ erdogs-cantina-soma-80/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/https_
+ __cdn.evbuc_.com_images_782174529_1287845793773_1_original.jpeg
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-80
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Safe Words” Comedy & Hot Dogs | SF
@@ -55277,6 +55612,37 @@ URL:https://sf.funcheap.com/cartoonist-conspiracy-of-san-francisco-collabo
  rative-drawing-jam-14/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF
+DTSTART;TZID=America/Los_Angeles:20270113T190000
+DTEND;TZID=America/Los_Angeles:20270113T203000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647111@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerThe Laugh Boat: Local Brews & 
+ Free Comedy | SF\nPhil Griffiths\nEvery 2nd Wednesday in San Francisco\, c
+ omedians Jill Maragos\, Phil Griffiths and Andrew Orolfo host the best loc
+ al and nationally touring stand-up comedians in the welcoming and homey sp
+ ace of Ocean Ale House.\nEnjoy great comedy and some local brew.\n\nThe La
+ ugh Boat: Local Brews & Free Comedy\nEvery 2nd Wednesday | 7 to 8:30 pm\nO
+ cean Ale House\, 1314 Ocean Avenue\, San Francisco\,\nFREE\n– Updated 6/
+ 7/19 – Event info last checked via website\n\nUpcoming The Laugh Boat: L
+ ocal Brews & Free Comedy | SF Events\nWed 12/9 The Laugh Boat: Local Brews
+  & Free Comedy | SFWed 1/13 The Laugh Boat: Local Brews & Free Comedy | SF
+ Wed 2/10 The Laugh Boat: Local Brews & Free Comedy | SFDisclaimer: Please 
+ double check event information with the event organizer as events can be c
+ anceled\, details can change after they are added to our calendar\, and er
+ rors do occur.\n\nFree\n\nTickets: http://www.oceanalehouse.com/event-crea
+ ted\nDetails: https://sf.funcheap.com/the-laugh-boat-local-brews-free-come
+ dy-sf-113/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2017/05/185160
+ 90_10154745924017476_1843799255_n.jpg
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Ocean Ale House\, 1314 Ocean Avenue\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/the-laugh-boat-local-brews-free-comedy-sf-113/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Day to Ice Skate at Union Square’s Holiday Ice Rink (2026/
  27 Winter Season)
 DTSTART;TZID=America/Los_Angeles:20270118T100000
@@ -55980,6 +56346,37 @@ LAST-MODIFIED:20261112T004845Z
 LOCATION:The Knockout\, 3223 Mission St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-151/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF
+DTSTART;TZID=America/Los_Angeles:20270210T190000
+DTEND;TZID=America/Los_Angeles:20270210T203000
+DTSTAMP:20261112T200210Z
+UID:funcheap-1647113@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerThe Laugh Boat: Local Brews & 
+ Free Comedy | SF\nPhil Griffiths\nEvery 2nd Wednesday in San Francisco\, c
+ omedians Jill Maragos\, Phil Griffiths and Andrew Orolfo host the best loc
+ al and nationally touring stand-up comedians in the welcoming and homey sp
+ ace of Ocean Ale House.\nEnjoy great comedy and some local brew.\n\nThe La
+ ugh Boat: Local Brews & Free Comedy\nEvery 2nd Wednesday | 7 to 8:30 pm\nO
+ cean Ale House\, 1314 Ocean Avenue\, San Francisco\,\nFREE\n– Updated 6/
+ 7/19 – Event info last checked via website\n\nUpcoming The Laugh Boat: L
+ ocal Brews & Free Comedy | SF Events\nWed 12/9 The Laugh Boat: Local Brews
+  & Free Comedy | SFWed 1/13 The Laugh Boat: Local Brews & Free Comedy | SF
+ Wed 2/10 The Laugh Boat: Local Brews & Free Comedy | SFDisclaimer: Please 
+ double check event information with the event organizer as events can be c
+ anceled\, details can change after they are added to our calendar\, and er
+ rors do occur.\n\nFree\n\nTickets: http://www.oceanalehouse.com/event-crea
+ ted\nDetails: https://sf.funcheap.com/the-laugh-boat-local-brews-free-come
+ dy-sf-114/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2017/05/185160
+ 90_10154745924017476_1843799255_n.jpg
+LAST-MODIFIED:20261112T200210Z
+LOCATION:Ocean Ale House\, 1314 Ocean Avenue\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/the-laugh-boat-local-brews-free-comedy-sf-114/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anime & Manga Club: An Afternoon Full Of Fun | SF
