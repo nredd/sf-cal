@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-10T23:28:45.964621Z",
+ "last_full_refresh": "2026-11-12T00:48:45.210659Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -3338,7 +3338,7 @@
   {
    "source": "caldiscovery-festival",
    "source_id": "3596af29cef2fb62",
-   "title": "Performing Arts Showcase",
+   "title": "Performing Arts Showcase (Canceled due to weather)",
    "start": "2026-11-14T01:00:00-08:00",
    "end": "2026-11-14T04:00:00-08:00",
    "all_day": false,
@@ -3352,7 +3352,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. There will be both bleacher and street-level seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and ATG San Francisco, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
+   "description": "UPDATE: Due to rain, this event has been canceled. We will reschedule the Performing Arts Showcase for a future date.\nOriginal: On Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet musicians, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more. From powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nThis event is free, RSVP here. There will be both bleacher and street-level seating.\nAfter the performances there opportunity to mingle with the performing arts organizations along with the SF Symphony and ATG San Francisco, as well as ticket sales, ticket raffles, and bites and drinks for purchase.\n\nThank you to event sponsors: Avenue Greenlight, Civic Center Community Benefit District, Illuminate, and the San Francisco Public Library",
    "image_url": null,
    "categories": [
     "dance",
@@ -3532,38 +3532,6 @@
    ],
    "notes": [
     "Published by Calendar Of Events",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
-   "source_id": "6bbfd330488cba96",
-   "title": "Alameda Holiday Fest",
-   "start": "2026-11-15T10:00:00-08:00",
-   "end": "2026-11-15T15:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Temple Israel of Alameda",
-   "address": "3183 Mecartney Road, Alameda, CA, United States",
-   "locality": "Alameda",
-   "geo": null,
-   "url": "https://jweekly.com/event/alameda-holiday-fest/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Fair with local artists and small business owners. Fundraiser for Temple Israel.",
-   "image_url": null,
-   "categories": [
-    "arts",
-    "community",
-    "festival",
-    "free",
-    "holiday",
-    "market"
-   ],
-   "notes": [
-    "Published by J.",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -4891,352 +4859,6 @@
    "image_url": null,
    "categories": [],
    "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17282244",
-   "title": "Performing Arts Series for Students Mosaic America Grade K-8",
-   "start": "2026-11-04T09:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Montalvo Arts Center",
-   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
-   "locality": "Saratoga",
-   "geo": [
-    37.243876,
-    -122.030816
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/performing-arts-series-for-students-mosaic-america-grade-k-8-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "The Performing Arts Series for Students is designed to serve school groups, youth, and homeschooled students.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31771860/f9d32cab-eec2-4873-9370-0b7dfe6918ab.png",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18034230",
-   "title": "Valkyries Championship Parade Party",
-   "start": "2026-11-04T10:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Underdogs Cantina",
-   "address": "128 King Street, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": [
-    37.77951,
-    -122.39071
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/valkyries-championship-parade-party",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Valkyries Championship Parade Party\nWednesday, November 4 | ​Underdogs Cantina\n\nThe Valkyries are the Champions and we are ready to celebrate big! Underdogs Cantina is right in the action, at the end of the parade route.\n\nWe're opening at 10 AM this Wednesday with:\n\nLive DJ\nAward-winning food\nDrink specials\nA whole lot of Valks pride!\n\nWe're taking table reservations! Call (415) 416-6873 or email info@underdogscantina.com to reserve your table.\n\nLet's celebrate our Valks!",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35295428/9e4f7412-51be-4c91-8457-5ee62459e728.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17282245",
-   "title": "Performing Arts Series for Students Mosaic America Grade K-8",
-   "start": "2026-11-04T11:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Montalvo Arts Center",
-   "address": "15400 Montalvo Road, Saratoga, CA, 95070",
-   "locality": "Saratoga",
-   "geo": [
-    37.243876,
-    -122.030816
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/performing-arts-series-for-students-mosaic-america-grade-k-8-tickets-b3q3xze",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "The Performing Arts Series for Students is designed to serve school groups, youth, and homeschooled students.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31771861/938c4991-b769-4b73-9fec-b5e3fc69147c.png",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18029103",
-   "title": "Valkyries Championship Parade",
-   "start": "2026-11-04T12:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Embarcadero",
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/4/valkyries-championship-parade-tickets",
-   "ticket_url": null,
-   "price_text": "Free, All Ages",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Kaiser Permanente Presents\nValkyries Championship Parade\nWednesday, November 4 | The Embarcadero\n\nYour Golden State Valkyries are the 2026 WNBA Champions\n\nThe Golden State Valkyries defeated the Atlanta Dream in the WNBA Finals to capture the team's first WNBA Championship, becoming the only organization to ever win a title in their first two years of expansion. Gabby Williams earned the title of Finals Most Valuable Player after her 30-point performance in the clinching victory.\n\nThe 2026 WNBA Champion Golden State Valkyries and the City of San Francisco will host the Valkyries Championship Parade, presented by Kaiser Permanente, on Wednesday, Nov. 4 from 12 p.m. to 2 p.m. The parade will travel along The Embarcadero, starting at the Ferry Building near Mission Street and ending at King and 2nd Street. Fans can begin lining up along the parade route at 9 a.m. on the bay side of Embarcadero from Mission Street to 2nd Street.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35273052/01b4310f-dd61-4570-8d45-e36a671b1e7b.png",
-   "categories": [
-    "Variety"
-   ],
-   "notes": [
-    "Kaiser Permanente Presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17637832",
-   "title": "TransLife Galaxy Mental Health Series",
-   "start": "2026-11-04T13:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/4/translife-galaxy-mental-health-series-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Community-based mental health facilitators share coping skills and trauma resiliency techniques that help develop life-rebuilding practices. This group is designed for transgender, gender non-conforming, non-binary, and other TGNCI+ community members.\n\nTo attend, please email astephens@sfaf.org.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33457449/ca8c8751-e094-4836-8b0b-5ebd06966477.jpg",
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18034224",
-   "title": "Valkyries Fan Social: Championship Parade Afterparty",
-   "start": "2026-11-04T13:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Quik Dog",
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/4/valkyries-fan-social-championship-parade-afterparty-tickets",
-   "ticket_url": null,
-   "price_text": "Free",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Valkyries Fan Social: Championship Parade Afterparty\nWednesday, November 4 | Quik Dog\n\nOne unforgettable season. One more toast together.\n\nCelebrate the Golden State Valkyries championship with the fans who made Ballhalla feel like home. Join Dub Vibes Only at Quik Dog on Wednesday, November 4, 2026, from 1–4 PM for a free, family-friendly championship afterparty.\n\nEnjoy a DJ, a complimentary champagne or sparkling apple cider toast, and a group photo to close the season together. Come solo, bring your family, or invite your crew. Kids are welcome, and your favorite Valkyries gear or a touch of purple is encouraged.\n\nABOUT DUB VIBES ONLY\nDub Vibes Only is a Bay Area sports fan community bringing Valkyries, Warriors, and 49ers fans together through watch parties, fan socials, and shared celebrations. We turn game-day energy into lasting connections. Whether you have cheered all season or are joining us for the first time, there is a place for you here.\n\nPLAN YOUR AFTERNOON\nDoors open at 1 PM. Join us for the championship toast at 3 PM and the group photo at 3:05 PM. See the agenda below for the full schedule.\n\nReserve a free spot for everyone in your group. Champagne is for guests 21+ with valid ID, first come, first served while supplies last. Sparkling apple cider is available for a non-alcoholic toast. Food and additional drinks are available for purchase from Quik Dog.\n\nGETTING HERE AFTER THE PARADE\nFrom King and 2nd Street, walk along King Street toward 3rd Street, then f...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35295360/5634f94f-750d-454b-ab13-527e588e53f6.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18028863",
-   "title": "Free Art Workshop: Clay Tile Textures",
-   "start": "2026-11-04T14:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7856437,
-    -122.4021904
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/free-art-workshop-clay-tile-textures-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Create art inspired by our programming at this drop-in art workshop! All ages welcome, all materials provided.\n\nLearn how to carve marks and textures on clay tiles in a workshop inspired by “Rael San Fratello: Prototypes and Provocations” on view at YBCA.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35271818/a833abd9-5522-4d93-99e3-5a78f9d0d34f.jpg",
-   "categories": [
-    "Arts & Family"
-   ],
-   "notes": [
-    "Yerba Buena Center for the Arts"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18034054",
-   "title": "Golden State Valkyries parade After Party",
-   "start": "2026-11-04T14:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Grand",
-   "address": "520 4TH STREET, San Francisco, CA, 94107",
-   "locality": "San Francisco",
-   "geo": [
-    37.7790986,
-    -122.3979
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/golden-state-valkyries-parade-after-party-tickets",
-   "ticket_url": null,
-   "price_text": "Free, 21+",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Golden State Valkyries Parade After Party\nWednesday, November 4 | The Grand\n\nCelebrate the Valkyries in style! Keep the championship energy going at The Official Golden State Valkyries Parade After Party!\n\nGUESTLIST\nRSVP on our DISCOUNTED ENTRY GUEST LIST for discounted admission before 3:00PM. Please note that you must be inside The Grand Nightclub by 3:00PM for discounted admission. Early arrival is strongly suggested. Door reserves all rights. Guestlist serves as an expedited line and does not guarantee entry into the venue. Entry charges may still apply.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35294440/6e213ad3-8be2-485b-8227-831672ef81b8.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": [
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18034091",
-   "title": "Valkyries Championship Parade After Party",
-   "start": "2026-11-04T14:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Kaiyō Rooftop",
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/4/valkyries-championship-parade-after-party-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Valkyries Championship Parade After Party\nWednesday, November 4 | ​Kaiyō Rooftop",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35294643/69a9d8aa-9638-490d-b22f-551f46dfd0af.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18034183",
-   "title": "PURPLE REIGN: Valkyries Fan Celebration Day Party",
-   "start": "2026-11-04T14:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The EndUp",
-   "address": "401 6th St, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7772436,
-    -122.4037707
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/purple-reign-valkyries-fan-celebration-day-party-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Tropic Soul & Riddim Nation Presents\nPURPLE REIGN: Valkyries Fan Celebration Day Party\nWednesday, November 4 | The EndUp\n\nKeep the celebration going After the Parade! Let’s Celebrate our Champions at The EndUp Wed Nov 4, 2p. Wear purple and bring your crew!\n\nPURPLE REIGN Valkyries Fan Celebration | Post-Parade Day Party\n\nThe parade ends, but the celebration keeps going! Join Tropic Soul & Riddim Nation at The EndUp for an afternoon of music, dancing and Bay Area pride as we celebrate the Golden State Valkyries’ championship!\n\nCome straight from the parade, bring your crew and wear your best purple & Valkyries attire. This is history in San FrancIsco and we're excited to bring fans together for more good times & celebrate our WNBA Champs.\n\nWhether you’ve been cheering since day one or you’re joining the celebration, come ready for good music, new connections and championship energy.\n\nPurple fits encouraged. Jerseys welcome. Bring your Bay Area pride!\n\nFollow @tropicsoulbayarea for DJ announcements and event updates.\n\nAn independent fan celebration presented by Tropic Soul & Riddim Nation.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35295137/9af669db-2842-4b8b-b25c-d8969205fc83.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": [
-    "Tropic Soul & Riddim Nation Presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17637833",
-   "title": "Transformaciones",
-   "start": "2026-11-04T15:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/4/transformaciones-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Grupo de Apoyo para TGNCI (Transgénero, Género No Conforme, No Binario e Intersex) Latine inmigrantes\n\nEL GRUPO SE FACILITA EN ESPAÑOL Con Dr. Silvia Sandoval\n\nEl 1er y 3er Miércoles\n\n3:00 a 5:00pm\n\n940 Howard St.\n\nSe servira una comida\n\nPara más información: istaiti@sfaf.org | 415-738-3544\n\nMade possible through funding by ViiV Healthcare, Gilead Sciences, and Elizabeth Taylor AIDS Foundation",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33457450/ef169fd3-c942-4771-9c62-6ed090148603.png",
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17997419",
-   "title": "Ken Russell's The Devils",
-   "start": "2026-11-04T16:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "Balboa Theater",
-   "address": "3630 Balboa St, San Francisco, CA, 94121",
-   "locality": "San Francisco",
-   "geo": [
-    37.7760419,
-    -122.498063
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/ken-russell-s-the-devils-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.\n\nThis film can be used with loyalty cards or our 2026 annual CinemaSFBay passes",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35140200/9c7c25b5-6da3-4fb1-804a-55344f579c47.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18007655",
-   "title": "Dread Scot & RSF Gallery Tour & Sketching Activity,",
-   "start": "2026-11-04T16:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7856437,
-    -122.4021904
-   ],
-   "url": "https://dothebay.com/events/2026/11/4/dread-scot-rsf-gallery-tour-sketching-activity-tickets",
-   "ticket_url": null,
-   "price_text": "FREE",
-   "is_free": true,
-   "sold_out": false,
-   "description": null,
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35187992/12fdb959-72ee-4e79-9eb7-d9ea5042e643.jpg",
-   "categories": [
-    "Arts & Family"
-   ],
-   "notes": [
-    "YBCA"
-   ]
   },
   {
    "source": "dothebay",
@@ -53128,30 +52750,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1638816",
-   "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
-   "start": "2026-11-04T09:00:00-08:00",
-   "end": "2026-11-04T10:00:00-08:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Japanese Tea Garden",
-   "address": "75 Hagiwara Tea Garden Dr, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-452/",
-   "ticket_url": "https://www.japaneseteagardensf.com/vist",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)\nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from around the world with an opportunity to experience the natural beauty, tranquility, and harmony of a Japanese-style garden in the heart of San Francisco’s Golden Gate Park.\nOriginally created as a “Japanese Village” exhibit for the 1894 California Midwinter International Exposition, the Japanese Tea Garden endures as one of the most popular attractions in San Francisco, featuring classic elements such as an arched drum bridge, pagodas, stone lanterns, stepping stone paths, native Japanese plants, serene koi ponds, and a zen garden. Cherry blossom trees bloom throughout the garden in March and April.\nAdmission to the Japanese Tea Garden is free for San Francisco residents with valid ID. Free hours for everyone (even non-residents) are 9-10 am every Monday, Wednesday and Friday.\n\nPlease note that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiwara Tea Garden, Golden Gate Park, SF\nFREE for San Francisco Residents w/ ID\nFREE for Everyone from 9-10 am on Mondays, Wednesdays and Fridays\nNon Resident Fees\nAdults: Tickets start at $16 (depends on season)\nSeniors (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildren (under 5) FREE\nOpen Daily at 9am-Last Entry\nLast entry is 30 minutes before closing. Last entry changes seasonally.\nSpring – Summer Last Entry\nMarch – October: 5:30pm\nFall – Winter Last Entry\nNovember – February:...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/07/japaneseteagarden-scaled-e1595352236641.jpeg",
-   "categories": [
-    "Outdoors"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1590587",
    "title": "SF’s Holiday Ice Skating Rink at Union Square: 2026 Opening Ceremony + Free Ice Skating",
    "start": "2026-11-04T10:00:00-08:00",
@@ -53241,54 +52839,6 @@
    "sold_out": false,
    "description": "Submitted by the Event OrganizerFree Admission Day at Yerba Buena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to the public in 1993, YBCA was founded as the cultural anchor of San Francisco’s Yerba Buena Gardens neighborhood. Our work spans the realms of contemporary art, performance, film, civic engagement, and public life. Centering artists as essential to social and cultural movement, YBCA is reimagining the role an arts institution can play in the community it serves.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood, across the street from SFMOMA and the Moscone Convention Center. The main entrance to our galleries and forum event space is at 701 Mission Street. The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wednesday–Sunday, 11–5pm.\nEntry to YBCA Galleries is free every Wednesday\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seniors: $5\nYouth (17 and under), Military Personnel, & Museums for All: Free\nWednesdays: Free\nEmployees of other museums with current valid staff ID receive free general admission for themselves and one guest.\nMuseums for All\nYBCA offers free admission for Medi-Cal and EBT card holders as part of the Museums for All program. Benefits card required upon entry. Tickets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWed–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day at Yerba Buena Center for the Arts (YBCA) Events\nWed 10/14 Free Admission Day a...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-building.png",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1645502",
-   "title": "2026 Valkyries Championship Parade Along Embarcadero (SF) | Street Closures, Parade Map, BART, Caltrain Info",
-   "start": "2026-11-04T12:00:00-08:00",
-   "end": "2026-11-04T14:00:00-08:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "San Francisco Ferry Building",
-   "address": "1 Ferry Bldg., San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/2026-golden-state-valkyries-championship-parade-embarcadero-sf/",
-   "ticket_url": "https://valkyries.wnba.com/news/golden-state-valkyries-announce-championship-parade-information",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "2026 Valkyries Championship Parade Along The Embarcadero (SF)The 2026 WNBA Champion Golden State Valkyries and the City of San Francisco will host a championship parade along The Embarcadero. The route begins at the Ferry Building near Mission Street and ends at King and 2nd Street, with fans invited to line up from Mission Street to 2nd Street beginning at 9 a.m. The parade includes Valkyries players, coaches and staff, Bay Area officials and icons, a drum ceremony led by Finals MVP Gabby Williams and Mayor Daniel Lurie, a viewing area, championship merchandise truck and fan activation zones.\nThe 2026 WNBA Champion Golden State Valkyries and the City of San Francisco will host the Valkyries Championship Parade, presented by Kaiser Permanente, on Wednesday, Nov. 4, 2026 from 12 p.m. to 2 p.m. The parade will travel along The Embarcadero, starting at the Ferry Building near Mission Street and ending at King and 2nd Street. Fans can begin lining up along the parade route at 9 a.m. on the bay side of Embarcadero from Mission Street to 2nd Street.\nThe 2026 WNBA Champion Golden State Valkyries and the City of San Francisco will host the Valkyries Championship Parade, presented by Kaiser Permanente, on Wednesday, November 4, 2026 from 12 p.m. to 2 p.m.\nParade Route – Ferry Building top King & Second – EMBARCADERO\nThe parade will travel along The Embarcadero, starting at the Ferry Building near Mission Street and ending at King and 2nd Street. Fans can begin lining up along the para...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/imgi_1_GSV_BM_20260923_Playoffs_Parade_Map_1280x720.jpg",
-   "categories": [
-    "Sports Fitness"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1645579",
-   "title": "Free Art Workshop: Clay Tile Textures",
-   "start": "2026-11-04T14:00:00-08:00",
-   "end": "2026-11-04T16:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-art-workshop-clay-tile-textures/",
-   "ticket_url": "https://bit.ly/4hyAzCv",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerPhoto by YBCA Senior Manager of Educational Programs Rea Lynn de GuzmanCreate art inspired by our programming at this drop-in art workshop! All ages welcome, all materials provided.\nLearn how to carve marks and textures on clay tiles in a workshop inspired by “Rael San Fratello: Prototypes and Provocations” on view at YBCA.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/clay-tile-textures_1200-x-675-px.png",
    "categories": [
     "Art Museums"
    ],
@@ -59049,7 +58599,7 @@
   {
    "source": "funcheap",
    "source_id": "1643700",
-   "title": "SF’s Free Holiday “Performing Arts Showcase” Under 1200+ LED Lights (Civic Center)",
+   "title": "POSTPONED – SF’s Free Holiday “Performing Arts Showcase” Under 1200+ LED Lights (Civic Center)",
    "start": "2026-11-13T17:00:00-08:00",
    "end": "2026-11-13T20:00:00-08:00",
    "all_day": false,
@@ -59063,7 +58613,7 @@
    "price_text": null,
    "is_free": true,
    "sold_out": false,
-   "description": "Civic Center Community Benefit DistrictOn Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more.\nFrom powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nPerforming Arts Showcase\nFriday, November 13, 2026 | 5-8p\nFulton Plaza, Civic Center, 147 Fulton St, SF\nFREE – RSVP\nThe event will also feature a post-show reception with an opportunity to mingle with the performing arts organizations, ticket sales, ticket raffles from the SF Symphony and Orpheum Theatre, and bites and drinks for purchase.\n\nView this post on Instagram\n\nA post shared by Civic Center CBD (@sfciviccenter)",
+   "description": "Civic Center Community Benefit DistrictPostponed. UPDATE: Due to inclement weather, this event has been canceled and will be rescheduled for a future date.\nOn Friday, November 13, from 5–8 pm, Fulton Plaza will come alive beneath the dazzling SPECTRA lights for the holiday season’s Performing Arts Showcase, a celebration bringing together some of downtown’s most exciting performing arts organizations for one unforgettable evening.\nGuests will be treated to a dynamic lineup of live performances of what’s on stage Fall 2026-Winter 2027. Expect short works from the San Francisco Opera, San Francisco Ballet, San Francisco Conservatory of Music, the African American Shakespeare Company, RAWdance, and more.\nFrom powerful voices and sweeping orchestral music to captivating movement and theatrical performances, the showcase offers a little bit of everything — and is a memorable way to launch the holiday season.\nPerforming Arts Showcase\nFriday, November 13, 2026 | 5-8p\nFulton Plaza, Civic Center, 147 Fulton St, SF\nFREE – RSVP\nThe event will also feature a post-show reception with an opportunity to mingle with the performing arts organizations, ticket sales, ticket raffles from the SF Symphony and Orpheum Theatre, and bites and drinks for purchase.\n\nView this post on Instagram\n\nA post shared by Civic Center CBD (@sfciviccenter)",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Newsletter-2.jpg",
    "categories": [
     "Theater Performance"
@@ -67804,6 +67354,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646995",
+   "title": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
+   "start": "2026-12-08T19:30:00-08:00",
+   "end": "2026-12-08T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Underdogs Cantina",
+   "address": "128 King St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-126/",
+   "ticket_url": "https://www.eventbrite.com/cc/1-margs-disco-taco-tuesday-2704929",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)\nUnderdogs Cantina\nJoin us for a Disco Taco Tuesday at Underdogs Cantina with $1 MARGARITAS from 7:30pm – 8pm!\n$1 Margs & Disco Taco Tuesday\nEvery Tuesday at 7:30pm\nUnderdogs Cantina, 128 King St. (Across from ballpark), SF\nFREE (No Cover)\n$1 MARGARITAS from 7:30pm – 8:00pm\n\nMarch 17th\nMarch 24th\nMarch 31st\n\n25+ TVs // 300+ Capacity // Arcade Games\nHAPPY HOUR ALL NIGHT LONG!\n\nUnderdogs Cantina\n\nUpcoming $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa) Events\nTue 11/17 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 11/24 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/1 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/8 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/15 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/22 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/29 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 1/5 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Margs-Eventbrite-Cover.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645921",
    "title": "$6 Drive-In Movie Night in Concord & San Jose",
    "start": "2026-12-08T20:30:00-08:00",
@@ -69748,6 +69322,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646997",
+   "title": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
+   "start": "2026-12-15T19:30:00-08:00",
+   "end": "2026-12-15T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Underdogs Cantina",
+   "address": "128 King St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-127/",
+   "ticket_url": "https://www.eventbrite.com/cc/1-margs-disco-taco-tuesday-2704929",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)\nUnderdogs Cantina\nJoin us for a Disco Taco Tuesday at Underdogs Cantina with $1 MARGARITAS from 7:30pm – 8pm!\n$1 Margs & Disco Taco Tuesday\nEvery Tuesday at 7:30pm\nUnderdogs Cantina, 128 King St. (Across from ballpark), SF\nFREE (No Cover)\n$1 MARGARITAS from 7:30pm – 8:00pm\n\nMarch 17th\nMarch 24th\nMarch 31st\n\n25+ TVs // 300+ Capacity // Arcade Games\nHAPPY HOUR ALL NIGHT LONG!\n\nUnderdogs Cantina\n\nUpcoming $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa) Events\nTue 11/17 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 11/24 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/1 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/8 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/15 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/22 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/29 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 1/5 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Margs-Eventbrite-Cover.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645923",
    "title": "$6 Drive-In Movie Night in Concord & San Jose",
    "start": "2026-12-15T20:30:00-08:00",
@@ -70706,6 +70304,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646999",
+   "title": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
+   "start": "2026-12-22T19:30:00-08:00",
+   "end": "2026-12-22T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Underdogs Cantina",
+   "address": "128 King St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-128/",
+   "ticket_url": "https://www.eventbrite.com/cc/1-margs-disco-taco-tuesday-2704929",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)\nUnderdogs Cantina\nJoin us for a Disco Taco Tuesday at Underdogs Cantina with $1 MARGARITAS from 7:30pm – 8pm!\n$1 Margs & Disco Taco Tuesday\nEvery Tuesday at 7:30pm\nUnderdogs Cantina, 128 King St. (Across from ballpark), SF\nFREE (No Cover)\n$1 MARGARITAS from 7:30pm – 8:00pm\n\nMarch 17th\nMarch 24th\nMarch 31st\n\n25+ TVs // 300+ Capacity // Arcade Games\nHAPPY HOUR ALL NIGHT LONG!\n\nUnderdogs Cantina\n\nUpcoming $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa) Events\nTue 11/17 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 11/24 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/1 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/8 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/15 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/22 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/29 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 1/5 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Margs-Eventbrite-Cover.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645925",
    "title": "$6 Drive-In Movie Night in Concord & San Jose",
    "start": "2026-12-22T20:30:00-08:00",
@@ -71330,6 +70952,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1647001",
+   "title": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
+   "start": "2026-12-29T19:30:00-08:00",
+   "end": "2026-12-29T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Underdogs Cantina",
+   "address": "128 King St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-129/",
+   "ticket_url": "https://www.eventbrite.com/cc/1-margs-disco-taco-tuesday-2704929",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)\nUnderdogs Cantina\nJoin us for a Disco Taco Tuesday at Underdogs Cantina with $1 MARGARITAS from 7:30pm – 8pm!\n$1 Margs & Disco Taco Tuesday\nEvery Tuesday at 7:30pm\nUnderdogs Cantina, 128 King St. (Across from ballpark), SF\nFREE (No Cover)\n$1 MARGARITAS from 7:30pm – 8:00pm\n\nMarch 17th\nMarch 24th\nMarch 31st\n\n25+ TVs // 300+ Capacity // Arcade Games\nHAPPY HOUR ALL NIGHT LONG!\n\nUnderdogs Cantina\n\nUpcoming $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa) Events\nTue 11/17 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 11/24 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/1 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/8 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/15 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/22 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/29 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 1/5 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Margs-Eventbrite-Cover.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645927",
    "title": "$6 Drive-In Movie Night in Concord & San Jose",
    "start": "2026-12-29T20:30:00-08:00",
@@ -71906,6 +71552,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1647003",
+   "title": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
+   "start": "2027-01-05T19:30:00-08:00",
+   "end": "2027-01-05T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "Underdogs Cantina",
+   "address": "128 King St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-130/",
+   "ticket_url": "https://www.eventbrite.com/cc/1-margs-disco-taco-tuesday-2704929",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)\nUnderdogs Cantina\nJoin us for a Disco Taco Tuesday at Underdogs Cantina with $1 MARGARITAS from 7:30pm – 8pm!\n$1 Margs & Disco Taco Tuesday\nEvery Tuesday at 7:30pm\nUnderdogs Cantina, 128 King St. (Across from ballpark), SF\nFREE (No Cover)\n$1 MARGARITAS from 7:30pm – 8:00pm\n\nMarch 17th\nMarch 24th\nMarch 31st\n\n25+ TVs // 300+ Capacity // Arcade Games\nHAPPY HOUR ALL NIGHT LONG!\n\nUnderdogs Cantina\n\nUpcoming $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa) Events\nTue 11/17 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 11/24 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/1 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/8 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/15 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/22 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 12/29 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 1/5 $1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Margs-Eventbrite-Cover.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1646136",
    "title": "First Tuesdays Free Comedy Showcase & Happy Hour | The Layover",
    "start": "2027-01-05T20:00:00-08:00",
@@ -72261,6 +71931,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2016/05/teens_reading.jpg",
    "categories": [
     "Geek Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647023",
+   "title": "Cyberpunk Cinema Night | Mission Dist.",
+   "start": "2027-01-11T18:30:00-08:00",
+   "end": "2027-01-11T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "film",
+   "venue": "The Knockout",
+   "address": "3223 Mission St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-150/",
+   "ticket_url": "https://cyberpunkcinema.tumblr.com/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerCyberpunk Cinema Night | Mission Dist.\nCyberpunk Cinema\nCyberpunk Cinema, by Thrillhouse Records, presents cyberpunk movie classics at The Knockout in the Mission every second Monday of the month from 6:30-9 pm.\nThey’ll show one episode of Cowboy Bebop at 6:30 pm, followed by the feature film. Use #cyberpunkcinema during the event to share trivia, thoughts or squishy human feelings on the HD projection screen.\n\nCyberpunk Cinema\nEvery second Monday at 6:30 pm\nThe Knockout, 3223 Mission St., SF\nFREE\n– Updated 6/4/19 – Event info last checked via website\n\nUpcoming Cyberpunk Cinema Night | Mission Dist. Events\nMon 12/14 Cyberpunk Cinema Night | Mission Dist.Mon 1/11 Cyberpunk Cinema Night | Mission Dist.Mon 2/8 Cyberpunk Cinema Night | Mission Dist.Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2014/06/Screenshot-8.png",
+   "categories": [
+    "Movies"
    ],
    "notes": []
   },
@@ -72837,6 +72531,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/08/356799184_3412170722365527_7262830163867165123_n.jpeg",
    "categories": [
     "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647025",
+   "title": "Cyberpunk Cinema Night | Mission Dist.",
+   "start": "2027-02-08T18:30:00-08:00",
+   "end": "2027-02-08T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "film",
+   "venue": "The Knockout",
+   "address": "3223 Mission St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-151/",
+   "ticket_url": "https://cyberpunkcinema.tumblr.com/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerCyberpunk Cinema Night | Mission Dist.\nCyberpunk Cinema\nCyberpunk Cinema, by Thrillhouse Records, presents cyberpunk movie classics at The Knockout in the Mission every second Monday of the month from 6:30-9 pm.\nThey’ll show one episode of Cowboy Bebop at 6:30 pm, followed by the feature film. Use #cyberpunkcinema during the event to share trivia, thoughts or squishy human feelings on the HD projection screen.\n\nCyberpunk Cinema\nEvery second Monday at 6:30 pm\nThe Knockout, 3223 Mission St., SF\nFREE\n– Updated 6/4/19 – Event info last checked via website\n\nUpcoming Cyberpunk Cinema Night | Mission Dist. Events\nMon 12/14 Cyberpunk Cinema Night | Mission Dist.Mon 1/11 Cyberpunk Cinema Night | Mission Dist.Mon 2/8 Cyberpunk Cinema Night | Mission Dist.Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2014/06/Screenshot-8.png",
+   "categories": [
+    "Movies"
    ],
    "notes": []
   },
@@ -76819,8 +76537,6 @@
     "1639449": "2026-09-28T17:52:45",
     "1639452": "2026-09-30T17:29:46",
     "1639454": "2026-09-28T17:33:07",
-    "1639456": "2026-09-28T04:13:38",
-    "1639458": "2026-09-28T04:13:39",
     "1639460": "2026-09-28T17:52:22",
     "1639464": "2026-10-01T00:34:52",
     "1639467": "2026-10-01T00:34:56",
@@ -77619,11 +77335,10 @@
     "1643691": "2026-10-22T22:48:17",
     "1643695": "2026-10-21T17:42:06",
     "1643697": "2026-11-03T17:29:28",
-    "1643700": "2026-10-24T13:26:53",
+    "1643700": "2026-11-11T18:16:25",
     "1643703": "2026-10-21T17:42:49",
     "1643705": "2026-10-21T17:43:30",
     "1643707": "2026-10-21T18:06:37",
-    "1643709": "2026-10-21T17:47:15",
     "1643711": "2026-10-21T18:09:47",
     "1643722": "2026-10-22T22:45:12",
     "1643731": "2026-10-25T16:37:54",
@@ -78126,6 +77841,13 @@
     "1646954": "2026-11-11T07:08:22",
     "1646957": "2026-11-11T07:13:54",
     "1646959": "2026-11-11T07:13:56",
+    "1646995": "2026-11-11T19:14:01",
+    "1646997": "2026-11-11T19:14:04",
+    "1646999": "2026-11-11T19:14:08",
+    "1647001": "2026-11-11T19:14:11",
+    "1647003": "2026-11-11T19:14:14",
+    "1647023": "2026-11-11T20:16:02",
+    "1647025": "2026-11-11T20:16:04",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52",
@@ -78387,9 +78109,9 @@
    "last_modified": "2026-11-04T01:27:11.380793Z"
   },
   "caldiscovery-festival-3596af29cef2fb62@sf-cal": {
-   "content_hash": "ca6ae9fdc197e0dbfa1e602a440c71e3b6cedabff4cb4e9627dff9424a4b7d90",
-   "sequence": 5,
-   "last_modified": "2026-11-07T00:58:02.896323Z"
+   "content_hash": "2e3ccb9aec1604924db3dc6b857fa27a3f64daa5ee4304e988ace16f79b7082d",
+   "sequence": 6,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
   },
   "caldiscovery-festival-367366b3b5f1b4b8@sf-cal": {
    "content_hash": "22eacdcfdaf4d8546f0b8d8f4a1e1772391978cb2422c0f4b6fcadd205c26035",
@@ -79755,16 +79477,6 @@
    "content_hash": "a27997a27fd5f2cb13142824851bad603c894e39cb9aba98d2f98b92b22ab2fc",
    "sequence": 1,
    "last_modified": "2026-11-06T11:02:27.517478Z"
-  },
-  "dothebay-17637832@sf-cal": {
-   "content_hash": "0ea871de90d3db399d066805face1227875617f33c3a40b762696ee115ad8f2d",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
-  "dothebay-17637833@sf-cal": {
-   "content_hash": "aceeaa4c19fd35432f0eadb4cccd5dad99110d11a78a1011785f9985106b22b8",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
   },
   "dothebay-17638312@sf-cal": {
    "content_hash": "e4f6d5d938ce1df65125ce8f6e1be625e6f93b4f59b22ae8e0253986d4c0293d",
@@ -83216,11 +82928,6 @@
    "sequence": 1,
    "last_modified": "2026-11-05T11:06:17.049121Z"
   },
-  "dothebay-17997419@sf-cal": {
-   "content_hash": "2e54b666021654c6f48432b14564820f148d12c2c58be42298f08cde7d78473e",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
   "dothebay-17997884@sf-cal": {
    "content_hash": "7427414ceb9f592f34fe71fc457d9d2b95d7f71db61b43961b75c694ea919dab",
    "sequence": 0,
@@ -83380,11 +83087,6 @@
    "content_hash": "7c1faa8cf683c4853a18244794881bf53cf607b0affb1e7532bd14fe3c396a17",
    "sequence": 0,
    "last_modified": "2026-10-29T10:07:47.796323Z"
-  },
-  "dothebay-18007655@sf-cal": {
-   "content_hash": "c6a3d89e3ab7300c3bb700bc1977c5997fd72ea9b40c5365ac71b6ba64a62de3",
-   "sequence": 2,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
   },
   "dothebay-18007711@sf-cal": {
    "content_hash": "c45139b4e5dc4523827a588308653c7a123478e036836cf28f99bac0775a18c8",
@@ -83716,11 +83418,6 @@
    "sequence": 0,
    "last_modified": "2026-11-02T19:33:55.918958Z"
   },
-  "dothebay-18028863@sf-cal": {
-   "content_hash": "2ba28d8b0eccce65b1dc5f8caf361a00bbe8e47770737e24cb6ba0158cc63187",
-   "sequence": 2,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
   "dothebay-18028867@sf-cal": {
    "content_hash": "cde2f2dd0eb3921c1684c913c0cac0a8a7bd38209ce11706eec04651907ffe64",
    "sequence": 1,
@@ -83748,11 +83445,6 @@
   },
   "dothebay-18029035@sf-cal": {
    "content_hash": "21575d5e3f5e2ee4c140c9e05cf1ce65c1a2dda289e643e69c9a847fa0a7b30b",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
-  "dothebay-18029103@sf-cal": {
-   "content_hash": "88de92a7a8d20b2dee380e41d3f666553ea08433648b82518b8d7c47a006730e",
    "sequence": 1,
    "last_modified": "2026-11-05T11:06:17.049121Z"
   },
@@ -83851,35 +83543,10 @@
    "sequence": 2,
    "last_modified": "2026-11-06T01:36:13.096518Z"
   },
-  "dothebay-18034054@sf-cal": {
-   "content_hash": "42a8dd006d37757ec556fb5b7323b8e68ce732f3f8ae09fe4a23065f864966d1",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
-  "dothebay-18034091@sf-cal": {
-   "content_hash": "9c2152021cfb42c6cc77698661dd5beaac6ba3d0774b8a22352287ce1b8fcbbb",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
   "dothebay-18034147@sf-cal": {
    "content_hash": "a4e762553f0db3f453fe081fd34013aeb2ea8233edcd72ab0c10b40c510467b6",
    "sequence": 2,
    "last_modified": "2026-11-06T11:02:27.517478Z"
-  },
-  "dothebay-18034183@sf-cal": {
-   "content_hash": "b7e76980263dbd1a333cc7b003f164b213df4fff51553e916f7ff1d2fbdb436f",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
-  "dothebay-18034224@sf-cal": {
-   "content_hash": "622cc051102ed886bddc0f35d4d2d94917ce1d45534ca2cf704ba3114197b568",
-   "sequence": 1,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
-  },
-  "dothebay-18034230@sf-cal": {
-   "content_hash": "e55220368c1ee21138badcbe55b20106252b678c1b13498bfd0e0c32db3a9990",
-   "sequence": 2,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
   },
   "dothebay-18034550@sf-cal": {
    "content_hash": "b4731e02c27d774aa4bea5ce26ef50a2982a8128812ef81ded219f2e2fa34726",
@@ -84883,11 +84550,6 @@
   },
   "funcheap-1638750@sf-cal": {
    "content_hash": "99e01f7c8fbeb8cdb887c8a0dd321548a21e7ce95261d6806114f043bfdbd5e7",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1638816@sf-cal": {
-   "content_hash": "c977d3f8764ea70537d54fe57d86aa144b8837fa9e479f2cd6e76a3889bdca4f",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -85901,6 +85563,11 @@
    "sequence": 0,
    "last_modified": "2026-10-29T01:01:45.272982Z"
   },
+  "funcheap-1644803@sf-cal": {
+   "content_hash": "6a78c28db5934e80a219fefe578e2191f6185d869b0930580a68b4014dea7d18",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
+  },
   "funcheap-1644836@sf-cal": {
    "content_hash": "1ca1469ae2e36d249ec187ac93fd75032a03a27445cb2ff1e399cf5b9b750c26",
    "sequence": 0,
@@ -86360,11 +86027,6 @@
    "content_hash": "6f54373bece5451b6be77ccd530011fe550661b6f3411fd350418e6dc37f476e",
    "sequence": 0,
    "last_modified": "2026-11-01T22:08:10.884921Z"
-  },
-  "funcheap-1645502@sf-cal": {
-   "content_hash": "d909ff8cebba29baa8a7d18f149340cb6ee28bfe24829709cf9a1ffe95a1021c",
-   "sequence": 0,
-   "last_modified": "2026-11-02T06:19:47.372361Z"
   },
   "funcheap-1645518@sf-cal": {
    "content_hash": "1e2abfacd6cf35468f66734210363be7db307eb174a6f46b9cba7c568a2a1ad5",
@@ -87090,6 +86752,41 @@
    "content_hash": "0d486a089440258069189c805f89af6232ba8a5c0bd00e045562b70d653ee0f8",
    "sequence": 0,
    "last_modified": "2026-11-11T17:14:19.835664Z"
+  },
+  "funcheap-1646995@sf-cal": {
+   "content_hash": "8da3547a6663dcd1e52f28c72b5f0abf8fda36d9fa954b802b0afa4baea30062",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
+  },
+  "funcheap-1646997@sf-cal": {
+   "content_hash": "755be1892538808abf7d1677005347865760d83857dbfd4f811ae0119850152c",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
+  },
+  "funcheap-1646999@sf-cal": {
+   "content_hash": "03ce983df7a38a260adcb337e0f0fa944f42b45b52dad8b219d32d898a94ccfa",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
+  },
+  "funcheap-1647001@sf-cal": {
+   "content_hash": "ddb3650ffee0d5b29422c976bc6878e21a6d275deb6ddef15b22902b2757bafe",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
+  },
+  "funcheap-1647003@sf-cal": {
+   "content_hash": "e34dca7907a449cabe1d53b9c3b1289b44adcbeb02d7b3d1ea0da1bb5699947f",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
+  },
+  "funcheap-1647023@sf-cal": {
+   "content_hash": "0abeb34a427634fb6083ef6c8e53d8b5fe2c28df5421fb2d082cb1da07690c01",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
+  },
+  "funcheap-1647025@sf-cal": {
+   "content_hash": "d89539e3c4284498bca341e8dd49f396788bf426a5ec0d59a5ad0a58f83256c1",
+   "sequence": 0,
+   "last_modified": "2026-11-12T00:48:45.210659Z"
   },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",

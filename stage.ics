@@ -40,30 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Ken Russell's The Devils
-DTSTART;TZID=America/Los_Angeles:20261104T160000
-DTEND;TZID=America/Los_Angeles:20261104T180000
-DTSTAMP:20261105T110617Z
-UID:dothebay-17997419@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:An enduring masterpiece of cinema starring Oliver Reed and Van
- essa Redgrave\, KEN RUSSELL’S THE DEVILS is a prescient epic of obsessio
- n and corruption – and a defining work of art from seminal filmmaker Ken
-  Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrica
- l experience that Russell always envisioned – and the first time the fil
- m will be presented restored and in 4K.\n\nThis film can be used with loya
- lty cards or our 2026 annual CinemaSFBay passes\n\nDetails: https://dotheb
- ay.com/events/2026/11/4/ken-russell-s-the-devils-tickets\nSource: DoTheBay
-GEO:37.7760419;-122.498063
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35140200/9c7c25b5-6da3-4fb1-804a-55344f579c47.jpg
-LAST-MODIFIED:20261105T110617Z
-LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/4/ken-russell-s-the-devils-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Naza
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T190000
