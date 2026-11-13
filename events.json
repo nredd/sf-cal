@@ -1450,6 +1450,33 @@
   },
   {
    "source": "caldiscovery-comedy",
+   "source_id": "0e90a24a28d80882",
+   "title": "Cobb's Comedy Allstars",
+   "start": "2026-11-29T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/cobbs-comedy-allstars-san-francisco-california-11-29-2026/event/1C0065283C358BD7?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by Cobb's Comedy Club",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
    "source_id": "d6d22fd31300a41e",
    "title": "Julio Torres at Castro",
    "start": "2026-11-30T00:00:00-08:00",
@@ -3641,7 +3668,7 @@
   {
    "source": "caldiscovery-festival",
    "source_id": "0dfe373e7785cd47",
-   "title": "Winterfest",
+   "title": "Winterfest Celebration",
    "start": "2026-12-01T16:00:00-08:00",
    "end": "2026-12-01T18:00:00-08:00",
    "all_day": false,
@@ -5071,33 +5098,6 @@
    "description": "Stomach Cancer Awareness Day",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17756428",
-   "title": "Eternities (Bob Bellerue / Katie Porter) + Antimatter",
-   "start": "2026-11-06T08:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Lab",
-   "address": "2948 16th Street, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.765289,
-    -122.418493
-   ],
-   "url": "https://dothebay.com/events/2026/11/6/eternities-bob-bellerue-katie-porter-antimatter-tickets",
-   "ticket_url": null,
-   "price_text": "$17",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Buy Tickets\n\nDoors 8pm / Show 8:30pm\n\n$17 / free or discounted for members\n\nEternities (Katie Porter & Bob Bellerue) unfold their collaboration of sustained tones on bass clarinet, with zither, harmonica, whistling, and electronic feedback. Inspired by deep presence, resonant feedback, melodic drone, and overtone magic, their work is an intuitive exploration of sound. Bellerue will also perform a solo set utilizing electronics and resonant feedback through The Lab’s grand piano. Photo of Eternities by Peter Gannushkin.\n\nAntimatter, the solo performance project of Xopher Davidson, grew out of a childhood building radios and soundmakers, and developed into a practice built from industrial oscillators and military surplus equipment. An associate of Zbigniew Karkowski, Maryanne Amacher, and many others, Davidson has released records on Asphodel, Daydream Library Series, Sub Rosa (with Karkowski), and others.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34018800/3f606887-6cee-4f58-9e4b-7de3c334a737.jpg",
-   "categories": [
-    "Variety"
-   ],
    "notes": []
   },
   {
@@ -50972,54 +50972,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1644584",
-   "title": "Morning Coffee Cleanup (Inner Richmond) w/ Free Coffee For Volunteers",
-   "start": "2026-11-06T08:00:00-08:00",
-   "end": "2026-11-06T09:00:00-08:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "Cinderella Bakery & Cafe",
-   "address": "436 Balboa St, San Francisco",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/morning-coffee-cleanup-richmond-free-coffee-volunteers-2/",
-   "ticket_url": "https://www.mobilize.us/civicjoyfund/event/756135/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Refuse RefuseMeet at Cinderella Bakery & Cafe (436 Balboa St) to grab our supplies, then cleaning will occur from 8am to 9am around the neighborhood. Stay afterwards for a free coffee and to meet fellow volunteers. Sign up on this Civic Joy Fund Mobilize page, or email info@refuserefusesf.org with event name.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Morning-Coffee-Cleanup-1.jpg",
-   "categories": [
-    "Free Food"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1639216",
-   "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
-   "start": "2026-11-06T09:00:00-08:00",
-   "end": "2026-11-06T10:00:00-08:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": null,
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-457/",
-   "ticket_url": "https://www.japaneseteagardensf.com/vist",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)\nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from around the world with an opportunity to experience the natural beauty, tranquility, and harmony of a Japanese-style garden in the heart of San Francisco’s Golden Gate Park.\nOriginally created as a “Japanese Village” exhibit for the 1894 California Midwinter International Exposition, the Japanese Tea Garden endures as one of the most popular attractions in San Francisco, featuring classic elements such as an arched drum bridge, pagodas, stone lanterns, stepping stone paths, native Japanese plants, serene koi ponds, and a zen garden. Cherry blossom trees bloom throughout the garden in March and April.\nAdmission to the Japanese Tea Garden is free for San Francisco residents with valid ID. Free hours for everyone (even non-residents) are 9-10 am every Monday, Wednesday and Friday.\n\nPlease note that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiwara Tea Garden, Golden Gate Park, SF\nFREE for San Francisco Residents w/ ID\nFREE for Everyone from 9-10 am on Mondays, Wednesdays and Fridays\nNon Resident Fees\nAdults: $12-16 (depends on season)\n(February – November) $14\n(December – January) $12\n(Weekends year-round) $16\nSeniors (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildren (under 5) FREE\nHours Of Operation\nLast entry 30 minutes before closing\nSpring – Summer Hours\nMarch – October\n9am – 5:45pm\nFall – Winter Hours\nNovembe...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/07/japaneseteagarden-scaled-e1595352236641.jpeg",
-   "categories": [
-    "Outdoors"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1645037",
    "title": "Free AI for Social Good Hackathon at West Valley College",
    "start": "2026-11-06T09:00:00-08:00",
@@ -55456,6 +55408,76 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1643612",
+   "title": "Talk live",
+   "start": "2026-11-13T12:00:00-08:00",
+   "end": "2026-11-13T14:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Bay Area Entrepreneur Center",
+   "address": "458 San Mateo Avenue, San Bruno, CA",
+   "locality": "San Bruno",
+   "geo": null,
+   "url": "https://sf.funcheap.com/talk-live/",
+   "ticket_url": "https://tharr.org",
+   "price_text": "$40.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerLive talk with guest speakers",
+   "image_url": null,
+   "categories": [
+    "Lectures Workshops"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647213",
+   "title": "SFMade Store Opening Weekend",
+   "start": "2026-11-13T12:00:00-08:00",
+   "end": "2026-11-13T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The SFMade Store",
+   "address": "373 Geary Street, San Francisco",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfmade-store-opening-weekend/",
+   "ticket_url": "https://www.instagram.com/p/Dfr5KLvG0oW/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SFMade Store Opening Weekend: Shop Bay Area-Made in Union Square!\nDiscover the best of Bay Area-made goods, just steps from Union Square!\nThe SFMade Store is opening its doors at 373 Geary Street, bringing together locally made products from independent makers and manufacturers across the Bay Area, just in time for holiday shopping!\nFrom handcrafted ceramics and jewelry to locally designed clothing, home goods, art prints, and delicious food and beverages, the store is filled with unique finds made by the people and businesses who call the Bay Area home.\n\nLooking for a thoughtful holiday gift, something special for your home, or a little treat for yourself? Skip the ordinary and discover products with a local story behind them. Every purchase supports the makers, small businesses, and manufacturers who keep our region’s creative and manufacturing communities thriving.\nCome celebrate opening weekend, explore the shelves, and discover just how much is made right here in the Bay Area!",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644455",
+   "title": "Feast & Trade Night: Pokémon & Collectibles Show – Antioch / Bay Area",
+   "start": "2026-11-13T15:00:00-08:00",
+   "end": "2026-11-13T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "Contra Costa Fair & Event Park",
+   "address": "1201 West 10th Street Antioch, CA 94509",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/feast-trade-night-pokmon-collectibles-show-antioch-bay-area/",
+   "ticket_url": "https://www.eventbrite.com/e/feast-trade-night-pokemon-collectibles-show-antioch-bay-area-tickets-2003902094107?aff=oddtdtcreator&amp;keep_tld=true#location",
+   "price_text": "$10.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerMr.TotodilekingTrade Pokémon cards and collectibles, meet fellow fans, and enjoy a fun night out in Antioch!\nFeast & Trade is heading to the Contra Costa County Fairgrounds, and we’re bringing in a new partner… drumroll please! 🥁🥁🥁\n\nSIP & GAME!\nWe’re teaming up to bring the card community and fighting game community together for an unforgettable night! Give Sip & Game some love—we’re excited to build this show together! 🤝\nThink you’ve got what it takes? Step up for our TEKKEN TOURNAMENT! 🥊\n$20 tournament entry INCLUDES admission to the show!\n1st place: $300\n🥈 2nd place: $100\nPlus, we’re bringing:\n️ 60 vendors\nUp to $1,000 in giveaway prizes\n🃏 FREE Pokémon packs—while supplies last\n🧋 FREE boba—while supplies last\nFriday, November 13 | 3–9 PM\nContra Costa County Fairgrounds\n1201 West 10th St., Antioch, CA 94509\n️ General admission: $10\nCome shop, trade, compete, and help us welcome Sip & Game to Feast & Trade! Tag your crew—and the friend who thinks they’re unbeatable at Tekken!",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Feast-Trade-Tekken-Card-Show.png",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1636370",
    "title": "“Bhangra & Beats” Night Market: SF’s Official Diwali Celebration (Yerba Buena Gardens)",
    "start": "2026-11-13T16:00:00-08:00",
@@ -55523,6 +55545,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Clement-Street-Happy-Hour-4.jpg",
    "categories": [
     "Free Food"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646500",
+   "title": "John Rybak + Friends at Serendipity Cellars",
+   "start": "2026-11-13T16:00:00-08:00",
+   "end": "2026-11-13T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Serendipity Cellars",
+   "address": "1600 Chestnut St, Brentwood",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/john-rybak-friends-serendipity-cellars/",
+   "ticket_url": "https://www.facebook.com/events/2306044756635145",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerJohn RybakHi Friends!\n\nCome hang with us on my Birthday, this Fri. 11/13 4 – 7pm @ Serendipity Cellars in Brentwood. It’ll be myself on guitar, dobro, harmonica, vocals, Perry Spinali on fiddle and vocal harmonies + John Hosking on upright bass+ vocal harmonies. It’s my birthday, my birth-birthday and gigging birthday, I’m celebrating 30 years of gigging! My birth-birthday? Well, slightly older. Just slightly We have a great set of acoustic roots and blues and some new surprises! See you there!\n\nFriday, November 13th 4-7pmJohn Rybak + FriendsSerendipity Cellars1600 Chestnut St, Brentwood, CA 94513(925) 506-0977Free showhttps://serendipitycellars.wine/https://www.youtube.com/watch?v=1j1ozt9K6x8https://www.reverbnation.com/johnrybakfriends\nEvent Page -> https://www.facebook.com/events/2306044756635145",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Serendipty-Cellars-111326.jpg",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -55720,6 +55766,52 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645512",
+   "title": "Temaki Night",
+   "start": "2026-11-13T18:00:00-08:00",
+   "end": "2026-11-13T21:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "koho co",
+   "address": "1675 Post St, East Mall, 2nd Floor., San Francisco, CA 94115",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/temaki-night/",
+   "ticket_url": "https://www.eventbrite.com/e/temaki-night-tickets-2003942071681?aff=ebdssbdestsearch&amp;dsrp_sid=9a88cd2e-922f-4dcc-af20-0a171b9c23c8&amp;dsrp_item_id=2003942071681",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizermeguruOverview\n\nRoll your own temaki sushi, enjoy Japanese food, and make new friends in SF. Come solo or bring a friend; everyone’s welcome!\n\nTemaki Night: Roll, Eat, Connect\nMaking friends in San Francisco isn’t always easy, especially when every gathering starts to feel like networking.\n\nTemaki Night is something different.\nCome share a table, make your own temaki sushi, meet new people, and enjoy Japanese food together. No networking agenda. No need to know anyone. Just good food, real conversations, and new connections.\nBuild your own temaki\nMix sushi rice, nori, sashimi, veggies, sauces, and toppings. Keep it classic or create your own combination.\nCome solo or bring a friend\nWhether you’re new to SF, love Japanese food, are curious about Japanese culture, or simply want to meet new people, you’re welcome here.\nGood food gives us a reason to gather. The people around the table make it memorable.\nCome hungry. Leave with new friends. ✨\n\nHost Bio:\nMeguru\nMeguru brings people together through hands-on Japanese cooking and cultural workshops in San Francisco. From making udon to sharing temaki sushi, each experience invites people to learn, create, and connect. Inspired by the Japanese concept of goen, or meaningful connections, Meguru welcomes families, friends, and teams to explore Japanese culture together.\nKoho\nKOHO is a community-driven creative hub in San Francisco’s Japantown, bringing together artists, entrepreneurs, and neighbors. Thr...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/S__15515653_2.jpg",
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644450",
+   "title": "Drag Queen Bingo",
+   "start": "2026-11-13T18:30:00-08:00",
+   "end": "2026-11-13T20:30:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Piedmont Community Hall",
+   "address": "711 Highland Avenue, Piedmont",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/drag-queen-bingo/",
+   "ticket_url": "https://register.capturepoint.com/reg/cat_program_list_detail.cfm?season_id=24069&amp;program_id=2887464",
+   "price_text": "$15.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerMs Sweet NothingGrab a friend (or bring five) and get ready for the most glamorous night of bingo you’ve ever experienced! Join us for FIRST Annual Drag Queen Bingo, hosted by the sensational Ms. Sweet Nothing.\nWhether you’re looking to win fabulous prizes or just want to soak in the sass, this is your chance to sparkle and SLAY the night away. Ms. Sweet Nothing awards winners with prizes in total value over $200 and brings special prizes from her personal inventory.\nThe party starts when you arrive. Ms. Sweet Nothing will entertain, dazzle and delight as she leads you through a number of different bingo games. If you’re on your best behavior, she might even treat the group to a private performance!!\nCome for the prizes, stay for the show, and leave feeling like a YASSS QUEEN! Boas, tiaras, glitter-y attire encouraged, but not required.\nNOTE that ticket prices increase on Thursday, October 29th!",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Ms-Sweet-Nothing-Image3.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645942",
    "title": "Excelsior Open Mic and Variety Show",
    "start": "2026-11-13T18:30:00-08:00",
@@ -55740,6 +55832,28 @@
    "categories": [
     "Comedy Event Types Event"
    ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646951",
+   "title": "Guided Meditation And Live Harp Music",
+   "start": "2026-11-13T18:30:00-08:00",
+   "end": "2026-11-13T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": null,
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/guided-meditation-live-harp-music/",
+   "ticket_url": "https://tockify.com/bksfevents/detail/299/1794623400000",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event Organizer\nWind down from the week with deep stillness and profound energy. Guided meditation interspersed with silence and live harp music with Kyoko Kimura, certified healing harpist — proven to rejuvenate both experienced and novice meditators — followed by spiritual sharing. Everyone welcome, no prior meditation experience required. Donation-based (Venmo @bkwsosf). Also online via Zoom — register to receive the link by email.\n\nLocation: Brahma Kumaris Meditation Center, 401 Baker St, San Francisco, CA 94117\nFacebook Event: https://www.facebook.com/events/1976973973264858/\n“Make meditation a priority, not an option.”\nGuided Meditation And Live Harp Music\nDate: 11/13/2026\nBrahma Kumaris Meditation Center, 401 Baker St, San Francisco, CA 94117\nCost: FREE\n– Free and open to all. Donations welcome (Venmo @bkwsosf). Also online via Zoom — register at the RSVP link to receive the Zoom link by email.\n–",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/guided-meditation-harp-2026-11-13-large.jpg",
+   "categories": [],
    "notes": []
   },
   {
@@ -55912,6 +56026,78 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645317",
+   "title": "Oneiros Duo in Concert",
+   "start": "2026-11-13T19:30:00-08:00",
+   "end": "2026-11-13T20:30:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Transfiguration Episcopal Church",
+   "address": "3900 Alameda de las Pulgas San Mateo, CA 94403",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/oneiros-duo-concert/",
+   "ticket_url": "https://www.eventbrite.com/e/oneiros-duo-in-recital-san-mateo-tickets-2003249560361",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerCarlin Ma\n\nTwo musicians, solo and together. Bach, Granados, Bonis, Hindemith, Clarke. Aaron Rosengaus, viola Jennifer M. Lee on Piano.\n\nPROGRAM\n\nJohann Sebastian Bach (1685–1750) Suite No. 2 in D minor, BWV 1008\nMélanie “Mel” Bonis (1858–1937)\nPrélude in E-flat major, Op. 10\nIl pleut (“It Rains”), Op. 102\nEnrique Joaquín Granados y Campiña (1867-1916) Valses poéticos\nRebecca Clarke (1886–1979) I Bid My Heart Be Still\nPaul Hindemith (1895–1963) Sonata for Viola and Piano, Op. 11, No. 4",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/1000071345.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645594",
+   "title": "Dos Bandoleros & Friends (Spanish/Latin Fusion and Dance)",
+   "start": "2026-11-13T19:30:00-08:00",
+   "end": "2026-11-13T22:30:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "The Lost Church",
+   "address": "988 Columbus Ave, SF, CA",
+   "locality": "SF",
+   "geo": null,
+   "url": "https://sf.funcheap.com/dos-bandoleros-friends-spanishlatin-fusion-dance/",
+   "ticket_url": "https://thelostchurch.my.salesforce-sites.com/ticket/#/instances/a0FUh00000C9Jm5MAF",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerFred AubeThis is a show hosted by the Duo Dos Bandoleros, which will perform 2 sets, the first as a trio with special guest Fanny Ara (dance and percussion) and the second one inviting more special guests 🙂\nSpecial Guests:\n\nFanny Ara: Dance and percussion\nMagali Sanscartier: Violin\nJuan Manuel Caipo: Bass\nBio:\nDos Bandoleros is a dynamic Spanish and Latin music duo based in the San Francisco Bay Area. Fusing the passion of Rumba Flamenca with vibrant Latin rhythms, they create an unforgettable musical experience that captivates audiences everywhere!\nFeel the heat with this Spanish duo as they bring back their fiery flamenco rumba sounds, infused with a latin twist. It’s an authentic, pulse-pounding performance that redefines traditional rhythms.\nhttps://linktr.ee/DosBandoleros\nImagine a late-night jam session where Rumba Flamenca legends like Peret and the Gipsy Kings gather after dinner. Suddenly, the Buena Vista Social Club band joins in. With only Spanish guitars, a cajón, a kazoo, and the rhythm of their hands, they create an unforgettable fusion, jamming and blending their unique styles into a night of music and fun that lasts until dawn.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Flyer-The-Lost-Church-Dos-Bandoleros.jpg",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646093",
+   "title": "Feral Friday San Francisco Square Dance",
+   "start": "2026-11-13T19:30:00-08:00",
+   "end": "2026-11-13T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "The Polish Club",
+   "address": "3040 22nd St, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/feral-friday-san-francisco-square-dance-3/",
+   "ticket_url": "https://www.instagram.com/feralfridaysfsquaredance",
+   "price_text": "$20.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerL KeirA community dance in the heart of the Mission District. With Live Music at the historic Polish Club: it is fun, it is frisky!\nNo experience necessary, bring your pals or come on your own; all dances taught and easy to learn. All ages and people welcome: we offer a basic class for beginners from 7:40-8pm.\n\nA free Old Time Music Jam kicks things off starting at 6:30, til 8pm\nOur motto: “”Way more fun than you might think!”",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/IMG_6291.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1646666",
    "title": "Prokofiev’s “Romeo & Juliet” w/ the SF Symphony (Nov. 13–15)",
    "start": "2026-11-13T19:30:00-08:00",
@@ -55984,6 +56170,78 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1643670",
+   "title": "Martha Wash + Marsha Warfield: It’s Raining Queens",
+   "start": "2026-11-13T20:00:00-08:00",
+   "end": "2026-11-13T23:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Feinstein's at the Nikko",
+   "address": "222 Mason Street, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/martha-wash-marsha-warfield-raining-queens-sf/",
+   "ticket_url": "https://www.ticketweb.com/event/its-raining-queens-martha-wash-feinsteins-at-the-nikko-tickets/14318104",
+   "price_text": "$55.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerJames Washington courtesy of Do-Kwa ProductionsSan Francisco-born music icon Martha Wash returns to her hometown alongside groundbreaking comedian Marsha Warfield, whose historic San Francisco comedy competition victory helped establish an extraordinary career in American entertainment.\nSAN FRANCISCO, CA — October 2026 — Two extraordinary women whose groundbreaking careers have helped shape American music, comedy, and popular culture are returning to a city that holds a special place in both of their lives.\n\nOn Friday, November 13, 2026, at 8:00 p.m., internationally acclaimed singer-songwriter Martha Wash, a two-time Grammy Award nominee, five-time Billboard Music Award winner, five-time American Music Award winner, and two-time MTV Video Music Award winner, joins celebrated comedian, actress, and NAACP Image Award nominee Marsha Warfield for It’s Raining Queens™ at Feinstein’s at the Nikko in San Francisco.\nFor Wash, the engagement represents a homecoming to the city where she was born and raised. For Warfield, it marks a return to the city where she made comedy history.\nMARTHA WASH: FROM SAN FRANCISCO ROOTS TO INTERNATIONAL MUSIC ROYALTY\nLong before Martha Wash became one of the most recognizable and powerful voices in dance music history, she was a young girl growing up in San Francisco.\nBorn and raised in the City by the Bay, Wash attended Polytechnic High School, where her musical talents developed before she embarked on a career that wou...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Raining-Queens-at-Feinsteins-2.png",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644369",
+   "title": "Empowering Women of Color Open Mic – Berkeley, CA",
+   "start": "2026-11-13T20:00:00-08:00",
+   "end": "2026-11-13T22:30:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "La Peña Cultural Center",
+   "address": "3105 Shattuck Ave, Berkeley, CA",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/empowering-women-color-open-mic-berkeley-ca/",
+   "ticket_url": "https://www.eventbrite.com/e/empowering-women-of-color-open-mic-berkeley-ca-tickets-2002959305200?aff=listing",
+   "price_text": "$11.97",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerThe Empowering Women of Color Open Mic is back! Get Tickets Here\nJoin La Peña Cultural Center and UC Berkeley’s Women of Color Initiative on Friday, November 13, 2026, from 8:00–10:30 PM for an evening of live music, spoken word, and radical storytelling by and for women of color.\n\nThis community open mic celebrates creative expression, solidarity, and the voices of women of color. Allies are welcome! All ages welcome.\nLocation: La Peña Cultural Center, 3105 Shattuck Ave., Berkeley, CA.\nAdmission: Sliding scale $5–$25 | Free for La Peña members.\nGet Tickets Here",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Portrait-EWOC-Nov-2026-2.png",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646286",
+   "title": "Refracted Elements",
+   "start": "2026-11-13T20:00:00-08:00",
+   "end": "2026-11-13T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "stage",
+   "venue": "LeFevre Theatre",
+   "address": "1928 St Marys Rd, Moraga CA 94575",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/refracted-elements-2/",
+   "ticket_url": "https://www.stmarys-ca.edu/dance-fa26?_gl=1*ov6dwu*_gcl_au*MTc0Nzg2MDI0NC4xNzkzOTQyMjgw*_ga*MTU1OTk2NDMwNy4xNzIxNDI1MjQy*_ga_CH47EGNN3F*czE3OTQwMDA3MTQkbzQwNCRnMSR0MTc5NDAwMTM4NyRqNTkkbDAkaDA.",
+   "price_text": "$20.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerSaint Mary's College of California Dance Program\n\nThursday, November 12, 2026, 8:00 pm\nFriday, November 13, 2026, 8:00 pm\nSaturday, November 14, 2026, 3:00 pm\nSaturday, November 14, 2026, 8:00 pm\n\nThe Expressive & Performing Arts Division of Saint Mary’s College presents the Saint Mary’s College Dance Company’s annual fall dance concert “Refracted Elements” which features a variety of works choreographed by our seniors Deja Antes, Madison Erwin, Lola Gonzalez, Sydney Newton, Ilayda Ozbilgin, Julia Peterson, and Daniella Wilson. Seniors’ works will be performed by our students of the Saint Mary’s College Dance Company and Baile Folklórico Guadalupano. Styles included in the concert will feature Baile Folklórico (Mexican folk dance), Modern/Contemporary Dance, and Hip Hop Dance. The evening is supported by our resident Lighting Designer, Matthew Cohen and Directed by Professor CatherineMarie Davalos.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/unnamed1.png",
+   "categories": [
+    "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1637021",
    "title": "Trail & Habitat Volunteer Work: Restoring Laguna Honda’s Lost Trails | SF",
    "start": "2026-11-14T09:00:00-08:00",
@@ -56003,6 +56261,54 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2017/10/Screen-Shot-2018-09-07-at-11.33.36-PM.png",
    "categories": [
     "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644126",
+   "title": "Build with AI Day – Mission College – Hands on Workshops",
+   "start": "2026-11-14T09:00:00-08:00",
+   "end": "2026-11-14T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "West Valley-Mission College",
+   "address": "3000 Mission College Blvd, Santa Clara, CA",
+   "locality": "Santa Clara",
+   "geo": null,
+   "url": "https://sf.funcheap.com/build-ai-day-mission-college-hands-workshops/",
+   "ticket_url": "https://buildoncampus.com/mission-college",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerMission College.AI Build Day at Mission College\nSaturday, November 14, 2026 · Mission College, Santa Clara\nSpend a Saturday getting hands-on with the latest AI tools and leave with something you built yourself. Hosted by Mission College and powered by Build On Campus, AI Build Day is open to working adults, students, career changers, and anyone curious about AI. No experience or business idea needed.\n\nWhat the day looks like\n\nA plain-language intro to today’s AI tools and how to choose the right one\nA guided build session on a real project for work, school, a side gig, or home\nCoaching from leading tech companies, including two sessions with Lovable\nLunch at matched tables with feedback on what you started\nAfternoon build tracks: launch a venture, solve a real problem, or build your own AI agent\nDemo hour where builders share their work\n\nWhat you leave with\n\nA completed project you built that day\nFree accounts and starter credits on the tools you used\nSwag and special offers from participating companies\nDirect feedback from the people who build these tools\nA 30-day plan for your next steps\nA digital badge for full-day participants\n\nThe perks\n\nBreakfast and lunch included\nFree parking\nHappy hour reception with mocktails, appetizers, and a DJ\nWeb-based tools, so bring a laptop or use a campus computer\n\nAges 18+. Questions: hello@buildoncampus.com",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/On-Campus.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644606",
+   "title": "Bizarre Bazaar",
+   "start": "2026-11-14T09:00:00-08:00",
+   "end": "2026-11-14T13:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Nia House Learning Center",
+   "address": "2234 Ninth St, Berkeley, CA 94710",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/bizarre-bazaar/",
+   "ticket_url": "https://www.niahouse.org/bazaar",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerNia House Learning Center\nJoin local makers, quirky artisans, and top-tier second-hand treasures at our annual Bizarre Bazaar at Nia House Learning Center – 2234 Ninth St, Berkeley, CA 94710 between Allston and Bancroft.\n\nWe’ll have local artisans selling their crafts and treasures, food, live music, and hands-on crafting stations where children can get creative, make their own gifts, and join the fun. There will also be plenty of free fun for children of all ages with many special local treasures to buy as your holiday gifts. We welcome families, children, grownups, and anyone who wants to shop, eat, craft, or simply explore a new space and meet some wonderful community members. Join us!\n\nAnd please also sign up for a booth if you have offerings you’d like to share! You keep all of your proceeds!! https://www.niahouse.org/booth",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-4.55.13-PM.png",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -56080,6 +56386,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1640541",
+   "title": "Christmas Boutique by Daughters of Norway",
+   "start": "2026-11-14T09:30:00-08:00",
+   "end": "2026-11-14T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Immanuel Lutheran Church, 1715 Grant Road, Los Altos",
+   "address": "1715 Grant Road, Los Altos, California",
+   "locality": "Los Altos",
+   "geo": null,
+   "url": "https://sf.funcheap.com/christmas-boutique-daughters-norway/",
+   "ticket_url": "https://digdia.com/daughters_of_norway_christmas_boutique",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerGary SasakiJulebutikk Christmas Shop Boutique\nBrought the Anne Grimdalen chapter of the Daughters of Norway.\n\nSaturday, November 14, 2026, 9:30 to 2:00\nat the Immanuel Lutheran Church, 1715 Grant Road, Los Altos, CA.\nNorwegian and American Christmas Items. Lefse, Kransekake, Norwegian Soup Lunch and More! Complementary Coffee and Cookies.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Julebutikk-2026-Flyer-Single-D.jpg",
+   "categories": [
+    "Free Food"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1632081",
    "title": "Paramount Theatre Public Tour",
    "start": "2026-11-14T10:00:00-08:00",
@@ -56152,6 +56482,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1644555",
+   "title": "Sparks: Treadmill Tinkering",
+   "start": "2026-11-14T10:00:00-08:00",
+   "end": "2026-11-14T12:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Quest Plaza at Stockmen's Park",
+   "address": "29 South Livermore Ave, Livermore, CA",
+   "locality": "Livermore",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sparks-treadmill-tinkering/",
+   "ticket_url": "https://quest-science.org/sparks/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerQuest Science CenterCan your rolling invention take on a moving treadmill? Join us for Treadmill Tinkering, a free Sparks family activity from Quest Science Center!\nBuild a vehicle or invent something entirely your own using wheels, axles, and other materials, then see what happens when the treadmill starts moving.\n\nWill your creation roll smoothly, wobble, or surprise you? Experiment with different designs and adjust the balance as you explore friction, motion, and what makes a design work.\nChildren and adults are invited to tinker and solve problems together.\nDrop in anytime between 10 a.m. and noon and explore at your own pace. Most families spend 15-30 minutes on the activity.\nSparks is Quest Science Center’s free monthly hands-on activity series for families, bringing science, engineering, and creativity to downtown Livermore.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Quest-Sparks-Header-Nov-2026.png",
+   "categories": [
+    "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1644758",
+   "title": "Christmas Craft Fair",
+   "start": "2026-11-14T10:00:00-08:00",
+   "end": "2026-11-14T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Bell Manor Apartments (Community Room)",
+   "address": "8790 Bell Road, Windsor, CA 95492",
+   "locality": "Windsor",
+   "geo": null,
+   "url": "https://sf.funcheap.com/christmas-craft-fair/",
+   "ticket_url": "https://www.craigslist.org/view/d/windsor-christmas-craft-fair/7HjQ6VmoJHK1dDCtvwov9Q",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerImage created by event and used by permission.Enjoy homemade and handmade crafts, a festive atmosphere and a delightful selection of artists and creations. Treats to eat and a fun raffle too! Entrance is free.\nALL ITEMS ARE UP TO $25, to help you shop for all the people on your holiday list.\n\nWe’ll be in the Community Room at Bell Manor Apartments in Windsor.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Christmas-Craft-Faire.jpg",
+   "categories": [
+    "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644991",
    "title": "Free Outdoor Painting Meetup Overlooking the Painted Ladies (Alamo Square)",
    "start": "2026-11-14T10:00:00-08:00",
@@ -56169,6 +56547,30 @@
    "sold_out": false,
    "description": "©Out There Watercolors, 2026Free outdoor painting gathering at Alamo Square. Come paint with us! Sign up at Painters Unite to hear about future gatherings.\nPainters Unite is a free monthly gathering for anyone who wants to slow down and paint outdoors, together. No class, no pressure, nothing for sale.\nI’m Marco Flavio, a watercolor teacher here in the city. I started this because so many people told me they wanted more time to paint and to be around others, and I think that shouldn’t have to cost anything. I’ll be painting right alongside you, same as everyone.\n\nThis month we’re meeting at Alamo Square Park, by the picnic tables overlooking the Painted Ladies, at 10 AM. From there we’ll have a wonderful view of the colorful Victorian houses with the San Francisco skyline rising behind them. It’s a great opportunity to play with architecture, perspective, color, and the contrast between old and new San Francisco.\nAs always, I’ll bring a few small challenges, different ways of seeing and painting what’s in front of us. I’ll also have a limited number of pre-drawings of the Painted Ladies on watercolor paper, first come, first served, for beginners who’d like a starting point. Take a challenge, use a pre-draw, or simply find a spot and paint. No experience needed.\nBring a sketchbook and something to draw or paint with. If you have a watercolor kit, bring it. A folding or camping chair is welcome, or a mat or blanket to sit on. Anything that makes it comfortable to settle in for...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/IMG_9249.jpg",
+   "categories": [
+    "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645240",
+   "title": "Techs on Decks",
+   "start": "2026-11-14T10:00:00-08:00",
+   "end": "2026-11-14T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "USS Hornet Sea, Air & Space Museum",
+   "address": "707 W. Hornet Avenue, Alameda, Ca",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/techs-decks/",
+   "ticket_url": "https://uss-hornet.org/techsondecks/",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerUSS HornetTechs on Decks celebrates Innovation. We celebrate the anniversary of the Apollo 12 Moon mission since the USS Hornet (CV 12) was the recovery ship for that mission and innovation from then and now! Exhibitors will be on hand to share exciting new technology and career opportunities aboard one of the Navy’s most historic ships! Our main sponsors from last year have re-committed, so we are pleased to announce we will have free entry for students and educators and free pizza and cookies!\nWhat to Expect\nExplore a day of discovery across the ship:\n\nHands-on STEM activities\nLive and interactive activities with robotics\nLive demonstrations, including air pressure, navigation, and catapult systems\nDocent-led exploration of exhibits and ship technology\nSelf-guided access to multiple decks of the USS Hornet\nOpportunities to connect with students, volunteers, and educators\nEducational video stations and historical content",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Techs-on-Decks.jpg",
    "categories": [
     "Art Museums"
    ],
@@ -56368,6 +56770,28 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1643289",
+   "title": "Sarah Kersten Studio Seconds Sale",
+   "start": "2026-11-14T11:00:00-08:00",
+   "end": "2026-11-14T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Sarah Kersten Studio",
+   "address": "2725 Magnolia Street, Oakland",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/sarah-kersten-studio-seconds-sale/",
+   "ticket_url": "https://eastbayexpress.com/events-calendar/#/details/sarah-kersten-studio-seconds-sale/20219860/2026-11-14T10",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerSarah Kersten StudioSarah Kersten Studio Seconds Sale\nNovember 14–15, 2026 · 11 am–4 pm both days\n2725 Magnolia Street, Oakland\nShop locally made pottery seconds, including fermentation jars. These functional pieces have small variations in glaze, shape or surface. Find something for your kitchen or a holiday gift, made right here in Oakland. Free admission; no appointment needed.\n\nAstranda Bakery will also join us for a cinnamon-roll pop-up.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/may2026-sale-hero.jpg",
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644082",
    "title": "SF’s Winter “Renegade Craft Fair” at Fort Mason (Nov. 14-15)",
    "start": "2026-11-14T11:00:00-08:00",
@@ -56464,6 +56888,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646992",
+   "title": "Building 12 Open House at Pier 70",
+   "start": "2026-11-14T11:00:00-08:00",
+   "end": "2026-11-14T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Building 12 at Pier 70",
+   "address": "1070 Maryland Street, San Francisco, CA 94107",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/building-12-open-house-pier-70/",
+   "ticket_url": "https://pier70timemachine.com/building-12-open-house-at-pier-70/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "William PerezJoin us from 11:00 AM to 4:00 PM for the Building 12 Open House at Pier 70. No RSVP is necessary—simply drop in anytime during the afternoon.\nOriginally constructed in 1941 as the structural fabrication shop at the heart of Bethlehem Steel’s WWII-era “Destroyer Alley,” Building 12 has been transformed into a vibrant public destination celebrating local makers, food, art, and neighborhood history. Admission is free and open to all ages.\nHead up to the second floor and visit The Pier 70 Time Machine, where our team will be on hand throughout the afternoon to share a remarkable collection of waterfront history and artifacts, including:\n\n– Authentic Industrial Artifacts: Historic shipbuilding tools, vintage time clocks, original blueprints, and salvaged steel from mid-century Pacific liners.\n– Interactive WWII Damage Control Display: Hands-on equipment demonstrating the shoring and patching techniques used to keep damaged Navy destroyers afloat.\n– Waterfront & Neighborhood Archives: Historic photographs and stories tracing the legacy of Union Iron Works, Bethlehem Steel, Irish Hill, Butchertown, and the Potrero Point shoreline.\n– What’s Ahead: A preview of our upcoming winter exhibits, special projects, and cultural programming.\nFood, Music, Art & Open Studios Throughout Building 12\nMake an afternoon of it! Our neighbors throughout the main atrium and market hall will be offering plenty of reasons to explore:\n– Standard Deviant Brewing: Craft beer pours.\n– Breadbelly...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Building-12-Open-House-11.14.2026-facebook-post.jpg",
+   "categories": [
+    "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1636856",
    "title": "Free Beginner Parkour “Urban Ninja” Class",
    "start": "2026-11-14T12:00:00-08:00",
@@ -56555,6 +57003,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/get-tickets-ig-26-copy.png",
    "categories": [
     "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646934",
+   "title": "Discover Amaro Angeleno: Store Tasting",
+   "start": "2026-11-14T12:00:00-08:00",
+   "end": "2026-11-14T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "2240 Market Street",
+   "address": "2240 Market Street, San Francisco, 94114 ,US",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/discover-amaro-angeleno-store-tasting-3/",
+   "ticket_url": "https://www.facebook.com/events/4184711001821380",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerJoin us for an in-store tasting of Amaro Angeleno and discover its unique flavor, character, and story.\n\nDiscover Amaro Angeleno: Store Tasting\nDate & Time: November 14, 2026 at 12:00 PM (Pacific Time)Venue: The Epicurean Trader – Castro, 2240 Market Street\n\nJoin us for an exciting in-person tasting event at The Epicurean Trader Immerse yourself in the unique flavors of Amaro Angeleno and experience a delightful afternoon of discovery and enjoyment.This special event captures the perfect Halloween vibe , making it a fantastic way to celebrate the season with friends and fellow enthusiasts.\n\nDon’t miss this chance to explore a distinctive taste sensation featuring the Spritz , Amaro , Limoncello Spritz , and potentially their Limoncello liquor , the base for the limoncello spritz, all in a vibrant setting!",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Amaro-Angeleno-3.webp",
+   "categories": [
+    "Eating Drinking"
    ],
    "notes": []
   },
@@ -56704,6 +57176,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1646091",
+   "title": "San Jose Water Lantern Festival",
+   "start": "2026-11-14T14:30:00-08:00",
+   "end": "2026-11-14T18:30:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Almaden Lake Park",
+   "address": "6099 Winfield Blvd, San Jose, CA",
+   "locality": "San Jose",
+   "geo": null,
+   "url": "https://sf.funcheap.com/san-jose-water-lantern-festival/",
+   "ticket_url": "https://tickets.waterlanternfestival.com/sanjose",
+   "price_text": "$34.99",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerThe San Jose Water Lantern Festival returns to Almaden Lake Park November 14-15, 2026. Guests decorate a floating lantern with a message, drawing or wish, then release it onto the lake at sunset alongside thousands of others. The afternoon brings live music, food trucks and a scavenger hunt. Children under 8 attend free, and tickets are available online.\nDates: Saturday, Nov 14 and Sunday, Nov 15, 2026. Gates open at 2:30 PM both days.\nSaturday tickets: https://tickets.waterlanternfestival.com/sanjose\nSunday tickets: https://tickets.waterlanternfestival.com/sanjosesun",
+   "image_url": null,
+   "categories": [
+    "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644658",
    "title": "SF’s Civic Music Free Concerts (2026)",
    "start": "2026-11-14T15:00:00-08:00",
@@ -56800,6 +57296,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1645247",
+   "title": "Piano City at the EcoCenter",
+   "start": "2026-11-14T16:00:00-08:00",
+   "end": "2026-11-14T17:30:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Environmental Volunteers EcoCenter",
+   "address": "2560 Embarcadero Rd., Palo Alto, CA",
+   "locality": "Palo Alto",
+   "geo": null,
+   "url": "https://sf.funcheap.com/piano-city-ecocenter/",
+   "ticket_url": "https://www.eventbrite.com/e/piano-city-at-the-ecocenter-tickets-2003429382213?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerEV\n\nJoin us in a beautifully restored historic building along the Palo Alto Baylands Nature Preserve for a musical afternoon like no other.\n\nPiano City is coming back to Silicon Valley!\nFor one weekend only, pianos will pop up across the Bay Area—in homes, on campuses, in parks, and right here at the EcoCenter!\n\nJoin local pianist Susan Lin for an unforgettable afternoon where music meets nature. Experience a live performance surrounded by the beauty of the Baylands, then step outside for an EV guided sunset walk through the preserve.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Piano-City-2025_11_09_2338.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1643302",
    "title": "Fort Point Beer Co Presents: Manzanita Night",
    "start": "2026-11-14T17:00:00-08:00",
@@ -56819,6 +57339,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-3.03.04-PM.png",
    "categories": [
     "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645076",
+   "title": "Free Metal Shop Open Hours at Ace Makerspace",
+   "start": "2026-11-14T17:00:00-08:00",
+   "end": "2026-11-14T18:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Ace Makerspace",
+   "address": "6050 Lowell St., Ste. 214, Oakland, CA 94608",
+   "locality": "Oakland",
+   "geo": null,
+   "url": "https://sf.funcheap.com/free-metal-shop-open-hours-ace-makerspace/",
+   "ticket_url": "https://www.acemakerspace.org/event/metal-shop-open-hours-11-14-26/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerAceWant to get your hands on real metalworking tools and see what you can make?\nMetal Shop Open Hours at Ace Makerspace are a chance to get into the shop, build your skills, ask questions, and get more comfortable working with metal. No stuffy classroom vibe – just hands-on time, practical guidance, and a community of people who like making things.\n\nCome learn, experiment, and spend some time in the Metal Shop at Ace.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Metal-Shop-Open-Hours.png",
+   "categories": [
+    "Lectures Workshops"
    ],
    "notes": []
   },
@@ -56920,6 +57464,28 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1641019",
+   "title": "Decentred Arts 2026 Fashion Incubator Showcase",
+   "start": "2026-11-14T18:30:00-08:00",
+   "end": "2026-11-14T21:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Saint Joseph’s Arts Society",
+   "address": "1401 Howard St, San Francisco, CA 94103",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/decentred-arts-2026-fashion-incubator-showcase-sf/",
+   "ticket_url": "https://partiful.com/e/G4RK1Il2PdqbWGcq1XKs?source=discover",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Decentred Arts 2026 Fashion Incubator Showcase (SF)Decentred Arts presents the capstone fashion show for its fashion incubator at Saint Joseph’s Arts Society in San Francisco.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/imgi_2_dh40eLe09ryQh9ph25srU.png",
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645617",
    "title": "Native American Heritage Month: Free Author Talk on Indigenous Foodways",
    "start": "2026-11-14T18:30:00-08:00",
@@ -56939,6 +57505,54 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Untitled-12.jpg",
    "categories": [
     "Literature"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1634151",
+   "title": "Rexx Life Raj: Father Figure 10 Year Anniversary",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": "2026-11-14T23:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "The UC Theatre",
+   "address": "2036 University Ave, Berkeley, CA 94704",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/rexx-life-raj-father-figure-10-year-anniversary/",
+   "ticket_url": "https://eventvesta.com/events/160492/t/tickets",
+   "price_text": "$25.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerThe UC TheatreRexx Life Raj has spent ten years proving an artist can build it all on his own terms: the catalog, the audience, the story. From Berkeley, without a major label, he has built a catalog with more than 500 million streams, headlined tours nationwide, and developed one of the most engaged direct-to-fan communities in independent music. That independence forced him to become more than a recording artist. Raj learned advertising, production, video, audience strategy, and creative technology firsthand, and now applies them across everything he touches, from fan experiences to app building to brand collaborations he treats as creative partnerships rather than endorsements. His collaborators include Kehlani, E-40, Russ, Kenny Beats, and Larry June. His model is his own. For artists trying to build sustainable careers without giving themselves away, Raj is what the finished blueprint looks like.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/08/image-56.png",
+   "categories": [
+    "Community"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1638120",
+   "title": "$25 Wine Tasting Fundraiser w/ Prizes for SF Nighthawks",
+   "start": "2026-11-14T19:00:00-08:00",
+   "end": "2026-11-14T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "San Francisco Elks Lodge #3",
+   "address": "450 Post St., San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/25-wine-tasting-fundraiser-prizes-sf-nighthawks-sf/",
+   "ticket_url": "https://www.instagram.com/wearethenighthawks?stkn=MXhrZXB4OHNucHJrZg==",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerJill LounsburrySF Nighthawks Wine Tasting Fundraiser\nJoin us for our 3rd annual wine-tasting experience to support the San Francisco Nighthawks Women’s soccer team. Enjoy an evening of great wine, good company, and plenty of soccer spirit. Doors open at 7PM at the SF Elks Lodege #3 in downtown SF near Union Square.\nWhether you’re a wine enthusiast, a soccer fan, or simply looking for a fun night out, this is an experience you won’t want to miss. Cheers to great wine, great people, and supporting our team!\n\nThere’s wine themed raffle prizes and gift cards too. Can’t wait to see you there.\nFor event tickets $25 donation entrance paid via Venmo or at the door.\nsearch for @SF-Nighthawks or click here on your phone to automatically redirect to our venmo account.\n\nCan’t attend but want to support the team\nDonate to the club via Venmo/Zell search SF-Nighthawks or click here on your phone to pay via Venmo\nAdopt a part of our club: see where you’re money can help\nhttps://www.sfnighthawks.com/adopt\nInterested in a Sponsorship Opportunity\nemail jillprod@yahoo.com\nFor more about our team please visit\nhttps://www.sfnighthawks.com/",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/SF-Hawks-Wine-Night-26.png",
+   "categories": [
+    "Eating Drinking"
    ],
    "notes": []
   },
@@ -57160,6 +57774,78 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1643013",
+   "title": "Iliza Shlesinger",
+   "start": "2026-11-14T20:00:00-08:00",
+   "end": "2026-11-15T09:30:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Graton Resort & Casino",
+   "address": "288 Golf Course Dr W, Rohnert Park, CA",
+   "locality": "Rohnert Park",
+   "geo": null,
+   "url": "https://sf.funcheap.com/iliza-shlesinger/",
+   "ticket_url": "https://graton.com/events-shows/iliza-shlesinger",
+   "price_text": "$49.50",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerGraton Iliza ShlesingerStarting at $49.50 plus applicable fees\nIliza Shlesinger Live in The Event at Graton Resort & Casino.\n\nDoors Open at 7:00PM. Reserved Seating Only.\nExclusive Bars Available Inside Concert Venue.\nTickets On Sale Now!\nMust be 21+ to attend",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/HJ-221153_IShlesinger_26-1114_TXMSTR.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645421",
+   "title": "David Sedaris with Susan Orlean – The Land and Its People (War Memorial Opera House, SF)",
+   "start": "2026-11-14T20:00:00-08:00",
+   "end": "2026-11-14T23:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "War Memorial Opera House",
+   "address": "301 Van Ness Ave, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/david-sedaris-susan-orlean-land-people-war-memorial-opera-house-sf/",
+   "ticket_url": "https://bookpassage.com/event/david-sedaris-land-and-its-people-war-memorial-opera-house-sf",
+   "price_text": "$93.94",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerAn unforgettable and lively author event awaits with beloved humorist David Sedaris and his new book, The Land and Its People: Essays.\nIn this new collection, David Sedaris reflects on what it means to be a foreigner, a brother, a lifelong friend, in essays that are “among the best of his career” (Publishers Weekly, starred review).\nDavid will be joined in conversation by Susan Orlean, the author of The Library Book, and the soon-to-be-published Joyride: A Memoir.\n****\nABOUT THIS EVENT\n\nThis event is presented in partnership with ATG San Francisco\nEmail ticketsSF@atgentertainment.com or call 888.746.1799 with any questions regarding ticket purchases\nThis event will be hosted by ATG San Francisco and Book Passage at Golden Gate Theatre, SF.\nLobby doors open at 7:00 pm / Assigned Seating\nCopies of The Land and Its People will be available for purchase at the event.\nIf you are unable to attend the event, you can still get your copy by CLICKING HERE.\nPlease contact books@bookpassage.com with questions regarding events.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Sedaris-400-x-580-px.png",
+   "categories": [
+    "Literature"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1645428",
+   "title": "Afterbirth Cartoons with Julian Brooks and The Church of Jade + Overthinking at Winters Tavern",
+   "start": "2026-11-14T20:00:00-08:00",
+   "end": "2026-11-14T23:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Winters Tavern",
+   "address": "1522 Francisco Blvd., Pacifica, CA",
+   "locality": "Pacifica",
+   "geo": null,
+   "url": "https://sf.funcheap.com/afterbirth-cartoons-julian-brooks-church-jade-overthinking-winters-tavern/",
+   "ticket_url": "https://julianbrooksandthechurchofjade.com",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerJulian Brooks and The Church of JadeAfterbirth Cartoons’ Very Special Episode Tour stops at Winters Tavern, Pacifica — Sat Nov 14, 8pm, FREE — with Oakland’s Julian Brooks and The Church of Jade and Overthinking. Presented by Space Tapes Records.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/34627_1_4bfg.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1646241",
    "title": "Sara Landry at Pier 48",
    "start": "2026-11-14T20:00:00-08:00",
@@ -57179,6 +57865,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/1114-SanFrancisco-SaraLandry-1080x1350-v1.jpg",
    "categories": [
     "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1646966",
+   "title": "The Amanuensis",
+   "start": "2026-11-14T20:00:00-08:00",
+   "end": "2026-11-14T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Black Repertory Group Theater",
+   "address": "3201 Adeline St., Berkeley, CA",
+   "locality": "Berkeley",
+   "geo": null,
+   "url": "https://sf.funcheap.com/amanuensis/",
+   "ticket_url": "https://blackrepertorygroup.com",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerSean V. ScottA hilarious Avante Garde stage play. It is a two act play by Ishmael Reed.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/IMG_3352.jpg",
+   "categories": [
+    "Comedy Event Types Event"
    ],
    "notes": []
   },
@@ -61764,6 +62474,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1647136",
+   "title": "Free Civic Center Tree Lighting: 50-Foot Fir + Santa",
+   "start": "2026-12-02T16:00:00-08:00",
+   "end": "2026-12-02T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "food-drink",
+   "venue": "Civic Center Plaza",
+   "address": "335 McAllister St., San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/free-civic-center-tree-lighting-50foot-fir-santa-sf/",
+   "ticket_url": "https://www.eventbrite.com/e/civic-center-plaza-holiday-tree-lighting-2026-tickets-2003836847954?aff=oddtdtcreator",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Civic Center Community Benefit DistrictGet ready to kick off the holiday season at San Francisco’s Civic Center Plaza Holiday Tree Lighting 2026!\nFor over 100 years an illuminated tree has stood in San Francisco’s Civic Center Plaza during the holidays. This year be a part of the tradition at the annual San Francisco Civic Center Plaza Tree Lighting on Wednesday, December 2, 4-7pm!\nThe event also features “snow” flurries, where kids (and kids at heart) can twirl and dance through the falling snow, while in the Makers Village enjoy holiday-themed activities with SF Etsy and a children’s book giveaway from the SF Public Library.\nCivic Center Tree Lighting\nWednesday, December 2, 2026 | 4-7p\nCivic Center Plaza, 335 McAllister St, SF\nFREE – All ages | Bites will be available for purchase, along with a full bar featuring seasonal favorites.\nHappening rain or shine; The Tree Lighting takes place across from an illuminated City Hall in Civic Center Plaza and begins promptly at 4pm, with the lighting of Civic Center’s 50-foot noble fir at 5:30pm.\nThe night’s lineup of entertainment includes:\n\nThe Tap Dancing Christmas Trees\nThe San Francisco Boys Chorus\nThe Grinch, Mrs. Claus and\nThe VIP-of-the-hour: Santa!\nWith the night of performances led by the Master of Ceremonies: award-winning performer Rotimi Agbabiaka.\n\nCivic Center CBD\n\nCivic Center CBD\n\nCivic Center CBD",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Civic-Center-CBD-illuminatedtree.jpg",
+   "categories": [
+    "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641665",
    "title": "$1 Wing Wednesdays at Underdogs Cantina (SoMa)",
    "start": "2026-12-02T16:30:00-08:00",
@@ -63775,6 +64509,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/20160821-LITP20TH-321.jpg",
    "categories": [
     "Theater Performance"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647124",
+   "title": "Shipyard Holiday Art Show: 60+ Open Artist Studios + Glühwein (Hunters Point)",
+   "start": "2026-12-06T11:00:00-08:00",
+   "end": "2026-12-06T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Hunters Point Shipyard",
+   "address": "Horn Ave, Building 101, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/shipyard-holiday-art-show-60-open-artist-studios-glhwein-hunters-point/",
+   "ticket_url": "https://www.instagram.com/p/DfljT3CgZ8i/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Jean Craig-Teerlink / Shipyard Trust for the ArtsCelebrate the season with Shipyard Artists: an afternoon of art, handmade gifts and hot Glühwein at Hunters Point Shipyard.\nMore than 60 artists open their studios in Building 101, and the Shipyard Gallery hosts artists from across the Shipyard and Islais Creek Studios. Wander the halls, meet the artists where they work, and find gifts you won’t see anywhere else.\nIn the gallery: hot German Glühwein, spiced cider and German holiday cookies. Children and dogs are welcome. Stop by and say hello to the show’s volunteer organizers, artists Carolyn Crampton, Maeve Croghan and Kim Smith.\nShipyard Holiday Art Show\nSunday, December 6, 2026 | 11a-5p\nShipyard Gallery, Bldg, 101, Hunters Point Shipyard, 451 Galvez Ave, SF\nFREE – RSVP for easy parking\nGetting there: GPS 451 Galvez Ave, then continue to the guard booth. Park along Galvez Ave and walk the short path to Building 101, or drive past the guard booth to the Building 101 lots (space limited). Muni 19, 15 and 54.\nThe Shipyard Gallery and all first-floor studios are fully accessible, with reserved parking and a large wheelchair ramp.\nShow details and participating artists at Shipyard Trust for the Arts.\n\nView this post on Instagram\n\nA post shared by Hunters Point Shipyard Artists (@hunterspointshipyardartists)",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/holiday-funcheap-1200.jpg",
+   "categories": [
+    "Art Museums"
    ],
    "notes": []
   },
@@ -69274,6 +70032,54 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1647194",
+   "title": "Thursday Night Poem Jam | SF Main Library",
+   "start": "2027-01-14T18:00:00-08:00",
+   "end": "2027-01-14T19:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "San Francisco Main Public Library",
+   "address": "100 Larkin St, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/thursday-night-poem-jam-sf-main-library-100/",
+   "ticket_url": "https://sfpl.org/index.php?pg=1100000001&amp;t=1",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerThursday Night Poem Jam | SF Main LibraryJoin San Francisco Main Public Library with talented poets for a poetry jam. The Main Library’s monthly Poem Jam poetry reading series, moderated by Kim Shuck, takes place on Thursdays at 6 pm in the Main Library.\nThursday Night Poem Jam\nEvery 2nd Thursday | 6 pm\nSan Francisco Main Public Library, 100 Larkin St, San Francisco\nFREE\n\n– Updated 6/26/19 – Event info last checked via website\n\nUpcoming Thursday Night Poem Jam | SF Main Library Events\nThu 12/10 Thursday Night Poem Jam | SF Main LibraryThu 1/14 Thursday Night Poem Jam | SF Main LibraryThu 2/11 Thursday Night Poem Jam | SF Main LibraryDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": null,
+   "categories": [
+    "Literature"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647198",
+   "title": "Shame Cave Comedy Show: A Shameful Yet Shameless Night | SF",
+   "start": "2027-01-14T20:00:00-08:00",
+   "end": "2027-01-14T21:30:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Mission Hill Saloon",
+   "address": "491 Potrero Ave, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/shame-cave-comedy-show-a-shameful-yet-shameless-night-sf-101/",
+   "ticket_url": "https://www.eventbrite.com/e/shame-cave-comedy-show-tickets-48681319136",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerShame Cave Comedy Show: A Shameful Yet Shameless Night | SF\nShame Cave Comedy Show\nA delightful evening of comedy, happening every 2nd Thursday. Shameful things will be discussed by the shameless and shameful. Maybe reach catharsis, and if not, there’s drinks.\nHosted by the ever-shame-wracked Annette Mullaney and featuring the best of Bay Area and visiting comedians.\n\nShame Cave Comedy Show: A Shameful Yet Shameless Night\nEvery 2nd Thursday | 8 pm\nMission Hill Saloon, 491 Potrero Avenue, San Francisco\nFREE\n\n– Updated 6/26/19 – Event info last checked via website\n\nUpcoming Shame Cave Comedy Show: A Shameful Yet Shameless Night | SF Events\nThu 12/10 Shame Cave Comedy Show: A Shameful Yet Shameless Night | SFThu 1/14 Shame Cave Comedy Show: A Shameful Yet Shameless Night | SFThu 2/11 Shame Cave Comedy Show: A Shameful Yet Shameless Night | SFDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2018/08/Annette-Mullaney.png",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1590595",
    "title": "Final Day to Ice Skate at Union Square’s Holiday Ice Rink (2026/27 Winter Season)",
    "start": "2027-01-18T10:00:00-08:00",
@@ -69843,6 +70649,54 @@
    "sold_out": false,
    "description": "Submitted by the Event OrganizerThe Laugh Boat: Local Brews & Free Comedy | SF\nPhil Griffiths\nEvery 2nd Wednesday in San Francisco, comedians Jill Maragos, Phil Griffiths and Andrew Orolfo host the best local and nationally touring stand-up comedians in the welcoming and homey space of Ocean Ale House.\nEnjoy great comedy and some local brew.\n\nThe Laugh Boat: Local Brews & Free Comedy\nEvery 2nd Wednesday | 7 to 8:30 pm\nOcean Ale House, 1314 Ocean Avenue, San Francisco,\nFREE\n– Updated 6/7/19 – Event info last checked via website\n\nUpcoming The Laugh Boat: Local Brews & Free Comedy | SF Events\nWed 12/9 The Laugh Boat: Local Brews & Free Comedy | SFWed 1/13 The Laugh Boat: Local Brews & Free Comedy | SFWed 2/10 The Laugh Boat: Local Brews & Free Comedy | SFDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2017/05/18516090_10154745924017476_1843799255_n.jpg",
+   "categories": [
+    "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647196",
+   "title": "Thursday Night Poem Jam | SF Main Library",
+   "start": "2027-02-11T18:00:00-08:00",
+   "end": "2027-02-11T19:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "San Francisco Main Public Library",
+   "address": "100 Larkin St, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/thursday-night-poem-jam-sf-main-library-101/",
+   "ticket_url": "https://sfpl.org/index.php?pg=1100000001&amp;t=1",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerThursday Night Poem Jam | SF Main LibraryJoin San Francisco Main Public Library with talented poets for a poetry jam. The Main Library’s monthly Poem Jam poetry reading series, moderated by Kim Shuck, takes place on Thursdays at 6 pm in the Main Library.\nThursday Night Poem Jam\nEvery 2nd Thursday | 6 pm\nSan Francisco Main Public Library, 100 Larkin St, San Francisco\nFREE\n\n– Updated 6/26/19 – Event info last checked via website\n\nUpcoming Thursday Night Poem Jam | SF Main Library Events\nThu 12/10 Thursday Night Poem Jam | SF Main LibraryThu 1/14 Thursday Night Poem Jam | SF Main LibraryThu 2/11 Thursday Night Poem Jam | SF Main LibraryDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": null,
+   "categories": [
+    "Literature"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647200",
+   "title": "Shame Cave Comedy Show: A Shameful Yet Shameless Night | SF",
+   "start": "2027-02-11T20:00:00-08:00",
+   "end": "2027-02-11T21:30:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Mission Hill Saloon",
+   "address": "491 Potrero Ave, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/shame-cave-comedy-show-a-shameful-yet-shameless-night-sf-102/",
+   "ticket_url": "https://www.eventbrite.com/e/shame-cave-comedy-show-tickets-48681319136",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerShame Cave Comedy Show: A Shameful Yet Shameless Night | SF\nShame Cave Comedy Show\nA delightful evening of comedy, happening every 2nd Thursday. Shameful things will be discussed by the shameless and shameful. Maybe reach catharsis, and if not, there’s drinks.\nHosted by the ever-shame-wracked Annette Mullaney and featuring the best of Bay Area and visiting comedians.\n\nShame Cave Comedy Show: A Shameful Yet Shameless Night\nEvery 2nd Thursday | 8 pm\nMission Hill Saloon, 491 Potrero Avenue, San Francisco\nFREE\n\n– Updated 6/26/19 – Event info last checked via website\n\nUpcoming Shame Cave Comedy Show: A Shameful Yet Shameless Night | SF Events\nThu 12/10 Shame Cave Comedy Show: A Shameful Yet Shameless Night | SFThu 1/14 Shame Cave Comedy Show: A Shameful Yet Shameless Night | SFThu 2/11 Shame Cave Comedy Show: A Shameful Yet Shameless Night | SFDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2018/08/Annette-Mullaney.png",
    "categories": [
     "Comedy Event Types Event"
    ],
@@ -73136,6 +73990,32 @@
   },
   {
    "source": "sfciviccenter",
+   "source_id": "6222462c6f7bc366",
+   "title": "San Francisco Opera End of Year Public Market",
+   "start": "2026-11-29T11:30:00-08:00",
+   "end": "2026-11-29T16:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": null,
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://sfciviccenter.org/event/san-francisco-opera-end-of-year-public-market/",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Happening Sunday, November 29, the San Francisco Opera End of Year Public Market in partnership with the Artyhood Foundation is taking place in Memorial Court, adjacent to the War Memorial.\nThey’re bringing together local artisans, talented artists, and delicious food vendors for a free, vibrant community event celebrating San Francisco Opera’s season.\nStop by to grab a bite to eat and discover unique handmade wares from local creators.\n📍 Memorial Court, San Francisco\n🗓️ Sunday, November 29 | 11:30 AM – 4:00 PM\n🎟️ Free and open to all!",
+   "image_url": null,
+   "categories": [
+    "Community",
+    "Holiday",
+    "Shopping"
+   ],
+   "notes": []
+  },
+  {
+   "source": "sfciviccenter",
    "source_id": "cd3686c0429deca6",
    "title": "City Hall Holiday Pop-up Shop",
    "start": "2026-12-01T11:00:00-08:00",
@@ -73607,6 +74487,7 @@
     "1633130": "2026-10-18T17:57:01",
     "1633865": "2026-10-18T18:00:30",
     "1634103": "2026-11-03T17:33:53",
+    "1634151": "2026-11-13T19:09:47",
     "1634289": "2026-10-07T00:21:19",
     "1634320": "2026-10-21T11:48:24",
     "1634343": "2026-10-25T16:22:10",
@@ -73644,6 +74525,7 @@
     "1637756": "2026-10-25T16:22:13",
     "1637875": "2026-10-18T18:08:51",
     "1637878": "2026-10-21T23:16:54",
+    "1638120": "2026-11-13T19:10:19",
     "1638297": "2026-10-18T18:23:25",
     "1638299": "2026-10-17T18:25:38",
     "1638406": "2026-10-17T18:30:37",
@@ -73715,16 +74597,9 @@
     "1639806": "2026-09-30T17:35:46",
     "1639809": "2026-10-14T16:30:36",
     "1639815": "2026-09-30T17:49:23",
-    "1639818": "2026-09-29T21:13:55",
-    "1639820": "2026-09-29T21:13:57",
-    "1639822": "2026-09-29T21:14:00",
-    "1639824": "2026-09-29T21:14:03",
-    "1639826": "2026-09-29T21:14:06",
     "1639831": "2026-09-30T17:46:26",
     "1639835": "2026-09-30T17:32:40",
     "1639838": "2026-10-01T00:34:29",
-    "1639842": "2026-09-30T00:58:16",
-    "1639844": "2026-11-05T07:55:04",
     "1639854": "2026-09-30T17:35:27",
     "1639857": "2026-09-30T17:32:21",
     "1639860": "2026-09-30T17:47:40",
@@ -73856,6 +74731,7 @@
     "1640531": "2026-10-02T20:13:30",
     "1640536": "2026-10-04T18:28:16",
     "1640538": "2026-10-06T18:41:22",
+    "1640541": "2026-11-13T19:08:59",
     "1640545": "2026-10-07T00:30:17",
     "1640548": "2026-10-06T18:52:40",
     "1640551": "2026-10-21T23:16:41",
@@ -73975,6 +74851,7 @@
     "1641012": "2026-10-05T23:04:11",
     "1641013": "2026-10-05T23:04:12",
     "1641015": "2026-10-05T23:09:05",
+    "1641019": "2026-11-13T19:09:35",
     "1641022": "2026-10-05T23:14:22",
     "1641024": "2026-10-05T23:14:23",
     "1641026": "2026-10-06T17:07:56",
@@ -74353,6 +75230,7 @@
     "1643001": "2026-10-30T21:28:07",
     "1643004": "2026-10-25T20:05:07",
     "1643007": "2026-10-20T16:56:55",
+    "1643013": "2026-11-13T19:10:21",
     "1643016": "2026-10-18T09:14:18",
     "1643018": "2026-10-18T09:14:20",
     "1643020": "2026-10-18T09:14:23",
@@ -74377,6 +75255,7 @@
     "1643278": "2026-10-25T20:17:12",
     "1643280": "2026-10-22T22:57:42",
     "1643286": "2026-10-22T22:57:32",
+    "1643289": "2026-11-13T19:09:29",
     "1643292": "2026-10-21T11:43:03",
     "1643297": "2026-10-20T16:48:05",
     "1643302": "2026-10-20T16:47:38",
@@ -74427,12 +75306,14 @@
     "1643582": "2026-10-22T22:48:39",
     "1643591": "2026-10-21T23:18:48",
     "1643610": "2026-10-25T16:38:10",
+    "1643612": "2026-11-13T19:08:05",
     "1643623": "2026-10-25T16:24:10",
     "1643629": "2026-11-11T01:49:01",
     "1643632": "2026-10-25T16:24:12",
     "1643638": "2026-10-31T19:14:53",
     "1643641": "2026-11-03T17:29:39",
-    "1643656": "2026-11-09T20:16:08",
+    "1643656": "2026-11-13T18:11:00",
+    "1643670": "2026-11-13T19:08:33",
     "1643673": "2026-10-22T22:48:27",
     "1643676": "2026-10-21T15:20:01",
     "1643679": "2026-10-21T23:15:31",
@@ -74503,6 +75384,7 @@
     "1644089": "2026-11-03T17:02:06",
     "1644112": "2026-10-31T19:15:27",
     "1644118": "2026-11-11T01:51:10",
+    "1644126": "2026-11-13T19:08:57",
     "1644142": "2026-10-25T16:23:46",
     "1644146": "2026-11-06T01:40:13",
     "1644152": "2026-10-25T20:07:07",
@@ -74522,6 +75404,7 @@
     "1644325": "2026-10-25T20:07:38",
     "1644354": "2026-11-03T17:06:43",
     "1644359": "2026-11-03T17:29:12",
+    "1644369": "2026-11-13T19:08:56",
     "1644385": "2026-10-31T19:18:24",
     "1644392": "2026-10-31T19:18:44",
     "1644401": "2026-10-26T07:13:40",
@@ -74536,6 +75419,8 @@
     "1644438": "2026-10-27T16:32:31",
     "1644444": "2026-10-31T19:17:28",
     "1644447": "2026-10-31T19:15:22",
+    "1644450": "2026-11-13T19:08:12",
+    "1644455": "2026-11-13T19:07:58",
     "1644477": "2026-11-03T17:02:47",
     "1644496": "2026-10-27T11:46:35",
     "1644497": "2026-10-27T11:14:23",
@@ -74554,8 +75439,10 @@
     "1644546": "2026-10-27T18:13:35",
     "1644548": "2026-10-27T18:13:37",
     "1644550": "2026-10-27T18:13:39",
+    "1644555": "2026-11-13T19:09:07",
     "1644567": "2026-10-27T20:34:19",
     "1644584": "2026-11-03T17:33:34",
+    "1644606": "2026-11-13T19:08:57",
     "1644618": "2026-11-11T01:48:44",
     "1644629": "2026-11-11T01:40:48",
     "1644652": "2026-10-28T09:19:54",
@@ -74577,6 +75464,7 @@
     "1644711": "2026-11-03T17:31:46",
     "1644720": "2026-11-11T01:49:20",
     "1644750": "2026-10-28T23:56:12",
+    "1644758": "2026-11-13T19:09:07",
     "1644767": "2026-10-28T22:49:53",
     "1644772": "2026-10-30T03:49:53",
     "1644784": "2026-10-28T22:48:08",
@@ -74631,6 +75519,7 @@
     "1645061": "2026-10-30T10:49:09",
     "1645062": "2026-10-30T10:49:39",
     "1645066": "2026-10-31T19:14:28",
+    "1645076": "2026-11-13T19:09:32",
     "1645082": "2026-10-30T16:13:37",
     "1645084": "2026-10-30T16:13:39",
     "1645086": "2026-10-30T16:13:40",
@@ -74662,6 +75551,8 @@
     "1645229": "2026-10-30T22:56:35",
     "1645233": "2026-10-30T23:08:14",
     "1645237": "2026-11-11T01:28:48",
+    "1645240": "2026-11-13T19:09:29",
+    "1645247": "2026-11-13T19:09:30",
     "1645254": "2026-11-03T17:31:19",
     "1645260": "2026-10-31T19:15:24",
     "1645263": "2026-10-31T04:13:42",
@@ -74678,6 +75569,7 @@
     "1645291": "2026-11-04T10:15:24",
     "1645292": "2026-10-31T19:14:32",
     "1645314": "2026-11-03T17:35:22",
+    "1645317": "2026-11-13T19:08:41",
     "1645324": "2026-10-31T19:13:48",
     "1645326": "2026-10-31T19:13:50",
     "1645328": "2026-10-31T19:13:53",
@@ -74695,6 +75587,8 @@
     "1645394": "2026-10-31T21:13:54",
     "1645396": "2026-10-31T21:13:56",
     "1645398": "2026-10-31T21:13:58",
+    "1645421": "2026-11-13T19:10:27",
+    "1645428": "2026-11-13T19:10:25",
     "1645437": "2026-11-01T07:13:53",
     "1645439": "2026-11-01T07:13:55",
     "1645441": "2026-11-01T07:13:57",
@@ -74718,6 +75612,7 @@
     "1645481": "2026-11-01T17:14:18",
     "1645495": "2026-11-01T22:27:49",
     "1645502": "2026-11-01T22:45:43",
+    "1645512": "2026-11-13T19:08:09",
     "1645518": "2026-11-11T01:51:08",
     "1645521": "2026-11-03T17:06:39",
     "1645530": "2026-11-02T10:14:08",
@@ -74735,6 +75630,7 @@
     "1645579": "2026-11-03T17:03:30",
     "1645582": "2026-11-11T01:28:24",
     "1645591": "2026-11-05T00:51:54",
+    "1645594": "2026-11-13T19:08:38",
     "1645600": "2026-11-05T00:46:14",
     "1645606": "2026-11-03T17:02:34",
     "1645611": "2026-11-11T01:28:15",
@@ -74825,6 +75721,8 @@
     "1646084": "2026-11-05T17:14:15",
     "1646086": "2026-11-05T17:14:17",
     "1646088": "2026-11-06T01:42:34",
+    "1646091": "2026-11-13T19:09:29",
+    "1646093": "2026-11-13T19:08:36",
     "1646118": "2026-11-06T01:50:53",
     "1646127": "2026-11-10T12:10:12",
     "1646130": "2026-11-06T01:42:25",
@@ -74848,6 +75746,7 @@
     "1646250": "2026-11-11T01:09:54",
     "1646253": "2026-11-11T00:30:30",
     "1646274": "2026-11-11T01:51:18",
+    "1646286": "2026-11-13T19:08:57",
     "1646289": "2026-11-06T22:14:03",
     "1646291": "2026-11-06T22:14:06",
     "1646304": "2026-11-06T23:18:56",
@@ -74881,6 +75780,7 @@
     "1646487": "2026-11-11T00:40:37",
     "1646490": "2026-11-08T11:13:47",
     "1646492": "2026-11-08T11:13:49",
+    "1646500": "2026-11-13T19:07:46",
     "1646503": "2026-11-08T16:13:38",
     "1646505": "2026-11-08T16:13:40",
     "1646516": "2026-11-11T00:38:21",
@@ -74943,9 +75843,13 @@
     "1646767": "2026-11-11T00:46:35",
     "1646770": "2026-11-11T00:47:41",
     "1646773": "2026-11-11T00:41:39",
+    "1646934": "2026-11-13T19:09:29",
+    "1646951": "2026-11-13T19:08:17",
     "1646954": "2026-11-11T07:08:22",
     "1646957": "2026-11-11T07:13:54",
     "1646959": "2026-11-11T07:13:56",
+    "1646966": "2026-11-13T19:10:30",
+    "1646992": "2026-11-13T19:09:29",
     "1646995": "2026-11-11T19:14:01",
     "1646997": "2026-11-11T19:14:04",
     "1646999": "2026-11-11T19:14:08",
@@ -74965,6 +75869,13 @@
     "1647099": "2026-11-12T14:14:05",
     "1647111": "2026-11-12T18:13:58",
     "1647113": "2026-11-12T18:14:00",
+    "1647124": "2026-11-13T16:08:40",
+    "1647136": "2026-11-13T15:09:15",
+    "1647194": "2026-11-13T12:15:13",
+    "1647196": "2026-11-13T12:15:15",
+    "1647198": "2026-11-13T12:16:13",
+    "1647200": "2026-11-13T12:16:15",
+    "1647213": "2026-11-13T19:07:40",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52",
@@ -75196,9 +76107,9 @@
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
   "caldiscovery-festival-0dfe373e7785cd47@sf-cal": {
-   "content_hash": "12557dbedb63dacf0836f30be1719d2c14ffe6fd1a11182ff654a8cafa572c60",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:26:14.958336Z"
+   "content_hash": "e36c46df5f277fd8955bd34b31e8a025a8f775397d3a5e3146ff916a9999be4e",
+   "sequence": 1,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "caldiscovery-festival-11a72fa4ccd0fa9f@sf-cal": {
    "content_hash": "58982f63c776cb73d99e8fbd206670920639ba88c492694cd7ed96c9e3299d1c",
@@ -75801,9 +76712,9 @@
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17236116@sf-cal": {
-   "content_hash": "6b4ca5d3ff7a00207de69f0926516db36b0499b53e404bd26046e1633c269337",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
+   "content_hash": "381f501434a11612a6039afb00cbc4edc98bdc13e08c2d0fc2ca99ed4ba4277d",
+   "sequence": 1,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "dothebay-17249834@sf-cal": {
    "content_hash": "106dcbf37cadd77c8ad1591a99d8d9f339f04def30c7bd76249945ecf14fbb49",
@@ -77056,9 +77967,9 @@
    "last_modified": "2026-11-03T19:36:58.555449Z"
   },
   "dothebay-17702483@sf-cal": {
-   "content_hash": "975e7a79d444719393a31c694013a93908cac1e15f9a3fa51272edf86d73ad28",
-   "sequence": 1,
-   "last_modified": "2026-10-30T18:04:14.707857Z"
+   "content_hash": "d27a1a515a8922648fcf083cd8192fc55fb64e95681b4460d6599e9b47645c0b",
+   "sequence": 2,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "dothebay-17702485@sf-cal": {
    "content_hash": "3a6be2151ac29090e782652135ccdd8f03dcca73706213254a4138386f5e1fae",
@@ -77479,11 +78390,6 @@
    "content_hash": "233de5d302d4727d5e7e40cb0cc92589c513bba015ab9f16fe3cfdff7f025cd6",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17756428@sf-cal": {
-   "content_hash": "e7eec1c86c0c8e4c3b76ef141db70794899be9c57d8fc2a04701adeaf0bd0051",
-   "sequence": 1,
-   "last_modified": "2026-11-07T10:22:59.541231Z"
   },
   "dothebay-17757307@sf-cal": {
    "content_hash": "767fec28975dd880d965b7bd5acd9ae8d3e4b8c334c8243445ba98143ccb7eae",
@@ -77991,9 +78897,9 @@
    "last_modified": "2026-10-27T15:24:52.531811Z"
   },
   "dothebay-17834034@sf-cal": {
-   "content_hash": "84888570d3424bda6892f1de918e09459d4c53cac273bb25948265d2efbe6a32",
-   "sequence": 2,
-   "last_modified": "2026-10-30T18:04:14.707857Z"
+   "content_hash": "82e55b5307f7dfef11976294241d78a9ea5e5011d282775b155a2a8c014a574f",
+   "sequence": 3,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "dothebay-17834035@sf-cal": {
    "content_hash": "1399459f39cccb807995de82431c2e420eb560f6e2102408449adf776bb0958e",
@@ -80101,9 +81007,9 @@
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
   "dothebay-18011025@sf-cal": {
-   "content_hash": "f23fdb48c04d405b7b6d58fedf2f841185ad61486442f2d51cce93f95a403fa7",
-   "sequence": 1,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
+   "content_hash": "c331652ba79ca46d66f84d9f12d4492b1fb6500d262e1478d5541c598fa2f38d",
+   "sequence": 2,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "dothebay-18012910@sf-cal": {
    "content_hash": "676acf84a0c3df321b3234aa5854d9b096751582d0c9a4d8d6a1de6aa25d2f2d",
@@ -81305,6 +82211,11 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
+  "funcheap-1638120@sf-cal": {
+   "content_hash": "7e9cd0d32dcea4341d9f36974e1061e6b0e8f94e3cb185f386839c3267052573",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
   "funcheap-1638187@sf-cal": {
    "content_hash": "011790b96fcaacf2d5db09e55340214484880be0d8caf7a2b8d2edcb63f983d5",
    "sequence": 0,
@@ -81467,11 +82378,6 @@
   },
   "funcheap-1639210@sf-cal": {
    "content_hash": "217b81966948877285084a1b4f5059efb34c0d3616eb83b55b2e13db9af1e0ac",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1639216@sf-cal": {
-   "content_hash": "10ba49dff96faff98849e87bd2434d9116752481ff28e0c52d64a28cd272cbe4",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -81739,6 +82645,11 @@
    "content_hash": "22186bee8ba81c0eadcee755aced4794493e538e9a0e6105f5b91fa346f77d34",
    "sequence": 0,
    "last_modified": "2026-11-07T17:46:31.290813Z"
+  },
+  "funcheap-1641019@sf-cal": {
+   "content_hash": "883ab3d247388b9c6b5fe522f616a0553c97f758ec0336df8487fcc98e6d8cbc",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "funcheap-1641053@sf-cal": {
    "content_hash": "eb593b84eb904ca19828e766c0d1c19b0893a8438a73d72ac612ebec4127d0cf",
@@ -82115,6 +83026,11 @@
    "sequence": 0,
    "last_modified": "2026-10-18T11:18:13.035663Z"
   },
+  "funcheap-1643289@sf-cal": {
+   "content_hash": "97f2459faa6d69c29df9628ab12dbb4b5060b16895c4b411ced142be819886f2",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
   "funcheap-1643321@sf-cal": {
    "content_hash": "139cb48f0acf50a2c7e7e31fd13792c358cb94824fc290cf04c24bd8d23eebef",
    "sequence": 0,
@@ -82225,6 +83141,16 @@
    "sequence": 0,
    "last_modified": "2026-11-03T19:36:58.555449Z"
   },
+  "funcheap-1644450@sf-cal": {
+   "content_hash": "e7a9dd33af6de9372ab87fd630bd466a0c9127e24010e2a8d001f90f9c043c56",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1644455@sf-cal": {
+   "content_hash": "afadba4f010f62d657754e2df1dd548fac70a3aa1370039d69f2622d5629fb58",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
   "funcheap-1644497@sf-cal": {
    "content_hash": "1115f2524d211283ba63495bf4978ecf5d7d1ba6b5a7969079b54ab01340033b",
    "sequence": 0,
@@ -82299,11 +83225,6 @@
    "content_hash": "f4de0dc08e75252519a4c052e8c42f38107e0344e7b3b0a0fde4891b75e2e7a3",
    "sequence": 0,
    "last_modified": "2026-10-27T22:21:29.169315Z"
-  },
-  "funcheap-1644584@sf-cal": {
-   "content_hash": "b5a9ffb119f37737845b456bc340c96463340c7bcc6d44e9d0114cc3580b9875",
-   "sequence": 0,
-   "last_modified": "2026-11-03T19:36:58.555449Z"
   },
   "funcheap-1644618@sf-cal": {
    "content_hash": "e4ad9b8be31910caaac4674e74aa71f96a14f8b46a1fff69f98b0f72e65019cd",
@@ -82515,6 +83436,11 @@
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
+  "funcheap-1645240@sf-cal": {
+   "content_hash": "9f6448b71bba6af3021e1023d8ba3f9a0bfb692786a71e162f2dae843bd20e8c",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
   "funcheap-1645263@sf-cal": {
    "content_hash": "10de7f96c49de8c60e3d28c78956bda283fe4b6ca3a6e10f6a806eb50c82c9c9",
    "sequence": 0,
@@ -82569,6 +83495,11 @@
    "content_hash": "31db1fb7cd94ee969e9b4a740bf7c84684236a6637db9f7685765a9c33c65ec1",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
+  },
+  "funcheap-1645317@sf-cal": {
+   "content_hash": "d4b5c3a2a29f495ce0a8292cea9ac92f52d4f3bc868382d05954d6b300261789",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "funcheap-1645324@sf-cal": {
    "content_hash": "c9917fdd65d34a9dc35d6c86e022e1ea9f006235056b63405dd5f7d208b350ab",
@@ -82749,6 +83680,11 @@
    "content_hash": "6f54373bece5451b6be77ccd530011fe550661b6f3411fd350418e6dc37f476e",
    "sequence": 0,
    "last_modified": "2026-11-01T22:08:10.884921Z"
+  },
+  "funcheap-1645512@sf-cal": {
+   "content_hash": "f913a8cedb64b2c5cceb1d15092175aa4fcdf6448ba4b1d36c3685d697ff54d5",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "funcheap-1645518@sf-cal": {
    "content_hash": "1e2abfacd6cf35468f66734210363be7db307eb174a6f46b9cba7c568a2a1ad5",
@@ -83070,6 +84006,11 @@
    "sequence": 0,
    "last_modified": "2026-11-05T20:02:37.910796Z"
   },
+  "funcheap-1646093@sf-cal": {
+   "content_hash": "8358aaee68254335423c8f2af49f7a3c904059ad2cea5494330542f5dcf5fce1",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
   "funcheap-1646127@sf-cal": {
    "content_hash": "cdf525645d289d6d1abfe9fd428e801b6d83488e24c66cbed2830e354af234cc",
    "sequence": 0,
@@ -83159,6 +84100,11 @@
    "content_hash": "8408a0e7ddca19c707f310164d8fd31f067488f55bbe28edce72844ee1720fce",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
+  },
+  "funcheap-1646286@sf-cal": {
+   "content_hash": "5297c109cd52ef87d8fb9daf1497aa5ea654d7b552eea0f047a7e01627a3b04f",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "funcheap-1646289@sf-cal": {
    "content_hash": "e956a625105bbb7ecbc0cdac758ed7e7857fb9421b3640ddb3b720e6fd4b89a2",
@@ -83269,6 +84215,11 @@
    "content_hash": "0e0088bee14f3cc607f8d857d20a8e90973389db55b9bca3f0f0a3c90d39296b",
    "sequence": 0,
    "last_modified": "2026-11-08T13:37:56.405463Z"
+  },
+  "funcheap-1646500@sf-cal": {
+   "content_hash": "e2ceaeb703b6f2cef727a2a3f43c02f794bfa586ac67443bf286f549debb9d4e",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "funcheap-1646503@sf-cal": {
    "content_hash": "e0f6b5c87830fbf6e9da1b768d29480f48886d39da80359e9e42339c84758f67",
@@ -83460,6 +84411,16 @@
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
+  "funcheap-1646934@sf-cal": {
+   "content_hash": "ea6ec2e7cff73271b5959473a3ee3f40d5ac0ea3c4da4683c80ba04be56d5688",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1646951@sf-cal": {
+   "content_hash": "63df944d4d337ddfebc2d4455e58d427960b1d33accc34ef8962cc7767cd3338",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
   "funcheap-1646957@sf-cal": {
    "content_hash": "c8172ab85c348784e04f7ab24b89afc7308e4a470449be108a40b2185a2f9d5a",
    "sequence": 0,
@@ -83469,6 +84430,11 @@
    "content_hash": "0d486a089440258069189c805f89af6232ba8a5c0bd00e045562b70d653ee0f8",
    "sequence": 0,
    "last_modified": "2026-11-11T17:14:19.835664Z"
+  },
+  "funcheap-1646992@sf-cal": {
+   "content_hash": "c5f4b6a56b58d0d44863f89dc93383f01418ba59051c730576b009a14e9ab1a7",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "funcheap-1646995@sf-cal": {
    "content_hash": "8da3547a6663dcd1e52f28c72b5f0abf8fda36d9fa954b802b0afa4baea30062",
@@ -83564,6 +84530,41 @@
    "content_hash": "c5e72ab98bc8df6494e75dd24882ced12c14007fa4701061eac5024b7c36ddfb",
    "sequence": 0,
    "last_modified": "2026-11-12T20:02:10.679713Z"
+  },
+  "funcheap-1647124@sf-cal": {
+   "content_hash": "09c04247a3959711d1bd5e8595599b95646131b8ccee8d75d9b64ec93a750d96",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1647136@sf-cal": {
+   "content_hash": "16a454576247a729bd2a90c6b6936af8adf516db846571c536fa988473ff2266",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1647194@sf-cal": {
+   "content_hash": "03d2a507b650107a7da32cd971ba6deba855fa61f5edadfefecf65a22a2e7847",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1647196@sf-cal": {
+   "content_hash": "6e6697d54d702ebfc5ff6a8b2ede3c9d8a4734568580f54ca3023522a26bf1fc",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1647198@sf-cal": {
+   "content_hash": "dcf53ab1c156a6f44d04b622a9d55a59c70e9176656ab93916bf7e585e553de9",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1647200@sf-cal": {
+   "content_hash": "d53afce6ac2f5e36298a70cbc38ba6aa31774a374dbaa4ed1628637b17d68d25",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
+  },
+  "funcheap-1647213@sf-cal": {
+   "content_hash": "4a1eaca07223ad3670e5480cf4390b18f8ae939502e16c1960ccf704661ed2f4",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",
@@ -84074,6 +85075,11 @@
    "content_hash": "e0c133c54fbe37cccbfc869a61febc832365390c39d773d451b2b9d5f9c4ed9a",
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
+  },
+  "sfciviccenter-6222462c6f7bc366@sf-cal": {
+   "content_hash": "9ce086b9f91c9ae1460f45125df6828340e8977870e82715e6f89b3750559e79",
+   "sequence": 0,
+   "last_modified": "2026-11-13T19:50:14.581575Z"
   },
   "sfciviccenter-80fe217dbc3cb349@sf-cal": {
    "content_hash": "48c808fe8fe6d8729219aa646e7fa5454c4734f87953a171b09082816304add2",

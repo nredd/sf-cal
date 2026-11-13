@@ -40,30 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Morning Coffee Cleanup (Inner Richmond) w/ Free Coffee For Volunte
- ers
-DTSTART;TZID=America/Los_Angeles:20261106T080000
-DTEND;TZID=America/Los_Angeles:20261106T090000
-DTSTAMP:20261103T193658Z
-UID:funcheap-1644584@sf-cal
-SEQUENCE:0
-CATEGORIES:Free Food
-DESCRIPTION:Refuse RefuseMeet at Cinderella Bakery & Cafe (436 Balboa St) 
- to grab our supplies\, then cleaning will occur from 8am to 9am around the
-  neighborhood. Stay afterwards for a free coffee and to meet fellow volunt
- eers. Sign up on this Civic Joy Fund Mobilize page\, or email info@refuser
- efusesf.org with event name.\n\nFree\n\nTickets: https://www.mobilize.us/c
- ivicjoyfund/event/756135/\nDetails: https://sf.funcheap.com/morning-coffee
- -cleanup-richmond-free-coffee-volunteers-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Mornin
- g-Coffee-Cleanup-1.jpg
-LAST-MODIFIED:20261103T193658Z
-LOCATION:Cinderella Bakery & Cafe\, 436 Balboa St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/morning-coffee-cleanup-richmond-free-coffee-vo
- lunteers-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Pay-What-You-Can” Taco Day at SF’s Tato (Every Friday)
 DTSTART;TZID=America/Los_Angeles:20261106T110000
 DTEND;TZID=America/Los_Angeles:20261106T170000
@@ -875,6 +851,76 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/upper-noe-cleanup-free-coffee-volunteers/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Building 12 Open House at Pier 70
+DTSTART;TZID=America/Los_Angeles:20261114T110000
+DTEND;TZID=America/Los_Angeles:20261114T160000
+DTSTAMP:20261113T195014Z
+UID:funcheap-1646992@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:William PerezJoin us from 11:00 AM to 4:00 PM for the Building
+  12 Open House at Pier 70. No RSVP is necessary—simply drop in anytime d
+ uring the afternoon.\nOriginally constructed in 1941 as the structural fab
+ rication shop at the heart of Bethlehem Steel’s WWII-era “Destroyer Al
+ ley\,” Building 12 has been transformed into a vibrant public destinatio
+ n celebrating local makers\, food\, art\, and neighborhood history. Admiss
+ ion is free and open to all ages.\nHead up to the second floor and visit T
+ he Pier 70 Time Machine\, where our team will be on hand throughout the af
+ ternoon to share a remarkable collection of waterfront history and artifac
+ ts\, including:\n\n– Authentic Industrial Artifacts: Historic shipbuildi
+ ng tools\, vintage time clocks\, original blueprints\, and salvaged steel 
+ from mid-century Pacific liners.\n– Interactive WWII Damage Control Disp
+ lay: Hands-on equipment demonstrating the shoring and patching techniques 
+ used to keep damaged Navy destroyers afloat.\n– Waterfront & Neighborhoo
+ d Archives: Historic photographs and stories tracing the legacy of Union I
+ ron Works\, Bethlehem Steel\, Irish Hill\, Butchertown\, and the Potrero P
+ oint shoreline.\n– What’s Ahead: A preview of our upcoming winter exhi
+ bits\, special projects\, and cultural programming.\nFood\, Music\, Art & 
+ Open Studios Throughout Building 12\nMake an afternoon of it! Our neighbor
+ s throughout the main atrium and market hall will be offering plenty of re
+ asons to explore:\n– Standard Deviant Brewing: Craft beer pours.\n– Br
+ eadbelly...\n\nFree\n\nTickets: https://pier70timemachine.com/building-12-
+ open-house-at-pier-70/\nDetails: https://sf.funcheap.com/building-12-open-
+ house-pier-70/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Buildi
+ ng-12-Open-House-11.14.2026-facebook-post.jpg
+LAST-MODIFIED:20261113T195014Z
+LOCATION:Building 12 at Pier 70\, 1070 Maryland Street\, San Francisco\, C
+ A 94107
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/building-12-open-house-pier-70/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discover Amaro Angeleno: Store Tasting
+DTSTART;TZID=America/Los_Angeles:20261114T120000
+DTEND;TZID=America/Los_Angeles:20261114T150000
+DTSTAMP:20261113T195014Z
+UID:funcheap-1646934@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerJoin us for an in-store tastin
+ g of Amaro Angeleno and discover its unique flavor\, character\, and story
+ .\n\nDiscover Amaro Angeleno: Store Tasting\nDate & Time: November 14\, 20
+ 26 at 12:00 PM (Pacific Time)Venue: The Epicurean Trader – Castro\, 2240
+  Market Street\n\nJoin us for an exciting in-person tasting event at The E
+ picurean Trader Immerse yourself in the unique flavors of Amaro Angeleno a
+ nd experience a delightful afternoon of discovery and enjoyment.This speci
+ al event captures the perfect Halloween vibe \, making it a fantastic way 
+ to celebrate the season with friends and fellow enthusiasts.\n\nDon’t mi
+ ss this chance to explore a distinctive taste sensation featuring the Spri
+ tz \, Amaro \, Limoncello Spritz \, and potentially their Limoncello liquo
+ r \, the base for the limoncello spritz\, all in a vibrant setting!\n\nFre
+ e\n\nTickets: https://www.facebook.com/events/4184711001821380\nDetails: h
+ ttps://sf.funcheap.com/discover-amaro-angeleno-store-tasting-3/\nSource: F
+ uncheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Amaro-
+ Angeleno-3.webp
+LAST-MODIFIED:20261113T195014Z
+LOCATION:2240 Market Street\, San Francisco\, 94114 \,US
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/discover-amaro-angeleno-store-tasting-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sip\, Savor & Spark 2026
 DTSTART;TZID=America/Los_Angeles:20261114T130000
 DTEND;TZID=America/Los_Angeles:20261114T150000
@@ -935,6 +981,42 @@ LOCATION:Fort Point Valencia\, 742 Valencia Street\, San Francisco\, CA\,
  94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/manzanita-night-2026-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$25 Wine Tasting Fundraiser w/ Prizes for SF Nighthawks
+DTSTART;TZID=America/Los_Angeles:20261114T190000
+DTEND;TZID=America/Los_Angeles:20261114T210000
+DTSTAMP:20261113T195014Z
+UID:funcheap-1638120@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Submitted by the Event OrganizerJill LounsburrySF Nighthawks W
+ ine Tasting Fundraiser\nJoin us for our 3rd annual wine-tasting experience
+  to support the San Francisco Nighthawks Women’s soccer team. Enjoy an e
+ vening of great wine\, good company\, and plenty of soccer spirit. Doors o
+ pen at 7PM at the SF Elks Lodege #3 in downtown SF near Union Square.\nWhe
+ ther you’re a wine enthusiast\, a soccer fan\, or simply looking for a f
+ un night out\, this is an experience you won’t want to miss. Cheers to g
+ reat wine\, great people\, and supporting our team!\n\nThere’s wine them
+ ed raffle prizes and gift cards too. Can’t wait to see you there.\nFor e
+ vent tickets $25 donation entrance paid via Venmo or at the door.\nsearch 
+ for @SF-Nighthawks or click here on your phone to automatically redirect t
+ o our venmo account.\n\nCan’t attend but want to support the team\nDonat
+ e to the club via Venmo/Zell search SF-Nighthawks or click here on your ph
+ one to pay via Venmo\nAdopt a part of our club: see where you’re money c
+ an help\nhttps://www.sfnighthawks.com/adopt\nInterested in a Sponsorship O
+ pportunity\nemail jillprod@yahoo.com\nFor more about our team please visit
+ \nhttps://www.sfnighthawks.com/\n\nFree\n\nTickets: https://www.instagram.
+ com/wearethenighthawks?stkn=MXhrZXB4OHNucHJrZg==\nDetails: https://sf.func
+ heap.com/25-wine-tasting-fundraiser-prizes-sf-nighthawks-sf/\nSource: Func
+ heap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/SF-Haw
+ ks-Wine-Night-26.png
+LAST-MODIFIED:20261113T195014Z
+LOCATION:San Francisco Elks Lodge #3\, 450 Post St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/25-wine-tasting-fundraiser-prizes-sf-nighthawk
+ s-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Manny’s Neighborhood Trash Cleanup” w/ $1 Beer & Free Yoga 
@@ -1691,6 +1773,46 @@ LOCATION:The Detour SF\, 2200 Market St #A San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-free-arcade-game-night-at-the-detour-first
  -tuesdays-62/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Civic Center Tree Lighting: 50-Foot Fir + Santa
+DTSTART;TZID=America/Los_Angeles:20261202T160000
+DTEND;TZID=America/Los_Angeles:20261202T190000
+DTSTAMP:20261113T195014Z
+UID:funcheap-1647136@sf-cal
+SEQUENCE:0
+CATEGORIES:Eating Drinking
+DESCRIPTION:Civic Center Community Benefit DistrictGet ready to kick off t
+ he holiday season at San Francisco’s Civic Center Plaza Holiday Tree Lig
+ hting 2026!\nFor over 100 years an illuminated tree has stood in San Franc
+ isco’s Civic Center Plaza during the holidays. This year be a part of th
+ e tradition at the annual San Francisco Civic Center Plaza Tree Lighting o
+ n Wednesday\, December 2\, 4-7pm!\nThe event also features “snow” flur
+ ries\, where kids (and kids at heart) can twirl and dance through the fall
+ ing snow\, while in the Makers Village enjoy holiday-themed activities wit
+ h SF Etsy and a children’s book giveaway from the SF Public Library.\nCi
+ vic Center Tree Lighting\nWednesday\, December 2\, 2026 | 4-7p\nCivic Cent
+ er Plaza\, 335 McAllister St\, SF\nFREE – All ages | Bites will be avail
+ able for purchase\, along with a full bar featuring seasonal favorites.\nH
+ appening rain or shine\; The Tree Lighting takes place across from an illu
+ minated City Hall in Civic Center Plaza and begins promptly at 4pm\, with 
+ the lighting of Civic Center’s 50-foot noble fir at 5:30pm.\nThe night
+ ’s lineup of entertainment includes:\n\nThe Tap Dancing Christmas Trees\
+ nThe San Francisco Boys Chorus\nThe Grinch\, Mrs. Claus and\nThe VIP-of-th
+ e-hour: Santa!\nWith the night of performances led by the Master of Ceremo
+ nies: award-winning performer Rotimi Agbabiaka.\n\nCivic Center CBD\n\nCiv
+ ic Center CBD\n\nCivic Center CBD\n\nFree\n\nTickets: https://www.eventbri
+ te.com/e/civic-center-plaza-holiday-tree-lighting-2026-tickets-20038368479
+ 54?aff=oddtdtcreator\nDetails: https://sf.funcheap.com/free-civic-center-t
+ ree-lighting-50foot-fir-santa-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Civic-
+ Center-CBD-illuminatedtree.jpg
+LAST-MODIFIED:20261113T195014Z
+LOCATION:Civic Center Plaza\, 335 McAllister St.\, San Francisco\, CA 9410
+ 2
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-civic-center-tree-lighting-50foot-fir-san
+ ta-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Wiener Wednesday” Free Hot Dog Night at Rye
