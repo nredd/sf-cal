@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-12T00:48:45.210659Z",
+ "last_full_refresh": "2026-11-13T01:53:59.055739Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -4067,6 +4067,33 @@
   },
   {
    "source": "caldiscovery-festival",
+   "source_id": "ec4a0993303369f2",
+   "title": "Festival of Lights at Osher Marin JCC!",
+   "start": "2026-12-06T11:00:00-08:00",
+   "end": "2026-12-06T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Osher Marin JCC",
+   "address": "200 N San Pedro Rd, San Rafael, CA, 94903",
+   "locality": "San Rafael",
+   "geo": null,
+   "url": "https://jewishfed.org/event/festival-of-lights-at-osher-marin-jcc/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "When a small business reopens in Israel, a whole community benefits. Paychecks resume, shelves restock, and a neighborhood regains its vibrancy and rhythm. Jewish Federation Bay Area is proud to reopen an impact investing opportunity that puts our community‘s generosity to work helping Israeli small business thrive. Through a new pooled impact loan to Ogen, Federation donor-advised funds (DAFs) can provide low-interest capital to help small business owners in Israel get back on their feet. When the loan is repaid, the money returns to the DAF and can be granted or loaned again. A Partnership Built on Trust Ogen is an Israeli social lender and a partner we know well. Formerly the Israel Free Loan Association, Ogen was founded 35 years ago to help immigrants from Ethiopia and the former Soviet Union settle in Israel. Since 1990, it has made more than 86,000 loans totaling close to $990 million, and it pairs its lending with hands-on mentorship. Our relationship with Ogen has deepened loan by loan. The Federation has made three pooled impact loans to Ogen, in 2021, 2023, and 2025, totaling $3,982,600. Each one lets donors participate in Ogen’s lending approach: social interest rates paired with guidance that helps businesses succeed and grow. This new pooled loan builds on that foundation. Every dollar goes to Ogen, which extends credit so small businesses can keep operating and and employing staff. Rebuilding Takes Root in Small Businesses Small businesses make up 97% of Israel...",
+   "image_url": null,
+   "categories": [
+    "festival"
+   ],
+   "notes": [
+    "Published by Jewish Federation Bay Area",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-festival",
    "source_id": "703501be42c98137",
    "title": "AHITH FEST 2026: Remy & Bo: Rise of Belladonna ~ 3 PM",
    "start": "2026-12-06T15:00:00-08:00",
@@ -5015,200 +5042,6 @@
    "description": "Stomach Cancer Awareness Day",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "16877408",
-   "title": "El Grupo de Apoyo Latino",
-   "start": "2026-11-05T15:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/5/el-grupo-de-apoyo-latino-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "El Grupo de Apoyo Latino de SFAF es un grupo social y educativo que ofrece un espacio abierto, seguro, y confidencial para apoyar a la comunidad Latina afectada por el VIH y SIDA. Es un grupo diverso, donde el respeto es la base para que todos los asistentes puedan expresar libremente sus experiencias, identidad, étnicidad, nacionalidad, sexualidad, y creencias religiosas.\n\nTodas las reuniones son en español y se llevan a cabo en un ambiente positivo, familiar, y confidencial. Ven a compartir con nosotros, estamos seguros que encontrarás apoyo y recibirás información para mejorar tu calidad de vida.\n\nSFAF ofrece servicios a cualquier persona sin importar su situación migratoria.\n\nPara mas información sobre El Grupo, llama al 415-632-9722.\n\n_____\n\nOur support group, El Grupo, has been a stable source of family and community for Latinos, Latinas and their families since the early 1980s. Join us for information about sexual health and harm reduction, meals and social support, and help finding health and social services.\n\nMeetings are in-person at 940 Howard St Group Room A every Thursday from 3 to 5 pm.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29826277/b727a66f-4692-4a96-a159-c0d626cde845.jpg",
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17931638",
-   "title": "Godzilla Minus Zero",
-   "start": "2026-11-05T16:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Alamo Drafthouse Cinema",
-   "address": "2550 Mission St, San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.7562198,
-    -122.419185
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/godzilla-minus-zero-tickets-eqqrprv",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Presented in Japanese with English subtitles\n\nWar reduced Japan to zero. Godzilla plunged it into minus. Now the math gets even more terrifying. Takashi Yamazaki returns to direct, write, and oversee the visual effects for this epic follow-up to GODZILLA MINUS ONE, his Oscar-winning reinvention of Toho’s iconic monster. Set in 1949, two years after the events of the previous film, GODZILLA MINUS ZERO follows Japan’s hard-fought recovery as a new catastrophe threatens to erase it all. With returning stars Ryunosuke Kamiki and Minami Hamabe, bigger monster mayhem, and spectacular effects built for a huge screen, this is the latest chapter in a storied franchise that began in 1954. See the King of the Monsters at its most colossal, on the big screen.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34842661/b7628a88-b4f6-4c77-9568-cfef17e64cab.jpg",
-   "categories": [
-    "Film"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17971993",
-   "title": "Downtown First Thursdays w/ Big Freedia",
-   "start": "2026-11-05T17:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Market & 2nd",
-   "address": "Market St. & 2nd St. , San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": [
-    37.7892901,
-    -122.4013887
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/downtown-first-thursdays-big-freedia-tickets",
-   "ticket_url": null,
-   "price_text": "Free w/ RSVP, All Ages",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Into the Streets SF + Civic Joy Fund Present\nDowntown First Thursdays\nwith special guest Big Freedia\n\nFriday, November 6 | Market & 2nd\n\nDowntown SF's FREE massive monthly street party! DJs, dancing, drag, and all ages fun every first Thursday of the month.\n\nDOWNTOWN FIRST THURSDAYS is back for a full year of street parties in 2026!\n\nDJs - Live Performances - Dancing - Drag - Food Trucks - Shopping - Fashion, and new surprises every month.\n\nNovember 5th Special Guest Performer: BIG FREEDIA\nHoward and 2nd St. | 8-9 PM\nThe unmistakable voice featured on Beyoncé’s “Formation” and “Break My Soul,” Big Freedia is an absolute FORCE on stage. San Francisco, get ready to BOUNCE on 2nd Street.\n\nExplore three blocks of fun on 2nd St. between Market and Howard Streets.\n\nWe strongly recommend taking public transportation:\nThe nearest public transit station is Montgomery Station (MUNI & BART)\n\nHoward Stage Happy Hour\nJoin the Howard Stage happy hour every month from 5-7PM at Howard and 2nd St, featuring house-party vibes in the streets. It's your post-work pick-me-up!\n\nPlus... Happy Hour Specials at all outdoor bars from 5-7PM ONLY:\n\n$8 Beers\n$10 Wines\n$12 Margs\n\n__________\n\nRSVP Deals\n\n$3 off featured Specialty Cocktails at all DFT outdoor bars on 2nd St.\nRise over Run at the Timbri Hotel: Kick off Downtown First Thursdays at Rise Over Run! Show your Downtown First Thursdays Eventbrite ticket on the day of Downtown First Thursdays and receive 20% off food and beverage purchases from 5:00...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35031761/b07de6a1-2e36-46dd-a84b-61cce27dc7b5.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": [
-    "Into the Streets SF + Civic Joy Fund Present"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17998143",
-   "title": "An Extra Special Evening with Chef Nini Nguyen at The Grove Restaurant",
-   "start": "2026-11-05T17:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "CIA at Copia",
-   "address": "500 1st Street, Napa, CA, 94559",
-   "locality": "Napa",
-   "geo": [
-    38.3028111,
-    -122.2804067
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/an-extra-special-evening-with-chef-nini-nguyen-at-the-grove-restaurant-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "CIA at Copia Presents\nAn Extra Special Evening with Chef Nini Nguyen at The Grove Restaurant\nThursday, November 5 | CIA at Copia\n\nSavor an intimate VIP dining experience with Chef Nini Nguyen for an exclusive meet & greet, multi-course dinner, and cookbook celebration.\n\nAn Exclusive VIP Meet & Greet, Cookbook Celebration & Multi-Course Dinner\nJoin us at The Grove Restaurant for an unforgettable evening with acclaimed chef, cookbook author, and television personality Nini Nguyen.\n\nBorn from her Vietnamese heritage and shaped by the bold, soulful flavors of Louisiana, Chef Nini Nguyen’s cooking is a celebration of tradition, creativity, and the joy of bringing people together through food.\n\nFrom the acclaimed kitchens of Eleven Madison Park to Top Chef, Tournament of Champions, Bobby's Triple Threat, and her winning appearance on Last Bite Hotel, she has built a culinary career full of exciting flavors and memorable moments.\n\nNow, she's bringing that spirit to The Grove.\n\nYour VIP evening begins with an exclusive pre-dinner reception and the opportunity to meet Chef Nini in person. Enjoy conversation, hear the stories behind her cooking, and celebrate the release of her debut cookbook, Đặc Biệt: An Extra Special Vietnamese Cookbook.\n\nFollowing the reception, settle in for a special multi-course dinner featuring dishes from the cookbook, including scallop crudo, fish sauce caramel glazed chicken wings, bún chả Hà Nội, and fried bananas with coconut sorbet.\n\nEach VIP ticket inclu...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35161633/11eee9da-e641-4549-8aef-7d75e046e1ff.jpg",
-   "categories": [
-    "Food & Drink"
-   ],
-   "notes": [
-    "CIA at Copia Presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17691025",
-   "title": "GLIDE Holiday Jam 2026 ft. Patti Labelle",
-   "start": "2026-11-05T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Warfield",
-   "address": "982 Market St, San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": [
-    37.7827039,
-    -122.4103578
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/glide-holiday-jam-2026-tickets",
-   "ticket_url": null,
-   "price_text": "$150",
-   "is_free": false,
-   "sold_out": false,
-   "description": "GLIDE Holiday Jam 2026\nFeaturing Patti Labelle\n\nThursday, November 5 | The Warfield\n\nGLIDE is thrilled to announce new details for the 2026 GLIDE Holiday Jam: Turn It Up and Turn It Out, headlined by three-time Grammy Award winner, Rock & Roll Hall of Fame inductee, and recipient of numerous lifetime achievement honors Patti LaBelle. Returning to The Warfield in San Francisco on Thursday, November 5, the GLIDE Holiday Jam will also feature powerhouse vocalist Destani Wolf, traditional Veracruz, Mexico music group Son de Fandango, and the legendary GLIDE Ensemble and The Change Band, led by Zoe Ellis.\n\nFor more than 40 years, the GLIDE Holiday Jam has brought together acclaimed artists, community leaders, and supporters for an unforgettable evening of music, inspiration, and hope while raising critical funds for GLIDE's mission of unconditional love, radical inclusion, and social justice. A beloved Bay Area tradition, the GLIDE Holiday Jam is where legendary artists meet everyday heroes, the spirit of the season shines brightest, and the community comes together to support GLIDE's life-changing programs, including meals, housing, recovery, health access, and services for women and families.\n\nPatti LaBelle has captivated audiences for more than six decades with her extraordinary voice, electrifying stage presence, and enduring catalog of hits. Known worldwide as the \"Godmother of Soul,\" she has sold more than 50 million records and remains one of the most celebrated and influen...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35337292/54ebbe40-9219-4b69-adfb-60399fb4e577.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17955889",
-   "title": "Artist Reception: Siddharth Parasnis Conversation in Color",
-   "start": "2026-11-05T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Caldwell Snyder Gallery, CA",
-   "address": "1328 Main Street, St. Helena, CA, 94574",
-   "locality": "St. Helena",
-   "geo": [
-    38.504849,
-    -122.469087
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/artist-reception-siddharth-parasnis-conversation-in-color-tickets",
-   "ticket_url": null,
-   "price_text": "FREE",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Thursday, November 5, 2026 | 5:30–7:30 PM\n\nCaldwell Snyder Gallery is pleased to present Conversation in Color, a solo exhibition featuring new works by San Francisco-based contemporary artist Siddharth Parasnis. The gallery invites guests to an opening reception with the artist on Thursday, November 5, from 5:30 to 7:30 PM.\n\nBorn in Pune, India, Parasnis creates vibrant paintings that explore the intersection of architecture, landscape, and abstraction. Inspired by his travels throughout India, Central America, and beyond, his work transforms architectural forms into imaginative compositions defined by bold color, geometric structures, and dynamic perspectives.\n\nInfluenced by Edward Hopper, Willem de Kooning, and traditional Indian miniature painting, Parasnis captures the energy and complexity of the built environment through a distinctive visual language.\nJoin us for an evening celebrating the artist and his latest body of work.\n\nWine generously provided by historic winery, Chateau Montelena.\n\nCaldwell Snyder Gallery\n\n341 Sutter Street, San Francisco, CA 94108\n\nExhibition on view through November 30, 2026\n\nFree and open to the public\n\nFor more information:\n\nwww.caldwellsnyder.com\n\n415.392.2299",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34957871/a0dbc8f9-d792-4be8-9744-1cbccd3ef0d0.jpg",
-   "categories": [
-    "The Arts"
-   ],
-   "notes": [
-    "Caldwell Snyder Gallery Presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18034147",
-   "title": "BOUNCE: Valkyries Victory Night",
-   "start": "2026-11-05T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "111 Minna Gallery",
-   "address": "111 Minna St, San Francisco, CA, 94105",
-   "locality": "San Francisco",
-   "geo": [
-    37.7873057,
-    -122.3993712
-   ],
-   "url": "https://dothebay.com/events/2026/11/5/bounce-valkyries-victory-night-tickets",
-   "ticket_url": null,
-   "price_text": "Free",
-   "is_free": true,
-   "sold_out": false,
-   "description": "BOUNCE: Valkyries Victory Night\nThursday, November 5 | ​111 Minna Gallery\n\nCelebrate Valkyries community & the women redefining Bay Area sports, art, & culture with Lady Ryan, Wonway Posibul, Few & Far & BOUNCE.\n\nKALW’s Lady Ryan & Wonway Posibul team up with the team from BOUNCE & the street art collective Few & Far at 111 Minna Gallery on Nov. 5. Celebrate your Valkyries community & the women redefining Bay Area sports, art, nightlife, & culture.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35294872/cf4967fb-506d-4494-bfbe-276be05d1c0e.jpg",
-   "categories": [
-    "Variety"
-   ],
    "notes": []
   },
   {
@@ -52191,54 +52024,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1644997",
-   "title": "Growing Hope: A Collaboration for Our Times",
-   "start": "2026-11-05T11:00:00-08:00",
-   "end": "2026-11-05T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Center for Creativity",
-   "address": "800 Main Street, Redwood City, CA",
-   "locality": "Redwood City",
-   "geo": null,
-   "url": "https://sf.funcheap.com/growing-hope-collaboration-times/",
-   "ticket_url": "https://www.rwccfc.org/exhibitions/growing-hope",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerKevin Daniels\nArtists Susan Bianchi, Kevin Daniels, and Barbara Kibbe have created a new body of work inspired by gardens that explores the themes of hope, renewal, and resilience.\n\nTheir primary motivation is to encourage us to hold on to and cultivate hope. They aim to uplift gallery visitors with work that is both beautiful and playful.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Growing-Hope-at-CfC-FINAL-1080x1350.png.jpg",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1635244",
-   "title": "Free First Thursdays at SF’s Museum of Craft and Design",
-   "start": "2026-11-05T12:00:00-08:00",
-   "end": "2026-11-05T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Museum of Craft and Design",
-   "address": "2569 Third Street, San Francisco, CA 94107",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-first-thursdays-at-sfs-museum-of-craft-and-design-17/",
-   "ticket_url": "https://sfmcd.org/visit/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Free First Thursdays at SF’s Museum of Craft and Design\nMinnosh Zomorrodinia\nThere’s no better time to visit the Museum of Craft and Design than on their Free First Thursdays.\nCommitted to making art, craft, and design accessible to everyone, the Museum of Craft and Design is free on the first Thursday of every month.\nMuseum of Craft and Design’s Free First Thursdays\nEvery First Thursday | Noon to 5pm\nMuseum of Craft and Design\n2569 Third Street (between 22nd and 23rd), San Francisco\nRSVP | Free Admission\nThe MCD is closed on New Year’s Day, Martin Luther King Day, Memorial Day, Juneteenth, July 4-5, Labor Day, Indigenous People’s Day, Thanksgiving, and Christmas Day.\n2026 Free First Thursday Dates\n\nJanuary 8, 2026*\nFebruary 5, 2026\nMarch 5, 2026\nApril 2, 2026\nMay 7, 2026\nJune 4, 2026\nJuly 2, 2026\nAugust 6, 2026\nSeptember 3, 2026\nOctober 1, 2026\nNovember 5, 2026\nDecember 3, 2026\n\n*MCD will be closed on the first Thursday in January, so they’ll be hosting Free First Thursday on the 2nd Thursday, January 8, 2026. Please note that in addition to major holidays, the museum may be closed for exhibition changeovers so please check their schedule before attending.\n*Please note that in addition to major holidays, the museum may be closed for exhibition changeovers, so please check their schedule before attending.\n\nSpecial Exhibitions for 2026\nJudith Schaechter: Super/NaturalOctober 4, 2025 – February 8, 2026Museum of Craft and DesignAn exhibition exploring natural elements, patterns,...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2025/05/Buttons-On-060.jpg",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1643308",
    "title": "Opening Reception: From Street to Stage with Beaver Bauer",
    "start": "2026-11-05T17:00:00-08:00",
@@ -75034,6 +74819,31 @@
   },
   {
    "source": "sfciviccenter",
+   "source_id": "cd3686c0429deca6",
+   "title": "City Hall Holiday Pop-up Shop",
+   "start": "2026-12-01T11:00:00-08:00",
+   "end": "2026-12-01T18:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": null,
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "https://sfciviccenter.org/event/city-hall-holiday-pop-up-shop/",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Shop local vendors under the dome at the annual City Hall Holiday Pop-up Shop! Happening Tuesday, December 1, 11am-6pm, the event features 50 San Francisco makers to shop for holiday gifts for everyone on your list, with gift wrapping by students from Lincoln High School. Vendors include:\n\n9th & Larkin\n1Z King / Onesie King\nAP Flour\nArt House SF\nAsha Tea House\nAzalina’s\nBodega Trading Company\nBrigadeiro Sprinkles\nCastro Candle Co.\nCC Art Studio\nCheeky Bits Sweets\nClarice’s Kitchen\nClaudia Canseco\nDEMBY\nDisco Dog\nEqual Clay\nEXTRA EXTRA Chili Crunch\nFlour & Frill Bakeshop\nFused Glass by Phyllis\nGolden Coast Candle Co.\nHairy Ear Prints\nhinata craft garden\nHOT COOKIE\nIjewelry\nJilly Bing\nKalamari\nThe Kitchen Sink\nManibox Nails\nMitchel Jovial\nNicole Album Illustration\nOASIIS\nOlive This Olive That\nOmetepe Company\nOne New Road\nPapa Woo Popcorn\nPATO\nPetit Pawtisserie\nPurple Gem Fashion\nRose Glow\nSan Franpsycho\nSense of Nadia\nSimple SF\nSocola Chocolatier\nStudio 9AM LLC\nTallio’s Coffee and Tea\nThe love potion library\nUnicorn Tears Skincare\nUtku Kids\nVivien’s Chocolates\nVolcano Kimchi\nWeis Funky Beans\nWoodBecker Enterprises\n\nThe City Hall pop-up is from Shop Dine SF and the San Francisco Small Business Development Center.",
+   "image_url": null,
+   "categories": [
+    "Holiday",
+    "Shopping"
+   ],
+   "notes": []
+  },
+  {
+   "source": "sfciviccenter",
    "source_id": "063dac71b46f481e",
    "title": "Civic Center Plaza Tree Lighting 2026",
    "start": "2026-12-02T16:00:00-08:00",
@@ -77434,11 +77244,6 @@
    "sequence": 2,
    "last_modified": "2026-11-04T01:27:11.380793Z"
   },
-  "dothebay-16877408@sf-cal": {
-   "content_hash": "6570de1371929f32df26adfd91a09566556205d294fad3630943bdac34b3dfcf",
-   "sequence": 1,
-   "last_modified": "2026-11-06T11:02:27.517478Z"
-  },
   "dothebay-16881125@sf-cal": {
    "content_hash": "cc51e36d264e35607d176f51c64ae81f6861498f8589a52f7c44e25b60865255",
    "sequence": 1,
@@ -78868,11 +78673,6 @@
    "content_hash": "fe32d1df75c576a45b0fd7d509a7d28880e65cb926e97b2113ca1f81f55a1149",
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
-  },
-  "dothebay-17691025@sf-cal": {
-   "content_hash": "da5abe562636a3c3640c86462d5f15d71f9ad7b2da6aea19293e0a15c92e45f5",
-   "sequence": 2,
-   "last_modified": "2026-11-06T11:02:27.517478Z"
   },
   "dothebay-17692002@sf-cal": {
    "content_hash": "233d30bf0c5177e47e76b9bc5d7ae7417d6399da5643b7e93c1503c6a7c097ee",
@@ -80829,11 +80629,6 @@
    "sequence": 0,
    "last_modified": "2026-10-21T17:19:08.982623Z"
   },
-  "dothebay-17931638@sf-cal": {
-   "content_hash": "da9dd0d51a88610291d314a34394207b7338771a9e2473ae0fedc32f72996218",
-   "sequence": 2,
-   "last_modified": "2026-11-06T11:02:27.517478Z"
-  },
   "dothebay-17932969@sf-cal": {
    "content_hash": "1f92eb8dd1745d4ffff5d92aea2be671d06bc43792b3d6b33b7b3a73ca3b4a4b",
    "sequence": 0,
@@ -81358,11 +81153,6 @@
    "content_hash": "bdafb43b43f8d07e6af0193377c22e74017a107ec59fbc997c580197f71e1b23",
    "sequence": 1,
    "last_modified": "2026-11-04T19:51:00.176134Z"
-  },
-  "dothebay-17971993@sf-cal": {
-   "content_hash": "e3d3c9ef84fe29b59661cd019b021bcab761b3b37f9d9c3a82e80d03e0aeecc0",
-   "sequence": 2,
-   "last_modified": "2026-11-06T11:02:27.517478Z"
   },
   "dothebay-17972232@sf-cal": {
    "content_hash": "7d3b4e95578d57f8a203d0af9709130defbfc740cb91aae984e9d0d60e96ce7f",
@@ -82474,11 +82264,6 @@
    "sequence": 2,
    "last_modified": "2026-11-06T01:36:13.096518Z"
   },
-  "dothebay-18034147@sf-cal": {
-   "content_hash": "a4e762553f0db3f453fe081fd34013aeb2ea8233edcd72ab0c10b40c510467b6",
-   "sequence": 2,
-   "last_modified": "2026-11-06T11:02:27.517478Z"
-  },
   "dothebay-18035289@sf-cal": {
    "content_hash": "d6e6bdd47c01d253fd4be9a68cf50fd9638f99f6b660a81a217e2b4b11094373",
    "sequence": 0,
@@ -83061,11 +82846,6 @@
   },
   "funcheap-1635190@sf-cal": {
    "content_hash": "92986defbf8106c1cfa528057a1383b45fc4af8d74495116329beeff51dbfb03",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1635244@sf-cal": {
-   "content_hash": "9c2109cc6d7b1f0f3507f5cc8f64e900b4c1aa57a52e8f8375b544592ae33c43",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -84304,6 +84084,11 @@
    "sequence": 0,
    "last_modified": "2026-11-03T19:36:58.555449Z"
   },
+  "funcheap-1644359@sf-cal": {
+   "content_hash": "ca8244e14824277c16eec0908876b62f958f2c55cb4fafe59818c4ee2ba2558b",
+   "sequence": 0,
+   "last_modified": "2026-11-13T01:53:59.055739Z"
+  },
   "funcheap-1644497@sf-cal": {
    "content_hash": "1115f2524d211283ba63495bf4978ecf5d7d1ba6b5a7969079b54ab01340033b",
    "sequence": 0,
@@ -85108,6 +84893,11 @@
    "content_hash": "e3f9267e47e25a2a8532b6044bff71d996919366b7346db8b67f70e9c610ffb6",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
+  },
+  "funcheap-1645900@sf-cal": {
+   "content_hash": "e1dd7d919f828814666683b5e40eac14054c7eecd2ac8cfd8b37243427463fad",
+   "sequence": 0,
+   "last_modified": "2026-11-13T01:53:59.055739Z"
   },
   "funcheap-1645908@sf-cal": {
    "content_hash": "b4082a7e7bb5aaee535be0675832f2b1a37f83d322a6edfe69b120743963f97a",
@@ -86193,6 +85983,11 @@
    "content_hash": "faed1b27d9943507817d33e6264d73239eec3ebd7b84769eb6824c96fa50fabf",
    "sequence": 0,
    "last_modified": "2026-11-07T00:58:02.896323Z"
+  },
+  "sfciviccenter-cd3686c0429deca6@sf-cal": {
+   "content_hash": "a37f4099e70bd7f27fea8f0ed8a2c6206b18434b9f3e68cb01078427098da57f",
+   "sequence": 0,
+   "last_modified": "2026-11-13T01:53:59.055739Z"
   },
   "sfrecpark-bandshell-5caf1e090190283e@sf-cal": {
    "content_hash": "91c871d043170ed74b317be24bf9ee13d463e49503d4278d1ece4db7a3272e56",
