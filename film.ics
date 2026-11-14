@@ -40,29 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Studio 8 Film Festival
-DTSTART;TZID=America/Los_Angeles:20261106T123000
-DTEND;TZID=America/Los_Angeles:20261106T153000
-DTSTAMP:20261103T193658Z
-UID:funcheap-1644161@sf-cal
-SEQUENCE:0
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerCourtesy Babeth Mondini VanLoo
- The 3rd Annual Studio 8 Film Festival celebrates the filmmaking of San Fra
- ncisco Art Institute (SFAI) alumni\, faculty\, and staff.\nFriday\, Novemb
- er 6\, 7:30pm &Saturday\, November 7\, 2pm\, 4-Star Theater\nJuror Films &
-  Open Call Screening\n\nSunday\, November 8\, 12:30pm\, Roxie Theater\nLeg
- acy Award Honoree: Babeth Mondini VanLoo\n\n$10.00\n\nTickets: https://www
- .sfartistsalumni.org/s8ff-2026\nDetails: https://sf.funcheap.com/studio-8-
- film-festival/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Screen
- shot-2026-10-23-at-4.06.24-PM.png
-LAST-MODIFIED:20261103T193658Z
-LOCATION:4-Star Theater\, 2200 Clement St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/studio-8-film-festival/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Floating Features: Pacific Heights
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T210000

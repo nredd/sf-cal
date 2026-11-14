@@ -40,27 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Jam Session with Creativity Explored
-DTSTART;TZID=America/Los_Angeles:20261106T120000
-DTEND;TZID=America/Los_Angeles:20261106T150000
-DTSTAMP:20261023T050002Z
-UID:funcheap-1641875@sf-cal
-SEQUENCE:0
-CATEGORIES:Live Music Event
-DESCRIPTION:Courtesy of Creativity Explored. Photo by Peter Prato.Join us 
- for an afternoon jam session featuring Creativity Explored artists and the
- ir handmade instruments. All are welcome to join!\n\nFree\n\nTickets: http
- s://bit.ly/3VE9u9H\nDetails: https://sf.funcheap.com/jam-session-creativit
- y-explored/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/creati
- vity-explored-jam-session_1200-x-675-px.png
-LAST-MODIFIED:20261023T050002Z
-LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
- , CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/jam-session-creativity-explored/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fort Mason Night Market 2026 w/ 70+ Makers
 DTSTART;TZID=America/Los_Angeles:20261106T170000
 DTEND;TZID=America/Los_Angeles:20261106T220000
@@ -3090,23 +3069,6 @@ LOCATION:Clarion Performing Arts Center\, 2 Waverly Pl\, San Francisco\, C
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-monthly-singersongwriter-open-mic-khalia-
  sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Golden Gate Bandshell: Crucial Reggae Sunday
-DTSTART;TZID=America/Los_Angeles:20261115T163000
-DTEND;TZID=America/Los_Angeles:20261115T193000
-DTSTAMP:20261103T193658Z
-UID:sfrecpark-bandshell-6bc405f4bc4ede62@sf-cal
-SEQUENCE:0
-DESCRIPTION:Come out to the Golden Gate Bandshell on Sunday\, November 15 
- from 4:30 pm to 7:30 pm for Crucial Reggae Sunday https://sfrecpark.org/ca
- lendar.aspx?EID=10843\n\nDetails: /common/modules/iCalendar/iCalendar.aspx
- ?feed=calendar&catID=35\nSource: SF Rec & Park
-LAST-MODIFIED:20261103T193658Z
-LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
- 118
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rodrigo y Gabriela

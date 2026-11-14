@@ -40,50 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Dirtybird Night Market
-DTSTART;TZID=America/Los_Angeles:20261106T170000
-DTEND;TZID=America/Los_Angeles:20261106T190000
-DTSTAMP:20261107T102259Z
-UID:dothebay-17925901@sf-cal
-SEQUENCE:4
-CATEGORIES:DJ/Parties
-DESCRIPTION:Dirtybird x Thrive City Present\nDirtybird Night Market\nFrida
- y\, November 6 | ​Thrive City\n\nThrive City x Dirtybird brings the Dirt
- ybird Night Market to life with music\, vendors\, games\, and interactive 
- fun throughout the night.\n\nFREE ENTRY :: ALL AGES EVENT\n\nThrive City a
- nd Dirtybird brings the Dirtybird Night Market to life with music\, local 
- vendors\, games\, Dirtybird cocktails\, and interactive fun throughout the
-  night! Enjoy live DJ sets from Black V Neck\, Joanna Magik\, and Matsu\, 
- plus shop Dirtybird merch\, get decked out with tooth gems by Gina\, get a
-  new look by Contagious Facepainting\, tarot readings from North Beach Psy
- chic\, accessories from Kandie’s World\, and permanent jewelry from Link
- ed by Soph.\n\nMusic Lineup:\n\nBlack V Neck\nJoanna Magik\nMatsu\n\nSplas
- h at Thrive City's Dirtybird Takeover Menu!\nDrinks: $15\n\nSpicybird- bla
- nco tequila\, jalapeño\, citrus\, bitters\nPrettybird- reposado tequila\,
-  mezcal\, grapefruit\, salt\, soda\nSkinnybird- vodka\, passionfruit\, van
- illa\, citrus\, sparkling wine\nDirtybird- vodka\, dry vermouth\, olive ju
- ice\, olives and a twist\n\nFood: $12\n\nDirtybird Chicken Sliders\n\nVend
- or Lineup:\n\nDirtybird Merchandise\nNorth Beach Psychic\nTooth Gems by GG
- \nContagious Facepainting\nKandie’s World\nLinked by Soph\n\nProhibited 
- Items & Activities at Thrive City:\n\nNo weapons of any kind\nNo alcohol b
- rought onto the plaza\, unless from a Thrive City restaurant or bar with a
-  valid stamp and compostable cup\nAll pets* on a leash\nNo coolers\nNo law
- n chairs\nFace coverings are not permitt...\n\nFree\nDirtybird x Thrive Ci
- ty Present\n\nDetails: https://dothebay.com/events/2026/11/6/dirtybird-x-t
- hrive-city-dirtybird-night-market-tickets\nSource: DoTheBay\n\nAlso listed
-  on:\n- https://sf.funcheap.com/dirtybird-night-market-dj-sets-games-cockt
- ails-sfs-thrive-city/
-GEO:37.768018;-122.387877
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34814647/2dc4e968-1c16-404b-99b9-4749ec0c9661.jpg
-LAST-MODIFIED:20261107T102259Z
-LOCATION:Thrive City\, Chase Center\, 1 Warriors Way\, San Francisco\, CA\
- , 94158
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/6/dirtybird-x-thrive-city-dirtybir
- d-night-market-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beac
  h)
 DTSTART;TZID=America/Los_Angeles:20261106T170000
@@ -125,6 +81,42 @@ LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
  -north-beach-262/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirtybird Night Market: DJ Sets\, Games & Cocktails at SF’s Thri
+ ve City
+DTSTART;TZID=America/Los_Angeles:20261106T170000
+DTEND;TZID=America/Los_Angeles:20261106T220000
+DTSTAMP:20261114T013648Z
+UID:funcheap-1644916@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:Thrive CityThrive City and Dirtybird brings the Dirtybird Nigh
+ t Market to life with music\, local vendors\, games\, Dirtybird cocktails\
+ , and interactive fun throughout the night! Enjoy live DJ sets from Black 
+ V Neck\, Joanna Magik\, and Matsu\, plus shop Dirtybird merch\, get decked
+  out with tooth gems by Gina\, get a new look by Contagious Facepainting\,
+  tarot readings from North Beach Psychic\, accessories from Kandie’s Wor
+ ld\, and permanent jewelry from Linked by Soph.\n🎵 Music Lineup:\n\nBla
+ ck V Neck\nJoanna Magik\nMatsu\n\n🌟 Splash at Thrive City’s Dirtybird
+  Takeover Menu!\n\n🍻 Drinks: $15\n\nSpicybird- blanco tequila\, jalape
+ ño\, citrus\, bitters\nPrettybird- reposado tequila\, mezcal\, grapefruit
+ \, salt\, soda\nSkinnybird- vodka\, passionfruit\, vanilla\, citrus\, spar
+ kling wine\nDirtybird- vodka\, dry vermouth\, olive juice\, olives and a t
+ wist\n\n🍔 Food: $12\n\nDirtybird Chicken Sliders\n\n🛍️ Vendor Line
+ up:\n\nDirtybird Merchandise\nNorth Beach Psychic\nTooth Gems by GG\nConta
+ gious Facepainting\nKandie’s World\nLinked by Soph\n\nFree\n\nTickets: h
+ ttps://www.chasecenter.com/events/dirtybird-night-market-20261106/\nDetail
+ s: https://sf.funcheap.com/dirtybird-night-market-dj-sets-games-cocktails-
+ sfs-thrive-city/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/TC_BM_
+ 20260903_Dirtybird_DIGITAL_Generic_1005x600.avif
+LAST-MODIFIED:20261114T013648Z
+LOCATION:Thrive City Plaza (at Chase Center)\, 1725 3rd St\, San Francisco
+ \, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/dirtybird-night-market-dj-sets-games-cocktails
+ -sfs-thrive-city/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salsa Lessons with Ava & Rodolfo - Friday\, November 6\, 2026
