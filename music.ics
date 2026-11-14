@@ -40,6 +40,48 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:2026 San Francisco Fall Cider Fest (Unlimited Tastings of 30+ Cide
+ rs)
+DTSTART;TZID=America/Los_Angeles:20261107T120000
+DTEND;TZID=America/Los_Angeles:20261107T160000
+DTSTAMP:20261114T223413Z
+UID:funcheap-1644930@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:2026 San Francisco Fall Cider Fest (Unlimited Tastings of 30+ 
+ Ciders)\nSpark Social SF\nAutumn is calling\, and this year\, we’re head
+ ing back to CAMP SPARK!\nSAN FRANCISCO FALL CIDER FEST 2026: CAMP SPARK ED
+ ITION\nWhere: SPARK Social SF\, 601 Mission Bay Blvd. North\, San Francisc
+ o\nWhen: Saturday\, November 7\, 2026 | 12 PM-4 PM\nAge: Strictly 21+\nGet
+  ready for an afternoon of unlimited cider\, food trucks\, live music\, ca
+ mp games\, and fall fun. Think The Parent Trap\, but with cider. Lots and 
+ lots of cider.\nWELCOME TO CAMP SPARK\nSample craft ciders\, take on camp 
+ games and ridiculous challenges\, collect badges\, and see how your crew s
+ tacks up. Come thirsty\, bring your friends\, and discover a new favorite 
+ cider along the way.\nNo cabins. No curfew. Just cider\, campfire vibes\, 
+ and a little friendly competition.\nHERE’S WHAT’S IN STORE:\n\n30+ cra
+ ft ciders to sample\, from crisp classics to unexpected flavors\n15+ food 
+ trucks serving up a variety of eats\nFire pits and s’mores for a cozy fa
+ ll afternoon\nLive music throughout the event\nCamp games and competitions
+  with bragging rights on the line\nCAMP SPARK photo ops to capture the mem
+ ories\n\nTHE PUMPKIN PIE EATING CONTEST\nOur reigning Pie Gobbler has won 
+ two years in a row. Will someone finally take the title in 2026\, or will 
+ our champ defend the sash once again? Come hungry and find out.\n\nView th
+ is post on Instagram\n\nA post shared by SPARK Social SF (@sparksocialsf)\
+ n\nUpcoming 2026 San Francisco Fall Cider Fest (Unlimited Tastings of 30+ 
+ Ciders) Event...\n\n$45.00\n\nTickets: https://www.eventbrite.com/e/the-sa
+ n-francisco-fall-cider-fest-tickets-1998827487823\nDetails: https://sf.fun
+ cheap.com/2026-san-francisco-fall-cider-fest-unlimited-tastings-of-30-cide
+ rs/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2025/10/Fall-C
+ ider-Fest.webp
+LAST-MODIFIED:20261114T223413Z
+LOCATION:SPARK Social SF\, 601 Mission Bay Blvd\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/2026-san-francisco-fall-cider-fest-unlimited-t
+ astings-of-30-ciders/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:3rd Annual Bonview Block Party 2026 w/ DJs + Pizza in Bernal Hill
 DTSTART;TZID=America/Los_Angeles:20261107T120000
 DTEND;TZID=America/Los_Angeles:20261107T180000
@@ -73,27 +115,6 @@ LOCATION:299 Bonview St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/3rd-annual-bonview-block-party-2026-djs-pizza-
  bernal-hill-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palina and The Cave\, Electric Ex and Your Stray Dog
-DTSTART;TZID=America/Los_Angeles:20261107T130000
-DTEND;TZID=America/Los_Angeles:20261107T150000
-DTSTAMP:20261108T061419Z
-UID:dothebay-17830570@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:FREE LIVE LOCAL MUSIC AT KILOWATT.\n\nPresented by Kilowatt.\n
- \nThis is a 21+ event\n\nFree\nPresented by Kilowatt.\n\nDetails: https://
- dothebay.com/events/2026/11/7/palina-and-the-cave-electric-ex-and-your-str
- ay-dog-tickets\nSource: DoTheBay
-GEO:37.7650767;-122.423278
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34367023/10d4e53a-6f50-4846-82b4-faf6385fe65a.jpg
-LAST-MODIFIED:20261108T061419Z
-LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/7/palina-and-the-cave-electric-ex-
- and-your-stray-dog-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Día de los Muertos
@@ -2055,23 +2076,6 @@ LOCATION:Monarch\, 101 Sixth St.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/13/raw-cuts-san-francisco-w-jacque
  s-greene-erez-james-juke-more-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Golden Gate Bandshell: Tribute to Legends
-DTSTART;TZID=America/Los_Angeles:20261114T100000
-DTEND;TZID=America/Los_Angeles:20261114T140000
-DTSTAMP:20261103T193658Z
-UID:sfrecpark-bandshell-7bf1c340715d03eb@sf-cal
-SEQUENCE:0
-DESCRIPTION:Come out to the Golden Gate Bandshell on Saturday\, November 1
- 4 for a Tribute to Legends Concert from 10 am to 2 pm https://sfrecpark.or
- g/calendar.aspx?EID=10842\n\nDetails: /common/modules/iCalendar/iCalendar.
- aspx?feed=calendar&catID=35\nSource: SF Rec & Park
-LAST-MODIFIED:20261103T193658Z
-LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
- 118
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF VegFest 2026: Plant-Based Food + 80+ Exhibitors
