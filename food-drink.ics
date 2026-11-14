@@ -40,53 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Discover Amaro Angeleno: Store Tasting
-DTSTART;TZID=America/Los_Angeles:20261106T160000
-DTEND;TZID=America/Los_Angeles:20261106T190000
-DTSTAMP:20261103T193658Z
-UID:funcheap-1641849@sf-cal
-SEQUENCE:0
-CATEGORIES:Eating Drinking
-DESCRIPTION:Submitted by the Event OrganizerDiscover Amaro Angeleno : Stor
- e Tasting\n\nJoin us for an exciting in-person tasting event at The Epicur
- ean Trader – Hayes Valley on November 6\, 2026 at 4:00 PM (PDT) . Immers
- e yourself in the unique flavors of Amaro Angeleno and experience a deligh
- tful afternoon of discovery and enjoyment.\n\nThis special event captures 
- the perfect Halloween vibe \, making it a fantastic way to celebrate the s
- eason with friends and fellow enthusiasts.Don’t miss this chance to expl
- ore a distinctive taste sensation featuring the Spritz\, Amaro\, Limoncell
- o Spritz \, and potentially their Limoncello liquor \, the base for the li
- moncello spritz\, all in a vibrant setting!\n\nFree\n\nTickets: https://ww
- w.facebook.com/events/1072181542475734\nDetails: https://sf.funcheap.com/d
- iscover-amaro-angeleno-store-tasting-2/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Amaro.
- jpg
-LAST-MODIFIED:20261103T193658Z
-LOCATION:Hayes Valley\, Hayes St. and Laguna St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/discover-amaro-angeleno-store-tasting-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TableBud's One-Year Anniversary Party
-DTSTART;TZID=America/Los_Angeles:20261106T210000
-DTEND;TZID=America/Los_Angeles:20261106T230000
-DTSTAMP:20261107T102259Z
-UID:dothebay-17988555@sf-cal
-SEQUENCE:2
-CATEGORIES:Food & Drink
-DESCRIPTION:21+\, free\n\nDetails: https://dothebay.com/events/2026/11/6/t
- ablebud-s-one-year-anniversary-party-tickets\nSource: DoTheBay\n\nAlso lis
- ted on:\n- https://sf.funcheap.com/tablebuds-oneyear-anniversary-party-sf/
-GEO:37.799893;-122.442367
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35106804/1d80ab4a-064c-4ddd-b55e-7747f8e2bc9f.jpg
-LAST-MODIFIED:20261107T102259Z
-LOCATION:Howells\, 2373 Chestnut St\, San Francisco\, CA\, 94123
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/6/tablebud-s-one-year-anniversary-
- party-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Coffee Festival 2026: Coffee Tastings + Live Music (Nov. 7-8)
 DTSTART;TZID=America/Los_Angeles:20261107T093000
 DTEND;TZID=America/Los_Angeles:20261107T163000
