@@ -40,54 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Blvk h3ro\, with DJ Sep\, Irie Dole\, Guidance
-DTSTART;TZID=America/Los_Angeles:20261108T120000
-DTEND;TZID=America/Los_Angeles:20261108T140000
-DTSTAMP:20261109T114430Z
-UID:dothebay-17998396@sf-cal
-SEQUENCE:5
-CATEGORIES:Music
-DESCRIPTION:Blvkh3ro is wrapping up his West Coast tour with a free show\n
- at San Francisco’s historic Golden Gate Park Bandshell. This is a full d
- ay\nspecial event\, starting at noon with some of the city’s best select
- ors\, then\nthe big show at 4:20\, alongside Crucial Reggae Sundays reside
- nts Irie Dole\,\nGuidance\, and DJ Sep. Bring some canned goods for the SF
- -Marin Food Bank’s holiday\nfood drive.\n#Blvkh3ro #strictlygoodvibestou
- r # CrucialReggaeSundays\n\nFree\nCrucial Reggae Sundays\n\nDetails: https
- ://dothebay.com/events/2026/11/8/blvk-h3ro-with-dj-sep-irie-dole-guidance-
- tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/lo
- vefest-sf-free-7hour-reggae-festival-golden-gate-park-food-drive-sf/
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35146677/b82e8743-44d0-4cc7-bb3a-1ba5c6353de7.jpg
-LAST-MODIFIED:20261109T114430Z
-LOCATION:Golden Gate Bandshell\, 75 Hagiwara Tea Garden Dr\, San Francisco
- \, CA\, 94118
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/8/blvk-h3ro-with-dj-sep-irie-dole-
- guidance-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cliffbreaks\, Syd & I and Meridian Project
-DTSTART;TZID=America/Los_Angeles:20261108T130000
-DTEND;TZID=America/Los_Angeles:20261108T150000
-DTSTAMP:20261109T114430Z
-UID:dothebay-18040743@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:FREE LIVE LOCAL MUSIC AT KILOWATT.\n\nPresented by Kilowatt.\n
- \nThis is a 21+ event\n\nFree\nPresented by Kilowatt.\n\nDetails: https://
- dothebay.com/events/2026/11/8/cliffbreaks-syd-i-and-meridian-project-ticke
- ts\nSource: DoTheBay
-GEO:37.7650767;-122.423278
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35324549/055c0222-7165-4656-92a3-f71848d61a19.jpg
-LAST-MODIFIED:20261109T114430Z
-LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/8/cliffbreaks-syd-i-and-meridian-p
- roject-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Francisco Diwali Festival at Yerba Buena Gardens 2026
 DTSTART;TZID=America/Los_Angeles:20261108T130000
 DTEND;TZID=America/Los_Angeles:20261108T170000
@@ -9258,6 +9210,37 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/ragazzi-boys-chorus-open-rehearsal/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Sketchboard”: Figure Drawing Art Class & Live Music | SF
+DTSTART;TZID=America/Los_Angeles:20270109T140000
+DTEND;TZID=America/Los_Angeles:20270109T170000
+DTSTAMP:20261115T225555Z
+UID:funcheap-1647398@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event Organizer“Sketchboard”: Figure Draw
+ ing Art Class & Live Music | SFJoin in at the Monument (140 9th St)\, for 
+ figure drawing accompanied by live musicians. Everyone is welcome\, we are
+  a mix of seasoned artists\, students\, and first timers. Poses range from
+  2\, 5\, 10\, 15\, 20 and 30 minutes. There will be easels provided and so
+ me materials for drop-ins.\nThere is a $15-25 suggested donation\; tickets
+  can be purchased in advance. All levels and styles are welcomed and encou
+ raged.\n\n– Updated 6/4/19 – Event info last checked via website\n\nUp
+ coming “Sketchboard”: Figure Drawing Art Class & Live Music | SF Event
+ s\nSat 12/12 “Sketchboard”: Figure Drawing Art Class & Live Music | SF
+ Sat 1/9 “Sketchboard”: Figure Drawing Art Class & Live Music | SFSat 2
+ /13 “Sketchboard”: Figure Drawing Art Class & Live Music | SFDisclaime
+ r: Please double check event information with the event organizer as event
+ s can be canceled\, details can change after they are added to our calenda
+ r\, and errors do occur.\n\n$5.00\n\nTickets: http://www.eventbrite.com/o/
+ brittany-ferrero-5405542769\nDetails: https://sf.funcheap.com/sketchboard-
+ figure-drawing-art-class-live-music-sf-110/\nSource: Funcheap SF
+LAST-MODIFIED:20261115T225555Z
+LOCATION:Monument\, 140 9th St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sketchboard-figure-drawing-art-class-live-musi
+ c-sf-110/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Castro Art Mart” Mini Block Party on Noe St. (Every First Sun
  day)
 DTSTART;TZID=America/Los_Angeles:20270207T110000
@@ -9291,6 +9274,37 @@ LOCATION:Market & Noe\, Market and Castro\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/castro-art-mart-mini-block-party-on-noe-st-eve
  ry-first-sunday-55/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Sketchboard”: Figure Drawing Art Class & Live Music | SF
+DTSTART;TZID=America/Los_Angeles:20270213T140000
+DTEND;TZID=America/Los_Angeles:20270213T170000
+DTSTAMP:20261115T225555Z
+UID:funcheap-1647400@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:Submitted by the Event Organizer“Sketchboard”: Figure Draw
+ ing Art Class & Live Music | SFJoin in at the Monument (140 9th St)\, for 
+ figure drawing accompanied by live musicians. Everyone is welcome\, we are
+  a mix of seasoned artists\, students\, and first timers. Poses range from
+  2\, 5\, 10\, 15\, 20 and 30 minutes. There will be easels provided and so
+ me materials for drop-ins.\nThere is a $15-25 suggested donation\; tickets
+  can be purchased in advance. All levels and styles are welcomed and encou
+ raged.\n\n– Updated 6/4/19 – Event info last checked via website\n\nUp
+ coming “Sketchboard”: Figure Drawing Art Class & Live Music | SF Event
+ s\nSat 12/12 “Sketchboard”: Figure Drawing Art Class & Live Music | SF
+ Sat 1/9 “Sketchboard”: Figure Drawing Art Class & Live Music | SFSat 2
+ /13 “Sketchboard”: Figure Drawing Art Class & Live Music | SFDisclaime
+ r: Please double check event information with the event organizer as event
+ s can be canceled\, details can change after they are added to our calenda
+ r\, and errors do occur.\n\n$5.00\n\nTickets: http://www.eventbrite.com/o/
+ brittany-ferrero-5405542769\nDetails: https://sf.funcheap.com/sketchboard-
+ figure-drawing-art-class-live-music-sf-111/\nSource: Funcheap SF
+LAST-MODIFIED:20261115T225555Z
+LOCATION:Monument\, 140 9th St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sketchboard-figure-drawing-art-class-live-musi
+ c-sf-111/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Win Tix: Slipknot (sic)est Tour at Golden Gate Park

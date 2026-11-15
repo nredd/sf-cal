@@ -40,6 +40,47 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:“LoveFest SF” Free 7-Hour Reggae Festival in Golden Gate Park 
+ + Food Drive
+DTSTART;TZID=America/Los_Angeles:20261108T120000
+DTEND;TZID=America/Los_Angeles:20261108T193000
+DTSTAMP:20261115T225555Z
+UID:funcheap-1646118@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:LOVEFEST SF TURNS MUSIC INTO MEANING WITH COMMUNITY FOOD DRIVE
+  IN GOLDEN GATE PARK\nOrganized by Value Culture\, founded by Adam Swig\, 
+ the free\, all-ages celebration brings together San Francisco’s music an
+ d creative communities for a day of live performances\, ecstatic dance and
+  giving back ahead of the holiday season\, featuring DJ Seth Finkin\, Jama
+ ican reggae artist BLVK H3RO and a food drive benefiting the San Francisco
+ -Marin Food Bank.\nIn advance of the holiday season\, San Francisco’s mu
+ sic and creative communities are coming together to dance for a cause at L
+ oveFest SF at Crucial Reggae Sundays on Sunday\, November 8. LoveFest SF a
+ ttendees are invited to participate in a community-wide canned food drive 
+ benefiting the San Francisco-Marin Food Bank. Organized by Value Culture\,
+  founded by Adam Swig\, and presented in partnership with Illuminate Live 
+ and the San Francisco Recreation and Parks Department\, the food drive wil
+ l kick off at Golden Gate Park’s Spreckels Temple of Music Bandshell at 
+ Crucial Reggae Sundays\, a free\, all-ages celebration featuring a full da
+ y of live music\, DJs and dancing.\n\nThe LoveFest SF celebration begins a
+ t 12:00 PM\, featuring acclaimed house DJ and community curator Seth Finki
+ n (FINKIN)\, alongside a dynamic lineup of live music and performances. Hi
+ ghlights include Jamaican reggae artist BLVK H3RO with the 3PEAT Band\, Ga
+ vin Hardkiss\, music from June Robin & Friends\, an ecstatic dance experie
+ nce with Embodied Groove\, and DJ sets by DJ Sep\, Irie Dole an...\n\nFree
+ \n\nTickets: https://www.eventbrite.com/e/lovefest-sf-at-crucial-reggae-su
+ nday-tickets-2003984196678?aff=oddtdtcreator\nDetails: https://sf.funcheap
+ .com/lovefest-sf-free-7hour-reggae-festival-golden-gate-park-food-drive-sf
+ /\nSource: Funcheap SF
+LAST-MODIFIED:20261115T225555Z
+LOCATION:Spreckels Temple of Music (Golden Gate Park Bandshell)\, Music Co
+ ncourse Dr\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/lovefest-sf-free-7hour-reggae-festival-golden-
+ gate-park-food-drive-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free “Diwali on the Square” Celebration at St. Marks
 DTSTART;TZID=America/Los_Angeles:20261108T183000
 DTEND;TZID=America/Los_Angeles:20261108T213000
