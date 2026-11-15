@@ -40,57 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Golden State Warriors vs. Orlando Magic
-DTSTART;TZID=America/Los_Angeles:20261107T173000
-DTEND;TZID=America/Los_Angeles:20261107T193000
-DTSTAMP:20261108T061419Z
-UID:dothebay-17728015@sf-cal
-SEQUENCE:1
-CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. Orlando Magic\n\nDetails: https://do
- thebay.com/events/2026/11/7/golden-state-warriors-vs-orlando-magic-tickets
- \nSource: DoTheBay
-GEO:37.7688295;-122.3894164
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33883578/e3e4353d-4d19-438f-8493-fd0317d3da33.png
-LAST-MODIFIED:20261108T061419Z
-LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/7/golden-state-warriors-vs-orlando
- -magic-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Night Walking Tour of Chinatown Alleyways + North Beach
-DTSTART;TZID=America/Los_Angeles:20261107T180000
-DTEND;TZID=America/Los_Angeles:20261107T193000
-DTSTAMP:20261020T194441Z
-UID:funcheap-1643370@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Filip ToddAfter dark\, Chinatown quiets down. That’s when th
- is walk starts.\nIt’s a free 90-minute evening tour that begins at the D
- ragon Gate and works up through Chinatown’s back alleys to the point whe
- re the neighbourhood turns into North Beach. Along the way: the old tong b
- uildings on Waverly Place\, the gambling alleyways\, a Bruce Lee mural\, J
- ack Kerouac Alley and City Lights Bookstore. It ends at Golden Boy Pizza.\
- nTwo neighbourhoods pressed up against each other for more than a century\
- , and the seam between them is the most interesting part of either.\n\nThe
-  tour is free in the real sense — no ticket\, nothing paid up front. At 
- the end you decide what it was worth\, and there’s no obligation.\nGuide
- d in English. Meets at the Dragon Gate\, corner of Bush Street and Grant A
- venue.\n\nFree\n\nTickets: https://freesftour.com/chinatown-to-little-ital
- y-walking-tour/\nDetails: https://sf.funcheap.com/free-night-walking-tour-
- chinatown-alleyways-north-beach-sf/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/225998
- 35-8265-4C4C-A51B-53BB0C89F53F.jpg
-LAST-MODIFIED:20261020T194441Z
-LOCATION:San Francisco Gragon Gate\, Bush Street &\, Grant Ave\, San Franc
- isco\, CA 94108
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/free-night-walking-tour-chinatown-alleyways-no
- rth-beach-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golden Gate Park Sunday Roller Disco Party
 DTSTART;TZID=America/Los_Angeles:20261108T130000
 DTEND;TZID=America/Los_Angeles:20261108T170000
