@@ -41,24 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Biondivino 20th Anniversary
-DTSTART;TZID=America/Los_Angeles:20261107T080000
-DTEND;TZID=America/Los_Angeles:20261107T230000
-DTSTAMP:20261027T222129Z
-UID:sf-street-events-1572117-2026-11-07T08:00:00-08:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Green St from Polk St to Van Ness Ave\n\nPermit status
- : Permitted\nTimes are SFMTA street-closure permit times and include setup
-  and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: https:
- //data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.797721;-122.42297
-LAST-MODIFIED:20261027T222129Z
-LOCATION:Green St between Polk St and Van Ness Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outer Sunset Farmers' Market 2026
 DTSTART;TZID=America/Los_Angeles:20261108T060000
 DTEND;TZID=America/Los_Angeles:20261108T160000
