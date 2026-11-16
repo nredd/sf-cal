@@ -40,67 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Murray Hill
-DTSTART;TZID=America/Los_Angeles:20261108T180000
-DTEND;TZID=America/Los_Angeles:20261108T200000
-DTSTAMP:20261109T114430Z
-UID:dothebay-17352624@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Another Planet Entertainment Presents\nShowbiz! The Tour\nMurr
- ay Hill\nSunday\, November 8 | ​Bimbo's 365 Club\n\n$46.36\, 21+\nAnothe
- r Planet Entertainment Presents: Showbiz! The Tour\nListed time is doors\n
- \nDetails: https://dothebay.com/events/2026/11/8/murray-hill-tickets\nSour
- ce: DoTheBay
-GEO:37.8036989;-122.4156675
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32094610/046e88ea-5b5c-4ee6-ba48-a9fce8f69217.jpg
-LAST-MODIFIED:20261109T114430Z
-LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA\, 94133
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/8/murray-hill-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geoffrey Asmus
-DTSTART;TZID=America/Los_Angeles:20261108T180000
-DTEND;TZID=America/Los_Angeles:20261108T200000
-DTSTAMP:20261109T114430Z
-UID:dothebay-17823203@sf-cal
-SEQUENCE:1
-CATEGORIES:Comedy
-DESCRIPTION:Geoffrey Asmus\nSunday\, November 8 | ​Cobb's Comedy Club\n\
- n18+\n\nDetails: https://dothebay.com/events/2026/11/8/geoffrey-asmus-tick
- ets\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34332459/f97d6beb-ec86-434c-9a33-52cda609786e.png
-LAST-MODIFIED:20261109T114430Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/8/geoffrey-asmus-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S. F. Comedy Showcase
-DTSTART;TZID=America/Los_Angeles:20261108T190000
-DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261109T114430Z
-UID:dothebay-17612354@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:S. F. Comedy Showcase\nSunday\, November 8 | ​Punch Line San
-  Francisco\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/8/s-f-co
- medy-showcase-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33336867/3cd72d67-f96d-4caa-9c9a-a87747b9cc5b.png
-LAST-MODIFIED:20261109T114430Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/8/s-f-comedy-showcase-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks
 DTSTART;TZID=America/Los_Angeles:20261109T200000
 DTEND;TZID=America/Los_Angeles:20261109T230000
@@ -1139,6 +1078,23 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/15/s-f-comedy-showcase-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bits (mostly) Queer Comedy - Starring Lady Bushra!
+DTSTART;TZID=America/Los_Angeles:20261115T193000
+DTEND;TZID=America/Los_Angeles:20261115T210000
+DTSTAMP:20261116T064237Z
+UID:caldiscovery-comedy-47c25b9e42a50dde@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Get up-to-date information at: https://luma.com/mimifgp9\n\nAd
+ dress:\nCheck event page for more details.\n\nHosted by The Love Potion Li
+ brary & Caleb Zeringue\n\nPublished by The Love Potion Library\nContains i
+ nformation from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nSource: CalD
+ iscovery
+LAST-MODIFIED:20261116T064237Z
+LOCATION:https\, //luma.com/event/evt-GxIldt1JnYEehDR
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lady Bushra’s Queer Comedy Night in a Romance Bookstore
 DTSTART;TZID=America/Los_Angeles:20261115T193000
 DTEND;TZID=America/Los_Angeles:20261115T210000
@@ -1273,6 +1229,22 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/17/alvin-kuai-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lipstick Riot Comedy
+DTSTART;TZID=America/Los_Angeles:20261118T190000
+DTEND;TZID=America/Los_Angeles:20261118T200000
+DTSTAMP:20261116T064237Z
+UID:caldiscovery-comedy-249f6186ec24bfac@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Find more information on https://luma.com/thelovepotionlibrary
+ \n\nPublished by The Love Potion Library\nContains information from CalDis
+ covery (caldiscovery.com)\, ODbL 1.0\n\nSource: CalDiscovery
+LAST-MODIFIED:20261116T064237Z
+LOCATION:https\, //www.eventbrite.com/e/lipstick-riot-comedy-at-the-love-p
+ otion-library-november-18th-tickets-2003380313447?aff=ebdsoporgprofile
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Caitlin Peluffo
@@ -1797,6 +1769,34 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/20/caitlin-peluffo-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beach Improv + Authentic Movement
+DTSTART;TZID=America/Los_Angeles:20261121T150000
+DTEND;TZID=America/Los_Angeles:20261121T170000
+DTSTAMP:20261116T064237Z
+UID:caldiscovery-comedy-c796640a5477b63d@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:This class consists of two practices:\nAuthentic Movement\, mo
+ ving/sensing with eyes closed while being witnessed\, begun by Mary Starks
+  Whitehouse to allow “the unconscious to express itself in movement.”\
+ nDance Improvisation\, practicing movement concepts\, expressing ourselves
+ \, and connecting with our senses + the elements outdoors.\nEast Bay\nRSVP
+  for location and important details.\nhttps://partiful.com/e/rFOgpQ7pYK81K
+ O00ObFD?c=y8SBWYtP\nMore offerings at suzannebeahrs.com\, including the mo
+ nthly phrasework + improv class that follows this event each month.\n\nPub
+ lished by Dancers' Group\nContains information from CalDiscovery (caldisco
+ very.com)\, ODbL 1.0\n\nDetails: https://dancersgroup.org/calendar/beach-i
+ mprov-authentic-movement/2026-11-21/?utm_source=caldiscovery&utm_medium=ic
+ s&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261116T064237Z
+LOCATION:beach\, please follow link for details and RSVP to receive update
+ s\, east bay beach
+TRANSP:TRANSPARENT
+URL:https://dancersgroup.org/calendar/beach-improv-authentic-movement/2026
+ -11-21/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
+ ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
