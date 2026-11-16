@@ -40,47 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20261109T090000
-DTEND;TZID=America/Los_Angeles:20261109T100000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1638092@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
- \nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from arou
- nd the world with an opportunity to experience the natural beauty\, tranqu
- ility\, and harmony of a Japanese-style garden in the heart of San Francis
- co’s Golden Gate Park.\nOriginally created as a “Japanese Village” e
- xhibit for the 1894 California Midwinter International Exposition\, the Ja
- panese Tea Garden endures as one of the most popular attractions in San Fr
- ancisco\, featuring classic elements such as an arched drum bridge\, pagod
- as\, stone lanterns\, stepping stone paths\, native Japanese plants\, sere
- ne koi ponds\, and a zen garden. Cherry blossom trees bloom throughout the
-  garden in March and April.\nAdmission to the Japanese Tea Garden is free 
- for San Francisco residents with valid ID. Free hours for everyone (even n
- on-residents) are 9-10 am every Monday\, Wednesday and Friday.\n\nPlease n
- ote that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiw
- ara Tea Garden\, Golden Gate Park\, SF\nFREE for San Francisco Residents w
- / ID\nFREE for Everyone from 9-10 am on Mondays\, Wednesdays and Fridays\n
- Non Resident Fees\nAdults: $12-16 (depends on season)\n(February – Novem
- ber) $14\n(December – January) $12\n(Weekends year-round) $16\nSeniors (
- ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildre
- n (under 5) FREE\nHours Of Operation\nLast entry 30 minutes before closing
- \nSpring – Summer Hours\nMarch – October\n9am – 5:45pm\nFall – Win
- ter Hours\nNovembe...\n\nFree\n\nTickets: https://www.japaneseteagardensf.
- com/vist\nDetails: https://sf.funcheap.com/japanese-tea-gardens-free-admis
- sion-hour-golden-gate-park-448/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2020/07/japane
- seteagarden-scaled-e1595352236641.jpeg
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
-  CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
- n-gate-park-448/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. New Orleans Pelicans
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T210000
@@ -2459,6 +2418,47 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-473/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:24th Annual “Unsilent Night” SF’s Boombox Xmas Parade in The
+  Mission (2026)
+DTSTART;TZID=America/Los_Angeles:20261218T183000
+DTEND;TZID=America/Los_Angeles:20261218T200000
+DTSTAMP:20261116T194027Z
+UID:funcheap-1344001@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Unsilent NightUnsilent Night is a participatory sound artwork 
+ by composer Phil Kline\, an ethereal\, electronic soundscape played by the
+  audience on boomboxes carried through city streets.\nEach participant get
+ s one of four tracks of music in the form of a MP3 or through the app. All
+  four tracks played simultaneously comprise Unsilent Night.\nThere are fou
+ r different events in 2026! Two in SF (including the biggest/original one 
+ in the Mission)\, plus new ones in Berkeley and Healdsburg!\n\nBring a boo
+ mbox\, portable speaker\, or anything that amplifies music\, loaded with o
+ ne of the piece’s four tracks. When we’re all assembled\, we’ll push
+  play in unison and walk through the Mission back alleys as the piece unfo
+ lds.\nDownload the tracks or download the app at: unsilentnight.com/partic
+ ipate\n(PLEASE DOWNLOAD PRIOR TO MEETING UP)\n\nSAN FRANCISCO\n24th Annual
+  Unsilent Night San Francisco – THE MISSION – The Original & Biggest\n
+ !!\nFriday\, December 18\, 2026 | 6:30p\nMeet at Dolores Park\, 18th and D
+ olores\, San Francisco\nFREE\n\nPlease arrive at Mission Dolores Park (by 
+ the tennis courts at the corner of 18th & Dolores) by 6:30 pm\, ready to 
+ “Hit Play” for the liftoff! (typically about 20 minutes later\, but ti
+ mes are TBD – you want to be there early!)\nWe will complete the 60 minu
+ te stroll back at Mission Dolores Park.\nThis is a free\, public event for
+  all ages. The more participants\, the better it sounds\, so please invite
+  your friends.\n\nBONUS SAN FRANCISCO EVENT FOR 2026 – MARINA\nWednesday
+ \, December 16...\n\nFree\n\nTickets: https://www.unsilentnight.com/schedu
+ le/\nDetails: https://sf.funcheap.com/unsilent-night-sf-mission/\nSource: 
+ Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2021/12/309016
+ 107_403499631942293_5723946376742609317_n-e1669743930698.jpg
+LAST-MODIFIED:20261116T194027Z
+LOCATION:Mission Dolores Park\, Dolores St.\, and 19th St.\, San Francisco
+ \, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/unsilent-night-sf-mission/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Midnight Mystery Ride (Every Third Saturday)
 DTSTART;TZID=America/Los_Angeles:20261219T235900
 DTEND;TZID=America/Los_Angeles:20261220T025900
@@ -3500,6 +3500,40 @@ URL:https://sf.funcheap.com/san-francisco-botanical-gardens-free-day-2nd-t
  uesdays-67/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highway)
+DTSTART;TZID=America/Los_Angeles:20270117T100000
+DTEND;TZID=America/Los_Angeles:20270117T130000
+DTSTAMP:20261116T194027Z
+UID:funcheap-1647450@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:SF’s Free “Sundays at the Beach” Tai Chi Day (Great High
+ way)\nGreat Highway Park\nJoin us for Tai Chi this Sunday!\n10am at Judah 
+ and Great Highway Park\nThis monthly course is for beginners and experienc
+ ed students of tai chi alike. Plus\, coffee is on us at @javabeachsf after
+  the course.\nAs a reminder\, Sundays at the Beach is a year-long program 
+ of weekly events possible thanks to a grant award from @avenuegreenlight. 
+ Our friends at @sunsetchineseculturaldistrict helped us make the Tai Chi p
+ rogram come to life!\n\nSee you on Sundays!\n\nView this post on Instagram
+ \n\nA post shared by Great Highway Park (@greathighwaypark)\n\nUpcoming SF
+ ’s Free “Sundays at the Beach” Tai Chi Day (Great Highway) Events\nS
+ un 12/20 SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highway
+ )Sun 1/17 SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highwa
+ y)Sun 2/21 SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highw
+ ay)Disclaimer: Please double check event information with the event organi
+ zer as events can be canceled\, details can change after they are added to
+  our calendar\, and errors do occur.\n\nFree\n\nTickets: https://www.insta
+ gram.com/p/CusXDqLSpMH/\nDetails: https://sf.funcheap.com/sfs-free-sundays
+ -at-the-beach-tai-chi-day-great-highway-42/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/08/360044
+ 403_2127428974132877_6926067249621104259_n.jpeg
+LAST-MODIFIED:20261116T194027Z
+LOCATION:The Great Highway\, Judah and Great Highway\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-free-sundays-at-the-beach-tai-chi-day-grea
+ t-highway-42/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Day to Ice Skate at Union Square’s Holiday Ice Rink (2026/
  27 Winter Season)
 DTSTART;TZID=America/Los_Angeles:20270118T100000
@@ -3764,5 +3798,39 @@ LAST-MODIFIED:20261115T162545Z
 LOCATION:Secret Location
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-beginner-parkour-urban-ninja-class-133/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highway)
+DTSTART;TZID=America/Los_Angeles:20270221T100000
+DTEND;TZID=America/Los_Angeles:20270221T130000
+DTSTAMP:20261116T194027Z
+UID:funcheap-1647452@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:SF’s Free “Sundays at the Beach” Tai Chi Day (Great High
+ way)\nGreat Highway Park\nJoin us for Tai Chi this Sunday!\n10am at Judah 
+ and Great Highway Park\nThis monthly course is for beginners and experienc
+ ed students of tai chi alike. Plus\, coffee is on us at @javabeachsf after
+  the course.\nAs a reminder\, Sundays at the Beach is a year-long program 
+ of weekly events possible thanks to a grant award from @avenuegreenlight. 
+ Our friends at @sunsetchineseculturaldistrict helped us make the Tai Chi p
+ rogram come to life!\n\nSee you on Sundays!\n\nView this post on Instagram
+ \n\nA post shared by Great Highway Park (@greathighwaypark)\n\nUpcoming SF
+ ’s Free “Sundays at the Beach” Tai Chi Day (Great Highway) Events\nS
+ un 12/20 SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highway
+ )Sun 1/17 SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highwa
+ y)Sun 2/21 SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highw
+ ay)Disclaimer: Please double check event information with the event organi
+ zer as events can be canceled\, details can change after they are added to
+  our calendar\, and errors do occur.\n\nFree\n\nTickets: https://www.insta
+ gram.com/p/CusXDqLSpMH/\nDetails: https://sf.funcheap.com/sfs-free-sundays
+ -at-the-beach-tai-chi-day-great-highway-43/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/08/360044
+ 403_2127428974132877_6926067249621104259_n.jpeg
+LAST-MODIFIED:20261116T194027Z
+LOCATION:The Great Highway\, Judah and Great Highway\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sfs-free-sundays-at-the-beach-tai-chi-day-grea
+ t-highway-43/
 END:VEVENT
 END:VCALENDAR

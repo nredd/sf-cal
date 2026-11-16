@@ -2634,27 +2634,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/14/ha-ha-ha-ha-ha-ha-ha-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Francisco Hip-Hop Dance Festival
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261018T205153Z
-UID:caldiscovery-festival-2df4e23a80fcc9c2@sf-cal
-SEQUENCE:0
-CATEGORIES:dance,festival,music
-DESCRIPTION:San Francisco Hip-Hop Dance Festival\n\nThis ground-breaking f
- estival blends street culture with high-art choreography\, featuring profe
- ssional troupes\, master classes\, and high-ene\n\nPublished by Calendar O
- f Events\nContains information from CalDiscovery (caldiscovery.com)\, ODbL
-  1.0\n\nDetails: https://www.hotelcaza.com/explore/event-calendar/san-fran
- cisco-hip-hop-dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_ca
- mpaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261018T205153Z
-TRANSP:TRANSPARENT
-URL:https://www.hotelcaza.com/explore/event-calendar/san-francisco-hip-hop
- -dance-festival?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fr
- ancisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Renegade Craft Holiday 2026 Fair w/ 250+ Makers at Fort Mas
  on (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261115T110000
@@ -2781,23 +2760,6 @@ URL:https://dothebay.com/events/2026/11/15/minnette-lehmann-memorial-celeb
  ration-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Another Day ~ 3 PM (As Part of BAFFF)
-DTSTART;TZID=America/Los_Angeles:20261115T150000
-DTEND;TZID=America/Los_Angeles:20261115T170000
-DTSTAMP:20261104T012711Z
-UID:caldiscovery-festival-c39376a91c86bb53@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:Published by Calendar of Events\nContains information from Cal
- Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.voguemovie
- s.com/calendar-of-events/another-day-november-15?utm_source=caldiscovery&u
- tm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261104T012711Z
-TRANSP:TRANSPARENT
-URL:https://www.voguemovies.com/calendar-of-events/another-day-november-15
- ?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freedom Inside & Out: A Fall Fundraiser Celebrating Creative Freed
  om & Freedom for All
 DTSTART;TZID=America/Los_Angeles:20261115T150000
@@ -2835,27 +2797,6 @@ LOCATION:The Center for Creative Exploration\, 300 Chenery Street\, San Fr
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/15/freedom-inside-out-a-fall-fundr
  aiser-celebrating-creative-freedom-freedom-for-all-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Francisco Jewish Film Festival Encore – Nov 15
-DTSTART;TZID=America/Los_Angeles:20261115T160000
-DTEND;TZID=America/Los_Angeles:20261115T220000
-DTSTAMP:20261101T160546Z
-UID:caldiscovery-festival-b8821d122e11d92f@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,film
-DESCRIPTION:Published by Jewish Community Center of San Francisco\nContain
- s information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: 
- https://www.jccsf.org/event/san-francisco-jewish-film-festival-encore-nov-
- 15/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n
- Source: CalDiscovery
-LAST-MODIFIED:20261101T160546Z
-LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, Uni
- ted States
-TRANSP:TRANSPARENT
-URL:https://www.jccsf.org/event/san-francisco-jewish-film-festival-encore-
- nov-15/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-
- ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thirst Draft: Write Drunk\, Edit Never
@@ -2928,41 +2869,6 @@ LOCATION:KALW @ 220 Montgomery\, 220 Montgomery St\, San Francisco\, CA\,
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/15/signal-hill-on-another-rock-tic
  kets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Quiz ~ 7 PM (As Part of BAFFF)
-DTSTART;TZID=America/Los_Angeles:20261115T190000
-DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261104T012711Z
-UID:caldiscovery-festival-301c18e2ba7954b2@sf-cal
-SEQUENCE:0
-CATEGORIES:family,festival,gaming
-DESCRIPTION:Published by Calendar of Events\nContains information from Cal
- Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.voguemovie
- s.com/calendar-of-events/family-quiz-november-15?utm_source=caldiscovery&u
- tm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261104T012711Z
-TRANSP:TRANSPARENT
-URL:https://www.voguemovies.com/calendar-of-events/family-quiz-november-15
- ?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back to the Future on 35mm ~ 7 PM (as part of NTBTS the Fest)
-DTSTART;TZID=America/Los_Angeles:20261115T190000
-DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261104T012711Z
-UID:caldiscovery-festival-57012b5ec8465818@sf-cal
-SEQUENCE:0
-CATEGORIES:festival,film
-DESCRIPTION:Published by Calendar of Events\nContains information from Cal
- Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.balboamovi
- es.com/calendar-of-events/Back to the Future-november-15?utm_source=caldis
- covery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261104T012711Z
-TRANSP:TRANSPARENT
-URL:https://www.balboamovies.com/calendar-of-events/Back to the Future-nov
- ember-15?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco
- -ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nick Paumgarten with Chris Jennings - The Intangibles
@@ -5896,9 +5802,9 @@ BEGIN:VEVENT
 SUMMARY:Civic Center Plaza Tree Lighting 2026
 DTSTART;TZID=America/Los_Angeles:20261202T160000
 DTEND;TZID=America/Los_Angeles:20261202T190000
-DTSTAMP:20261110T171200Z
+DTSTAMP:20261116T194027Z
 UID:sfciviccenter-063dac71b46f481e@sf-cal
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Community,Holiday,Kids and Families
 DESCRIPTION:Join us for a festive evening at Civic Center Plaza as we illu
  minate the holiday season! The annual Civic Center Plaza Tree Lighting eve
@@ -5917,10 +5823,12 @@ DESCRIPTION:Join us for a festive evening at Civic Center Plaza as we illu
  m an illuminated City Hall in Civic Center Plaza. Event begins promptly at
   4pm\, with the lighting of Civic Center’s 50-foot noble fir at 5:30pm. 
  Happening rain or shine!\nThose who are not walking to the event are encou
- raged to take BART/Muni or park in the Civic Center Garage.\n\nDetails: ht
- tps://sfciviccenter.org/event/civic-center-plaza-tree-lighting-2026/\nSour
- ce: SF Civic Center
-LAST-MODIFIED:20261110T171200Z
+ raged to take BART/Muni or park in the Civic Center Garage.\n\nThis event 
+ is sponsored by lead sponsors Streetplus and Cordia along with the Civic C
+ enter Community Benefit District\, Plant Construction and San Francisco Pu
+ blic Library.\n\nDetails: https://sfciviccenter.org/event/civic-center-pla
+ za-tree-lighting-2026/\nSource: SF Civic Center
+LAST-MODIFIED:20261116T194027Z
 TRANSP:TRANSPARENT
 URL:https://sfciviccenter.org/event/civic-center-plaza-tree-lighting-2026/
 END:VEVENT
@@ -8702,6 +8610,42 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/japanese-vintage-holiday-mini-popup-market-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF Holiday Maker’s Market at the Museum of the Eye (Dec. 12-13)
+DTSTART;TZID=America/Los_Angeles:20261212T100000
+DTEND;TZID=America/Los_Angeles:20261212T163000
+DTSTAMP:20261116T194027Z
+UID:funcheap-1647447@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:SF Holiday Maker’s Market at the Museum of the Eye (Dec. 12-
+ 13)\nAmerican Academy of Ophthalmology\n\nMark your calendars for the Muse
+ um of the Eye’s December event: the Holiday Maker’s Market!\n\nA weeke
+ nd of local artisans\, hands-on crafts\, and holiday cheer. Shop unique go
+ ods from local makers\, find one-of-a-kind gifts\, and get creative with a
+  variety of crafts featuring eye symbolism in honor of St. Lucy’s Day\, 
+ the patron saint of eyes. More details TBA.\nHoliday Maker’s Market\nSat
+ urday & Sunday\, December 12-13\, 2026 | 10a-4p\nTruhlsen-Marmor Museum of
+  the Eye\, 645 Beach St.\, SF\nFREE Admission – access to all of the mus
+ eum’s permanent galleries & to the educational St. Lucy’s Day crafts\;
+  Items will be purchased form the local artisans directly.\nSee what’s i
+ n store for the event and learn about the vendors at www.aao.org/museum-ev
+ ents.\n\nUpcoming SF Holiday Maker’s Market at the Museum of the Eye (De
+ c. 12-13) Events\nSat 12/12 SF Holiday Maker’s Market at the Museum of t
+ he Eye (Dec. 12-13)Sun 12/13 SF Holiday Maker’s Market at the Museum of 
+ the Eye (Dec. 12-13)Disclaimer: Please double check event information with
+  the event organizer as events can be canceled\, details can change after 
+ they are added to our calendar\, and errors do occur.\n\nFree\n\nTickets: 
+ https://www.aao.org/museum-events\nDetails: https://sf.funcheap.com/sf-hol
+ iday-makers-market-museum-eye-dec-1213/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/ced802
+ a2-f758-4bf2-9def-c0de94c09886.jpg
+LAST-MODIFIED:20261116T194027Z
+LOCATION:Truhlsen-Marmor Museum of the Eye\, 645 Beach St\, San Francisco\
+ , CA 94109
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sf-holiday-makers-market-museum-eye-dec-1213/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:East Bay Open Studios
 DTSTART;TZID=America/Los_Angeles:20261212T110000
 DTEND;TZID=America/Los_Angeles:20261212T170000
@@ -9194,6 +9138,44 @@ LAST-MODIFIED:20261111T063824Z
 LOCATION:The Rotunda Building\, 300 Frank H Ogawa Plaza\, Oakland
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/oakland-coffee-market/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF Holiday Maker’s Market at the Museum of the Eye (Dec. 12-13)
+DTSTART;TZID=America/Los_Angeles:20261213T100000
+DTEND;TZID=America/Los_Angeles:20261213T163000
+DTSTAMP:20261116T194027Z
+UID:funcheap-1647483@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:SF Holiday Maker’s Market at the Museum of the Eye (Dec. 12-
+ 13)\nAmerican Academy of Ophthalmology\n\nMark your calendars for the Muse
+ um of the Eye’s December event: the Holiday Maker’s Market!\n\nA weeke
+ nd of local artisans\, hands-on crafts\, and holiday cheer. Shop unique go
+ ods from local makers\, find one-of-a-kind gifts\, and get creative with a
+  variety of crafts featuring eye symbolism in honor of St. Lucy’s Day\, 
+ the patron saint of eyes. More details TBA.\nHoliday Maker’s Market\nSat
+ urday & Sunday\, December 12-13\, 2026 | 10a-4p\nTruhlsen-Marmor Museum of
+  the Eye\, 645 Beach St.\, SF\nFREE Admission – access to all of the mus
+ eum’s permanent galleries & to the educational St. Lucy’s Day crafts\;
+  Items will be purchased form the local artisans directly.\nSee what’s i
+ n store for the event and learn about the vendors at www.aao.org/museum-ev
+ ents.\n\nUpcoming SF Holiday Maker’s Market at the Museum of the Eye (De
+ c. 12-13) Events\nSat 12/12 SF Holiday Maker’s Market at the Museum of t
+ he Eye (Dec. 12-13)Sun 12/13 SF Holiday Maker’s Market at the Museum of 
+ the Eye (Dec. 12-13)Disclaimer: Please double check event information with
+  the event organizer as events can be canceled\, details can change after 
+ they are added to our calendar\, and errors do occur.\n\nFree\n\nTickets: 
+ https://www.aao.org/museum-events\nDetails: https://sf.funcheap.com/sf-hol
+ iday-makers-market-at-the-museum-of-the-eye-dec-12-13/\nSource: Funcheap S
+ F
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/ced802
+ a2-f758-4bf2-9def-c0de94c09886.jpg
+LAST-MODIFIED:20261116T194027Z
+LOCATION:Truhlsen-Marmor Museum of the Eye\, 645 Beach St\, San Francisco\
+ , CA 94109
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/sf-holiday-makers-market-at-the-museum-of-the-
+ eye-dec-12-13/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:East Bay Open Studios
