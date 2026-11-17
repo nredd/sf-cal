@@ -40,25 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Quadeca
-DTSTART;TZID=America/Los_Angeles:20261109T200000
-DTEND;TZID=America/Los_Angeles:20261109T220000
-DTSTAMP:20261110T072652Z
-UID:dothebay-17645492@sf-cal
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:Life 1 Tour\nQuadeca\nwith DERBY + Olēka\n\nMonday\, November
-  9 | The Fillmore\n\nLife 1 Tour\n\nDetails: https://dothebay.com/events/2
- 026/11/9/quadeca-tickets\nSource: DoTheBay
-GEO:37.7840042;-122.4331332
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33493379/78fa41bb-9ef6-4861-9d0a-49177f70b90e.png
-LAST-MODIFIED:20261110T072652Z
-LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/9/quadeca-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Teddy Swims
 DTSTART;TZID=America/Los_Angeles:20261110T190000
 DTEND;TZID=America/Los_Angeles:20261110T210000
