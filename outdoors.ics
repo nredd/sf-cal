@@ -40,26 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Golden State Warriors vs. New Orleans Pelicans
-DTSTART;TZID=America/Los_Angeles:20261109T190000
-DTEND;TZID=America/Los_Angeles:20261109T210000
-DTSTAMP:20261110T072652Z
-UID:dothebay-17728016@sf-cal
-SEQUENCE:1
-CATEGORIES:Sports
-DESCRIPTION:Golden State Warriors vs. New Orleans Pelicans\n\nDetails: htt
- ps://dothebay.com/events/2026/11/9/golden-state-warriors-vs-new-orleans-pe
- licans-tickets\nSource: DoTheBay
-GEO:37.7688295;-122.3894164
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33883580/39cde144-e546-4c73-9e5a-aeedf8023e66.png
-LAST-MODIFIED:20261110T072652Z
-LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/9/golden-state-warriors-vs-new-orl
- eans-pelicans-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261111T090000
 DTEND;TZID=America/Los_Angeles:20261111T100000
