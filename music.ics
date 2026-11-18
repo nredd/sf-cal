@@ -2405,23 +2405,6 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/17/techno-tuesday-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Golden Gate Bandshell: Singer/Songwriter Wednesday
-DTSTART;TZID=America/Los_Angeles:20261118T160000
-DTEND;TZID=America/Los_Angeles:20261118T190000
-DTSTAMP:20261103T193658Z
-UID:sfrecpark-bandshell-5caf1e090190283e@sf-cal
-SEQUENCE:0
-DESCRIPTION:Come out to the Golden Gate Bandshell on Wedesday\, November 1
- 8 for Singer/Songwriter Wednesday from 4 pm to 7 pm https://sfrecpark.org/
- calendar.aspx?EID=10844\n\nDetails: /common/modules/iCalendar/iCalendar.as
- px?feed=calendar&catID=35\nSource: SF Rec & Park
-LAST-MODIFIED:20261103T193658Z
-LOCATION:Golden Gate Bandshell - Music Concourse Drive San Francisco CA 94
- 118
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Icona Pop
 DTSTART;TZID=America/Los_Angeles:20261118T183000
 DTEND;TZID=America/Los_Angeles:20261118T203000
@@ -6906,6 +6889,40 @@ LOCATION:Kilowatt\, 3160 16th St\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/13/briget-boyle-chaos-fiction-and-
  desoto-reds-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Box Shop’s Holidaze Market & Light Up The Night Party
+DTSTART;TZID=America/Los_Angeles:20261213T160000
+DTEND;TZID=America/Los_Angeles:20261213T220000
+DTSTAMP:20261118T010020Z
+UID:funcheap-1646977@sf-cal
+SEQUENCE:0
+CATEGORIES:Live Music Event
+DESCRIPTION:public domaint’s your last chance to party at The Box Shop i
+ n 2026 — and get some holiday shopping done with our artists and builder
+ s!\nExpect music\, festive lights from Entwined\, a poofing Fire Garden\, 
+ exploring\, dancing and celebrating another big year with our community.\n
+ ​This event is FREE with RSVP – invite your friends!\nEnd of year 501(
+ c)3 donations gratefully accepted 🙂\nInterested in vending? Apply Here:
+  Open Google Form\n\nDJ RON ISON (COSMIC MOJAVE RADIO) brings the tunes.\n
+ We’re seeking a couple bands – inquire within!\n​——————
+ ————————————\n4PM to 6PM: Family-friendly browsing
+  and art safari!\nGet busy at our Art Table\, led by artist Hallie McConlo
+ gue.\nMaking Custom Holiday Decorations: there will be ribbons\, plastic c
+ rystals\, glue guns\, stick-on gems\, and a small spray paint booth to tur
+ n old toys into cool ornaments and decor to take home!\n​Look out for a 
+ live Blacksmithing Demo by Maxon Zorro\, also bringing original jewelry.\n
+ 6PM to 10PM: Dancing\, shopping & hanging out inside and outside the shop 
+ and our roof decks & balconies for all the views…\n\nFree\n\nTickets: ht
+ tps://luma.com/kygbsxgx\nDetails: https://sf.funcheap.com/box-shops-holida
+ ze-market-light-night-party-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Holida
+ ze-RSVP-Code.png
+LAST-MODIFIED:20261118T010020Z
+LOCATION:The Box Shop\, 951 Hudson Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/box-shops-holidaze-market-light-night-party-sf
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yaelokre

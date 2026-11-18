@@ -40,29 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Protect Your Content - Copyright Basics for Entrepreneurs
-DTSTART;TZID=America/Los_Angeles:20261110T130000
-DTEND;TZID=America/Los_Angeles:20261110T150000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17850675@sf-cal
-SEQUENCE:0
-CATEGORIES:LGBTQ
-DESCRIPTION:Learn the basics of copyright and how it applies to your small
-  business\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.e
- ventbrite.com%2Fe%2Fprotect-your-content-copyright-basics-for-entrepreneur
- s-tickets-2001021355741\nDetails: https://dothebay.com/events/2026/11/10/p
- rotect-your-content-copyright-basics-for-entrepreneurs-tickets\nSource: Do
- TheBay
-GEO:37.7716881;-122.4240297
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34459090/867f556f-583e-4702-8cb9-15f3655acbbc.png
-LAST-MODIFIED:20261006T003107Z
-LOCATION:SF LGBT Center\, 1800 Market St\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/10/protect-your-content-copyright-
- basics-for-entrepreneurs-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)
 DTSTART;TZID=America/Los_Angeles:20261110T193000
 DTEND;TZID=America/Los_Angeles:20261110T220000
@@ -1561,6 +1538,31 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$5 Global Underground Day Party w/ Dancehall + Hip-Hop
+DTSTART;TZID=America/Los_Angeles:20261121T150000
+DTEND;TZID=America/Los_Angeles:20261121T200000
+DTSTAMP:20261118T010020Z
+UID:funcheap-1647011@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:Submitted by the Event OrganizerGabriel Escobedoat nov 21\n@cl
+ b_intrncnl debuts its first day party at our fav spot @elriosf with our la
+ test dj debut the lovely + talented @djbbcora joining c_i vets @profesito 
+ + @louielser\n\nplaying you the latest and greatest in reggaeton\, neoperr
+ eo\, cumbia\, dancehall\, brrga funk\, hip-hop and more\n\nsat nov 21\n3-8
+ pm\n$5 cash at the door\n\nmusic without borders\nglobal. underground. ele
+ ctronic.\n\n$5.00\n\nTickets: https://www.instagram.com/clb_intrncnl/?hl=e
+ n\nDetails: https://sf.funcheap.com/5-global-underground-day-party-danceha
+ ll-hiphop-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Screen
+ shot-2026-11-11-110513.png
+LAST-MODIFIED:20261118T010020Z
+LOCATION:El Rio\, 3158 Mission St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/5-global-underground-day-party-dancehall-hipho
+ p-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Castro on Fire”: A Queer Resistance Walking Tour by Unspeakab
  le Vice
 DTSTART;TZID=America/Los_Angeles:20261121T163000
@@ -2021,6 +2023,30 @@ LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-74
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SpudsGiving 2: Thanksgiving Eve Free Baked Potato Bar + Vinyl DJs
+DTSTART;TZID=America/Los_Angeles:20261125T200000
+DTEND;TZID=America/Los_Angeles:20261125T235900
+DTSTAMP:20261118T010020Z
+UID:funcheap-1647054@sf-cal
+SEQUENCE:0
+CATEGORIES:Club Dj
+DESCRIPTION:@rodanspeedwagonThe night before Thanksgiving Wednesday 11/25 
+ SpudsGiving is back at St. Mary’s Pub. Vinyl DJs spin Hip Hop / Rap & 80
+ s 90s 00s favorites while serving up a FREE* fully loaded and operational 
+ baked potato bar (*FREE Pay What You Want / Donations) 21+ SpudsGiving 2: 
+ Mashment Day\n\nFree\n\nTickets: https://www.facebook.com/events/150804137
+ 2383964/?active_tab=discussion\nDetails: https://sf.funcheap.com/spudsgivi
+ ng-2-thanksgiving-eve-free-baked-potato-bar-vinyl-djs-sf/\nSource: Funchea
+ p SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/downlo
+ ad.png
+LAST-MODIFIED:20261118T010020Z
+LOCATION:St Mary’s Pub\, 3845 Mission St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/spudsgiving-2-thanksgiving-eve-free-baked-pota
+ to-bar-vinyl-djs-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Play X Land

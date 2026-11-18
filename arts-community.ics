@@ -3982,6 +3982,28 @@ URL:https://dothebay.com/events/2026/11/21/secondhand-saturdays-season-fin
  ale-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“100 People Do Nothing for 3 Hours” Party at Art Gallery
+DTSTART;TZID=America/Los_Angeles:20261121T100000
+DTEND;TZID=America/Los_Angeles:20261121T130000
+DTSTAMP:20261118T010020Z
+UID:funcheap-1646980@sf-cal
+SEQUENCE:0
+CATEGORIES:Art Museums
+DESCRIPTION:Alexander ChislerCome and do nothing for 3 hours with 100 peop
+ le in San Francisco. No phones\, books or talking. Moving\, sleeping\, wat
+ er and toilet breaks are all fine. Bring a pillow\, blanket and a yoga mat
+  if you have one. Free\, with registration. We plan to film at the event. 
+ Details and sign-up: https://luma.com/7huwyy7j\n\nFree\n\nTickets: https:/
+ /luma.com/7huwyy7j\nDetails: https://sf.funcheap.com/100-people-3-hours-pa
+ rty-art-gallery-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/london
+ -event-captioned-v4.jpg
+LAST-MODIFIED:20261118T010020Z
+LOCATION:Heron Arts\, 7 Heron St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/100-people-3-hours-party-art-gallery-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ann M. Evans and Georgeanne Brennan\, Market Memories Cookbook
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T130000
@@ -6816,6 +6838,36 @@ URL:https://sf.funcheap.com/healthy-parks-healthy-people-monthly-nature-wa
  lks-bay-area-119/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Italian Christmas Market “Mercatino di Natale” at Fort Mason
+DTSTART;TZID=America/Los_Angeles:20261205T100000
+DTEND;TZID=America/Los_Angeles:20261205T180000
+DTSTAMP:20261118T010020Z
+UID:funcheap-1645006@sf-cal
+SEQUENCE:0
+DESCRIPTION:Museo Italo Americano\n\nThe magic of the holidays is coming b
+ ack to the Museo with the Mercatino di Natale 2026\nGet ready for a weeken
+ d filled with Italian traditions\, unique gifts\, delicious treats\, and p
+ lenty of holiday cheer.\n– Discover Italian and Italian American vendors
+ \n– Shop handmade gifts and artisanal creations\n– Indulge in seasonal
+  treats\n– Soak up the warm spirit of an Italian Christmas\n\nWhether yo
+ u are looking for the perfect gift\, a taste of Italy\, or simply a festiv
+ e way to kick off the holiday season\, Mercatino is the place to be!\nMark
+  your calendar and stay tuned for more details!\nLet’s make Mercatino di
+  Natale 2026 a holiday tradition to remember.\nThis event is FREE\nDecembe
+ r 5 10:00 am – 6:00 pm\nDecember 6 10:00 am – 5:00 pm\n\nFree\n\nTicke
+ ts: https://sfmuseo.org/event/mercatino2026/\nDetails: https://sf.funcheap
+ .com/italian-christmas-market-mercatino-di-natale-fort-mason-sf/\nSource: 
+ Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Mercat
+ ino-2026.jpg
+LAST-MODIFIED:20261118T010020Z
+LOCATION:Museo Italo Americano\, Fort Mason Center\, Building C\, San Fran
+ cisco\, CA 94123
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/italian-christmas-market-mercatino-di-natale-f
+ ort-mason-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:District 10 Bayview Family Summit
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T130000
@@ -8694,9 +8746,9 @@ BEGIN:VEVENT
 SUMMARY:Pop-Ups on the Plaza: Black Holiday Market
 DTSTART;TZID=America/Los_Angeles:20261212T090000
 DTEND;TZID=America/Los_Angeles:20261212T110000
-DTSTAMP:20261106T192930Z
+DTSTAMP:20261118T010020Z
 UID:dothebay-18016554@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Shopping
 DESCRIPTION:Foodwise Presents\nPop-Ups on the Plaza: Black Holiday Market\
  n\nSaturday\, December 12 (9am-2pm) | Ferry Plaza Farmers Market\n\nCelebr
@@ -8722,10 +8774,11 @@ DESCRIPTION:Foodwise Presents\nPop-Ups on the Plaza: Black Holiday Market\
  nFree\nFoodwise Presents\n\nTickets: https://foodwise.org/events/pop-ups-o
  n-the-plaza-black-holiday-market/\nDetails: https://dothebay.com/events/20
  26/12/12/pop-ups-on-the-plaza-black-holiday-market-tickets\nSource: DoTheB
- ay
+ ay\n\nAlso listed on:\n- https://sf.funcheap.com/popups-plaza-black-holida
+ y-market-ferry-plaza/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35359374/be16c89b-fa40-4eb8-9c52-fa54320705ef.jpg
-LAST-MODIFIED:20261106T192930Z
+LAST-MODIFIED:20261118T010020Z
 LOCATION:Ferry Plaza Farmers Market\, 1 Ferry Building\, San Francisco\, C
  A\, 94111
 TRANSP:TRANSPARENT
@@ -8736,9 +8789,9 @@ BEGIN:VEVENT
 SUMMARY:Pop-Ups on the Plaza: Black Holiday Market
 DTSTART;TZID=America/Los_Angeles:20261212T090000
 DTEND;TZID=America/Los_Angeles:20261212T110000
-DTSTAMP:20261109T222818Z
+DTSTAMP:20261118T010020Z
 UID:dothebay-18052928@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Shopping
 DESCRIPTION:Saturday\, December 12\, 2026\, 9:00 am - 2:00 pm\n\nCelebrate
   local Black-owned businesses and get ready for the holiday season with a 
@@ -8759,10 +8812,11 @@ DESCRIPTION:Saturday\, December 12\, 2026\, 9:00 am - 2:00 pm\n\nCelebrate
   immigrant\, and limited-resource entrepreneurs across the Bay Area.\n\nTi
  ckets: https://foodwise.org/events/pop-ups-on-the-plaza-black-holiday-mark
  et/\nDetails: https://dothebay.com/events/2026/12/12/pop-ups-on-the-plaza-
- black-holiday-market-tickets-kex5od8\nSource: DoTheBay
+ black-holiday-market-tickets-kex5od8\nSource: DoTheBay\n\nAlso listed on:\
+ n- https://sf.funcheap.com/popups-plaza-black-holiday-market-ferry-plaza/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35373133/a23f025d-bc29-417d-8d4b-3f4e4479cece.png
-LAST-MODIFIED:20261109T222818Z
+LAST-MODIFIED:20261118T010020Z
 LOCATION:Ferry Plaza
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/12/pop-ups-on-the-plaza-black-holi
@@ -9286,6 +9340,33 @@ LOCATION:San Francisco’s Financial District\, Market at Sutter Street\,
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/lets-glow-sf-2026-sfs-huge-holiday-projection-
  arts-festival-dec-4-13-8/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Church of Mother Gong’s Holiday Party + Mushroom Bash
+DTSTART;TZID=America/Los_Angeles:20261212T180000
+DTEND;TZID=America/Los_Angeles:20261212T220000
+DTSTAMP:20261118T010020Z
+UID:funcheap-1647057@sf-cal
+SEQUENCE:0
+CATEGORIES:Community
+DESCRIPTION:Church of Mother GongJoin Decriminalize Nature\, Oakland Hypha
+ e\, Rooted Ethos\, Psychedelic States of America\, Psychedelic Writers Gui
+ ld\, and Church of Mother Gong for a fun and festive in-person get-togethe
+ r in North Beach! It’s the perfect chance to catch up with friends and e
+ njoy some holiday cheer.\nWe’ll be hosting an Albino Mushroom Gift Givea
+ way: If you want to participate\, please bring a wrapped gift to give away
+  to a random person (think White Elephant).\nEnjoy some refreshments and s
+ nacks\, and bring something to share if you wish!\n\nMix\, mingle and be m
+ erry!\n\n$5.00\n\nTickets: https://www.eventbrite.com/e/holiday-gathering-
+ in-north-beach-tickets-2004460131211\nDetails: https://sf.funcheap.com/chu
+ rch-mother-gongs-holiday-party-mushroom-bash-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Staine
+ d-Glass-Holiday-Party-Poster.png
+LAST-MODIFIED:20261118T010020Z
+LOCATION:Live Worms Gallery\, 1345 Grant Ave\, San Francisco\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/church-mother-gongs-holiday-party-mushroom-bas
+ h-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AHITH FEST 2026: Frankenstein (W/ Live Score by Sleepbomb) ~ 6:45 
