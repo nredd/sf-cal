@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-17T16:11:06.391159Z",
+ "last_full_refresh": "2026-11-18T20:38:51.839045Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -2096,6 +2096,33 @@
   },
   {
    "source": "caldiscovery-comedy",
+   "source_id": "f3c824df02bb07a0",
+   "title": "Cobb's Comedy Showcase",
+   "start": "2026-12-23T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/cobbs-comedy-showcase-san-francisco-california-12-23-2026/event/1C006571032E875A?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by Cobb's Comedy Club",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
    "source_id": "1d0a7571f47ce97c",
    "title": "Rex Navarrete - 13+ with Parental Supervision",
    "start": "2026-12-26T19:00:00-08:00",
@@ -2335,60 +2362,6 @@
    ],
    "notes": [
     "Published by Punch Line Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "fffb77908439bb77",
-   "title": "Comedy Countdown",
-   "start": "2026-12-31T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Cobb's Comedy Club",
-   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/comedy-countdown-san-francisco-california-12-31-2026/event/1C00655412469029?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Cobb's Comedy Club",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "d5baf5dc82ca32a5",
-   "title": "Jeremiah Watkins",
-   "start": "2027-01-01T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Cobb's Comedy Club",
-   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/jeremiah-watkins-san-francisco-california-01-01-2027/event/1C0065044CC3C81B?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Cobb's Comedy Club",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -4702,60 +4675,6 @@
    "description": "Stomach Cancer Awareness Day",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "13062885",
-   "title": "Veterans’ Day",
-   "start": "2026-11-11T09:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Marin Center",
-   "address": "10 Avenue of the Flags, San Rafael, CA, 94903",
-   "locality": "San Rafael",
-   "geo": [
-    38.002416,
-    -122.5334235
-   ],
-   "url": "https://dothebay.com/events/2026/11/11/veterans-day-tickets",
-   "ticket_url": null,
-   "price_text": "Free",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Honor those who have served our country. Marin’s Veterans’ Day program will begin in the Marin Veterans’ Memorial Auditorium with music, military exercises and a brief address. It will continue in front of the World War I, World War II and Korean, Vietnam and Merchant Marine Memorials on the Avenue of the Flags. Refreshments will be served after the ceremony in the Redwood Foyer.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/11098868/9140b784-c629-4f3a-bfec-e175be3ea0ab.png",
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18016137",
-   "title": "USS Hornet Veterans Day 2026",
-   "start": "2026-11-11T10:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "USS Hornet - Sea, Air and Space Museum",
-   "address": "707 W Hornet Ave Pier 3, Alameda, CA, 94501",
-   "locality": "Alameda",
-   "geo": [
-    37.7726482,
-    -122.3025322
-   ],
-   "url": "https://dothebay.com/events/2026/11/11/uss-hornet-veterans-day-2026-tickets",
-   "ticket_url": "https://uss-hornet.org/tickets/",
-   "price_text": "Museum Admittance:  Adults $25, Seniors, Students $18,",
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "Experiences"
-   ],
    "notes": []
   },
   {
@@ -44099,30 +44018,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1638818",
-   "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
-   "start": "2026-11-11T09:00:00-08:00",
-   "end": "2026-11-11T10:00:00-08:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Japanese Tea Garden",
-   "address": "75 Hagiwara Tea Garden Dr, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-453/",
-   "ticket_url": "https://www.japaneseteagardensf.com/vist",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)\nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from around the world with an opportunity to experience the natural beauty, tranquility, and harmony of a Japanese-style garden in the heart of San Francisco’s Golden Gate Park.\nOriginally created as a “Japanese Village” exhibit for the 1894 California Midwinter International Exposition, the Japanese Tea Garden endures as one of the most popular attractions in San Francisco, featuring classic elements such as an arched drum bridge, pagodas, stone lanterns, stepping stone paths, native Japanese plants, serene koi ponds, and a zen garden. Cherry blossom trees bloom throughout the garden in March and April.\nAdmission to the Japanese Tea Garden is free for San Francisco residents with valid ID. Free hours for everyone (even non-residents) are 9-10 am every Monday, Wednesday and Friday.\n\nPlease note that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiwara Tea Garden, Golden Gate Park, SF\nFREE for San Francisco Residents w/ ID\nFREE for Everyone from 9-10 am on Mondays, Wednesdays and Fridays\nNon Resident Fees\nAdults: Tickets start at $16 (depends on season)\nSeniors (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildren (under 5) FREE\nOpen Daily at 9am-Last Entry\nLast entry is 30 minutes before closing. Last entry changes seasonally.\nSpring – Summer Last Entry\nMarch – October: 5:30pm\nFall – Winter Last Entry\nNovember – February:...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/07/japaneseteagarden-scaled-e1595352236641.jpeg",
-   "categories": [
-    "Outdoors"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1640467",
    "title": "Beaver Bauer’s 50-Year Show of Art + Theater Costumes (SF Main Libary)",
    "start": "2026-11-11T09:00:00-08:00",
@@ -49836,6 +49731,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Holiday-Cheese-Board-Workshop-400-x-580-px.png",
    "categories": [
     "Eating Drinking"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647998",
+   "title": "“Third Thursdays on Treat” Night Market",
+   "start": "2026-11-19T17:00:00-08:00",
+   "end": "2026-11-19T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Treat Cut",
+   "address": "957 Treat Ave, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/thursdays-on-treat-nighht-market/",
+   "ticket_url": "https://www.monkeybrains.net/third-thursdays/?source=funcheap",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Monkeybrains“Third Thursdays on Treat” next Night Market, Thursday, November 19th.\nThird Thursdays on Treat\nThursday, November 19, 2026 | 5p – 9p\n957 Treat Ave., SF – maps\nFREE | RSVP for $1 off drinks\nLocal Vendors\nShop an eclectic lineup of local makers, artists, and small businesses offering candles, clothing, art, consumable goods, and plenty of unexpected finds.\nLive Music\nCatch DJ sets and live performances from local musical artists representing a wide array of genres, styles, and backgrounds throughout the night.\nFood & Drink\nCome hungry for delicious eats from our featured food truck, plus beer, wine, and a specialty cocktail inspired by each month’s event theme.\nThird Thursdays Night Market is an independent, not-for-profit community event funded and organized by Monkeybrains ISP and Claro SF to bring art, music, and joy to the Mission District.\n\nView this post on Instagram\n\nA post shared by Third Thursdays On Treat (@thirdthursdays_treat)",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/poster.png",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -60208,7 +60127,7 @@
   {
    "source": "funcheap",
    "source_id": "1646592",
-   "title": "Oakland Coffee Market w/ Tasting from World-Class Brands (2026)",
+   "title": "Oakland Coffee Market w/ Coffee & Gifts from World-Class Brands (2026)",
    "start": "2026-12-13T10:00:00-08:00",
    "end": "2026-12-13T16:00:00-08:00",
    "all_day": false,
@@ -60219,10 +60138,10 @@
    "geo": null,
    "url": "https://sf.funcheap.com/oakland-coffee-market/",
    "ticket_url": "https://www.oaklandcoffeemarket.com/",
-   "price_text": "$10.21",
+   "price_text": "$8.64",
    "is_free": false,
    "sold_out": false,
-   "description": "Oakland Coffee marketEnjoy and purchase coffee and coffee gear for yourself and the coffee lovers on your list from Oakland’s World-Class coffee companies!\nBring your wallet and holiday gift list! Shop coffee beans, gear, and holiday gifts, sample delicious coffee, grab a drink, and meet the people behind 12 of Oakland’s hottest coffee brands, along with other local craft vendors.\n\nOakland Coffee Market\nSunday, December 13, 2026 | 10a-4p\nThe Rotunda Bldg, 300 Frank H Ogawa Plaza, Oakland\nGet Tickets – Starts at $10.21 Half Day Tix (fees included) – Save 15% w/ code FUNCHEAP\n\nGet exclusive discounted tickets w/ promo code FUNCHEAP\n\n$10 half day ticket w/ fees comes out to $10.21\n\n$15 all day ticket w/ fees comes out to $14.68\n\nWHAT TO EXPECT:\n\nEach ticket includes a $5 or $10 voucher* you can redeem at any vendor during the market!\nCheck off the coffee lovers on your holiday shopping list.\nPurchase prepared drinks from our featured coffee vendors.\nSample coffee and purchase beans from Oakland coffee companies.\nExplore and demo coffee brew gear before you buy.\nVisit and shop at local arts & crafts vendors.\nImproved event layout and queuing! Limited tickets available.\n\nWe expect this event to sell out! Purchase tickets online to access early bird pricing. Remaining tickets will be sold at the door, if available.\nThanks to our Presenting Sponsors for helping make amazing events happen in Downtown Oakland: Savor Oakland, Uptown/Downtown Community Benefit District & Rubicon Point P...",
+   "description": "Oakland Coffee marketEnjoy and purchase coffee and coffee gear for yourself and the coffee lovers on your list from Oakland’s World-Class coffee companies!\nBring your wallet and holiday gift list! Shop coffee beans, gear, and holiday gifts, sample delicious coffee, grab a drink, and meet the people behind 12 of Oakland’s hottest coffee brands, along with other local craft vendors.\n\nOakland Coffee Market\nSunday, December 13, 2026 | 10a-4p\nThe Rotunda Bldg, 300 Frank H Ogawa Plaza, Oakland\nGet Tickets – Starts at $8.64 $11.79 Half Day Tix (fees included) – Save 30% w/ code FUNCHEAP\nGet exclusive discounted GA tickets w/ promo code FUNCHEAP\n\n$11.79 half day ticket w/ fees comes out to $8.64 (includes $5 voucher)\n\n$17.04 all day ticket w/ fees comes out to $12.31 (includes $5 voucher)\n\nAlso available VIP Early Admission tickets and Coffee Tasting Workshops + VIP Early Admission (includes $10 voucher)\nWHAT TO EXPECT:\n\nEach ticket includes a $5 or $10 voucher* you can redeem at any vendor during the market!\nCheck off the coffee lovers on your holiday shopping list.\nPurchase prepared drinks from our featured coffee vendors.\nSample coffee and purchase beans from Oakland coffee companies.\nExplore and demo coffee brew gear before you buy.\nVisit and shop at local arts & crafts vendors.\nImproved event layout and queuing!\n\nWe expect this event to sell out! Purchase tickets online to access early bird pricing. Remaining tickets will be sold at the door, if available.\nThanks to our Presenti...",
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/OaklandCoffeeMarket2025-BinibiniKreative-41.webp",
    "categories": [
     "Community"
@@ -61167,6 +61086,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1647989",
+   "title": "“Elf” Live in Concert with SF Symphony (Dec. 18-20)",
+   "start": "2026-12-18T19:30:00-08:00",
+   "end": "2026-12-18T22:30:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Davies Symphony Hall",
+   "address": "201 Van Ness Ave, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/elf-live-in-concert-with-sf-symphony-dec-18-20/",
+   "ticket_url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf?utm_source=funcheap&amp;utm_medium=mobile_notification&amp;utm_campaign=elf",
+   "price_text": "$49.50",
+   "is_free": false,
+   "sold_out": false,
+   "description": "“Elf” Live in Concert with SF Symphony (Dec. 18-20)\nSF Symphony\nExperience your favorite Christmas film transformed with the music of a live symphony orchestra in Elf™ in Concert! Audiences can rediscover the magic of this holiday classic as the film’s composer, John Debney, conducts the San Francisco Symphony in his wonderful score while Santa Claus soars across the big screen in high definition. Rated PG.\nElf in Concert\nFriday – Sunday, December 18-20, 2026\nDavies Symphony Hall, 201 Van Ness Ave., SF\nTickets – Starts at $49.5 (while supplies last)\nKids’ Tickets Half Off!\nFull Schedule:\n\nFriday, December 18, 2026 – 7:30pm\nSaturday, December 19, 2026 – 2:00pm\nSunday, December 20, 2026 – 2:00pm\n\nStrict 8 ticket limit. Purchases or accounts over the limit are subject to cancellation. Tickets will be delivered approximately 1 week before the program: e-Tickets will be available in your account 7 days before the concert. Printed tickets will be delivered via mail.\nConcert Extras\nThroughout December, stroll through the winter wonderland of a decked-out Davies Symphony Hall, filled with giant lit trees, wreaths, and garlands. While you’re here, sip a gingerbread old-fashioned, toast with sparkling wine, enjoy holiday desserts, and swing by the hot-chocolate cart all month long.\nArtists\n\nJohn Debney – Conductor\nSan Francisco Symphony\n\nFilm\n\nJohn Debney – Composer\nJon Favreau – Director\n\nView this post on Instagram\n\nA post shared by San Francisco Symphony (@sfsymphony)\n\nUpcoming “Elf...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/352250-26_Dig_FunCheap_Elf-Mockup_1200x1200-1.jpg",
+   "categories": [
+    "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645396",
    "title": "“The Stoner Comedy Jam” Friday Nights",
    "start": "2026-12-18T20:00:00-08:00",
@@ -61328,6 +61271,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Ocean-Avenue-Winter-Wonderland-Picsart-AiImageEnhancer.png",
    "categories": [
     "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647991",
+   "title": "“Elf” Live in Concert with SF Symphony (Dec. 18-20)",
+   "start": "2026-12-19T14:00:00-08:00",
+   "end": "2026-12-19T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Davies Symphony Hall",
+   "address": "201 Van Ness Ave, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/elf-live-in-concert-with-sf-symphony-dec-18-20-2/",
+   "ticket_url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf?utm_source=funcheap&amp;utm_medium=mobile_notification&amp;utm_campaign=elf",
+   "price_text": "$54.50",
+   "is_free": false,
+   "sold_out": false,
+   "description": "“Elf” Live in Concert with SF Symphony (Dec. 18-20)\nSF Symphony\nExperience your favorite Christmas film transformed with the music of a live symphony orchestra in Elf™ in Concert! Audiences can rediscover the magic of this holiday classic as the film’s composer, John Debney, conducts the San Francisco Symphony in his wonderful score while Santa Claus soars across the big screen in high definition. Rated PG.\nElf in Concert\nFriday – Sunday, December 18-20, 2026\nDavies Symphony Hall, 201 Van Ness Ave., SF\nTickets – Starts at $49.5 (while supplies last)\nKids’ Tickets Half Off!\nFull Schedule:\n\nFriday, December 18, 2026 – 7:30pm\nSaturday, December 19, 2026 – 2:00pm\nSunday, December 20, 2026 – 2:00pm\n\nStrict 8 ticket limit. Purchases or accounts over the limit are subject to cancellation. Tickets will be delivered approximately 1 week before the program: e-Tickets will be available in your account 7 days before the concert. Printed tickets will be delivered via mail.\nConcert Extras\nThroughout December, stroll through the winter wonderland of a decked-out Davies Symphony Hall, filled with giant lit trees, wreaths, and garlands. While you’re here, sip a gingerbread old-fashioned, toast with sparkling wine, enjoy holiday desserts, and swing by the hot-chocolate cart all month long.\nArtists\n\nJohn Debney – Conductor\nSan Francisco Symphony\n\nFilm\n\nJohn Debney – Composer\nJon Favreau – Director\n\nView this post on Instagram\n\nA post shared by San Francisco Symphony (@sfsymphony)\n\nUpcoming “Elf...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/352250-26_Dig_FunCheap_Elf-Mockup_1200x1200-1.jpg",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -61664,6 +61631,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
    "categories": [
     "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1647992",
+   "title": "“Elf” Live in Concert with SF Symphony (Dec. 18-20)",
+   "start": "2026-12-20T14:00:00-08:00",
+   "end": "2026-12-20T17:00:00-08:00",
+   "all_day": false,
+   "bucket": "music",
+   "venue": "Davies Symphony Hall",
+   "address": "201 Van Ness Ave, San Francisco, CA 94102",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/elf-live-in-concert-with-sf-symphony-dec-18-20-3/",
+   "ticket_url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf?utm_source=funcheap&amp;utm_medium=mobile_notification&amp;utm_campaign=elf",
+   "price_text": "$54.50",
+   "is_free": false,
+   "sold_out": false,
+   "description": "“Elf” Live in Concert with SF Symphony (Dec. 18-20)\nSF Symphony\nExperience your favorite Christmas film transformed with the music of a live symphony orchestra in Elf™ in Concert! Audiences can rediscover the magic of this holiday classic as the film’s composer, John Debney, conducts the San Francisco Symphony in his wonderful score while Santa Claus soars across the big screen in high definition. Rated PG.\nElf in Concert\nFriday – Sunday, December 18-20, 2026\nDavies Symphony Hall, 201 Van Ness Ave., SF\nTickets – Starts at $49.5 (while supplies last)\nKids’ Tickets Half Off!\nFull Schedule:\n\nFriday, December 18, 2026 – 7:30pm\nSaturday, December 19, 2026 – 2:00pm\nSunday, December 20, 2026 – 2:00pm\n\nStrict 8 ticket limit. Purchases or accounts over the limit are subject to cancellation. Tickets will be delivered approximately 1 week before the program: e-Tickets will be available in your account 7 days before the concert. Printed tickets will be delivered via mail.\nConcert Extras\nThroughout December, stroll through the winter wonderland of a decked-out Davies Symphony Hall, filled with giant lit trees, wreaths, and garlands. While you’re here, sip a gingerbread old-fashioned, toast with sparkling wine, enjoy holiday desserts, and swing by the hot-chocolate cart all month long.\nArtists\n\nJohn Debney – Conductor\nSan Francisco Symphony\n\nFilm\n\nJohn Debney – Composer\nJon Favreau – Director\n\nView this post on Instagram\n\nA post shared by San Francisco Symphony (@sfsymphony)\n\nUpcoming “Elf...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/352250-26_Dig_FunCheap_Elf-Mockup_1200x1200-1.jpg",
+   "categories": [
+    "Live Music Event"
    ],
    "notes": []
   },
@@ -68517,7 +68508,6 @@
     "1640657": "2026-10-07T15:53:11",
     "1640663": "2026-10-07T00:22:05",
     "1640665": "2026-10-07T00:27:01",
-    "1640668": "2026-10-04T19:58:28",
     "1640674": "2026-10-07T00:26:36",
     "1640679": "2026-10-17T18:32:19",
     "1640685": "2026-10-07T00:25:31",
@@ -68539,14 +68529,8 @@
     "1640748": "2026-10-07T15:52:23",
     "1640751": "2026-10-21T23:18:13",
     "1640754": "2026-10-17T18:35:15",
-    "1640788": "2026-10-04T19:19:21",
-    "1640791": "2026-10-04T19:25:11",
     "1640793": "2026-10-17T18:25:55",
-    "1640798": "2026-10-04T19:29:19",
     "1640800": "2026-10-06T17:16:06",
-    "1640804": "2026-10-05T17:10:59",
-    "1640815": "2026-10-04T19:49:41",
-    "1640817": "2026-10-04T19:50:15",
     "1640823": "2026-10-06T17:16:52",
     "1640826": "2026-10-14T16:29:41",
     "1640829": "2026-10-06T17:15:46",
@@ -68558,8 +68542,6 @@
     "1640852": "2026-10-18T17:55:14",
     "1640855": "2026-10-17T18:31:19",
     "1640858": "2026-10-07T00:32:18",
-    "1640861": "2026-10-05T01:15:13",
-    "1640863": "2026-10-05T01:15:16",
     "1640865": "2026-11-18T01:26:36",
     "1640871": "2026-10-06T18:50:58",
     "1640877": "2026-10-25T20:10:17",
@@ -69436,7 +69418,7 @@
     "1645673": "2026-11-03T09:13:51",
     "1645675": "2026-11-06T21:23:51",
     "1645680": "2026-11-06T21:24:20",
-    "1645685": "2026-11-06T21:24:11",
+    "1645685": "2026-11-18T17:38:01",
     "1645688": "2026-11-06T21:24:02",
     "1645706": "2026-11-03T11:13:58",
     "1645708": "2026-11-03T11:14:08",
@@ -69601,7 +69583,7 @@
     "1646572": "2026-11-09T13:14:22",
     "1646582": "2026-11-18T01:27:00",
     "1646585": "2026-11-11T00:59:32",
-    "1646592": "2026-11-17T14:47:22",
+    "1646592": "2026-11-18T15:40:27",
     "1646599": "2026-11-11T00:30:14",
     "1646608": "2026-11-11T00:59:25",
     "1646611": "2026-11-11T00:29:59",
@@ -69799,6 +69781,10 @@
     "1647809": "2026-11-18T01:32:57",
     "1647812": "2026-11-18T01:06:50",
     "1647818": "2026-11-18T01:11:35",
+    "1647989": "2026-11-18T15:53:08",
+    "1647991": "2026-11-18T15:56:51",
+    "1647992": "2026-11-18T15:57:08",
+    "1647998": "2026-11-18T16:37:54",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52",
@@ -70023,6 +70009,11 @@
    "content_hash": "42f3f26c8d49f9e7e7d853268636544163c95cd2f02defb6c3856b7ce156dc38",
    "sequence": 1,
    "last_modified": "2026-11-18T11:53:05.988388Z"
+  },
+  "caldiscovery-comedy-f3c824df02bb07a0@sf-cal": {
+   "content_hash": "bafe862bddcb933d4b5475059c5ef8a78899667a3e081fdb19db09399094156a",
+   "sequence": 0,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "caldiscovery-festival-02ed2f6c36da6ae3@sf-cal": {
    "content_hash": "459d2a21f61fe3815e8b05c5160c681a9ea7be4e1ecfa9bc6f5220e0b7fb0dba",
@@ -71130,19 +71121,19 @@
    "last_modified": "2026-10-12T21:18:26.518708Z"
   },
   "dothebay-17568478@sf-cal": {
-   "content_hash": "7d8d439656531a5776277eb190d96b09ecb48355f6d87d14c52b8ee747291f2b",
-   "sequence": 1,
-   "last_modified": "2026-10-31T12:43:06.370018Z"
+   "content_hash": "4365cc4e4c41c61967fc6fb6111942a7d4bfa9e917bf2c5768bcc172cd4a78d4",
+   "sequence": 2,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "dothebay-17568479@sf-cal": {
-   "content_hash": "3df23ab33de860fdc9bdfd4c288c1db0e82c94713e673fdf1dddcd9039a4b1d8",
-   "sequence": 0,
-   "last_modified": "2026-10-31T12:43:06.370018Z"
+   "content_hash": "a34251777e1dbbf1ebea70967651c44df846e2c1c4fad07046871f37875f90db",
+   "sequence": 1,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "dothebay-17568480@sf-cal": {
-   "content_hash": "d07f4697af5b045ea9f27342b4f35ac75d35f105d9941c9bbd42e0982f26ff50",
-   "sequence": 0,
-   "last_modified": "2026-10-31T12:43:06.370018Z"
+   "content_hash": "213230f0570f3410ea139d2a1ca3e92b766e22ca00905d22b00955b1ebcee765",
+   "sequence": 1,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "dothebay-17578423@sf-cal": {
    "content_hash": "7630775e676135f5c2dde4d96b02542c0c75cfe04053de548d2912381fdfa8a3",
@@ -71670,9 +71661,9 @@
    "last_modified": "2026-11-15T06:44:27.023553Z"
   },
   "dothebay-17702213@sf-cal": {
-   "content_hash": "a5d9a0ea37bdfee3f61c7142fe664211d94f53c37770431fa12a474d10d194a0",
-   "sequence": 1,
-   "last_modified": "2026-11-17T16:11:06.391159Z"
+   "content_hash": "61c87c3073f468427931fa8f6dc67b97439fff4ca947331162f2cb48a8f05dd0",
+   "sequence": 2,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "dothebay-17702214@sf-cal": {
    "content_hash": "c635e70c32c2958954587055db5532d0943b5af5719fd66627e5711bc758e24e",
@@ -73955,9 +73946,9 @@
    "last_modified": "2026-11-01T16:05:46.530149Z"
   },
   "dothebay-17985540@sf-cal": {
-   "content_hash": "110217625a02e28c5356f4e9ec1560c2f5f091a81d55518b78e8b6e7be2f915c",
-   "sequence": 1,
-   "last_modified": "2026-11-15T16:25:45.093030Z"
+   "content_hash": "bb872417ea5bb3cab60495de54b060eaa673480bb4c0c8ae8b44933d9874b491",
+   "sequence": 2,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "dothebay-17985734@sf-cal": {
    "content_hash": "a736d9a4924063fb9a0831ac406882911b7eeebcf6d5093af01e268bd7b12bd3",
@@ -74455,9 +74446,9 @@
    "last_modified": "2026-11-02T19:33:55.918958Z"
   },
   "dothebay-18028867@sf-cal": {
-   "content_hash": "4d551b7675e6fe9f9b9ab6b2e0fb253888e001d41b3f856608e148de0828710b",
-   "sequence": 2,
-   "last_modified": "2026-11-18T11:53:05.988388Z"
+   "content_hash": "52e0f4315ae379b6d5c2a7dc0900db63fb1fc74350686e416b89bae5a45bec4f",
+   "sequence": 3,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "dothebay-18028872@sf-cal": {
    "content_hash": "fcda5f17882136b8d01a8953dfd684721b1f7eb848a9379293ac69cb8c0f1c48",
@@ -75381,11 +75372,6 @@
   },
   "funcheap-1638750@sf-cal": {
    "content_hash": "99e01f7c8fbeb8cdb887c8a0dd321548a21e7ce95261d6806114f043bfdbd5e7",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1638818@sf-cal": {
-   "content_hash": "b67c486609fdd0e9ab27a8b6029cf95abd6a13dc736cbbce45f1e570f1eaecdb",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -77913,6 +77899,11 @@
    "content_hash": "af165382e2eb7f44ca4e1cf9923f45f9f485449b5148e129a673fc848b14aea9",
    "sequence": 0,
    "last_modified": "2026-11-18T11:53:05.988388Z"
+  },
+  "funcheap-1647998@sf-cal": {
+   "content_hash": "ecc3c077c1f4d0886e103e5a7ebbd97baa8ea7b42246c898e280ac692b1f99ff",
+   "sequence": 0,
+   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",

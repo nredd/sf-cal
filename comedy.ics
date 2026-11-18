@@ -6305,6 +6305,27 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/23/ali-wong-live-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cobb's Comedy Showcase
+DTSTART;TZID=America/Los_Angeles:20261223T193000
+DTEND;TZID=America/Los_Angeles:20261223T213000
+DTSTAMP:20261118T203851Z
+UID:caldiscovery-comedy-f3c824df02bb07a0@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by Cobb's Comedy Club\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticketmast
+ er.com/cobbs-comedy-showcase-san-francisco-california-12-23-2026/event/1C0
+ 06571032E875A?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-fran
+ cisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261118T203851Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Avenue\, San Francisco\, CA\, 9
+ 4133
+TRANSP:TRANSPARENT
+URL:https://www.ticketmaster.com/cobbs-comedy-showcase-san-francisco-calif
+ ornia-12-23-2026/event/1C006571032E875A?utm_source=caldiscovery&utm_medium
+ =ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comedy Allstars
 DTSTART;TZID=America/Los_Angeles:20261223T193000
 DTEND;TZID=America/Los_Angeles:20261223T213000
@@ -6988,22 +7009,20 @@ BEGIN:VEVENT
 SUMMARY:Comedy Countdown
 DTSTART;TZID=America/Los_Angeles:20261231T193000
 DTEND;TZID=America/Los_Angeles:20261231T213000
-DTSTAMP:20261115T162545Z
+DTSTAMP:20261118T203851Z
 UID:dothebay-17985540@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Comedy Countdown\nThursday\, December 31 | ​Cobb's Comedy Cl
  ub\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?S
  haredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcomedy-countdown-sa
  n-francisco-california-12-31-2026%2Fevent%2F1C00655412469029\nDetails: htt
  ps://dothebay.com/events/2026/12/31/comedy-countdown-tickets\nSource: DoTh
- eBay\n\nAlso listed on:\n- https://www.ticketmaster.com/comedy-countdown-s
- an-francisco-california-12-31-2026/event/1C00655412469029?utm_source=caldi
- scovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ eBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35095292/fb818bb2-efdd-4212-aa85-694b37b0a4d5.png
-LAST-MODIFIED:20261115T162545Z
+LAST-MODIFIED:20261118T203851Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -7181,22 +7200,19 @@ BEGIN:VEVENT
 SUMMARY:Jeremiah Watkins
 DTSTART;TZID=America/Los_Angeles:20270101T190000
 DTEND;TZID=America/Los_Angeles:20270101T210000
-DTSTAMP:20261117T161106Z
+DTSTAMP:20261118T203851Z
 UID:dothebay-17702213@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Jeremiah Watkins\nFriday\, January 1 | ​Cobb's Comedy Club\n
  \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
  dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjeremiah-watkins-san-fr
  ancisco-california-01-01-2027%2Fevent%2F1C0065044CC3C81B\nDetails: https:/
- /dothebay.com/events/2027/1/1/jeremiah-watkins-tickets\nSource: DoTheBay\n
- \nAlso listed on:\n- https://www.ticketmaster.com/jeremiah-watkins-san-fra
- ncisco-california-01-01-2027/event/1C0065044CC3C81B?utm_source=caldiscover
- y&utm_medium=ics&utm_campaign=san-francisco-ca
+ /dothebay.com/events/2027/1/1/jeremiah-watkins-tickets\nSource: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33757608/c2ffd274-4068-45f1-a22b-8e30748d0ac1.png
-LAST-MODIFIED:20261117T161106Z
+LAST-MODIFIED:20261118T203851Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
