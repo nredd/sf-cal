@@ -40,67 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Jamie Kaler
-DTSTART;TZID=America/Los_Angeles:20261110T193000
-DTEND;TZID=America/Los_Angeles:20261110T213000
-DTSTAMP:20261111T171419Z
-UID:dothebay-17642532@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Jamie Kaler\nTuesday\, November 10 | Punch Line San Francisco\
- n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Shar
- edId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjamie-kaler-san-franci
- sco-california-11-10-2026%2Fevent%2F1C0064F5CBCC0ED1\nDetails: https://dot
- hebay.com/events/2026/11/10/jamie-kaler-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480377/32f3c0b7-d58b-4ffb-b99c-ac0b04df6733.png
-LAST-MODIFIED:20261111T171419Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/10/jamie-kaler-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stand-Up Comedy Show: “Secret Sauce Comedy”
-DTSTART;TZID=America/Los_Angeles:20261110T193000
-DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261111T063824Z
-UID:funcheap-1646560@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Submitted by the Event OrganizerIsrael MedinaGet ready to laug
- h your socks off with some killer stand-up comedy in a chill spot! What’
- s better than comedy\, drinks\, and sandwiches!\nThe equation is simple: Y
- ou + drinks + Bay Area’s top comedians = One hell of a time at The Sandw
- ich Spot.\n\nEase into through your week right at The Sandwich Spot and wa
- tch the Bay Area’s best comics work!\n\nWe’re talking comics who have 
- performed all over the Bay Area at places like:\nSan Francisco Punchline\n
- Cobb’s Comedy Club\nSan Jose Improv\n\nAnd more!\nWhether you’re a com
- edy nerd who knows every Bill Burr special by heart or just someone who ne
- eds a laugh after a long week\, this show delivers.\nGrab your friends\, o
- rder a drink\, and let us do the heavy lifting (of making you laugh).\nDoo
- rs open at 7:00PM. Show starts at 7:30PM.\nDon’t be late – we start on
-  time and the first comic always roasts late comers.\nAbout Peninsula Come
- dy:\nPeninsula Comedy is a collective of comedians bringing stand-up to th
- e often-overlooked spots between SF and San Jose. We run shows all through
- out the Peninsula at venues like:\n\nMarvin Gardens in Belmont\nBlue Oak B
- rewing in San Carlos\nAlpha Acid in Belmont\n\nAnd more spots we’re addi
- ng every month!\nOur mission is simple: make the Peninsula a comedy destin
- ation.\nWant to catch our next show?\nFollow us @PeninsulaComedy and @emon
- dismore on Instagram for updates\, lineups\, and more!\nhttps://www.instag
- ram.com/emondismore/\nhttps://www.instagram.com/peninsulacomedy/\n\nFree\n
- \nTickets: https://www.eventbrite.com/e/2004571114164?aff=oddtdtcreator\nD
- etails: https://sf.funcheap.com/standup-comedy-show-secret-sauce-comedy-3/
- \nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Secret
- .Sauce_.NOV_.10.jpg
-LAST-MODIFIED:20261111T063824Z
-LOCATION:The Sandwich Spot\, 2420 Broadway\, Redwood City
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/standup-comedy-show-secret-sauce-comedy-3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Laugh Boat: Local Brews & Free Comedy | SF
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T203000
@@ -1037,22 +976,19 @@ BEGIN:VEVENT
 SUMMARY:Alvin Kuai
 DTSTART;TZID=America/Los_Angeles:20261117T193000
 DTEND;TZID=America/Los_Angeles:20261117T213000
-DTSTAMP:20261018T111813Z
+DTSTAMP:20261118T115305Z
 UID:dothebay-17642557@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Alvin Kuai\nTuesday\, November 17 | Punch Line San Francisco\n
  \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
  dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Falvin-kuai-san-francisc
  o-california-11-17-2026%2Fevent%2F1C0064F5CE111428\nDetails: https://dothe
- bay.com/events/2026/11/17/alvin-kuai-tickets\nSource: DoTheBay\n\nAlso lis
- ted on:\n- https://www.ticketmaster.com/alvin-kuai-san-francisco-californi
- a-11-17-2026/event/1C0064F5CE111428?utm_source=caldiscovery&utm_medium=ics
- &utm_campaign=san-francisco-ca
+ bay.com/events/2026/11/17/alvin-kuai-tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33480517/fc62d069-f899-4a61-9857-48b1ccd81352.png
-LAST-MODIFIED:20261018T111813Z
+LAST-MODIFIED:20261118T115305Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1248,6 +1184,33 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/19/caitlin-peluffo-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Birdhouse Comedy Night
+DTSTART;TZID=America/Los_Angeles:20261119T200000
+DTEND;TZID=America/Los_Angeles:20261119T230000
+DTSTAMP:20261118T115305Z
+UID:funcheap-1647361@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerBirdhouse ComedyBirdhouse Come
+ dy Night is a monthly stand-up show in SF’s Sunset District. It happens 
+ on a Thursday at the illustrious Birdhouse gallery and features a selectio
+ n of the Bay Area’s best stand up comics\, with the added bonus of the g
+ allery’s ever-rotating display of fantastic local art.\nOut next show is
+  Thursday\, November 19th at 8pm!\n\nFeaturing:\nStoyan Angelov\nSpencer D
+ evine\nMaggie Adams\nand Marcus Howard\nJoined as always by producers Char
+ lie Norton and Nick Holke.\nCome on out and take in some local art and com
+ edy! Drinks are available for suggested donation but also feel free to BYO
+ B (if 21+\, of course).\n\n$12.00\n\nTickets: https://www.eventbrite.com/e
+ /1994255783733?aff=oddtdtcreator\nDetails: https://sf.funcheap.com/birdhou
+ se-comedy-night-3/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/DSC011
+ 33.jpg
+LAST-MODIFIED:20261118T115305Z
+LOCATION:Birdhouse Gallery\, 2548 Judah Street\, San Francisco
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/birdhouse-comedy-night-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amber Autry
 DTSTART;TZID=America/Los_Angeles:20261119T211500
 DTEND;TZID=America/Los_Angeles:20261119T231500
@@ -1412,6 +1375,30 @@ URL:https://sf.funcheap.com/rush-hour-comedy-night-w-sfs-best-black-asian-
  comedians-the-function-143/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bookshop Comedy
+DTSTART;TZID=America/Los_Angeles:20261120T190000
+DTEND;TZID=America/Los_Angeles:20261120T220000
+DTSTAMP:20261118T115305Z
+UID:funcheap-1644673@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerThe only Comedy Show in a book
+ store! Join us for a night of laughs with some of the best comics in the B
+ ay. Hosted by the Amazing Adobe Books & Arts Cooperative\, this is a diffe
+ rent more intimate show. No one is getting rosted! Join the fun conversati
+ ons and laughs Show is free but all tips fo to support artists and their c
+ raft!\nNEW LINE UPS EVERY MONTH\n\nmore details on IG @laughswbenefits\n\n
+ Free\n\nTickets: https://www.simpletix.com/e/book-shop-comedy-tickets-2652
+ 95\nDetails: https://sf.funcheap.com/bookshop-comedy-4/\nSource: Funcheap 
+ SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/BOOK-S
+ HOP-COMEDY-november.jpg
+LAST-MODIFIED:20261118T115305Z
+LOCATION:Adobe Books\, 3130 24th St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/bookshop-comedy-4/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:John Waters Cult Cinema Night: Cry-Baby + Serial Mom w/ Themed Dri
  nks
 DTSTART;TZID=America/Los_Angeles:20261120T190000
@@ -1551,6 +1538,36 @@ LAST-MODIFIED:20261006T001646Z
 LOCATION:Moe Greens\, 1276 Market St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/the-stoner-comedy-jam-friday-nights-sf-191/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Late-Night Comedy Show: The Midnight Mic (Belmont)
+DTSTART;TZID=America/Los_Angeles:20261120T213000
+DTEND;TZID=America/Los_Angeles:20261120T233000
+DTSTAMP:20261118T115305Z
+UID:funcheap-1647648@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerEmon DismoreWelcome To The ONL
+ Y LATE NIGHT COMEDY SHOW IN THE PENINSULA\, “The Midnight Mic @The Garde
+ n!” Come watch the Bay Area’s best comedians and rising stars work on 
+ their craft. if you’ve ever wanted to perform stand-up comedy\, here’s
+  your chance. This mic leads to a professionally booked show. The comics w
+ ho perform the best will be booked on an upcoming professional showcase. T
+ his is a completely free show. Tips are appreciated!\nThis comedy show is 
+ hosted & produced by Emon Dismore. Emon Dismore is an up & coming Bay Area
+  comedian who’s “Man on the Street” style interviews have amassed ov
+ er 40 million views across instagram alone.\n\nFollow @peninsulacomedy and
+  @emondismore if you’re a fan of comedy and want to stay updated on futu
+ re events.\n\nFree\n\nTickets: https://www.eventbrite.com/e/2004950148867?
+ aff=oddtdtcreator\nDetails: https://sf.funcheap.com/free-latenight-comedy-
+ show-midnight-mic-belmont/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/MG.LM_
+ .11.20.FINAL_.jpg
+LAST-MODIFIED:20261118T115305Z
+LOCATION:Marvin Gardens\, 1160 Old County Rd\, Belmont
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-latenight-comedy-show-midnight-mic-belmon
+ t/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amber Autry
@@ -2362,6 +2379,33 @@ LOCATION:Cobb’s Comedy Club\, 915 Columbus Ave\, San Francisco\, CA 9413
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/secret-guest-list-cobbs-free-comedy-nights-get
  -it-gameshow-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanksgiving Eve Queer Comedy + Friendsgiving (SF Eagle)
+DTSTART;TZID=America/Los_Angeles:20261125T190000
+DTEND;TZID=America/Los_Angeles:20261125T220000
+DTSTAMP:20261118T115305Z
+UID:funcheap-1647626@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Safe Words Mission Driven Queer ComedyTake a break from family
+  time and make a night of it with your chosen family. Stuffed Fam is the T
+ hanksgiving Eve edition of Safe Words Queer Comedy Showcase\, hosted by Wo
+ nder Dave at the San Francisco Eagle.\nBring the friends you call family a
+ nd make it a Friendsgiving night out. We’ll bring the jokes\, with queer
+  stand-up from Holly Shaw\, Yi Ren\, Jeffrey Jay\, Kurt Weitzmann\, and Vi
+ kki Beretta.\nDoors at 6:30 p.m. · 21+ · Pay what you can\, NOTAFLOF\, L
+ imited VIP\n\nFree\n\nTickets: https://events.humanitix.com/stuffed-fam-a-
+ chosen-family-holiday-escape\nDetails: https://sf.funcheap.com/thanksgivin
+ g-eve-queer-comedy-friendsgiving-sf-eagle/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Banner
+ -Image-STUFFED-FAM-a-chosen-family-thanksgiving-eve-escape-presented-by-sa
+ fe-words-queer-comedy-showcase-nov-25th-the-day-before-thanksgiving.png
+LAST-MODIFIED:20261118T115305Z
+LOCATION:SF Eagle\, 398 12th St.\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/thanksgiving-eve-queer-comedy-friendsgiving-sf
+ -eagle/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steve Furey
@@ -4558,9 +4602,9 @@ BEGIN:VEVENT
 SUMMARY:The Jewish Dating Game - LGBTJEW!
 DTSTART;TZID=America/Los_Angeles:20261210T190000
 DTEND;TZID=America/Los_Angeles:20261210T203000
-DTSTAMP:20261117T161106Z
+DTSTAMP:20261118T115305Z
 UID:caldiscovery-comedy-e9d51deba6649377@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:comedy,community
 DESCRIPTION:Put the OY in Boyfriend and the IRL in Girlfriend at The Jewis
  h Dating Game – LGBTJEW! In the heart of The Mission\, December 10th\, i
@@ -4580,8 +4624,7 @@ DESCRIPTION:Put the OY in Boyfriend and the IRL in Girlfriend at The Jewis
  iscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://jewishfed.org/e
  vent/the-jewish-dating-game-lgbtjew/?utm_source=caldiscovery&utm_medium=ic
  s&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261117T161106Z
-LOCATION:CA
+LAST-MODIFIED:20261118T115305Z
 TRANSP:TRANSPARENT
 URL:https://jewishfed.org/event/the-jewish-dating-game-lgbtjew/?utm_source
  =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
@@ -6170,6 +6213,27 @@ URL:https://sf.funcheap.com/mirthquake-monday-live-comedy-in-the-richmond-
  w-5-drinks-sf-189/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sammy Obeid
+DTSTART;TZID=America/Los_Angeles:20261222T190000
+DTEND;TZID=America/Los_Angeles:20261222T210000
+DTSTAMP:20261118T115305Z
+UID:caldiscovery-comedy-9cbe57b37ea4ce8a@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by Cobb's Comedy Club\nContains information from Cal
+ Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticketmast
+ er.com/sammy-obeid-san-francisco-california-12-22-2026/event/1C006571AA34E
+ 8FB?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n
+ Source: CalDiscovery
+LAST-MODIFIED:20261118T115305Z
+LOCATION:Cobb's Comedy Club\, 915 Columbus Avenue\, San Francisco\, CA\, 9
+ 4133
+TRANSP:TRANSPARENT
+URL:https://www.ticketmaster.com/sammy-obeid-san-francisco-california-12-2
+ 2-2026/event/1C006571AA34E8FB?utm_source=caldiscovery&utm_medium=ics&utm_c
+ ampaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261222T190000
 DTEND;TZID=America/Los_Angeles:20261222T210000
@@ -6569,27 +6633,6 @@ LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for
  -volunteers-sf-13/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sammy Obeid - 13+ with Parental Supervision
-DTSTART;TZID=America/Los_Angeles:20261227T153000
-DTEND;TZID=America/Los_Angeles:20261227T173000
-DTSTAMP:20261115T064427Z
-UID:caldiscovery-comedy-4465cbefbc13cb90@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy
-DESCRIPTION:Published by Cobb's Comedy Club\nContains information from Cal
- Discovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticketmast
- er.com/sammy-obeid-13-with-parental-supervision-san-francisco-california-1
- 2-27-2026/event/1C00653D14CEBF85?utm_source=caldiscovery&utm_medium=ics&ut
- m_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261115T064427Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Avenue\, San Francisco\, CA\, 9
- 4133
-TRANSP:TRANSPARENT
-URL:https://www.ticketmaster.com/sammy-obeid-13-with-parental-supervision-
- san-francisco-california-12-27-2026/event/1C00653D14CEBF85?utm_source=cald
- iscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Your Next Comic - A New Faces Showcase
@@ -8027,6 +8070,58 @@ LOCATION:August Hall
 TRANSP:TRANSPARENT
 URL:https://www.augusthallsf.com/tm-event/sf-sketchfest-robot-karaoke/?utm
  _source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF Sketchfest: Drunk Shrek
+DTSTART;TZID=America/Los_Angeles:20270117T190000
+DTEND;TZID=America/Los_Angeles:20270117T210000
+DTSTAMP:20261118T115305Z
+UID:caldiscovery-comedy-1ef8db76ea238302@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by August Hall\nContains information from CalDiscove
+ ry (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.augusthallsf.com/
+ tm-event/sf-sketchfest-drunk-shrek/?utm_source=caldiscovery&utm_medium=ics
+ &utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261118T115305Z
+LOCATION:August Hall
+TRANSP:TRANSPARENT
+URL:https://www.augusthallsf.com/tm-event/sf-sketchfest-drunk-shrek/?utm_s
+ ource=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hubba Hubba Revue
+DTSTART;TZID=America/Los_Angeles:20270117T190000
+DTEND;TZID=America/Los_Angeles:20270117T210000
+DTSTAMP:20261118T115305Z
+UID:caldiscovery-comedy-70a8c0fb7404a0e4@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:HUBBA HUBBA REVUE\n\nPerformers TBA!\n\nTickets and Seating In
+ formation:\n\nGeneral Admission tickets do not include guaranteed seating.
+ \n\nReserved Seating: Preferred seating is sold by the chair. Seating is a
+ t cocktail tables on the main floor\, and against the railing on the balco
+ ny. Reserved seating ticket-holders will be given wristbands and seated at
+  the event by the Hubba Hubba Revue staff. Individuals and groups with odd
+  numbers may be seated together and share tables. Large parties are encour
+ aged to buy tickets as a single purchase.\n\nPizza Special: A table for fi
+ ve\, admission for five\, and a large two topping pizza!\n\nFront Row VIP:
+  A table for five right in front of the stage\, including admission for fi
+ ve and bottle service!\n\nVIP Booths: These are against the wall\, downsta
+ irs\, with a good view of the stage and include admission for six and bott
+ le service.\n\nWatch and listen:\nHubba Hubba Revue: Promo Reel: https://y
+ outu.be/kCiLZYFLf78\n\nburlesque.\nDoors @ 7pm\;\nshow 7:30pm - 10pm.\n18+
+  with ID.\n\nGen. Adm.: $15 limited advance\;\n$25 after\;\n$35 day of sho
+ w\;\nBalcony Seating: $30 limited advance\;\n$40 after\;\nMain Floor Seati
+ ng: $30 limited advance\;\n$40 after.\n\nPublished by DNA Lounge\nContains
+  information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: h
+ ttps://www.dnalounge.com/calendar/2027/01-17a.html?utm_source=caldiscovery
+ &utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261118T115305Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2027/01-17a.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Tuesdays Free Comedy Showcase & Happy Hour | The Layover

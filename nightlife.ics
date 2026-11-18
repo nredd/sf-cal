@@ -40,43 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)
-DTSTART;TZID=America/Los_Angeles:20261110T193000
-DTEND;TZID=America/Los_Angeles:20261110T220000
-DTSTAMP:20261007T210655Z
-UID:funcheap-1641465@sf-cal
-SEQUENCE:0
-CATEGORIES:Club Dj
-DESCRIPTION:$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)\n
- Underdogs Cantina\nJoin us for a Disco Taco Tuesday at Underdogs Cantina w
- ith $1 MARGARITAS from 7:30pm – 8pm!\n$1 Margs & Disco Taco Tuesday\nEve
- ry Tuesday at 7:30pm\nUnderdogs Cantina\, 128 King St. (Across from ballpa
- rk)\, SF\nFREE (No Cover)\n$1 MARGARITAS from 7:30pm – 8:00pm\n\nMarch 1
- 7th\nMarch 24th\nMarch 31st\n\n25+ TVs // 300+ Capacity // Arcade Games\nH
- APPY HOUR ALL NIGHT LONG!\n\nUnderdogs Cantina\n\nUpcoming $1 Margaritas &
-  “Disco Taco Tuesday” at Underdogs (SoMa) Events\nTue 10/13 $1 Margari
- tas & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 10/20 $1 Margaritas 
- & “Disco Taco Tuesday” at Underdogs (SoMa)Tue 10/27 $1 Margaritas & 
- “Disco Taco Tuesday” at Underdogs (SoMa)Tue 11/3 $1 Margaritas & “Di
- sco Taco Tuesday” at Underdogs (SoMa)Tue 11/10 $1 Margaritas & “Disco 
- Taco Tuesday” at Underdogs (SoMa)Tue 11/17 $1 Margaritas & “Disco Taco
-  Tuesday” at Underdogs (SoMa)Tue 11/24 $1 Margaritas & “Disco Taco Tue
- sday” at Underdogs (SoMa)Tue 12/1 $1 Margaritas & “Disco Taco Tuesday
- ” at Underdogs (SoMa)Disclaimer: Please double check event information w
- ith the event organizer as events can be canceled\, details can change aft
- er they are added to our calendar\, and errors do occur.\n\nFree\n\nTicket
- s: https://www.eventbrite.com/cc/1-margs-disco-taco-tuesday-2704929\nDetai
- ls: https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-s
- oma-122/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2024/04/1-Marg
- s-Eventbrite-Cover.png
-LAST-MODIFIED:20261007T210655Z
-LOCATION:Underdogs Cantina\, 128 King St.\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-s
- oma-122/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beaver Bauer’s 50-Year Show of Art + Theater Costumes (SF Main L
  ibary)
 DTSTART;TZID=America/Los_Angeles:20261111T090000
@@ -1695,9 +1658,9 @@ BEGIN:VEVENT
 SUMMARY:Revolutions: Staxx of Wax
 DTSTART;TZID=America/Los_Angeles:20261121T213000
 DTEND;TZID=America/Los_Angeles:20261121T233000
-DTSTAMP:20261109T114430Z
+DTSTAMP:20261118T115305Z
 UID:dothebay-17976201@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:DJ/Parties
 DESCRIPTION:Revolutions: Staxx of Wax is back Saturday Nov. 21st\, in the 
  Monarch Lounge. This month we have Zoz from the Werd crew and a Special Gu
@@ -1705,11 +1668,12 @@ DESCRIPTION:Revolutions: Staxx of Wax is back Saturday Nov. 21st\, in the
  ps://www.facebook.com/revolutionsstaxxofwax\n\nFree\nFinely Tuned Presents
  :\n\nTickets: https://www.facebook.com/revolutionsstaxxofwax\nDetails: htt
  ps://dothebay.com/events/2026/11/21/revolutions-staxx-of-wax-tickets\nSour
- ce: DoTheBay
+ ce: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/revolutions-sta
+ xx-wax-vinyl-dj-night-monarch/
 GEO:37.780991;-122.408322
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35398682/09388130-2b20-4dcb-9d47-66574845213f.jpg
-LAST-MODIFIED:20261109T114430Z
+LAST-MODIFIED:20261118T115305Z
 LOCATION:Monarch Lounge\, 101 6th St.\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/21/revolutions-staxx-of-wax-ticket
@@ -1719,9 +1683,9 @@ BEGIN:VEVENT
 SUMMARY:DJ Meikee Magnetic
 DTSTART;TZID=America/Los_Angeles:20261121T213000
 DTEND;TZID=America/Los_Angeles:20261121T233000
-DTSTAMP:20261107T102259Z
+DTSTAMP:20261118T115305Z
 UID:dothebay-18051403@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:DJ/Parties
 DESCRIPTION:Meikee Magnetic\nHip Hop | Mashups | Top40 | House\nMusic star
  ts 9:30pm (no cover)\n\nThriller Social Club is San Francisco's retro-insp
@@ -1731,10 +1695,12 @@ DESCRIPTION:Meikee Magnetic\nHip Hop | Mashups | Top40 | House\nMusic star
  second bar alongside a curated mix of classic and modern arcade-style game
  s.\n\n508 4th Street | 21+\nSan Francisco\, CA\n\nFree\, 21+\nThriller Soc
  ial Club and GlitterazziSF present\n\nDetails: https://dothebay.com/events
- /2026/11/21/dj-meikee-magnetic-tickets\nSource: DoTheBay
+ /2026/11/21/dj-meikee-magnetic-tickets\nSource: DoTheBay\n\nAlso listed on
+ :\n- https://sf.funcheap.com/latenight-arcade-bar-party-dj-meikee-magnetic
+ -thriller-social-club/
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35367176/158bd1ee-24db-45a2-a624-79b39d828b79.jpg
-LAST-MODIFIED:20261107T102259Z
+LAST-MODIFIED:20261118T115305Z
 LOCATION:Thriller Social Club\, 508 4th Street\, San Francisco\, CA\, 9410
  7
 TRANSP:TRANSPARENT
@@ -2540,6 +2506,46 @@ URL:https://sf.funcheap.com/motown-on-mondays-dj-night-madrone-art-bar-290
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Inscribe 2026” SF’s World AIDS Day Chalk Memorial (Castro)
+DTSTART;TZID=America/Los_Angeles:20261201T090000
+DTEND;TZID=America/Los_Angeles:20261201T210000
+DTSTAMP:20261118T115305Z
+UID:funcheap-1647818@sf-cal
+SEQUENCE:0
+CATEGORIES:Lgbtq
+DESCRIPTION:INSCRIBE 2026: World AIDS Day Chalk Memorial (Castro)INSCRIBE 
+ 2026 is a World AIDS Day remembrance in San Francisco’s Castro neighborh
+ ood honoring people who died of AIDS\, including 15\,000 former Castro res
+ idents. From 9:00 AM to 9:00 PM\, participants can use provided rainbow ch
+ alk to write names on the 400 and 500 blocks of Castro Street alongside th
+ e Rainbow Honor Walk plaques. A short program is scheduled for noon\, and 
+ the Sisters of Perpetual Indulgence have been invited to participate.\n\nY
+ ou are warmly invited to INSCRIBE\, our World AIDS Day remembrance in The 
+ Castro neighborhood of San Francisco on December 1\, 2026\n\nINSCRIBE hono
+ rs and celebrates those who died of AIDS\, especially the 15\,000 men and 
+ women who called The Castro home. In their memory\, we INSCRIBE their name
+ s in brightly colored rainbow chalk on the sidewalks of the 400 and 500 bl
+ ocks of Castro St.\, alongside The Rainbow Honor Walk’s permanent bronze
+  plaques honoring gay and civil rights heroes.\n\nThroughout the day\, fro
+ m 9:00 a.m. to 9:00 p.m. the chalk will be available. We gather at 18th an
+ d Castro Sts. with reverence\, joy\, and sadness. Everyone is welcome to I
+ NSCRIBE names using chalk provided by Cliff’s Variety and placed in colo
+ rful pails along the sidewalk. Participation is free and INSCRIBE is not a
+  fundraiser.\n\nA short program will take place at noon. We have invited T
+ he Sisters of Perpetual Indulgence to participate again this year\, and we
+  hope they will bless the event during the program and invok...\n\nFree\n\
+ nTickets: https://www.facebook.com/groups/HONORINGOUREXPERIENCE/posts/2991
+ 1692478433045\nDetails: https://sf.funcheap.com/inscribe-2026-sfs-world-ai
+ ds-day-chalk-memorial-castro/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/895310
+ 953_29706146302336352_3065737990551384270_n.jpg
+LAST-MODIFIED:20261118T115305Z
+LOCATION:18th and Castro Sts.\, 18th St & Castro St\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/inscribe-2026-sfs-world-aids-day-chalk-memoria
+ l-castro/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grupo de Asistencia Legal del Programa Latino
 DTSTART;TZID=America/Los_Angeles:20261201T150000
 DTEND;TZID=America/Los_Angeles:20261201T170000
@@ -3028,6 +3034,36 @@ LOCATION:Monroe\, 473 Broadway Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party
  -north-beach-266/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop SF First Fridays: Mini- Wreaths & Mistletoe Arrangements
+DTSTART;TZID=America/Los_Angeles:20261204T190000
+DTEND;TZID=America/Los_Angeles:20261204T220000
+DTSTAMP:20261118T115305Z
+UID:funcheap-1634969@sf-cal
+SEQUENCE:0
+CATEGORIES:Lgbtq
+DESCRIPTION:Risa CulbertsonEvery first Friday\, WorkshopSF hosts an open h
+ ouse / party with DIY\, art\, fun and community. It’s a chance to previe
+ w classes\, see the space\, and just hang out with neighborhood peeps! We 
+ welcome all\, and our activities are all low cost or free / donation-based
+  (Cash Only).\nJoin us for our December First Friday\, where we’ll be ma
+ king mini-wreaths ($10 CASH ONLY) & mistletoe arrangements (FREE)\nDecembe
+ r First Friday Activity Recap + Details:\n– Mini Wreaths ($10 CASH ONLY)
+ \n– Mistletoe arrangements (FREE)\n– Fun times and a chance to just ha
+ ng out in Workshop\n– 21+ only\, BYOB is welcome\nFriday\, December 4th\
+ , 7-10pm\nWorkshopSF\n1310 Haight Street\, SF\nFREE to the public\, just b
+ ring ya self!!\nRSVP appreciated but NOT required!\n\nFree\n\nTickets: htt
+ ps://workshopsf.org/class/workshop-sf-first-fridays-1204/\nDetails: https:
+ //sf.funcheap.com/workshop-sf-fridays-mini-wreaths-mistletoe-arrangements/
+ \nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/2026-D
+ EC-FF-Instagram-Post-45.png
+LAST-MODIFIED:20261118T115305Z
+LOCATION:WorkshopSF\, 1310 Haight Street
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/workshop-sf-fridays-mini-wreaths-mistletoe-arr
+ angements/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music For The Masses
