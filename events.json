@@ -1607,33 +1607,6 @@
   },
   {
    "source": "caldiscovery-comedy",
-   "source_id": "ee97934df6fd3d80",
-   "title": "Saturday Night Comedy at the Fireside Lounge (Alameda, CA)",
-   "start": "2026-12-12T20:00:00-08:00",
-   "end": "2026-12-12T21:30:00-08:00",
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "The Fireside Lounge",
-   "address": "1453 Webster Street, Alameda, CA, 94501",
-   "locality": "Alameda",
-   "geo": null,
-   "url": "http://www.dougcordell.com/events/2025/8/9/saturday-night-comedy-at-the-fireside-lounge-alameda-ca-2n4yp-ectnh?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by dougcordell.com",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
    "source_id": "b39cf82e046bba8d",
    "title": "Hubba Hubba Revue: Holiday Spectacular",
    "start": "2026-12-13T19:00:00-08:00",
@@ -1685,33 +1658,6 @@
    ],
    "notes": [
     "Published by DNA Lounge",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
-   "source_id": "98fc46b7297ef842",
-   "title": "Emily Catalano",
-   "start": "2026-12-15T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Punch Line Comedy Club - San Francisco",
-   "address": "444 Battery Street, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.ticketmaster.com/emily-catalano-san-francisco-california-12-15-2026/event/1C0064E6CF5B1DB0?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "comedy"
-   ],
-   "notes": [
-    "Published by Punch Line Comedy Club",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -2445,6 +2391,33 @@
    ],
    "notes": [
     "Published by DNA Lounge",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "aafc976b7390c863",
+   "title": "Saturday Night Comedy at the Fireside Lounge (Alameda, CA)",
+   "start": "2027-01-09T20:00:00-08:00",
+   "end": "2027-01-09T21:30:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "The Fireside Lounge",
+   "address": "1453 Webster Street, Alameda, CA, 94501",
+   "locality": "Alameda",
+   "geo": null,
+   "url": "http://www.dougcordell.com/events/2025/8/9/saturday-night-comedy-at-the-fireside-lounge-alameda-ca-2n4yp-ectnh?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by dougcordell.com",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -4676,242 +4649,6 @@
    "image_url": null,
    "categories": [],
    "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17666175",
-   "title": "TransLife Drop-In",
-   "start": "2026-11-11T13:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/11/translife-drop-in-tickets",
-   "ticket_url": "https://resources.sfaf.org/event/translife-drop-in-2/2026-11-11/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "TransLife empowers and supports group members with whatever they are going through. We understand that life as a trans woman, trans man, or gender-fluid individual can be tough. Our group brings a blend of spirituality, friendship and community to give the support you need and the family you long for. Come join us.\n\nQuestions? Email Translife@sfaf.org or call 415-487-8090.\n\nGroup held at 940 Howard St.",
-   "image_url": null,
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18054050",
-   "title": "Mahjong Meetup",
-   "start": "2026-11-11T15:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Ferry Building",
-   "address": "One Ferry Marketplace, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/11/mahjong-meetup-tickets",
-   "ticket_url": "https://www.ferrybuildingmarketplace.com/events/mahjong-meetup-2/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Play Mahjong at the Ferry Building!\n\nJoin us for an afternoon Mahjong meetup every Wednesday from 3–7 PM.\n\nAll skill levels are welcome! If you have never played and are eager to learn, a quick guide and helpful tips on Chinese-style will be available. Sets will be provided, but feel free to bring your own if you have a favorite!\n\nSeating and Mahjong sets are available on a first come first served basis.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35404961/48f89489-9a0b-4276-955a-fd78dcf6d2b8.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18002837",
-   "title": "Luther Locals Online Revolve",
-   "start": "2026-11-11T17:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Luther Burbank Center for the Arts",
-   "address": "50 Mark West Springs Road, Santa Rosa, CA, 95403",
-   "locality": "Santa Rosa",
-   "geo": [
-    38.4931764,
-    -122.7492173
-   ],
-   "url": "https://dothebay.com/events/2026/11/11/luther-locals-online-revolve-tickets",
-   "ticket_url": "https://lutherburbankcenter.org/event/revolve26/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Revolve is a group of Sonoma County teens brought together by a shared passion for music. What began as a few tweens jamming together has evolved into a serious band, both in sound and spirit.\n\nNow attending high schools across Sonoma County, they continue to come together to write original music and perform a diverse mix of classic songs, spanning legends like Guns n Roses to pop favorites like Bruno Mars. With increasing experience with live performances and a shared commitment to their craft, Revolve brings energy, versatility, and a genuine love of music to every stage.\n\nAll views expressed in this broadcast are those of the artist.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35167306/72fbaa1d-acb2-450f-98b4-0a46752a454b.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17993473",
-   "title": "Marcus Thompson, II - Game Changers",
-   "start": "2026-11-11T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage San Francisco",
-   "address": "1 Ferry Building, San Francisco, CA, 94911",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/11/marcus-thompson-ii-game-changers-tickets",
-   "ticket_url": "https://bookpassage.com/event/marcus-thompson-ii-game-changers",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Acclaimed sports journalist Marcus Thompson II presents Game Changers, a fast-paced, stat-filled tribute to the unique players who changed basketball forever and spark endless GOAT debates among fans.\n****\nABOUT THIS EVENT\nThis event will be hosted by Book Passage at our SF Ferry Building store.\nFree Admission / Open Seating\nFollowing the presentation, there will be a signing line or a meet-and-greet.\nIf you are unable to attend the event, you can still get your copy by clicking the \"BUY THE BOOK\" button above. If you would like a signed or personalized book, please note that in the order comment field.\nFor any questions regarding our events, please contact us at books@bookpassage.com.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35124677/b702b7d2-763c-4c2d-b840-57858cad5059.jpg",
-   "categories": [
-    "Literature"
-   ],
-   "notes": [
-    "Book Passage Presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17830478",
-   "title": "CHERRYBOMB presents: A MONTHLY FUNDRAISER",
-   "start": "2026-11-11T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Make-Out Room",
-   "address": "3225 22nd St., San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.7552647,
-    -122.4193588
-   ],
-   "url": "https://dothebay.com/events/2026/11/11/dj-chopped-t-tickets",
-   "ticket_url": "http://makeoutroom.com",
-   "price_text": "FREE",
-   "is_free": true,
-   "sold_out": false,
-   "description": null,
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34369702/bf111d4a-5d19-4f3d-9f52-7739686d06e6.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17988720",
-   "title": "Rock Ross: Go Like This (16mm)",
-   "start": "2026-11-11T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Roxie Theater",
-   "address": "3117 16th Street, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7647103,
-    -122.4224081
-   ],
-   "url": "https://dothebay.com/events/2026/11/11/rock-ross-go-like-this-16mm-tickets",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/22387?siteToken=4m48btf3yavn7xjk5yxk6nc40c",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Presented by Canyon Cinema\n\nFilmmaker Rock Ross in person for a post-screening audience Q&A!\n\nCanyon at The Roxie is back with a spotlight on local legend Charles Rock Ross! Rock Ross: Go Like This surveys 20 years of the filmmaker’s “frivolous and socially irresponsible films” (The Athens News), bringing together 16mm prints and camera originals from the Academy Film Archive and Canyon Cinema collections.\n\nThe longtime Bay Area independent filmmaker, musician, and organizer has been crafting wryly exuberant, riotous work since the early-1970s. After receiving his BFA and MFA in Filmmaking from the San Francisco Art Institute, Ross worked as Film Inspector and Shipper for the Canyon Cinema Co-op from 1975 to 1978, Editing Facility Manager for Film Arts Foundation from 1982 to 1986, and in 1988, served as Director of the Ann Arbor Film Festival. As a founding member and projectionist of the No Nothing Cinema (1982-1997) and New Nothing Cinema (1997-2017), Ross has screened thousands of independent and experimental films and videos. As a title designer, from 1978 to 2013, Ross designed thousands of titles for independent films, shooting directly on film using his own animation stand. He has also scored a number of films with his band, The Goat Family, which formed in 2003.\n\n“Film as art has no bounds… For me its potential is as exciting as pure white noise.” – Rock Ross\n\nScreening Line-up:\n\nSosueme (Rock Ross, 1988, 6.5 minutes, b&w, sound, 16mm)\n\nTill My Head Caves In (Rock Ro...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35107373/cd53fce5-165c-4aba-a4fe-764d3737a197.jpg",
-   "categories": [
-    "Film"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17999185",
-   "title": "Bay Area Remodeling Awards | BE INSPIRED & SPONSORSHIPS for BIZ SPOTLIGHT!!",
-   "start": "2026-11-11T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Evolv Surfaces",
-   "address": "825 Potter St, Berkeley, CA, 94710",
-   "locality": "Berkeley",
-   "geo": [
-    37.85145,
-    -122.292444
-   ],
-   "url": "https://dothebay.com/events/2026/11/11/bay-area-remodeling-awards-be-inspired-sponsorships-for-biz-spotlight-tickets",
-   "ticket_url": "https://sfbanari.org/",
-   "price_text": "65.",
-   "is_free": false,
-   "sold_out": false,
-   "description": "**AWARD-WINNING REMODELS & A RED-CARPET GALA WORTH CELEBRATING!**\n\nRoll out the red carpet! Great remodeling deserves a standing ovation. And the people who go above and beyond for our industry? They deserve the VIP treatment, too!\n\n**Join SFBA NARI & NARI Diablo Valley** for the 2026 BAY AREA REMODELING & APPRECIATION AWARDS GALA. We're celebrating jaw-dropping remodeling projects, outstanding craftsmanship, industry excellence, and the amazing volunteers who make our chapters shine!\n\nNOT A NARI MEMBER? NO PROBLEM!\n\nAll Bay Area remodeling pros, industry partners, suppliers, and supporting businesses are welcome! Dress to impress, get inspired, make connections, and cheer on the best in Bay Area remodeling!\n\nA DESIGN LOVER'S DREAM VENUE!\n\nOur host, **Evolv Surfaces**, features a stunning Berkeley showroom showcasing natural stone, full-size Neolith slabs, and gorgeous large-format tiles!\n\nWANT YOUR BUSINESS IN THE SPOTLIGHT?\n\n**Sponsorships & Door Prize Opportunities are OPEN to Members AND Non-Members!\n\n**Sponsorships: $250-$6,000 - visibility options for a variety of budgets!\n\n**Door Prize Donations Welcome! Showcase your products, services, or business with a fun giveaway that puts your brand in the spotlight!\n\nDON'T JUST HEAR ABOUT IT AFTERWARD - WALK THE RED CARPET WITH US!\n\n**Here's to brilliant remodels, outstanding people, and a red-carpet celebration of our remodeling community!**\n\n65.\n\nPresented by National Association of the Remodeling Industry, San Francisco Bay...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35150279/66f47403-0aa1-4f90-a954-adabc3d308b5.jpg",
-   "categories": [
-    "Lecture/Education"
-   ],
-   "notes": [
-    "National Association of the Remodeling Industry, San Francisco Bay Area Chapter"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18045307",
-   "title": "Bay Area Elections: What It All Means",
-   "start": "2026-11-11T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "KALW @ 220 Montgomery",
-   "address": "220 Montgomery St, San Francisco, CA, 94104",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/11/bay-area-elections-what-it-all-means-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fbay-area-elections-what-it-all-means-tickets-2004400355420%3Faff%3Doddtdtcreator",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Join journalists from KALW, Mission Local and the San Francisco Standard for an in depth look at the impact of last week's election results.\n\nConnect with local journalists for an evening of post-election analysis covering the region's most consequential races, ballot measures, and political shifts.\n\nJoe Eskenazi of Mission Local and Joe Fitzgerald-Rodriguez of the San Francisco Standard join KALW's Ben Trefny for a conversation about what happened at the polls, what surprised us, and what the results reveal about the priorities and perspectives of Bay Area voters.\n\nFrom San Francisco's local races and ballot measures to the bigger political currents shaping the region, we'll look beyond the headlines to make sense of the outcomes and consider what comes next.\n\nBring your questions and join the conversation!\n\nJoe Eskenazi\n\nManaging Editor/Columnist for Mission Local. Joe was born in San Francisco, raised in the Bay Area, and attended U.C. Berkeley. He never left. Joe was a writer and columnist for SF Weekly from 2007 to 2015, and a senior editor at San Francisco Magazine from 2015 to 2017. You may also have read his work in the Guardian (U.S. and U.K.); San Francisco Public Press; San Francisco Chronicle; San Francisco Examiner; Dallas Morning News; and elsewhere. He resides in the Excelsior with his wife and three (!) kids, 4.3 miles from his birthplace and 5,474 from hers. The Northern California branch of the Society of Professional Journalists named Eskenazi the 2019 Jour...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35342773/6dbad9e0-6706-4e37-8b17-e62bb530191f.jpg",
-   "categories": [
-    "Lecture/Education"
-   ],
-   "notes": [
-    "KALW Public Media"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18052328",
-   "title": "Glue Stick Social: Nosferatu",
-   "start": "2026-11-11T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Spire The Church",
-   "address": "825 Athens Avenue, Oakland, CA, 94607",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://dothebay.com/events/weekly/wed/glue-stick-social-nosferatu-tickets",
-   "ticket_url": "https://darkparloursociety.com/rsvp",
-   "price_text": "Free. 18+",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Dark Parlour Society presents\n\nGlue Stick Social: Nosferatu\n\nWednesday, November 11 | Spire\n\nGlue Stick Social is a free weekly junk journaling night by the glow of a creepy picture show. Bring a journal or start one here. The tables are set with paper, ephemera, and a simple starter project, so all you have to do is sit down and glue.\n\nThis week's film is F. W. Murnau's Nosferatu, the original silent vampire. It plays in the background with an orchestral score by composer Hugh Doolan, used with his permission.\n\nJunk journaling is the focus, but all analog crafts are welcome. Knitters, crocheters, collagists, and sketchers can bring their work and settle in.\n\nDetails\n\nWednesday, November 11, 6 to 8 PM\n\nSpire, 825 Athens Ave, Oakland\n\nFree and open to the public, 18+\n\nDonations are welcome and go entirely to Spire.\n\nStreet parking nearby is limited, so rideshare or transit is a good bet.\n\nRSVP at darkparloursociety.com\n\nCan't make it in person? Sign up for Junk Journaling from Home at darkparloursociety.com to get the film link and a printable ephemera kit by email.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35370186/b8de1958-aab0-4e5a-a2ec-fb64ea30d354.jpg",
-   "categories": [
-    "Arts & Family"
-   ],
-   "notes": [
-    "Dark Parlour Society presents"
-   ]
   },
   {
    "source": "dothebay",
@@ -44042,54 +43779,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1645237",
-   "title": "USS Hornet Veterans Day 2026 (Alameda)",
-   "start": "2026-11-11T10:00:00-08:00",
-   "end": "2026-11-11T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "USS Hornet Sea, Air & Space Museum",
-   "address": "707 W. Hornet Avenue, Alameda, Ca",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/uss-hornet-veterans-day-2026-alameda/",
-   "ticket_url": "https://uss-hornet.org/event/veterans-day-2026/",
-   "price_text": "$25.00",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerUSS HornetPlease join us at the USS Hornet as we commemorate Veterans Day.\nOur main program will start at 11 AM:\n\nColor Guard provided by: Civil Air Patrol, US Air Force Auxiliary\nMC Robert Butchart (USAF Ret.)\nBio: Robert entered the United States Air Force in 1982. He served in Air Force Special Operations and in the United States Joint Service Special Operations Command; his last military assignment was in Central America with Navy Special Warfare, 2002. Robert’s secondary specialty code in the military was a Chaplain’s Assistant. Currently, Robert is assigned to the California Governor’s Office of Emergency Services (Cal OES); Robert is responsible for starting the Maritime Program for Cal OES.\nKeynote Speaker Michael Baker (USN Ret.)\nBio: Michael Baker is a retired general, vascular, trauma surgeon and retired US Navy Rear Admiral. He is a widely known as a speaker in the Bay Area for Commonwealth Club/World Affairs, as a teacher for Osher LifeLong Learning on history, political science, and military affairs at Cal State East Bay and UC Berkeley, and still teaches combat casualty care at US Military bases and has completed 5 tours in Ukraine teaching Advanced Trauma Life Support (ATLS).\nWe will finish with a wreath laying at the fantail.\n—————————————————-\nIn the afternoon we will have a presentation at 1 PM:\nJeremy Holm (US Army Ret.) will present “Rescue at Los Baños: One of World War II’s Greatest Rescue Missions.”\nOn February 23, 1945,...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/the-uss-hornet-sea-air-2.jpg",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1641645",
-   "title": "Free Admission Day at Yerba Buena Center for the Arts (YBCA)",
-   "start": "2026-11-11T11:00:00-08:00",
-   "end": "2026-11-11T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission Street San Francisco, CA 94103",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-ybca-161/",
-   "ticket_url": "https://www.ybca.org/visit-us",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerFree Admission Day at Yerba Buena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to the public in 1993, YBCA was founded as the cultural anchor of San Francisco’s Yerba Buena Gardens neighborhood. Our work spans the realms of contemporary art, performance, film, civic engagement, and public life. Centering artists as essential to social and cultural movement, YBCA is reimagining the role an arts institution can play in the community it serves.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood, across the street from SFMOMA and the Moscone Convention Center. The main entrance to our galleries and forum event space is at 701 Mission Street. The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wednesday–Sunday, 11–5pm.\nEntry to YBCA Galleries is free every Wednesday\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seniors: $5\nYouth (17 and under), Military Personnel, & Museums for All: Free\nWednesdays: Free\nEmployees of other museums with current valid staff ID receive free general admission for themselves and one guest.\nMuseums for All\nYBCA offers free admission for Medi-Cal and EBT card holders as part of the Museums for All program. Benefits card required upon entry. Tickets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWed–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day at Yerba Buena Center for the Arts (YBCA) Events\nWed 10/14 Free Admission Day a...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-building.png",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1643824",
    "title": "Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)",
    "start": "2026-11-11T11:00:00-08:00",
@@ -71141,9 +70830,9 @@
    "last_modified": "2026-10-29T10:07:47.796323Z"
   },
   "dothebay-17581249@sf-cal": {
-   "content_hash": "44aabc7321902c82b6b2206544a45d8f1a9fb2110b30a63405c3f6b5353c74fb",
-   "sequence": 1,
-   "last_modified": "2026-10-18T11:18:13.035663Z"
+   "content_hash": "f4b9ebcb804be0c81d6ea0f88af4f05862475aa7383d821298303dd33e3aa595",
+   "sequence": 2,
+   "last_modified": "2026-11-19T02:37:56.520135Z"
   },
   "dothebay-17581250@sf-cal": {
    "content_hash": "786751ad9a6e4be7160ead9fab7c9adda90307138d81495cca0d869e53c0b94e",
@@ -71444,11 +71133,6 @@
    "content_hash": "3984cf081f292ca4d8277ad9f74a789a3ef981ef5ba49e099ef731697071270c",
    "sequence": 0,
    "last_modified": "2026-10-14T21:46:46.382284Z"
-  },
-  "dothebay-17666175@sf-cal": {
-   "content_hash": "ba88964e16488083cbfa5acf9e7215c5823bd21b4a013589ae850a103e008eb0",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17670059@sf-cal": {
    "content_hash": "0932a38b1ff2612faf958ca9fc61f6d4d8866331ee8d170db4995cd5ffb24d56",
@@ -72469,11 +72153,6 @@
    "content_hash": "116865d79a31329192bba077bcb5919d54bf75517c91ddc11261f43eddbef709",
    "sequence": 1,
    "last_modified": "2026-11-04T01:27:11.380793Z"
-  },
-  "dothebay-17830478@sf-cal": {
-   "content_hash": "9e18960822daa4a1535d271c4e350052f746212ec7d95085dcc28743cf25bfac",
-   "sequence": 2,
-   "last_modified": "2026-11-05T11:06:17.049121Z"
   },
   "dothebay-17830479@sf-cal": {
    "content_hash": "68619a0d5fbd661f36d84afcd9336eb943f14e38b14395ab566058e7f5535d7d",
@@ -73995,11 +73674,6 @@
    "sequence": 0,
    "last_modified": "2026-10-24T16:02:25.399258Z"
   },
-  "dothebay-17988720@sf-cal": {
-   "content_hash": "b28c1a9c22cf9d9b70b257d7dd3a61fe6adaa30c0d468a0a588754734d39f2c5",
-   "sequence": 1,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
   "dothebay-17988725@sf-cal": {
    "content_hash": "fc8cbde75ab20c0dce51499135d242b8c5cbc8edafb3da136bcd0b55e82b82fe",
    "sequence": 3,
@@ -74044,11 +73718,6 @@
    "content_hash": "f99502c5fbf0b00e27a039821abeeaa21f241a7c5df2506ca3ca8f9b6b140cb9",
    "sequence": 0,
    "last_modified": "2026-11-04T19:51:00.176134Z"
-  },
-  "dothebay-17993473@sf-cal": {
-   "content_hash": "70abfeb4a2813b9dd845f1ae35cf48924c288c91fd8c7c7ab2d963a3c17443f8",
-   "sequence": 1,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
   },
   "dothebay-17996850@sf-cal": {
    "content_hash": "3c586737f2d6f24c60933b9ba6d5196efdebd11c15cb2f283e2acc51a85abb9a",
@@ -74645,11 +74314,6 @@
    "sequence": 0,
    "last_modified": "2026-11-06T19:29:30.775776Z"
   },
-  "dothebay-18045307@sf-cal": {
-   "content_hash": "a1054cf0473462525fb6887a7fc7427c8014d9dadb02b0f1ef3e363d5fba224f",
-   "sequence": 1,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
   "dothebay-18045311@sf-cal": {
    "content_hash": "c4b20056ecc199881754045b7e9e48a0d2c015d1e8aa68f1a42a7efc8938e864",
    "sequence": 1,
@@ -74732,11 +74396,6 @@
   },
   "dothebay-18053745@sf-cal": {
    "content_hash": "d7ba27f05fed34e11a210d1c5bce8a8410fd4c562d88369ddc8ffe63c166230a",
-   "sequence": 0,
-   "last_modified": "2026-11-09T22:28:18.990128Z"
-  },
-  "dothebay-18054050@sf-cal": {
-   "content_hash": "52b5c7023ca6e07183b663a7f559e605f3b0a8a1db2004730ad67ea47827e1a8",
    "sequence": 0,
    "last_modified": "2026-11-09T22:28:18.990128Z"
   },
@@ -75685,11 +75344,6 @@
    "sequence": 0,
    "last_modified": "2026-10-08T10:42:32.669750Z"
   },
-  "funcheap-1641645@sf-cal": {
-   "content_hash": "74b6efe0d006569cf32227770e0d62caa1fbbcf53398c1d5a1e94c2febebdd23",
-   "sequence": 0,
-   "last_modified": "2026-10-08T10:42:32.669750Z"
-  },
   "funcheap-1641647@sf-cal": {
    "content_hash": "42ce61fd0dc88b15c22feaa051b8563eaa7bab453d94bb4fa90fc78e49899a89",
    "sequence": 0,
@@ -76045,6 +75699,11 @@
    "sequence": 0,
    "last_modified": "2026-11-06T11:02:27.517478Z"
   },
+  "funcheap-1644206@sf-cal": {
+   "content_hash": "aead434f27d1d5ebe920bf49e995f5dc4a8e224959400995a89e24d233c739e4",
+   "sequence": 0,
+   "last_modified": "2026-11-19T02:37:56.520135Z"
+  },
   "funcheap-1644450@sf-cal": {
    "content_hash": "e7a9dd33af6de9372ab87fd630bd466a0c9127e24010e2a8d001f90f9c043c56",
    "sequence": 0,
@@ -76340,6 +75999,11 @@
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
+  "funcheap-1645169@sf-cal": {
+   "content_hash": "7ca152bd6985448de04c0121e607f5b90602d90f6e41ff8371474d502b5f4a3d",
+   "sequence": 0,
+   "last_modified": "2026-11-19T02:37:56.520135Z"
+  },
   "funcheap-1645175@sf-cal": {
    "content_hash": "b26851aa83cf79daac6475ea4f425137e37e6b084629e9f37740ad02ba92461c",
    "sequence": 0,
@@ -76347,11 +76011,6 @@
   },
   "funcheap-1645223@sf-cal": {
    "content_hash": "e8e084cbdb6cca0e15fa5e91ea38d20f786a506e9af63d24e6bffc3bfaf6cfbd",
-   "sequence": 0,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
-  "funcheap-1645237@sf-cal": {
-   "content_hash": "e5b23de53e029f50f080f8a795040537a613f0e172d6b61285dd91fc2efda2c1",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
@@ -77234,6 +76893,11 @@
    "content_hash": "7322fabeabcac97d4fa1dcfdc171dfb72502a5914fb9131859b8b66eaeafb638",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
+  },
+  "funcheap-1646611@sf-cal": {
+   "content_hash": "5c46f6c0c2e4a54d23b5390d2bf8dd7bc4863e9a3232c61c59814939512ae028",
+   "sequence": 0,
+   "last_modified": "2026-11-19T02:37:56.520135Z"
   },
   "funcheap-1646651@sf-cal": {
    "content_hash": "e78536fce014068215ff350325aebe0f4dc1a56d18d3d6e43b020f2a3e560305",

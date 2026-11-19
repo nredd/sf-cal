@@ -40,6 +40,34 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Marcus Thompson\, II – Game Changers
+DTSTART;TZID=America/Los_Angeles:20261111T173000
+DTEND;TZID=America/Los_Angeles:20261111T203000
+DTSTAMP:20261119T023756Z
+UID:funcheap-1644206@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports Fitness
+DESCRIPTION:Submitted by the Event OrganizerAcclaimed sports journalist Ma
+ rcus Thompson II presents Game Changers\, a fast-paced\, stat-filled tribu
+ te to the unique players who changed basketball forever and spark endless 
+ GOAT debates among fans.\n****\nABOUT THIS EVENT\n\nThis event will be hos
+ ted by Book Passage at our SF Ferry Building store.\nFree Admission / Open
+  Seating\nFollowing the presentation\, there will be a signing line or a m
+ eet-and-greet.\nIf you are unable to attend the event\, you can still get 
+ your copy by clicking the “BUY THE BOOK” button above. If you would li
+ ke a signed or personalized book\, please note that in the order comment f
+ ield.\nFor any questions regarding our events\, please contact us at books
+ @bookpassage.com.\n\nFree\n\nTickets: https://bookpassage.com/event/marcus
+ -thompson-ii-game-changers\nDetails: https://sf.funcheap.com/marcus-thomps
+ on-ii-game-changers/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/Thomps
+ on-II400-x-580-px.png
+LAST-MODIFIED:20261119T023756Z
+LOCATION:Book Passage (SF)\, 1 Ferry Building\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/marcus-thompson-ii-game-changers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NightLife: Pajammy Jam
 DTSTART;TZID=America/Los_Angeles:20261112T180000
 DTEND;TZID=America/Los_Angeles:20261112T200000

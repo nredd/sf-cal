@@ -40,24 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHERRYBOMB presents: A MONTHLY FUNDRAISER
-DTSTART;TZID=America/Los_Angeles:20261111T180000
-DTEND;TZID=America/Los_Angeles:20261111T200000
-DTSTAMP:20261105T110617Z
-UID:dothebay-17830478@sf-cal
-SEQUENCE:2
-CATEGORIES:Music
-DESCRIPTION:Free\n\nTickets: http://makeoutroom.com\nDetails: https://doth
- ebay.com/events/2026/11/11/dj-chopped-t-tickets\nSource: DoTheBay
-GEO:37.7552647;-122.4193588
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34369702/bf111d4a-5d19-4f3d-9f52-7739686d06e6.jpg
-LAST-MODIFIED:20261105T110617Z
-LOCATION:Make-Out Room\, 3225 22nd St.\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/11/dj-chopped-t-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ólafur Arnalds
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
