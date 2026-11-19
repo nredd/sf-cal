@@ -41,26 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Microsoft Ignite 2026
-DTSTART;TZID=America/Los_Angeles:20261111T223000
-DTEND;TZID=America/Los_Angeles:20261112T030000
-DTSTAMP:20261027T222129Z
-UID:sf-street-events-pending-1589716-2026-11-11T22:30:00-08:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 3rd St from Clementina St to Folsom St\; 3rd St from H
- oward St to Clementina St\; 4th St from Minna St to Howard St\n\nPermit st
- atus: Application In Review\nTimes are SFMTA street-closure permit times a
- nd include setup and teardown\nSource: DataSF Temporary Street Closures\n\
- nDetails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures 
- (pending permit)
-GEO:37.783999;-122.399195
-LAST-MODIFIED:20261027T222129Z
-LOCATION:3rd St between Howard St and Folsom St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Francis Scott Key Elementary Safety Block Party
 DTSTART;TZID=America/Los_Angeles:20261112T060000
 DTEND;TZID=America/Los_Angeles:20261112T090000
