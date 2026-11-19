@@ -1012,6 +1012,23 @@ URL:https://sf.funcheap.com/free-ice-skating-lessons-at-union-square-holid
  ay-rink-final-day-to-register/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Glen Park Tuesday Movie Night
+DTSTART;TZID=America/Los_Angeles:20261124T180000
+DTEND;TZID=America/Los_Angeles:20261124T210000
+DTSTAMP:20261119T204447Z
+UID:sfrecpark-main-580855a30d3afb95@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
+ ght on Tuesday\, November 24 from 6 pm - 9 pm https://sfrecpark.org/calend
+ ar.aspx?EID=10860\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?fee
+ d=calendar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261119T204447Z
+LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
+ Elk Street San Francisco CA 94131
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261125T090000
 DTEND;TZID=America/Los_Angeles:20261125T100000

@@ -41,25 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Francis Scott Key Elementary Safety Block Party
-DTSTART;TZID=America/Los_Angeles:20261112T060000
-DTEND;TZID=America/Los_Angeles:20261112T090000
-DTSTAMP:20261027T222129Z
-UID:sf-street-events-pending-1634344-2026-11-12T06:00:00-08:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: 42nd Ave from Kirkham St to Lawton St\n\nPermit status
- : Application In Review\nTimes are SFMTA street-closure permit times and i
- nclude setup and teardown\nSource: DataSF Temporary Street Closures\n\nDet
- ails: https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures (pen
- ding permit)
-GEO:37.757815;-122.50144
-LAST-MODIFIED:20261027T222129Z
-LOCATION:42nd Ave between Kirkham St and Lawton St\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Folsom Streetscape Project Ribbon Cutting
 DTSTART;TZID=America/Los_Angeles:20261118T080000
 DTEND;TZID=America/Los_Angeles:20261118T130000

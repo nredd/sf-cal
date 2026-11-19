@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-18T20:38:51.839045Z",
+ "last_full_refresh": "2026-11-19T20:44:47.191818Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -2281,6 +2281,33 @@
    ],
    "notes": [
     "Published by Punch Line Comedy Club",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "fffb77908439bb77",
+   "title": "Comedy Countdown",
+   "start": "2026-12-31T19:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/comedy-countdown-san-francisco-california-12-31-2026/event/1C00655412469029?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by Cobb's Comedy Club",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -43139,30 +43166,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1644961",
-   "title": "Death Café with Christine Comaford, End-of-Life Doula",
-   "start": "2026-11-12T04:00:00-08:00",
-   "end": "2026-11-12T07:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage (Corte Madera)",
-   "address": "51 Tamal Vista Blvd. Corte Madera, CA",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/death-caf-christine-comaford-endoflife-doula-3/",
-   "ticket_url": "https://bookpassage.com/event/2026-11-12/death-cafe-christine-comaford-end-life-doula",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerEOLPeace is holding a community gathering at Book Passage to explore death and the dying process. We will follow the format of Death Café, which was created by Jon Underwood in London approx. 12 years ago. It is a gently moderated conversation where all experiences are welcome, and tea and cookies will be served. Each month we come together to explore the sacredness of our mortality through a new theme.\nABOUT THIS EVENT\n\nThis event will be hosted by EOLPeace at Book Passage’s Corte Madera store.\nFree Admission / Open Seating\nFor any questions regarding our events, please contact us at books@bookpassage.com.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/DC-400-x-580-px.png",
-   "categories": [
-    "Lectures Workshops"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1646157",
    "title": "Trivia Night w/ Lindsay Wildlife at Headlands Brewing",
    "start": "2026-11-12T16:00:00-08:00",
@@ -66094,37 +66097,6 @@
   },
   {
    "source": "sf-street-events-pending",
-   "source_id": "1634344-2026-11-12T06:00:00-08:00",
-   "title": "Francis Scott Key Elementary Safety Block Party",
-   "start": "2026-11-12T06:00:00-08:00",
-   "end": "2026-11-12T09:00:00-08:00",
-   "all_day": false,
-   "bucket": "street-events-pending",
-   "venue": "42nd Ave between Kirkham St and Lawton St",
-   "address": null,
-   "locality": "San Francisco",
-   "geo": [
-    37.757815,
-    -122.50144
-   ],
-   "url": "https://data.sf.gov/d/8x25-yybr",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Closed: 42nd Ave from Kirkham St to Lawton St",
-   "image_url": null,
-   "categories": [
-    "Special Event"
-   ],
-   "notes": [
-    "Permit status: Application In Review",
-    "Times are SFMTA street-closure permit times and include setup and teardown",
-    "Source: DataSF Temporary Street Closures"
-   ]
-  },
-  {
-   "source": "sf-street-events-pending",
    "source_id": "1643878-2026-11-18T08:00:00-08:00",
    "title": "Folsom Streetscape Project Ribbon Cutting",
    "start": "2026-11-18T08:00:00-08:00",
@@ -66674,6 +66646,28 @@
   },
   {
    "source": "sfrecpark-main",
+   "source_id": "580855a30d3afb95",
+   "title": "Glen Park Tuesday Movie Night",
+   "start": "2026-11-24T18:00:00-08:00",
+   "end": "2026-11-24T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 Elk Street San Francisco CA 94131",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Glen Canyon Recreation Center for Tuesday Movie Night on Tuesday, November 24 from 6 pm - 9 pm https://sfrecpark.org/calendar.aspx?EID=10860",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "sfrecpark-main",
    "source_id": "78c79e404577cd9c",
    "title": "Chair Yoga",
    "start": "2026-12-01T14:00:00-08:00",
@@ -67121,28 +67115,12 @@
     "1640973": "2026-10-06T17:11:09",
     "1640976": "2026-10-07T14:14:08",
     "1640982": "2026-10-06T17:09:27",
-    "1640988": "2026-10-05T20:16:03",
-    "1640989": "2026-10-05T20:16:11",
-    "1640990": "2026-10-05T20:16:22",
-    "1640991": "2026-10-05T20:52:18",
     "1640994": "2026-10-18T17:56:04",
     "1640997": "2026-11-07T16:47:19",
-    "1641001": "2026-10-05T22:50:57",
-    "1641005": "2026-10-05T23:02:26",
-    "1641010": "2026-10-05T23:04:09",
-    "1641011": "2026-10-05T23:04:10",
-    "1641012": "2026-10-05T23:04:11",
-    "1641013": "2026-10-05T23:04:12",
-    "1641015": "2026-10-05T23:09:05",
     "1641019": "2026-11-13T19:09:35",
-    "1641022": "2026-10-05T23:14:22",
-    "1641024": "2026-10-05T23:14:23",
     "1641026": "2026-10-06T17:07:56",
     "1641029": "2026-10-06T17:08:25",
     "1641033": "2026-10-25T16:42:24",
-    "1641036": "2026-10-06T01:32:51",
-    "1641037": "2026-10-06T01:33:15",
-    "1641038": "2026-10-06T01:33:03",
     "1641046": "2026-10-18T18:30:28",
     "1641049": "2026-11-03T17:33:27",
     "1641053": "2026-10-06T04:15:24",
@@ -72423,9 +72401,9 @@
    "last_modified": "2026-11-01T16:05:46.530149Z"
   },
   "dothebay-17985540@sf-cal": {
-   "content_hash": "bb872417ea5bb3cab60495de54b060eaa673480bb4c0c8ae8b44933d9874b491",
-   "sequence": 2,
-   "last_modified": "2026-11-18T20:38:51.839045Z"
+   "content_hash": "110217625a02e28c5356f4e9ec1560c2f5f091a81d55518b78e8b6e7be2f915c",
+   "sequence": 3,
+   "last_modified": "2026-11-19T20:44:47.191818Z"
   },
   "dothebay-17985734@sf-cal": {
    "content_hash": "a736d9a4924063fb9a0831ac406882911b7eeebcf6d5093af01e268bd7b12bd3",
@@ -74642,11 +74620,6 @@
    "sequence": 0,
    "last_modified": "2026-10-30T01:15:25.948988Z"
   },
-  "funcheap-1644961@sf-cal": {
-   "content_hash": "ddf69b68a8c35fbdb80e31fe05b0fc4f987ba361b3f30203b041f26c5d9dff77",
-   "sequence": 0,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
   "funcheap-1644970@sf-cal": {
    "content_hash": "2cf82f6f7a908a83685b560728c021cc27df84e8cd72c3dec7ff84b94fd5f5ef",
    "sequence": 0,
@@ -76667,11 +76640,6 @@
    "sequence": 0,
    "last_modified": "2026-11-17T16:11:06.391159Z"
   },
-  "sf-street-events-pending-1634344-2026-11-12T06:00:00-08:00@sf-cal": {
-   "content_hash": "7f570d2608a8d7fc28286033071ce85693873c852186f58886d5c7055772aecc",
-   "sequence": 0,
-   "last_modified": "2026-10-27T22:21:29.169315Z"
-  },
   "sf-street-events-pending-1634439-2026-12-05T10:00:00-08:00@sf-cal": {
    "content_hash": "f42c69dd922d2d138dc423eedb4d1a542103d9d93a5ef3b89528c2e86a907768",
    "sequence": 1,
@@ -76761,6 +76729,11 @@
    "content_hash": "40eace63c3df24510fa9081cf6cdaa5ceb565b9428ebb9540a05892029d22541",
    "sequence": 0,
    "last_modified": "2026-11-02T19:33:55.918958Z"
+  },
+  "sfrecpark-main-580855a30d3afb95@sf-cal": {
+   "content_hash": "1338dfeb2a377f6718a93619048a7b7376ed065af6136c4f66bdd7a411f122b2",
+   "sequence": 0,
+   "last_modified": "2026-11-19T20:44:47.191818Z"
   },
   "sfrecpark-main-5aa83311a260af73@sf-cal": {
    "content_hash": "91078a154520c48e0a45852bacce9fb598d6f416910754d2fce5cdc71852afba",
