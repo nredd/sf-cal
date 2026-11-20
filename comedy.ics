@@ -40,85 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Nicole Aimee Schreiber
-DTSTART;TZID=America/Los_Angeles:20261112T200000
-DTEND;TZID=America/Los_Angeles:20261112T220000
-DTSTAMP:20261113T111006Z
-UID:dothebay-17642531@sf-cal
-SEQUENCE:5
-CATEGORIES:Comedy
-DESCRIPTION:Nicole Aimee Schreiber\nThursday\, November 12 | Punch Line Sa
- n Francisco\n\n18+\n\nTickets: https://www.punchlinecomedyclub.com/artist/
- K8vZ9179PqV/nicole-aimee-schreiber-events\nDetails: https://dothebay.com/e
- vents/2026/11/12/ricky-velez-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480370/03625044-dbc8-44fb-8c44-ca316f362691.jpg
-LAST-MODIFIED:20261113T111006Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/12/ricky-velez-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shame Cave Comedy Show: A Shameful Yet Shameless Night | SF
-DTSTART;TZID=America/Los_Angeles:20261112T200000
-DTEND;TZID=America/Los_Angeles:20261112T213000
-DTSTAMP:20261006T001646Z
-UID:funcheap-1636531@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Submitted by the Event OrganizerShame Cave Comedy Show: A Sham
- eful Yet Shameless Night | SF\nShame Cave Comedy Show\nA delightful evenin
- g of comedy\, happening every 2nd Thursday. Shameful things will be discus
- sed by the shameless and shameful. Maybe reach catharsis\, and if not\, th
- ere’s drinks.\nHosted by the ever-shame-wracked Annette Mullaney and fea
- turing the best of Bay Area and visiting comedians.\n\nShame Cave Comedy S
- how: A Shameful Yet Shameless Night\nEvery 2nd Thursday | 8 pm\nMission Hi
- ll Saloon\, 491 Potrero Avenue\, San Francisco\nFREE\n\n– Updated 6/26/1
- 9 – Event info last checked via website\n\nUpcoming Shame Cave Comedy Sh
- ow: A Shameful Yet Shameless Night | SF Events\nThu 10/8 Shame Cave Comedy
-  Show: A Shameful Yet Shameless Night | SFThu 11/12 Shame Cave Comedy Show
- : A Shameful Yet Shameless Night | SFThu 12/10 Shame Cave Comedy Show: A S
- hameful Yet Shameless Night | SFDisclaimer: Please double check event info
- rmation with the event organizer as events can be canceled\, details can c
- hange after they are added to our calendar\, and errors do occur.\n\nFree\
- n\nTickets: https://www.eventbrite.com/e/shame-cave-comedy-show-tickets-48
- 681319136\nDetails: https://sf.funcheap.com/shame-cave-comedy-show-a-shame
- ful-yet-shameless-night-sf-99/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/08/Annett
- e-Mullaney.png
-LAST-MODIFIED:20261006T001646Z
-LOCATION:Mission Hill Saloon\, 491 Potrero Ave\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/shame-cave-comedy-show-a-shameful-yet-shameles
- s-night-sf-99/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matt Berkeley & The Electronic Folk
-DTSTART;TZID=America/Los_Angeles:20261112T210000
-DTEND;TZID=America/Los_Angeles:20261113T010000
-DTSTAMP:20261113T111006Z
-UID:caldiscovery-comedy-5b9398fd1b3a4b86@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,music
-DESCRIPTION:A wide-ranging night of musical and comic performances led by 
- Matt Berkeley at Tupelo.\nMatt Berkeley & The Electrictronic Folk is a San
-  Francisco Bay Area-based group known for playing a mix of dubfunk Soul mu
- sic. The band features Matt Berkeley on keyboards and vocals\, along with 
- a rotating lineup that includes musicians like Dylan Greengard on guitar a
- nd Nate Pedley on bass.\n\nPublished by offbeatSF\nContains information fr
- om CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://offbeats
- f.com/event/matt-berkeley-variety-show-3/2026-11-12/?utm_source=caldiscove
- ry&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261113T111006Z
-LOCATION:Tupelo\, 1337 Grant Ave\, San Francisco\, CA\, 94133\, United Sta
- tes
-TRANSP:TRANSPARENT
-URL:https://offbeatsf.com/event/matt-berkeley-variety-show-3/2026-11-12/?u
- tm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drag Queen Bingo
 DTSTART;TZID=America/Los_Angeles:20261113T183000
 DTEND;TZID=America/Los_Angeles:20261113T203000
@@ -983,49 +904,23 @@ URL:https://dothebay.com/events/2026/11/18/infamous-boom-boom-comedy-showc
  ase-3rd-wednesdays-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Mic Comedy @ 620 Jones
-DTSTART;TZID=America/Los_Angeles:20261119T190000
-DTEND;TZID=America/Los_Angeles:20261119T203000
-DTSTAMP:20261104T110513Z
-UID:caldiscovery-comedy-2e839db6485cb228@sf-cal
-SEQUENCE:0
-CATEGORIES:comedy,music
-DESCRIPTION:Every other Thursday\, 620 Jones opens the mic to comedians te
- sting new material\, sharpening their sets and taking a few big swings.\nG
- rab a cocktail\, order some bites and catch a rotating lineup of local com
- ics in an intimate\, laid-back setting. Whether you’re stepping up to th
- e mic or just coming for the laughs\, everyone is welcome. And who knows\,
-  you can try your luck too!\n\nPublished by 620 Jones\nContains informatio
- n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-
- jones.com/calendar/open-mic-comedy-620-jones-4/?utm_source=caldiscovery&ut
- m_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261104T110513Z
-LOCATION:620 Jones\, 620 Jones St.\, San Francisco\, CA\, 94102\, United S
- tates
-TRANSP:TRANSPARENT
-URL:https://620-jones.com/calendar/open-mic-comedy-620-jones-4/?utm_source
- =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Amber Autry
 DTSTART;TZID=America/Los_Angeles:20261119T190000
 DTEND;TZID=America/Los_Angeles:20261119T210000
-DTSTAMP:20261020T194441Z
+DTSTAMP:20261120T115052Z
 UID:dothebay-17264524@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Amber Autry\nThursday\, November 19 | Cobb's Comedy Club\n\n18
  +\nSold out\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
  ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Famber-autry-san-f
  rancisco-california-11-19-2026%2Fevent%2F1C006496BD5B277D\nDetails: https:
  //dothebay.com/events/2026/11/19/amber-autry-tickets-qro7v1l\nSource: DoTh
- eBay\n\nAlso listed on:\n- https://www.ticketmaster.com/amber-autry-san-fr
- ancisco-california-11-19-2026/event/1C006496BD5B277D?utm_source=caldiscove
- ry&utm_medium=ics&utm_campaign=san-francisco-ca
+ eBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31689598/9766da3f-db47-4346-96aa-08f5c7f7d6ed.png
-LAST-MODIFIED:20261020T194441Z
+LAST-MODIFIED:20261120T115052Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -1085,22 +980,19 @@ BEGIN:VEVENT
 SUMMARY:Amber Autry
 DTSTART;TZID=America/Los_Angeles:20261119T211500
 DTEND;TZID=America/Los_Angeles:20261119T231500
-DTSTAMP:20261020T194441Z
+DTSTAMP:20261120T115052Z
 UID:dothebay-17264523@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Amber Autry\nThursday\, November 19 | Cobb's Comedy Club\n\n18
  +\nSold out\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
  ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Famber-autry-san-f
  rancisco-california-11-19-2026%2Fevent%2F1C006496BD562772\nDetails: https:
- //dothebay.com/events/2026/11/19/amber-autry-tickets\nSource: DoTheBay\n\n
- Also listed on:\n- https://www.ticketmaster.com/amber-autry-san-francisco-
- california-11-19-2026/event/1C006496BD5B277D?utm_source=caldiscovery&utm_m
- edium=ics&utm_campaign=san-francisco-ca
+ //dothebay.com/events/2026/11/19/amber-autry-tickets\nSource: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/31689589/939c049f-f258-4742-810c-18a30f2b26ea.png
-LAST-MODIFIED:20261020T194441Z
+LAST-MODIFIED:20261120T115052Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -1627,18 +1519,19 @@ BEGIN:VEVENT
 SUMMARY:Forever Improv
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261107T174631Z
+DTSTAMP:20261120T115052Z
 UID:dothebay-18054654@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Comedy
 DESCRIPTION:GA is $10\, Sliding scale + NOTAFLOF\n\nTickets: https://consu
  mer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fforever-improv-
  eclectic-box-tickets-2004197116527\nDetails: https://dothebay.com/events/2
- 026/11/21/forever-improv-tickets\nSource: DoTheBay
+ 026/11/21/forever-improv-tickets\nSource: DoTheBay\n\nAlso listed on:\n- h
+ ttps://sf.funcheap.com/improv/
 GEO:37.76577;-122.4223
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35380583/b5164921-b89e-4daf-8497-7ff05abbca99.jpg
-LAST-MODIFIED:20261107T174631Z
+LAST-MODIFIED:20261120T115052Z
 LOCATION:Eclectic Box SF\, 446 Valencia Street\, San Francisco\, CA\, 9410
  3
 TRANSP:TRANSPARENT
@@ -5943,6 +5836,24 @@ URL:https://www.ticketmaster.com/emily-catalano-san-francisco-california-1
  m_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rick McKay's Xmas Special
+DTSTART;TZID=America/Los_Angeles:20261220T190000
+DTEND;TZID=America/Los_Angeles:20261220T220000
+DTSTAMP:20261120T115052Z
+UID:caldiscovery-comedy-1b20c24863a28596@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,holiday
+DESCRIPTION:Published by The Royale\nContains information from CalDiscover
+ y (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.theroyalesf.com/ca
+ lendar/rick-mckays-xmas-special?utm_source=caldiscovery&utm_medium=ics&utm
+ _campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261120T115052Z
+LOCATION:The Royale\, 800 Post St\, San Francisco\, CA 94109
+TRANSP:TRANSPARENT
+URL:https://www.theroyalesf.com/calendar/rick-mckays-xmas-special?utm_sour
+ ce=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ali Wong Live
 DTSTART;TZID=America/Los_Angeles:20261220T190000
 DTEND;TZID=America/Los_Angeles:20261220T210000
@@ -8038,6 +7949,27 @@ LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
 TRANSP:TRANSPARENT
 URL:https://www.dnalounge.com/calendar/2027/01-18d.html?utm_source=caldisc
  overy&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF Sketchfest Presents: Desi Comedy Fest
+DTSTART;TZID=America/Los_Angeles:20270119T193000
+DTEND;TZID=America/Los_Angeles:20270119T213000
+DTSTAMP:20261120T115052Z
+UID:caldiscovery-comedy-64d50d96804c78e2@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by Punch Line Comedy Club\nContains information from
+  CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.ticket
+ master.com/sf-sketchfest-presents-desi-comedy-fest-san-francisco-californi
+ a-01-19-2027/event/1C00656CB30FDEE9?utm_source=caldiscovery&utm_medium=ics
+ &utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261120T115052Z
+LOCATION:Punch Line Comedy Club - San Francisco\, 444 Battery Street\, San
+  Francisco\, CA\, 94111
+TRANSP:TRANSPARENT
+URL:https://www.ticketmaster.com/sf-sketchfest-presents-desi-comedy-fest-s
+ an-francisco-california-01-19-2027/event/1C00656CB30FDEE9?utm_source=caldi
+ scovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First Tuesdays Free Comedy Showcase & Happy Hour | The Layover
