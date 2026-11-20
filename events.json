@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-19T20:44:47.191818Z",
+ "last_full_refresh": "2026-11-20T20:28:53.168068Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -3549,6 +3549,33 @@
   },
   {
    "source": "caldiscovery-festival",
+   "source_id": "1cdcc7147d8c986d",
+   "title": "Chanukah Around the World Family Festival",
+   "start": "2026-12-06T16:30:00-08:00",
+   "end": "2026-12-06T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "East Bay Jewish Community Campus",
+   "address": "5957 Chabot Road, Oakland, 94618, United States",
+   "locality": null,
+   "geo": null,
+   "url": "https://jewishfed.org/event/chanukah-around-the-world-family-festival/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Join us at JCC East Bay for our Chanukah Around the World Celebration for the first time ever in our brand new Rockridge location!\nJust as the sun sets, we will gather together to try celebratory foods from different countries, learn about important customs and traditions from Jewish communities around the world, and participate in a communal chanukiyah lighting! You can expect to make your own hanging menorahs like Morrocan and Indian-Jews, learn how dreidel is played in Israel, hand-press olives like Jewish communities in Italy do, and so much more!\nEnjoy live music by Lior Ben-Hur and his band, Music By Heart!\nPlus, even more fun with Wilderness Torah, Olamim , Eden Village West, PJ Library, Camp Tawonga, Oakland Hebrew Day School and Contra Costa Jewish Day School!\nThis Chanukah program is geared toward children ages 2-8, but all are welcome!\nThis will be an outdoor event so we suggest bundling yourself and your little one for comfort!",
+   "image_url": null,
+   "categories": [
+    "festival"
+   ],
+   "notes": [
+    "Published by Jewish Federation Bay Area",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-festival",
    "source_id": "a4190f2821375da1",
    "title": "AHITH FEST 2026: Twice Midnight ~ 5:15 PM",
    "start": "2026-12-06T17:15:00-08:00",
@@ -4676,33 +4703,6 @@
    "description": "Stomach Cancer Awareness Day",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17663884",
-   "title": "Dorian Wood: Canto de Todes + Roco Córdova",
-   "start": "2026-11-13T08:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Lab",
-   "address": "2948 16th Street, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.765289,
-    -122.418493
-   ],
-   "url": "https://dothebay.com/events/2026/11/13/dorian-wood-canto-de-todes-roco-cordova-tickets",
-   "ticket_url": "https://link.dice.fm/Ibd4d3e150c5",
-   "price_text": "$29",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Buy Tickets\n\nDoors 7:30pm / Show 8pm\n\n$29 / free or discounted for members\n\nMember tickets are not yet available for Fall 2026 Programs\n\nWeaving together chamber classical, folk, torch song, and experimental music, Dorian Wood’s Canto de Todes is a 70-minute distillation born from Wood’s acclaimed 12-hour composition and installation. The title—Spanish for “Song of Everyone”—is inspired by a lyric of the late Chilean singer and songwriter Violeta Parra. Canto de Todes emphasizes the urgency of music as a vessel for social change, and honors the ancestral trajectory of Wood’s Costa Rican-Nicaraguan family and their experience in the U.S.\n\nDorian Wood (b. 1975, pronouns: she/her/they/them) is an anti-disciplinary artist based in the U.S., whose practice seeks to “infect” spaces and ideologies in order to challenge traditions and systems of marginalization. Her performances, films and visual works have been presented worldwide. From 2019–2020, Wood toured internationally with XAVELA LUX AETERNA, a chamber orchestra tribute to Chavela Vargas. Subsequent works Mares Ocultos (2022), a compositional series centering on deconstructing male heterosexuality.\n\nBorn in San Juan, Puerto Rico, Roco Córdova is a vocalist, composer, producer and improviser based in the San Francisco Bay Area. They possess a B.Mus. in Composition from the Puerto Rico Conservatory of Music and an M.A. in Composition from Mills College in Oakland, California. They have studied under the guidance of Carlos Carri...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33577742/200c6931-e022-44e0-8a37-450f0f2642d6.jpg",
-   "categories": [
-    "Variety"
-   ],
    "notes": []
   },
   {
@@ -41956,30 +41956,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1639218",
-   "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
-   "start": "2026-11-13T09:00:00-08:00",
-   "end": "2026-11-13T10:00:00-08:00",
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": null,
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-458/",
-   "ticket_url": "https://www.japaneseteagardensf.com/vist",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)\nJapanese Tea Garden\nThe Japanese Tea Garden provides visitors from around the world with an opportunity to experience the natural beauty, tranquility, and harmony of a Japanese-style garden in the heart of San Francisco’s Golden Gate Park.\nOriginally created as a “Japanese Village” exhibit for the 1894 California Midwinter International Exposition, the Japanese Tea Garden endures as one of the most popular attractions in San Francisco, featuring classic elements such as an arched drum bridge, pagodas, stone lanterns, stepping stone paths, native Japanese plants, serene koi ponds, and a zen garden. Cherry blossom trees bloom throughout the garden in March and April.\nAdmission to the Japanese Tea Garden is free for San Francisco residents with valid ID. Free hours for everyone (even non-residents) are 9-10 am every Monday, Wednesday and Friday.\n\nPlease note that hours and costs change frequently.\nJapanese Tea Garden\n75 Hagiwara Tea Garden, Golden Gate Park, SF\nFREE for San Francisco Residents w/ ID\nFREE for Everyone from 9-10 am on Mondays, Wednesdays and Fridays\nNon Resident Fees\nAdults: $12-16 (depends on season)\n(February – November) $14\n(December – January) $12\n(Weekends year-round) $16\nSeniors (ages 65+ w/ID) $7\nYouth (ages 12-17) $7\nChildren (ages 5-11) $3\nChildren (under 5) FREE\nHours Of Operation\nLast entry 30 minutes before closing\nSpring – Summer Hours\nMarch – October\n9am – 5:45pm\nFall – Winter Hours\nNovembe...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2020/07/japaneseteagarden-scaled-e1595352236641.jpeg",
-   "categories": [
-    "Outdoors"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1640123",
    "title": "Harvest Festival: Original Art + Craft Show (San Jose)",
    "start": "2026-11-13T10:00:00-08:00",
@@ -47672,6 +47648,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648217",
+   "title": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)",
+   "start": "2026-11-21T09:30:00-08:00",
+   "end": "2026-11-21T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "CuriOdyssey",
+   "address": "1651 Coyote Point Dr. San Mateo, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/illuminodyssey-10-interactive-glowing-science-adventure-nov-14jan-24/",
+   "ticket_url": "https://curiodyssey.org/illuminodyssey10/?utm_source=SFFunCheap&amp;utm_medium=event+listing&amp;utm_id=IlluminOdyssey10",
+   "price_text": "$29.95",
+   "is_free": false,
+   "sold_out": false,
+   "description": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)\nCuriOdyssey\n10 years. 10 new exhibits. One glowing holiday journey into the science of light. Catch the light: November 14, 2026 – January 24, 2027.\nInspired by the science of light, IlluminOdyssey is an immersive, interactive installation that will mesmerize kids and adults of all ages.\nCuriOdyssey’s four-level Redwood Hall will transform into a glowing forest of science—light your way through a maze of luminous botanical geometry, play with rainbow refraction and swirling projections, paint with light on phosphorescent surfaces, and dance with your shadow.\nExplore the physical properties of light, such as photoluminescence, color, additive light mixing, waves, fluorescence, fluid dynamics, subtractive color mixing, and refraction.\nIlluminOdyssey 10\nNovember 14 – January 24, 2027 | 9:30a – 4:30p\nCuriOdyssey, 1651 Coyote Point Dr., San Mateo\nTickets at $29.95 GA; Free for CuriOdysse members\n* Please note: This is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected. Learn more in our IlluminOdyssey Social Story.\nIlluminOdyssey is celebrating 10 years the only way we know how: bigger and better than ever. This milestone year brings 10 new glowing exhibits packed into Redwood Hall, with beloved favorites alongside dazzling new additions. This fan-favorite exhibition is free with admission or membership.\nCuriOdyssey’s hands-on approach t...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/mylar-light.jpg",
+   "categories": [
+    "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1637771",
    "title": "Free PresidiGo Shuttle | Downtown to Presidio",
    "start": "2026-11-21T10:00:00-08:00",
@@ -49415,6 +49415,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/03/336420676_191259253622294_9170804618822786309_n.jpg",
    "categories": [
     "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1648253",
+   "title": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)",
+   "start": "2026-11-24T09:30:00-08:00",
+   "end": "2026-11-24T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "CuriOdyssey",
+   "address": "1651 Coyote Point Dr. San Mateo, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/illuminodyssey-10-interactive-glowing-science-adventure-nov-14-jan-24-9/",
+   "ticket_url": "https://curiodyssey.org/illuminodyssey10/?utm_source=SFFunCheap&amp;utm_medium=event+listing&amp;utm_id=IlluminOdyssey10",
+   "price_text": "$29.95",
+   "is_free": false,
+   "sold_out": false,
+   "description": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)\nCuriOdyssey\n10 years. 10 new exhibits. One glowing holiday journey into the science of light. Catch the light: November 14, 2026 – January 24, 2027.\nInspired by the science of light, IlluminOdyssey is an immersive, interactive installation that will mesmerize kids and adults of all ages.\nCuriOdyssey’s four-level Redwood Hall will transform into a glowing forest of science—light your way through a maze of luminous botanical geometry, play with rainbow refraction and swirling projections, paint with light on phosphorescent surfaces, and dance with your shadow.\nExplore the physical properties of light, such as photoluminescence, color, additive light mixing, waves, fluorescence, fluid dynamics, subtractive color mixing, and refraction.\nIlluminOdyssey 10\nNovember 14 – January 24, 2027 | 9:30a – 4:30p\nCuriOdyssey, 1651 Coyote Point Dr., San Mateo\nTickets at $29.95 GA; Free for CuriOdysse members\n* Please note: This is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected. Learn more in our IlluminOdyssey Social Story.\nIlluminOdyssey is celebrating 10 years the only way we know how: bigger and better than ever. This milestone year brings 10 new glowing exhibits packed into Redwood Hall, with beloved favorites alongside dazzling new additions. This fan-favorite exhibition is free with admission or membership.\nCuriOdyssey’s hands-on approach t...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/mylar-light.jpg",
+   "categories": [
+    "Kids Families"
    ],
    "notes": []
   },
@@ -53536,6 +53560,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648242",
+   "title": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)",
+   "start": "2026-12-05T09:30:00-08:00",
+   "end": "2026-12-05T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "CuriOdyssey",
+   "address": "1651 Coyote Point Dr. San Mateo, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/illuminodyssey-10-interactive-glowing-science-adventure-nov-14-jan-24/",
+   "ticket_url": "https://curiodyssey.org/illuminodyssey10/?utm_source=SFFunCheap&amp;utm_medium=event+listing&amp;utm_id=IlluminOdyssey10",
+   "price_text": "$29.95",
+   "is_free": false,
+   "sold_out": false,
+   "description": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)\nCuriOdyssey\n10 years. 10 new exhibits. One glowing holiday journey into the science of light. Catch the light: November 14, 2026 – January 24, 2027.\nInspired by the science of light, IlluminOdyssey is an immersive, interactive installation that will mesmerize kids and adults of all ages.\nCuriOdyssey’s four-level Redwood Hall will transform into a glowing forest of science—light your way through a maze of luminous botanical geometry, play with rainbow refraction and swirling projections, paint with light on phosphorescent surfaces, and dance with your shadow.\nExplore the physical properties of light, such as photoluminescence, color, additive light mixing, waves, fluorescence, fluid dynamics, subtractive color mixing, and refraction.\nIlluminOdyssey 10\nNovember 14 – January 24, 2027 | 9:30a – 4:30p\nCuriOdyssey, 1651 Coyote Point Dr., San Mateo\nTickets at $29.95 GA; Free for CuriOdysse members\n* Please note: This is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected. Learn more in our IlluminOdyssey Social Story.\nIlluminOdyssey is celebrating 10 years the only way we know how: bigger and better than ever. This milestone year brings 10 new glowing exhibits packed into Redwood Hall, with beloved favorites alongside dazzling new additions. This fan-favorite exhibition is free with admission or membership.\nCuriOdyssey’s hands-on approach t...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/mylar-light.jpg",
+   "categories": [
+    "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1641053",
    "title": "“Healthy Parks Healthy People”: Monthly Nature Walks | Bay Area",
    "start": "2026-12-05T10:00:00-08:00",
@@ -56408,6 +56456,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648243",
+   "title": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)",
+   "start": "2026-12-12T09:30:00-08:00",
+   "end": "2026-12-12T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "CuriOdyssey",
+   "address": "1651 Coyote Point Dr. San Mateo, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/illuminodyssey-10-interactive-glowing-science-adventure-nov-14-jan-24-2/",
+   "ticket_url": "https://curiodyssey.org/illuminodyssey10/?utm_source=SFFunCheap&amp;utm_medium=event+listing&amp;utm_id=IlluminOdyssey10",
+   "price_text": "$29.95",
+   "is_free": false,
+   "sold_out": false,
+   "description": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)\nCuriOdyssey\n10 years. 10 new exhibits. One glowing holiday journey into the science of light. Catch the light: November 14, 2026 – January 24, 2027.\nInspired by the science of light, IlluminOdyssey is an immersive, interactive installation that will mesmerize kids and adults of all ages.\nCuriOdyssey’s four-level Redwood Hall will transform into a glowing forest of science—light your way through a maze of luminous botanical geometry, play with rainbow refraction and swirling projections, paint with light on phosphorescent surfaces, and dance with your shadow.\nExplore the physical properties of light, such as photoluminescence, color, additive light mixing, waves, fluorescence, fluid dynamics, subtractive color mixing, and refraction.\nIlluminOdyssey 10\nNovember 14 – January 24, 2027 | 9:30a – 4:30p\nCuriOdyssey, 1651 Coyote Point Dr., San Mateo\nTickets at $29.95 GA; Free for CuriOdysse members\n* Please note: This is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected. Learn more in our IlluminOdyssey Social Story.\nIlluminOdyssey is celebrating 10 years the only way we know how: bigger and better than ever. This milestone year brings 10 new glowing exhibits packed into Redwood Hall, with beloved favorites alongside dazzling new additions. This fan-favorite exhibition is free with admission or membership.\nCuriOdyssey’s hands-on approach t...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/mylar-light.jpg",
+   "categories": [
+    "Kids Families"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1644146",
    "title": "Japanese Vintage Holiday Mini Pop-up Market",
    "start": "2026-12-12T10:00:00-08:00",
@@ -58064,6 +58136,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648221",
+   "title": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots",
+   "start": "2026-12-17T21:00:00-08:00",
+   "end": "2026-12-18T02:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "The Function",
+   "address": "1414 Market Street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-party-3-shots-sf-11/",
+   "ticket_url": "https://www.eventbrite.com/e/arcade-karaoke-sfs-wild-new-thursday-party-night-free-tickets-1987841834438?aff=oddtdtcreator&amp;keep_tld=true",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots (SF)\nHellaFunny\n\nSing all night. 1000+ songs. Crazy Hour $3 shots every hour!\n\n🎤 CRAZY KARAOKE THURSDAYS AT THE FUNCTION\nThursdays | 9PM until close\nGrab the mic and sing your heart out at San Francisco’s newest karaoke night.\nFree with RSVP – 21+\nWhether you’re a seasoned performer, a shower singer, or just there to cheer on your friends, Karaoke Thursdays is all about great songs, great drinks, and a fun, welcoming crowd.\n🎵 WHAT TO EXPECT\n• 1000+ songs spanning every genre and era\n• Solo performances, duets, and group sing-alongs\n• Big screens, great sound, and a lively late-night atmosphere\n• Live song requests throughout the night\n🛋 UPSTAIRS “NEXT LEVEL” LOUNGE\nNeed a break from the spotlight? Head upstairs to the Next Level Lounge for comfortable seating, drinks, and a live feed of the karaoke stage so you won’t miss a thing.\n🍹 DRINK SPECIALS\n• Crazy Hour – $3 shots every hour, on the hour\n🎟 TICKET OPTIONS\nGeneral Admission (Free) – 21+\nGet in free, add your name to the karaoke list, grab a drink, and get ready for your moment on stage. Seating is first come, first served.\nVIP Rockstar Pass – Fast Track ($10) – 21+\n• Skip the karaoke line and get on stage faster\n• Priority access to performances\n• VIP seating held until 10PM\n• Limited availability\nDoors at 9PM. Show up early, stay late.\nTo help support our bar and wait staff, there is a two drink minimum per person. Shots, non-alcoholic beverages, and sodas cou...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/04/crazykaraoke.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645382",
    "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
    "start": "2026-12-18T09:00:00-08:00",
@@ -58299,6 +58395,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2019/02/MUSEUM_SETTING.jpg",
    "categories": [
     "Art Museums"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1648244",
+   "title": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)",
+   "start": "2026-12-19T09:30:00-08:00",
+   "end": "2026-12-19T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "CuriOdyssey",
+   "address": "1651 Coyote Point Dr. San Mateo, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/illuminodyssey-10-interactive-glowing-science-adventure-nov-14-jan-24-3/",
+   "ticket_url": "https://curiodyssey.org/illuminodyssey10/?utm_source=SFFunCheap&amp;utm_medium=event+listing&amp;utm_id=IlluminOdyssey10",
+   "price_text": "$29.95",
+   "is_free": false,
+   "sold_out": false,
+   "description": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)\nCuriOdyssey\n10 years. 10 new exhibits. One glowing holiday journey into the science of light. Catch the light: November 14, 2026 – January 24, 2027.\nInspired by the science of light, IlluminOdyssey is an immersive, interactive installation that will mesmerize kids and adults of all ages.\nCuriOdyssey’s four-level Redwood Hall will transform into a glowing forest of science—light your way through a maze of luminous botanical geometry, play with rainbow refraction and swirling projections, paint with light on phosphorescent surfaces, and dance with your shadow.\nExplore the physical properties of light, such as photoluminescence, color, additive light mixing, waves, fluorescence, fluid dynamics, subtractive color mixing, and refraction.\nIlluminOdyssey 10\nNovember 14 – January 24, 2027 | 9:30a – 4:30p\nCuriOdyssey, 1651 Coyote Point Dr., San Mateo\nTickets at $29.95 GA; Free for CuriOdysse members\n* Please note: This is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected. Learn more in our IlluminOdyssey Social Story.\nIlluminOdyssey is celebrating 10 years the only way we know how: bigger and better than ever. This milestone year brings 10 new glowing exhibits packed into Redwood Hall, with beloved favorites alongside dazzling new additions. This fan-favorite exhibition is free with admission or membership.\nCuriOdyssey’s hands-on approach t...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/mylar-light.jpg",
+   "categories": [
+    "Kids Families"
    ],
    "notes": []
   },
@@ -59214,6 +59334,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648223",
+   "title": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots",
+   "start": "2026-12-24T21:00:00-08:00",
+   "end": "2026-12-25T02:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "The Function",
+   "address": "1414 Market Street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-party-3-shots-sf-12/",
+   "ticket_url": "https://www.eventbrite.com/e/arcade-karaoke-sfs-wild-new-thursday-party-night-free-tickets-1987841834438?aff=oddtdtcreator&amp;keep_tld=true",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots (SF)\nHellaFunny\n\nSing all night. 1000+ songs. Crazy Hour $3 shots every hour!\n\n🎤 CRAZY KARAOKE THURSDAYS AT THE FUNCTION\nThursdays | 9PM until close\nGrab the mic and sing your heart out at San Francisco’s newest karaoke night.\nFree with RSVP – 21+\nWhether you’re a seasoned performer, a shower singer, or just there to cheer on your friends, Karaoke Thursdays is all about great songs, great drinks, and a fun, welcoming crowd.\n🎵 WHAT TO EXPECT\n• 1000+ songs spanning every genre and era\n• Solo performances, duets, and group sing-alongs\n• Big screens, great sound, and a lively late-night atmosphere\n• Live song requests throughout the night\n🛋 UPSTAIRS “NEXT LEVEL” LOUNGE\nNeed a break from the spotlight? Head upstairs to the Next Level Lounge for comfortable seating, drinks, and a live feed of the karaoke stage so you won’t miss a thing.\n🍹 DRINK SPECIALS\n• Crazy Hour – $3 shots every hour, on the hour\n🎟 TICKET OPTIONS\nGeneral Admission (Free) – 21+\nGet in free, add your name to the karaoke list, grab a drink, and get ready for your moment on stage. Seating is first come, first served.\nVIP Rockstar Pass – Fast Track ($10) – 21+\n• Skip the karaoke line and get on stage faster\n• Priority access to performances\n• VIP seating held until 10PM\n• Limited availability\nDoors at 9PM. Show up early, stay late.\nTo help support our bar and wait staff, there is a two drink minimum per person. Shots, non-alcoholic beverages, and sodas cou...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/04/crazykaraoke.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1645384",
    "title": "Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)",
    "start": "2026-12-25T09:00:00-08:00",
@@ -59881,6 +60025,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/DEC31_DD2.jpg",
    "categories": [
     "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1648225",
+   "title": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots",
+   "start": "2026-12-31T21:00:00-08:00",
+   "end": "2027-01-01T02:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "The Function",
+   "address": "1414 Market Street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-party-3-shots-sf-13/",
+   "ticket_url": "https://www.eventbrite.com/e/arcade-karaoke-sfs-wild-new-thursday-party-night-free-tickets-1987841834438?aff=oddtdtcreator&amp;keep_tld=true",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots (SF)\nHellaFunny\n\nSing all night. 1000+ songs. Crazy Hour $3 shots every hour!\n\n🎤 CRAZY KARAOKE THURSDAYS AT THE FUNCTION\nThursdays | 9PM until close\nGrab the mic and sing your heart out at San Francisco’s newest karaoke night.\nFree with RSVP – 21+\nWhether you’re a seasoned performer, a shower singer, or just there to cheer on your friends, Karaoke Thursdays is all about great songs, great drinks, and a fun, welcoming crowd.\n🎵 WHAT TO EXPECT\n• 1000+ songs spanning every genre and era\n• Solo performances, duets, and group sing-alongs\n• Big screens, great sound, and a lively late-night atmosphere\n• Live song requests throughout the night\n🛋 UPSTAIRS “NEXT LEVEL” LOUNGE\nNeed a break from the spotlight? Head upstairs to the Next Level Lounge for comfortable seating, drinks, and a live feed of the karaoke stage so you won’t miss a thing.\n🍹 DRINK SPECIALS\n• Crazy Hour – $3 shots every hour, on the hour\n🎟 TICKET OPTIONS\nGeneral Admission (Free) – 21+\nGet in free, add your name to the karaoke list, grab a drink, and get ready for your moment on stage. Seating is first come, first served.\nVIP Rockstar Pass – Fast Track ($10) – 21+\n• Skip the karaoke line and get on stage faster\n• Priority access to performances\n• VIP seating held until 10PM\n• Limited availability\nDoors at 9PM. Show up early, stay late.\nTo help support our bar and wait staff, there is a two drink minimum per person. Shots, non-alcoholic beverages, and sodas cou...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/04/crazykaraoke.png",
+   "categories": [
+    "Club Dj"
    ],
    "notes": []
   },
@@ -60702,6 +60870,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648227",
+   "title": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots",
+   "start": "2027-01-07T21:00:00-08:00",
+   "end": "2027-01-08T02:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "The Function",
+   "address": "1414 Market Street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-party-3-shots-sf-14/",
+   "ticket_url": "https://www.eventbrite.com/e/arcade-karaoke-sfs-wild-new-thursday-party-night-free-tickets-1987841834438?aff=oddtdtcreator&amp;keep_tld=true",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots (SF)\nHellaFunny\n\nSing all night. 1000+ songs. Crazy Hour $3 shots every hour!\n\n🎤 CRAZY KARAOKE THURSDAYS AT THE FUNCTION\nThursdays | 9PM until close\nGrab the mic and sing your heart out at San Francisco’s newest karaoke night.\nFree with RSVP – 21+\nWhether you’re a seasoned performer, a shower singer, or just there to cheer on your friends, Karaoke Thursdays is all about great songs, great drinks, and a fun, welcoming crowd.\n🎵 WHAT TO EXPECT\n• 1000+ songs spanning every genre and era\n• Solo performances, duets, and group sing-alongs\n• Big screens, great sound, and a lively late-night atmosphere\n• Live song requests throughout the night\n🛋 UPSTAIRS “NEXT LEVEL” LOUNGE\nNeed a break from the spotlight? Head upstairs to the Next Level Lounge for comfortable seating, drinks, and a live feed of the karaoke stage so you won’t miss a thing.\n🍹 DRINK SPECIALS\n• Crazy Hour – $3 shots every hour, on the hour\n🎟 TICKET OPTIONS\nGeneral Admission (Free) – 21+\nGet in free, add your name to the karaoke list, grab a drink, and get ready for your moment on stage. Seating is first come, first served.\nVIP Rockstar Pass – Fast Track ($10) – 21+\n• Skip the karaoke line and get on stage faster\n• Priority access to performances\n• VIP seating held until 10PM\n• Limited availability\nDoors at 9PM. Show up early, stay late.\nTo help support our bar and wait staff, there is a two drink minimum per person. Shots, non-alcoholic beverages, and sodas cou...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/04/crazykaraoke.png",
+   "categories": [
+    "Club Dj"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1640531",
    "title": "Sadderday: An Emo/Pop-Punk/Screamo Dance Party | SF",
    "start": "2027-01-07T21:30:00-08:00",
@@ -60793,6 +60985,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Ragazzi-Open-Rehearsal-January-2027.png",
    "categories": [
     "Live Music Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1648249",
+   "title": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)",
+   "start": "2027-01-09T09:30:00-08:00",
+   "end": "2027-01-09T16:30:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "CuriOdyssey",
+   "address": "1651 Coyote Point Dr. San Mateo, CA",
+   "locality": null,
+   "geo": null,
+   "url": "https://sf.funcheap.com/illuminodyssey-10-interactive-glowing-science-adventure-nov-14-jan-24-8/",
+   "ticket_url": "https://curiodyssey.org/illuminodyssey10/?utm_source=SFFunCheap&amp;utm_medium=event+listing&amp;utm_id=IlluminOdyssey10",
+   "price_text": "$29.95",
+   "is_free": false,
+   "sold_out": false,
+   "description": "IlluminOdyssey 10: Interactive Glowing Science Adventure (Nov. 14-Jan. 24)\nCuriOdyssey\n10 years. 10 new exhibits. One glowing holiday journey into the science of light. Catch the light: November 14, 2026 – January 24, 2027.\nInspired by the science of light, IlluminOdyssey is an immersive, interactive installation that will mesmerize kids and adults of all ages.\nCuriOdyssey’s four-level Redwood Hall will transform into a glowing forest of science—light your way through a maze of luminous botanical geometry, play with rainbow refraction and swirling projections, paint with light on phosphorescent surfaces, and dance with your shadow.\nExplore the physical properties of light, such as photoluminescence, color, additive light mixing, waves, fluorescence, fluid dynamics, subtractive color mixing, and refraction.\nIlluminOdyssey 10\nNovember 14 – January 24, 2027 | 9:30a – 4:30p\nCuriOdyssey, 1651 Coyote Point Dr., San Mateo\nTickets at $29.95 GA; Free for CuriOdysse members\n* Please note: This is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected. Learn more in our IlluminOdyssey Social Story.\nIlluminOdyssey is celebrating 10 years the only way we know how: bigger and better than ever. This milestone year brings 10 new glowing exhibits packed into Redwood Hall, with beloved favorites alongside dazzling new additions. This fan-favorite exhibition is free with admission or membership.\nCuriOdyssey’s hands-on approach t...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/mylar-light.jpg",
+   "categories": [
+    "Kids Families"
    ],
    "notes": []
   },
@@ -61201,6 +61417,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2018/08/Annette-Mullaney.png",
    "categories": [
     "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1648229",
+   "title": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots",
+   "start": "2027-01-14T21:00:00-08:00",
+   "end": "2027-01-15T02:00:00-08:00",
+   "all_day": false,
+   "bucket": "nightlife",
+   "venue": "The Function",
+   "address": "1414 Market Street, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-party-3-shots-sf-15/",
+   "ticket_url": "https://www.eventbrite.com/e/arcade-karaoke-sfs-wild-new-thursday-party-night-free-tickets-1987841834438?aff=oddtdtcreator&amp;keep_tld=true",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "Crazy Karaoke: SF’s Wild New Thursday Night Party + $3 Shots (SF)\nHellaFunny\n\nSing all night. 1000+ songs. Crazy Hour $3 shots every hour!\n\n🎤 CRAZY KARAOKE THURSDAYS AT THE FUNCTION\nThursdays | 9PM until close\nGrab the mic and sing your heart out at San Francisco’s newest karaoke night.\nFree with RSVP – 21+\nWhether you’re a seasoned performer, a shower singer, or just there to cheer on your friends, Karaoke Thursdays is all about great songs, great drinks, and a fun, welcoming crowd.\n🎵 WHAT TO EXPECT\n• 1000+ songs spanning every genre and era\n• Solo performances, duets, and group sing-alongs\n• Big screens, great sound, and a lively late-night atmosphere\n• Live song requests throughout the night\n🛋 UPSTAIRS “NEXT LEVEL” LOUNGE\nNeed a break from the spotlight? Head upstairs to the Next Level Lounge for comfortable seating, drinks, and a live feed of the karaoke stage so you won’t miss a thing.\n🍹 DRINK SPECIALS\n• Crazy Hour – $3 shots every hour, on the hour\n🎟 TICKET OPTIONS\nGeneral Admission (Free) – 21+\nGet in free, add your name to the karaoke list, grab a drink, and get ready for your moment on stage. Seating is first come, first served.\nVIP Rockstar Pass – Fast Track ($10) – 21+\n• Skip the karaoke line and get on stage faster\n• Priority access to performances\n• VIP seating held until 10PM\n• Limited availability\nDoors at 9PM. Show up early, stay late.\nTo help support our bar and wait staff, there is a two drink minimum per person. Shots, non-alcoholic beverages, and sodas cou...",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/04/crazykaraoke.png",
+   "categories": [
+    "Club Dj"
    ],
    "notes": []
   },
@@ -65594,7 +65834,6 @@
     "1633865": "2026-10-18T18:00:30",
     "1634103": "2026-11-03T17:33:53",
     "1634151": "2026-11-13T19:09:47",
-    "1634289": "2026-10-07T00:21:19",
     "1634320": "2026-10-21T11:48:24",
     "1634343": "2026-10-25T16:22:10",
     "1634467": "2026-10-25T20:12:31",
@@ -65657,8 +65896,6 @@
     "1639869": "2026-10-18T18:20:26",
     "1639872": "2026-11-03T17:33:42",
     "1639875": "2026-10-25T16:22:40",
-    "1639894": "2026-10-07T00:20:18",
-    "1639913": "2026-10-07T00:26:14",
     "1639916": "2026-10-18T18:30:24",
     "1640016": "2026-11-18T01:56:22",
     "1640086": "2026-10-25T16:22:18",
@@ -65667,59 +65904,30 @@
     "1640123": "2026-11-11T01:51:34",
     "1640138": "2026-10-25T16:41:13",
     "1640147": "2026-10-25T16:41:16",
-    "1640153": "2026-10-07T00:18:58",
     "1640165": "2026-10-18T17:55:04",
-    "1640254": "2026-10-07T00:29:32",
     "1640260": "2026-10-18T17:55:46",
-    "1640266": "2026-10-07T00:24:34",
-    "1640271": "2026-10-07T00:22:27",
     "1640296": "2026-10-17T18:32:16",
     "1640299": "2026-10-18T18:15:39",
-    "1640302": "2026-10-07T00:30:24",
-    "1640331": "2026-10-07T00:31:20",
     "1640334": "2026-10-25T16:41:21",
     "1640337": "2026-10-25T16:07:35",
-    "1640358": "2026-10-07T00:29:41",
-    "1640381": "2026-10-07T00:24:26",
     "1640384": "2026-10-31T19:14:57",
     "1640400": "2026-10-21T23:19:01",
     "1640417": "2026-11-03T17:35:28",
     "1640467": "2026-11-11T01:44:53",
-    "1640489": "2026-10-07T00:25:17",
     "1640502": "2026-10-10T03:54:08",
     "1640505": "2026-10-31T19:17:34",
-    "1640508": "2026-10-06T18:52:01",
-    "1640510": "2026-10-06T18:52:21",
-    "1640513": "2026-10-07T00:29:27",
-    "1640516": "2026-10-07T00:29:12",
-    "1640519": "2026-10-07T00:22:59",
     "1640525": "2026-10-29T16:05:12",
     "1640533": "2026-11-20T11:50:05",
     "1640541": "2026-11-13T19:08:59",
-    "1640545": "2026-10-07T00:30:17",
-    "1640548": "2026-10-06T18:52:40",
     "1640551": "2026-10-21T23:16:41",
     "1640582": "2026-10-09T16:44:44",
-    "1640612": "2026-10-07T00:28:24",
     "1640614": "2026-10-17T18:33:06",
     "1640616": "2026-10-18T18:10:05",
     "1640619": "2026-10-18T18:04:18",
-    "1640626": "2026-10-07T00:22:55",
-    "1640629": "2026-10-07T00:27:20",
-    "1640632": "2026-10-07T00:26:23",
-    "1640635": "2026-10-06T18:53:10",
     "1640638": "2026-10-21T11:49:48",
     "1640654": "2026-10-14T16:29:15",
     "1640657": "2026-10-07T15:53:11",
-    "1640663": "2026-10-07T00:22:05",
-    "1640665": "2026-10-07T00:27:01",
-    "1640674": "2026-10-07T00:26:36",
     "1640679": "2026-10-17T18:32:19",
-    "1640685": "2026-10-07T00:25:31",
-    "1640697": "2026-10-07T00:22:33",
-    "1640700": "2026-10-07T00:24:39",
-    "1640703": "2026-10-07T00:29:17",
-    "1640706": "2026-10-07T00:29:22",
     "1640709": "2026-10-14T16:31:07",
     "1640718": "2026-10-17T18:35:19",
     "1640724": "2026-10-18T18:14:08",
@@ -65737,7 +65945,6 @@
     "1640843": "2026-10-18T17:55:24",
     "1640852": "2026-10-18T17:55:14",
     "1640855": "2026-10-17T18:31:19",
-    "1640858": "2026-10-07T00:32:18",
     "1640865": "2026-11-18T01:26:36",
     "1640877": "2026-10-25T20:10:17",
     "1640883": "2026-11-18T01:27:38",
@@ -65747,41 +65954,30 @@
     "1640938": "2026-10-25T16:38:14",
     "1640945": "2026-10-17T18:32:24",
     "1640970": "2026-10-18T18:00:26",
-    "1640976": "2026-10-07T14:14:08",
     "1640994": "2026-10-18T17:56:04",
     "1641019": "2026-11-13T19:09:35",
     "1641033": "2026-10-25T16:42:24",
     "1641046": "2026-10-18T18:30:28",
     "1641049": "2026-11-03T17:33:27",
-    "1641102": "2026-10-07T00:27:10",
     "1641114": "2026-10-17T18:26:23",
-    "1641186": "2026-10-07T00:22:52",
     "1641189": "2026-10-07T15:55:11",
     "1641192": "2026-10-07T15:50:18",
     "1641199": "2026-10-07T15:50:11",
     "1641228": "2026-10-07T15:49:51",
-    "1641238": "2026-10-07T00:31:04",
     "1641241": "2026-10-18T18:08:35",
-    "1641247": "2026-10-07T00:32:25",
     "1641250": "2026-10-14T16:25:57",
     "1641254": "2026-10-07T15:49:17",
     "1641257": "2026-10-07T15:49:24",
     "1641260": "2026-10-07T15:49:21",
-    "1641266": "2026-10-07T00:21:54",
     "1641275": "2026-10-07T15:49:27",
     "1641282": "2026-10-18T18:04:13",
     "1641285": "2026-10-25T20:09:34",
     "1641288": "2026-10-09T23:30:25",
-    "1641291": "2026-10-07T00:28:04",
     "1641294": "2026-10-07T15:59:36",
-    "1641297": "2026-10-07T00:29:30",
-    "1641300": "2026-10-07T00:25:20",
     "1641303": "2026-10-07T15:59:11",
     "1641306": "2026-10-07T15:59:05",
     "1641309": "2026-10-07T15:58:58",
-    "1641312": "2026-10-07T00:19:48",
     "1641348": "2026-10-07T15:58:36",
-    "1641362": "2026-10-07T00:53:21",
     "1641373": "2026-10-07T15:58:34",
     "1641388": "2026-10-07T17:18:41",
     "1641391": "2026-10-07T15:57:17",
@@ -66945,6 +67141,21 @@
     "1648166": "2026-11-20T11:49:59",
     "1648186": "2026-11-20T06:14:24",
     "1648188": "2026-11-20T06:14:25",
+    "1648217": "2026-11-20T18:32:18",
+    "1648221": "2026-11-20T14:13:27",
+    "1648223": "2026-11-20T14:13:29",
+    "1648225": "2026-11-20T14:13:31",
+    "1648227": "2026-11-20T14:13:33",
+    "1648229": "2026-11-20T14:13:35",
+    "1648242": "2026-11-20T18:33:52",
+    "1648243": "2026-11-20T18:34:12",
+    "1648244": "2026-11-20T18:34:22",
+    "1648245": "2026-11-20T18:34:35",
+    "1648246": "2026-11-20T18:37:20",
+    "1648247": "2026-11-20T18:37:36",
+    "1648248": "2026-11-20T18:37:46",
+    "1648249": "2026-11-20T18:44:12",
+    "1648253": "2026-11-20T18:52:09",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52",
@@ -67219,6 +67430,11 @@
    "content_hash": "73d68d02f165ab7ce2117a662e357c1edf326467d1c8c9fdb4ab0da6be9395ab",
    "sequence": 0,
    "last_modified": "2026-10-20T19:44:41.088494Z"
+  },
+  "caldiscovery-festival-1cdcc7147d8c986d@sf-cal": {
+   "content_hash": "b69333edfd802ac4f60fe700561504014a2fc21453bebec81888abf4fcdfcc5a",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
   },
   "caldiscovery-festival-2651624dcf826c0e@sf-cal": {
    "content_hash": "4c58cd1302486773f30f97d66bca90df4490b88fdc6c75acdd027efb2e86e0b4",
@@ -68452,11 +68668,6 @@
   },
   "dothebay-17648887@sf-cal": {
    "content_hash": "ac8580f59d5697a4e980b1ece80d4236a5e3e3077d9335e92c0f4f644caeb7e6",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17663884@sf-cal": {
-   "content_hash": "0aae554689761c2d2260b136a1254f9a2c92a58a4c3facd9d9aedc9e709a6dbc",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
@@ -72295,11 +72506,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1639218@sf-cal": {
-   "content_hash": "0b06fb6a7c75bed2c6acdb40491f06fb043618a305169a34eb0adb66cc63d23e",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1639220@sf-cal": {
    "content_hash": "24f2ff121e987e99cf0a91558c91faaf08ab2a2fbf4ccca2fe924b5c966cc7d7",
    "sequence": 0,
@@ -74714,6 +74920,61 @@
    "content_hash": "b09a169849bd8be58e73f846b8cc88d3be61b2399bb58fa636dec10a9b2dfb8f",
    "sequence": 0,
    "last_modified": "2026-11-20T11:50:52.018347Z"
+  },
+  "funcheap-1648217@sf-cal": {
+   "content_hash": "eb2a711fbb4255d3c45de2304b9dbd19c078ad65e9a1c252aa73b0acc7486f2d",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648221@sf-cal": {
+   "content_hash": "80ab44b114d80416187470c9e04e06ef0e8332030c069a8b5d5de9162189d0b0",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648223@sf-cal": {
+   "content_hash": "423ef983cee149d70b98011c6f0241443a7455edaf36ec3415e9fea33e86ed38",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648225@sf-cal": {
+   "content_hash": "d1a9eed2358471888066ee25dd09646b399c74e5b1db9231ca531792210505ac",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648227@sf-cal": {
+   "content_hash": "9ad24a0b8eeea834b547f18f12760df27a20079a58b8d2b8c868469e8a20c9f2",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648229@sf-cal": {
+   "content_hash": "6bd4baa7bb3bad4d1f92ecb5c2186a57a4b1461d6a2ed2f055a412cafbd60901",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648242@sf-cal": {
+   "content_hash": "1a81037636f98db4af99f18a3841ae12e5b0b879c53a86577d57826606909ab6",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648243@sf-cal": {
+   "content_hash": "8517dfc7b43ea8d2d2ec2b6f5abd27b09d78bb023b0309d05d1da41dc550a64d",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648244@sf-cal": {
+   "content_hash": "e2505b1308bf616fe5d1ee96c65fe35e4e5bc34f1bc1223847eab42091e18c31",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648249@sf-cal": {
+   "content_hash": "51f42bbf3f6bf1d4c92e51dd2abb4975e9b3de17d766281a8e57386f5bc904da",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
+  },
+  "funcheap-1648253@sf-cal": {
+   "content_hash": "253ca125210f423da1f91455bbcbf542493d2fcf739f04a612a8d77e6b496183",
+   "sequence": 0,
+   "last_modified": "2026-11-20T20:28:53.168068Z"
   },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",
