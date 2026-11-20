@@ -40,28 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:NightLife: Pajammy Jam
-DTSTART;TZID=America/Los_Angeles:20261112T180000
-DTEND;TZID=America/Los_Angeles:20261112T200000
-DTSTAMP:20261014T214646Z
-UID:dothebay-17945641@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoor & Recreation
-DESCRIPTION:The mother of house partiesin a museum. Get ready for games\, 
- creatures\, and late-night fun. Stay tuned for more programming info!\n\nT
- ickets: https://www.calacademy.org/nightlife/nightlife-pajammy-jam\nDetail
- s: https://dothebay.com/events/2026/11/12/nightlife-pajammy-jam-tickets\nS
- ource: DoTheBay
-GEO:37.7698646;-122.4660947
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34908551/80840e6e-1bfe-4c4d-95d6-5b7dd4102423.png
-LAST-MODIFIED:20261014T214646Z
-LOCATION:California Academy of Sciences\, 55 Music Concourse Drive\, San F
- rancisco\, CA\, 94118
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/12/nightlife-pajammy-jam-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telesco
  pe (Nov. 2026)
 DTSTART;TZID=America/Los_Angeles:20261112T183000
@@ -1417,6 +1395,23 @@ URL:https://dothebay.com/events/2026/12/1/neighborhood-cleanup-party-ticke
  ts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Glen Park Tuesday Movie Night
+DTSTART;TZID=America/Los_Angeles:20261201T180000
+DTEND;TZID=America/Los_Angeles:20261201T210000
+DTSTAMP:20261120T022332Z
+UID:sfrecpark-main-e2513b2e9653584e@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
+ ght on December 1 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10861\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261120T022332Z
+LOCATION:Glen Canyon Park - Elk Street and Chenery Street San Francisco CA
+  94127
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Utah Jazz
 DTSTART;TZID=America/Los_Angeles:20261201T200000
 DTEND;TZID=America/Los_Angeles:20261201T220000
@@ -2054,6 +2049,23 @@ URL:https://sf.funcheap.com/san-francisco-botanical-gardens-free-day-2nd-t
  uesdays-66/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Glen Park Tuesday Movie Night
+DTSTART;TZID=America/Los_Angeles:20261208T180000
+DTEND;TZID=America/Los_Angeles:20261208T210000
+DTSTAMP:20261120T022332Z
+UID:sfrecpark-main-730b25ffbe25c2d3@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
+ ght on December\n8 at 6 pm\n\nhttps://sfrecpark.org/calendar.aspx?EID=1086
+ 2\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID
+ =14\nSource: SF Rec & Park
+LAST-MODIFIED:20261120T022332Z
+LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
+ Elk Street San Francisco CA 94131
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261209T090000
 DTEND;TZID=America/Los_Angeles:20261209T100000
@@ -2413,6 +2425,23 @@ URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-463/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Glen Park Tuesday Movie Night
+DTSTART;TZID=America/Los_Angeles:20261215T180000
+DTEND;TZID=America/Los_Angeles:20261215T210000
+DTSTAMP:20261120T022332Z
+UID:sfrecpark-main-dfd089b51f6af3be@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
+ ght on December\n15 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10863\
+ n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=1
+ 4\nSource: SF Rec & Park
+LAST-MODIFIED:20261120T022332Z
+LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
+ Elk Street San Francisco CA 94131
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261216T090000
 DTEND;TZID=America/Los_Angeles:20261216T100000
@@ -2710,6 +2739,23 @@ LOCATION:Japanese Tea Garden\, 75 Hagiwara Tea Garden Dr\, San Francisco\,
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golde
  n-gate-park-464/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glen Park Tuesday Movie Night
+DTSTART;TZID=America/Los_Angeles:20261222T180000
+DTEND;TZID=America/Los_Angeles:20261222T210000
+DTSTAMP:20261120T022332Z
+UID:sfrecpark-main-cb15363de12e584c@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
+ ght on December\n22 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10864\
+ n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=1
+ 4\nSource: SF Rec & Park
+LAST-MODIFIED:20261120T022332Z
+LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
+ Elk Street San Francisco CA 94131
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golden State Warriors vs. Dallas Mavericks
@@ -3299,6 +3345,23 @@ URL:https://sf.funcheap.com/sfs-free-sundays-at-the-beach-chair-yoga-day-g
  reat-highway-40/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Glen Park Tuesday Movie Night
+DTSTART;TZID=America/Los_Angeles:20270105T180000
+DTEND;TZID=America/Los_Angeles:20270105T210000
+DTSTAMP:20261120T022332Z
+UID:sfrecpark-main-c0d510f09d6cb2a6@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
+ ght on January 5\nat 6 pm https://sfrecpark.org/calendar.aspx?EID=10865\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261120T022332Z
+LOCATION:Glen Canyon Park - Elk Street and Chenery Street San Francisco CA
+  94127
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ranch First Wednesday Open Community Day | Napa
 DTSTART;TZID=America/Los_Angeles:20270106T150000
 DTEND;TZID=America/Los_Angeles:20270106T170000
@@ -3573,6 +3636,23 @@ LOCATION:San Francisco Botanical Garden\, 1199 9th Avenue\, San Francisco\
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/san-francisco-botanical-gardens-free-day-2nd-t
  uesdays-67/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glen Park Tuesday Movie Night
+DTSTART;TZID=America/Los_Angeles:20270112T180000
+DTEND;TZID=America/Los_Angeles:20270112T210000
+DTSTAMP:20261120T022332Z
+UID:sfrecpark-main-0374a8fea804cb28@sf-cal
+SEQUENCE:0
+DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
+ ght on January 12\nat 6 pm https://sfrecpark.org/calendar.aspx?EID=10866\n
+ \nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+ \nSource: SF Rec & Park
+LAST-MODIFIED:20261120T022332Z
+LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
+ Elk Street San Francisco CA 94131
+TRANSP:TRANSPARENT
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s Free “Sundays at the Beach” Tai Chi Day (Great Highway)

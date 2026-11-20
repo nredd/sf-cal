@@ -2396,17 +2396,17 @@
   },
   {
    "source": "caldiscovery-comedy",
-   "source_id": "aafc976b7390c863",
-   "title": "Saturday Night Comedy at the Fireside Lounge (Alameda, CA)",
-   "start": "2027-01-09T20:00:00-08:00",
-   "end": "2027-01-09T21:30:00-08:00",
+   "source_id": "a7b6726f19995934",
+   "title": "Next Stop Comedy, Deerfield Ranch Winery (Kenwood, CA)",
+   "start": "2027-01-09T19:00:00-08:00",
+   "end": "2027-01-09T20:30:00-08:00",
    "all_day": false,
    "bucket": "comedy",
-   "venue": "The Fireside Lounge",
-   "address": "1453 Webster Street, Alameda, CA, 94501",
-   "locality": "Alameda",
+   "venue": "Deerfield Ranch Winery",
+   "address": "10200 Sonoma Highway, Kenwood, CA, 95452",
+   "locality": "Kenwood",
    "geo": null,
-   "url": "http://www.dougcordell.com/events/2025/8/9/saturday-night-comedy-at-the-fireside-lounge-alameda-ca-2n4yp-ectnh?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "url": "http://www.dougcordell.com/events/2027/1/9/next-stop-comedy-deerfield-ranch-winery-kenwood-ca?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
    "ticket_url": null,
    "price_text": null,
    "is_free": false,
@@ -2414,7 +2414,8 @@
    "description": null,
    "image_url": null,
    "categories": [
-    "comedy"
+    "comedy",
+    "drink"
    ],
    "notes": [
     "Published by dougcordell.com",
@@ -3278,6 +3279,33 @@
    "is_free": false,
    "sold_out": false,
    "description": "*****\nSave the Date\nIt's almost time to light up the night!! The 7th annual Winterfest returns to TJPA’s Salesforce Park on the weekend of December 4th-6th. Bundle up and join us for a weekend full of festive fun, including a holiday swing dance, seasonal movies and crafts, and the return of our popular all-day wreath-making party!\n\nMore details: https://www.tjpa.org/Winterfest",
+   "image_url": null,
+   "categories": [
+    "festival"
+   ],
+   "notes": [
+    "Published by TJPA Salesforce Park Activities",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-festival",
+   "source_id": "101c73aa5a8c0208",
+   "title": "Winterfest: Holiday Lighting Celebration",
+   "start": "2026-12-04T17:00:00-08:00",
+   "end": "2026-12-04T19:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Salesforce Park",
+   "address": "Main Plaza",
+   "locality": null,
+   "geo": null,
+   "url": "https://www.tjpa.org/transit-center/activities/winterfest-holiday-lighting-celebration-1?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Featuring DJ Umami, dancing, crafts, and a countdown to the lighting of Salesforce Park!\n\nMore details: https://www.tjpa.org/transit-center/activities/winterfest-holiday-lighting-celebration-1",
    "image_url": null,
    "categories": [
     "festival"
@@ -4457,6 +4485,33 @@
   },
   {
    "source": "caldiscovery-festival",
+   "source_id": "fdfc53b94661854e",
+   "title": "Festival of Five Lessons and Carols at St. Anselm parish",
+   "start": "2026-12-20T17:30:00-08:00",
+   "end": "2026-12-20T20:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "St. Anselm Parish",
+   "address": "97 Shady Lane, Ross, 94957, United States",
+   "locality": null,
+   "geo": null,
+   "url": "https://sfarch.org/event/festival-of-five-lessons-and-carols-at-st-anselm-parish/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Sign up below and 6-8 times each year, we’ll mail you something beautiful.\n\nIt’s beautiful not just because it’s a full-color publication that’s nice to look at–though it certainly is!–but because it connects you to the local Church community, to stories of people testifying to the fact they’ve been transformed by Jesus Christ, who are living with hope and in a freedom the world doesn’t offer.\n\nSending you this magazine is one way we hope to nourish your relationship with Christ and the other members of His Body. Enjoy!\n\nRegistration for Newsletter and CSF Magazine\n\nName(Required)\n\nFirst\n\nLast\n\nYour parish:(Required)City(Required)\n\nNext\n\nWould you like to subscribe to our Newsletters and/or CSF Magazine?(Required)\n\nYES! Please Email Me the Newsletters and mail me CSF Magazine at the address below.\n\nPlease mail The CSF Magazine to me at the address below. (CSF Magazine Only)\n\nPlease Email Me the Newsletters (Newsletters Only)\nCatholic SF Magazine is mailed to households for FREE 6-8 times each year.Email(Required)\n\nAddress(Required)\n\nStreet Address\n\nAddress Line 2\n\nCity\n\nState / Province / Region\n\nZIP / Postal Code\n\nAddress(Required)\n\nStreet Address\n\nAddress Line 2\n\nCity\n\nState / Province / Region\n\nZIP / Postal Code\n\nEmail(Required)\n\nPrevious Submit",
+   "image_url": null,
+   "categories": [
+    "festival"
+   ],
+   "notes": [
+    "Published by Archdiocese of San Francisco",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-festival",
    "source_id": "4dafc47bbd7e6bf1",
    "title": "Winter Walk",
    "start": "2026-12-21T00:00:00-08:00",
@@ -4677,332 +4732,6 @@
    "image_url": null,
    "categories": [],
    "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "16818859",
-   "title": "Mission Community Market Last Day of the Season",
-   "start": "2026-11-12T15:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Ferry Plaza",
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/12/mission-community-market-last-day-of-the-season-tickets",
-   "ticket_url": "https://foodwise.org/events/mission-community-market-last-day-of-the-season/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Thursday, November 12, 2026, 3:00 pm - 7:00 pm\n\nMission Community Markets last day of the 2026 season will be Thursday, November 12. Well be back in March 2027. Stock up on farm-fresh products and holiday gifts, and wish our vendors a happy winter break. Thank you for supporting Mission Community Market, and happy holidays!",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29541717/a4c8b570-f12b-4250-8c38-5c9d798fb510.jpg",
-   "categories": [
-    "Shopping"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "16886874",
-   "title": "El Grupo de Apoyo Latino",
-   "start": "2026-11-12T15:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/12/el-grupo-de-apoyo-latino-tickets",
-   "ticket_url": "https://www.sfaf.org/event/el-grupo-de-apoyo-latino/2026-11-12/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "El Grupo de Apoyo Latino de SFAF es un grupo social y educativo que ofrece un espacio abierto, seguro, y confidencial para apoyar a la comunidad Latina afectada por el VIH y SIDA. Es un grupo diverso, donde el respeto es la base para que todos los asistentes puedan expresar libremente sus experiencias, identidad, étnicidad, nacionalidad, sexualidad, y creencias religiosas.\n\nTodas las reuniones son en español y se llevan a cabo en un ambiente positivo, familiar, y confidencial. Ven a compartir con nosotros, estamos seguros que encontrarás apoyo y recibirás información para mejorar tu calidad de vida.\n\nSFAF ofrece servicios a cualquier persona sin importar su situación migratoria.\n\nPara mas información sobre El Grupo, llama al 415-632-9722.\n\n_____\n\nOur support group, El Grupo, has been a stable source of family and community for Latinos, Latinas and their families since the early 1980s. Join us for information about sexual health and harm reduction, meals and social support, and help finding health and social services.\n\nMeetings are in-person at 940 Howard St Group Room A every Thursday from 3 to 5 pm.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29875282/8ee0d400-7818-47ff-aeff-7836433d10ac.jpg",
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18011047",
-   "title": "Death Café with Christine Comaford, End-of-Life Doula",
-   "start": "2026-11-12T16:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage Corte Madera",
-   "address": "51 Tamal Vista Blvd., Corte Madera, CA, 94925",
-   "locality": "Corte Madera",
-   "geo": [
-    37.9338766,
-    -122.5170281
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/death-cafe-with-christine-comaford-end-of-life-doula-tickets",
-   "ticket_url": "https://bookpassage.com/event/2026-11-12/death-cafe-christine-comaford-end-life-doula",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "EOLPeace is holding a community gathering at Book Passage to explore death and the dying process. We will follow the format of Death Café, which was created by Jon Underwood in London approx. 12 years ago. It is a gently moderated conversation where all experiences are welcome, and tea and cookies will be served. Each month we come together to explore the sacredness of our mortality through a new theme.\nABOUT THIS EVENT\nThis event will be hosted by EOLPeace at Book Passage's Corte Madera store.\nFree Admission / Open Seating\nFor any questions regarding our events, please contact us at books@bookpassage.com.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35202068/a36df5d0-e70d-4b04-81ce-49461d6e2180.jpg",
-   "categories": [
-    "Experiences"
-   ],
-   "notes": [
-    "Book Passage Presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17955319",
-   "title": "Sip and Sketch | Eyvind Earle-Inspired Scratchboards",
-   "start": "2026-11-12T17:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Walt Disney Family Museum",
-   "address": "104 Montgomery Street, San Francisco, CA, 94129",
-   "locality": "San Francisco",
-   "geo": [
-    37.8013387,
-    -122.4585992
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/sip-and-sketch-eyvind-earle-inspired-scratchboards-tickets",
-   "ticket_url": "https://www.waltdisney.org/education/workshops/sip-and-sketch-eyvind-earle-inspired-scratchboards",
-   "price_text": "$65-$75, Age 21+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "In honor of our special exhibition Awaking Beauty: The Art of Eyvind Earle, enjoy an evening of beverages and art delving into one of Earle’s favorite techniques: scratchboards! This medium involves scratching away pieces of dark ink to reveal a bright layer beneath. Learn this unique medium and come away with a special illustration that’s sure to be a beauty.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34954594/52448c9f-cd2a-4970-b3bb-0e47d672c73b.jpg",
-   "categories": [
-    "The Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18045370",
-   "title": "Interlaced: Textures of History & Transformation",
-   "start": "2026-11-12T17:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "KALW @ 220 Montgomery",
-   "address": "220 Montgomery St, San Francisco, CA, 94104",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/12/interlaced-textures-of-history-transformation-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Finterlaced-textures-of-history-transformation-tickets-2004171101716%3Faff%3Doddtdtcreator",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "KALW hosts an artist panel exploring weaving, beading, material transformation, and the cultural histories embedded in textile practices.\n\nWhat can the things we make with our hands tell us about who we are, where we come from, and how we connect with one another?\n\nJoin KALW at 220 Montgomery to celebrate Interlaced, a new exhibition at the Mills Building. We'll be in conversation with five of the exhibition's artists — Miguel Arzabe, Charlene Tan, Pilar Agüero-Esparza, Terri Friedman, and Gabby Severson — exploring the ideas, materials, and personal histories woven into their work. From the traditions of weaving and beadwork to contemporary approaches to abstraction, image-making, and storytelling, the conversation will consider how artists use material, pattern, and repetition to explore identity, memory, cultural inheritance, labor, and belonging.\nCome explore the exhibition, meet the artists, connect with fellow art lovers, and enjoy an evening of creativity and connection in the heart of downtown San Francisco.\n\nMiguel Arzabe creates colorful and dynamic abstractions across weaving, painting, and video. He begins by finding outdated beauty in paper ephemera from art exhibitions, modernist paintings, and discarded audio recordings, which he methodically analyzes, deconstructs, and reverse-engineers. Drawing inspiration from the techniques and motifs of his Andean heritage, Arzabe weaves these fragments together, revealing unexpected intersections between form and content,...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35342861/350d4fd7-d772-4abb-9a5a-d70a95d87dff.jpg",
-   "categories": [
-    "The Arts"
-   ],
-   "notes": [
-    "KALW Public Media"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18011004",
-   "title": "Illah Nourbakhsh - Crunch Time",
-   "start": "2026-11-12T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage San Francisco",
-   "address": "1 Ferry Building, San Francisco, CA, 94911",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/12/illah-nourbakhsh-crunch-time-tickets",
-   "ticket_url": "https://bookpassage.com/event/illah-nourbakhsh-crunch-time",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "As workers and as parents, we all care deeply about how we must prepare ourselves and our children for fulfilling careers at a time when the changing nature of labor is opaque.\nIn this interactive book talk, co-author Illah Nourbakhsh will share brief remarks regarding our voyage in researching and writing a book about careers, AI and the future of education. We will be joined by two special pioneers who will make brief remarks from the audience: Alan Eustace and Professor Michael Genesereth.\nAlan Eustace served as senior vice president at Google and has witnessed the digital and AI technology revolutions firsthand. Michael Genesereth is faculty at Stanford University and charted the course of artificial intelligence research as one of its founding scholars.\nBoth Alan and Michael care deeply about the next generation, and the ways in which careers will evolve as AI changes the shape of work.\n\nWe look forward to a dynamic conversation with the audience.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35201828/296e77a0-9fbf-452c-9f5d-63bd10805f94.jpg",
-   "categories": [
-    "Literature"
-   ],
-   "notes": [
-    "Book Passage Presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18015429",
-   "title": "Family Photo Night on the Ice at City Center Bishop Ranch",
-   "start": "2026-11-12T17:40:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "City Center Bishop Ranch - San Ramon",
-   "address": "6000 Bollinger Canyon Road, San Ramon, CA, 94583",
-   "locality": "San Ramon",
-   "geo": [
-    37.763324,
-    -121.959476
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/family-photo-night-on-the-ice-at-city-center-bishop-ranch-tickets",
-   "ticket_url": "https://citycenterbishopranch.com/events/family-photo-night-at-the-ice-rink-2/ ",
-   "price_text": "$25.55",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Capture\nholiday memories with a special family photo session at the Kristi Yamaguchi\nHoliday Ice Rink on Thursdays, Nov. 12 and 19, during the 5 and 7 p.m. skating\nsessions. A professional photographer will capture families together on the ice\nfor holiday cards or social media, and each session includes one digital photo\nfile. A skating ticket is required, and photo slots are limited.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35220130/ae952f3e-4853-45c2-b44c-5e1a35e555e2.jpg",
-   "categories": [
-    "Holiday Event"
-   ],
-   "notes": [
-    "City Center Bishop Ranch"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17797859",
-   "title": "After Dark: Unplug and Play",
-   "start": "2026-11-12T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Exploratorium",
-   "address": "Pier 15 , San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": [
-    37.8016649,
-    -122.397348
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/after-dark-unplug-and-play-tickets",
-   "ticket_url": "https://www.exploratorium.edu/visit/calendar/after-dark-unplug-play-nov2026",
-   "price_text": "18+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "After Dark: Unplug and Play\nThursday, November 12 | Exploratorium, Pier 15\n\nLet the week go with goofy dance moves, hands-on fun, and big questions. Join us for the wildly entertaining Roryography, a one-of-a-kind dance experience led by Rory Davis. Then test your science knowledge at trivia, debate alien consciousness, and learn about the secrets behind our interactive exhibits.\n\nFor Educators: Looking for a night to unwind? Bring proof of teacher status for a discounted ticket to this After Dark. Connect with our Facilitators and learn more about field trip opportunities.\n\nAfter Dark Thursday Nights\nThis event is part of our After Dark Thursday Nights series. Unplug and play with 700+ interactive exhibits exploring science, art, and perception. Learn more.\n\n6–10 p.m.\nAdults Only (Ages 18+)\nThe Exploratorium, Pier 15, San Francisco",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35337042/38f45485-9067-4508-b29c-913e88da4f30.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17945641",
-   "title": "NightLife: Pajammy Jam",
-   "start": "2026-11-12T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "California Academy of Sciences",
-   "address": "55 Music Concourse Drive, San Francisco, CA, 94118",
-   "locality": "San Francisco",
-   "geo": [
-    37.7698646,
-    -122.4660947
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/nightlife-pajammy-jam-tickets",
-   "ticket_url": "https://www.calacademy.org/nightlife/nightlife-pajammy-jam",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "The mother of house partiesin a museum. Get ready for games, creatures, and late-night fun. Stay tuned for more programming info!",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34908551/80840e6e-1bfe-4c4d-95d6-5b7dd4102423.png",
-   "categories": [
-    "Outdoor & Recreation"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18011070",
-   "title": "Kate Doerge with Myra Sack - Reimagining Grief",
-   "start": "2026-11-12T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage Corte Madera",
-   "address": "51 Tamal Vista Blvd., Corte Madera, CA, 94925",
-   "locality": "Corte Madera",
-   "geo": [
-    37.9338766,
-    -122.5170281
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/kate-doerge-with-myra-sack-reimagining-grief-tickets",
-   "ticket_url": "https://bookpassage.com/event/kate-doerge-reimagining-grief",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "An inspiring guide that reimagines the stages of grief into five healing actions, Reimagining Grief offers light and a new way forward in the midst of darkness. This is the book Kate wishes she'd had, and she wrote it for you.\nKate will be joined in conversation by Myra Sacks, the author of award-winning memoir, \"Fifty-Seven Fridays: Losing Our Daughter Finding Our Way,\" and founder of E-Motion, Inc.\n****\nABOUT THIS EVENT\nThis event will be hosted by Book Passage at our Corte Madera store.\nFree Admission / Open Seating\nFollowing the presentation, there will be a signing line or a meet-and-greet.\nIf you are unable to attend the event, you can still get your copy by clicking the \"BUY THE BOOK\" button above. If you would like a signed or personalized book, please note that in the order comment field.\nFor any questions regarding our events, please contact us at books@bookpassage.com.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35202228/fac5f4a2-372d-45dc-8e79-706b19972cab.jpg",
-   "categories": [
-    "Literature"
-   ],
-   "notes": [
-    "Book Passage Presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18011994",
-   "title": "Everybody Eats Comedy",
-   "start": "2026-11-12T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Public Market",
-   "address": "5959 Shellmound St, emeryville, CA, 94608",
-   "locality": "emeryville",
-   "geo": [
-    37.84085,
-    -122.293388
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/everybody-eats-comedy-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F2004043099859%3Faff%3Doddtdtcreator",
-   "price_text": "free, all ages",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Free 90minute showcase featuring your favorite up and coming comedians from all around Northern California. Have a laugh, enjoy your night and make sure to grab a bite.\n\nShow curated by Everybody Eats Comedy. No drink minimum.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35205990/1fe80d0b-fcbb-4a2a-9369-f3894579207d.jpg",
-   "categories": [
-    "Comedy"
-   ],
-   "notes": [
-    "Public Market Presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18023071",
-   "title": "Profs & Pints San Francisco: The World Mount Vesuvius Buried",
-   "start": "2026-11-12T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Dairy at the Presidio Sports Basement",
-   "address": "610 Old Mason Street, San Francisco, CA, 94129",
-   "locality": "San Francisco",
-   "geo": [
-    37.80353,
-    -122.458967
-   ],
-   "url": "https://dothebay.com/events/2026/11/12/profs-pints-san-francisco-the-world-mount-vesuvius-buried-tickets",
-   "ticket_url": "https://events.ticketleap.com/tickets/profsandpints/presidio-vesuvius",
-   "price_text": "Advance: $13.50. Door: $17, or $15 w/ student ID",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Profs and Pints presents: “The World Mount Vesuvius Buried,” on what we’re learning by the uncovering of ancient Roman towns buried in volcanic ash, with Michael Anderson, a professor of Classical archaeology at San Francisco State University who has spent nearly 30 years studying and excavating Pompeii.\nThe cataclysmic eruption of Mount Vesuvius in 79 CE entombed towns, farms, and villas in ash and debris, dooming those around at the time but preserving for future generations a unique and invaluable window onto Roman and Pre-Roman daily life.\nLearn about the fascinating finds of archeologists at work there with Michael Anderson, director of the Via Consolare Project excavations of ancient Pompeii, author of Space, Movement and Visibility in Pompeian Houses, and co-author of House of the Surgeon, Pompeii: Excavations in the Casa del Chirurgo.\nHe’ll discuss how what Vesuvius buried was lost and largely forgotten for centuries, and how the discovery and early excavation of these sites in the eighteenth and nineteenth centuries would transform forever the disciplines of art history and archaeology. It also greatly enriched our understanding of ancient Roman daily life, a process that continues to this day, making Pompeii the longest continuously excavated site in the world.\nEvidence from these sites has provided some of the clearest answers to questions about what life was really like for both the rich and the poor in ancient Italy in Roman times. Dr. Anderson will discuss what...",
-   "image_url": null,
-   "categories": [
-    "Lecture/Education"
-   ],
-   "notes": [
-    "Profs and Pints"
-   ]
   },
   {
    "source": "dothebay",
@@ -43166,54 +42895,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1646157",
-   "title": "Trivia Night w/ Lindsay Wildlife at Headlands Brewing",
-   "start": "2026-11-12T16:00:00-08:00",
-   "end": "2026-11-12T18:00:00-08:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "Headlands Brewing - Berkeley (Westbrae)",
-   "address": "1280 Gilman St, Berkeley",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/trivia-night-lindsay-wildlife-headlands-brewing/",
-   "ticket_url": "https://www.headlandsbrewing.com/events/trivia-night-lindsay-wildlife-nov12",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerHeadlands BrewingJoin us at our Berkeley (Westbrae) beer garden for a fun, free Trivia Night with Lindsay Wildlife, our 1% for the Planet partner. 🦉✨\n⭐ The winning team will receive a free year membership to the Lindsay Wildlife Experience located at 1931 1st Ave, Walnut Creek. Cheers!",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Email-Newsletter-Banners.png",
-   "categories": [
-    "Eating Drinking"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1646229",
-   "title": "Upper Polk Cleanup w/ Free Drink For Volunteers",
-   "start": "2026-11-12T16:00:00-08:00",
-   "end": "2026-11-12T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "Woods Polk Station",
-   "address": "2255 Polk St, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/upper-polk-cleanup-free-drink-volunteers-3/",
-   "ticket_url": "https://www.mobilize.us/civicjoyfund/event/757709/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Refuse RefuseMeet at Woods Polk Station (2255 Polk St) to grab our supplies and form our crew. Then, cleaning will occur from 4:00pm to 5:00pm around the neighborhood. Stay afterwards for a free drink and to meet fellow volunteers. Sign up on this Civic Joy Fund Mobilize page or email info@refuserefusesf.org with event name.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Pair-1.jpg",
-   "categories": [
-    "Free Food"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1644618",
    "title": "Humanmade Hardware Accelerator Demo Day",
    "start": "2026-11-12T17:00:00-08:00",
@@ -66690,6 +66371,28 @@
   },
   {
    "source": "sfrecpark-main",
+   "source_id": "e2513b2e9653584e",
+   "title": "Glen Park Tuesday Movie Night",
+   "start": "2026-12-01T18:00:00-08:00",
+   "end": "2026-12-01T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Glen Canyon Park - Elk Street and Chenery Street San Francisco CA 94127",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Glen Canyon Recreation Center for Tuesday Movie Night on December 1 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10861",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "sfrecpark-main",
    "source_id": "05226708a19ef536",
    "title": "Holiday Tree Lighting",
    "start": "2026-12-03T16:00:00-08:00",
@@ -66706,6 +66409,28 @@
    "is_free": false,
    "sold_out": false,
    "description": "Annual Holiday Tree Lighting at McLaren Lodge in Golden Gate Park https://sfrecpark.org/calendar.aspx?EID=10857",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "sfrecpark-main",
+   "source_id": "730b25ffbe25c2d3",
+   "title": "Glen Park Tuesday Movie Night",
+   "start": "2026-12-08T18:00:00-08:00",
+   "end": "2026-12-08T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 Elk Street San Francisco CA 94131",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Glen Canyon Recreation Center for Tuesday Movie Night on December\n8 at 6 pm\n\nhttps://sfrecpark.org/calendar.aspx?EID=10862",
    "image_url": null,
    "categories": [],
    "notes": []
@@ -66778,6 +66503,50 @@
   },
   {
    "source": "sfrecpark-main",
+   "source_id": "dfd089b51f6af3be",
+   "title": "Glen Park Tuesday Movie Night",
+   "start": "2026-12-15T18:00:00-08:00",
+   "end": "2026-12-15T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 Elk Street San Francisco CA 94131",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Glen Canyon Recreation Center for Tuesday Movie Night on December\n15 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10863",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "sfrecpark-main",
+   "source_id": "cb15363de12e584c",
+   "title": "Glen Park Tuesday Movie Night",
+   "start": "2026-12-22T18:00:00-08:00",
+   "end": "2026-12-22T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 Elk Street San Francisco CA 94131",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Glen Canyon Recreation Center for Tuesday Movie Night on December\n22 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10864",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "sfrecpark-main",
    "source_id": "224ec13db41bab47",
    "title": "Chair Yoga",
    "start": "2027-01-01T14:00:00-08:00",
@@ -66794,6 +66563,28 @@
    "is_free": false,
    "sold_out": false,
    "description": "Come out to Sunset Dunes on the first Sunday of the month for Chair Yoga at 1400 Upper Great Highway from 2:00 pm - 3:00 pm https://sfrecpark.org/calendar.aspx?EID=10478",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "sfrecpark-main",
+   "source_id": "c0d510f09d6cb2a6",
+   "title": "Glen Park Tuesday Movie Night",
+   "start": "2027-01-05T18:00:00-08:00",
+   "end": "2027-01-05T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Glen Canyon Park - Elk Street and Chenery Street San Francisco CA 94127",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Glen Canyon Recreation Center for Tuesday Movie Night on January 5\nat 6 pm https://sfrecpark.org/calendar.aspx?EID=10865",
    "image_url": null,
    "categories": [],
    "notes": []
@@ -66838,6 +66629,28 @@
    "is_free": false,
    "sold_out": false,
    "description": "Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx?EID=10472",
+   "image_url": null,
+   "categories": [],
+   "notes": []
+  },
+  {
+   "source": "sfrecpark-main",
+   "source_id": "0374a8fea804cb28",
+   "title": "Glen Park Tuesday Movie Night",
+   "start": "2027-01-12T18:00:00-08:00",
+   "end": "2027-01-12T21:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 Elk Street San Francisco CA 94131",
+   "address": null,
+   "locality": null,
+   "geo": null,
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Come out to Glen Canyon Recreation Center for Tuesday Movie Night on January 12\nat 6 pm https://sfrecpark.org/calendar.aspx?EID=10866",
    "image_url": null,
    "categories": [],
    "notes": []
@@ -67123,11 +66936,7 @@
     "1641033": "2026-10-25T16:42:24",
     "1641046": "2026-10-18T18:30:28",
     "1641049": "2026-11-03T17:33:27",
-    "1641053": "2026-10-06T04:15:24",
-    "1641055": "2026-10-06T04:15:26",
     "1641057": "2026-10-06T17:07:41",
-    "1641069": "2026-10-06T05:21:17",
-    "1641071": "2026-10-06T05:21:22",
     "1641076": "2026-10-06T17:07:19",
     "1641082": "2026-10-06T17:02:12",
     "1641093": "2026-10-06T17:02:19",
@@ -68575,6 +68384,11 @@
    "sequence": 1,
    "last_modified": "2026-11-13T19:50:14.581575Z"
   },
+  "caldiscovery-festival-101c73aa5a8c0208@sf-cal": {
+   "content_hash": "909679b0257762fe818218e3d39623a99f6163e2c85e833ca0b44d305de1b240",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
   "caldiscovery-festival-19047f6d1ff70480@sf-cal": {
    "content_hash": "986f34d7203fbb53b9a96ebacb1031474e31925a366473cb6d9afda940ddeb03",
    "sequence": 0,
@@ -68810,6 +68624,11 @@
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
+  "caldiscovery-festival-fdfc53b94661854e@sf-cal": {
+   "content_hash": "60218203064375c23ccbf7faa87bebdaf0ccdcd2e2bd23588efac736eaacad03",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
   "city-hall-lights-ics-4168a5bfd130a37e@sf-cal": {
    "content_hash": "907327297af5116248f8ec0c8e993faa9b1fbc57d8596710d936676606a4fa09",
    "sequence": 1,
@@ -68925,11 +68744,6 @@
    "sequence": 0,
    "last_modified": "2026-10-23T17:14:42.400470Z"
   },
-  "dothebay-16818859@sf-cal": {
-   "content_hash": "d6a3b96f86b25dab8b5e4bdd1c6f45028900758a1caf8daaef2111e2a12dd3bc",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
   "dothebay-16818861@sf-cal": {
    "content_hash": "4e7db0b227457a0108d2a483eec1038940afff97f59bdc78660a540ae42d96ce",
    "sequence": 0,
@@ -68944,11 +68758,6 @@
    "content_hash": "bb255b06836742b8b0f6ba3dbfae680fd458a1b0fddc1de2c7090c72c150f410",
    "sequence": 2,
    "last_modified": "2026-11-04T01:27:11.380793Z"
-  },
-  "dothebay-16886874@sf-cal": {
-   "content_hash": "b9571b953f80577f61e92c4eabe3be43ccbe936d0d821f66aa675569109b7b64",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-16886875@sf-cal": {
    "content_hash": "51cf430e6e58c32d8f2fb40dd1bd55e5252a71fccf27cdcbe9df5b047a7f5419",
@@ -70770,11 +70579,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
-  "dothebay-17797859@sf-cal": {
-   "content_hash": "db10b7f7a08c7a0013a9a111a7bde8b0094d38ec7c6bd40e764a9c58d5da00ea",
-   "sequence": 1,
-   "last_modified": "2026-11-05T20:02:37.910796Z"
-  },
   "dothebay-17797860@sf-cal": {
    "content_hash": "51dbbf09491840960b116aa95aa3cc4e80845063149d2dc2890949d2218750e4",
    "sequence": 1,
@@ -71880,11 +71684,6 @@
    "sequence": 2,
    "last_modified": "2026-11-14T10:37:14.256027Z"
   },
-  "dothebay-17945641@sf-cal": {
-   "content_hash": "1f4861b60e037fb223ecf00fabf098c0a4f6fa5c06920184b7c63bf840e67f0b",
-   "sequence": 0,
-   "last_modified": "2026-10-14T21:46:46.382284Z"
-  },
   "dothebay-17945642@sf-cal": {
    "content_hash": "3519a5e33a2c412d291ffaf4909d8d3e36787d9bf56ee070937e22782ebf30ea",
    "sequence": 0,
@@ -71949,11 +71748,6 @@
    "content_hash": "310a71700124e2394d77a25d37ee8a1a3a481cb5ba4cdc17d0b4d54767625d57",
    "sequence": 0,
    "last_modified": "2026-11-09T22:28:18.990128Z"
-  },
-  "dothebay-17955319@sf-cal": {
-   "content_hash": "d1155e0806b0dbb063e5b2f524de5b209f9be8387de7606e1abb684e56f6fd3a",
-   "sequence": 0,
-   "last_modified": "2026-10-14T21:46:46.382284Z"
   },
   "dothebay-17955321@sf-cal": {
    "content_hash": "9fd36b55f1a102d0fcd6bcf7d1572f06485abd3548a8b171167acf10f78a6196",
@@ -72670,11 +72464,6 @@
    "sequence": 2,
    "last_modified": "2026-11-18T11:53:05.988388Z"
   },
-  "dothebay-18011004@sf-cal": {
-   "content_hash": "02804253d04e50cef18b553897c69b7d088156e96e36fff3c1c40d7f8a93a997",
-   "sequence": 1,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
   "dothebay-18011025@sf-cal": {
    "content_hash": "c331652ba79ca46d66f84d9f12d4492b1fb6500d262e1478d5541c598fa2f38d",
    "sequence": 2,
@@ -72849,11 +72638,6 @@
    "content_hash": "458546eb4f6460e853c79cd78591663c8fbd00f3bd04aa0285e8d1d134275293",
    "sequence": 0,
    "last_modified": "2026-11-01T00:11:03.615159Z"
-  },
-  "dothebay-18023071@sf-cal": {
-   "content_hash": "bc914165764cb37203808aca7007582cdf99653024a6bb3738a975ed22d6f525",
-   "sequence": 2,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
   },
   "dothebay-18023584@sf-cal": {
    "content_hash": "4f06402f19ff093e5a527ac5a8d80f9071277050a306c53c439a732c17173f68",
@@ -73077,11 +72861,6 @@
   },
   "dothebay-18045311@sf-cal": {
    "content_hash": "c4b20056ecc199881754045b7e9e48a0d2c015d1e8aa68f1a42a7efc8938e864",
-   "sequence": 1,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
-  "dothebay-18045370@sf-cal": {
-   "content_hash": "8483a28c252bab738f613a05f18ee433721ff19d77dfeb855e52aa300391f231",
    "sequence": 1,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
@@ -74620,6 +74399,11 @@
    "sequence": 0,
    "last_modified": "2026-10-30T01:15:25.948988Z"
   },
+  "funcheap-1644957@sf-cal": {
+   "content_hash": "2a991a44a834cdece3ee7f0cf4ee2d52e5e4b7d269740c0cf554b5e1dc22f97c",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
   "funcheap-1644970@sf-cal": {
    "content_hash": "2cf82f6f7a908a83685b560728c021cc27df84e8cd72c3dec7ff84b94fd5f5ef",
    "sequence": 0,
@@ -74924,6 +74708,11 @@
    "content_hash": "d93b20b903db5ac922252913503aa629540eca6428056e92a5bdaa3256a94866",
    "sequence": 0,
    "last_modified": "2026-11-01T16:05:46.530149Z"
+  },
+  "funcheap-1645457@sf-cal": {
+   "content_hash": "854b089e4751b541f4e7ed08f8d2541a00d7c2397a334e89a0c3abc0f91c3dd7",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
   },
   "funcheap-1645463@sf-cal": {
    "content_hash": "6be7709d1b1640c4a18a8bbada7b2a535d807b2b3216555d4dadba110def6bf6",
@@ -75325,11 +75114,6 @@
    "sequence": 0,
    "last_modified": "2026-11-06T01:36:13.096518Z"
   },
-  "funcheap-1646157@sf-cal": {
-   "content_hash": "1b0c6dd6bc15e9bafd7358a49fc8f0a48729fe704e929818e62f55121eff6780",
-   "sequence": 0,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
   "funcheap-1646160@sf-cal": {
    "content_hash": "1d0a7160c2ceafdeb78374d8781ecab623e6bf69a8e6f169974c4acd162c7134",
    "sequence": 1,
@@ -75364,11 +75148,6 @@
    "content_hash": "71b99539e737372f26d1e956dfe5b76d6e3d13533aa161ddef99d0dfc8eee1ee",
    "sequence": 0,
    "last_modified": "2026-11-06T19:29:30.775776Z"
-  },
-  "funcheap-1646229@sf-cal": {
-   "content_hash": "2514df89bc7838ea124472be4e74ec503db72befa3e0abaff949d5c894a1c62f",
-   "sequence": 0,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
   },
   "funcheap-1646232@sf-cal": {
    "content_hash": "d9072f826f33681325d67c14373d4205f86f6aec708329763e61b220891ee8fc",
@@ -75579,6 +75358,11 @@
    "content_hash": "7322fabeabcac97d4fa1dcfdc171dfb72502a5914fb9131859b8b66eaeafb638",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
+  },
+  "funcheap-1646617@sf-cal": {
+   "content_hash": "d457a901578dd231c5da152030ff50026a6b13aa2015c2891cf3c569275544c8",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
   },
   "funcheap-1646651@sf-cal": {
    "content_hash": "e78536fce014068215ff350325aebe0f4dc1a56d18d3d6e43b020f2a3e560305",
@@ -76715,6 +76499,11 @@
    "sequence": 0,
    "last_modified": "2026-11-03T19:36:58.555449Z"
   },
+  "sfrecpark-main-0374a8fea804cb28@sf-cal": {
+   "content_hash": "0146d918e0cfc39455106ad22b4d0e8354c58fbfa0adb39fd947619a51fa794e",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
   "sfrecpark-main-05226708a19ef536@sf-cal": {
    "content_hash": "fafcfc4dff29cf1705266184d1338a822e8cbe52628aef8f1c732ad539200229",
    "sequence": 0,
@@ -76740,6 +76529,11 @@
    "sequence": 0,
    "last_modified": "2026-11-11T17:14:19.835664Z"
   },
+  "sfrecpark-main-730b25ffbe25c2d3@sf-cal": {
+   "content_hash": "2b3141621b9b5b2c304216984210ca66f7d3a5306b81f441623bf0ba06d291bf",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
   "sfrecpark-main-78c79e404577cd9c@sf-cal": {
    "content_hash": "a0aab9f5152edb3b7c993ef6fefacb1a20c3ac025d33eb48ed98c5a96f61fdb1",
    "sequence": 0,
@@ -76759,6 +76553,26 @@
    "content_hash": "a7a4bf5597e063a599ee142e0ae83208c5a14b0108d0ca472110fe8b3c8aaaaf",
    "sequence": 0,
    "last_modified": "2026-10-14T12:01:58.272972Z"
+  },
+  "sfrecpark-main-c0d510f09d6cb2a6@sf-cal": {
+   "content_hash": "3bd88c11d0a7ba1da0ab5114f8cb616016070efb54178854ebe1041d1dc07789",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
+  "sfrecpark-main-cb15363de12e584c@sf-cal": {
+   "content_hash": "fae5ceacee43c64ac35e3b8d63aa5987ae06801d6cd8125c97d8938817b7752a",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
+  "sfrecpark-main-dfd089b51f6af3be@sf-cal": {
+   "content_hash": "263e4accd1520fb27f7566b571d0d1d1dbad4a04e730bc289c34df8dea37f019",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
+  },
+  "sfrecpark-main-e2513b2e9653584e@sf-cal": {
+   "content_hash": "e74b807720570fa5d5e3502c89cce98d8ece446e7553c340a975a570d354430a",
+   "sequence": 0,
+   "last_modified": "2026-11-20T02:23:32.440066Z"
   },
   "ybgfestival-2de19567a308725f@sf-cal": {
    "content_hash": "b8fd995d1738e062a8c8a82b7157172cfbe415ea39311b5735c6dfa8a0d79ded",
