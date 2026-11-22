@@ -40,107 +40,31 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:The Searchers
-DTSTART;TZID=America/Los_Angeles:20261114T123000
-DTEND;TZID=America/Los_Angeles:20261114T143000
-DTSTAMP:20261023T171442Z
-UID:dothebay-17979584@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:A favorite film of some of the world's greatest filmmakers\, i
- ncluding Martin Scorsese and Steven Spielberg\, THE SEARCHERS has earned i
- ts place in the legacy of great American films for a variety of reasons. P
- erhaps most notably\, it's the definitive role for John Wayne as an icon o
- f the classic Western – the hero (or antihero) who must stand alone acco
- rding to the unwritten code of the West.\n\nAs with many of Ford's classic
-  Westerns\, THE SEARCHERS must contend with revisionism in its stereotypic
- al treatment of "savage" Native Americans\, and the film's visual beauty (
- the final shot is one of the great images in all of Western culture) is co
- mpromised by some uneven performances and stilted dialogue. Still\, this i
- s undeniably one of the greatest Westerns ever made.\n\nTickets: https://d
- rafthouse.com/sf/show/the-searchers?cinemaId=0802&sessionId=22951\nDetails
- : https://dothebay.com/events/2026/11/14/the-searchers-tickets\nSource: Do
- TheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35067991/a38d7ef6-efb6-4a06-971d-e963fe63dd52.jpg
-LAST-MODIFIED:20261023T171442Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/14/the-searchers-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Indies: The Fugitive Slaves of Liberty
-DTSTART;TZID=America/Los_Angeles:20261114T140000
-DTEND;TZID=America/Los_Angeles:20261114T160000
-DTSTAMP:20261014T214646Z
-UID:dothebay-17955837@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:FREE\nYBCA\n\nTickets: https://bit.ly/4y2Pmwo \nDetails: https
- ://dothebay.com/events/2026/11/14/west-indies-the-fugitive-slaves-of-liber
- ty-tickets\nSource: DoTheBay
-GEO:37.7856437;-122.4021904
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34957494/c3963329-d2fc-4bc9-9223-43ecf9870f68.jpg
-LAST-MODIFIED:20261014T214646Z
-LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
- , CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/14/west-indies-the-fugitive-slaves
- -of-liberty-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volver
-DTSTART;TZID=America/Los_Angeles:20261114T154500
-DTEND;TZID=America/Los_Angeles:20261114T174500
-DTSTAMP:20261023T171442Z
-UID:dothebay-17979565@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:After her death\, a mother returns to her hometown in order to
-  fix the situations she couldn't resolve during her life.\n\nTickets: http
- s://drafthouse.com/sf/show/sad-girl-cinema-club-volver?cinemaId=0802&sessi
- onId=22952\nDetails: https://dothebay.com/events/2026/11/14/volver-tickets
- \nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35067885/8fa853b6-c2c8-4f65-a589-7134dcaf2abb.jpg
-LAST-MODIFIED:20261023T171442Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/14/volver-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“forget me not” Short Film Premiere
+SUMMARY:40+ Global Animated Shorts Made in 7 Days at Madrone Art Bar
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T190000
-DTSTAMP:20261105T012941Z
-UID:dothebay-18030296@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:Come join us for a showcase of over 40 charming\, magical\, an
- d possibly even peculiar animated shorts by artists from across the globe.
- \n\nWithin the FRAME is an annual animation challenge where selected indep
- endent artists and teams are tasked with creating a short film in just 7 d
- ays based on a given prompt. This year\, filmmakers were asked to create a
-  short based on the prompt “forget me not.” Please join us for the San
-  Francisco premiere of this year’s anthology! 5-7pm\nPurchase tickets he
- re!\n\nFree\nWithin the FRAME\n\nTickets: https://madroneartbar.com/event/
- forget-me-not-premiere/\nDetails: https://dothebay.com/events/2026/11/14/f
- orget-me-not-short-film-premiere-tickets\nSource: DoTheBay\n\nAlso listed 
- on:\n- https://sf.funcheap.com/40-global-animated-shorts-7-days-madrone-ar
- t-bar-sf/
-GEO:37.7742426;-122.4373238
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35278727/29edbe1f-7f6b-46a4-8a35-f4d35836905f.jpg
-LAST-MODIFIED:20261105T012941Z
-LOCATION:Madrone Art Bar\, 500 Divisadero St\, San Francisco\, CA\, 94117
+DTSTAMP:20261122T012347Z
+UID:funcheap-1645646@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Hale StemmonsCome join us for a showcase of over 40 charming\,
+  magical\, and possibly even peculiar animated shorts by artists from acro
+ ss the globe.\n5-7pm\nWithin the FRAME is an annual animation challenge wh
+ ere selected independent artists and teams are tasked with creating a shor
+ t film in just 7 days based on a given prompt. This year\, filmmakers were
+  asked to create a short based on the prompt “forget me not.” Please j
+ oin us for the San Francisco premiere of this year’s anthology!\n\nFree\
+ n\nTickets: https://madroneartbar.com/event/forget-me-not-premiere/\nDetai
+ ls: https://sf.funcheap.com/40-global-animated-shorts-7-days-madrone-art-b
+ ar-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/IMG_93
+ 59-scaled-1.jpg
+LAST-MODIFIED:20261122T012347Z
+LOCATION:Madrone Art Bar\, 500 Divisadero Street\, San Francisco\, CA 9411
+ 7
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/14/forget-me-not-short-film-premie
- re-tickets
+URL:https://sf.funcheap.com/40-global-animated-shorts-7-days-madrone-art-b
+ ar-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sftff 2026 – Speculative Fiction
