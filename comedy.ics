@@ -40,47 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers
-DTSTART;TZID=America/Los_Angeles:20261115T094500
-DTEND;TZID=America/Los_Angeles:20261115T110000
-DTSTAMP:20261012T211826Z
-UID:funcheap-1642141@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy Event Types Event
-DESCRIPTION:Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF
- )\nPhuong Le\nLower Nob Hill Weekly Cleanup\nSundays\, 9:45 AM to 11:00 AM
- \nMeet outside Another Cafe at 1191 Pine St\n\nGrab a picker\, meet the pe
- ople on your block\, and leave the sidewalks cleaner than you found them. 
- We provide all the supplies: grabbers\, bags\, gloves\, and vests. Just we
- ar comfortable shoes and show up.\nWhat volunteers get:\n\nA free sandwich
- \, salad\, or drink and pastry from Another Cafe\, ready when the cleanup 
- ends\nA chance at free tickets to that evening’s 7:45 PM stand-up comedy
-  show at Cheaper Than Therapy (533 Sutter St)\, a neighborhood comedy club
-  around the corner from Union Square. Seats are limited each week and go t
- o volunteers who claim them at check-in.\n\nEveryone is welcome\, includin
- g first-timers\, families\, and drop-ins. Check in with a QR code when you
-  arrive. (Comedy tickets are for volunteers 18+.)\nOrganized by neighborho
- od volunteers in partnership with Civic Joy Fund and SF Public Works.\n\nU
- pcoming Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF) Ev
- ents\nSun 10/18 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers
-  (SF)Sun 10/25 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers 
- (SF)Sun 11/1 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (S
- F)Sun 11/8 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)
- Sun 11/15 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers (SF)S
- un 11/22 Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunt...\n\nFree
- \n\nTickets: https://www.instagram.com/lowernobhillcleanup\nDetails: https
- ://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-voluntee
- rs-sf-7/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/09/IMG_27
- 662.jpg
-LAST-MODIFIED:20261012T211826Z
-LOCATION:Lower Nob Hill Neighborhood/Another Cafe\, 1191 Pine Street (meet
-  on Leavenworth St. side)\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for
- -volunteers-sf-7/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
@@ -2443,6 +2402,30 @@ URL:http://www.dougcordell.com/events/2025/7/30/cheaper-than-therapy-san-f
  &utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Mic Comedy @ 620 Jones
+DTSTART;TZID=America/Los_Angeles:20261203T190000
+DTEND;TZID=America/Los_Angeles:20261203T203000
+DTSTAMP:20261122T194955Z
+UID:caldiscovery-comedy-b47d698447b94fe0@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:Every other Thursday\, 620 Jones opens the mic to comedians te
+ sting new material\, sharpening their sets and taking a few big swings.\nG
+ rab a cocktail\, order some bites and catch a rotating lineup of local com
+ ics in an intimate\, laid-back setting. Whether you’re stepping up to th
+ e mic or just coming for the laughs\, everyone is welcome. And who knows\,
+  you can try your luck too!\n\nPublished by 620 Jones\nContains informatio
+ n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-
+ jones.com/calendar/open-mic-comedy-620-jones-5/?utm_source=caldiscovery&ut
+ m_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261122T194955Z
+LOCATION:620 Jones\, 620 Jones St.\, San Francisco\, CA\, 94102\, United S
+ tates
+TRANSP:TRANSPARENT
+URL:https://620-jones.com/calendar/open-mic-comedy-620-jones-5/?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sandra Bernhard
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T210000
@@ -4536,6 +4519,30 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/16/ian-fidance-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Mic Comedy @ 620 Jones
+DTSTART;TZID=America/Los_Angeles:20261217T190000
+DTEND;TZID=America/Los_Angeles:20261217T203000
+DTSTAMP:20261122T194955Z
+UID:caldiscovery-comedy-5f7236dba290c096@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,music
+DESCRIPTION:Every other Thursday\, 620 Jones opens the mic to comedians te
+ sting new material\, sharpening their sets and taking a few big swings.\nG
+ rab a cocktail\, order some bites and catch a rotating lineup of local com
+ ics in an intimate\, laid-back setting. Whether you’re stepping up to th
+ e mic or just coming for the laughs\, everyone is welcome. And who knows\,
+  you can try your luck too!\n\nPublished by 620 Jones\nContains informatio
+ n from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://620-
+ jones.com/calendar/open-mic-comedy-620-jones-6/?utm_source=caldiscovery&ut
+ m_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261122T194955Z
+LOCATION:620 Jones\, 620 Jones St.\, San Francisco\, CA\, 94102\, United S
+ tates
+TRANSP:TRANSPARENT
+URL:https://620-jones.com/calendar/open-mic-comedy-620-jones-6/?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Emily Catalano
 DTSTART;TZID=America/Los_Angeles:20261217T193000
 DTEND;TZID=America/Los_Angeles:20261217T213000
@@ -4939,6 +4946,47 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/19/rachel-feinstein-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Crazy Funny Asians” Free Comedy Showcase
+DTSTART;TZID=America/Los_Angeles:20261219T190000
+DTEND;TZID=America/Los_Angeles:20261219T223000
+DTSTAMP:20261122T194955Z
+UID:funcheap-1648508@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:“Crazy Funny Asians” Free Comedy Showcase (SF)\nHellaFunny
+ \nInspired by the blockbuster movie\, see some of the Bay Area’s top com
+ edians at San Francisco’s Crazy Funny Asians comedy showcase\, presented
+  by Funcheap and HellaFunny. Let’s celebrate the Bay’s Asian-American 
+ culture and heritage with laughs at SF’s brand new comedy club on Market
+  St – The Function.\nFree tickets for the first 100 people to RSVP\n“C
+ razy Funny Asians” Comedy Showcase\nEvery Friday & Saturday at 7pm + 9pm
+ \nThe Function Comedy Club\, 1414 Market St.\, SF\nFREE with RSVP (Donatio
+ ns appreciated – bring cash) – limited to first 50\nDidn’t Get Ticke
+ ts? We’ll have 20 door tickets ($25) available for each show – Show up
+  early to snag them!\nTickets\n– FREE with Eventbrite RSVP – Donations
+  appreciated – bring cash\n– Maximum Two Comp Tickets Per Person – I
+ f you have additional guests you’d like to bring\, they must RSVP separa
+ tely\n– $25 door (without RSVP)\n– Lineup subject to change\n– Admis
+ sion is first come first served\n– Like most comedy clubs\, there is a t
+ wo-drink minimum to help support our local bar scene.\nHosted by K. Cheng 
+ (NBC’s Stand Up for Diversity\, Khmers of Comedy\, Host SF Chinese New Y
+ ear Parade Pre-Show)\nCrazy Funny Asians Comedy Lineup\nEvery week is a ne
+ w lineup. Here are some of our favorites you might see…\n\nJeen Yee-Tomm
+ y Ts\nChris Posadas-Tommy Ts\nShawn Felipe-WorldAsia TV\, Sprint Comedy\nN
+ icole Tran- Tommy T’s\nRyan Chan- Opened for Earthquake\nMoon Choe- SF S
+ ketchfest\nAndrew Orofolo-SF Punchline\nPlus many...\n\nFree\n\nTickets: h
+ ttps://www.eventbrite.com/e/crazy-funny-asians-live-comedy-show-tickets-16
+ 2483976949?aff=FCWebsite\nDetails: https://sf.funcheap.com/crazy-funny-asi
+ ans-free-comedy-showcase-sf-109/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/08/CrazyF
+ unnyAsians-e1535334557269.jpg
+LAST-MODIFIED:20261122T194955Z
+LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-109
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Puff Puff Laugh” SF’s Cannabis Lounge Comedy Show (Moe Gree
@@ -5678,6 +5726,47 @@ LAST-MODIFIED:20261106T192930Z
 LOCATION:The Masonic\, 1111 California St.\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/26/ali-wong-live-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Crazy Funny Asians” Free Comedy Showcase
+DTSTART;TZID=America/Los_Angeles:20261226T190000
+DTEND;TZID=America/Los_Angeles:20261226T223000
+DTSTAMP:20261122T194955Z
+UID:funcheap-1648510@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:“Crazy Funny Asians” Free Comedy Showcase (SF)\nHellaFunny
+ \nInspired by the blockbuster movie\, see some of the Bay Area’s top com
+ edians at San Francisco’s Crazy Funny Asians comedy showcase\, presented
+  by Funcheap and HellaFunny. Let’s celebrate the Bay’s Asian-American 
+ culture and heritage with laughs at SF’s brand new comedy club on Market
+  St – The Function.\nFree tickets for the first 100 people to RSVP\n“C
+ razy Funny Asians” Comedy Showcase\nEvery Friday & Saturday at 7pm + 9pm
+ \nThe Function Comedy Club\, 1414 Market St.\, SF\nFREE with RSVP (Donatio
+ ns appreciated – bring cash) – limited to first 50\nDidn’t Get Ticke
+ ts? We’ll have 20 door tickets ($25) available for each show – Show up
+  early to snag them!\nTickets\n– FREE with Eventbrite RSVP – Donations
+  appreciated – bring cash\n– Maximum Two Comp Tickets Per Person – I
+ f you have additional guests you’d like to bring\, they must RSVP separa
+ tely\n– $25 door (without RSVP)\n– Lineup subject to change\n– Admis
+ sion is first come first served\n– Like most comedy clubs\, there is a t
+ wo-drink minimum to help support our local bar scene.\nHosted by K. Cheng 
+ (NBC’s Stand Up for Diversity\, Khmers of Comedy\, Host SF Chinese New Y
+ ear Parade Pre-Show)\nCrazy Funny Asians Comedy Lineup\nEvery week is a ne
+ w lineup. Here are some of our favorites you might see…\n\nJeen Yee-Tomm
+ y Ts\nChris Posadas-Tommy Ts\nShawn Felipe-WorldAsia TV\, Sprint Comedy\nN
+ icole Tran- Tommy T’s\nRyan Chan- Opened for Earthquake\nMoon Choe- SF S
+ ketchfest\nAndrew Orofolo-SF Punchline\nPlus many...\n\nFree\n\nTickets: h
+ ttps://www.eventbrite.com/e/crazy-funny-asians-live-comedy-show-tickets-16
+ 2483976949?aff=FCWebsite\nDetails: https://sf.funcheap.com/crazy-funny-asi
+ ans-free-comedy-showcase-sf-110/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/08/CrazyF
+ unnyAsians-e1535334557269.jpg
+LAST-MODIFIED:20261122T194955Z
+LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-110
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Puff Puff Laugh” SF’s Cannabis Lounge Comedy Show (Moe Gree
@@ -6525,6 +6614,47 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/2/comedy-allstars-tickets-medaxmz
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Crazy Funny Asians” Free Comedy Showcase
+DTSTART;TZID=America/Los_Angeles:20270102T190000
+DTEND;TZID=America/Los_Angeles:20270102T223000
+DTSTAMP:20261122T194955Z
+UID:funcheap-1648512@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:“Crazy Funny Asians” Free Comedy Showcase (SF)\nHellaFunny
+ \nInspired by the blockbuster movie\, see some of the Bay Area’s top com
+ edians at San Francisco’s Crazy Funny Asians comedy showcase\, presented
+  by Funcheap and HellaFunny. Let’s celebrate the Bay’s Asian-American 
+ culture and heritage with laughs at SF’s brand new comedy club on Market
+  St – The Function.\nFree tickets for the first 100 people to RSVP\n“C
+ razy Funny Asians” Comedy Showcase\nEvery Friday & Saturday at 7pm + 9pm
+ \nThe Function Comedy Club\, 1414 Market St.\, SF\nFREE with RSVP (Donatio
+ ns appreciated – bring cash) – limited to first 50\nDidn’t Get Ticke
+ ts? We’ll have 20 door tickets ($25) available for each show – Show up
+  early to snag them!\nTickets\n– FREE with Eventbrite RSVP – Donations
+  appreciated – bring cash\n– Maximum Two Comp Tickets Per Person – I
+ f you have additional guests you’d like to bring\, they must RSVP separa
+ tely\n– $25 door (without RSVP)\n– Lineup subject to change\n– Admis
+ sion is first come first served\n– Like most comedy clubs\, there is a t
+ wo-drink minimum to help support our local bar scene.\nHosted by K. Cheng 
+ (NBC’s Stand Up for Diversity\, Khmers of Comedy\, Host SF Chinese New Y
+ ear Parade Pre-Show)\nCrazy Funny Asians Comedy Lineup\nEvery week is a ne
+ w lineup. Here are some of our favorites you might see…\n\nJeen Yee-Tomm
+ y Ts\nChris Posadas-Tommy Ts\nShawn Felipe-WorldAsia TV\, Sprint Comedy\nN
+ icole Tran- Tommy T’s\nRyan Chan- Opened for Earthquake\nMoon Choe- SF S
+ ketchfest\nAndrew Orofolo-SF Punchline\nPlus many...\n\nFree\n\nTickets: h
+ ttps://www.eventbrite.com/e/crazy-funny-asians-live-comedy-show-tickets-16
+ 2483976949?aff=FCWebsite\nDetails: https://sf.funcheap.com/crazy-funny-asi
+ ans-free-comedy-showcase-sf-111/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/08/CrazyF
+ unnyAsians-e1535334557269.jpg
+LAST-MODIFIED:20261122T194955Z
+LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-111
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jeremiah Watkins
 DTSTART;TZID=America/Los_Angeles:20270102T211500
 DTEND;TZID=America/Los_Angeles:20270102T231500
@@ -7081,6 +7211,47 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/8/tom-rhodes-tickets-ebyk8z6
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Crazy Funny Asians” Free Comedy Showcase
+DTSTART;TZID=America/Los_Angeles:20270109T190000
+DTEND;TZID=America/Los_Angeles:20270109T223000
+DTSTAMP:20261122T194955Z
+UID:funcheap-1648514@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:“Crazy Funny Asians” Free Comedy Showcase (SF)\nHellaFunny
+ \nInspired by the blockbuster movie\, see some of the Bay Area’s top com
+ edians at San Francisco’s Crazy Funny Asians comedy showcase\, presented
+  by Funcheap and HellaFunny. Let’s celebrate the Bay’s Asian-American 
+ culture and heritage with laughs at SF’s brand new comedy club on Market
+  St – The Function.\nFree tickets for the first 100 people to RSVP\n“C
+ razy Funny Asians” Comedy Showcase\nEvery Friday & Saturday at 7pm + 9pm
+ \nThe Function Comedy Club\, 1414 Market St.\, SF\nFREE with RSVP (Donatio
+ ns appreciated – bring cash) – limited to first 50\nDidn’t Get Ticke
+ ts? We’ll have 20 door tickets ($25) available for each show – Show up
+  early to snag them!\nTickets\n– FREE with Eventbrite RSVP – Donations
+  appreciated – bring cash\n– Maximum Two Comp Tickets Per Person – I
+ f you have additional guests you’d like to bring\, they must RSVP separa
+ tely\n– $25 door (without RSVP)\n– Lineup subject to change\n– Admis
+ sion is first come first served\n– Like most comedy clubs\, there is a t
+ wo-drink minimum to help support our local bar scene.\nHosted by K. Cheng 
+ (NBC’s Stand Up for Diversity\, Khmers of Comedy\, Host SF Chinese New Y
+ ear Parade Pre-Show)\nCrazy Funny Asians Comedy Lineup\nEvery week is a ne
+ w lineup. Here are some of our favorites you might see…\n\nJeen Yee-Tomm
+ y Ts\nChris Posadas-Tommy Ts\nShawn Felipe-WorldAsia TV\, Sprint Comedy\nN
+ icole Tran- Tommy T’s\nRyan Chan- Opened for Earthquake\nMoon Choe- SF S
+ ketchfest\nAndrew Orofolo-SF Punchline\nPlus many...\n\nFree\n\nTickets: h
+ ttps://www.eventbrite.com/e/crazy-funny-asians-live-comedy-show-tickets-16
+ 2483976949?aff=FCWebsite\nDetails: https://sf.funcheap.com/crazy-funny-asi
+ ans-free-comedy-showcase-sf-112/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/08/CrazyF
+ unnyAsians-e1535334557269.jpg
+LAST-MODIFIED:20261122T194955Z
+LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-112
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lower Nob Hill Weekly Cleanup w/ Free Lunch for Volunteers
 DTSTART;TZID=America/Los_Angeles:20270110T094500
 DTEND;TZID=America/Los_Angeles:20270110T110000
@@ -7414,6 +7585,47 @@ LOCATION:August Hall
 TRANSP:TRANSPARENT
 URL:https://www.augusthallsf.com/tm-event/sf-sketchfest-the-big-team/?utm_
  source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Crazy Funny Asians” Free Comedy Showcase
+DTSTART;TZID=America/Los_Angeles:20270116T190000
+DTEND;TZID=America/Los_Angeles:20270116T223000
+DTSTAMP:20261122T194955Z
+UID:funcheap-1648516@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:“Crazy Funny Asians” Free Comedy Showcase (SF)\nHellaFunny
+ \nInspired by the blockbuster movie\, see some of the Bay Area’s top com
+ edians at San Francisco’s Crazy Funny Asians comedy showcase\, presented
+  by Funcheap and HellaFunny. Let’s celebrate the Bay’s Asian-American 
+ culture and heritage with laughs at SF’s brand new comedy club on Market
+  St – The Function.\nFree tickets for the first 100 people to RSVP\n“C
+ razy Funny Asians” Comedy Showcase\nEvery Friday & Saturday at 7pm + 9pm
+ \nThe Function Comedy Club\, 1414 Market St.\, SF\nFREE with RSVP (Donatio
+ ns appreciated – bring cash) – limited to first 50\nDidn’t Get Ticke
+ ts? We’ll have 20 door tickets ($25) available for each show – Show up
+  early to snag them!\nTickets\n– FREE with Eventbrite RSVP – Donations
+  appreciated – bring cash\n– Maximum Two Comp Tickets Per Person – I
+ f you have additional guests you’d like to bring\, they must RSVP separa
+ tely\n– $25 door (without RSVP)\n– Lineup subject to change\n– Admis
+ sion is first come first served\n– Like most comedy clubs\, there is a t
+ wo-drink minimum to help support our local bar scene.\nHosted by K. Cheng 
+ (NBC’s Stand Up for Diversity\, Khmers of Comedy\, Host SF Chinese New Y
+ ear Parade Pre-Show)\nCrazy Funny Asians Comedy Lineup\nEvery week is a ne
+ w lineup. Here are some of our favorites you might see…\n\nJeen Yee-Tomm
+ y Ts\nChris Posadas-Tommy Ts\nShawn Felipe-WorldAsia TV\, Sprint Comedy\nN
+ icole Tran- Tommy T’s\nRyan Chan- Opened for Earthquake\nMoon Choe- SF S
+ ketchfest\nAndrew Orofolo-SF Punchline\nPlus many...\n\nFree\n\nTickets: h
+ ttps://www.eventbrite.com/e/crazy-funny-asians-live-comedy-show-tickets-16
+ 2483976949?aff=FCWebsite\nDetails: https://sf.funcheap.com/crazy-funny-asi
+ ans-free-comedy-showcase-sf-113/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2018/08/CrazyF
+ unnyAsians-e1535334557269.jpg
+LAST-MODIFIED:20261122T194955Z
+LOCATION:The Function\, 1414 Market Street\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/crazy-funny-asians-free-comedy-showcase-sf-113
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF Sketchfest: Robot Karaoke
