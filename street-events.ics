@@ -41,24 +41,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Block Party - Prentiss Street
-DTSTART;TZID=America/Los_Angeles:20261114T113000
-DTEND;TZID=America/Los_Angeles:20261114T180000
-DTSTAMP:20261027T222129Z
-UID:sf-street-events-1635512-2026-11-14T11:30:00-08:00@sf-cal
-SEQUENCE:0
-CATEGORIES:Special Event
-DESCRIPTION:Closed: Prentiss St from Cortland Ave to Jarboe Ave\n\nPermit 
- status: Permitted\nTimes are SFMTA street-closure permit times and include
-  setup and teardown\nSource: DataSF Temporary Street Closures\n\nDetails: 
- https://data.sf.gov/d/8x25-yybr\nSource: DataSF street closures
-GEO:37.738977;-122.412058
-LAST-MODIFIED:20261027T222129Z
-LOCATION:Prentiss St between Jarboe Ave and Cortland Ave\, San Francisco
-TRANSP:TRANSPARENT
-URL:https://data.sf.gov/d/8x25-yybr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outer Sunset Farmers' Market 2026
 DTSTART;TZID=America/Los_Angeles:20261115T060000
 DTEND;TZID=America/Los_Angeles:20261115T160000
