@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: Yellow
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261115T064427Z
-UID:city-hall-lights-ics-4168a5bfd130a37e@sf-cal
-SEQUENCE:1
-DESCRIPTION:World Day of Remembrance for Road Traffic Victims\n\nDetails: 
- https://www.sf.gov/location--san-francisco-city-hall\nSource: SF City Hall
-  lighting (via Robelius/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261115T064427Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: Red/Blue
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119

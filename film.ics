@@ -40,28 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:LIVE MUSIC: Todd Day Wait
-DTSTART;TZID=America/Los_Angeles:20261115T200000
-DTEND;TZID=America/Los_Angeles:20261115T220000
-DTSTAMP:20261104T195100Z
-UID:dothebay-17730315@sf-cal
-SEQUENCE:1
-CATEGORIES:Film
-DESCRIPTION:LIVE MUSIC:\n\nTodd Day Wait\n\n7:00 PM Doors\n\n8:00 PM Music
- \n\n$18 ADV / $22 DOOR\n\nTickets: https://ticketing.uswest.veezi.com/purc
- hase/19575?siteToken=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay
- .com/events/2026/11/15/live-music-todd-day-wait-tickets\nSource: DoTheBay
-GEO:37.782364;-122.482951
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33894030/5bb2885f-c9a3-47aa-8844-a55a05080e0a.jpg
-LAST-MODIFIED:20261104T195100Z
-LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
-  Francisco\, CA\, 94117
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/15/live-music-todd-day-wait-ticket
- s
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Closure
 DTSTART;TZID=America/Los_Angeles:20261116T180000
 DTEND;TZID=America/Los_Angeles:20261116T200000
