@@ -76,39 +76,6 @@ URL:https://go.evvnt.com/3840058-0?pid=12352&utm_source=caldiscovery&utm_m
  edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nick Paumgarten with Chris Jennings - The Intangibles
-DTSTART;TZID=America/Los_Angeles:20261116T180000
-DTEND;TZID=America/Los_Angeles:20261116T200000
-DTSTAMP:20261105T200237Z
-UID:dothebay-18044076@sf-cal
-SEQUENCE:0
-CATEGORIES:Literature
-DESCRIPTION:Over the past two decades\, Nick Paumgarten has become one of 
- The New Yorker’s most admired staff writers. His long-awaited first book
- \, a memoir\, uses his consuming lifelong obsession with hockey as a prism
-  into a deeply entertaining exploration of the game’s tribe and its unre
- asonable demands.\nNick will be joined in conversation by Chris Jennings\,
-  the author of Paradise Now: The Story of American Utopianism.\n****\nABOU
- T THIS EVENT\nThis event will be hosted by Book Passage at our SF Ferry Bu
- ilding store.\nFree Admission / Open Seating\nFollowing the presentation\,
-  there will be a signing line or a meet-and-greet.\nIf you are unable to a
- ttend the event\, you can still get your copy by clicking the "BUY THE BOO
- K" button above. If you would like a signed or personalized book\, please 
- note that in the order comment field.\nFor any questions regarding our eve
- nts\, please contact us at books@bookpassage.com.\n\nFree\nBook Passage Pr
- esents:\n\nTickets: https://bookpassage.com/event/nick-paumgarten-intangib
- les\nDetails: https://dothebay.com/events/2026/11/16/nick-paumgarten-with-
- chris-jennings-the-intangibles-tickets\nSource: DoTheBay
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35337244/298feb78-c5ce-49e2-a04b-c6176f5f4e51.jpg
-LAST-MODIFIED:20261105T200237Z
-LOCATION:Book Passage San Francisco\, 1 Ferry Building\, San Francisco\, C
- A\, 94911
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/16/nick-paumgarten-with-chris-jenn
- ings-the-intangibles-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Arcade Bar “Emporium” 8 Free Game Tokens for “Industry Ni
  ght” (Every Monday)
 DTSTART;TZID=America/Los_Angeles:20261116T180000
@@ -4912,29 +4879,6 @@ URL:https://sf.funcheap.com/block-fest-tenderloin-arts-festival-free-art-m
  aking-sf-136/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winterfest: Holiday Lighting Celebration
-DTSTART;TZID=America/Los_Angeles:20261204T170000
-DTEND;TZID=America/Los_Angeles:20261204T190000
-DTSTAMP:20261120T022332Z
-UID:caldiscovery-festival-101c73aa5a8c0208@sf-cal
-SEQUENCE:0
-CATEGORIES:festival
-DESCRIPTION:Featuring DJ Umami\, dancing\, crafts\, and a countdown to the
-  lighting of Salesforce Park!\n\nMore details: https://www.tjpa.org/transi
- t-center/activities/winterfest-holiday-lighting-celebration-1\n\nPublished
-  by TJPA Salesforce Park Activities\nContains information from CalDiscover
- y (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.tjpa.org/transit-c
- enter/activities/winterfest-holiday-lighting-celebration-1?utm_source=cald
- iscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscover
- y
-LAST-MODIFIED:20261120T022332Z
-LOCATION:Salesforce Park\, Main Plaza
-TRANSP:TRANSPARENT
-URL:https://www.tjpa.org/transit-center/activities/winterfest-holiday-ligh
- ting-celebration-1?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san
- -francisco-ca
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Castro Art Walk
 DTSTART;TZID=America/Los_Angeles:20261204T170000
 DTEND;TZID=America/Los_Angeles:20261204T190000
@@ -5281,6 +5225,23 @@ URL:https://sf.funcheap.com/italian-christmas-market-mercatino-di-natale-f
  ort-mason-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:East Bay Open Studios
+DTSTART;TZID=America/Los_Angeles:20261205T110000
+DTEND;TZID=America/Los_Angeles:20261206T170000
+DTSTAMP:20261124T021644Z
+UID:caldiscovery-festival-21d21896d2cbfa84@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,community,festival,free
+DESCRIPTION:Published by salt-artandculture.com\nContains information from
+  CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.salt-a
+ rtandculture.com/event-calendar/east-bay-open-studios-2?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261124T021644Z
+TRANSP:TRANSPARENT
+URL:https://www.salt-artandculture.com/event-calendar/east-bay-open-studio
+ s-2?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:District 10 Bayview Family Summit
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T130000
@@ -5398,9 +5359,9 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T170000
-DTSTAMP:20261112T112617Z
+DTSTAMP:20261124T021644Z
 UID:funcheap-1646247@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Art Museums
 DESCRIPTION:Oakland Art Murmur\, Artwork by Jean SanchiricoEast Bay Open S
  tudios returns for two free weekends with over 200 artists opening their s
@@ -5420,11 +5381,10 @@ DESCRIPTION:Oakland Art Murmur\, Artwork by Jean SanchiricoEast Bay Open S
  tudios! Open 11am–5pm each day\n\nFree\n\nTickets: https://www.eventbrit
  e.com/e/east-bay-open-studios-winter-2026-tickets-2003028839178\nDetails: 
  https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nSource: Funch
- eap SF\n\nAlso listed on:\n- https://www.eastbayopenstudios.com?utm_source
- =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ eap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/W26-EB
  OS-Instagram-Save-The-Date.png
-LAST-MODIFIED:20261112T112617Z
+LAST-MODIFIED:20261124T021644Z
 LOCATION:All Over East Bay
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/
@@ -5458,9 +5418,9 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 East Bay Open Studios: 200+ Artists (Dec 5-6 + 12-13)
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T170000
-DTSTAMP:20261122T194955Z
+DTSTAMP:20261124T021644Z
 UID:funcheap-1648053@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Art Museums
 DESCRIPTION:Artwork by Jean SanchiricoEast Bay Open Studios returns for tw
  o free weekends with over 200 artists opening their studios to the public.
@@ -5480,11 +5440,10 @@ DESCRIPTION:Artwork by Jean SanchiricoEast Bay Open Studios returns for tw
  5pm each day\n\nFree\n\nTickets: https://www.eventbrite.com/e/east-bay-ope
  n-studios-winter-2026-tickets-2003028839178\nDetails: https://sf.funcheap.
  com/free-2026-east-bay-open-studios-200-artists-dec-56-1213/\nSource: Func
- heap SF\n\nAlso listed on:\n- https://www.eastbayopenstudios.com?utm_sourc
- e=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ heap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/W26-EB
  OS-Instagram.png
-LAST-MODIFIED:20261122T194955Z
+LAST-MODIFIED:20261124T021644Z
 LOCATION:All Over East Bay
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-2026-east-bay-open-studios-200-artists-de
@@ -6384,6 +6343,47 @@ URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  co-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (4th
+  Night)
+DTSTART;TZID=America/Los_Angeles:20261207T163000
+DTEND;TZID=America/Los_Angeles:20261207T193000
+DTSTAMP:20261124T021644Z
+UID:funcheap-1648660@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah 
+ (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975\, San Francisc
+ o celebrates the 51st anniversary of the first giant public menorah outsid
+ e Israel\, a landmark Bill Graham project that inspired thousands of menor
+ ahs around the world. This year’s eight-night celebration brings music\,
+  community gatherings\, and nightly ceremonies honoring leaders and tradit
+ ions across the Jewish community.\nThe festival is capped off with a festi
+ ve menorah car parade rolling out from Union Square (date TBA).\n\nUnion S
+ quare Menorah Lighting Schedule 2026\nDecember 4-11\, 2026\nFriday\, Decem
+ ber 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday\, December 5\n\n8:0
+ 0 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes\
+ , followed by music and dancing.\n\nSunday\, December 6\n“Bill Graham Me
+ norah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Cerem
+ ony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Child
+ ren’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm –
+  Bill Graham All Stars featuring Jordan Feinstein (keys/vocals\, Jordan an
+ d the Ritual)\, Aaron Kaplan (guitar)\, Ben Bernstein (bass)\, and Greg Er
+ rico (drums\, original Sly and the Family Stone)\n5:00 pm – Menorah Ligh
+ ting Ceremony honoring Friends of Bill\, dignitaries and special guests\n\
+ nMonday\, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting C
+ eremony\n\nCeremony lasts approximately 20 minutes\, followed by music and
+  dancing.\n\nTuesday\, December 8\n\n4:30 pm...\n\nFree\n\nTickets: https:
+ //www.billgrahammenorah.org/\nDetails: https://sf.funcheap.com/union-squar
+ es-2026-chanukah-festival-lighting-ceremony/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1
+ stNightUnionSquare-211128.jpeg
+LAST-MODIFIED:20261124T021644Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/union-squares-2026-chanukah-festival-lighting-
+ ceremony/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Let’s Glow SF” 2026: SF’s Huge Holiday Projection Arts Fe
  stival (Dec. 4-13)
 DTSTART;TZID=America/Los_Angeles:20261207T173000
@@ -6520,6 +6520,48 @@ TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
  co-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (5th
+  Night)
+DTSTART;TZID=America/Los_Angeles:20261208T163000
+DTEND;TZID=America/Los_Angeles:20261208T193000
+DTSTAMP:20261124T021644Z
+UID:funcheap-1648661@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah 
+ (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975\, San Francisc
+ o celebrates the 51st anniversary of the first giant public menorah outsid
+ e Israel\, a landmark Bill Graham project that inspired thousands of menor
+ ahs around the world. This year’s eight-night celebration brings music\,
+  community gatherings\, and nightly ceremonies honoring leaders and tradit
+ ions across the Jewish community.\nThe festival is capped off with a festi
+ ve menorah car parade rolling out from Union Square (date TBA).\n\nUnion S
+ quare Menorah Lighting Schedule 2026\nDecember 4-11\, 2026\nFriday\, Decem
+ ber 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday\, December 5\n\n8:0
+ 0 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes\
+ , followed by music and dancing.\n\nSunday\, December 6\n“Bill Graham Me
+ norah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Cerem
+ ony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Child
+ ren’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm –
+  Bill Graham All Stars featuring Jordan Feinstein (keys/vocals\, Jordan an
+ d the Ritual)\, Aaron Kaplan (guitar)\, Ben Bernstein (bass)\, and Greg Er
+ rico (drums\, original Sly and the Family Stone)\n5:00 pm – Menorah Ligh
+ ting Ceremony honoring Friends of Bill\, dignitaries and special guests\n\
+ nMonday\, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting C
+ eremony\n\nCeremony lasts approximately 20 minutes\, followed by music and
+  dancing.\n\nTuesday\, December 8\n\n4:30 pm...\n\nFree\n\nTickets: https:
+ //www.billgrahammenorah.org/\nDetails: https://sf.funcheap.com/union-squar
+ es-2026-chanukah-festival-25-foot-tall-menorah-5th-night/\nSource: Funchea
+ p SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1
+ stNightUnionSquare-211128.jpeg
+LAST-MODIFIED:20261124T021644Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/union-squares-2026-chanukah-festival-25-foot-t
+ all-menorah-5th-night/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“Let’s Glow SF” 2026: SF’s Huge Holiday Projection Arts Fe
@@ -6709,6 +6751,48 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-holiday-open-house-sf-center-book/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (6th
+  Night)
+DTSTART;TZID=America/Los_Angeles:20261209T163000
+DTEND;TZID=America/Los_Angeles:20261209T193000
+DTSTAMP:20261124T021644Z
+UID:funcheap-1648662@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah 
+ (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975\, San Francisc
+ o celebrates the 51st anniversary of the first giant public menorah outsid
+ e Israel\, a landmark Bill Graham project that inspired thousands of menor
+ ahs around the world. This year’s eight-night celebration brings music\,
+  community gatherings\, and nightly ceremonies honoring leaders and tradit
+ ions across the Jewish community.\nThe festival is capped off with a festi
+ ve menorah car parade rolling out from Union Square (date TBA).\n\nUnion S
+ quare Menorah Lighting Schedule 2026\nDecember 4-11\, 2026\nFriday\, Decem
+ ber 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday\, December 5\n\n8:0
+ 0 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes\
+ , followed by music and dancing.\n\nSunday\, December 6\n“Bill Graham Me
+ norah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Cerem
+ ony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Child
+ ren’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm –
+  Bill Graham All Stars featuring Jordan Feinstein (keys/vocals\, Jordan an
+ d the Ritual)\, Aaron Kaplan (guitar)\, Ben Bernstein (bass)\, and Greg Er
+ rico (drums\, original Sly and the Family Stone)\n5:00 pm – Menorah Ligh
+ ting Ceremony honoring Friends of Bill\, dignitaries and special guests\n\
+ nMonday\, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting C
+ eremony\n\nCeremony lasts approximately 20 minutes\, followed by music and
+  dancing.\n\nTuesday\, December 8\n\n4:30 pm...\n\nFree\n\nTickets: https:
+ //www.billgrahammenorah.org/\nDetails: https://sf.funcheap.com/union-squar
+ es-2026-chanukah-festival-25-foot-tall-menorah-6th-night/\nSource: Funchea
+ p SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1
+ stNightUnionSquare-211128.jpeg
+LAST-MODIFIED:20261124T021644Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/union-squares-2026-chanukah-festival-25-foot-t
+ all-menorah-6th-night/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Let’s Glow SF” 2026: SF’s Huge Holiday Projection Arts Fe
  stival (Dec. 4-13)
 DTSTART;TZID=America/Los_Angeles:20261209T173000
@@ -6855,6 +6939,48 @@ LOCATION:The Lab\, 2948 16th Street\, San Francisco\, CA\, 94103
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/10/flaming-creatures-the-films-of-
  jack-smith-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (7th
+  Night)
+DTSTART;TZID=America/Los_Angeles:20261210T163000
+DTEND;TZID=America/Los_Angeles:20261210T193000
+DTSTAMP:20261124T021644Z
+UID:funcheap-1648663@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah 
+ (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975\, San Francisc
+ o celebrates the 51st anniversary of the first giant public menorah outsid
+ e Israel\, a landmark Bill Graham project that inspired thousands of menor
+ ahs around the world. This year’s eight-night celebration brings music\,
+  community gatherings\, and nightly ceremonies honoring leaders and tradit
+ ions across the Jewish community.\nThe festival is capped off with a festi
+ ve menorah car parade rolling out from Union Square (date TBA).\n\nUnion S
+ quare Menorah Lighting Schedule 2026\nDecember 4-11\, 2026\nFriday\, Decem
+ ber 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday\, December 5\n\n8:0
+ 0 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes\
+ , followed by music and dancing.\n\nSunday\, December 6\n“Bill Graham Me
+ norah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Cerem
+ ony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Child
+ ren’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm –
+  Bill Graham All Stars featuring Jordan Feinstein (keys/vocals\, Jordan an
+ d the Ritual)\, Aaron Kaplan (guitar)\, Ben Bernstein (bass)\, and Greg Er
+ rico (drums\, original Sly and the Family Stone)\n5:00 pm – Menorah Ligh
+ ting Ceremony honoring Friends of Bill\, dignitaries and special guests\n\
+ nMonday\, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting C
+ eremony\n\nCeremony lasts approximately 20 minutes\, followed by music and
+  dancing.\n\nTuesday\, December 8\n\n4:30 pm...\n\nFree\n\nTickets: https:
+ //www.billgrahammenorah.org/\nDetails: https://sf.funcheap.com/union-squar
+ es-2026-chanukah-festival-25-foot-tall-menorah-7th-night/\nSource: Funchea
+ p SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1
+ stNightUnionSquare-211128.jpeg
+LAST-MODIFIED:20261124T021644Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/union-squares-2026-chanukah-festival-25-foot-t
+ all-menorah-7th-night/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sip and Sketch | Mid-Century Greeting Cards
@@ -7097,6 +7223,48 @@ TRANSP:TRANSPARENT
 URL:https://www.hotelcaza.com/explore/event-calendar/illuminate-sf-festiva
  l-of-light?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francis
  co-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah (Fin
+ al Night)
+DTSTART;TZID=America/Los_Angeles:20261211T143000
+DTEND;TZID=America/Los_Angeles:20261211T173000
+DTSTAMP:20261124T021644Z
+UID:funcheap-1648664@sf-cal
+SEQUENCE:0
+CATEGORIES:Fairs Festivals
+DESCRIPTION:Union Square’s 2026 Chanukah Festival: 25-Foot-Tall Menorah 
+ (Dec. 4-11)\nBill Graham Menorah\nLighting it up since 1975\, San Francisc
+ o celebrates the 51st anniversary of the first giant public menorah outsid
+ e Israel\, a landmark Bill Graham project that inspired thousands of menor
+ ahs around the world. This year’s eight-night celebration brings music\,
+  community gatherings\, and nightly ceremonies honoring leaders and tradit
+ ions across the Jewish community.\nThe festival is capped off with a festi
+ ve menorah car parade rolling out from Union Square (date TBA).\n\nUnion S
+ quare Menorah Lighting Schedule 2026\nDecember 4-11\, 2026\nFriday\, Decem
+ ber 4\n\n2:30 pm – 1st Lighting Ceremony\n\nSaturday\, December 5\n\n8:0
+ 0 pm – 2nd Lighting Ceremony\n\nCeremony lasts approximately 20 minutes\
+ , followed by music and dancing.\n\nSunday\, December 6\n“Bill Graham Me
+ norah Day“\n\n2:00-6:30 pm – Family Celebration and 3rd Lighting Cerem
+ ony\n2:30-4:30 pm – Dreidel House Children’s Crafts\n2:00 pm – Child
+ ren’s Chanukah Show\n3:00 pm – Live Music (Band TBA)\n4:00-6:30 pm –
+  Bill Graham All Stars featuring Jordan Feinstein (keys/vocals\, Jordan an
+ d the Ritual)\, Aaron Kaplan (guitar)\, Ben Bernstein (bass)\, and Greg Er
+ rico (drums\, original Sly and the Family Stone)\n5:00 pm – Menorah Ligh
+ ting Ceremony honoring Friends of Bill\, dignitaries and special guests\n\
+ nMonday\, December 7\n\n4:30 pm – Live Music\n5:00 pm – 4th Lighting C
+ eremony\n\nCeremony lasts approximately 20 minutes\, followed by music and
+  dancing.\n\nTuesday\, December 8\n\n4:30 pm...\n\nFree\n\nTickets: https:
+ //www.billgrahammenorah.org/\nDetails: https://sf.funcheap.com/union-squar
+ es-2026-chanukah-festival-25-foot-tall-menorah-final-night/\nSource: Funch
+ eap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2023/11/2252-1
+ stNightUnionSquare-211128.jpeg
+LAST-MODIFIED:20261124T021644Z
+LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/union-squares-2026-chanukah-festival-25-foot-t
+ all-menorah-final-night/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holidays on Taraval
@@ -7530,6 +7698,25 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sf-holiday-makers-market-museum-eye-dec-1213/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:East Bay Open Studios (Weekend two)
+DTSTART;TZID=America/Los_Angeles:20261212T110000
+DTEND;TZID=America/Los_Angeles:20261213T120000
+DTSTAMP:20261124T021644Z
+UID:caldiscovery-festival-af9eb00eacf6de17@sf-cal
+SEQUENCE:0
+CATEGORIES:arts,community,festival,free
+DESCRIPTION:Published by salt-artandculture.com\nContains information from
+  CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.salt-a
+ rtandculture.com/event-calendar/east-bay-open-studios-weekend-2?utm_source
+ =caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDis
+ covery
+LAST-MODIFIED:20261124T021644Z
+TRANSP:TRANSPARENT
+URL:https://www.salt-artandculture.com/event-calendar/east-bay-open-studio
+ s-weekend-2?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-franci
+ sco-ca
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:District 3 Chinatown Family Summit
 DTSTART;TZID=America/Los_Angeles:20261212T110000
 DTEND;TZID=America/Los_Angeles:20261212T130000
@@ -7687,9 +7874,9 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 East Bay Open Studios: 200+ Artists (Dec 5-6 + 12-13)
 DTSTART;TZID=America/Los_Angeles:20261212T110000
 DTEND;TZID=America/Los_Angeles:20261212T170000
-DTSTAMP:20261122T194955Z
+DTSTAMP:20261124T021644Z
 UID:funcheap-1648060@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Art Museums
 DESCRIPTION:Artwork by Jean SanchiricoEast Bay Open Studios returns for tw
  o free weekends with over 200 artists opening their studios to the public.
@@ -7709,11 +7896,10 @@ DESCRIPTION:Artwork by Jean SanchiricoEast Bay Open Studios returns for tw
  5pm each day\n\nFree\n\nTickets: https://www.eventbrite.com/e/east-bay-ope
  n-studios-winter-2026-tickets-2003028839178\nDetails: https://sf.funcheap.
  com/free-2026-east-bay-open-studios-200-artists-dec-56-1213-2/\nSource: Fu
- ncheap SF\n\nAlso listed on:\n- https://www.eastbayopenstudios.com?utm_sou
- rce=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+ ncheap SF
 IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/W26-EB
  OS-Instagram1.png
-LAST-MODIFIED:20261122T194955Z
+LAST-MODIFIED:20261124T021644Z
 LOCATION:All Over East Bay
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-2026-east-bay-open-studios-200-artists-de

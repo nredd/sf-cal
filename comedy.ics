@@ -1920,9 +1920,9 @@ BEGIN:VEVENT
 SUMMARY:S. F. Comedy Showcase
 DTSTART;TZID=America/Los_Angeles:20261129T190000
 DTEND;TZID=America/Los_Angeles:20261129T210000
-DTSTAMP:20261115T162545Z
+DTSTAMP:20261124T021644Z
 UID:dothebay-17702483@sf-cal
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Comedy
 DESCRIPTION:​Punch Line San Francisco\nSunday\, November 29 | ​Punch L
  ine San Francisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/25318
@@ -1934,11 +1934,14 @@ DESCRIPTION:​Punch Line San Francisco\nSunday\, November 29 | ​Punch L
  funcheap.com/sfs-iconic-punchline-comedy-club-secret-guest-list-s-f-comedy
  -showcase-2/\n- https://www.ticketmaster.com/cobbs-comedy-allstars-san-fra
  ncisco-california-11-29-2026/event/1C0065283C358BD7?utm_source=caldiscover
- y&utm_medium=ics&utm_campaign=san-francisco-ca
+ y&utm_medium=ics&utm_campaign=san-francisco-ca\n- https://www.ticketmaster
+ .com/s-f-comedy-showcase-san-francisco-california-11-29-2026/event/1C00650
+ 3E0B097A1?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisc
+ o-ca
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33759029/716aea40-1ecf-4dd6-aeb5-3c3ada22b3ce.png
-LAST-MODIFIED:20261115T162545Z
+LAST-MODIFIED:20261124T021644Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1948,9 +1951,9 @@ BEGIN:VEVENT
 SUMMARY:Cobb's Comedy Allstars
 DTSTART;TZID=America/Los_Angeles:20261129T190000
 DTEND;TZID=America/Los_Angeles:20261129T210000
-DTSTAMP:20261115T162545Z
+DTSTAMP:20261124T021644Z
 UID:dothebay-17834034@sf-cal
-SEQUENCE:5
+SEQUENCE:6
 CATEGORIES:Comedy
 DESCRIPTION:Cobb's Comedy Allstars\nSunday\, November 29 | ​Cobb's Comed
  y Club\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/42
@@ -1962,11 +1965,13 @@ DESCRIPTION:Cobb's Comedy Allstars\nSunday\, November 29 | ​Cobb's Comed
  ap.com/sfs-iconic-punchline-comedy-club-secret-guest-list-s-f-comedy-showc
  ase-2/\n- https://www.ticketmaster.com/cobbs-comedy-allstars-san-francisco
  -california-11-29-2026/event/1C0065283C358BD7?utm_source=caldiscovery&utm_
- medium=ics&utm_campaign=san-francisco-ca
+ medium=ics&utm_campaign=san-francisco-ca\n- https://www.ticketmaster.com/s
+ -f-comedy-showcase-san-francisco-california-11-29-2026/event/1C006503E0B09
+ 7A1?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34381652/c4233cd9-b595-4426-93f5-d8002a79d1ca.png
-LAST-MODIFIED:20261115T162545Z
+LAST-MODIFIED:20261124T021644Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -7738,6 +7743,42 @@ URL:https://www.augusthallsf.com/tm-event/sf-sketchfest-tight-nerdy-weird-
  cisco-ca
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coit Comedy: Stand Up Comedy & Free Golden Boy Pizza | SF
+DTSTART;TZID=America/Los_Angeles:20270128T200000
+DTEND;TZID=America/Los_Angeles:20270128T220000
+DTSTAMP:20261124T021644Z
+UID:funcheap-1648693@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerCoit Comedy: Stand Up Comedy &
+  Free Golden Boy Pizza | SF\nCoit Comedy\nCoit Comedy is a stand-up comedy
+  show every last Thursday of every month in the basement of historic bar C
+ olumbus Cafe in North Beach featuring the best comedians in the bay and fr
+ ee Golden Boy Pizza.\nMany of the comics you can expect to see you will ha
+ ve seen at Cobbs\, SF Punchline\, Vice Land\, Comedy Central and more.\nEv
+ ery ticket requires a 1 drink minimum and includes the show and free Golde
+ n Boy Pizza (pepperoni and cheese while it lasts). Normally $10\, 50% off 
+ with promo code “funcheap”. 1 drink minimum requirement.\n\nThe baseme
+ nt is intimate (perfect for comedy) and features a full bar. Hosted by loc
+ al comedians Travis Thielen and Cole Chapman.\n\nUpcoming Coit Comedy: Sta
+ nd Up Comedy & Free Golden Boy Pizza | SF Events\nThu 12/31 Coit Comedy: S
+ tand Up Comedy & Free Golden Boy Pizza | SFThu 1/28 Coit Comedy: Stand Up 
+ Comedy & Free Golden Boy Pizza | SFThu 2/25 Coit Comedy: Stand Up Comedy &
+  Free Golden Boy Pizza | SFDisclaimer: Please double check event informati
+ on with the event organizer as events can be canceled\, details can change
+  after they are added to our calendar\, and errors do occur.\n\n$5.00\n\nT
+ ickets: https://coit-comedy.eventbrite.com\nDetails: https://sf.funcheap.c
+ om/coit-comedy-stand-up-comedy-free-golden-boy-pizza-sf-87/\nSource: Funch
+ eap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2019/06/Coit.p
+ ng
+LAST-MODIFIED:20261124T021644Z
+LOCATION:Columbus Cafe\, 562 Green Street\, San Francisco\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/coit-comedy-stand-up-comedy-free-golden-boy-pi
+ zza-sf-87/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First Tuesdays Free Comedy Showcase & Happy Hour | The Layover
 DTSTART;TZID=America/Los_Angeles:20270202T200000
 DTEND;TZID=America/Los_Angeles:20270202T220000
@@ -7936,5 +7977,41 @@ LOCATION:Bazaar Cafe\, 5927 California Street\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-comedy-night-w-danny-dechi-friends-outer-
  richmond-90/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coit Comedy: Stand Up Comedy & Free Golden Boy Pizza | SF
+DTSTART;TZID=America/Los_Angeles:20270225T200000
+DTEND;TZID=America/Los_Angeles:20270225T220000
+DTSTAMP:20261124T021644Z
+UID:funcheap-1648695@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerCoit Comedy: Stand Up Comedy &
+  Free Golden Boy Pizza | SF\nCoit Comedy\nCoit Comedy is a stand-up comedy
+  show every last Thursday of every month in the basement of historic bar C
+ olumbus Cafe in North Beach featuring the best comedians in the bay and fr
+ ee Golden Boy Pizza.\nMany of the comics you can expect to see you will ha
+ ve seen at Cobbs\, SF Punchline\, Vice Land\, Comedy Central and more.\nEv
+ ery ticket requires a 1 drink minimum and includes the show and free Golde
+ n Boy Pizza (pepperoni and cheese while it lasts). Normally $10\, 50% off 
+ with promo code “funcheap”. 1 drink minimum requirement.\n\nThe baseme
+ nt is intimate (perfect for comedy) and features a full bar. Hosted by loc
+ al comedians Travis Thielen and Cole Chapman.\n\nUpcoming Coit Comedy: Sta
+ nd Up Comedy & Free Golden Boy Pizza | SF Events\nThu 12/31 Coit Comedy: S
+ tand Up Comedy & Free Golden Boy Pizza | SFThu 1/28 Coit Comedy: Stand Up 
+ Comedy & Free Golden Boy Pizza | SFThu 2/25 Coit Comedy: Stand Up Comedy &
+  Free Golden Boy Pizza | SFDisclaimer: Please double check event informati
+ on with the event organizer as events can be canceled\, details can change
+  after they are added to our calendar\, and errors do occur.\n\n$5.00\n\nT
+ ickets: https://coit-comedy.eventbrite.com\nDetails: https://sf.funcheap.c
+ om/coit-comedy-stand-up-comedy-free-golden-boy-pizza-sf-89/\nSource: Funch
+ eap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2019/06/Coit.p
+ ng
+LAST-MODIFIED:20261124T021644Z
+LOCATION:Columbus Cafe\, 562 Green Street\, San Francisco\, CA 94133
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/coit-comedy-stand-up-comedy-free-golden-boy-pi
+ zza-sf-89/
 END:VEVENT
 END:VCALENDAR
