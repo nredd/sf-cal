@@ -4,34 +4,6 @@
  "events": [
   {
    "source": "caldiscovery-comedy",
-   "source_id": "18f4975df46aa98c",
-   "title": "Monday Night Hubba",
-   "start": "2026-11-23T20:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "DNA Lounge",
-   "address": "375 Eleventh Street, San Francisco, CA 94103",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://www.dnalounge.com/calendar/2026/11-23d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nFeaturing performances by:\n\nJoanna Animal\nLita Stray\nLuma Jaguar\nAfternoon Delight\nEvangeline Laveau\nLilith Groseille\nSzandora LaVey\n\nHosted by:\n\nMC Kingfish & Red Bettie\n\nMonday Night Hubba is the perfect way to start your week sexy: with cocktails, tease, comedy and a more intimate experience than Hubba's big monthly extravaganzas! Each Monday night is a fun-filled, shimmering showcase of local, national and international burlesque and variety talent -- and a chance to see the most dazzling debuts before they hit it big!\n\nBuy tickets: https://www.dnalounge.com/calendar/2026/11-23d.html\n\nWatch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCiLZYFLf78\n\nburlesque.\ndoors @ 8pm;\nshow @ 9pm - 10:30pm.\n18+ with ID.\n\nGen. Adm.: $10 advance;\n$15 door;\nReserved Seating: $15 advance;\n$20 door.",
-   "image_url": null,
-   "categories": [
-    "comedy",
-    "dance"
-   ],
-   "notes": [
-    "Published by DNA Lounge",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-comedy",
    "source_id": "5ede3fad1dfc9aa0",
    "title": "Joe Klocek & Friends",
    "start": "2026-11-24T19:30:00-08:00",
@@ -935,7 +907,7 @@
    "end": "2026-12-10T20:30:00-08:00",
    "all_day": false,
    "bucket": "comedy",
-   "venue": null,
+   "venue": "CA",
    "address": null,
    "locality": null,
    "geo": null,
@@ -1745,6 +1717,33 @@
   },
   {
    "source": "caldiscovery-comedy",
+   "source_id": "6b3065b793e883b0",
+   "title": "Your Next Comic - A New Faces Showcase",
+   "start": "2026-12-27T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Punch Line Comedy Club - San Francisco",
+   "address": "444 Battery Street, San Francisco, CA, 94111",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/your-next-comic-a-new-faces-san-francisco-california-12-27-2026/event/1C00653ECAA4D638?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by Punch Line Comedy Club",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
    "source_id": "0342a45b3b755aa3",
    "title": "ISMO: Live!",
    "start": "2026-12-27T19:00:00-08:00",
@@ -1973,6 +1972,33 @@
    "locality": "San Francisco",
    "geo": null,
    "url": "https://www.ticketmaster.com/jeremiah-watkins-san-francisco-california-01-01-2027/event/1C0065044CC3C81B?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by Cobb's Comedy Club",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "3ef65724e5abe953",
+   "title": "Francisco Ramos",
+   "start": "2027-01-03T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Cobb's Comedy Club",
+   "address": "915 Columbus Avenue, San Francisco, CA, 94133",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/francisco-ramos-san-francisco-california-01-03-2027/event/1C00653D1ACDC269?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
    "ticket_url": null,
    "price_text": null,
    "is_free": false,
@@ -2644,6 +2670,89 @@
    ]
   },
   {
+   "source": "caldiscovery-comedy",
+   "source_id": "3feda1d9fb6e1861",
+   "title": "I Think Not",
+   "start": "2027-01-23T14:30:00-08:00",
+   "end": "2027-01-23T15:30:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Potrero Stage",
+   "address": "1695 18th St, San Francisco, CA 94107, 3 Performances:, Sat, Jan 23 at 2:30 pm; Sun, Jan 24 at 4pm; Mon, Jan 25 at 7pm",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://playgroundsf.vbotickets.com/event/solofest_i_think_not/213288?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Category: Theater / ConcertsContact Name: James ChristyContact Phone: 9176042175Contact Email: jchristy1515@gmail.comCost: FreeLink: https://playgroundsf.vbotickets.com/event/solofest_i_think_not/213288Barrymore Award-winning playwright and stand-up hobbyist Jim Christy demonstrates how history's greatest content creators—from Moses to John Hughes—have parlayed their insecurities into commercially viable franchises.Blending stand-up comedy and theatrical storytelling, James Christy’s I THINK NOT comes to San Francisco for three performances at Potrero Stage, January 23–25, 2027, as part of PlayGround’s 10th Annual Solo Performance Festival. The production is directed by award-winning Philadelphia theater artist Harriet Power.",
+   "image_url": null,
+   "categories": [
+    "comedy",
+    "free",
+    "theater"
+   ],
+   "notes": [
+    "Published by KGO",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "fdd01eda4951fb62",
+   "title": "Jeff Arcuri: The Road Trip Tour",
+   "start": "2027-01-23T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "The Masonic",
+   "address": "1111 California St, San Francisco, CA, 94108",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/jeff-arcuri-the-road-trip-tour-san-francisco-california-01-23-2027/event/1C0064D1D30C45CB?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by The Masonic Tickets & Schedule",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "f154b079a0449753",
+   "title": "Jeff Arcuri: The Road Trip Tour",
+   "start": "2027-01-23T21:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "The Masonic",
+   "address": "1111 California St, San Francisco, CA, 94108",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://www.ticketmaster.com/jeff-arcuri-the-road-trip-tour-san-francisco-california-01-23-2027/event/1C0064D1D31045D8?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": null,
+   "image_url": null,
+   "categories": [
+    "comedy"
+   ],
+   "notes": [
+    "Published by The Masonic Tickets & Schedule",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
    "source": "caldiscovery-festival",
    "source_id": "a0e0e490a36aec02",
    "title": "Legacy Film Festival on Aging: 13th Annual / 4th Virtual",
@@ -2696,34 +2805,6 @@
    ],
    "notes": [
     "Published by KGO",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
-   "source_id": "fc1b66590b48ff80",
-   "title": "Festiverse: The World’s Biggest Festival Hackathon",
-   "start": "2026-11-23T09:30:00-08:00",
-   "end": "2026-11-23T10:30:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "https",
-   "address": "//builder.aws.com/content/3HlRCfU3DIfO5ZZ01AObi0drChX/festiverse-the-worlds-biggest-festival-hackathon",
-   "locality": null,
-   "geo": null,
-   "url": null,
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Find more information on https://luma.com/hacklist-sf",
-   "image_url": null,
-   "categories": [
-    "festival",
-    "tech"
-   ],
-   "notes": [
-    "Published by HackList SF",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -4063,33 +4144,6 @@
   },
   {
    "source": "caldiscovery-festival",
-   "source_id": "fdfc53b94661854e",
-   "title": "Festival of Five Lessons and Carols at St. Anselm parish",
-   "start": "2026-12-20T17:30:00-08:00",
-   "end": "2026-12-20T20:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "St. Anselm Parish",
-   "address": "97 Shady Lane, Ross, 94957, United States",
-   "locality": null,
-   "geo": null,
-   "url": "https://sfarch.org/event/festival-of-five-lessons-and-carols-at-st-anselm-parish/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Sign up below and 6-8 times each year, we’ll mail you something beautiful.\n\nIt’s beautiful not just because it’s a full-color publication that’s nice to look at–though it certainly is!–but because it connects you to the local Church community, to stories of people testifying to the fact they’ve been transformed by Jesus Christ, who are living with hope and in a freedom the world doesn’t offer.\n\nSending you this magazine is one way we hope to nourish your relationship with Christ and the other members of His Body. Enjoy!\n\nRegistration for Newsletter and CSF Magazine\n\nName(Required)\n\nFirst\n\nLast\n\nYour parish:(Required)City(Required)\n\nNext\n\nWould you like to subscribe to our Newsletters and/or CSF Magazine?(Required)\n\nYES! Please Email Me the Newsletters and mail me CSF Magazine at the address below.\n\nPlease mail The CSF Magazine to me at the address below. (CSF Magazine Only)\n\nPlease Email Me the Newsletters (Newsletters Only)\nCatholic SF Magazine is mailed to households for FREE 6-8 times each year.Email(Required)\n\nAddress(Required)\n\nStreet Address\n\nAddress Line 2\n\nCity\n\nState / Province / Region\n\nZIP / Postal Code\n\nAddress(Required)\n\nStreet Address\n\nAddress Line 2\n\nCity\n\nState / Province / Region\n\nZIP / Postal Code\n\nEmail(Required)\n\nPrevious Submit",
-   "image_url": null,
-   "categories": [
-    "festival"
-   ],
-   "notes": [
-    "Published by Archdiocese of San Francisco",
-    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
-   ]
-  },
-  {
-   "source": "caldiscovery-festival",
    "source_id": "4dafc47bbd7e6bf1",
    "title": "Winter Walk",
    "start": "2026-12-21T00:00:00-08:00",
@@ -4265,342 +4319,6 @@
    "description": "Stomach Cancer Awareness Day",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17401191",
-   "title": "Manic Street Preachers",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Regency Ballroom",
-   "address": "1290 Sutter Street, San Francisco, CA, 94109",
-   "locality": "San Francisco",
-   "geo": [
-    37.7879104,
-    -122.4215079
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/manic-street-preachers-tickets",
-   "ticket_url": "https://www.theregencyballroom.com/events/detail/?event_id=1463683",
-   "price_text": "All Ages",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Goldenvoice Presents\nManic Street Preachers\nMonday, November 16 | ​The Regency Ballroom",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32328750/559e61d8-8cfa-47f9-852f-999edae1c62d.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Goldenvoice Presents",
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17697037",
-   "title": "Jorja Smith",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Castro",
-   "address": "429 Castro St, San Francisco, CA, 94114",
-   "locality": "San Francisco",
-   "geo": [
-    37.7619917,
-    -122.4347365
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/jorja-smith-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjorja-smith-san-francisco-california-11-16-2026%2Fevent%2F1C0064FF17138A51%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
-   "price_text": "all ages",
-   "is_free": false,
-   "sold_out": true,
-   "description": "Another Planet Entertainment presents\nJorja Smith\n\nMonday, November 16 | The Castro\n\nMulti-award-winning singer and songwriter Jorja Smith announces her new album, “What Are The Odds” featuring sole production from P2J [Beyoncé, Stormzy, Burna Boy].\n\nThe album arrives ten years after ‘Blue Lights’, the Platinum-selling debut single that introduced Jorja’s singular voice and set the course for one of British music’s most influential musicians. Since 2016, Jorja has delivered two No.3 albums – Gold selling debut “Lost & Found” (2018) and “Falling Or Flying” (2023) – and collaborated with global superstars including Kendrick Lamar, Burna Boy, Stormzy, Drake and Giggs. The Walsall born singer and songwriter has won two BRITs and received nominations for a Grammy, an Ivor Novello and the Mercury Prize and currently counts over 11 million monthly listeners and 4.7 billion streams on Spotify alone, with eight million followers across socials.\n\nJorja had already had a run of major moments in 2026, including a performance on the debut season of Saturday Night Live UK , her appearance on the soundtrack to Riz Ahmed’s Prime Video series ‘Bait’ with ‘Price Of It All’, and the announcement that she will co-headline ‘All Points East’ in Victoria Park on Friday 21 August alongside Tems.\n\nWith her third album “What Are The Odds,” Jorja continues to build on her legacy with a euphoric offering rooted firmly in dance music. Confidently channelling UKG, Grime, 2Step, Funky House, Soulful House...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33732891/19fdcde9-a9b5-4b81-99e3-5ff2e2edb0db.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Another Planet Entertainment presents",
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17888264",
-   "title": "Finish Ticket, Picture Atlantic, Field Medic",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Bottom Of The Hill",
-   "address": "1233 17th Street, San Francisco, CA, 94107",
-   "locality": "San Francisco",
-   "geo": [
-    37.7649597,
-    -122.3964408
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/finish-ticket-picture-atlantic-field-medic-tickets",
-   "ticket_url": "http://www.bottomofthehill.com/20261116.html",
-   "price_text": "$20",
-   "is_free": false,
-   "sold_out": true,
-   "description": "Mon\n\nday November 16\n2026\n\n7:00PM\n\ndoors\n\n-- music at 8\n\n:00PM\n\n$20\n\n$25.31 in advance [20 face value +5.31 service fee]\n\nFinish Ticket\n\n(Final Show)\n\nindie pop rock\n\nPicture Atlantic\n\nindie pop rock\n\nField Medic\n\nfolk",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34641670/fab4409f-b88e-4f9a-a67c-ba10f416400a.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17956688",
-   "title": "Special Winter Improv Series",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "All Out Comedy Theater-Improv Classes and Comedy Shows",
-   "address": "2550 Telegraph Avenue, Oakland, CA, 94612",
-   "locality": "Oakland",
-   "geo": [
-    37.815221,
-    -122.267971
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/special-winter-improv-series-tickets",
-   "ticket_url": "https://www.alloutcomedytheater.com/special-winter-improv-series",
-   "price_text": "$137-$200",
-   "is_free": false,
-   "sold_out": false,
-   "description": null,
-   "image_url": null,
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": [
-    "All Out Comedy Theater"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17964459",
-   "title": "Special Winter Class Series",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "All Out Comedy Theater",
-   "address": "2525 Telegraph Ave., Oakland, CA, 94612",
-   "locality": "Oakland",
-   "geo": [
-    37.814832,
-    -122.2686011
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/special-winter-class-series-tickets",
-   "ticket_url": "https://www.alloutcomedytheater.com/special-winter-improv-series",
-   "price_text": "$40 - $200",
-   "is_free": false,
-   "sold_out": false,
-   "description": "This Holiday season, we are taking a break from our core curriculum and offering special one off shortened class series! Get your improv in and still end early enough to spend time with friends and family.\nThis year some of our offerings include:\n-A Taste of Clowning\n-Short Form Improv\n-Puppetry for Improvisors\n-1 on 1 Feedback and Sidecoaching\n-Improv for Socializing",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34999372/0c9f6389-0a2d-4c43-8218-672bdb91bafc.jpg",
-   "categories": [
-    "Comedy"
-   ],
-   "notes": [
-    "All Out Comedy presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18029607",
-   "title": "Found Company: A Spontaneous Staged Reading",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "Eclectic Box SF",
-   "address": "446 Valencia Street, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.76577,
-    -122.4223
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/found-company-a-spontaneous-staged-reading-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F2003737868905",
-   "price_text": "$20-40 / 2-for-1 promo / NOTAFLOF",
-   "is_free": false,
-   "sold_out": false,
-   "description": "What: Found Company\nWhere: Eclectic Box (map)\nWhen: November 16, 2026 at 7:00 PM\nTickets\n\nYou are invited to a one-of-a-kind theater experience: be a part of a one-day play performance! Mission StageWorks welcomes you to experience the joy of acting and playing onstage. Here’s your chance to connect in a radically inclusive space. Never been on stage? Getting back into acting? Just like to perform? Perfect! This low pressure environment is designed to meet people, create characters, play during rehearsal, and present short staged-reading performances with a short-term theater ensemble.\nCome for the love of theater. Leave with found company.\n\nFree food and drinks!\n\nClick here for tickets\n\nClick here for more information",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35275578/48e0ec63-583a-4620-82e0-b146c54b95c1.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": [
-    "Mission StageWorks presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17903007",
-   "title": "Dive in Wonderland",
-   "start": "2026-11-16T19:15:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Alamo Drafthouse Cinema",
-   "address": "2550 Mission St, San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.7562198,
-    -122.419185
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/dive-in-wonderland-tickets",
-   "ticket_url": "https://drafthouse.com/sf/show/dive-in-wonderland?cinemaId=0802&sessionId=22086",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Presented in Japanese with English subtitles\n\nThe world-famous classic Alice in Wonderland receives its first Japanese theatrical animated adaptation!\n\nRise Azumino is a university student who feels lost in her life. One day, guided by an invitation letter left behind by her late grandmother, she enters “Wonderland”. She meets a girl named Alice there and they travel together. The Queen of Hearts, the Mad Hatter, Cheshire Cat…the residents of Wonderland appear before Rise one after another and crazy commotion ensues! What kind of future will Rise choose in this crazy adventure with Alice?",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34710700/5d224cb3-d563-4a31-aaa1-a978fb3d4198.jpg",
-   "categories": [
-    "Film"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17662035",
-   "title": "The Lord of the Rings Trilogy: The Fellowship Of The Ring - Extended (2001)",
-   "start": "2026-11-16T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "The Village at Corte Madera",
-   "address": "1557 Redwood Hwy, Corte Madera, CA",
-   "locality": "Corte Madera",
-   "geo": [
-    37.93161,
-    -122.513699
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/the-lord-of-the-rings-trilogy-the-fellowship-of-the-ring-extended-2001-tickets",
-   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=570996~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.\n\n3hr 28min - PG13",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33570053/6ad315cc-acfb-4dd6-abab-7a4b0501283a.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17870164",
-   "title": "Community Mondays: Country Bluegrass Jam with Richard Brandenburg",
-   "start": "2026-11-16T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Freight",
-   "address": "2020 Addison St, Berkeley, CA, 94704",
-   "locality": "Berkeley",
-   "geo": [
-    37.8706997,
-    -122.2695537
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/community-mondays-country-bluegrass-jam-with-richard-brandenburg-tickets",
-   "ticket_url": "https://secure.thefreight.org/16027/16034",
-   "price_text": "$5",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Community Mondays: Country Bluegrass Jam with Richard Brandenburg\nMonday, November 16 | The Freight\n\nTraditional country, folk and bluegrass music is alive and thriving at The Freight!\n\nThe Bluegrass/Country Jam is one of the longest-running jam sessions in the Bay Area, and this popular monthly drop-in jam is a great way to begin playing and singing traditional bluegrass and country songs at comfortable tempos in a supportive, fun, and relaxed setting.\n\nPlayers of all ages and skill levels are welcome! It’s the perfect environment to deepen and broaden your song list through playing and singing the great repertoire of country and bluegrass songs, while the simple rules of jam etiquette create a safe environment for everyone.\n\nThe beautiful melodies, harmonies and simple chord patterns are easy to play and learn by ear, and with the support of a friendly circle of jammers, you’ll become part of the now-vast community of folks who have made the wonderful tradition of jamming a part of their musical life!\n\nThis is a jam for traditional acoustic string band instruments: voice, guitar, banjo, mandolin, fiddle, dobro and upright bass. You should be able to play basic chords smoothly on your instrument. Players are welcome to bring tape recorders and songbooks. Guitar and banjo players should bring a capo!\n\nTestimonials:\n\nThanks for leading the group with your patience and humor. I've learned a lot, become more comfortable playing with others, and have greatly expanded my list of s...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34554538/619a715b-d42d-4df6-830d-f4f3341900c4.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17447402",
-   "title": "Margaret Glaspy",
-   "start": "2026-11-16T20:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Chapel",
-   "address": "777 Valencia Street, San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.760565,
-    -122.421188
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/margaret-glaspy-tickets",
-   "ticket_url": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
-   "price_text": "$24-$28, All Ages",
-   "is_free": false,
-   "sold_out": false,
-   "description": "In an era of excess and endless distraction, the New York-based singer/songwriter Margaret Glaspy rejects the noise in favor of something far more essential. Glaspy has assembled a selection of songs that span from fictional vignettes to unguarded self-revelation to empathetic observation of the troubled world around her. Produced by Joe Henry (the three-time Grammy-winning singer/songwriter/producer known for his work with luminaries like Aimee Mann and Joan Baez), I Am Both ultimately stands as a striking new statement from one of the modern music canon’s most formidable songwriters.\n\nAnna Tivel is a Portland, Oregon-based, internationally touring songwriter who is forever drawn to the quiet stories of ordinary life. The characters and imagery that populate her writing are full of breath and vivid color. With six full-length albums out and a seventh on the way, Anna has been likened to a short story writer and praised by NPR, Rolling Stone, Billboard, and others for her keen observations of the human condition. In fact, Ann Powers of NPR Music had this to say, \"Anna Tivel is just one of my absolute favorite living songwriters. Her writing on [Outsiders] is at the same level as Paul Simon when he wrote 'The Boxer' and 'American Tune'\"",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32548776/c086325f-f724-407c-9e3a-424c0e71d810.png",
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17461919",
-   "title": "The Mountain Goats - Night Two: Alpha",
-   "start": "2026-11-16T20:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Fillmore",
-   "address": "1805 Geary Boulevard, San Francisco, CA, 94115",
-   "locality": "San Francisco",
-   "geo": [
-    37.7840042,
-    -122.4331332
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/the-mountain-goats-night-two-alpha-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-mountain-goats-night-two-alpha-san-francisco-california-11-16-2026%2Fevent%2F1C0064C40B8DB3FE",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Six Nights & Six Themes\nThe Mountain Goats\nNight Two: Alpha\n\nMonday, November 16 | The Fillmore\n\nOPEN DANCE FLOOR / STANDING ROOM ONLY\n\nDoors 7:00pm / Show 8:00pm",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32617629/c93ff06c-b0ff-444c-b874-6e2391bc3508.png",
-   "categories": [
-    "Music"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17589441",
-   "title": "LIVE MUSIC: Elanor Moss",
-   "start": "2026-11-16T20:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "4 Star Theater",
-   "address": "2200 Clement St, San Francisco, CA, 94121",
-   "locality": "San Francisco",
-   "geo": [
-    37.782364,
-    -122.482951
-   ],
-   "url": "https://dothebay.com/events/2026/11/16/live-music-elanor-moss-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F1993414158409%3Faff%3Doddtdtcreator",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Throwin’ Bo’s presents:\n\nElanor Moss\n\nElanor Moss grew up in a very creative, devoutly Catholic family, and began playing music at church events. Homeschooled through early youth, her parents put a real emphasis on nature, reading and music. Eventually leaving the faith, Moss started writing songs of her own in York as a student of English literature and playing open mics around the city. While at University she also discovered songwriting greats: Leonard Cohen, Joni Mitchell, Bob Dylan, The Beatles. Shortly after graduation, Moss met producer Oli Deakin, who offered to record her first EP, “Citrus.\" Her work with Deakin took her to New York City, where she began forging a sense of community. Between “Citrus” and her second EP, “Cosmic,” Moss toured with Christian Lee Hutson, Benjamin Francis Leftwich, and LYR, played one-off shows with Cassandra Jenkins, CMAT, and Sam Amidon, and performed at Pitchfork London, Green Man Festival, and Mosely Folk, among others.\n\nBandcamp | IG\n\nSupport to be announced\n\nDOORS at 7:00PM | MUSIC at 8:00 PM",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33233486/ef48318e-676e-43f5-bcd3-216185ec61e2.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
    "notes": []
   },
   {
@@ -36113,174 +35831,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1646711",
-   "title": "Clips & Cocktails: AI Marketing Happy Hour with OpusClip",
-   "start": "2026-11-16T17:30:00-08:00",
-   "end": "2026-11-16T20:30:00-08:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "ZOË",
-   "address": "579 Howard St, San Francisco",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hour-opusclip/",
-   "ticket_url": "https://luma.com/4xcuvbn7",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerOpusClipMonday, Nov 16, 5:30 to 8:30pm. ZOË, 579 Howard St, San Francisco. Free. Drinks and bites are on us.\n\nIf you’re the one turning podcasts, webinars, customer interviews and live events into the clips your company posts, this night is for you. Pull up a drink for a fireside chat with Young Zhao, CEO of OpusClip, and a special guest from one of the Bay Area’s top fintech brands. They’ll get real about how AI is changing short-form: what’s working, what’s hype, and how lean teams are shipping more without burning out. Then stick around to swap notes with social, video and content folks who get your job. Nobody here will ask you to explain what a hook is.\n\nAlso on the menu:\nFree clips: Drop us a link to a webinar, podcast or talk, and we’ll send back ready-to-post clips within 24 hours.\nWin Ray-Ban Meta glasses in our end-of-night raffle.\nNo pitch. Just good drinks and better conversations.\n\nWho should come: social media managers, video producers, content marketers, and community and field marketers at Bay Area tech and finance companies. ICs and team leads welcome. Bring a teammate. Spots are limited, so RSVP to save yours.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/cover.jpg",
-   "categories": [
-    "Eating Drinking"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1638348",
-   "title": "SF Arcade Bar “Emporium” 8 Free Game Tokens for “Industry Night” (Every Monday)",
-   "start": "2026-11-16T18:00:00-08:00",
-   "end": "2026-11-17T02:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Emporium SF",
-   "address": "616 Divisadero St San Francisco, CA",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/sf-arcade-bar-emporium-8-free-game-tokens-for-industry-night-every-monday-170/",
-   "ticket_url": "https://emporiumsf.com/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerSF Arcade Bar “Emporium” 8 Free Game Tokens for “Industry Night” (Every Monday)\nEmporium SF\nEmporium Arcade Bar San Francisco, the dynamic venue known for its classic arcade games, colorful, fun-loving atmosphere, and renowned drink menu, now offers 8 free game tokens for anyone in “the industry” – so we’re assuming barstaff, restaurant staff, nightlife staff.\nMonday Nights are for the Industry! Every Monday night come join us for some drink specials and if you are part of our industry you get 8 tokens!\nFeaturing Console Encounters! Get to play some retro games on our 50′ HD screen!\n\nEmporium Arcade Bar offers guests a variety of games, including classic arcade favorites, pool tables, pinball, foosball, and many more. Their curated bar purveys local craft beer selections, an innovative cocktail program, boozy slushies, and an expansive liquor list.\nEmporium Arcade Bar’s Industry Night\n616 Divisadero St., San Francisco\nEvery Monday | 6 pm to 2 am\nFREE with 8 free game tokens for “industry” people\n\nEmporium Arcade Bar San Francisco is open daily for guests 21 years or older.\nWe’re told “most” games only require one token, so that’s four games you can play for free every Monday night.\n\nEmporium Arcade Bar is the quintessentially cool place to hang out and have a good time. Originally launched in Chicago in 2012, Emporium now has six locations: three in Chicago (Wicker Park, Fulton Market, and Logan Square), two in the Bay Area (San Francisco and O...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2021/09/Emporium.png",
-   "categories": [
-    "Fun Games"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1646696",
-   "title": "Queer Bowling Night w/ Free Welcome Drink",
-   "start": "2026-11-16T18:00:00-08:00",
-   "end": "2026-11-16T21:00:00-08:00",
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "Mission Bowling Club",
-   "address": "3176 17th St., San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/queer-bowling-mbc/",
-   "ticket_url": "https://go.airhorn.events/r/2eRB3e",
-   "price_text": "$14.36",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerOverview\n\nQueer Bowling MBC\n\nPride may only be once a year, but Queer Bowling is at MBC every month! Join us on the third Monday of each month to support our community and raise awareness of local non-profits fighting the good fight. Complimentary bowling is sponsored by select brands who support LGBTQIA+. Purchasing a ticket in advance guarantees you entry to MBC and for every ticket purchased we will donate $10 to support a local non-profit of our choosing.\n\nIn 2025, with your help we raised $8k and supported the following organizations: Drag Story Hour, Mujeres Unidas y Activas, San Francisco AIDS Foundation, Vanguard Lab, Lyric Center for LGBTQQ+ Youth, SF Black Pride, Oaklash, Sí a la Vida, Bay Area American Indian Two-Spirits, & more!\nYour ticket purchase also gets you a complimentary drink (welcome cocktail) as our way of saying thank you for your support of MBC and our community.\nHow it works:\n+ Purchasing a ticket will guarantee you entry to the bowling alley & you will receive a complimentary drink ticket for the welcome drink (both alcoholic and non-alcoholic options available)\n+ You will check-in with staff to place your name on the bowling list\n+ When we are ready for you, you will be placed with your group or other guests to bowl on a lane\n+ Bowling is FREE! Each month, bowling is sponsored by select spirits, and Standard Deviant Brewing!\n+ Each lane bowls for 5 frames (you have the opportunity to place your name back on the list...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-8.34.33-AM.png",
-   "categories": [
-    "Lgbtq"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1646120",
-   "title": "2026 Pixar Storytelling Talk w/ 3-Time Oscar Winner Pete Docter (UC Berkeley)",
-   "start": "2026-11-16T18:30:00-08:00",
-   "end": "2026-11-16T19:30:00-08:00",
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Hearst Field Annex, Room A1 (UC Berkeley)",
-   "address": "2575 Bancroft Way, Berkeley, CA 94704",
-   "locality": "Berkeley",
-   "geo": null,
-   "url": "https://sf.funcheap.com/2026-pixar-storytelling-talk-3time-oscar-winner-pete-docter-uc-berkeley/",
-   "ticket_url": "https://www.eventbrite.com/e/2003076549882?aff=oddtdtcreator",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerHear from the filmmaker behind some of Pixar’s most beloved movies, for free. The Berkeley Forum welcomes Pete Docter, Pixar’s Chief Creative Officer and the Academy Award-winning director of Monsters, Inc., Up, Inside Out, and Soul, for an in-person conversation at UC Berkeley.\nDocter will begin with a talk and slide presentation, followed by a student-moderated fireside chat that will explore storytelling, creativity, and bringing animated worlds to life. This will be followed by our audience Q&A segment. Film fans, aspiring artists, and curious Bay Area neighbors are all welcome; you do not need to be affiliated with UC Berkeley to attend.\n\nMonday, November 16, 2026, at 6:30 PM\nHearst Field Annex, Room A1, UC Berkeley\n2575 Bancroft Way, Berkeley, CA 94704\nAdmission is free and open to the public.\nHosted by the Berkeley Forum, a student-run, nonpartisan speaker series at UC Berkeley.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/IMG_0838.png",
-   "categories": [
-    "Movies"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1637944",
-   "title": "“Motown On Mondays” DJ Night (Madrone Art Bar)",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": "2026-11-17T02:00:00-08:00",
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "Madrone Art Bar",
-   "address": "500 Divisadero Street, San Francisco, CA 94117",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/motown-on-mondays-dj-night-madrone-art-bar-288/",
-   "ticket_url": "http://madroneartbar.com/calendar/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event Organizer“Motown On Mondays” DJ Night (Madrone Art Bar)\nMotown on Mondays\nEvery Monday at Madrone, dance the night away with hosts DJ Gordo Cabeza and guest DJS spinning originals, exclusive remixes, and close relatives of your favorite Motown songs during M.O.M. Motown on Mondays.\nMotown on Mondays\nEvery Monday | 7 pm to 2 am\nMadrone Art Bar, 500 Divisadero St. (at Fell), NoPa\nFREE before 8 pm; $5 cover charge after. 21+\n\nUpdated 6/21/21 – Event info last checked via http://madroneartbar.com/calendar/website\n\nUpcoming “Motown On Mondays” DJ Night (Madrone Art Bar) Events\nMon 10/5 “Motown On Mondays” DJ Night (Madrone Art Bar)Mon 10/12 “Motown On Mondays” DJ Night (Madrone Art Bar)Mon 10/19 “Motown On Mondays” DJ Night (Madrone Art Bar)Mon 10/26 “Motown On Mondays” DJ Night (Madrone Art Bar)Mon 11/2 “Motown On Mondays” DJ Night (Madrone Art Bar)Mon 11/9 “Motown On Mondays” DJ Night (Madrone Art Bar)Mon 11/16 “Motown On Mondays” DJ Night (Madrone Art Bar)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2013/09/1398457_10153516577385360_391433010_o1.jpg",
-   "categories": [
-    "Club Dj"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1639824",
-   "title": "Oakland’s Free “Town Biz” Comedy Night w/ HellaFunny (Mon + Tue)",
-   "start": "2026-11-16T19:00:00-08:00",
-   "end": "2026-11-16T21:00:00-08:00",
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Mesa Maguey",
-   "address": "4031 Broadway, Oakland, CA",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://sf.funcheap.com/oaklands-free-town-biz-comedy-night-w-hellafunny-mon-tue-93/",
-   "ticket_url": "https://www.eventbrite.com/e/oaklands-free-town-biz-comedy-night-w-hellafunny-mon-tue-tickets-1123119704269?aff=oddtdtcreator",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Oakland’s Free “Town Biz” Comedy Night w/ HellaFunny (Mon + Tue)\nHellaFunny\nGet ready for TownBiz Comedy Night in Oakland’s Temescal neighborhood—a celebration of Oakland comedy and culture with a series of pop-up live shows across the Bay by HellaFunny.\nThis HellaFunny comedy night takes place at the just-opened Mesa Maguey, an upscale agave bar and Oaxcacan restaurant that’s a perfect date-night spot with lots of delicious plates around $20 and under.\nFree with RSVP for first 50 people\nTHE COMEDY SHOW\nExpect a 70+ minute showcase packed with 4-5 comedians with credits that include Cobbs, Punchline, SF Sketchfest, Thrive City, The Function and more. Hosted by Bryant Hicks (Cobb’s, Don’t Tell Comedy, Improv, Tommy T’s)\nHELLAFUNNY COMEDY SHOW\nDATES & TIMES\n\nMondays – 7p Show – RSVP\nTuesdays – 7p Show – RSVP\n\nABOUT MESA MAGUEY\nMesa Maguey, a contemporary agave bar and Oaxacan kitchen, has recently taken over the former Copper Spoon space in Oakland’s Temescal neighborhood. Known for its mezcal cocktails and happy hour specials, the restaurant offers a menu featuring dishes like mole, tacos, enchiladas, soups, and ceviche. With a welcoming dining room and bar, Mesa Maguey has quickly gained attention for its flavorful, thoughtfully prepared plates. Mesa Maguey, 4031 Broadway (between 40th and 41st), Oakland.\n\nMesa Maguey\n\nFOOD & DRINKS / MENU\nThis mezcalería offers a curated selection of small-batch mezcal, including exclusive imports from San Luis Amatlán in Oaxaca. Featured br...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2024/12/HELLAFUNNY-Oakland-TownBiz-1.png",
-   "categories": [
-    "Comedy Event Types Event"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1639745",
-   "title": "Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks",
-   "start": "2026-11-16T20:00:00-08:00",
-   "end": "2026-11-16T23:00:00-08:00",
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Abbey Tavern",
-   "address": "4100 Geary Blvd, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/mirthquake-monday-live-comedy-in-the-richmond-w-5-drinks-sf-184/",
-   "ticket_url": "https://www.eventbrite.com/e/mirthquake-monday-live-comedy-in-the-richmond-tickets-595066579157",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerMirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks (SF)\nJesse Hett\nLooking for a great way to kick off your week? Look no further than Mirthquake: Monday Live Comedy in the Richmond! This live stand-up comedy show, held every Monday at the Abbey Tavern, is the perfect way to start your week off with a bang.\nFeaturing a hand picked rotating cast of top comedians from the Bay Area and beyond with credits like HBO, Netflix, Late Night, and more, Mirthquake offers a night of non-stop laughter that will leave you feeling uplifted and refreshed. Hosted by the hilarious trio of Ben Kolina (Doug Loves Movies podcast, SF Sketchfest), Andrew Holmgren (VICELAND, SF Weekly best comedian winner), and Jesse Hett (Cobb’s Comedy Club, Punch Line Comedy Club), each show promises to be a unique and unforgettable experience.\n\nAnd that’s not all – with drink specials and a welcoming atmosphere, Mirthquake offers the perfect Monday night escape. So grab your friends, come on down to the Abbey Tavern, and get ready to shake things up with Mirthquake: Monday Live Comedy in the Richmond!\n$5 Well drinks all night\n$5 Micheladas and $2.50 bottled beers from 7-9\n\nUpcoming Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks (SF) Events\nMon 10/5 Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks (SF)Mon 10/12 Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks (SF)Mon 10/19 Mirthquake: Monday Live Comedy in the Richmond w/ $5 Drinks (SF)Mon...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/03/336420676_191259253622294_9170804618822786309_n.jpg",
-   "categories": [
-    "Comedy Event Types Event"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1645994",
    "title": "PortCon 2026: AI Agents + The Future Of Developer Work (Nov. 17-18)",
    "start": "2026-11-17T09:00:00-08:00",
@@ -54579,6 +54129,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648720",
+   "title": "SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)",
+   "start": "2027-01-24T12:00:00-08:00",
+   "end": "2027-01-24T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "The Great Highway",
+   "address": "Judah and Great Highway, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-sundays-at-the-beach-free-yoga-day-great-highway-42/",
+   "ticket_url": "https://www.instagram.com/p/Cu9_lFXJEXt/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)\nGreat Highway Park\nCome flow with us every 4th Sundays! After the community yoga class, enjoy a cup of coffee on us at @javabeachsf to warm you up from our San Francisco summer weather.\n12pm, Judah and Great Highway Park\nBYO mat and coffee mug. No registration required, just show up and enjoy yoga to the sound of waves.\n\nSundays at the Beach are possible thanks to a grant award from @avenuegreenlight and help from our friends across the community like @yogabeachsf for helping us bring weekly joy the neighborhood.\n\nView this post on Instagram\n\nA post shared by Great Highway Park (@greathighwaypark)\n\nUpcoming SF’s “Sundays at the Beach” Free Yoga Day (Great Highway) Events\nSun 12/27 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Sun 1/24 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Sun 2/28 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/08/362052454_1658632787980892_4431123144552449366_n.jpeg",
+   "categories": [
+    "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1646720",
    "title": "Film Noir Meets Classical: Hollywood Exiles in Concert (Oakland)",
    "start": "2027-01-24T17:00:00-08:00",
@@ -55580,6 +55154,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2019/06/Coit.png",
    "categories": [
     "Comedy Event Types Event"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1648722",
+   "title": "SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)",
+   "start": "2027-02-28T12:00:00-08:00",
+   "end": "2027-02-28T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "outdoors",
+   "venue": "The Great Highway",
+   "address": "Judah and Great Highway, San Francisco, CA",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sfs-sundays-at-the-beach-free-yoga-day-great-highway-43/",
+   "ticket_url": "https://www.instagram.com/p/Cu9_lFXJEXt/",
+   "price_text": null,
+   "is_free": true,
+   "sold_out": false,
+   "description": "SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)\nGreat Highway Park\nCome flow with us every 4th Sundays! After the community yoga class, enjoy a cup of coffee on us at @javabeachsf to warm you up from our San Francisco summer weather.\n12pm, Judah and Great Highway Park\nBYO mat and coffee mug. No registration required, just show up and enjoy yoga to the sound of waves.\n\nSundays at the Beach are possible thanks to a grant award from @avenuegreenlight and help from our friends across the community like @yogabeachsf for helping us bring weekly joy the neighborhood.\n\nView this post on Instagram\n\nA post shared by Great Highway Park (@greathighwaypark)\n\nUpcoming SF’s “Sundays at the Beach” Free Yoga Day (Great Highway) Events\nSun 12/27 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Sun 1/24 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Sun 2/28 SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/08/362052454_1658632787980892_4431123144552449366_n.jpeg",
+   "categories": [
+    "Outdoors"
    ],
    "notes": []
   },
@@ -57664,6 +57262,68 @@
    ]
   },
   {
+   "source": "sf-street-events",
+   "source_id": "1429598-2027-01-23T06:00:00-08:00",
+   "title": "North Beach Farmers Market 2026",
+   "start": "2027-01-23T06:00:00-08:00",
+   "end": "2027-01-23T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Greenwich St between Columbus Ave and Powell St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.802075,
+    -122.411401
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Greenwich St from Powell St to Via Bufano; Greenwich St from Via Bufano to Columbus Ave",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Permitted",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
+   "source": "sf-street-events",
+   "source_id": "1493851-2027-01-23T07:00:00-08:00",
+   "title": "Hayes Valley Farmers Market",
+   "start": "2027-01-23T07:00:00-08:00",
+   "end": "2027-01-23T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events",
+   "venue": "Hayes St between Octavia St and Gough St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.776786,
+    -122.423746
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Hayes St from Gough St to Octavia St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Permitted",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
    "source": "sf-street-events-pending",
    "source_id": "1643878-2026-11-18T08:00:00-08:00",
    "title": "Folsom Streetscape Project Ribbon Cutting",
@@ -58067,6 +57727,37 @@
    ]
   },
   {
+   "source": "sf-street-events-pending",
+   "source_id": "1598190-2027-01-23T07:00:00-08:00",
+   "title": "Fillmore Farmers Market",
+   "start": "2027-01-23T07:00:00-08:00",
+   "end": "2027-01-23T15:00:00-08:00",
+   "all_day": false,
+   "bucket": "street-events-pending",
+   "venue": "Ofarrell St between Fillmore St and Steiner St",
+   "address": null,
+   "locality": "San Francisco",
+   "geo": [
+    37.783188,
+    -122.433528
+   ],
+   "url": "https://data.sf.gov/d/8x25-yybr",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Closed: Ofarrell St from Fillmore St to Steiner St",
+   "image_url": null,
+   "categories": [
+    "Special Event"
+   ],
+   "notes": [
+    "Permit status: Application In Review",
+    "Times are SFMTA street-closure permit times and include setup and teardown",
+    "Source: DataSF Temporary Street Closures"
+   ]
+  },
+  {
    "source": "sfciviccenter",
    "source_id": "2019069d90599e4e",
    "title": "Moving San Francisco: SFMTA Photos 1903-Now",
@@ -58159,7 +57850,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Join us for a festive evening at Civic Center Plaza as we illuminate the holiday season! The annual Civic Center Plaza Tree Lighting event returns December 2, 4-7pm! Add this fun, free, family-friendly event to your holiday calendar; featuring festive performances, with the night’s lineup including music, performances, and appearances from The Tap Dancing Christmas Trees, the San Francisco Boys Chorus, the Festivus Band, the Grinch and the man-of-the-hour: Santa! With the night of performances all led by the Master of Ceremonies: award-winning performer Rotimi Agbabiaka!\nRSVP for an event day reminder on Eventbrite.\nThe event also features “snow” flurries, where kids (and kids at heart) can twirl and dance through the falling snow, while in the Makers Village, SF Etsy will lead holiday-themed activities and the San Francisco Public Library will host a book giveaway. Bites will be available for purchase, along with a full bar featuring seasonal favorites.\nThe event takes place across from an illuminated City Hall in Civic Center Plaza. Event begins promptly at 4pm, with the lighting of Civic Center’s 50-foot noble fir at 5:30pm. Happening rain or shine!\nThose who are not walking to the event are encouraged to take BART/Muni or park in the Civic Center Garage.\n\nThis event is sponsored by lead sponsors Streetplus and Cordia along with the Civic Center Community Benefit District, Plant Construction and San Francisco Public Library.",
+   "description": "Join us for a festive evening at Civic Center Plaza as we illuminate the holiday season! The annual Civic Center Plaza Tree Lighting event returns December 2, 4-7pm! Add this fun, free, family-friendly event to your holiday calendar; featuring festive performances, with the night’s lineup including music, performances, and appearances from The Tap Dancing Christmas Trees, the San Francisco Boys Chorus, the Festivus Band, the Grinch and the man-of-the-hour: Santa! With the night of performances all led by the Master of Ceremonies: award-winning performer Rotimi Agbabiaka!\nRSVP for an event day reminder on Eventbrite.\nThe event also features “snow” flurries, where kids (and kids at heart) can twirl and dance through the falling snow, while in the Makers Village, the San Francisco Public Library will host a book giveaway and SF Etsy will lead holiday-themed activities: play snow, holiday crowns, ornament painting, letter writing to Santa, and coloring station! Bites will be available for purchase, along with a full bar featuring seasonal favorites.\nThe event takes place across from an illuminated City Hall in Civic Center Plaza. Event begins promptly at 4pm, with the lighting of Civic Center’s 50-foot noble fir at 5:30pm. Happening rain or shine!\nThose who are not walking to the event are encouraged to take BART/Muni or park in the Civic Center Garage.\n\nThis event is sponsored by lead sponsors Streetplus and Cordia along with the Civic Center Community Benefit District, Plant Co...",
    "image_url": null,
    "categories": [
     "Community",
@@ -58774,8 +58465,6 @@
     "1641951": "2026-10-18T18:14:59",
     "1641969": "2026-11-18T02:05:40",
     "1641972": "2026-10-31T19:17:41",
-    "1641982": "2026-10-10T18:14:27",
-    "1641984": "2026-10-10T18:14:30",
     "1641986": "2026-10-25T20:00:23",
     "1641999": "2026-11-03T17:02:44",
     "1642005": "2026-10-17T18:31:01",
@@ -59919,6 +59608,8 @@
     "1648664": "2026-11-23T23:02:27",
     "1648693": "2026-11-24T02:14:01",
     "1648695": "2026-11-24T02:14:02",
+    "1648720": "2026-11-24T12:14:07",
+    "1648722": "2026-11-24T12:14:09",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "776291": "2026-10-21T21:20:52",
@@ -59959,11 +59650,6 @@
    "sequence": 0,
    "last_modified": "2026-11-23T13:03:44.434573Z"
   },
-  "caldiscovery-comedy-18f4975df46aa98c@sf-cal": {
-   "content_hash": "56ea71535f6534a8d7b2f2df37fd94ae15ac01c97b17b6c1c3aaaabb9516addd",
-   "sequence": 1,
-   "last_modified": "2026-10-09T01:16:42.432147Z"
-  },
   "caldiscovery-comedy-1b20c24863a28596@sf-cal": {
    "content_hash": "d673fd5c88960ea3ce9f4af595816b875cf73eb4406f8d41e4f04af4271f1d49",
    "sequence": 0,
@@ -59993,6 +59679,11 @@
    "content_hash": "78cef2cffa6b2712c52425a763d485ebfda84af787264feda2685cc8ce17b87b",
    "sequence": 0,
    "last_modified": "2026-11-16T19:40:27.675533Z"
+  },
+  "caldiscovery-comedy-3feda1d9fb6e1861@sf-cal": {
+   "content_hash": "8ac44c20a61a5f2f6d7cf0f0087804c70149c64a9041b5b2952888cc4a94b11c",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
   },
   "caldiscovery-comedy-462aa907569f1c77@sf-cal": {
    "content_hash": "d5cce60cc7c59d1b7ca501bb8ed1f47339786f72825a94e69d99c608e92ff254",
@@ -60150,14 +59841,24 @@
    "last_modified": "2026-11-22T11:36:33.368641Z"
   },
   "caldiscovery-comedy-e9d51deba6649377@sf-cal": {
-   "content_hash": "42f3f26c8d49f9e7e7d853268636544163c95cd2f02defb6c3856b7ce156dc38",
-   "sequence": 1,
-   "last_modified": "2026-11-18T11:53:05.988388Z"
+   "content_hash": "cf24d0384c6217e6962588920089ffb9a52dc76155c265e1b5d43e90e96a1575",
+   "sequence": 2,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
   },
   "caldiscovery-comedy-ef180bcbf87c8f61@sf-cal": {
    "content_hash": "4e81f5cf0ecf913dd29c245ead1a3b20a164289d59e2184fc88a03fa7c98107b",
    "sequence": 0,
    "last_modified": "2026-11-22T11:36:33.368641Z"
+  },
+  "caldiscovery-comedy-f154b079a0449753@sf-cal": {
+   "content_hash": "2e157673b1b267bbb27d1e9b69b033503e19df751c5b348b321c1e5beb3c78e0",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
+  },
+  "caldiscovery-comedy-fdd01eda4951fb62@sf-cal": {
+   "content_hash": "a84d1ac77282385fdb5c26e5d1890cb8e2df61ced35f6ab4dd5f223a369516df",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
   },
   "caldiscovery-festival-0489c37ce881aaa3@sf-cal": {
    "content_hash": "d085cbc7724b94d0fcbfe8e673a09e045cfbdb0328bd8bb1892cfa26676ca1b2",
@@ -60384,20 +60085,10 @@
    "sequence": 0,
    "last_modified": "2026-10-18T20:51:53.655549Z"
   },
-  "caldiscovery-festival-fc1b66590b48ff80@sf-cal": {
-   "content_hash": "ee29916f2fcc6786aeb23a48f7e9aca14db20b9f9a049c3d38b8b94510f5e21e",
-   "sequence": 0,
-   "last_modified": "2026-11-16T06:42:37.089859Z"
-  },
   "caldiscovery-festival-fcf3cfc6e16b99b2@sf-cal": {
    "content_hash": "cea9ca5f65a9c911fe5305b0da2cbb64a9d69fd72f3f1b05ea6b14688d3174d1",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
-  "caldiscovery-festival-fdfc53b94661854e@sf-cal": {
-   "content_hash": "60218203064375c23ccbf7faa87bebdaf0ccdcd2e2bd23588efac736eaacad03",
-   "sequence": 0,
-   "last_modified": "2026-11-20T02:23:32.440066Z"
   },
   "city-hall-lights-ics-7cf68fe400a96de7@sf-cal": {
    "content_hash": "7a65d001a5421f976f00d326458f09b9e62721810ca1f4da2fc15218e50a2903",
@@ -60764,11 +60455,6 @@
    "sequence": 0,
    "last_modified": "2026-10-08T18:53:26.448470Z"
   },
-  "dothebay-17401191@sf-cal": {
-   "content_hash": "e7da2e4a1f5cb01dbdf3dacebb0f8d98932b970d990ceee2c9c6dfbee2385295",
-   "sequence": 1,
-   "last_modified": "2026-10-08T18:53:26.448470Z"
-  },
   "dothebay-17402662@sf-cal": {
    "content_hash": "76f592ddfe36fb600ef245c379639da356ecf22a4feb95faeac65b97244c5db0",
    "sequence": 0,
@@ -60804,11 +60490,6 @@
    "sequence": 1,
    "last_modified": "2026-11-09T22:28:18.990128Z"
   },
-  "dothebay-17447402@sf-cal": {
-   "content_hash": "068d4cc442b86d82c7fce18a6c91c2ec9b0abd32fa400a464b259328bc5d6653",
-   "sequence": 1,
-   "last_modified": "2026-11-03T02:56:35.676256Z"
-  },
   "dothebay-17448863@sf-cal": {
    "content_hash": "fa2fa17afd49ef9d01b11b78f10f8883a4140378ee725d7393309471144589f0",
    "sequence": 2,
@@ -60838,11 +60519,6 @@
    "content_hash": "6673cba489076484968c41f1b224717977bd38d59246d6bad3b1bd8e2e04da6c",
    "sequence": 2,
    "last_modified": "2026-11-22T11:36:33.368641Z"
-  },
-  "dothebay-17461919@sf-cal": {
-   "content_hash": "0e698ebbcc2a1795ef94c50b2f862b7ebd79f9be8b9d0d6154eb7084b16fc480",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17461920@sf-cal": {
    "content_hash": "910d11d61f5994fcd510eeabe84e85920ad3fa539419fc97e3e750354b0f08bb",
@@ -61113,11 +60789,6 @@
    "content_hash": "6e7f5209d2522f449dab682cdd69586a6cb4f597d26760fa341012277fbf0df6",
    "sequence": 1,
    "last_modified": "2026-10-07T21:06:55.600913Z"
-  },
-  "dothebay-17589441@sf-cal": {
-   "content_hash": "90f3c97cde027e9fc35aa3a13c63300b0bf1cf5eb355a447ffe6a0aadba99e99",
-   "sequence": 1,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
   },
   "dothebay-17595154@sf-cal": {
    "content_hash": "3ba9c90e685fc7a61d9677c0281a28397f0bd6307d62b19a728224887c755cb0",
@@ -61466,11 +61137,6 @@
   },
   "dothebay-17697004@sf-cal": {
    "content_hash": "755976e7c888d691846c1fdc22ad27b3125a6a2f8f467b53518316650810450d",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17697037@sf-cal": {
-   "content_hash": "e451b5d7930184eca2b0553f62d1e3a600209afbc3fe762140957de435ecfdfe",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
@@ -62649,11 +62315,6 @@
    "sequence": 1,
    "last_modified": "2026-11-09T22:28:18.990128Z"
   },
-  "dothebay-17888264@sf-cal": {
-   "content_hash": "88c59b284baa199c2a6c97c954671da405c894e616dc6869eac120751022a86c",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
   "dothebay-17888551@sf-cal": {
    "content_hash": "8417c819037f5322c511a406d0502efe89b46dd1525ead1039fa1b6a01e4716f",
    "sequence": 5,
@@ -62693,11 +62354,6 @@
    "content_hash": "27060cd8f2d15cd77288036707fd5c141779479a112a271f69c58d3e55bfe391",
    "sequence": 1,
    "last_modified": "2026-10-09T18:23:57.839093Z"
-  },
-  "dothebay-17903007@sf-cal": {
-   "content_hash": "92a3e4e21f0b6462ba376f9619c5c00530bccc87fa51b884496f0a629f09add8",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
   },
   "dothebay-17904887@sf-cal": {
    "content_hash": "35be3826be01da6ba81a8f8559c0cbcd4c95a266b10928d637cf72f39b6210d4",
@@ -62765,9 +62421,9 @@
    "last_modified": "2026-10-18T20:51:53.655549Z"
   },
   "dothebay-17906077@sf-cal": {
-   "content_hash": "5984d3ef01e73815b693dcd7b5e32fa31024ba422abadbc1c278820452f4cb1e",
-   "sequence": 0,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
+   "content_hash": "1eaa451cb57abd8fa598e7cff23372a27b896fa5ab9bab3d1c93d7304bc082a6",
+   "sequence": 1,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
   },
   "dothebay-17906624@sf-cal": {
    "content_hash": "53142d522286ce2b9fbb3814a4c1ebb02f49a6ce029e73865270d067498428c4",
@@ -63525,9 +63181,9 @@
    "last_modified": "2026-11-23T13:03:44.434573Z"
   },
   "dothebay-18006506@sf-cal": {
-   "content_hash": "26850611f090d0c33bf2644c59a334ec2fca77a9a1396da16cf442cc8e3a9988",
-   "sequence": 0,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
+   "content_hash": "b4f3d6f76e6e9a0866c4a7259e3a2d6d6a28ba3efbf176b3158bf85717c467a4",
+   "sequence": 1,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
   },
   "dothebay-18006617@sf-cal": {
    "content_hash": "8dc54a2b21b96efaab06f99668626399b1dc1785339088ef5efe7f0248334e80",
@@ -63823,11 +63479,6 @@
    "content_hash": "f2dbcd159fe2bb7f9fe2f6196de42ba259ee1bdf2f31b736e5f69875ef356c2b",
    "sequence": 2,
    "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
-  "dothebay-18029607@sf-cal": {
-   "content_hash": "9059fe2983a4471bc1d48b416a076228b641ef9a2bf3508ed537c20a472216c0",
-   "sequence": 1,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
   },
   "dothebay-18029946@sf-cal": {
    "content_hash": "686e1f31517f7b6a86730f9ac8582ce3573a4f861ac517a802bb5cdbba7eeb6e",
@@ -64439,11 +64090,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1637944@sf-cal": {
-   "content_hash": "f19d12cb08d481dd6617844d31b05b0014387cd9fa447d017a45fa78bc2fcc2e",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1638082@sf-cal": {
    "content_hash": "c643647d00531b156c3ff6a4833b39705f6a085e0cd61a1cb9a812f9e953dddd",
    "sequence": 0,
@@ -64461,11 +64107,6 @@
   },
   "funcheap-1638191@sf-cal": {
    "content_hash": "af0d07b0ce3b70ffc089e5994aad330b7581f38dbb3d2188b7b0cfa272179059",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1638348@sf-cal": {
-   "content_hash": "d10f464c6ee8044668a02fc37c657241a28f517fe637fe42f2df2c49d7175946",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -64606,11 +64247,6 @@
   },
   "funcheap-1639629@sf-cal": {
    "content_hash": "0362b530a1ba4a73b1dc8add3a58f7fb53bf720ca7c08e78bdea7f2c0e304a37",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
-  "funcheap-1639745@sf-cal": {
-   "content_hash": "77539dab2f4eab85a2f4e474bb6a178bf4405fe5126f35829f45c717cb846730",
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
@@ -66034,18 +65670,8 @@
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
-  "funcheap-1646696@sf-cal": {
-   "content_hash": "1d0c716ec0e5b2cc9bc8fb7e325479ea46e55ab32ad776f9f5c9bb5f90e1f870",
-   "sequence": 0,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
   "funcheap-1646700@sf-cal": {
    "content_hash": "ceac8cba2a8078a1c9fb13cf15901e05fed0e69d45069f40dab135bb0b1d2f71",
-   "sequence": 0,
-   "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
-  "funcheap-1646711@sf-cal": {
-   "content_hash": "c9fc8d970cdb72568a3b75d891cd0e8ca1da57cd08baa6032f9f6c081fb01a7f",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
   },
@@ -67029,6 +66655,16 @@
    "sequence": 0,
    "last_modified": "2026-11-24T02:16:44.059807Z"
   },
+  "funcheap-1648720@sf-cal": {
+   "content_hash": "6d0809f2f53d3da5ac8f4a0a636d32698235581cd4fe4ee6ab1fa16e59c25512",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
+  },
+  "funcheap-1648722@sf-cal": {
+   "content_hash": "ca3134d9994aff0305ec66462065095875a1925d233a79667d6d9169928a9a3a",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
+  },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",
    "sequence": 0,
@@ -67199,6 +66835,11 @@
    "sequence": 0,
    "last_modified": "2026-11-17T16:11:06.391159Z"
   },
+  "sf-street-events-1429598-2027-01-23T06:00:00-08:00@sf-cal": {
+   "content_hash": "e6899b6a095072f60ba543c1ae2fc36816747579dabb2b4df488f12c50901eaa",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
+  },
   "sf-street-events-1479162-2026-12-07T16:30:00-08:00@sf-cal": {
    "content_hash": "3854ae719dfbce3e2c504ea5a0ad19ccb5ce1393b5b5e22265f1e2d2c5719606",
    "sequence": 0,
@@ -67248,6 +66889,11 @@
    "content_hash": "35bded2fe49b657866f7b1c39036d9e087abe84c824ee354fca06449a9337acd",
    "sequence": 0,
    "last_modified": "2026-11-17T16:11:06.391159Z"
+  },
+  "sf-street-events-1493851-2027-01-23T07:00:00-08:00@sf-cal": {
+   "content_hash": "ba4590e5a7dffd5b04e4fa78ec507b13ff5bd4d36b5da314862e2023322a6bd4",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
   },
   "sf-street-events-1498354-2026-11-22T07:00:00-08:00@sf-cal": {
    "content_hash": "c8d91f4c892ca0c70b9854f416a6b443b1464c7db15fe37b0b8e35832f1f2dd1",
@@ -67374,6 +67020,11 @@
    "sequence": 0,
    "last_modified": "2026-11-17T16:11:06.391159Z"
   },
+  "sf-street-events-pending-1598190-2027-01-23T07:00:00-08:00@sf-cal": {
+   "content_hash": "2f881becde9b696a9e04486ad48d6d66c71d3d073b0c2d9c4ed7d1d42eb7e2de",
+   "sequence": 0,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
+  },
   "sf-street-events-pending-1634439-2026-12-05T10:00:00-08:00@sf-cal": {
    "content_hash": "f42c69dd922d2d138dc423eedb4d1a542103d9d93a5ef3b89528c2e86a907768",
    "sequence": 1,
@@ -67420,9 +67071,9 @@
    "last_modified": "2026-10-28T20:20:41.690081Z"
   },
   "sfciviccenter-063dac71b46f481e@sf-cal": {
-   "content_hash": "69ffb13c2a3287d9bbb05cf8fc23fe769ed16841a92b23b085cc0a3949fe2439",
-   "sequence": 5,
-   "last_modified": "2026-11-16T19:40:27.675533Z"
+   "content_hash": "990eaa3f214e0aab17c7ab3cba11d751eca748ebb25893c6ff638e8793e16839",
+   "sequence": 6,
+   "last_modified": "2026-11-24T13:52:43.012887Z"
   },
   "sfciviccenter-2019069d90599e4e@sf-cal": {
    "content_hash": "e0c133c54fbe37cccbfc869a61febc832365390c39d773d451b2b9d5f9c4ed9a",

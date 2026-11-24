@@ -40,34 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Dive in Wonderland
-DTSTART;TZID=America/Los_Angeles:20261116T191500
-DTEND;TZID=America/Los_Angeles:20261116T211500
-DTSTAMP:20261006T003107Z
-UID:dothebay-17903007@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:Presented in Japanese with English subtitles\n\nThe world-famo
- us classic Alice in Wonderland receives its first Japanese theatrical anim
- ated adaptation!\n\nRise Azumino is a university student who feels lost in
-  her life. One day\, guided by an invitation letter left behind by her lat
- e grandmother\, she enters “Wonderland”. She meets a girl named Alice 
- there and they travel together. The Queen of Hearts\, the Mad Hatter\, Che
- shire Cat…the residents of Wonderland appear before Rise one after anoth
- er and crazy commotion ensues! What kind of future will Rise choose in thi
- s crazy adventure with Alice?\n\nTickets: https://drafthouse.com/sf/show/d
- ive-in-wonderland?cinemaId=0802&sessionId=22086\nDetails: https://dothebay
- .com/events/2026/11/16/dive-in-wonderland-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34710700/5d224cb3-d563-4a31-aaa1-a978fb3d4198.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/16/dive-in-wonderland-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Counsellor at Law
 DTSTART;TZID=America/Los_Angeles:20261117T180000
 DTEND;TZID=America/Los_Angeles:20261117T200000
