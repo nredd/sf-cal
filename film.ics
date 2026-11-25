@@ -40,41 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Counsellor at Law
-DTSTART;TZID=America/Los_Angeles:20261117T180000
-DTEND;TZID=America/Los_Angeles:20261117T200000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17866474@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:Part of our series Wild\, Weird\, Wicked: Films From Before th
- e Code!\n\nDirected by the illustrious William Wyler (The Good Fairy\, The
-  Big Country\, Ben-Hur)\, the briskly paced Counsellor at Law is often cit
- ed as the best film to ever tackle the intricacies and pitfalls of the leg
- al profession. George Simon (Hollywood legend John Barrymore\, Dr. Jekyll 
- and Mr. Hyde) is a successful attorney\, climbing from a Jewish ghetto to 
- elegant Art Deco offices in the Empire State Building. After allowing one 
- of his former clients to commit perjury to win a case\, George realizes he
-  could be disbarred. Flavored with social commentary and wry humor\, and f
- eaturing a luminous performance by the great Bebe Daniels as George’s se
- cretary Regina\, Counsellor at Law is an exceptional example of the hard-b
- oiled dramas that defined the Pre-Code cinema of the early 1930s.\n\nRunti
- me\n\n1h 21m\n\nYear\n\n1933\n\nDirector\n\nWilliam Wyler\n\nFormat\n\nDig
- ital\n\nCountry\n\nUS\n\nLanguage\n\nEnglish\n\nFirst Showing\n\nNovember 
- 17\, 2026\n\nCategories\n\nSilver Screen Club\n\nWild\, Weird\, Wicked: Fi
- lms From Before the Code\n\n\,\n\nFeatured\n\nTickets: https://ticketing.u
- swest.veezi.com/purchase/22054?siteToken=4m48btf3yavn7xjk5yxk6nc40c\nDetai
- ls: https://dothebay.com/events/2026/11/17/counsellor-at-law-tickets\nSour
- ce: DoTheBay
-GEO:37.7647103;-122.4224081
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34538608/de627275-28df-4843-968c-857d83090ecf.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/17/counsellor-at-law-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Junk Journaling Night w/ 1959 Horror Film “House on Haunted
   Hill” (Oakland)
 DTSTART;TZID=America/Los_Angeles:20261118T180000
@@ -1008,6 +973,34 @@ LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/24/the-nightmare-before-christmas-
  tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glue Stick Social: Charade (1963) Film and Junk Journaling Night
+DTSTART;TZID=America/Los_Angeles:20261125T180000
+DTEND;TZID=America/Los_Angeles:20261125T200000
+DTSTAMP:20261125T084553Z
+UID:funcheap-1648231@sf-cal
+SEQUENCE:0
+CATEGORIES:Movies
+DESCRIPTION:Submitted by the Event OrganizerDarkParlourSociety.comGlue Sti
+ ck Social is a free junk journaling and movie night at Spire\, an old chur
+ ch in West Oakland. On Wednesday\, November 25 (the night before Thanksgiv
+ ing) we’re watching Charade (1963)\, a 1963 Paris mystery with Cary Gran
+ t and Audrey Hepburn in Givenchy\, often called the best Hitchcock movie H
+ itchcock never made. At the tables: dress a paper doll in Givenchy coats\,
+  design your own\, collage 1960s Paris fashion\, or bring your own journal
+ . All supplies provided\, no experience needed. Gloves and hats welcome. F
+ ree\, 18+ (donations to the venue welcome).\n\nFree\n\nTickets: https://da
+ rkparloursociety.com/rsvp?date=nov-25\nDetails: https://sf.funcheap.com/gl
+ ue-stick-social-charade-1963-film-junk-journaling-night/\nSource: Funcheap
+  SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/calend
+ ar-wide-1200x630-1.png
+LAST-MODIFIED:20261125T084553Z
+LOCATION:Spire The Church\, 825 Athens Avenue\, Oakland
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/glue-stick-social-charade-1963-film-junk-journ
+ aling-night/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Charlie Brown Thanksgiving

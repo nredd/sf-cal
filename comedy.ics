@@ -40,28 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Alvin Kuai
-DTSTART;TZID=America/Los_Angeles:20261117T193000
-DTEND;TZID=America/Los_Angeles:20261117T213000
-DTSTAMP:20261118T115305Z
-UID:dothebay-17642557@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Alvin Kuai\nTuesday\, November 17 | Punch Line San Francisco\n
- \n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Share
- dId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Falvin-kuai-san-francisc
- o-california-11-17-2026%2Fevent%2F1C0064F5CE111428\nDetails: https://dothe
- bay.com/events/2026/11/17/alvin-kuai-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33480517/fc62d069-f899-4a61-9857-48b1ccd81352.png
-LAST-MODIFIED:20261118T115305Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/17/alvin-kuai-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Caitlin Peluffo
 DTSTART;TZID=America/Los_Angeles:20261118T190000
 DTEND;TZID=America/Los_Angeles:20261118T210000
@@ -1104,9 +1082,9 @@ BEGIN:VEVENT
 SUMMARY:Joe Klocek & Friends
 DTSTART;TZID=America/Los_Angeles:20261124T193000
 DTEND;TZID=America/Los_Angeles:20261124T213000
-DTSTAMP:20261030T180414Z
+DTSTAMP:20261125T084553Z
 UID:dothebay-17778696@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Comedy
 DESCRIPTION:Joe Klocek & Friends\nTuesday\, November 14 | ​Punch Line Sa
  n Francisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/2641
@@ -1114,14 +1092,11 @@ DESCRIPTION:Joe Klocek & Friends\nTuesday\, November 14 | ​Punch Line Sa
  -friends-san-francisco-california-11-24-2026%2Fevent%2F1C00651988C08444\nD
  etails: https://dothebay.com/events/2026/11/24/joe-klocek-friends-tickets\
  nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sfs-iconic
- -punchline-comedy-club-secret-guest-list-joe-klocek-friends-2/\n- https://
- www.ticketmaster.com/joe-klocek-friends-san-francisco-california-11-24-202
- 6/event/1C00651988C08444?utm_source=caldiscovery&utm_medium=ics&utm_campai
- gn=san-francisco-ca
+ -punchline-comedy-club-secret-guest-list-joe-klocek-friends-2/
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34121926/0b800c05-64d0-48f1-a972-fb38570e2b8d.png
-LAST-MODIFIED:20261030T180414Z
+LAST-MODIFIED:20261125T084553Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1486,6 +1461,39 @@ LAST-MODIFIED:20261101T001103Z
 LOCATION:Moe Greens\, 1276 Market St.\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/the-stoner-comedy-jam-friday-nights-sf-192/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand-Up Comedy Show: Laughs at Lariat
+DTSTART;TZID=America/Los_Angeles:20261127T200000
+DTEND;TZID=America/Los_Angeles:20261127T213000
+DTSTAMP:20261125T084553Z
+UID:funcheap-1648573@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy Event Types Event
+DESCRIPTION:Submitted by the Event OrganizerEmon DismoreStand-Up Comedy Re
+ turns to The Lariat Tavern\, Friday\, November 27th for this SPECIAL EVENT
+ ! After a long day of eating Turkey it’s time to be entertained by the b
+ est Stand-Up Comedians in the Bay Area.\nWelcome to one of the best Stand-
+ Up Comedy Shows in the Peninsula: “Laughs @Lariat.” Come and watch som
+ e of the top local comedians while enjoying a nice cold one. This comedy s
+ how is hosted & produced by Peninsula Comedy. Penninsula Comedy is the pre
+ mier comedy company in the Peninsula. Peninsula Comedy runs Nine Comedy Sh
+ ows throughout San Mateo County. Follow Us @peninsulacomedy and @emondismo
+ re to stay updated on all of our events.\n\nFeature Comedians: Emon Dismor
+ e (Peninsula Comedy)\, Lee Wyatt (Savage Henry)\, David Huft (The Function
+ )\, Israel Medina (SF Sketchfest)\, Luis Perez (Santa Cruz Comedy Festival
+ )\, Jordan Murty (The Function)\, Yi Ma (Flappers Comedy Club)\, Xzavier B
+ ronson (San Jose Improv) and our headliner is Chad Chambers (Netflix is a 
+ Joke).\nFollow us on Instagram: @peninsulacomedy or @emondismore\n\nFree\n
+ \nTickets: https://www.eventbrite.com/e/2005261649574?aff=oddtdtcreator\nD
+ etails: https://sf.funcheap.com/standup-comedy-show-laughs-lariat/\nSource
+ : Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/Black.
+ Friday.Lariat.11.27.FINAL_.jpg
+LAST-MODIFIED:20261125T084553Z
+LOCATION:The Lariat Tavern\, 1428 El Camino Real\, Belmont
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/standup-comedy-show-laughs-lariat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steve Furey
@@ -3162,22 +3170,22 @@ BEGIN:VEVENT
 SUMMARY:Kev Adams
 DTSTART;TZID=America/Los_Angeles:20261206T190000
 DTEND;TZID=America/Los_Angeles:20261206T210000
-DTSTAMP:20261029T100747Z
+DTSTAMP:20261125T084553Z
 UID:dothebay-17834035@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Kev Adams\nSunday\, December 6 | ​Cobb's Comedy Club\n\n18+\
  n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=Do
  Stuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkev-adams-san-francisco-calif
  ornia-12-06-2026%2Fevent%2F1C00652845A399E9\nDetails: https://dothebay.com
  /events/2026/12/6/kev-adams-tickets\nSource: DoTheBay\n\nAlso listed on:\n
- - https://www.ticketmaster.com/kev-adams-san-francisco-california-12-06-20
- 26/event/1C00652845A399E9?utm_source=caldiscovery&utm_medium=ics&utm_campa
- ign=san-francisco-ca
+ - https://www.ticketmaster.com/kev-adams-16-with-parental-supervision-san-
+ francisco-california-12-06-2026/event/1C00652845A399E9?utm_source=caldisco
+ very&utm_medium=ics&utm_campaign=san-francisco-ca
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34381660/50403d18-214a-4176-bb25-e22b12f441f5.png
-LAST-MODIFIED:20261029T100747Z
+LAST-MODIFIED:20261125T084553Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -7746,6 +7754,26 @@ LOCATION:The Masonic\, 1111 California St\, San Francisco\, CA\, 94108
 TRANSP:TRANSPARENT
 URL:https://www.ticketmaster.com/jeff-arcuri-the-road-trip-tour-san-franci
  sco-california-01-23-2027/event/1C0064D1D31045D8?utm_source=caldiscovery&u
+ tm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeff Arcuri: The Road Trip Tour
+DTSTART;TZID=America/Los_Angeles:20270124T180000
+DTEND;TZID=America/Los_Angeles:20270124T200000
+DTSTAMP:20261125T084553Z
+UID:caldiscovery-comedy-69040f1245792ae7@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy
+DESCRIPTION:Published by The Masonic Tickets & Schedule\nContains informat
+ ion from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://ww
+ w.ticketmaster.com/jeff-arcuri-the-road-trip-tour-san-francisco-california
+ -01-24-2027/event/1C0064D1D31445E5?utm_source=caldiscovery&utm_medium=ics&
+ utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261125T084553Z
+LOCATION:The Masonic\, 1111 California St\, San Francisco\, CA\, 94108
+TRANSP:TRANSPARENT
+URL:https://www.ticketmaster.com/jeff-arcuri-the-road-trip-tour-san-franci
+ sco-california-01-24-2027/event/1C0064D1D31445E5?utm_source=caldiscovery&u
  tm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT

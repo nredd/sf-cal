@@ -40,74 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Open Air Club: Free Weekly Community Walks in San Francisco & Oakl
- and
-DTSTART;TZID=America/Los_Angeles:20261117T183000
-DTEND;TZID=America/Los_Angeles:20261117T213000
-DTSTAMP:20261118T115305Z
-UID:funcheap-1647102@sf-cal
-SEQUENCE:0
-CATEGORIES:Outdoors
-DESCRIPTION:Submitted by the Event OrganizerOpen Air Club | Get Outside. F
- ind Your People.\nLooking to meet new people\, explore your community\, an
- d build meaningful friendships? Join Open Air Club for our free weekly out
- door meetups in San Francisco and Oakland!\n\nOpen Air Club is a community
- -focused nonprofit bringing people together through walking\, running\, ou
- tdoor exploration\, and social connections.\nOur mission is simple: create
-  welcoming spaces where people can get outside\, connect with others\, and
-  enjoy being part of a community.\nTWO CITIES. TWO DAYS. ONE COMMUNITY.\nS
- AN FRANCISCO\nEvery Tuesday | 6:30 PM\nOAKLAND\nEvery Thursday | 6:30 PM\n
- Lake Merritt\nWHAT TO EXPECT\n• Free weekly community walks and social g
- atherings\n• Opportunities to meet new people and build genuine friendsh
- ips\n• A welcoming environment for individuals of all backgrounds\n• O
- utdoor activities and community exploration\n• Refreshments and special 
- giveaways at select events\n• No membership fees or participation costs\
- nWhether you’re new to the Bay Area\, looking to expand your social circ
- le\, or simply want to enjoy the outdoors\, Open Air Club welcomes you!\nC
- ome alone\, bring a friend\, or invite your coworkers. Everyone is encoura
- ged to participate at their own comfort level.\nOur events are designed to
-  be relaxed\, enjoyable\, and accessible to people with different fitness 
- levels.\nADMISSION: 100% FREE\nWe encourage attendees to RSVP through Meet
- up to receive event updates and meeting-location details.\nJoin our growin
- g communi...\n\nFree\n\nTickets: https://theopenairclub.netlify.app\nDetai
- ls: https://sf.funcheap.com/open-air-club-free-weekly-community-walks-san-
- francisco-oakland/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/IMG_21
- 02.jpg
-LAST-MODIFIED:20261118T115305Z
-LOCATION:Waterbar Restaurant / Lake Merritt\, 399 The Embarcadero\, San Fr
- ancisco\, CA 94105 / 1520 Lakeside Drive\, Oakland\, CA 94612
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/open-air-club-free-weekly-community-walks-san-
- francisco-oakland/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Freedom of Less: Simplicity\, Lightness\, and Focus
-DTSTART;TZID=America/Los_Angeles:20261117T183000
-DTEND;TZID=America/Los_Angeles:20261117T200000
-DTSTAMP:20261118T115305Z
-UID:funcheap-1647541@sf-cal
-SEQUENCE:0
-CATEGORIES:Sports Fitness
-DESCRIPTION:Submitted by the Event OrganizerChasing more only makes us fee
- l heavier — experience the natural abundance of living light. Unload unn
- ecessary burdens and rediscover lightness. Key takeaways: overcoming subtl
- e greed\, lightness of mind through quiet\, elevated dialogue with the Div
- ine\, and deep contentment by living with clean moderation and genuine sel
- f-sufficiency. An evening of meditation and reflection on simplicity\, lig
- htness\, and focus. Everyone welcome\, no experience needed.\n\nFacebook E
- vent: https://www.facebook.com/events/1411392461019052/\n\nFree\n\nTickets
- : https://tockify.com/bksfevents/detail/591/1794969000000\nDetails: https:
- //sf.funcheap.com/freedom-simplicity-lightness-focus/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/freedo
- m-of-less-2026-11-17.jpg
-LAST-MODIFIED:20261118T115305Z
-LOCATION:Brahma Kumaris Meditation Center\, 401 Baker St.\, San Francisco\
- , CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/freedom-simplicity-lightness-focus/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261118T090000
 DTEND;TZID=America/Los_Angeles:20261118T100000
@@ -580,23 +512,6 @@ LOCATION:Union Square Park\, Geary and Powell\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-ice-skating-lessons-at-union-square-holid
  ay-rink-final-day-to-register/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glen Park Tuesday Movie Night
-DTSTART;TZID=America/Los_Angeles:20261124T180000
-DTEND;TZID=America/Los_Angeles:20261124T210000
-DTSTAMP:20261119T204447Z
-UID:sfrecpark-main-580855a30d3afb95@sf-cal
-SEQUENCE:0
-DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on Tuesday\, November 24 from 6 pm - 9 pm https://sfrecpark.org/calend
- ar.aspx?EID=10860\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?fee
- d=calendar&catID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261119T204447Z
-LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
- Elk Street San Francisco CA 94131
-TRANSP:TRANSPARENT
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
