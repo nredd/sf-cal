@@ -40,58 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Caitlin Peluffo
-DTSTART;TZID=America/Los_Angeles:20261118T190000
-DTEND;TZID=America/Los_Angeles:20261118T210000
-DTSTAMP:20261119T114934Z
-UID:dothebay-17877344@sf-cal
-SEQUENCE:4
-CATEGORIES:Comedy
-DESCRIPTION:Doors open one hour before the show. This show is 18 & over wi
- th valid\, government-issued photo ID. There is a two beverage minimum per
-  person. Cameras and video/audio recording devices are not permitted. $.25
-  per each ticket sold for a majority of events at Punch Line benefits Come
- dy Gives Back\, a safety net for the comedy community. For more informatio
- n\, please visit www.comedygivesback.com Our events often run for multiple
-  dates/times. Before purchasing\, please ensure that you can attend the sp
- ecific event\, date\, and time that is listed on the event page. There are
-  no refunds/exchanges unless an event is cancelled/postponed.\n\n18+\n\nTi
- ckets: https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff
- &u=https%3A%2F%2Fwww.ticketmaster.com%2Fcaitlin-peluffo-san-francisco-cali
- fornia-11-18-2026%2Fevent%2F1C00653697A1B1ED\nDetails: https://dothebay.co
- m/events/2026/11/18/caitlin-peluffo-tickets\nSource: DoTheBay
-GEO:37.795486;-122.4001359
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/34589085/0aaaf3e1-06e3-4682-9c3b-bb96f64de85b.png
-LAST-MODIFIED:20261119T114934Z
-LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
- 94111
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/18/caitlin-peluffo-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jenny Tian: Ripe
-DTSTART;TZID=America/Los_Angeles:20261118T193000
-DTEND;TZID=America/Los_Angeles:20261118T213000
-DTSTAMP:20261119T114934Z
-UID:dothebay-17350340@sf-cal
-SEQUENCE:2
-CATEGORIES:Comedy
-DESCRIPTION:Jenny Tian: Ripe\nWednesday\, November 18 | Cobb's Comedy Club
- \n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sha
- redId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjenny-tian-ripe-san-f
- rancisco-california-11-18-2026%2Fevent%2F1C0064AC13A553C5\nDetails: https:
- //dothebay.com/events/2026/11/18/jenny-tian-ripe-tickets\nSource: DoTheBay
-GEO:37.802989;-122.4143902
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/32084327/6d764d92-2275-4d14-99d4-1681c10a68bf.png
-LAST-MODIFIED:20261119T114934Z
-LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
- 3
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/18/jenny-tian-ripe-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Boom Boom Comedy Showcase (3rd Wednesdays) Voted Best Date Night i
  n SF
 DTSTART;TZID=America/Los_Angeles:20261118T200000
@@ -2631,6 +2579,33 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/4/greg-fitzsimmons-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaga & Improv Workshop
+DTSTART;TZID=America/Los_Angeles:20261205T100000
+DTEND;TZID=America/Los_Angeles:20261205T140000
+DTSTAMP:20261126T033748Z
+UID:caldiscovery-comedy-c71bfebfad755aaa@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,education
+DESCRIPTION:Deepen your movement and embodiment practice in a welcoming sp
+ ace of curiosity\, discovery\, and connection. Through guided exercises\, 
+ explore Graham’s methods for moving beyond your comfort zone and discove
+ ring new depths of nuance\, power\, and pleasure. This weekend blends seri
+ ous inquiry with playful exploration\, inviting your animal body intellige
+ nce to thrive.\nPrevious movement experience is helpful but not required. 
+ All levels/No levels! Priority is given to those attending both days\, tho
+ ugh single-day participation is welcome.\nRegistration: $230 via Venmo @Be
+ arGrahamProductions\n\nPublished by Dancers' Group\nContains information f
+ rom CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://dancers
+ group.org/calendar/gaga-improv-workshop/2026-12-05/?utm_source=caldiscover
+ y&utm_medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261126T033748Z
+LOCATION:Joe Goode Annex\, 401 Alabama St\, San Francisco\, CA\, 94103\, U
+ nited States
+TRANSP:TRANSPARENT
+URL:https://dancersgroup.org/calendar/gaga-improv-workshop/2026-12-05/?utm
+ _source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peter Angelo: Standup Comedy Show

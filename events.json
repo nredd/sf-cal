@@ -1,6 +1,6 @@
 {
  "version": 1,
- "last_full_refresh": "2026-11-24T23:55:58.969603Z",
+ "last_full_refresh": "2026-11-26T03:37:48.216373Z",
  "events": [
   {
    "source": "caldiscovery-comedy",
@@ -598,6 +598,34 @@
    ],
    "notes": [
     "Published by dougcordell.com",
+    "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
+   ]
+  },
+  {
+   "source": "caldiscovery-comedy",
+   "source_id": "c71bfebfad755aaa",
+   "title": "Gaga & Improv Workshop",
+   "start": "2026-12-05T10:00:00-08:00",
+   "end": "2026-12-05T14:00:00-08:00",
+   "all_day": false,
+   "bucket": "comedy",
+   "venue": "Joe Goode Annex",
+   "address": "401 Alabama St, San Francisco, CA, 94103, United States",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://dancersgroup.org/calendar/gaga-improv-workshop/2026-12-05/?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "ticket_url": null,
+   "price_text": null,
+   "is_free": false,
+   "sold_out": false,
+   "description": "Deepen your movement and embodiment practice in a welcoming space of curiosity, discovery, and connection. Through guided exercises, explore Graham’s methods for moving beyond your comfort zone and discovering new depths of nuance, power, and pleasure. This weekend blends serious inquiry with playful exploration, inviting your animal body intelligence to thrive.\nPrevious movement experience is helpful but not required. All levels/No levels! Priority is given to those attending both days, though single-day participation is welcome.\nRegistration: $230 via Venmo @BearGrahamProductions",
+   "image_url": null,
+   "categories": [
+    "comedy",
+    "education"
+   ],
+   "notes": [
+    "Published by Dancers' Group",
     "Contains information from CalDiscovery (caldiscovery.com), ODbL 1.0"
    ]
   },
@@ -2905,12 +2933,12 @@
    "address": null,
    "locality": null,
    "geo": null,
-   "url": "https://www.tjpa.org/Winterfest?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
+   "url": "https://www.tjpa.org/node/6886?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca",
    "ticket_url": null,
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "*****\nSave the Date\nIt's almost time to light up the night!! The 7th annual Winterfest returns to TJPA’s Salesforce Park on the weekend of December 4th-6th. Bundle up and join us for a weekend full of festive fun, including a holiday swing dance, seasonal movies and crafts, and the return of our popular all-day wreath-making party!\n\nMore details: https://www.tjpa.org/Winterfest",
+   "description": "*****\nSave the Date\nIt's almost time to light up the night!! The 7th annual Winterfest returns to TJPA’s Salesforce Park on the weekend of December 4th-6th. Bundle up and join us for a weekend full of festive fun, including a holiday swing dance, seasonal movies and crafts, and the return of our popular all-day wreath-making party!\n\nMore details: https://www.tjpa.org/node/6886",
    "image_url": null,
    "categories": [
     "festival"
@@ -4346,748 +4374,6 @@
    "description": "Stomach Cancer Awareness Day",
    "image_url": null,
    "categories": [],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17546822",
-   "title": "Met Opera: Carmen (Encore)",
-   "start": "2026-11-18T12:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "The Village at Corte Madera",
-   "address": "1557 Redwood Hwy, Corte Madera, CA",
-   "locality": "Corte Madera",
-   "geo": [
-    37.93161,
-    -122.513699
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/met-opera-carmen-encore-tickets",
-   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=566662~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "3hr 2min - 1 Intermission",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33029631/b0aa2771-f4b2-47ac-90bd-be5a3fe8ee48.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17707517",
-   "title": "TransLife Galaxy Mental Health Series",
-   "start": "2026-11-18T13:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/18/translife-galaxy-mental-health-series-tickets",
-   "ticket_url": "https://resources.sfaf.org/event/translife-galaxy-mental-health-series-3/2026-11-18/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Community-based mental health facilitators share coping skills and trauma resiliency techniques that help develop life-rebuilding practices. This group is designed for transgender, gender non-conforming, non-binary, and other TGNCI+ community members.\n\nTo attend, please email astephens@sfaf.org.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33781461/763bf9f1-fbb6-4511-928f-e19a4045a87f.jpg",
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18028867",
-   "title": "Free Art Workshop: Velveteen Rabbit Pop-up Book",
-   "start": "2026-11-18T14:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7856437,
-    -122.4021904
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/free-art-workshop-velveteen-rabbit-pop-up-book-tickets",
-   "ticket_url": "https://bit.ly/4hyAzCv",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Create art inspired by our programming at this drop-in art workshop! All ages welcome, all materials provided.\n\nDesign an imaginative pop-up book featuring characters from the story of “The Velveteen Rabbit.”",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35271852/91d748ee-2562-4a56-9535-d3a06f90712b.jpg",
-   "categories": [
-    "Arts & Family"
-   ],
-   "notes": [
-    "Yerba Buena Center for the Arts"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17707519",
-   "title": "Transformaciones",
-   "start": "2026-11-18T15:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "nightlife",
-   "venue": "San Francisco AIDS Foundation",
-   "address": "San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/18/transformaciones-tickets",
-   "ticket_url": "https://resources.sfaf.org/event/transformaciones-2/2026-11-18/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Grupo de Apoyo para TGNCI (Transgénero, Género No Conforme, No Binario e Intersex) Latine inmigrantes\n\nEL GRUPO SE FACILITA EN ESPAÑOL Con Dr. Silvia Sandoval\n\nEl 1er y 3er Miércoles\n\n3:00 a 5:00pm\n\n940 Howard St.\n\nSe servira una comida\n\nPara más información: istaiti@sfaf.org | 415-738-3544\n\nMade possible through funding by ViiV Healthcare, Gilead Sciences, and Elizabeth Taylor AIDS Foundation",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33781462/4acbff6b-4af2-41b8-826a-1ccb632892cd.png",
-   "categories": [
-    "LGBTQ"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18054052",
-   "title": "Mahjong Meetup",
-   "start": "2026-11-18T15:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Ferry Building",
-   "address": "One Ferry Marketplace, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/18/mahjong-meetup-tickets",
-   "ticket_url": "https://www.ferrybuildingmarketplace.com/events/mahjong-meetup-2/var/ri-1.l-L1",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Play Mahjong at the Ferry Building!\n\nJoin us for an afternoon Mahjong meetup every Wednesday from 3–7 PM.\n\nAll skill levels are welcome! If you have never played and are eager to learn, a quick guide and helpful tips on Chinese-style will be available. Sets will be provided, but feel free to bring your own if you have a favorite!\n\nSeating and Mahjong sets are available on a first come first served basis.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35405011/1da71a46-8250-4f62-93f0-919d29c4f0bc.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18060704",
-   "title": "Holiday Market at Embarcadero Center & 40th Annual Building Lighting",
-   "start": "2026-11-18T16:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "Embarcadero Center",
-   "address": "The Embarcadero, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": [
-    37.79593620000001,
-    -122.4000032
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/holiday-market-at-embarcadero-center-40th-annual-building-lighting-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fholiday-market-at-embarcadero-center-40th-annual-building-lighting-tickets-2003091366198%3Faff%3Debdssbdestsearch",
-   "price_text": "Free, All ages",
-   "is_free": true,
-   "sold_out": false,
-   "description": "BXP presents\nHoliday Market at Embarcadero Center\nWednesday, November 18 | Urban Patio, Three Embarcadero Center\n\nSan Francisco, it's time to get into the holiday spirit!\n\nHead to Embarcadero Center on Wednesday, November 18 from 4-6pm for an evening of festive fun, local shopping, live music, seasonal bites, and holiday drinks. The Holiday Market takes over the Urban Patio at Three Embarcadero Center with local vendors, family-friendly activities, and a festive celebration to welcome the holiday season.\n\nAt the heart of the event is Embarcadero Center's 40th Annual Building Lighting, bringing 17,000 twinkling lights to the San Francisco skyline.\n\nAnd here's a reason to show up early: the first 400 guests will receive a complimentary drink token or food voucher!\n\nAdmission is FREE and open to all ages, with entry available on a first-come, first-served basis. Alcohol consumption is 21+ with valid ID.\n\nRSVP NOW!",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35405425/bcc1ae7d-92b6-4cea-9ff7-c3804635501b.jpg",
-   "categories": [
-    "Food & Drink"
-   ],
-   "notes": [
-    "BXP presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17998121",
-   "title": "Quench at CIA at Copia: Bottles That Rocked the World",
-   "start": "2026-11-18T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "CIA at Copia",
-   "address": "500 1st Street, Napa, CA, 94559",
-   "locality": "Napa",
-   "geo": [
-    38.3028111,
-    -122.2804067
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/quench-at-cia-at-copia-bottles-that-rocked-the-world-tickets",
-   "ticket_url": "https://www.eventbrite.com/e/quench-at-cia-at-copia-bottles-that-rocked-the-world-tickets-1997723822731?aff=dothebay",
-   "price_text": "21+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "CIA at Copia Presents\nQuench at CIA at Copia: Bottles That Rocked the World\nWednesday, November 18 | CIA at Copia\n\nLive Monthly Taste and Learn Experiences at Copia\nCome participate in this monthly podcast with Master Sommelier Andrea Immer Robinson.\n\nThis is not a standard wine tasting. This is a masterclass in gastronomy. In the world of food and wine, there are experts, and then there are icons. Join the live studio audience at CIA at Copia for a rare conversation between Master Sommelier Andrea Immer Robinson and special guests each month.\n\nWhile Napa offers hundreds of tasting experiences throughout the Valley, it is almost unheard of to have direct, intimate access to talent of this caliber in a single evening. This is your opportunity to bypass the standard tasting room script and learn directly from seasoned hospitality professionals.\n\nThe Experience\nMove beyond the basic advice and learn advanced flavor profiling directly from our experts. Andrea and a different special guest each month will strip away the pretense to reveal the high-level mechanics of taste. Whether you are an industry professional or a passionate enthusiast, you will leave with a sophisticated understanding of how food and wine interact at a molecular and sensory level.\n\nYour ticket grants you access to:\n\nThe Palate of a Master: Andrea Immer Robinson (one of only 30 female Master Sommeliers in the world) will guide you through a flight of five exceptional wines, teaching you to taste with professio...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35144585/3bd965b2-b1d4-4cd6-9dbf-1e84c04abf35.png",
-   "categories": [
-    "Food & Drink"
-   ],
-   "notes": [
-    "CIA at Copia Presents"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18044246",
-   "title": "Diana Helmuth & Eliza Washington - Lonely Planet Where to Cheat on Your Cat",
-   "start": "2026-11-18T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage San Francisco",
-   "address": "1 Ferry Building, San Francisco, CA, 94911",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/18/diana-helmuth-eliza-washington-lonely-planet-where-to-cheat-on-your-cat-tickets",
-   "ticket_url": "https://bookpassage.com/event/diana-helmuth-eliza-washington-lonely-planet-where-cheat-your-cat",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Calling all cat lovers, travelers, and anyone who’s ever felt just a little guilty about befriending a new pet far from home.\nJoin Lonely Planet and authors Diana Helmuth and Eliza Washington for a delightfully mischievous evening celebrating Where to Cheat on Your Cat, an adorable guide on where to find cats on vacation—and how to win them over without your cat back home ever finding out.\nDiana and Eliza will chat about the making of the book and the particular joys of feline friendships abroad. Guests can unburden themselves at our Cat Confessional, enjoy a cat-themed treat, and take home a special goodie bag—including a little something for the feline friend you left behind.\nWhether you love small cats, big cats, and everything in between, there is something for everyone.\nCome for the travel stories. Stay for the cats. Your secret is safe with us.\n****\nABOUT THIS EVENT\nThis event will be hosted by Book Passage at our SF Ferry Building store.\nFree Admission / Open Seating\nFollowing the presentation, there will be a signing line or a meet-and-greet.\nIf you are unable to attend the event, you can still get your copy by clicking the \"BUY THE BOOK\" button above. If you would like a signed or personalized book, please note that in the order comment field.\nFor any questions regarding our events, please contact us at books@bookpassage.com.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35338079/0ad9aa8a-ddb7-4e89-905f-ea2d4d07b294.jpg",
-   "categories": [
-    "Literature"
-   ],
-   "notes": [
-    "Book Passage Presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17989719",
-   "title": "Music: the Gathering",
-   "start": "2026-11-18T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "The Savoy Tivoli",
-   "address": "1434 Grant Avenue, San Francisco, CA, 94133",
-   "locality": "San Francisco",
-   "geo": [
-    37.800294,
-    -122.407374
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/music-the-gathering-tickets",
-   "ticket_url": "https://partiful.com/e/zIFwj4smfmJqf4QvEzoC",
-   "price_text": "Free, 21+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Play some music, play some magic, bring your decks, bring your instrument!\n\nJoin us once again at The Savoy Tivoli for Commander games and a video game music jam session. All skill levels are welcome for both, and we also offer pod placement.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35111897/11bf9d93-f9ca-43d9-bf4a-014228e31415.jpg",
-   "categories": [
-    "Variety"
-   ],
-   "notes": [
-    "Checkpoint"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18015180",
-   "title": "Chess Lecture at the Bernal Library",
-   "start": "2026-11-18T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Bernal Heights Branch Library",
-   "address": "500 Cortland Ave, San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.7388503,
-    -122.4161319
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/chess-lecture-at-the-bernal-library-tickets",
-   "ticket_url": null,
-   "price_text": "Free, all ages",
-   "is_free": true,
-   "sold_out": false,
-   "description": "Join the Bernal Chess Club for our monthly lecture at the Bernal Heights Library. At 6pm we’ll learn about a beautiful game from chess history, followed by time for casual combat for those who want to play. All levels and ages are welcome. Bring a chess set if you have one.\n\nBernal Heights Branch Library, 500 Cortland Ave. (Downstairs)\nMore info at www.bernalchess.com",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35218981/415eaf00-6d06-499c-abfa-cfe49d320841.jpg",
-   "categories": [
-    "Lecture/Education"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18055645",
-   "title": "Tracy Gary, Shannon Kollasch, & Kimberly Weichel - Redesigning Nonprofits",
-   "start": "2026-11-18T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Book Passage Corte Madera",
-   "address": "51 Tamal Vista Blvd., Corte Madera, CA, 94925",
-   "locality": "Corte Madera",
-   "geo": [
-    37.9338766,
-    -122.5170281
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/tracy-gary-shannon-kollasch-kimberly-weichel-redesigning-nonprofits-tickets",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Redesigning Nonprofits examines how leaders can transform the sector to meet modern demands. Drawing on over 40 interviews, the book addresses structural obstacles and shrinking government services, offering real-world strategies to help nonprofits achieve their full potential as vital pillars of democracy.\n****\nABOUT THIS EVENT\nThis event will be hosted by Book Passage at our Corte Madera store.\nFree Admission / Open Seating\nFollowing the presentation, there will be a signing line or a meet-and-greet.\nIf you would like to BUY THE BOOK and have it signed or personalized, please note that in the order comment field.\nFor any questions regarding our events, please contact us at books@bookpassage.com.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35384696/0a8ada89-4795-4134-8dce-d7ceaae55b9e.jpg",
-   "categories": [
-    "Literature"
-   ],
-   "notes": [
-    "Book Passage Presents:"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17546823",
-   "title": "Met Opera: Carmen (Encore)",
-   "start": "2026-11-18T18:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "The Village at Corte Madera",
-   "address": "1557 Redwood Hwy, Corte Madera, CA",
-   "locality": "Corte Madera",
-   "geo": [
-    37.93161,
-    -122.513699
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/met-opera-carmen-encore-tickets-zmdabez",
-   "ticket_url": "https://prod1.agileticketing.net/websales/pages/info.aspx?evtinfo=566662~93654fc6-c14e-40a7-812a-d5d2baa619e8&",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "3hr 2min - 1 Intermission",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33029643/bc9b78c3-4fc3-4a16-bfe3-d95bc734f522.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17767015",
-   "title": "Icona Pop",
-   "start": "2026-11-18T18:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Independent",
-   "address": "628 Divisadero Street, San Francisco, CA, 94117",
-   "locality": "San Francisco",
-   "geo": [
-    37.7755362,
-    -122.4376556
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/icona-pop-tickets",
-   "ticket_url": "https://www.theindependentsf.com/tm-event/icona-pop/",
-   "price_text": "$37.05, All Ages",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Another Planet Entertainment Presents\nRitual Tour\nIcona Pop\nWednesday, November 18 | ​The Independent\n\nIcona Pop always represented the ultimate freedom of expression for its two members and longtime friends: Caroline Hjelt and Aino Jawo. Their freedom as women and artists has underscored their thriving impact and influence as one of pop music’s most innovative and irresistible multiplatinum chart-topping forces. However, their third full-length album, Ritual, is actually about ownership. They are owning who they are as mothers, creative partners, entrepreneurs, leaders, sisters, and women. These women are running the dancefloor now. Caroline and Aino went from being club kids in Stockholm to commanding clubs, arenas, and festivals from the stage. Following an independent grind, Icona Pop first reached critical mass during 2012. The duo’s breakout single, “I Love It” [feat. Charli XCX], has endured as a generational banger. It went RIAA 5x-Platinum, sold north of 10 million digital singles, and even entered rarified air as part of Spotify’s “Billions Club” with over 1.2 billion streams on the platform. Following their Gold-certified full-length debut, This Is… Icona Pop in 2013, they notched two more Gold singles, headlined sold out tours, and supported the likes of Miley Cyrus, One Direction, The Chainsmokers, and the late Avicii. Beyond performances on The Tonight Show Starring Jimmy Fallon, The Today Show, Good Morning America, and America’s Got Talent, they popped up on t...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34069172/3fc73df4-4f4a-4c48-ae01-600dc038dc2c.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Another Planet Entertainment Presents: Ritual Tour",
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17878299",
-   "title": "Progressive Art Studio Models: A Lecture By Cléa Massiani",
-   "start": "2026-11-18T18:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7856437,
-    -122.4021904
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/progressive-art-studio-models-a-lecture-by-clea-massiani-tickets",
-   "ticket_url": "https://bit.ly/4xyRuev ",
-   "price_text": "FREE",
-   "is_free": true,
-   "sold_out": false,
-   "description": null,
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34594249/87827643-5911-4c21-a27b-b1fb480be9c5.jpg",
-   "categories": [
-    "Arts & Family"
-   ],
-   "notes": [
-    "YBCA"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17733349",
-   "title": "Sacramento Kings vs. Phoenix Suns",
-   "start": "2026-11-18T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "outdoors",
-   "venue": "Golden 1 Center",
-   "address": "500 David J Stern Walk, Sacramento , CA, 95814",
-   "locality": "Sacramento",
-   "geo": [
-    38.5802066,
-    -121.4993496
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/sacramento-kings-vs-phoenix-suns-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsacramento-kings-vs-phoenix-suns-sacramento-california-11-18-2026%2Fevent%2F1C0064DABDED7A98",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Sacramento Kings vs. Phoenix Suns",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33906897/00a31f00-88b3-48ae-a7b1-a54a08088cda.png",
-   "categories": [
-    "Sports"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17858101",
-   "title": "Hamilton Leithauser + Rostam",
-   "start": "2026-11-18T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The Castro",
-   "address": "429 Castro St, San Francisco, CA, 94114",
-   "locality": "San Francisco",
-   "geo": [
-    37.7619917,
-    -122.4347365
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/hamilton-leithauser-rostam-tickets",
-   "ticket_url": "https://thecastro.com/events/hamilton-leithauser-and-rostam-261118",
-   "price_text": "all ages",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Another Planet Entertainment presents\nThe Joint Tour\nHamilton Leithauser + Rostam\nWednesday, November 18 | The Castro\n\nAt the time I Had a Dream That You Were Mine was first released, the Hamilton Leithauser and Rostam were best known for their work in two of the most influential rock bands of the era: Hamilton as lead singer in The Walkmen and Rostam as the co-songwriter and producer behind Vampire Weekend. The inspired collaboration was born of friendship, and mutual admiration, but grew into a synergistic creative partnership that birthed a timeless album of beautifully evocative songs. I Had a Dream That You Were Mine is a delightfully immersive album, built around Rostam’s meticulous, expansive production and Hamilton’s distinctive, wild vocal range. Unlike anything either artist had done before, the album’s stylistic flourishes include doo-wop, country-rock, baroque pop, folk, and spellbinding torch songs. Together, the lauded musicians found a unique flair for the dramatic which made their handful of live performances a thrilling experience; ten years on, these rare live shows are not to be missed!",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34497445/9524d9b7-01a6-40e8-b171-363ce0d5426e.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Another Planet Entertainment presents: The Joint Tour",
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17868865",
-   "title": "Kabaka Pyramid",
-   "start": "2026-11-18T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "The UC Theatre",
-   "address": "2036 University Ave, Berkeley,  Berkeley, CA, 94704",
-   "locality": "Berkeley",
-   "geo": [
-    37.8718207,
-    -122.2697649
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/kabaka-pyramid-tickets",
-   "ticket_url": "https://www.theuctheatre.org/shows/kabaka-pyramid-18-nov#tickets",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Kabaka Pyramid\nWednesday, November 18 | The UC Theatre",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34547611/1bc1b7b8-9b4c-4473-8569-76757019a37d.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Listed time is doors"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17877344",
-   "title": "Caitlin Peluffo",
-   "start": "2026-11-18T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Punch Line San Francisco",
-   "address": "444 Battery St, San Francisco, CA, 94111",
-   "locality": "San Francisco",
-   "geo": [
-    37.795486,
-    -122.4001359
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/caitlin-peluffo-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fcaitlin-peluffo-san-francisco-california-11-18-2026%2Fevent%2F1C00653697A1B1ED",
-   "price_text": "18+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Doors open one hour before the show. This show is 18 & over with valid, government-issued photo ID. There is a two beverage minimum per person. Cameras and video/audio recording devices are not permitted. $.25 per each ticket sold for a majority of events at Punch Line benefits Comedy Gives Back, a safety net for the comedy community. For more information, please visit www.comedygivesback.com Our events often run for multiple dates/times. Before purchasing, please ensure that you can attend the specific event, date, and time that is listed on the event page. There are no refunds/exchanges unless an event is cancelled/postponed.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34589085/0aaaf3e1-06e3-4682-9c3b-bb96f64de85b.png",
-   "categories": [
-    "Comedy"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18007711",
-   "title": "Lapses, Half Rotten Goddes and E.F. Luka",
-   "start": "2026-11-18T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Kilowatt",
-   "address": "3160 16th St, San Francisco, CA, 94103",
-   "locality": "San Francisco",
-   "geo": [
-    37.7650767,
-    -122.423278
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/lapses-half-rotten-goddes-and-e-f-luka-tickets",
-   "ticket_url": "https://link.dice.fm/l9aeda986a34?pid=717f1d8a",
-   "price_text": "Free, 21+",
-   "is_free": true,
-   "sold_out": false,
-   "description": "FREE LIVE LOCAL MUSIC AT KILOWATT.\n\nPresented by Kilowatt.\n\nThis is a 21+ event",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35188245/3205a4d3-629a-4465-aecb-939be2440621.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Presented by Kilowatt."
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18045416",
-   "title": "LITQUAKE: Saira Mohamed - What a Country Owes Its Soldiers",
-   "start": "2026-11-18T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "KALW @ 220 Montgomery",
-   "address": "220 Montgomery St, San Francisco, CA, 94104",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://dothebay.com/events/2026/11/18/litquake-saira-mohamed-what-a-country-owes-its-soldiers-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fsaira-mohamed-what-a-country-owes-its-soldiers-tickets-1999212083158%3Faff%3Doddtdtcreator",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Join Mohamed as she discusses her new book, arguing compassionately for policies that convey genuine respect for soldiers’ humanity\n\nFREE, $10–15 suggested donation\n\nCo-presented with KALW\n\nLegal scholar Saira Mohamed has focused her career on the ethics of armed conflict and mass atrocity, in particular on the legal obligations of governments around the world to protect and care for their military personnel. At a time when our own leaders publicly extol the contributions of soldiers and veterans but strategically dismantle their support systems, not to mention their sense of safety, these questions—at the intersections of law and ethics—are more essential than ever. Join Mohamed as she discusses her new book What a Country Owes Its Soldiers, deeply informed by her research and arguing compassionately for policies that convey genuine respect for soldiers’ humanity. In conversation with journalist and Pulitzer Prize finalist Aaron Glantz, author of War Comes Home: Washington's Battle against America's Veterans. Doors at 6:30pm.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35343159/25a4d632-56e3-44fc-b445-874081eab678.jpg",
-   "categories": [
-    "Literature"
-   ],
-   "notes": [
-    "KALW Public Media"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17139513",
-   "title": "Outlander in Concert",
-   "start": "2026-11-18T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "Golden Gate Theatre",
-   "address": "1 Taylor St, San Francisco, CA, 94102",
-   "locality": "San Francisco",
-   "geo": [
-    37.7825715,
-    -122.4110742
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/outlander-in-concert-tickets",
-   "ticket_url": "https://us.atgtickets.com/events/outlander-in-concert/",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "US Tour - 6 venues\n\nExperience the official Outlander in-concert event! A live orchestra performs Bear McCreary’s acclaimed score, curated by showrunner Matthew B. Roberts, while highlights from eight seasons illuminate the screen.\n\nKings Theatre\n\nSat, Sep 26, 2026\n\nFisher Theatre\n\nTue, Oct 6, 2026\n\nGolden Gate Theatre\n\nFri, Nov 13, 2026\n\nSmart Financial Centre\n\nSun, Nov 29, 2026\n\nMajestic Theatre\n\nTue, Dec 1, 2026\n\nMahalia Jackson Theater\n\nWed, Dec 2, 2026",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31110865/6ea2cb4b-7d98-443e-a70b-7fd6440862aa.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17350340",
-   "title": "Jenny Tian: Ripe",
-   "start": "2026-11-18T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "comedy",
-   "venue": "Cobb's Comedy Club",
-   "address": "915 Columbus Ave, San Francisco, CA, 94133",
-   "locality": "San Francisco",
-   "geo": [
-    37.802989,
-    -122.4143902
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/jenny-tian-ripe-tickets",
-   "ticket_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjenny-tian-ripe-san-francisco-california-11-18-2026%2Fevent%2F1C0064AC13A553C5",
-   "price_text": "18+",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Jenny Tian: Ripe\nWednesday, November 18 | Cobb's Comedy Club",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32084327/6d764d92-2275-4d14-99d4-1681c10a68bf.png",
-   "categories": [
-    "Comedy"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17647968",
-   "title": "Josh Rouse, with opener Mary Bragg",
-   "start": "2026-11-18T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "music",
-   "venue": "Almost Famous Wine Lounge",
-   "address": "2271 S Vasco Rd, STE D, Livermore, CA, 94550",
-   "locality": "Livermore",
-   "geo": [
-    37.676226,
-    -121.71957
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/josh-rouse-tickets",
-   "ticket_url": "https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fjosh-rouse-tickets-1994313843391%3Faff%3Ddothebay",
-   "price_text": "21+ | Tickets start at $24",
-   "is_free": false,
-   "sold_out": false,
-   "description": "Hailed by NPR as “one of contemporary music’s most engaging singer-songwriters,” Josh Rouse is on tour with his new album\n\n21+ | Bar opens 6:30 pm. Happy hour 6:30 – 7 pm. Opener starts 7:30 pm. Headliner starts 8:15pm.\n\nTwo-drink minimum per guest. Come early for happy hour specials!\n\nHEADLINER: Hailed by NPR as “one of contemporary music’s most engaging singer-songwriters,” Josh Rouse first emerged with his stunning 1998 debut, Dressed Up Like Nebraska, which Billboard proclaimed a “dark horse gem.” In the years to come, he would continue to refine his warm, ruminative sound, releasing thirteen more critically acclaimed albums, performing everywhere from Glastonbury to Massey Hall, and taking home a prestigious Goya Award (the Spanish equivalent of an Oscar) for his song \"Do You Really Want To Be In Love.\" Josh just released his 15th album, Museums and Women, on October 23rd, 2026.\n\nOPENER: Mary Bragg has been creating memorable music from a very human place for years. Over five albums, she has quietly become one of Americana's most admired artists. World Cafe praised her “refined, sumptuously melancholy take on southern storytelling.” NPR called her breakout 2017 release Lucky Strike “one the year's best,” for how it “subtly refined the folk-country singer-songwriter template,” while Rolling Stone hailed 2019's Violets as Camouflage for its“mix of classic country twang and gentle chamber-pop.” Her new album Secrets to Strangers just released on October 16th, 2026.\n\nPerform...",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33504228/933bfc4e-00e9-4de3-b80c-7f97a265757a.jpg",
-   "categories": [
-    "Music"
-   ],
-   "notes": [
-    "Almost Famous Wine"
-   ]
-  },
-  {
-   "source": "dothebay",
-   "source_id": "17979579",
-   "title": "Married To The Mob",
-   "start": "2026-11-18T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Alamo Drafthouse Cinema",
-   "address": "2550 Mission St, San Francisco, CA, 94110",
-   "locality": "San Francisco",
-   "geo": [
-    37.7562198,
-    -122.419185
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/married-to-the-mob-tickets",
-   "ticket_url": "https://drafthouse.com/sf/show/married-to-the-mob?cinemaId=0802&sessionId=22955",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "An undercover FBI agent falls in love with a recently widowed mafia wife, who is trying to restart her life following her husband's murder while being pursued by a libidinous mafia kingpin seeking to claim her for himself.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35067960/4a847572-a740-4c4d-8386-6341bd3e9923.jpg",
-   "categories": [
-    "Film"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18006639",
-   "title": "Planes, Trains and Automobiles",
-   "start": "2026-11-18T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "Balboa Theater",
-   "address": "3630 Balboa St, San Francisco, CA, 94121",
-   "locality": "San Francisco",
-   "geo": [
-    37.7760419,
-    -122.498063
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/planes-trains-and-automobiles-tickets",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20325?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Easily excitable Neal Page (Steve Martin) is somewhat of a control freak. Trying to get home to Chicago to spend Thanksgiving with his wife (Laila Robins) and kids, his flight is rerouted to a distant city in Kansas because of a freak snowstorm, and his sanity begins to fray. Worse yet, he is forced to bunk up with talkative Del Griffith (John Candy), whom he finds extremely annoying. Together they must overcome the insanity of holiday travel to reach their intended destination.\n\nPresented on 35mm by Odyssey Film Institute. Dedicated to the exhibition of cinema on celluloid film. Screenings, Projection Workshops, and Discussions. All exhibited in 16mm and 35mm film.\n\nThis film can be used with loyalty cards or our 2026 annual CinemaSFBay passes",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35182912/a3e031f7-d258-4d87-9610-5159a8f5d893.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18016464",
-   "title": "Electric Dreams",
-   "start": "2026-11-18T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "film",
-   "venue": "Cinema SF",
-   "address": "2200 Clement Street, San Francisco, CA 94121 , San Francisco, CA, 94117",
-   "locality": "San Francisco",
-   "geo": [
-    37.782364,
-    -122.482951
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/electric-dreams-tickets",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20335?siteToken=d2atbcege5knqsavntt91g1250",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "The most unusual triangle in the history of love: a boy, a girl, and a computer.\n\nMiles Harding buys a state-of-the-art computer that starts expressing conscious thought and emotion after an interaction with spilled champagne. Things begin getting out of hand when both Miles and Edgar, the computer, fall in love with beautiful neighbor Madeline Robistat.",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35225090/670fc09b-32e2-47bc-9cc7-b384220c542d.jpg",
-   "categories": [
-    "Film"
-   ],
-   "notes": []
-  },
-  {
-   "source": "dothebay",
-   "source_id": "18017412",
-   "title": "Electric Dreams",
-   "start": "2026-11-18T19:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "bucket": "stage",
-   "venue": "4 Star Theater",
-   "address": "2200 Clement St, San Francisco, CA, 94121",
-   "locality": "San Francisco",
-   "geo": [
-    37.782364,
-    -122.482951
-   ],
-   "url": "https://dothebay.com/events/2026/11/18/electric-dreams-tickets-0zmaayj",
-   "ticket_url": "https://ticketing.uswest.veezi.com/purchase/20335?siteToken=d2atbcege5knqsavntt91g1250",
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "HI NRG presents:\n\nELECTRIC DREAMS\n\nThe most unusual triangle in the history of love: a boy, a girl, and a computer.\n\nMiles Harding buys a state-of-the-art computer that starts expressing conscious thought and emotion after an interaction with spilled champagne. Things begin getting out of hand when both Miles and Edgar, the computer, fall in love with beautiful neighbor Madeline Robistat.\n\nFor our Annual Pass Members and Loyalty Card Holders:\n\nTickets for this film can be acquired in-person at the Box Office with loyalty cards or our Annual CinemaSF passes.\n\nHI NRG curated DJ SET at 7:00 PM | FILM at 7:30 PM",
-   "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35269842/e033779b-8aec-4a82-b067-861a2e011601.jpg",
-   "categories": [
-    "Theatre & Performing Arts"
-   ],
    "notes": []
   },
   {
@@ -35308,174 +34594,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1637258",
-   "title": "“Biblio Bistro” Farmers’ Market Cooking School | UN Plaza",
-   "start": "2026-11-18T11:00:00-08:00",
-   "end": "2026-11-18T14:00:00-08:00",
-   "all_day": false,
-   "bucket": "food-drink",
-   "venue": "UN Plaza",
-   "address": "Market St. & Hyde St, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/biblio-bistro-farmers-market-cooking-school-un-plaza-122/",
-   "ticket_url": "http://sfpl.org/index.php?pg=1100000001",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event Organizer“Biblio Bistro” Farmers’ Market Cooking School | UN Plaza\nMarianna Nobre\nWondering how to prepare the beautiful produce that our local farmers are growing and selling at the Farmers Market? Come check out a live demonstration of how to sauté a featured vegetable at the Heart of the City Farmers Market with Biblio Bistro, the Library’s mobile kitchen.\nBiblio Bistro will be at the Farmers Market every 3rd Wednesday of the month, weather permitting.\n\n– Updated 6/26/19 – Event info last checked via website\n\nUpcoming “Biblio Bistro” Farmers’ Market Cooking School | UN Plaza Events\nWed 10/21 “Biblio Bistro” Farmers’ Market Cooking School | UN PlazaWed 11/18 “Biblio Bistro” Farmers’ Market Cooking School | UN PlazaWed 12/16 “Biblio Bistro” Farmers’ Market Cooking School | UN PlazaDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2016/03/Biblio-Bistro-1.jpg",
-   "categories": [
-    "Eating Drinking"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1641647",
-   "title": "Free Admission Day at Yerba Buena Center for the Arts (YBCA)",
-   "start": "2026-11-18T11:00:00-08:00",
-   "end": "2026-11-18T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission Street San Francisco, CA 94103",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-ybca-162/",
-   "ticket_url": "https://www.ybca.org/visit-us",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerFree Admission Day at Yerba Buena Center for the Arts (YBCA)\nYerba Buena Center for the Arts\nOpened to the public in 1993, YBCA was founded as the cultural anchor of San Francisco’s Yerba Buena Gardens neighborhood. Our work spans the realms of contemporary art, performance, film, civic engagement, and public life. Centering artists as essential to social and cultural movement, YBCA is reimagining the role an arts institution can play in the community it serves.\nYBCA is located in the heart of San Francisco’s SOMA neighborhood, across the street from SFMOMA and the Moscone Convention Center. The main entrance to our galleries and forum event space is at 701 Mission Street. The main entrance to our theater is 700 Howard Street.\n\nYBCA is open Wednesday–Sunday, 11–5pm.\nEntry to YBCA Galleries is free every Wednesday\nTicketing\nGalleries\nMembers: Free\nAdult (18+): $10\nStudents & Seniors: $5\nYouth (17 and under), Military Personnel, & Museums for All: Free\nWednesdays: Free\nEmployees of other museums with current valid staff ID receive free general admission for themselves and one guest.\nMuseums for All\nYBCA offers free admission for Medi-Cal and EBT card holders as part of the Museums for All program. Benefits card required upon entry. Tickets must be purchased at the ticketing desk at YBCA.\nHours\nGalleries\nWed–Sun: 11 AM–5 PM\nMon–Tues: Closed\n\nUpcoming Free Admission Day at Yerba Buena Center for the Arts (YBCA) Events\nWed 10/14 Free Admission Day a...",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/01/ybca-building.png",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1645079",
-   "title": "Free Tours at Ace in Makerspace",
-   "start": "2026-11-18T12:00:00-08:00",
-   "end": "2026-11-18T13:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Ace Makerspace",
-   "address": "6050 Lowell St., Ste. 214, Oakland, CA 94608",
-   "locality": "Oakland",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-tours-ace-makerspace/",
-   "ticket_url": "https://www.acemakerspace.org/calendar/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerAceThis tour goes all the way through the 6 rooms at Ace! Your tour guide will take you through all the basics and can provide help signing up as a member.\nPlease DO NOT arrive more than 5 min. early or late as we will not be able to accommodate extra tours or early starts.\n\nIf you get here really early there is a beer garden on the corner that serves a great pint or lemonade.\nThank You.\nPlease note that there are stairs involved.\nAce Makerspace is a 501(c)(3) nonprofit member-supported organization. All proceeds support Ace Makerspace and help us serve over 1200 people a year with innovative programs, equitable access to makerspace resources, and more creative, self-reliant communities in Oakland.\nNOVEMBER DATES AND TIMES:\n11/4/26 7:00 PM 8:00 PM\n11/18/26 7:00 PM 8:00 PM\n11/14/26 12:00 PM 1:00 PM\n11/28/26 12:00 PM 1:00 PM",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Tour1.jpg",
-   "categories": [
-    "Walks Tours Event Types Event"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1645194",
-   "title": "Pequeños en Movimiento / Little Movers",
-   "start": "2026-11-18T14:00:00-08:00",
-   "end": "2026-11-18T15:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Shared Arts Center",
-   "address": "99 Notre Dame Ave. San Jose, CA 95113",
-   "locality": null,
-   "geo": null,
-   "url": "https://sf.funcheap.com/pequeos-en-movimiento-movers/",
-   "ticket_url": "https://www.eventbrite.com/e/movimiento-y-bienestar-pequenos-en-movimiento-little-movers-tickets-2000516401409?msockid=21ef32c8419761260af0274440c96092",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerJMM Dance Co\nPequeños en Movimiento / Little Movers: a free dance, music and play class for babies, toddlers and their grown-ups\nWednesday, Nov. 18, 2–3 p.m.\nShared Arts Center, Medium Studio 1, 99 Notre Dame Ave., San José, CA 95113\nFree. No dance experience needed. Strollers welcome. Walk-ins welcome.\nRSVP: Eventbrite\nThis program is supported by a take pART grant from the City of San José Office of Cultural Affairs.\nBilingual",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/image2.jpg",
-   "categories": [
-    "Kids Families"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1645582",
-   "title": "Free Art Workshop: Velveteen Rabbit Pop-up Book (YBCA)",
-   "start": "2026-11-18T14:00:00-08:00",
-   "end": "2026-11-18T16:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-art-workshop-velveteen-rabbit-popup-book-ybca-2/",
-   "ticket_url": "https://bit.ly/4hyAzCv",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Photo by Robby SweenyCreate art inspired by our programming at this drop-in art workshop! All ages welcome, all materials provided.\nDesign an imaginative pop-up book featuring characters from the story of “The Velveteen Rabbit.”",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/velveteen-rabbit-pop-up-book_1200-x-675-px.png",
-   "categories": [
-    "Art Museums"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1646582",
-   "title": "Inside the AI Talent Race: Sierra, Decagon & Your Next Hire",
-   "start": "2026-11-18T14:00:00-08:00",
-   "end": "2026-11-18T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Metix AI, 7th Floor",
-   "address": "650 California Street, 7th Floor, San Francisco, CA 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/ai-talent-race-sierra-decagon-hire/",
-   "ticket_url": "https://luma.com/eyp5r2p6",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerMetix AIWhere does the talent behind Sierra and Decagon come from, and what can other hiring teams learn from it? Join a free research briefing and practical hiring roundtable by Metix AI. Its published talent map covers 5,537 employees across 12 AI customer-service companies, using August 2026 data. Recruiters, People practitioners and hiring founders will discuss talent pools and role requirements, then work on a hiring question, role brief or JD of their own. A JD is optional. Metix AI is trusted by MiniMax and Dyna Robotics. The afternoon includes a 15-minute Metix workflow demonstration, peer discussion, free food and drinks. November 18, 2026, 2–5 PM PST, 650 California Street, 7th Floor, San Francisco. 15 places, then a waitlist. Registration is required: https://luma.com/eyp5r2p6",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/11/Bring_Your_JD_Approved_Navy_B_15_Seats_Funcheap.jpg",
-   "categories": [
-    "Lectures Workshops"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1041",
-   "title": "SF’s Embarcadero Center 40th Annual Lighting Ceremony & Holiday Market (2026)",
-   "start": "2026-11-18T16:00:00-08:00",
-   "end": "2026-11-18T18:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Embarcadero Center",
-   "address": "Sacramento and Front, San Francisco, CA 94111",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/embarcadero-center-lighting-ceremony/",
-   "ticket_url": "https://embarcaderocenter.com/holiday-market-copy-page-format-for-2026/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "BXP\n\nShop local & watch Embarcadero Center light up the sky this holiday season!\n\nJoin Us for a Magical Evening at a Holiday Market! 🎄\nGet into the festive spirit with an unforgettable evening of holiday cheer! Explore a vibrant marketplace filled with local shops, groove to live music, sip festive drinks, enjoy family friendly activities, and indulge in delicious seasonal bites.\n\nAs the evening winds down, gather for the dazzling grand finale—watch Embarcadero Center light up the sky with 17,000 sparkling lights, for the 40th year in a row✨\n⏰ Pro tip: Arrive early! The first 400 guests will receive a complimentary drink token or food voucher.\n—————————\n📅 Save the Date: Wednesday, November 18th\n🕓 Time: 4 PM – 6 PM\n📍 Location: Urban Patio of Three Embarcadero Center (Street Level & Adjacent Retail Space)\n☔ Rain or Shine Event\n—————————\n🎟️ Admission is FREE — first come, first served. Must be 21 years or older to consume alcohol. A valid I.D. or Driver’s License is required upon entry.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2022/11/image006.png",
-   "categories": [
-    "Kids Families"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1641661",
    "title": "$1 Wing Wednesdays at Underdogs Cantina (SoMa)",
    "start": "2026-11-18T16:30:00-08:00",
@@ -35596,54 +34714,6 @@
   },
   {
    "source": "funcheap",
-   "source_id": "1644988",
-   "title": "Free Talk “SF Housing 101” Why Upzoning May Return in 2027",
-   "start": "2026-11-18T18:00:00-08:00",
-   "end": "2026-11-18T19:30:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Eureka Valley Recreation Center",
-   "address": "100 Collingwood Street, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/free-talk-sf-housing-101-upzoning-return-2027/",
-   "ticket_url": "https://www.zeffy.com/en-US/ticketing/circuit-breaker-101-learn-how-and-why-sf-will-need-to-upzone-again-in-2027-copy",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerSF YIMBYSan Francisco’s Family Zoning Plan turned back decades of exclusionary zoning and is expected to generate meaningfully more housing for the city, but it still isn’t enough to meet the state’s mandated housing targets. Join us on Wednesday, November 18th at the Eureka Valley Rec Center, where housing activist Robert Fruchtman will explain the “circuit breaker” built into the Family Zoning Plan to ensure the city hits its housing goals.\nYou’ll learn what San Francisco promised the state, and what additional zoning and policy changes might be needed to get there. Join us to learn more about solving SF’s housing affordability crisis.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/What-is-the-CIRCUIT-BREAKER_.png",
-   "categories": [
-    "Community"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1645100",
-   "title": "Chess Lecture at the Bernal Library",
-   "start": "2026-11-18T18:00:00-08:00",
-   "end": "2026-11-18T19:30:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Bernal Heights Branch Library",
-   "address": "500 Cortland Avenue, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/chess-lecture-bernal-library-21/",
-   "ticket_url": "https://bernalchess.com/",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event Organizerbernalchess.comJoin the Bernal Chess Club for our monthly lecture at the Bernal Heights Library. At 6pm we’ll learn about a beautiful game from chess history, followed by time for casual combat for those who want to play. All levels and ages are welcome. Bring a chess set if you have one.\nBernal Heights Branch Library, 500 Cortland Ave. (Downstairs)\n\nMore info at www.bernalchess.com",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/10/library_chess_rect.jpg",
-   "categories": [
-    "Lectures Workshops"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
    "source_id": "1646446",
    "title": "Tracy Gary, Shannon Kollasch, & Kimberly Weichel – Redesigning Nonprofits",
    "start": "2026-11-18T18:00:00-08:00",
@@ -35711,30 +34781,6 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/795430663_18031112828897469_115452629079591010_n-1.jpg",
    "categories": [
     "Outdoors"
-   ],
-   "notes": []
-  },
-  {
-   "source": "funcheap",
-   "source_id": "1638670",
-   "title": "Progressive Art Studio Models: A Lecture By Cléa Massiani",
-   "start": "2026-11-18T18:30:00-08:00",
-   "end": "2026-11-18T19:30:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": "Yerba Buena Center for the Arts",
-   "address": "701 Mission St, San Francisco, CA",
-   "locality": "San Francisco",
-   "geo": null,
-   "url": "https://sf.funcheap.com/progressive-art-studio-models-lecture-cla-massiani/",
-   "ticket_url": "https://bit.ly/4xyRuev",
-   "price_text": null,
-   "is_free": true,
-   "sold_out": false,
-   "description": "Submitted by the Event OrganizerCourtesy of Creativity Explored. Photo by Peter Prato.Join us for a lecture from Cléa Massiani on Progress Art Studios (PAS); radical spaces that support artists with intellectual and developmental disabilities.\nLearn more about PAS within a lineage of artist-led, independent spaces that resisted dominant institutional models of production and exhibition.",
-   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2026/09/progressive-art-studio-models_1200-x-675-px.png",
-   "categories": [
-    "Art Museums"
    ],
    "notes": []
   },
@@ -54038,6 +53084,30 @@
   },
   {
    "source": "funcheap",
+   "source_id": "1648956",
+   "title": "SF History Night | Pacific Heights",
+   "start": "2027-01-26T19:00:00-08:00",
+   "end": "2027-01-26T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Congregation Sherith Israel Newman Hall",
+   "address": "2266 California St, San Francisco, CA 94115",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sf-history-night-pacific-heights-102/",
+   "ticket_url": "http://sanfranciscohistory.org/meetings/",
+   "price_text": "$10.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerSF History Night | Pacific Heights\nSherith Israel circa 1910 via OpenSFHistory\nThe San Francisco History Association hosts monthly talks which explore our city’s enchanting history in depth.\nEach month, a local history expert hosts a themed talk usually accompanied by a slide show with light refreshments.\n\nMonthly presentations cover a dizzyingly diverse variety of SF history aspects, from the history of the San Francisco Fire Department to appreciation of our unique Victorian houses to vintage stories and photos from Playland-at-the-Beach.\nSan Francisco History Association Meeting\nThe last Tuesday of every month (except December)\n– Doors open at 7 pm; program begins about 7:45 pm\n– Newman Hall, Congregation Sherith Israel, 2266 California (at Webster), SF 94115.\n– $10 General Public; FREE if you’re an SFHA Member\n\nUpcoming SF History Night | Pacific Heights Events\nTue 12/29 SF History Night | Pacific HeightsTue 1/26 SF History Night | Pacific HeightsTue 2/23 SF History Night | Pacific HeightsDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2014/03/24831129_10154925430170741_2354509205830379520_o1.jpg",
+   "categories": [
+    "Lectures Workshops"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
    "source_id": "1648693",
    "title": "Coit Comedy: Stand Up Comedy & Free Golden Boy Pizza | SF",
    "start": "2027-01-28T20:00:00-08:00",
@@ -55015,6 +54085,30 @@
    "image_url": "https://cdn.funcheap.com/wp-content/uploads/2023/08/360044403_2127428974132877_6926067249621104259_n.jpeg",
    "categories": [
     "Outdoors"
+   ],
+   "notes": []
+  },
+  {
+   "source": "funcheap",
+   "source_id": "1648958",
+   "title": "SF History Night | Pacific Heights",
+   "start": "2027-02-23T19:00:00-08:00",
+   "end": "2027-02-23T22:00:00-08:00",
+   "all_day": false,
+   "bucket": "arts-community",
+   "venue": "Congregation Sherith Israel Newman Hall",
+   "address": "2266 California St, San Francisco, CA 94115",
+   "locality": "San Francisco",
+   "geo": null,
+   "url": "https://sf.funcheap.com/sf-history-night-pacific-heights-103/",
+   "ticket_url": "http://sanfranciscohistory.org/meetings/",
+   "price_text": "$10.00",
+   "is_free": false,
+   "sold_out": false,
+   "description": "Submitted by the Event OrganizerSF History Night | Pacific Heights\nSherith Israel circa 1910 via OpenSFHistory\nThe San Francisco History Association hosts monthly talks which explore our city’s enchanting history in depth.\nEach month, a local history expert hosts a themed talk usually accompanied by a slide show with light refreshments.\n\nMonthly presentations cover a dizzyingly diverse variety of SF history aspects, from the history of the San Francisco Fire Department to appreciation of our unique Victorian houses to vintage stories and photos from Playland-at-the-Beach.\nSan Francisco History Association Meeting\nThe last Tuesday of every month (except December)\n– Doors open at 7 pm; program begins about 7:45 pm\n– Newman Hall, Congregation Sherith Israel, 2266 California (at Webster), SF 94115.\n– $10 General Public; FREE if you’re an SFHA Member\n\nUpcoming SF History Night | Pacific Heights Events\nTue 12/29 SF History Night | Pacific HeightsTue 1/26 SF History Night | Pacific HeightsTue 2/23 SF History Night | Pacific HeightsDisclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+   "image_url": "https://cdn.funcheap.com/wp-content/uploads/2014/03/24831129_10154925430170741_2354509205830379520_o1.jpg",
+   "categories": [
+    "Lectures Workshops"
    ],
    "notes": []
   },
@@ -57272,37 +56366,6 @@
   },
   {
    "source": "sf-street-events-pending",
-   "source_id": "1643878-2026-11-18T08:00:00-08:00",
-   "title": "Folsom Streetscape Project Ribbon Cutting",
-   "start": "2026-11-18T08:00:00-08:00",
-   "end": "2026-11-18T13:00:00-08:00",
-   "all_day": false,
-   "bucket": "street-events-pending",
-   "venue": "Mabini St between Folsom St and Bonifacio St",
-   "address": null,
-   "locality": "San Francisco",
-   "geo": [
-    37.782429,
-    -122.400104
-   ],
-   "url": "https://data.sf.gov/d/8x25-yybr",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Closed: Mabini St from Folsom St to Bonifacio St",
-   "image_url": null,
-   "categories": [
-    "Special Event"
-   ],
-   "notes": [
-    "Permit status: Submitted",
-    "Times are SFMTA street-closure permit times and include setup and teardown",
-    "Source: DataSF Temporary Street Closures"
-   ]
-  },
-  {
-   "source": "sf-street-events-pending",
    "source_id": "1589716-2026-11-20T22:30:00-08:00",
    "title": "Microsoft Ignite 2026",
    "start": "2026-11-20T22:30:00-08:00",
@@ -57706,31 +56769,6 @@
   },
   {
    "source": "sfciviccenter",
-   "source_id": "2019069d90599e4e",
-   "title": "Moving San Francisco: SFMTA Photos 1903-Now",
-   "start": "2026-11-25T08:00:00-08:00",
-   "end": "2026-11-25T17:00:00-08:00",
-   "all_day": false,
-   "bucket": "arts-community",
-   "venue": null,
-   "address": null,
-   "locality": null,
-   "geo": null,
-   "url": "https://sfciviccenter.org/event/moving-san-francisco-sfmta-photos-1903-now/",
-   "ticket_url": null,
-   "price_text": null,
-   "is_free": false,
-   "sold_out": false,
-   "description": "Moving San Francisco: Views from the SFMTA Photo Archive 1903 – Now at City Hall features, “an exhibition that celebrates the history of Muni and the evolution of our city with a collection of images from the SFMTA Photo Archive.” From the Francisco Arts Commission (SFAC), in partnership with the San Francisco Municipal Transportation Agency’s (SFMTA) Photo Archive, Moving San Francisco will be on display on the Ground Floor and North Light Court at City Hall through November 25, 2026.",
-   "image_url": null,
-   "categories": [
-    "Art",
-    "Community"
-   ],
-   "notes": []
-  },
-  {
-   "source": "sfciviccenter",
    "source_id": "6222462c6f7bc366",
    "title": "San Francisco Opera End of Year Public Market",
    "start": "2026-11-29T11:30:00-08:00",
@@ -57797,7 +56835,7 @@
    "price_text": null,
    "is_free": false,
    "sold_out": false,
-   "description": "Join us for a festive evening at Civic Center Plaza as we illuminate the holiday season! The annual Civic Center Plaza Tree Lighting event returns December 2, 4-7pm! Add this fun, free, family-friendly event to your holiday calendar; featuring festive performances, with the night’s lineup including music, performances, and appearances from The Tap Dancing Christmas Trees, the San Francisco Boys Chorus, the Festivus Band, the Grinch and the man-of-the-hour: Santa! With the night of performances all led by the Master of Ceremonies: award-winning performer Rotimi Agbabiaka!\nRSVP for an event day reminder on Eventbrite.\nThe event also features “snow” flurries, where kids (and kids at heart) can twirl and dance through the falling snow, while in the Makers Village, the San Francisco Public Library will host a book giveaway and SF Etsy will lead holiday-themed activities: play snow, holiday crowns, ornament painting, letter writing to Santa, and coloring station! Bites will be available for purchase, along with a full bar featuring seasonal favorites.\nThe event takes place across from an illuminated City Hall in Civic Center Plaza. Event begins promptly at 4pm, with the lighting of Civic Center’s 50-foot noble fir at 5:30pm. Happening rain or shine!\nThose who are not walking to the event are encouraged to take BART/Muni or park in the Civic Center Garage.\n\nThis event is supported by lead sponsor Streetplus along with Cordia Energy, Plant Construction Company, and Swinerton; and bro...",
+   "description": "Join us for a festive evening at Civic Center Plaza as we illuminate the holiday season! The annual Civic Center Plaza Tree Lighting event returns December 2, 4-7pm! Add this fun, free, family-friendly event to your holiday calendar; featuring festive performances, with the night’s lineup including music, performances, and appearances from The Tap Dancing Christmas Trees, the San Francisco Boys Chorus, the Festivus Band, the Grinch and the man-of-the-hour: Santa! With the night of performances all led by the Master of Ceremonies: award-winning performer Rotimi Agbabiaka!\nRSVP for an event day reminder on Eventbrite.\nThe event also features “snow” flurries, where kids (and kids at heart) can twirl and dance through the falling snow, while in the Makers Village, the San Francisco Public Library will host a book giveaway and SF Etsy will lead holiday-themed activities: play snow, holiday crowns, ornament painting, letter writing to Santa, and coloring station! Bites will be available for purchase, along with a full bar featuring seasonal favorites.\nThe event takes place across from an illuminated City Hall in Civic Center Plaza. Event begins promptly at 4pm, with the lighting of Civic Center’s 50-foot noble fir at 5:30pm. Happening rain or shine!\nThose who are not walking to the event are encouraged to take BART/Muni or park in the Civic Center Garage.\n\nThis event is supported by lead sponsor Streetplus along with Cordia Energy, Hathaway Dinwiddie Construction Company, Plant Con...",
    "image_url": null,
    "categories": [
     "Community",
@@ -58377,7 +57415,6 @@
     "1641798": "2026-10-19T23:42:31",
     "1641808": "2026-10-14T16:31:42",
     "1641823": "2026-10-14T16:31:22",
-    "1641826": "2026-10-12T09:37:25",
     "1641835": "2026-10-14T16:31:19",
     "1641849": "2026-11-03T17:34:48",
     "1641858": "2026-10-25T20:04:15",
@@ -58405,7 +57442,6 @@
     "1642035": "2026-10-14T16:30:01",
     "1642038": "2026-10-20T18:44:10",
     "1642041": "2026-10-20T18:41:49",
-    "1642050": "2026-10-12T10:08:49",
     "1642056": "2026-10-31T19:15:00",
     "1642059": "2026-10-18T18:23:13",
     "1642065": "2026-10-25T16:08:38",
@@ -59564,6 +58600,8 @@
     "1648853": "2026-11-25T09:54:42",
     "1648855": "2026-11-25T09:55:32",
     "1648856": "2026-11-25T09:55:46",
+    "1648956": "2026-11-26T03:14:24",
+    "1648958": "2026-11-26T03:14:25",
     "165284": "2026-10-28T22:14:53",
     "2530": "2026-11-07T00:47:01",
     "412837": "2026-11-25T09:14:35",
@@ -59777,6 +58815,11 @@
    "sequence": 0,
    "last_modified": "2026-11-23T13:03:44.434573Z"
   },
+  "caldiscovery-comedy-c71bfebfad755aaa@sf-cal": {
+   "content_hash": "e2ee0e74b57cdd927cd848aff2d106996863f379e4201632c9e403cd74c1830b",
+   "sequence": 0,
+   "last_modified": "2026-11-26T03:37:48.216373Z"
+  },
   "caldiscovery-comedy-cbc89b6d62b998a3@sf-cal": {
    "content_hash": "eff9a650c304136faeb14acf3eda13d6cfee214364d6239a76684c438bad89a8",
    "sequence": 0,
@@ -59963,9 +59006,9 @@
    "last_modified": "2026-11-12T11:26:17.218755Z"
   },
   "caldiscovery-festival-93a156ab5dbdcd56@sf-cal": {
-   "content_hash": "fb23e5eec79bb22322f2b7701f0a291e0e6098fbde47630a0fe37e8b2d8434ec",
-   "sequence": 2,
-   "last_modified": "2026-11-10T07:26:52.401273Z"
+   "content_hash": "5e8643b6d77c435fc40b30847154cba0c3c61c19f81e1693a447fb6f03a978c9",
+   "sequence": 3,
+   "last_modified": "2026-11-26T03:37:48.216373Z"
   },
   "caldiscovery-festival-980c5b4bf0cddf33@sf-cal": {
    "content_hash": "51858f61731eccf97426c3e418b5652a5fee28805be7ee64866aa04e8fd34dc5",
@@ -60277,11 +59320,6 @@
    "sequence": 2,
    "last_modified": "2026-10-20T19:44:41.088494Z"
   },
-  "dothebay-17139513@sf-cal": {
-   "content_hash": "75b0436e40ebec57c938e31cef5a0fd1ba05c3c3447a42079e642d148cc3641e",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
   "dothebay-17183898@sf-cal": {
    "content_hash": "c9c672999c59c5c97e42d7c682a451ef5872ccf0426f77c9a044abcf0ee35d95",
    "sequence": 2,
@@ -60371,11 +59409,6 @@
    "content_hash": "3d0f2a8e9b1f557579a0d2def87c397d7cc76ecaf475a1796551c9a21a770e85",
    "sequence": 0,
    "last_modified": "2026-10-14T21:46:46.382284Z"
-  },
-  "dothebay-17350340@sf-cal": {
-   "content_hash": "b8486f369187a36f1816af906f417d38722fe01e65d0ea8b5753fe5530a746e3",
-   "sequence": 2,
-   "last_modified": "2026-11-19T11:49:34.582363Z"
   },
   "dothebay-17352623@sf-cal": {
    "content_hash": "a8fdc217d4634eb5c85894993a9b34e9528d9400f50a5c9804dab8545f13b322",
@@ -61127,16 +60160,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
-  "dothebay-17707517@sf-cal": {
-   "content_hash": "4650854596857e3362a18d419fdc5e15ef6a89f07c89ae1ed11e86ce4edbddce",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17707519@sf-cal": {
-   "content_hash": "1008a78f8b97782675ec201015f4f8d0dcbf5c649df430199f883033f9a4b580",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
   "dothebay-17714156@sf-cal": {
    "content_hash": "aa3c8a974a3eecf983ee15128d4dd95a1c00fbd78283d724e5c91e4ce32c51d0",
    "sequence": 0,
@@ -61521,11 +60544,6 @@
    "content_hash": "49891415d7b92ef1d3b7d94e2fa9a2b014755edae13540751a85e45c040fab5d",
    "sequence": 0,
    "last_modified": "2026-10-25T16:30:45.329813Z"
-  },
-  "dothebay-17767015@sf-cal": {
-   "content_hash": "00b747195fae08881a4f9a7b2203801cc3e46ab536b442d23b0af096f19e2d05",
-   "sequence": 1,
-   "last_modified": "2026-10-07T21:06:55.600913Z"
   },
   "dothebay-17774626@sf-cal": {
    "content_hash": "2666cb47d488c7eaf7e2745ad92047bedec86986b22bf9c4e8d8bc42341b8055",
@@ -62027,11 +61045,6 @@
    "sequence": 0,
    "last_modified": "2026-10-07T21:06:55.600913Z"
   },
-  "dothebay-17858101@sf-cal": {
-   "content_hash": "752eadf8515485b0c1e7ab90409452f76468ae0e86dfd11ff667c804b8c25b35",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
   "dothebay-17858310@sf-cal": {
    "content_hash": "8e35b8075816743b535546cec2bb262092d2f543fef19dca6dbfff449fb72023",
    "sequence": 0,
@@ -62187,11 +61200,6 @@
    "sequence": 0,
    "last_modified": "2026-11-07T17:46:31.290813Z"
   },
-  "dothebay-17877344@sf-cal": {
-   "content_hash": "451f418d1d8a301197bb708a76a16e0074d6da2939e4e04f11cb61e416f00cb5",
-   "sequence": 4,
-   "last_modified": "2026-11-19T11:49:34.582363Z"
-  },
   "dothebay-17877378@sf-cal": {
    "content_hash": "fc154f371f08fa8d86a3ba8f5ee62217b6216239ca76b0e209c37cc0088fb716",
    "sequence": 1,
@@ -62214,11 +61222,6 @@
   },
   "dothebay-17877539@sf-cal": {
    "content_hash": "135aac70723733c2bdec204055647cb7f1636166d30875dfa732d30f5b2de6f4",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:31:07.262021Z"
-  },
-  "dothebay-17878299@sf-cal": {
-   "content_hash": "14fd6d4c1f90425e92c9266b37cb6299abf285131096378d848c08b4afacf3d4",
    "sequence": 0,
    "last_modified": "2026-10-06T00:31:07.262021Z"
   },
@@ -62847,11 +61850,6 @@
    "sequence": 0,
    "last_modified": "2026-10-23T17:14:42.400470Z"
   },
-  "dothebay-17979579@sf-cal": {
-   "content_hash": "a4cca5c033a3c8606aafe9da79665a21758afabe82a2f667d1af5c01571b239b",
-   "sequence": 0,
-   "last_modified": "2026-10-23T17:14:42.400470Z"
-  },
   "dothebay-17979580@sf-cal": {
    "content_hash": "5ed886bb8ff213120df802aed6f8414ac7a524fbe1716ddf65edfcc9b7dcb79f",
    "sequence": 0,
@@ -63037,11 +62035,6 @@
    "sequence": 0,
    "last_modified": "2026-10-28T13:07:10.223012Z"
   },
-  "dothebay-17989719@sf-cal": {
-   "content_hash": "faca66f012831aa05fecbf6abd295027ef70e14223711491fae5ed35a6799401",
-   "sequence": 1,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
-  },
   "dothebay-17989980@sf-cal": {
    "content_hash": "8519bf74d4ba56ffec84d13ea38db4dd37c0700ebd7dba5bd4adce665c9dc7df",
    "sequence": 0,
@@ -63137,11 +62130,6 @@
    "sequence": 0,
    "last_modified": "2026-10-29T10:07:47.796323Z"
   },
-  "dothebay-18006639@sf-cal": {
-   "content_hash": "15822414df676dd3e77f03d6444f96b25d7934c93e593a37a42ca0afcbb534c7",
-   "sequence": 0,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
-  },
   "dothebay-18006704@sf-cal": {
    "content_hash": "73967dd314624e5177bd14a40f5df1db3f17e1102c5bf821034df06e2e9a2543",
    "sequence": 1,
@@ -63154,11 +62142,6 @@
   },
   "dothebay-18007653@sf-cal": {
    "content_hash": "7c1faa8cf683c4853a18244794881bf53cf607b0affb1e7532bd14fe3c396a17",
-   "sequence": 0,
-   "last_modified": "2026-10-29T10:07:47.796323Z"
-  },
-  "dothebay-18007711@sf-cal": {
-   "content_hash": "c45139b4e5dc4523827a588308653c7a123478e036836cf28f99bac0775a18c8",
    "sequence": 0,
    "last_modified": "2026-10-29T10:07:47.796323Z"
   },
@@ -63207,11 +62190,6 @@
    "sequence": 0,
    "last_modified": "2026-11-07T00:58:02.896323Z"
   },
-  "dothebay-18015180@sf-cal": {
-   "content_hash": "3949fac3c4495c5ff371697a6f4e37b09f9b29e139db9d87856bbcc3d9e222f6",
-   "sequence": 1,
-   "last_modified": "2026-11-18T11:53:05.988388Z"
-  },
   "dothebay-18016456@sf-cal": {
    "content_hash": "3a8d9d53697b2fc6d84359336d047f28851e732d70bea3d2aefa7a1ecc6c3a8f",
    "sequence": 1,
@@ -63219,11 +62197,6 @@
   },
   "dothebay-18016458@sf-cal": {
    "content_hash": "309b33570cbc1600e6199e1c33b9d448ae774af1969953dba6097a8d11b6b445",
-   "sequence": 1,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
-  },
-  "dothebay-18016464@sf-cal": {
-   "content_hash": "919fa2a5cd08809b42fb50e3511ac23f29ecd2fa4e06cfa2bb547704cc0c1e21",
    "sequence": 1,
    "last_modified": "2026-11-04T19:51:00.176134Z"
   },
@@ -63307,11 +62280,6 @@
    "sequence": 1,
    "last_modified": "2026-11-04T19:51:00.176134Z"
   },
-  "dothebay-18017412@sf-cal": {
-   "content_hash": "8377a0c5338bbc60533c078001b7dc62b40872d8be717328cbb5cc91a1231ef2",
-   "sequence": 1,
-   "last_modified": "2026-11-04T19:51:00.176134Z"
-  },
   "dothebay-18017416@sf-cal": {
    "content_hash": "5e858df500bad65e981bd8d42cf03e66a12f0dcc6d061ba0ef6abcc319362516",
    "sequence": 1,
@@ -63361,11 +62329,6 @@
    "content_hash": "d7168a3385f4762cfdb34f4af24ca402cc6a08de4093ee68f358e513d66bc39e",
    "sequence": 0,
    "last_modified": "2026-11-02T19:33:55.918958Z"
-  },
-  "dothebay-18028867@sf-cal": {
-   "content_hash": "52e0f4315ae379b6d5c2a7dc0900db63fb1fc74350686e416b89bae5a45bec4f",
-   "sequence": 3,
-   "last_modified": "2026-11-18T20:38:51.839045Z"
   },
   "dothebay-18028872@sf-cal": {
    "content_hash": "fcda5f17882136b8d01a8953dfd684721b1f7eb848a9379293ac69cb8c0f1c48",
@@ -63497,11 +62460,6 @@
    "sequence": 1,
    "last_modified": "2026-11-06T11:02:27.517478Z"
   },
-  "dothebay-18044246@sf-cal": {
-   "content_hash": "2c57af8230abcd456ae30f6f7d9777cf55a13619e6f62c37dcf9217ef22e9fca",
-   "sequence": 1,
-   "last_modified": "2026-11-18T11:53:05.988388Z"
-  },
   "dothebay-18044303@sf-cal": {
    "content_hash": "691b4c9e2f455ece026c26da7793187dc9abfaa672354c29e0181a7758f04b63",
    "sequence": 0,
@@ -63511,11 +62469,6 @@
    "content_hash": "4b2a391cdce3e9294d559a6d18d4d7303d510aaf2a47e7191059afa2b367c380",
    "sequence": 0,
    "last_modified": "2026-11-06T19:29:30.775776Z"
-  },
-  "dothebay-18045416@sf-cal": {
-   "content_hash": "d9c2b8ec99cd38cba92159cf246eb68daf0d0a7bc2a285368bf3f12e8e0e09e0",
-   "sequence": 0,
-   "last_modified": "2026-11-06T01:36:13.096518Z"
   },
   "dothebay-18050051@sf-cal": {
    "content_hash": "9695bc5c7c99c2bdaf83844cadcb1ebe5835eae97e25b8690e4619fc185ec61f",
@@ -63559,11 +62512,6 @@
   },
   "dothebay-18053216@sf-cal": {
    "content_hash": "8ad525fe843c1fda41de8b671432b912ae197fe18932474575f52a221ab515cb",
-   "sequence": 0,
-   "last_modified": "2026-11-09T22:28:18.990128Z"
-  },
-  "dothebay-18054052@sf-cal": {
-   "content_hash": "42277c1394c9fa70a983e92c7454f9d34b50b50a9f0824e26219cd78890febd7",
    "sequence": 0,
    "last_modified": "2026-11-09T22:28:18.990128Z"
   },
@@ -63621,11 +62569,6 @@
    "content_hash": "adc9f2805388fd675ddbe1c6315de6f73cec3494ac68bbca91c508c7a24856fd",
    "sequence": 0,
    "last_modified": "2026-11-09T22:28:18.990128Z"
-  },
-  "dothebay-18060704@sf-cal": {
-   "content_hash": "5c7948e23b535bbda7f4b54c9f9e03ab05872bf6d87a9cf94adaee627b06364a",
-   "sequence": 1,
-   "last_modified": "2026-11-16T19:40:27.675533Z"
   },
   "dothebay-18060838@sf-cal": {
    "content_hash": "dcf4ff16fd82a97a720d318dcacd57952dcb399e5e0efbe985440c812ebc2c7f",
@@ -63997,11 +62940,6 @@
    "sequence": 0,
    "last_modified": "2026-10-06T00:16:46.316286Z"
   },
-  "funcheap-1637258@sf-cal": {
-   "content_hash": "30c1b708a13d5112329029f0028a35ed9500fd95863f67ceedd80308db057456",
-   "sequence": 0,
-   "last_modified": "2026-10-06T00:16:46.316286Z"
-  },
   "funcheap-1637260@sf-cal": {
    "content_hash": "bfc8a54caafe591c7fed211d8479e8a3f7323327bcfa0657e1e29272ef96221f",
    "sequence": 0,
@@ -64254,11 +63192,6 @@
   },
   "funcheap-1641624@sf-cal": {
    "content_hash": "ae7da488195caf95320dff4b0b272e1c622c498bb172d4826d5c9182d02bdf34",
-   "sequence": 0,
-   "last_modified": "2026-10-08T10:42:32.669750Z"
-  },
-  "funcheap-1641647@sf-cal": {
-   "content_hash": "42ce61fd0dc88b15c22feaa051b8563eaa7bab453d94bb4fa90fc78e49899a89",
    "sequence": 0,
    "last_modified": "2026-10-08T10:42:32.669750Z"
   },
@@ -64711,11 +63644,6 @@
    "content_hash": "179d4685cd0f654e068a53e0e447ff456e0c0363133107d37c97ff7dc136043c",
    "sequence": 0,
    "last_modified": "2026-10-30T01:15:25.948988Z"
-  },
-  "funcheap-1644988@sf-cal": {
-   "content_hash": "3cdd46aea14e73e193674ff35abe4fa89e3b06547ff16a2a995153d6cf02f956",
-   "sequence": 0,
-   "last_modified": "2026-11-18T11:53:05.988388Z"
   },
   "funcheap-1645006@sf-cal": {
    "content_hash": "acdb1199adb4c14ad8627050031ec52c7d911430e5d4baed823db6375bd2c632",
@@ -65307,6 +64235,11 @@
    "sequence": 0,
    "last_modified": "2026-11-05T20:02:37.910796Z"
   },
+  "funcheap-1646124@sf-cal": {
+   "content_hash": "b63c45dee64bd72b5d533f4598d28824e5c907d2a28c24d31825f93da01928f2",
+   "sequence": 0,
+   "last_modified": "2026-11-26T03:37:48.216373Z"
+  },
   "funcheap-1646127@sf-cal": {
    "content_hash": "cdf525645d289d6d1abfe9fd428e801b6d83488e24c66cbed2830e354af234cc",
    "sequence": 0,
@@ -65516,11 +64449,6 @@
    "content_hash": "110eab6409fe1f7d73196893adac3b8a22b6a9309045819ed3a6d65d7d44ee1a",
    "sequence": 0,
    "last_modified": "2026-11-11T06:38:24.446576Z"
-  },
-  "funcheap-1646582@sf-cal": {
-   "content_hash": "dfc990e4ff36480c93027d517aca4f795c0ef33439de6af2f47472d17062b96e",
-   "sequence": 0,
-   "last_modified": "2026-11-18T11:53:05.988388Z"
   },
   "funcheap-1646589@sf-cal": {
    "content_hash": "0edf93b641dc385b25b598307e4e559bf91060b91126ac25f44402d976707b2b",
@@ -66647,6 +65575,16 @@
    "sequence": 0,
    "last_modified": "2026-11-25T19:22:48.821472Z"
   },
+  "funcheap-1648956@sf-cal": {
+   "content_hash": "49148e770d242b0380bc4c56d29daafd56487d1c90393dd4d557cbc25e6160cc",
+   "sequence": 0,
+   "last_modified": "2026-11-26T03:37:48.216373Z"
+  },
+  "funcheap-1648958@sf-cal": {
+   "content_hash": "9e0cddd6fc5429ef4e768f3d0a9e10f0c418e0ca90f9df50142c1c6fb63d9ff0",
+   "sequence": 0,
+   "last_modified": "2026-11-26T03:37:48.216373Z"
+  },
   "funcheap-2530@sf-cal": {
    "content_hash": "ddc6385b40eb129e3adbee24a6d7511ee1167a6b72c33dd883f7ff6a66af933a",
    "sequence": 0,
@@ -67067,25 +66005,15 @@
    "sequence": 0,
    "last_modified": "2026-10-27T22:21:29.169315Z"
   },
-  "sf-street-events-pending-1643878-2026-11-18T08:00:00-08:00@sf-cal": {
-   "content_hash": "1b7892d792d047ed219cefa64ee5bae382e21f8471d1c6700dd3603325fdd651",
-   "sequence": 0,
-   "last_modified": "2026-10-28T20:20:41.690081Z"
-  },
   "sf-street-events-pending-1643971-2026-11-28T17:00:00-08:00@sf-cal": {
    "content_hash": "1d2e55c618435502c2d70b102b57197e2515be9b8692f204649196f17e33b93b",
    "sequence": 0,
    "last_modified": "2026-10-28T20:20:41.690081Z"
   },
   "sfciviccenter-063dac71b46f481e@sf-cal": {
-   "content_hash": "4d3e1d5edeaaa6995ae45ed2cd2a61dda8d924bf104f7ea395c5f843bc5d3214",
-   "sequence": 7,
-   "last_modified": "2026-11-25T19:22:48.821472Z"
-  },
-  "sfciviccenter-2019069d90599e4e@sf-cal": {
-   "content_hash": "e0c133c54fbe37cccbfc869a61febc832365390c39d773d451b2b9d5f9c4ed9a",
-   "sequence": 0,
-   "last_modified": "2026-10-20T19:44:41.088494Z"
+   "content_hash": "e40d98d52831f716b415bc558f8ed74ba0c8330255f6b433135cc37f6492553f",
+   "sequence": 8,
+   "last_modified": "2026-11-26T03:37:48.216373Z"
   },
   "sfciviccenter-6222462c6f7bc366@sf-cal": {
    "content_hash": "9ce086b9f91c9ae1460f45125df6828340e8977870e82715e6f89b3750559e79",
