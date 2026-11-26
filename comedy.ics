@@ -40,49 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Boom Boom Comedy Showcase (3rd Wednesdays) Voted Best Date Night i
- n SF
-DTSTART;TZID=America/Los_Angeles:20261118T200000
-DTEND;TZID=America/Los_Angeles:20261118T220000
-DTSTAMP:20261006T003107Z
-UID:dothebay-16688097@sf-cal
-SEQUENCE:0
-CATEGORIES:Comedy
-DESCRIPTION:Infamous Boom Boom Comedy Showcase (3rd Wednesdays)\nSF’s lo
- ngest-running monthly comedy showcase every 3rd Wednesday. Rising comics\,
-  surprise guests\, unforgettable laughs in a legendary room.\n\nJoin us fo
- r the always anticipated monthly and highly regarded Value Culture BOOM BO
- OM Comedy Showcase at the famous Boom Boom Room on Fillmore Street since 2
- 023!\n\nThe showcase is the longest running monthly showcase active in the
-  city\, and has been voted one of the top date nights in SF.\n\n21+\, Free
-  with RSVP\, No Drink Minimum\, ($10 suggested tip)\nComics are performing
-  for tips. Reserved Seating available for purchase.\n\n7:30 Doors/ 8:00pm 
- Showtime roughly 60-90 minutes\, with more drinks and DJ music to follow.\
- nAddress: 1601 Fillmore St.\, San Francisco\, CA 94115\n\nPlease help us s
- pread the word. Thank you for the support every 3rd Wednesday of the month
- !\n\nThis special comedy event showcases new comics every month on 3rd Wed
- nesdays. Hosted by future local comedy legends Stephanie Block\, Paul Robe
- rtson and often special guests... sometimes non profit Value Culture's lea
- der Adam Swig (if Dave Chappelle doesn't show up...) Always expect lots of
-  Special Guests and the unexpected!\n\nThis event supports independent com
- ics\, this independent venue\, diversity and inclusion\, the Western Addit
- ion neighborhood\, and a non profit organization. The event is presented b
- y Value Culture\, a California 501c3 non profit and the Boom Boom Room. Th
- is is the fourth year of the showcase (formerly at the Hungry i) a...\n\nF
- ree\nValue Culture\n\nTickets: valueculture.org/comedy\nDetails: https://d
- othebay.com/events/2026/11/18/infamous-boom-boom-comedy-showcase-3rd-wedne
- sdays-tickets\nSource: DoTheBay
-GEO:37.78460570000001;-122.4332024
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/28908968/37dddf52-7a8a-4db9-811f-2b5f3dcae6d1.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:Boom Boom Room\, 1601 Fillmore Street\, San Francisco\, CA\, 9411
- 5
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/18/infamous-boom-boom-comedy-showc
- ase-3rd-wednesdays-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Amber Autry
 DTSTART;TZID=America/Los_Angeles:20261119T190000
 DTEND;TZID=America/Los_Angeles:20261119T210000
@@ -104,6 +61,48 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/19/amber-autry-tickets-qro7v1l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cheaper Than Therapy: Stand-Up Comedy
+DTSTART;TZID=America/Los_Angeles:20261119T194500
+DTEND;TZID=America/Los_Angeles:20261119T214500
+DTSTAMP:20261126T170128Z
+UID:dothebay-4650696@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:CTT Comedy presents\n\nCheaper Than Therapy: Stand-Up Comedy\n
+ \nEvery Thursday | Shelton Theater\n\nCheaper Than Therapy\noffers a healt
+ hy dose of live stand-up comedy every Wednesday\, Thursday\,\nFriday\, Sat
+ urday\, and Sunday\, year-round. Located in San Francisco's\nhistoric\nShe
+ lton Theater\nin the heart of Union Square\, Cheaper Than Therapy is conve
+ nient to get to\,\nwhether you live in the Bay Area or are just visiting.\
+ n\nCheck out our reviews on\nYelp\,\nGoogle\, and Facebook.\n\nAbout the s
+ how\n\nEach show features five to six hand-picked\, experienced comedians 
+ and an\noccasional guest drop-in.\n\nPlease arrive at the theater by 7:30p
+ m to check in with the box office. The\nbar opens at 7pm\, and the show st
+ arts at 7:45pm. Last seating is at\n8:05pm.\n\nThe theater has a full bar 
+ with no drink minimum. Come early for craft\ndrinks and great seats!\n\nTh
+ e show always ends by 9:15pm\, so there is plenty of time to catch the BAR
+ T\nor MUNI. For a list of restaurant recommendations in the area\, please 
+ visit\nour website.\n\nAfter the show\, we encourage everyone 21+ to party
+  with us at the Shelton\nTheater bar.\n\nFrequently asked questions\n\nIs 
+ there an age requirement?\nThe show is for mature audience\nmembers of 18+
+  only.\n\nIs there a drink minimum?\nNo\, there is no drink minimum.\n\nWh
+ at if I'm late?\nThis is a live show\, and we want everyone to\nhave a gre
+ at time. As a courtesy to the performers and audience\, we will not\nseat 
+ those who arrive after 8:05pm. If you are unable to make it by this\ntime\
+ , please let us know. We w...\n\n$25\, 18+\nCTT Comedy presents\n\nTickets
+ : https://tickets.cttcomedy.com/events?utm_source=dothebay&utm_medium=refe
+ rral&utm_campaign=events\nDetails: https://dothebay.com/events/weekly/thu/
+ stand-up-comedy-cheaper-than-therapy\nSource: DoTheBay
+GEO:37.78902490000001;-122.4091439
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/68310/43afad32-f933-4963-a5d8-139195295645.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Shelton Theater\, 533 Sutter St.\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/thu/stand-up-comedy-cheaper-than-th
+ erapy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Caitlin Peluffo
@@ -386,6 +385,48 @@ URL:https://dothebay.com/events/2026/11/20/anthony-jeselnik-wrath-of-man-t
  ickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cheaper Than Therapy: Stand-Up Comedy
+DTSTART;TZID=America/Los_Angeles:20261120T194500
+DTEND;TZID=America/Los_Angeles:20261120T214500
+DTSTAMP:20261126T170128Z
+UID:dothebay-9842179@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:CTT Comedy presents\n\nCheaper Than Therapy: Stand-Up Comedy\n
+ \nEvery Friday @ 7:45pm | Shelton Theater\n\nCheaper Than Therapy\noffers 
+ a healthy dose of live stand-up comedy every Wednesday\, Thursday\,\nFrida
+ y\, Saturday\, and Sunday\, year-round. Located in San Francisco's\nhistor
+ ic\nShelton Theater\nin the heart of Union Square\, Cheaper Than Therapy i
+ s convenient to get to\,\nwhether you live in the Bay Area or are just vis
+ iting.\n\nCheck out our reviews on\nYelp\,\nGoogle\, and Facebook.\n\nAbou
+ t the show\n\nEach show features five to six hand-picked\, experienced com
+ edians and an\noccasional guest drop-in.\n\nPlease arrive at the theater b
+ y 7:30pm to check in with the box office. The\nbar opens at 7pm\, and the 
+ show starts at 7:45pm. Last seating is at\n8:05pm.\n\nThe theater has a fu
+ ll bar with no drink minimum. Come early for craft\ndrinks and great seats
+ !\n\nThe show always ends by 9:15pm\, so there is plenty of time to catch 
+ the BART\nor MUNI. For a list of restaurant recommendations in the area\, 
+ please visit\nour website.\n\nAfter the show\, we encourage everyone 21+ t
+ o party with us at the Shelton\nTheater bar.\n\nFrequently asked questions
+ \n\nIs there an age requirement?\nThe show is for mature audience\nmembers
+  of 18+ only.\n\nIs there a drink minimum?\nNo\, there is no drink minimum
+ .\n\nWhat if I'm late?\nThis is a live show\, and we want everyone to\nhav
+ e a great time. As a courtesy to the performers and audience\, we will not
+ \nseat those who arrive after 8:05pm. If you are unable to make it by this
+ \ntime\, please let us kno...\n\n$25\, 18+\nCTT COMEDY Presents\n\nTickets
+ : https://tickets.cttcomedy.com/events?utm_source=dothebay&utm_medium=orga
+ nic&utm_campaign=events\nDetails: https://dothebay.com/events/weekly/fri/c
+ heaper-than-therapy-stand-up-comedy\nSource: DoTheBay
+GEO:37.78902490000001;-122.4091439
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/251248/8dde3f2a-701d-4359-90aa-87fd8bd7ff17.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Shelton Theater\, 533 Sutter St.\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/fri/cheaper-than-therapy-stand-up-c
+ omedy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“The Stoner Comedy Jam” Friday Nights
 DTSTART;TZID=America/Los_Angeles:20261120T200000
 DTEND;TZID=America/Los_Angeles:20261120T213000
@@ -500,6 +541,48 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/20/caitlin-peluffo-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cheaper Than Therapy: Stand-Up Comedy
+DTSTART;TZID=America/Los_Angeles:20261120T214500
+DTEND;TZID=America/Los_Angeles:20261120T234500
+DTSTAMP:20261126T170128Z
+UID:dothebay-3588448@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:CTT Comedy presents\n\nCheaper Than Therapy: Stand-Up Comedy\n
+ \nEvery Friday @ 9:45pm | Shelton Theater\n\nCheaper Than Therapy\noffers 
+ a healthy dose of live stand-up comedy every Wednesday\, Thursday\,\nFrida
+ y\, Saturday\, and Sunday\, year-round. Located in San Francisco's\nhistor
+ ic\nShelton Theater\nin the heart of Union Square\, Cheaper Than Therapy i
+ s convenient to get to\,\nwhether you live in the Bay Area or are just vis
+ iting.\n\nCheck out our reviews on\nYelp\,\nGoogle\, and Facebook.\n\nAbou
+ t the show\n\nEach show features five to six hand-picked\, experienced com
+ edians and an\noccasional guest drop-in.\n\nPlease arrive at the theater b
+ y 9:30pm to check in with the box office. The\nbar opens at 9pm\, and the 
+ show starts at 9:45pm. Last seating is at\n10:05pm.\n\nThe theater has a f
+ ull bar with no drink minimum. Come early for craft\ndrinks and great seat
+ s!\n\nThe show always ends by 9:15pm\, so there is plenty of time to catch
+  the BART\nor MUNI. For a list of restaurant recommendations in the area\,
+  please visit\nour website.\n\nAfter the show\, we encourage everyone 21+ 
+ to party with us at the Shelton\nTheater bar.\n\nFrequently asked question
+ s\n\nIs there an age requirement?\nThe show is for mature audience\nmember
+ s of 18+ only.\n\nIs there a drink minimum?\nNo\, there is no drink minimu
+ m.\n\nWhat if I'm late?\nThis is a live show\, and we want everyone to\nha
+ ve a great time. As a courtesy to the performers and audience\, we will no
+ t\nseat those who arrive after 10:05pm. If you are unable to make it by th
+ is\ntime\, please let us k...\n\n$25\, 18+\nCTT Comedy presents\n\nTickets
+ : https://tickets.cttcomedy.com/events?utm_source=dothebay&utm_medium=orga
+ nic&utm_campaign=events\nDetails: https://dothebay.com/events/weekly/fri/s
+ tand-up-comedy-cheaper-than-therapy\nSource: DoTheBay
+GEO:37.78902490000001;-122.4091439
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/251496/51b7d5ac-944f-445a-9a42-e22382bb56b3.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Shelton Theater\, 533 Sutter St.\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/fri/stand-up-comedy-cheaper-than-th
+ erapy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amber Autry
@@ -676,6 +759,48 @@ URL:https://dothebay.com/events/2026/11/21/san-francisco-comedy-undergroun
  d-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cheaper Than Therapy: Stand-Up Comedy
+DTSTART;TZID=America/Los_Angeles:20261121T194500
+DTEND;TZID=America/Los_Angeles:20261121T214500
+DTSTAMP:20261126T170128Z
+UID:dothebay-9842183@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:CTT Comedy presents\n\nCheaper Than Therapy: Stand-Up Comedy\n
+ \nEvery Saturday @ 7:45pm | Shelton Theater\n\nCheaper Than Therapy\noffer
+ s a healthy dose of live stand-up comedy every Wednesday\, Thursday\,\nFri
+ day\, Saturday\, and Sunday\, year-round. Located in San Francisco's\nhist
+ oric\nShelton Theater\nin the heart of Union Square\, Cheaper Than Therapy
+  is convenient to get to\,\nwhether you live in the Bay Area or are just v
+ isiting.\n\nCheck out our reviews on\nYelp\,\nGoogle\, and Facebook.\n\nAb
+ out the show\n\nEach show features five to six hand-picked\, experienced c
+ omedians and an\noccasional guest drop-in.\n\nPlease arrive at the theater
+  by 7:30pm to check in with the box office. The\nbar opens at 7pm\, and th
+ e show starts at 7:45pm. Last seating is at\n8:05pm.\n\nThe theater has a 
+ full bar with no drink minimum. Come early for craft\ndrinks and great sea
+ ts!\n\nThe show always ends by 9:15pm\, so there is plenty of time to catc
+ h the BART\nor MUNI. For a list of restaurant recommendations in the area\
+ , please visit\nour website.\n\nAfter the show\, we encourage everyone 21+
+  to party with us at the Shelton\nTheater bar.\n\nFrequently asked questio
+ ns\n\nIs there an age requirement?\nThe show is for mature audience\nmembe
+ rs of 18+ only.\n\nIs there a drink minimum?\nNo\, there is no drink minim
+ um.\n\nWhat if I'm late?\nThis is a live show\, and we want everyone to\nh
+ ave a great time. As a courtesy to the performers and audience\, we will n
+ ot\nseat those who arrive after 8:05pm. If you are unable to make it by th
+ is\ntime\, please let us k...\n\n$25\, 18+\nCTT Comedy presents\n\nTickets
+ : https://tickets.cttcomedy.com/events?utm_source=dothebay&utm_medium=orga
+ nic&utm_campaign=events\nDetails: https://dothebay.com/events/weekly/sat/c
+ heaper-than-therapy-stand-up-comedy\nSource: DoTheBay
+GEO:37.78902490000001;-122.4091439
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/251868/f2b21d3a-fcb0-4c04-a7f2-6f7a07f97253.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Shelton Theater\, 533 Sutter St.\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/sat/cheaper-than-therapy-stand-up-c
+ omedy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Puff Puff Laugh” SF’s Cannabis Lounge Comedy Show (Moe Gree
  ns)
 DTSTART;TZID=America/Los_Angeles:20261121T200000
@@ -844,6 +969,48 @@ LAST-MODIFIED:20261107T005802Z
 LOCATION:Eclectic Box\, 446 Valencia Street San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-nov-21/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cheaper Than Therapy: Stand-Up Comedy
+DTSTART;TZID=America/Los_Angeles:20261121T214500
+DTEND;TZID=America/Los_Angeles:20261121T234500
+DTSTAMP:20261126T170128Z
+UID:dothebay-3333740@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:CTT Comedy presents\n\nCheaper Than Therapy: Stand-Up Comedy\n
+ \nEvery Saturday @ 9:45pm | Shelton Theater\n\nCheaper Than Therapy\noffer
+ s a healthy dose of live stand-up comedy every Wednesday\, Thursday\,\nFri
+ day\, Saturday\, and Sunday\, year-round. Located in San Francisco's\nhist
+ oric\nShelton Theater\nin the heart of Union Square\, Cheaper Than Therapy
+  is convenient to get to\,\nwhether you live in the Bay Area or are just v
+ isiting.\n\nCheck out our reviews on\nYelp\,\nGoogle\, and Facebook.\n\nAb
+ out the show\n\nEach show features five to six hand-picked\, experienced c
+ omedians and an\noccasional guest drop-in.\n\nPlease arrive at the theater
+  by 9:30pm to check in with the box office. The\nbar opens at 9pm\, and th
+ e show starts at 9:45pm. Last seating is at\n10:05pm.\n\nThe theater has a
+  full bar with no drink minimum. Come early for craft\ndrinks and great se
+ ats!\n\nThe show always ends by 9:15pm\, so there is plenty of time to cat
+ ch the BART\nor MUNI. For a list of restaurant recommendations in the area
+ \, please visit\nour website.\n\nAfter the show\, we encourage everyone 21
+ + to party with us at the Shelton\nTheater bar.\n\nFrequently asked questi
+ ons\n\nIs there an age requirement?\nThe show is for mature audience\nmemb
+ ers of 18+ only.\n\nIs there a drink minimum?\nNo\, there is no drink mini
+ mum.\n\nWhat if I'm late?\nThis is a live show\, and we want everyone to\n
+ have a great time. As a courtesy to the performers and audience\, we will 
+ not\nseat those who arrive after 10:05pm. If you are unable to make it by 
+ this\ntime\, please let us...\n\n$25\, 18+\nCTT Comedy Presents\n\nTickets
+ : https://tickets.cttcomedy.com/events?utm_source=dothebay&utm_medium=orga
+ nic&utm_campaign=events\nDetails: https://dothebay.com/events/weekly/sat/s
+ tand-up-comedy-cheaper-than-therapy\nSource: DoTheBay
+GEO:37.78902490000001;-122.4091439
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/252116/17ff7c6f-3e1f-49ce-9829-5336b7a8233c.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Shelton Theater\, 533 Sutter St.\, San Francisco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/sat/stand-up-comedy-cheaper-than-th
+ erapy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drunk Theatre SF: The Wildest Bay Area Comedy!
@@ -1125,25 +1292,17 @@ BEGIN:VEVENT
 SUMMARY:Steve Furey
 DTSTART;TZID=America/Los_Angeles:20261125T193000
 DTEND;TZID=America/Los_Angeles:20261125T213000
-DTSTAMP:20261102T061947Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-17448863@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Comedy
 DESCRIPTION:Steve Furey\nWednesday\, November 25 | ​Punch Line San Franc
- isco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
- ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fsteve-furey-san-f
- rancisco-california-11-25-2026%2Fevent%2F1C0064BEA5CAB2BB\nDetails: https:
- //dothebay.com/events/2026/11/25/steve-furey-tickets\nSource: DoTheBay\n\n
- Also listed on:\n- https://www.ticketmaster.com/steve-furey-from-netflixs-
- funny-af-san-francisco-california-11-25-2026/event/1C0064BEA5CAB2BB?utm_so
- urce=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n- https://
- www.ticketmaster.com/get-it-gameshow-san-francisco-california-11-25-2026/e
- vent/1C0065283949868F?utm_source=caldiscovery&utm_medium=ics&utm_campaign=
- san-francisco-ca
+ isco\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/25/steve-furey
+ -tickets\nSource: DoTheBay
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/32555605/6c2736a3-43d0-4766-bb3c-b3940f5c64f0.png
-LAST-MODIFIED:20261102T061947Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -1153,25 +1312,17 @@ BEGIN:VEVENT
 SUMMARY:Get It?! Gameshow
 DTSTART;TZID=America/Los_Angeles:20261125T193000
 DTEND;TZID=America/Los_Angeles:20261125T213000
-DTSTAMP:20261102T061947Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-17834030@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Comedy
 DESCRIPTION:Get It?! Gameshow\nWednesday\, November 25 | ​Cobb's Comedy 
- Club\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272
- ?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fget-it-gameshow-s
- an-francisco-california-11-25-2026%2Fevent%2F1C0065283949868F\nDetails: ht
- tps://dothebay.com/events/2026/11/25/get-it-gameshow-tickets\nSource: DoTh
- eBay\n\nAlso listed on:\n- https://www.ticketmaster.com/steve-furey-from-n
- etflixs-funny-af-san-francisco-california-11-25-2026/event/1C0064BEA5CAB2B
- B?utm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca\n- 
- https://www.ticketmaster.com/get-it-gameshow-san-francisco-california-11-2
- 5-2026/event/1C0065283949868F?utm_source=caldiscovery&utm_medium=ics&utm_c
- ampaign=san-francisco-ca
+ Club\n\n18+\n\nDetails: https://dothebay.com/events/2026/11/25/get-it-game
+ show-tickets\nSource: DoTheBay
 GEO:37.802989;-122.4143902
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34381627/dfe1215d-308a-4509-8949-1f664338ff06.png
-LAST-MODIFIED:20261102T061947Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
@@ -1212,6 +1363,35 @@ LOCATION:Columbus Cafe\, 562 Green Street\, San Francisco\, CA 94133
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/coit-comedy-stand-up-comedy-free-golden-boy-pi
  zza-sf-87/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"BEST OF THE BAY" Stand-Up Comedy
+DTSTART;TZID=America/Los_Angeles:20261126T203000
+DTEND;TZID=America/Los_Angeles:20261126T223000
+DTSTAMP:20261126T170128Z
+UID:dothebay-16345524@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Follow @SlightlyFunnyComedy for each week's lineups\n\nCome jo
+ in us for a night of laughter at The Showdown as we showcase the best stan
+ d-up comedians in the Bay Area. Get ready for a hilarious evening filled w
+ ith jokes\, stories\, and good vibes. Whether you're a comedy connoisseur 
+ or just looking for a good time\, this event is perfect for anyone who lov
+ es to laugh. Don't miss out on this opportunity to see some of the funnies
+ t talents in the Bay Area live on stage!\n\nFree\nSlightly Funny Comedy Pr
+ esents\n\nTickets: https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.even
+ tbrite.com%2Fe%2Fbest-of-the-bay-stand-up-comedy-the-showdown-north-beach-
+ sf-tickets-1380096248029\nDetails: https://dothebay.com/events/weekly/thu/
+ best-of-the-bay-stand-up-comedy-the-showdown-north-beach-sf-tickets\nSourc
+ e: DoTheBay
+GEO:37.7817867;-122.4101166
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/27209927/1fd41f6c-6aba-45b9-aed6-dd7a6c65ff78.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:The Showdown\, 10 6th Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/thu/best-of-the-bay-stand-up-comedy
+ -the-showdown-north-beach-sf-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steve Furey
@@ -1994,6 +2174,32 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/1/comedy-allstars-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frankie Marcos
+DTSTART;TZID=America/Los_Angeles:20261201T193000
+DTEND;TZID=America/Los_Angeles:20261201T213000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18101136@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Tickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sh
+ aredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Ffrankie-marcos-san-f
+ rancisco-california-12-01-2026%2Fevent%2F1C0064C9CD5B8575%3F_gl%3D1%2Aaxsl
+ yk%2A_ga%2AMjA3OTQ2Nzk2NS4xNzkwNjUyOTY2%2A_ga_C1T806G4DF%2AczE3OTMyMTExMjI
+ kbzIkZzAkdDE3OTMyMTI1NTYkajYwJGwwJGgw\nDetails: https://dothebay.com/event
+ s/2026/12/1/frankie-marcos-1795106940\nSource: DoTheBay\n\nAlso listed on:
+ \n- https://www.ticketmaster.com/frankie-marcos-san-francisco-california-1
+ 2-01-2026/event/1C0064C9CD5B8575?utm_source=caldiscovery&utm_medium=ics&ut
+ m_campaign=san-francisco-ca
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35582728/ca176ff3-bac8-4a0e-a7bb-68e9ac851d07.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/1/frankie-marcos-1795106940
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First Tuesdays Free Comedy Showcase & Happy Hour | The Layover
 DTSTART;TZID=America/Los_Angeles:20261201T200000
 DTEND;TZID=America/Los_Angeles:20261201T220000
@@ -2293,45 +2499,6 @@ LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\,
  94111
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/3/greg-fitzsimmons-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An Evening with a Mentalist: Jay Alexander's Mind Tricks Live
-DTSTART;TZID=America/Los_Angeles:20261204T183000
-DTEND;TZID=America/Los_Angeles:20261204T200000
-DTSTAMP:20261117T035757Z
-UID:caldiscovery-comedy-46c4cd012f9da82b@sf-cal
-SEQUENCE:3
-CATEGORIES:comedy
-DESCRIPTION:Category: Art / Photography / CraftsContact Name: Jay Weisberg
- Contact Phone: 415-305-6893Contact Email: mar@jayalexander.comCost: Genera
- l Admission: USD 55.00Link: https://go.evvnt.com/3848476-2?pid=12352At the
-  San Francisco Magic Theater\, we don't give you a "show." We hand you an 
- experience... a carefully engineered collision of impossible mentalism\, l
- augh-out-loud comedy\, and illusions that punch through the wall of your r
- eality.What You'll DoStep off the streets of SF and into our historic Moro
- ccan-inspired speakeasy\, you will enjoy handcrafted cocktails\, Moroccan 
- appetizers\, and live close-up magic.Then enter our jewel-box theater for 
- Jay Alexander's mind-twisting mix of magic\, psychology\, and lie detectio
- n that will leave you amazed and laughing.Why It's Legit- Mentalist Jay Al
- exander... the performer who's astonished Bono\, made John Cleese grin lik
- e a schoolboy\, and been trusted by The Rolling Stones and Robin Williams.
- - 5-star rating from 1.5K+ Google reviews - one of SF's top-rated events- 
- Seen on MTV\, TEDx\, Good Morning America\, and the Today ShowBest For- A 
- memorable date night\, impressing visitors\, or an elevated/unique evening
-  out with friends or family.This is not just entertainment. This is the re
- surrection of your sense of wonder-set inside a 45-seat speakeasy with a M
- oroccan flair.Find out why this is the highest-rated show in the city and 
- leave with a story to tell.Pick your date and reserve your seats today!***
- **Yelp (1600 Reviews)***** TripAdvisor (over 1\,...\n\nPublished by KGO\nC
- ontains information from CalDiscovery (caldiscovery.com)\, ODbL 1.0\n\nDet
- ails: https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm
- _medium=ics&utm_campaign=san-francisco-ca\nSource: CalDiscovery
-LAST-MODIFIED:20261117T035757Z
-LOCATION:San Francisco Magic Theater (w/Jay Alexander) at the Marrakech\, 
- 419 O'Farrell Street\, San Francisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://go.evvnt.com/3848476-2?pid=12352&utm_source=caldiscovery&utm_m
- edium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kyle Kinane
@@ -3407,6 +3574,33 @@ LOCATION:Cobb's Comedy Club\, 915 Columbus Ave\, San Francisco\, CA\, 9413
  3
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/9/chloe-radcliffe-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blaine Capatch
+DTSTART;TZID=America/Los_Angeles:20261209T193000
+DTEND;TZID=America/Los_Angeles:20261209T213000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18101138@sf-cal
+SEQUENCE:0
+CATEGORIES:Comedy
+DESCRIPTION:Blaine Capatch\nWednesday\, December 9 | Punch Line San Franci
+ sco\n\nTickets: https://www.punchlinecomedyclub.com/artist/K8vZ917x1e0/bla
+ ine-capatch-events\nDetails: https://dothebay.com/events/2026/12/9/blaine-
+ capatch-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funchea
+ p.com/sfs-iconic-punchline-comedy-club-secret-guest-list-johnny-taylor-2/\
+ n- https://www.ticketmaster.com/chloe-radcliffe-san-francisco-california-1
+ 2-09-2026/event/1C0065373DE31A20?utm_source=caldiscovery&utm_medium=ics&ut
+ m_campaign=san-francisco-ca\n- https://www.ticketmaster.com/blaine-capatch
+ -san-francisco-california-12-09-2026/event/1C00656501EF3B02?utm_source=cal
+ discovery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.795486;-122.4001359
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35582740/f922cd8d-133b-4bc7-8396-d80e01386823.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
+ 94111
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/9/blaine-capatch-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Jewish Dating Game - LGBTJEW!
@@ -5255,9 +5449,9 @@ BEGIN:VEVENT
 SUMMARY:Joe Klocek & Friends
 DTSTART;TZID=America/Los_Angeles:20261222T193000
 DTEND;TZID=America/Los_Angeles:20261222T213000
-DTSTAMP:20261122T113633Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-17909118@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Comedy
 DESCRIPTION:Joe Klocek & Friends\nTuesday\, December 22 | ​Punch Line Sa
  n Francisco\n\n18+\n\nTickets: https://ticketmaster.evyy.net/c/253185/2641
@@ -5265,11 +5459,14 @@ DESCRIPTION:Joe Klocek & Friends\nTuesday\, December 22 | ​Punch Line Sa
  -friends-san-francisco-california-12-22-2026%2Fevent%2F1C00653D05C9B498\nD
  etails: https://dothebay.com/events/2026/12/22/joe-klocek-friends-tickets\
  nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.com/sfs-iconic
- -punchline-comedy-club-secret-guest-list-joe-klocek-friends-3/
+ -punchline-comedy-club-secret-guest-list-joe-klocek-friends-3/\n- https://
+ www.ticketmaster.com/joe-klocek-friends-san-francisco-california-12-22-202
+ 6/event/1C00653D05C9B498?utm_source=caldiscovery&utm_medium=ics&utm_campai
+ gn=san-francisco-ca
 GEO:37.795486;-122.4001359
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34739199/a99feb64-b066-476c-ae5e-21a3a188dd11.png
-LAST-MODIFIED:20261122T113633Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:Punch Line San Francisco\, 444 Battery St\, San Francisco\, CA\, 
  94111
 TRANSP:TRANSPARENT
@@ -7750,6 +7947,33 @@ TRANSP:TRANSPARENT
 URL:https://www.ticketmaster.com/jeff-arcuri-the-road-trip-tour-san-franci
  sco-california-01-24-2027/event/1C0064D1D31445E5?utm_source=caldiscovery&u
  tm_medium=ics&utm_campaign=san-francisco-ca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Night Hubba
+DTSTART;TZID=America/Los_Angeles:20270125T200000
+DTEND;TZID=America/Los_Angeles:20270125T220000
+DTSTAMP:20261126T170128Z
+UID:caldiscovery-comedy-63cde3efc943b586@sf-cal
+SEQUENCE:0
+CATEGORIES:comedy,dance
+DESCRIPTION:Hubba Hubba Revue presents\nMONDAY NIGHT HUBBA\n\nPerformers T
+ BA...\n\nMonday Night Hubba is the perfect way to start your week sexy: wi
+ th cocktails\, tease\, comedy and a more intimate experience than Hubba's 
+ big monthly extravaganzas! Each Monday night is a fun-filled\, shimmering 
+ showcase of local\, national and international burlesque and variety talen
+ t -- and a chance to see the most dazzling debuts before they hit it big!\
+ n\nWatch and listen:\nHubba Hubba Revue: Promo Reel: https://youtu.be/kCiL
+ ZYFLf78\n\nburlesque.\ndoors @ 8pm\;\nshow @ 9pm - 10:30pm.\n18+ with ID.\
+ n\nGen. Adm.: $10 advance\;\n$15 door\;\nReserved Seating: $15 advance\;\n
+ $20 door.\n\nPublished by DNA Lounge\nContains information from CalDiscove
+ ry (caldiscovery.com)\, ODbL 1.0\n\nDetails: https://www.dnalounge.com/cal
+ endar/2027/01-25d.html?utm_source=caldiscovery&utm_medium=ics&utm_campaign
+ =san-francisco-ca\nSource: CalDiscovery
+LAST-MODIFIED:20261126T170128Z
+LOCATION:DNA Lounge\, 375 Eleventh Street\, San Francisco\, CA 94103
+TRANSP:TRANSPARENT
+URL:https://www.dnalounge.com/calendar/2027/01-25d.html?utm_source=caldisc
+ overy&utm_medium=ics&utm_campaign=san-francisco-ca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coit Comedy: Stand Up Comedy & Free Golden Boy Pizza | SF

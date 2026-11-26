@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: Red/Blue
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261117T035757Z
-UID:city-hall-lights-ics-8ba099ae80eaa107@sf-cal
-SEQUENCE:0
-DESCRIPTION:the National Day of Mongolia\n\nDetails: https://www.sf.gov/lo
- cation--san-francisco-city-hall\nSource: SF City Hall lighting (via Robeli
- us/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261117T035757Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: Purple
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120

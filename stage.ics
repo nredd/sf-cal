@@ -40,30 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Sf Party
-DTSTART;TZID=America/Los_Angeles:20261118T200000
-DTEND;TZID=America/Los_Angeles:20261118T220000
-DTSTAMP:20261102T193355Z
-UID:dothebay-18017936@sf-cal
-SEQUENCE:0
-CATEGORIES:Dance
-DESCRIPTION:GOTH NITE RETURNS OCTOBER 28 SF\n\n$20 Single Ticket\n\nParty 
- Pass — 5-pack & 10-pack discounts available\n\nPartner Dance Lesson (Beg
- inner-Intermediate Two-Step with Marianne): 8:00 PM\n\nLine Dance Lesson: 
- 10:00 PM\n\nOpen floor requests all night\n\nGet Ready\n\nDress to dance 
- — wear leather-soled shoes or sneakers\n\nNo partner needed — come as 
- you are!\n\n21+\n\nPhoto: Andy Antezana Careaga\n\n$20\, 21+\n\nTickets: h
- ttps://www.scuff.us/performances/yexus6nz\nDetails: https://dothebay.com/e
- vents/2026/11/18/sf-party-tickets\nSource: DoTheBay
-GEO:37.7634058;-122.4079386
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35230046/e13d8900-aa25-41a7-bd1c-96f50c5eef9c.png
-LAST-MODIFIED:20261102T193355Z
-LOCATION:Verdi Club\, 2424 Mariposa Street\, San Francisco\, CA\, 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/18/sf-party-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alex O'Connor
 DTSTART;TZID=America/Los_Angeles:20261119T193000
 DTEND;TZID=America/Los_Angeles:20261119T213000
@@ -684,9 +660,9 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/Los_Angeles:20261125T130000
 DTEND;TZID=America/Los_Angeles:20261125T150000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-17665307@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  ng\, dazzling” life (Time Out New York) in a unique\, spectacle-filled n
@@ -697,13 +673,12 @@ DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  able crew of a traveling circus\, and a life\, and love\, beyond his wilde
  st dreams. Seen through the eyes of his older self\, his adventure becomes
   a poignant reminder that if you choose the ride\, life can begin again at
-  any age.\n\nTickets: https://us.atgtickets.com/events/water-for-elephants
- /\nDetails: https://dothebay.com/events/2026/11/25/water-for-elephants-tic
- kets\nSource: DoTheBay
+  any age.\n\nDetails: https://dothebay.com/events/2026/11/25/water-for-ele
+ phants-tickets\nSource: DoTheBay
 GEO:37.779246;-122.4145712
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33585085/97ea108c-d3f6-4c90-8b84-4d3b3a13ba36.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/25/water-for-elephants-tickets
@@ -712,9 +687,9 @@ BEGIN:VEVENT
 SUMMARY:A Charlie Brown Thanksgiving
 DTSTART;TZID=America/Los_Angeles:20261125T181500
 DTEND;TZID=America/Los_Angeles:20261125T201500
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-18017403@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Spend Thanksgiving with good ol’ Charlie Brown!\n\nTurkey\, 
  cranberries\, pumpkin pie and the Peanuts gang to share them with. This is
@@ -724,14 +699,13 @@ DESCRIPTION:Spend Thanksgiving with good ol’ Charlie Brown!\n\nTurkey\,
  maybe toast. Is Charlie Brown doomed? Not when Linus\, Snoopy and Woodstoc
  k chip in to save the (Thanksgiving) Day. With such good friends\, Charlie
   Brown - and all of us - have so many reasons to be thankful.\n\nMake it a
-  double feature with the Grand Budapest Hotel at 7:30 PM!\n\nTickets: http
- s://ticketing.uswest.veezi.com/purchase/20277?siteToken=d2atbcege5knqsavnt
- t91g1250\nDetails: https://dothebay.com/events/2026/11/25/a-charlie-brown-
- thanksgiving-tickets-pbnxxbd\nSource: DoTheBay
+  double feature with the Grand Budapest Hotel at 7:30 PM!\n\nDetails: http
+ s://dothebay.com/events/2026/11/25/a-charlie-brown-thanksgiving-tickets-pb
+ nxxbd\nSource: DoTheBay
 GEO:37.782364;-122.482951
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35269843/28bc1267-6051-43bd-bf43-ca4d44df0d29.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/25/a-charlie-brown-thanksgiving-ti
@@ -741,9 +715,9 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/Los_Angeles:20261125T190000
 DTEND;TZID=America/Los_Angeles:20261125T210000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-17665308@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  ng\, dazzling” life (Time Out New York) in a unique\, spectacle-filled n
@@ -754,13 +728,12 @@ DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  able crew of a traveling circus\, and a life\, and love\, beyond his wilde
  st dreams. Seen through the eyes of his older self\, his adventure becomes
   a poignant reminder that if you choose the ride\, life can begin again at
-  any age.\n\nTickets: https://us.atgtickets.com/events/water-for-elephants
- /\nDetails: https://dothebay.com/events/2026/11/25/water-for-elephants-tic
- kets-ovapgxz\nSource: DoTheBay
+  any age.\n\nDetails: https://dothebay.com/events/2026/11/25/water-for-ele
+ phants-tickets-ovapgxz\nSource: DoTheBay
 GEO:37.779246;-122.4145712
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33585106/81b1f8d5-666f-40d3-aea5-030a4d9d7ca0.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/25/water-for-elephants-tickets-ova
@@ -770,20 +743,19 @@ BEGIN:VEVENT
 SUMMARY:The Super Shangri-La Show
 DTSTART;TZID=America/Los_Angeles:20261125T190000
 DTEND;TZID=America/Los_Angeles:20261125T210000
-DTSTAMP:20261029T100747Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-18006633@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Strange movies presented by Kai Wada Roath at the haunted & hi
  storic Balboa theater in San Francisco!\n\nThis film can be used with loya
- lty cards or our 2026 annual CinemaSFBay passes\n\nTickets: https://ticket
- ing.uswest.veezi.com/purchase/20334?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\n
- Details: https://dothebay.com/events/2026/11/25/the-super-shangri-la-show-
- tickets\nSource: DoTheBay
+ lty cards or our 2026 annual CinemaSFBay passes\n\nDetails: https://dotheb
+ ay.com/events/2026/11/25/the-super-shangri-la-show-tickets\nSource: DoTheB
+ ay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35182924/fec380ac-7893-41a1-b63f-87cb984af6a2.jpg
-LAST-MODIFIED:20261029T100747Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/25/the-super-shangri-la-show-ticke
@@ -793,9 +765,9 @@ BEGIN:VEVENT
 SUMMARY:The Grand Budapest Hotel
 DTSTART;TZID=America/Los_Angeles:20261125T193000
 DTEND;TZID=America/Los_Angeles:20261125T213000
-DTSTAMP:20261104T195100Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-18017402@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:A murder case of Madam D. with enormous wealth and the most ou
  trageous events surrounding her sudden death!\n\nThe Grand Budapest Hotel 
@@ -807,13 +779,12 @@ DESCRIPTION:A murder case of Madam D. with enormous wealth and the most ou
   century.\n\nFor our Annual Pass Members and Loyalty Card Holders:\n\nTick
  ets for this film can be acquired in-person at the Box Office with loyalty
   cards or our Annual CinemaSF passes on the day of the show while supplies
-  last.\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20276?siteT
- oken=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay.com/events/2026
- /11/25/the-grand-budapest-hotel-tickets-kl533x1\nSource: DoTheBay
+  last.\n\nDetails: https://dothebay.com/events/2026/11/25/the-grand-budape
+ st-hotel-tickets-kl533x1\nSource: DoTheBay
 GEO:37.782364;-122.482951
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35228067/0285e221-6277-4084-a5fa-227795a42513.jpg
-LAST-MODIFIED:20261104T195100Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/25/the-grand-budapest-hotel-ticket
@@ -905,6 +876,28 @@ LAST-MODIFIED:20261006T003107Z
 LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/water-for-elephants-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART;TZID=America/Los_Angeles:20261127T160000
+DTEND;TZID=America/Los_Angeles:20261127T180000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071063@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
+  lifestyle upended by the arrival of the 10-year-old son he never knew he 
+ had.\n\nThis film can be used with loyalty cards or our 2026 annual Cinema
+ SFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20400
+ ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
+ s/2026/11/27/club-kid-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452119/c621583a-0104-4fe5-969a-447176edfed0.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/27/club-kid-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Black Ass Weekend: Black Queer Burlesque + Drag at Oasis (Nov
@@ -1263,6 +1256,28 @@ URL:https://sf.funcheap.com/performance-kim-shucks-poem-jam-celebrates-zit
  kalaas-american-indian-stories/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART;TZID=America/Los_Angeles:20261129T160000
+DTEND;TZID=America/Los_Angeles:20261129T180000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071061@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
+  lifestyle upended by the arrival of the 10-year-old son he never knew he 
+ had.\n\nThis film can be used with loyalty cards or our 2026 annual Cinema
+ SFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20401
+ ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
+ s/2026/11/29/club-kid-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452112/e8e40228-6355-42e5-aa4c-a9ab74eede86.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/29/club-kid-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Begotten
 DTSTART;TZID=America/Los_Angeles:20261129T200000
 DTEND;TZID=America/Los_Angeles:20261129T220000
@@ -1291,6 +1306,105 @@ LAST-MODIFIED:20261104T195100Z
 LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/29/begotten-tickets-708yy98
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART;TZID=America/Los_Angeles:20261130T190000
+DTEND;TZID=America/Los_Angeles:20261130T210000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071060@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
+  lifestyle upended by the arrival of the 10-year-old son he never knew he 
+ had.\n\nThis film can be used with loyalty cards or our 2026 annual Cinema
+ SFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20403
+ ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
+ s/2026/11/30/club-kid-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35458175/3f445d46-8198-487e-a2f1-527bcc67d5df.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/11/30/club-kid-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIVES BEYOND MOTION by Keith Glassman
+DTSTART;TZID=America/Los_Angeles:20261201T180000
+DTEND;TZID=America/Los_Angeles:20261201T200000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18117152@sf-cal
+SEQUENCE:0
+CATEGORIES:Dance
+DESCRIPTION:LIVES BEYOND MOTION\, a documentary film centered on men in co
+ ntemporary dance\, is a love letter to every creative across the arts. Fil
+ mmaker\, modern dancer and choreographer\, Keith Glassman\, follows his pa
+ ssion to explore the lives of an intergenerational group of celebrated men
+  who have made their mark on and off the stage. Some of our most treasured
+  dancers and choreographers\, including Kennedy Center honoree\, BILL T. J
+ ONES\, Alvin Ailey Associate Artistic Director\, MATTHEW RUSHING\, Guggenh
+ eim Fellow\, LAR LUBOVITCH and MacArthur Genius\, KYLE ABRAHAM\, gift us a
+  rare level of transparency and expressionism as they share their sacrific
+ es\, triumphs and struggles to transcend economic\, racial and sexual marg
+ inalization. From the park bench to the Broadway stage\, LIVES BEYOND MOTI
+ ON uncovers rare performances\, the legacy of legendary artists and spotli
+ ghts the uncompromising quest to find individual expression and joy in the
+  art of movement.\n\n$10-$80\n\nTickets: https://odc.dance/livesbeyondmoti
+ on\nDetails: https://dothebay.com/events/2026/12/1/lives-beyond-motion-by-
+ keith-glassman-tickets\nSource: DoTheBay
+GEO:37.7633809;-122.4164197
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35653364/0b2e28b8-9f78-4704-a718-856a633caeb1.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:ODC Theater\, 3153 17th Street\, San Francisco\, CA\, 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/1/lives-beyond-motion-by-keith-gla
+ ssman-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART;TZID=America/Los_Angeles:20261201T190000
+DTEND;TZID=America/Los_Angeles:20261201T210000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071111@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
+  lifestyle upended by the arrival of the 10-year-old son he never knew he 
+ had.\n\nThis film can be used with loyalty cards or our 2026 annual Cinema
+ SFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20404
+ ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
+ s/2026/12/1/club-kid-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452351/ef53bcd5-a84b-47e6-9ffe-602a9c7be0e5.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/1/club-kid-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART;TZID=America/Los_Angeles:20261202T190000
+DTEND;TZID=America/Los_Angeles:20261202T210000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071110@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
+  lifestyle upended by the arrival of the 10-year-old son he never knew he 
+ had.\n\nThis film can be used with loyalty cards or our 2026 annual Cinema
+ SFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20405
+ ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
+ s/2026/12/2/club-kid-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35458179/1a34042b-59f1-4fc2-a733-264db8ce587a.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/2/club-kid-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Carpenters Songbook
@@ -1395,30 +1509,26 @@ URL:https://dothebay.com/events/2026/12/2/the-chinese-feast-tickets-medppr
  n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pattie Gonia feat. VERA! & Sequoia
-DTSTART;TZID=America/Los_Angeles:20261203T200000
-DTEND;TZID=America/Los_Angeles:20261203T220000
-DTSTAMP:20261020T194441Z
-UID:dothebay-17133597@sf-cal
-SEQUENCE:2
+SUMMARY:Club Kid
+DTSTART;TZID=America/Los_Angeles:20261203T190000
+DTEND;TZID=America/Los_Angeles:20261203T210000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071108@sf-cal
+SEQUENCE:0
 CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Pattie Gonia: SAVE HER!\nfeaturing VERA! & Sequoia\n\nThursday
- \, December 3 | The Fillmore\n\nPattie Gonia is a critically acclaimed dra
- g queen\, environmentalist and advocate for inclusivity and diversity in t
- he outdoors.\n\n$71 - $182\nSAVE HER!\n\nTickets: https://ticketmaster.evy
- y.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmast
- er.com%2Fpattie-gonia-save-her-feat-sequoia-san-francisco-california-12-03
- -2026%2Fevent%2F1C0064733BB5E74D\nDetails: https://dothebay.com/events/202
- 6/12/3/pattie-gonia-save-her-feat-sequoia-and-vera-tickets\nSource: DoTheB
- ay
-GEO:37.7840042;-122.4331332
+DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
+  lifestyle upended by the arrival of the 10-year-old son he never knew he 
+ had.\n\nThis film can be used with loyalty cards or our 2026 annual Cinema
+ SFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20406
+ ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
+ s/2026/12/3/club-kid-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/31073914/dad73839-e64e-42c3-ba44-7a09d4a4d0d7.png
-LAST-MODIFIED:20261020T194441Z
-LOCATION:The Fillmore\, 1805 Geary Boulevard\, San Francisco\, CA\, 94115
+ et/35452338/14784ffe-fd34-49c5-90bb-e90e12201c51.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/12/3/pattie-gonia-save-her-feat-sequo
- ia-and-vera-tickets
+URL:https://dothebay.com/events/2026/12/3/club-kid-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Joy of Astonishment
@@ -1551,6 +1661,33 @@ URL:https://sf.funcheap.com/baukunst-first-fridays-art-music-food-bernal-h
  eights-13/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Deep Dish + 2 Short Films
+DTSTART;TZID=America/Los_Angeles:20261204T180000
+DTEND;TZID=America/Los_Angeles:20261204T200000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071107@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:When a lonely content creator summons a demon from a mysteriou
+ s pizza box\, she gets more than she bargained for as he starts getting to
+ o attached.\n\n+ 2 Short Films\n\nGoon (12 Minutes)\n\nThey say porn will 
+ rot your brain...literally.\n\nPunchline (15 Minutes)\n\nPunchline is a da
+ rk drama thriller centered on three longtime friends -- Gary\, Sarah and D
+ on -- whose tangled relationship unravels over an alcohol-fueled night.\n\
+ nPlaying as part of Another Hole in the Head 2026\n\nTickets: https://www.
+ balboamovies.com/calendar-of-events/ahith-2026-deep-dish\nDetails: https:/
+ /dothebay.com/events/2026/12/4/ahith-fest-2026-deep-dish-2-short-films-tic
+ kets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452328/d56daae6-4038-4d02-94b2-96ec860c09ad.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/4/ahith-fest-2026-deep-dish-2-shor
+ t-films-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Twisted Holiday Festival: 24 New Theater Performances in SF (
  Dec 4-20)
 DTSTART;TZID=America/Los_Angeles:20261204T190000
@@ -1590,17 +1727,19 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Gay Men's Chorus: Holiday Spectacular
 DTSTART;TZID=America/Los_Angeles:20261204T193000
 DTEND;TZID=America/Los_Angeles:20261204T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261126T170128Z
 UID:dothebay-17748528@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:Tickets: https://us.atgtickets.com/events/sfgmc-holiday-specta
  cular/\nDetails: https://dothebay.com/events/2026/12/4/san-francisco-gay-m
- en-s-chorus-holiday-spectacular-tickets\nSource: DoTheBay
+ en-s-chorus-holiday-spectacular-tickets\nSource: DoTheBay\n\nAlso listed o
+ n:\n- https://sf.funcheap.com/philharmonia-baroque-orchestra-chorale-baroq
+ ue-brilliance-live-dec-35/
 GEO:37.7825715;-122.4110742
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33988965/5ff10ff3-3647-4a92-a3d8-de628fd1747f.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261126T170128Z
 LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/4/san-francisco-gay-men-s-chorus-h
@@ -1648,6 +1787,142 @@ URL:https://dothebay.com/events/2026/12/4/live-music-the-crooked-jades-tic
  kets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Holiday Clown Cabaret
+DTSTART;TZID=America/Los_Angeles:20261204T200000
+DTEND;TZID=America/Los_Angeles:20261204T220000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18122639@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:It's the most wonderful time of year! Time for our merry cast 
+ of glittery grinches\, disheveled elves\, chaotic snowflakes\, kooky kramp
+ uses and sugar plum disasters to show you the fa-la-la-foolishness of the 
+ season!\n\nLineups TBA\n\n2025 Holiday Clown Cabaret\nHosted by Bri Crabtr
+ ee ~ December 4 + 5\nHosted by Alfonso and Marilee ~ December 11 + 12\nDoo
+ rs at 7:30 / Show at 8pm\n\nAll Church of Clown events are NOTAFLOF. Pleas
+ e email Sierra at programs@churchofclown.org for questions about volunteer
+ ing\, work trade\, or scholarships.\n\n$20 to $40\, NOTAFLOF\n\nTickets: h
+ ttps://www.zeffy.com/en-US/ticketing/2026-holiday-clown-cabaret\nDetails: 
+ https://dothebay.com/events/weekly/fri/2026-holiday-clown-cabaret-tickets\
+ nSource: DoTheBay
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Church of Clown\, 2400 Bayshore Blvd\, San Francisco\, CA\, 94134
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/fri/2026-holiday-clown-cabaret-tick
+ ets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: The Crawling + 3 Short Films
+DTSTART;TZID=America/Los_Angeles:20261204T204500
+DTEND;TZID=America/Los_Angeles:20261204T224500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071105@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:After retreating to a remote farmhouse with his wife\, a disgr
+ aced cop is assaulted by a cosmic entity\, triggering a terrifying psychol
+ ogical and physical unraveling.\n\n+ 3 Short Films\n\nLucky Bastard\n\nA f
+ riendly game night spirals out of control when a cruel prank triggers an e
+ pic meltdown between two longtime friends.\n\nYoshi\n\nA disillusioned you
+ ng man contends with the 21st century.\n\nThe Bug\n\nIn Oakland CA during 
+ the eerie quiet of the early days of 2020 COVID lockdown\, a routine late-
+ night trash run leads to an unexpected surprise.\n\nPlaying as part of Ano
+ ther Hole in the Head 2026\n\nTickets: https://www.balboamovies.com/calend
+ ar-of-events/ahith-2026-the-crawling\nDetails: https://dothebay.com/events
+ /2026/12/4/ahith-fest-2026-the-crawling-3-short-films-tickets\nSource: DoT
+ heBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452320/cd42687b-71e4-4cf4-9d32-a43249e6f0f7.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/4/ahith-fest-2026-the-crawling-3-s
+ hort-films-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Shorts Film Collection One
+DTSTART;TZID=America/Los_Angeles:20261205T101500
+DTEND;TZID=America/Los_Angeles:20261205T121500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071104@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A diverse collection of non-Feature films from varied genres.\
+ n\nTitles are listed alphabetically\, not in their screening order.\n\nArt
+ ichoke (14 Minutes)\n\nHeld captive\, Cynara discovers a phoropter that op
+ ens a portal to another world. In a terrifying cat-and-mouse chase between
+  realities\, Cynara finally comes face to face with her oppressor and must
+  decide what she’s willing to destroy in order to survive.\n\nThe Cabin 
+ (28 Minutes)\n\nA car thief steals the wrong Limo\; and gets roped into br
+ eaking into a paradoxical interstitial zone.\n\nClipping (6 Minutes)\n\nA 
+ plant shop owner struggles to keep his business afloat while juggling hagg
+ lers and thieves.\n\nEating in My Car Again (4 Minutes)\n\nA music video f
+ or the song "Eating in My Car Again" by Greg Roensch.\n\nHalf & Half (7 Mi
+ nutes)\n\nA man interviews for a job with all the right qualifications... 
+ all except one...\n\nInto The Static (7 Minutes)\n\nHarry Loving is obsess
+ ed with his life-simulation video game\, especially his digital companion\
+ , Delilah. Isolated in his apartment\, the game becomes his reality\, and 
+ begins consuming his every waking breath. Now\, Harry must choose between 
+ the real world or disappearing forever into a pixelated fantasy with Delil
+ ah.\n\nMINE (9 Minutes)\n\nSee You Next Tuesday (13 Minutes)\n\nA frustrat
+ ed tech worker becomes obsessed with heckling a busking marionette artist.
+ \n\nPlaying as part of Another Hole in the Head 2026\n\nTickets: https://w
+ ww.balboamovies.com/calendar-of-events/ahith-2026-shorts-collection-1\nDet
+ ails: https://dothebay.com/events/2026/12/5/ahith-fest-2026-shorts-film-co
+ llection-one-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452311/8dcdc7bb-ee7b-496c-8a31-f7a86e29470e.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/ahith-fest-2026-shorts-film-coll
+ ection-one-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Shorts Film Collection Two
+DTSTART;TZID=America/Los_Angeles:20261205T123000
+DTEND;TZID=America/Los_Angeles:20261205T143000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071103@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A diverse collection of non-Feature films from varied genres.\
+ n\nTitles are listed alphabetically\, not in their screening order.\n\nThe
+  Candle (9 Minutes)\n\nHave your cake...and it eats you.\n\nThe Echo (6 Mi
+ nutes)\n\nThe Fall Of The House Of Usher (5 Minutes)\n\nIn this adaptation
+  of Edgar Allan Poe’s classic story\, The Fall Of The House Of Usher\, R
+ oderick Usher summons a doctor to take care of his dying sister\, Madeline
+ . Only to confront the supernatural forces lurking within his ancestral ho
+ me.\n\nFASHION MODEL (22 Minutes)\n\nWhen a group of young filmmakers emba
+ rk on a passion project\, their newest cast member brings an eerie presenc
+ e that begins to unravel the line between anxiety and nightmare.\n\nHunter
+ s (15 Minutes)\n\nIn the remote New Mexico wilderness\, a hunting retreat 
+ becomes a dangerous intersection for a wealthy client seeking trophies and
+  two troubled employees with deadly secrets.\n\nKnitting Club (5 Minutes)\
+ n\nMiguel\, a delivery guy\, drops off red yarn at a knitting club run by 
+ three overly eager grannies. When they insist he stays for tea\, he discov
+ ers they take their craft very seriously\, and that he's about to become t
+ heir latest masterpiece.\n\nThe Last Mullet (11 Minutes)\n\nIn 2010\, Iran
+ 's Ministry of Culture and Islamic Guidance officially banned the mullet. 
+ Inspired by true events\, The Last Mullet follows Shervin — an Iranian m
+ an with a mischievous streak of “party in the back” — whose signatur
+ e hairstyle suddenly makes him an outlaw.\n\nThe Plough on Sunday (11 Minu
+ tes)\n\nA ne...\n\nTickets: https://www.balboamovies.com/calendar-of-event
+ s/ahith-2026-shorts-collection-2\nDetails: https://dothebay.com/events/202
+ 6/12/5/ahith-fest-2026-shorts-film-collection-two-tickets\nSource: DoTheBa
+ y
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452307/ed4c4935-6eda-4a5b-8749-0dc221be48f2.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/ahith-fest-2026-shorts-film-coll
+ ection-two-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wiz
 DTSTART;TZID=America/Los_Angeles:20261205T130000
 DTEND;TZID=America/Los_Angeles:20261205T150000
@@ -1688,6 +1963,98 @@ URL:https://dothebay.com/events/2026/12/5/san-francisco-gay-men-s-chorus-h
  oliday-spectacular-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Short Film Collection Three
+DTSTART;TZID=America/Los_Angeles:20261205T150000
+DTEND;TZID=America/Los_Angeles:20261205T170000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071102@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A diverse collection of non-Feature films from varied genres.\
+ n\nTitles are listed alphabetically\, not in their screening order.\n\nFer
+ ry (9 Minutes)\n\nOn her first night driving for a ride-share service\, a 
+ young woman picks up a passenger whose presence becomes increasingly unset
+ tling with every mile.\n\nFrom the Ashes (20 Minutes)\n\nTwo old buddies r
+ eunite to scatter the ashes of their friend and brother. Unbeknownst to th
+ em\, they are soon to be visited by their late companion from beyond the g
+ rave.\n\nHappy (7 Minutes)\n\nDuring a boring visit to her grandmother's h
+ ouse\, Cárol discovers a unique doll to kill time with. But she soon real
+ izes that\, in that house\, she isn't the only one who knows how to have f
+ un.\n\nHouse Cat (15 Minutes)\n\nLiving out of her car and hustling gig to
+  gig\, a woman takes a last-ditch job\, house-sitting a cat — only to di
+ scover she isn’t there to care for the cat\; she is the cat.\n\nHousewif
+ e (5 Minutes)\n\nWhen a woman accidentally cuts herself on her forgotten d
+ ollhouse\, she’ll unwittingly awaken Housewife\, a primordial monster wi
+ th strange ideas about how to care for her children. Based on the characte
+ r created by Miranda Parkin.\n\nHow to Hold a Garage Sale (6 Minutes)\n\nW
+ hen a cryptic how-to guide circulates through a small town\, its instructi
+ ons turn everyday garage sales into bizarre spectacles. As the community f
+ alls under the guide’s uncanny influence\, reality begins to unravel.\n\
+ nIn Too Deep (12 Minutes)\n\nA lonely creator escapes into a miniature wor
+ ld of his...\n\nTickets: https://www.balboamovies.com/calendar-of-events/a
+ hith-fest-shorts-collection-3\nDetails: https://dothebay.com/events/2026/1
+ 2/5/ahith-fest-2026-short-film-collection-three-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452299/6a4c45e0-f5fc-4a51-8898-14462b5972c9.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/ahith-fest-2026-short-film-colle
+ ction-three-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Mary Kwon Mary Kwon
+DTSTART;TZID=America/Los_Angeles:20261205T171500
+DTEND;TZID=America/Los_Angeles:20261205T191500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071101@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A poet travels to her childhood home on a creative retreat to 
+ investigate her mother's disappearance and write. As she commutes with the
+  aura of the haunted house\, strange occurrences happen around her. Her sa
+ bbatical is suddenly disrupted by two mysterious hikers.\n\nPlaying as par
+ t of Another Hole in the Head 2026\n\nTickets: https://www.balboamovies.co
+ m/calendar-of-events/ahith-2026-mary-kwon-mary-kwon\nDetails: https://doth
+ ebay.com/events/2026/12/5/ahith-fest-2026-mary-kwon-mary-kwon-tickets\nSou
+ rce: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452290/6823e91c-0934-4bae-8b70-1f2485554d86.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/ahith-fest-2026-mary-kwon-mary-k
+ won-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Devil's Disciple: The Night Stalker
+DTSTART;TZID=America/Los_Angeles:20261205T192500
+DTEND;TZID=America/Los_Angeles:20261205T212500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071100@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A relentless\, killer-POV descent into the mind of Richard Ram
+ irez as he stalks 1980s Los Angeles\, leaving terror\, bloodshed\, and bel
+ ief-driven brutality in his wake.\n\nPlaying as part of Another Hole in th
+ e Head 2026\n\nTickets: https://www.balboamovies.com/calendar-of-events/ah
+ ith-2026-Devil's%20Disciple:%20The%20Night%20Stalker\nDetails: https://dot
+ hebay.com/events/2026/12/5/ahith-fest-2026-devil-s-disciple-the-night-stal
+ ker-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://www.balboamovi
+ es.com/calendar-of-events/ahith-2026-Devil's Disciple: The Night Stalker?u
+ tm_source=caldiscovery&utm_medium=ics&utm_campaign=san-francisco-ca
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452284/2267dd3f-42d5-4ace-bbf4-4c2184c18f0d.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/ahith-fest-2026-devil-s-disciple
+ -the-night-stalker-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Gay Men's Chorus: Holiday Spectacular
 DTSTART;TZID=America/Los_Angeles:20261205T193000
 DTEND;TZID=America/Los_Angeles:20261205T213000
@@ -1708,6 +2075,32 @@ LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/5/san-francisco-gay-men-s-chorus-h
  oliday-spectacular-tickets-d05een7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon Schnitzer's SOMETHING SPOOKY
+DTSTART;TZID=America/Los_Angeles:20261205T193000
+DTEND;TZID=America/Los_Angeles:20261205T213000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18117146@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:SOMETHING SPOOKY is a hilarious\, hair-raising\, and surprisin
+ gly heartwarming show about how Jon Schnitzer's grandmother had an imagina
+ ry friend who turned out to be not so imaginary. This award-winning parano
+ rmal comedy will give you goosebumps! Schnitzer\, is the director of the g
+ enre bending horror documentary HAUNTERS: The Art Of The Scare.\n\nDonatio
+ n\nTerror Vault & Roar Shack Live present:\n\nTickets: https://consumer.px
+ f.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fterror-vault-roar-sha
+ ck-live-present-jon-schnitzers-something-spooky-tickets-2004397434684%3Faf
+ f%3Doddtdtcreator\nDetails: https://dothebay.com/events/2026/12/5/jon-schn
+ itzer-s-something-spooky-tickets\nSource: DoTheBay
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35653337/00d3cc89-1e17-44e6-8d52-da1b3f205a2c.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:34 7th St\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/jon-schnitzer-s-something-spooky
+ -tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Dagmar Zuniga
@@ -1751,6 +2144,93 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/5/live-music-dagmar-zuniga-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Holiday Clown Cabaret
+DTSTART;TZID=America/Los_Angeles:20261205T200000
+DTEND;TZID=America/Los_Angeles:20261205T220000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18122652@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:It's the most wonderful time of year! Time for our merry cast 
+ of glittery grinches\, disheveled elves\, chaotic snowflakes\, kooky kramp
+ uses and sugar plum disasters to show you the fa-la-la-foolishness of the 
+ season!\n\nLineups TBA\n\n2025 Holiday Clown Cabaret\nHosted by Bri Crabtr
+ ee ~ December 4 + 5\nHosted by Alfonso and Marilee ~ December 11 + 12\nDoo
+ rs at 7:30 / Show at 8pm\n\nAll Church of Clown events are NOTAFLOF. Pleas
+ e email Sierra at programs@churchofclown.org for questions about volunteer
+ ing\, work trade\, or scholarships.\n\n$20 - $40\, NOTAFLOF\n\nTickets: ht
+ tps://www.zeffy.com/en-US/ticketing/2026-holiday-clown-cabaret\nDetails: h
+ ttps://dothebay.com/events/weekly/sat/2026-holiday-clown-cabaret-tickets\n
+ Source: DoTheBay
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Church of Clown\, 2400 Bayshore Blvd\, San Francisco\, CA\, 94134
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/weekly/sat/2026-holiday-clown-cabaret-tick
+ ets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: The Texas Chainsaw Massacre
+DTSTART;TZID=America/Los_Angeles:20261205T214500
+DTEND;TZID=America/Los_Angeles:20261205T234500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071099@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:THE SAW IS BACK!\n\nForty years after its original release\, T
+ obe Hooper's gloriously deranged sequel returns to the big screen in all i
+ ts outrageous\, blood-soaked glory!\n\nThirteen years after the events of 
+ the original Texas Chain Saw Massacre\, Leatherface and his cannibalistic 
+ family are back\, terrorizing Texas with chainsaws\, twisted humor\, and s
+ pectacularly gruesome practical effects by legendary makeup artist Tom Sav
+ ini. Dennis Hopper delivers an unforgettable\, completely unhinged perform
+ ance as a vengeance-obsessed former Texas Ranger determined to bring the S
+ awyer family down.\n\nLouder\, bloodier\, funnier\, and more outrageous th
+ an its predecessor\, The Texas Chainsaw Massacre 2 is an unapologetic 1980
+ s horror cult classic that demands to be experienced with a theater full o
+ f fellow horror fans.\n\nTHIS IS NOT A DIGITAL SCREENING!\n\nAnother Hole 
+ in the Head Film Festival is proud to present an exceptionally clean\, ori
+ ginal 1986 UNRATED and UNCUT 35mm release print\, featuring beautiful AGFA
+  low-fade color and the original Dolby Stereo optical soundtrack.\n\nNo st
+ reaming. No DCP. Just genuine vintage 35mm film projected on the big scree
+ n\, exactly the way audiences experienced it in 1986.\n\nPlaying as part o
+ f Another Hole in the Head 2026\n\nTickets: https://www.balboamovies.com/c
+ alendar-of-events/ahith-2026-texas-chainsaw-massacre-2\nDetails: https://d
+ othebay.com/events/2026/12/5/ahith-fest-2026-the-texas-chainsaw-massacre-t
+ ickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452275/3cf72c91-bdc7-4af1-a3ed-03619ac75334.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/ahith-fest-2026-the-texas-chains
+ aw-massacre-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room
+DTSTART;TZID=America/Los_Angeles:20261205T230000
+DTEND;TZID=America/Los_Angeles:20261206T010000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071098@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Johnny is a successful banker who lives happily in a San Franc
+ isco townhouse with his fiancée\, Lisa. One day\, inexplicably\, she gets
+  bored of him and decides to seduce Johnny's best friend\, Mark. From ther
+ e\, nothing will be the same again.\n\nThis film can be used with loyalty 
+ cards or our 2026 annual CinemaSFBay passes\n\nTickets: https://ticketing.
+ uswest.veezi.com/purchase/20412?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDeta
+ ils: https://dothebay.com/events/2026/12/5/the-room-tickets\nSource: DoThe
+ Bay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452266/efc1b47e-1b1a-42b3-939e-529f94eb8144.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/5/the-room-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Lindy in the Park” Swing Dance Party (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20261206T110000
 DTEND;TZID=America/Los_Angeles:20261206T140000
@@ -1790,6 +2270,47 @@ LOCATION:JFK Drive Lindy Hop Spot\, JFK Dr. & Music Concourse Dr\, San Fra
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gat
  e-park-282/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Short Film Collection
+DTSTART;TZID=America/Los_Angeles:20261206T123000
+DTEND;TZID=America/Los_Angeles:20261206T143000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071097@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:A curated collection of genre films highlighting the LGBTQ+ co
+ mmunity.\n\nTitles are listed alphabetically\, not in their screening orde
+ r.\n\nBad Dad (12 Minutes)\n\nWith his divorce barely finalized\, Warren r
+ etreats from the city he always resented to a quiet lake house\, hoping to
+  find some peace with his young son\, KJ. But when a stranger named David 
+ turns up at the door asking for help\, the night takes a turn Warren never
+  could have anticipated.\n\nGET INTO THE SPIRIT (5 Minutes)\n\nWhile attem
+ pting to communicate with a handsome ghost haunting their house\, two husb
+ ands discover there are many ways a spirit can reach out from beyond the g
+ rave.\n\ni love zombies (7 Minutes)\n\nA Latina influencer survives the zo
+ mbie apocalypse by hosting a rogue walkie-talkie podcast to find supplies 
+ and other sapphics. When her ex shows up with a new girlfriend and learns 
+ zombies are bilingual\, survival gets complicated.\n\nThe Inheritance (15 
+ Minutes)\n\nVenus\, a Black violinist\, accompanies her wife\, Harley\, to
+  clear out a family estate. Once there\, Venus begins experiencing disturb
+ ing visions that blur the line between past and present\, drawing her into
+  the house’s dark history. As the haunting intensifies\, she uncovers bu
+ ried secrets of generational trauma\, ancestral legacies\, and unspoken fa
+ mily pain.\n\nJack $hack (15 Minutes)\n\nJack $hack is a comedic and fanta
+ stical exploration of hustle culture.\n\nDesperate to raise funds for thei
+ r church\, a trio of color-run participants attempt a short cut to win pri
+ z...\n\nTickets: https://www.balboamovies.com/calendar-of-events/ahith-202
+ 6-shorts-collection-5\nDetails: https://dothebay.com/events/2026/12/6/ahit
+ h-fest-2026-short-film-collection-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452263/f7261b2f-e1cc-49e0-8188-4f4586a21d84.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/6/ahith-fest-2026-short-film-colle
+ ction-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wiz
@@ -1837,6 +2358,98 @@ URL:https://sf.funcheap.com/presentation-eugene-oneill-51-plays-51-minutes
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Remy & Bo: Rise of Belladonna
+DTSTART;TZID=America/Los_Angeles:20261206T150000
+DTEND;TZID=America/Los_Angeles:20261206T170000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071096@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:For decades\, A vampire Clan known as Mordana Inc has ruled th
+ e night in the Bay Area. An operation that sells blood products by luring 
+ unknowingly humans into parties. The company is now facing extinction as B
+ elladonna\, daughter of Dracula\, has arrived and wants to burn it all dow
+ n. By Necessity\, Mordana is forced into an unthinkable alliance with Brot
+ hers Remy and Bo. A pair of vampire hunters that eliminate her kind.\n\nPl
+ aying as part of Another Hole in the Head 2026\n\nTickets: https://www.bal
+ boamovies.com/calendar-of-events/ahith-2026-remy-bo-rise-of-belladonna\nDe
+ tails: https://dothebay.com/events/2026/12/6/ahith-fest-2026-remy-bo-rise-
+ of-belladonna-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452252/a7f7bd35-89e8-4811-965a-6299ea1fcef1.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/6/ahith-fest-2026-remy-bo-rise-of-
+ belladonna-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Twice Midnight
+DTSTART;TZID=America/Los_Angeles:20261206T171500
+DTEND;TZID=America/Los_Angeles:20261206T191500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071095@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:After 600 years together\, vampire partners Lysette and Brutus
+  separate—she seeks reinvention in San Francisco as he navigates heartbr
+ eak in New York. As both become entangled with charismatic humans\, each m
+ ust decide what it truly means to live\, love\, and let go across the span
+  of eternity.\n\nPlaying as part of Another Hole in the Head 2026\n\nTicke
+ ts: https://www.balboamovies.com/calendar-of-events/ahith-2026-Twice%20Mid
+ night\nDetails: https://dothebay.com/events/2026/12/6/ahith-fest-2026-twic
+ e-midnight-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452250/9d557151-124f-4fe1-ad16-dd004830b9d6.webp
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/6/ahith-fest-2026-twice-midnight-t
+ ickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Life
+DTSTART;TZID=America/Los_Angeles:20261206T194500
+DTEND;TZID=America/Los_Angeles:20261206T214500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071094@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:After the death of her mother\, Evelyn\, an aimless Norwegian-
+ American woman\, is stranded and alone in a small Norwegian town. After ye
+ ars as her mother’s sole caretaker during a lengthy illness\, she has fa
+ llen out of touch with her old life. Her overbearing Aunt Marit forces her
+  way into Evelyn’s life and insists she get out of the house and get a j
+ ob. As she sinks deeper into depression\, Evelyn becomes obsessed with a c
+ ozy American sitcom called “Life at Sandy’s.” She starts to recede f
+ rom real life as she becomes friends with the show’s characters\, and sh
+ e is soon invited to spend time in their world. The worse things get for E
+ velyn in the real world\, the longer her stays in the sitcom become. Sandy
+ \, the coffee shop owner\, offers her a chance to stay with them forever\,
+  for a price.\n\n+ 4 Short Films\n\nMedieval Wound Man (4 Minutes)\n\nFres
+ hly-spawned\, an artificial human flees an anatomical theater—with medic
+ al students in hot pursuit.\n\nThat Damn Cat (14 Minutes)\n\nA cat becomes
+  envious of his owner’s romantic interests.\n\nThe Chosen (9 Minutes)\n\
+ nReed is troubled by a vision forcing him to do bad things\, but nobody be
+ lieves him. Maybe this new therapist will understand?\n\nViolet Light - Da
+ hlia's New Friend (3 Minutes)\n\nThe familiar shifts out of sight when you
+ 're in Violet Light.\n\nDahlia reaches beyond the visible world in search 
+ of a gift for herself\, drawing on forces she does not fully understand. I
+ n doing so\, she opens a quiet passage—one that allows something else to
+  enter.\n\nP...\n\nTickets: https://www.balboamovies.com/calendar-of-event
+ s/ahith-2026-life-at-sandys\nDetails: https://dothebay.com/events/2026/12/
+ 6/ahith-fest-2026-life-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35452243/0528e0ca-eb80-4709-9efb-b6527db38514.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/6/ahith-fest-2026-life-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Stephen Steinbrink\, April Magazine\, ersa
 DTSTART;TZID=America/Los_Angeles:20261206T200000
 DTEND;TZID=America/Los_Angeles:20261206T220000
@@ -1878,6 +2491,29 @@ URL:https://dothebay.com/events/2026/12/6/live-music-stephen-steinbrink-ap
  ril-magazine-ersa-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: The Ritual of Hausao
+DTSTART;TZID=America/Los_Angeles:20261207T180000
+DTEND;TZID=America/Los_Angeles:20261207T200000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071093@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Esther and Mario return from a vacation in Peru\, where she re
+ ceives a spiritual cleansing that will have catastrophic consequences upon
+  her return.\n\nPlaying as part of Another Hole in the Head 2026\n\nTicket
+ s: https://www.balboamovies.com/calendar-of-events/ahith-2026-the-ritual-o
+ f-hausao\nDetails: https://dothebay.com/events/2026/12/7/ahith-fest-2026-t
+ he-ritual-of-hausao-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35458186/9de930b0-3fe0-4bf0-8c8e-2fbcc15ea003.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/7/ahith-fest-2026-the-ritual-of-ha
+ usao-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mannheim Steamroller Christmas
 DTSTART;TZID=America/Los_Angeles:20261207T190000
 DTEND;TZID=America/Los_Angeles:20261207T210000
@@ -1903,6 +2539,116 @@ LOCATION:Golden Gate Theatre\, 1 Taylor St\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/7/mannheim-steamroller-christmas-t
  ickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Starslyderz
+DTSTART;TZID=America/Los_Angeles:20261207T200000
+DTEND;TZID=America/Los_Angeles:20261207T220000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071092@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:20 years later\, STARSLYDERZ comes home!\n\nIn 2006\, a bonker
+ s\, no-budget sci-fi comedy called STARSLYDERZ premiered at Another Hole i
+ n the Head Film Festival\, where Variety boldly declared\, “Cult status 
+ is assured.”\n\nThe film went on to screen at Fantasia and open France's
+  Mauvais Genre Festival before being picked up by a distributor who prompt
+ ly buried it. When the heartbroken filmmakers finally regained the rights 
+ five years later\, they made an unusual decision: lock it away and let it 
+ age like a fine wine.\n\nNow\, 20 years after its original AHITH premiere\
+ , STARSLYDERZ returns to the festival where it all began\, featuring a new
+ ly remastered edit that no audience has ever seen!\n\nShot guerrilla-style
+  over two chaotic weeks on MiniDV throughout San Francisco\, this glorious
+ ly unhinged sci-fi adventure features a troupe of sleep-deprived young act
+ ors\, an army of puppets\, the work of approximately 150 volunteer visual 
+ effects artists\, and an incredible soundtrack featuring Santa Cruz's lege
+ ndary experimental band Estradasphere.\n\nYou've never seen anything quite
+  like STARSLYDERZ.\n\nJoin us for this special 20th Anniversary Re-Premier
+ e\, with the filmmakers in attendance and a theater full of fellow weirdos
+ !\n\nOne film. Twenty years. A whole new level of strange.\n\nPlaying as p
+ art of Another Hole in the Head 2026\n\nTickets: https://www.balboamovies.
+ com/calendar-of-events/ahith-2026-starslyderz\nDetails: https://dothebay.c
+ om/events/2026/12/7/ahith-fest-2026-starslyderz-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35458191/a4c2dc13-ba54-4215-8fb9-859e4ac571c3.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/7/ahith-fest-2026-starslyderz-tick
+ ets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: The Shining Forwards and Backwards + 2 Short Film
+ s
+DTSTART;TZID=America/Los_Angeles:20261208T190000
+DTEND;TZID=America/Los_Angeles:20261208T210000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071091@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:You've seen The Shining. You've never seen it like this.\n\nWh
+ at happens when Stanley Kubrick's legendary horror masterpiece plays forwa
+ rds and backwards simultaneously\, with both versions superimposed over on
+ e another?\n\nThe result is a mesmerizing and sometimes deeply unsettling 
+ collision of images\, strange coincidences\, and astonishing visual symmet
+ ries.\n\nFaces merge. Hallways intersect. Characters appear to encounter t
+ heir own past and future. The Overlook Hotel becomes an entirely new labyr
+ inth of visual mysteries.\n\nAre these bizarre connections simply coincide
+ nce? Or is there something deeper buried within Kubrick's meticulously con
+ structed masterpiece?\n\nThere's only one way to find out.\n\n+ 2 Short Fi
+ lms\n\nPokey (18 Minutes)\n\nWhen a clueless teenager posing as a hitman t
+ akes money from a child who wants someone dead\, what seems like an easy s
+ cam pulls him into something far more dangerous than he bargained for.\n\n
+ They Lurk Beneath Eyelids (4 Minutes)\n\nA couple faces various horrific a
+ nd psychological ordeals while being trapped in a labyrinth of nightmares.
+ \n\nPlaying as part of Another Hole in the Head 2026\n\nTickets: https://w
+ ww.balboamovies.com/calendar-of-events/ahith-2026-The%20Shining%20Forwards
+ %20and%20Backwards\nDetails: https://dothebay.com/events/2026/12/8/ahith-f
+ est-2026-the-shining-forwards-and-backwards-2-short-films-tickets\nSource:
+  DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35458193/a72fada6-5390-4af0-8530-9c37fe581f5e.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/8/ahith-fest-2026-the-shining-forw
+ ards-and-backwards-2-short-films-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH FEST 2026: Mad Max: Fury Road + 2 Short Films
+DTSTART;TZID=America/Los_Angeles:20261209T190000
+DTEND;TZID=America/Los_Angeles:20261209T210000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071090@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Years after the collapse of civilization\, the tyrannical Immo
+ rtan Joe enslaves apocalypse survivors inside the desert fortress the Cita
+ del. When the warrior Imperator Furiosa leads the despot’s five wives in
+  a daring escape\, she forges an alliance with Max Rockatansky\, a loner a
+ nd former captive. Fortified in the massive\, armored truck the War Rig\, 
+ they try to outrun the ruthless warlord and his henchmen in a deadly high-
+ speed chase through the Wasteland. Presented in Black and Chrome\, the mon
+ ochrome regrade preferred by director George Miller.\n\n+ 2 Short Films\n\
+ nShared Experience (12 Minutes)\n\nDespite a reluctance towards online dat
+ ing\, Anna goes out with Luke\, a man she meets on Hinge. To her surprise\
+ , they form a connection. However\, she quickly learns that her definition
+  of connection is slightly different than Luke's.\n\nI Don't Know Her (7 M
+ inutes)\n\nA séance opens a door to the unfamiliar.\n\nPlaying as part of
+  Another Hole in the Head 2026\n\nTickets: https://www.balboamovies.com/ca
+ lendar-of-events/ahith-2026-mad-max-fury-road\nDetails: https://dothebay.c
+ om/events/2026/12/9/ahith-fest-2026-mad-max-fury-road-2-short-films-ticket
+ s\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35458192/20a5f5b8-8c6e-4d9b-a9b7-c1d3e7b81440.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/9/ahith-fest-2026-mad-max-fury-roa
+ d-2-short-films-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Outsiders
@@ -1992,6 +2738,37 @@ LOCATION:San Francisco Public Library\, Main Library\, Latino Room (lower
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/performance-kim-shucks-poem-celebrates-novembe
  r-dance-shirt/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHITH Fest 2026: Unsavory Elements + 2 Short Films
+DTSTART;TZID=America/Los_Angeles:20261210T184500
+DTEND;TZID=America/Los_Angeles:20261210T204500
+DTSTAMP:20261126T170128Z
+UID:dothebay-18071089@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Somewhere in Asia\, a sisterhood of prostitutes working at a r
+ ural brothel are patronized by a trio of obnoxious expats. After an accide
+ ntal death\, the young women\, lead by their mother-figure madame\, must d
+ ecide how to protect their home and livelihoods from this invasive species
+ .\n\n+ 2 Short Films\n\nTender Objects (12 Minutes)\n\nOn Halloween night\
+ , a meticulous suburban serial killer invites a woman home for a first dat
+ e. But when she uncovers his disturbing collection\, his carefully control
+ led evening spirals into a dangerous game of desire and deception.\n\nIt's
+  Not the Water (7 Minutes)\n\nA weary passenger aboard a nearly empty 1880
+ s steamship becomes convinced that something in the water is driving men o
+ verboard.\n\nPlaying as part of Another Hole in the Head 2026\n\nTickets: 
+ https://www.balboamovies.com/calendar-of-events/ahith-2026-unsavory-elemen
+ ts\nDetails: https://dothebay.com/events/2026/12/10/ahith-fest-2026-unsavo
+ ry-elements-2-short-films-tickets\nSource: DoTheBay
+GEO:37.7760419;-122.498063
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35458702/4efb987a-fb74-4db2-b21b-f5df52787ed0.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/10/ahith-fest-2026-unsavory-elemen
+ ts-2-short-films-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Outsiders
@@ -2090,6 +2867,36 @@ LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/10/live-music-storefront-church-ti
  ckets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champagne Cabaret Holiday Party
+DTSTART;TZID=America/Los_Angeles:20261210T200000
+DTEND;TZID=America/Los_Angeles:20261210T220000
+DTSTAMP:20261126T170128Z
+UID:dothebay-18112031@sf-cal
+SEQUENCE:0
+CATEGORIES:Theatre & Performing Arts
+DESCRIPTION:Dec 10-13\, 17-20\, 26\, 27\, 2026 and Jan 2\, 3\, 2027 at 8 P
+ M. See ticket calendar for additional performances.\n\nSanta takes a wrong
+  turn and crashes Marc and Svetlana's holiday party. Champagne Cabaret bri
+ ngs circus acts\, physical comedy\, dance\, and cabaret to San Francisco's
+  Chinatown. Come in your ugliest holiday sweater and raise a glass. Ages 1
+ 8 and up.\n\n$39-$100 per person at regular prices. Early-bird prices $35-
+ $90 through November 15. VIP seats sold in pairs or groups of four.\n\nPre
+ sented by Great Star Theater.\n\n$39-$100 at regular prices. Early-bird $3
+ 5-90.\nGreat Star Theater\n\nTickets: https://www.greatstartheater.org/\nD
+ etails: https://dothebay.com/events/2026/12/10/champagne-cabaret-holiday-p
+ arty-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.funcheap.c
+ om/sf-champagne-cabaret-holiday-party-a-wild-naughty-circus-christmas-show
+ -sf/
+GEO:37.7962257;-122.4059258
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35631410/75a72150-4a14-4319-ad3a-36eb108246b6.jpg
+LAST-MODIFIED:20261126T170128Z
+LOCATION:Great Star Theater\, 636 Jackson St\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/10/champagne-cabaret-holiday-party
+ -tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16th & Mission Open Mic (w/out a mic)
