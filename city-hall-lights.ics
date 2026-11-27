@@ -40,22 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CHC: Purple
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-DTSTAMP:20261115T064427Z
-UID:city-hall-lights-ics-8e53b98c56623782@sf-cal
-SEQUENCE:1
-DESCRIPTION:World Pancreatic Cancer Day\n\nDetails: https://www.sf.gov/loc
- ation--san-francisco-city-hall\nSource: SF City Hall lighting (via Robeliu
- s/sf-city-hall-lighting-calendar)
-LAST-MODIFIED:20261115T064427Z
-LOCATION:San Francisco City Hall\, 1 Dr. Carlton B. Goodlett Place\, San F
- rancisco\, CA 94102
-TRANSP:TRANSPARENT
-URL:https://www.sf.gov/location--san-francisco-city-hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHC: Blue/Pink/White
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
