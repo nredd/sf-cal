@@ -40,63 +40,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261119T140000
-DTEND;TZID=America/Los_Angeles:20261119T160000
-DTSTAMP:20261109T222818Z
-UID:dothebay-18054642@sf-cal
-SEQUENCE:0
-CATEGORIES:Film
-DESCRIPTION:I PLAY ROCKY is an electrifying true story about an unknown ac
- tor with an unshakable belief that he wasn't just meant to write Rocky –
-  he was meant to be Rocky Balboa. Told "no" at every turn\, Sylvester Stal
- lone bets everything on himself\, holding the line on playing the lead aga
- inst seemingly impossible odds. The result is the ultimate underdog story 
- behind the ultimate underdog movie.\n\nTickets: https://drafthouse.com/sf/
- show/i-play-rocky?cinemaId=0802&sessionId=23534\nDetails: https://dothebay
- .com/events/2026/11/19/i-play-rocky-tickets\nSource: DoTheBay
-GEO:37.7562198;-122.419185
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/35380508/514449be-1c29-461e-91a9-4d436effdc2f.jpg
-LAST-MODIFIED:20261109T222818Z
-LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
- 94110
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/19/i-play-rocky-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“Love Birds” Award-Winning Doc + Post-Film Q&A (Roxie Theater)
-DTSTART;TZID=America/Los_Angeles:20261119T160000
-DTEND;TZID=America/Los_Angeles:20261119T173000
-DTSTAMP:20261118T115305Z
-UID:funcheap-1647249@sf-cal
-SEQUENCE:0
-CATEGORIES:Movies
-DESCRIPTION:Submitted by the Event OrganizerElliott KennersonLove Birds\, 
- an award-winning documentary short directed by Elliott Kennerson and Angel
-  Morris\, tells the remarkable story of the female gull pairs found on Cal
- ifornia’s Santa Barbara Island in 1972 and the personal and political fa
- llout of the discovery.\nThis spectacular film returns to San Francisco on
-  November 19 for a screening at the Roxie Theater\, with a post-screening 
- Q&A with filmmaker Elliott Kennerson and moderator Judy Irving.\nPreceded 
- by a program of short documentary official selections from the Internation
- al Ocean Film Foundation (IOFF).\n\nProgram:\n\nBirdathlon\, Karen Lewis (
- USA) 4 min\nHow do Pelicans Survive Their Death-Defying Dives\, Elliott Ke
- nnerson\, (USA) 4 min\nThe Wild Parrots of Telegrapn Hill “Sneak Peek”
- \, Judy Irving (USA) 20 min\nLove Birds\, Elliott Kennerson\, (USA) 28 min
- \n\n$14.00\n\nTickets: https://www.eventbrite.com/e/love-birds-award-winni
- ng-oscar-eligible-short-doc-screening-tickets-2003985702181?aff=oddtdtcrea
- tor\nDetails: https://sf.funcheap.com/love-birds-awardwinning-doc-postfilm
- -qa-roxie-theater/\nSource: Funcheap SF
-IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/11/LOVE-B
- IRDS_Nov19_banner.png
-LAST-MODIFIED:20261118T115305Z
-LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA
-TRANSP:TRANSPARENT
-URL:https://sf.funcheap.com/love-birds-awardwinning-doc-postfilm-qa-roxie-
- theater/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Domingos
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T200000
@@ -2821,34 +2764,64 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/10/the-chinese-feast-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20261211T180000
+DTEND;TZID=America/Los_Angeles:20261211T200000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18101436@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:How do you follow up a heavy-hitting\, multiple Oscar-winning 
+ blockbuster like OPPENHEIMER? If you're Christopher Nolan\, you tackle one
+  of the most influential stories ever told.\n\nTHE ODYSSEY brings Homer's 
+ ancient Greek epic to the big screen with Matt Damon as Odysseus\, a warri
+ or king trying to get home after the Trojan War. What should be a straight
+ forward trip turns into a decade-long odyssey filled with peril\, adventur
+ e\, and one setback after another. Basically\, it's an epic story about an
+  all-time terrible commute.\n\nMake no doubt about it\, this is a movie bu
+ ilt for the big screen\, and Alamo Drafthouse is the place to experience i
+ t.\n\nTickets: https://drafthouse.com/sf/show/the-odyssey?cinemaId=0802&se
+ ssionId=24011\nDetails: https://dothebay.com/events/2026/12/11/the-odyssey
+ -tickets\nSource: DoTheBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35584106/d65d99f7-1ef4-4b15-bb67-8a0e6b15582c.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/11/the-odyssey-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dr. Seuss's How the Grinch Stole Christmas—Film with Live Orches
  tra
 DTSTART;TZID=America/Los_Angeles:20261211T193000
 DTEND;TZID=America/Los_Angeles:20261211T213000
-DTSTAMP:20261012T211826Z
+DTSTAMP:20261127T014655Z
 UID:dothebay-17568474@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
-DESCRIPTION:Holidays with the Symphony\nDr. Seuss's How the Grinch Stole C
- hristmas—Film with Live Orchestra\nFriday\, December 11 | Davies Symphon
- y Hall\n\nJim Carrey stars as the curmudgeonly Grinch\, who plans to ruin 
- Christmas for the citizens of Whoville—will they manage to warm his icy 
- heart? Enjoy this festive film on the big screen like never before as the 
- San Francisco Symphony performs James Horner’s score live. Rated PG.\n\n
- Concert Extras\nThroughout December\, stroll through the winter wonderland
-  of a decked-out Davies Symphony Hall\, filled with giant lit trees\, wrea
- ths\, and garlands. While you’re here\, sip a gingerbread old-fashioned\
- , toast with sparkling wine\, enjoy holiday desserts\, and swing by the ho
- t-chocolate cart all month long.\n\nArtists\n\nJoshua Gersen\, Conductor\n
- San Francisco Symphony\n\nFilm\n\nJanes Horner\, Composer\nRon Howard\, Di
- rector\n\nHolidays with the Symphony\n\nTickets: https://www.sfsymphony.or
- g/Buy-Tickets/2026-27/Grinch\nDetails: https://dothebay.com/events/2026/12
- /11/dr-seuss-rsquo-s-how-the-grinch-stole-christmas-tickets\nSource: DoThe
- Bay
+DESCRIPTION:Holidays with the SF Symphony\nDr. Seuss's How the Grinch Stol
+ e Christmas—Film with Live Orchestra\nFriday\, December 11 | Davies Symp
+ hony Hall\n\nJim Carrey stars as the curmudgeonly Grinch\, who plans to ru
+ in Christmas for the citizens of Whoville—will they manage to warm his i
+ cy heart? Enjoy this festive film on the big screen like never before as t
+ he San Francisco Symphony performs James Horner’s score live. Rated PG.\
+ n\nKids’ Tickets Half Off!\n\nConcert Extras\nThroughout December\, stro
+ ll through the winter wonderland of a decked-out Davies Symphony Hall\, fi
+ lled with giant lit trees\, wreaths\, and garlands. While you’re here\, 
+ sip a gingerbread old-fashioned\, toast with sparkling wine\, enjoy holida
+ y desserts\, and swing by the hot-chocolate cart all month long.\n\nArtist
+ s\n\nJoshua Gersen\, Conductor\nSan Francisco Symphony\n\nFilm\n\nJanes Ho
+ rner\, Composer\nRon Howard\, Director\n\nHolidays with the SF Symphony\n\
+ nTickets: https://www.sfsymphony.org/Buy-Tickets/2026-27/Grinch?utm_source
+ =dothebay&utm_medium=email&utm_campaign=grinch\nDetails: https://dothebay.
+ com/events/2026/12/11/dr-seuss-rsquo-s-how-the-grinch-stole-christmas-tick
+ ets\nSource: DoTheBay
 GEO:37.7782755;-122.4198453
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33611644/0f0b2c75-df64-42d0-b6ab-9302ff2b4a52.jpg
-LAST-MODIFIED:20261012T211826Z
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
@@ -2924,6 +2897,65 @@ LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\,
  94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/12/eyes-wide-shut-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas—Film with Live Orches
+ tra
+DTSTART;TZID=America/Los_Angeles:20261212T140000
+DTEND;TZID=America/Los_Angeles:20261212T160000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17568473@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:[RESCHEDULED FROM THURSDAY\, DECEMBER 10 AT 7:30PM]\n\nHoliday
+ s with the SF Symphony\nDr. Seuss's How the Grinch Stole Christmas—Film 
+ with Live Orchestra\nSaturday\, December 12 | Davies Symphony Hall\n\nSche
+ dule update: The performance originally scheduled for Thursday\, December 
+ 10 at 7:30pm has been moved to Saturday\, December 12 at 2:00pm. The Frida
+ y\, December 11 performance remains unchanged.\n\nJim Carrey stars as the 
+ curmudgeonly Grinch\, who plans to ruin Christmas for the citizens of Whov
+ ille—will they manage to warm his icy heart? Enjoy this festive film on 
+ the big screen like never before as the San Francisco Symphony performs Ja
+ mes Horner’s score live. Rated PG.\n\nKids’ Tickets Half Off!\n\nConce
+ rt Extras\nThroughout December\, stroll through the winter wonderland of a
+  decked-out Davies Symphony Hall\, filled with giant lit trees\, wreaths\,
+  and garlands. While you’re here\, sip a gingerbread old-fashioned\, toa
+ st with sparkling wine\, enjoy holiday desserts\, and swing by the hot-cho
+ colate cart all month long.\n\nArtists\n\nJoshua Gersen\, Conductor\nSan F
+ rancisco Symphony\n\nFilm\n\nJanes Horner\, Composer\nRon Howard\, Directo
+ r\n\n[RESCHEDULED FROM 12/10] Holidays with the SF Symphony\n\nTickets: ht
+ tps://www.sfsymphony.org/Buy-Tickets/2026-27/Grinch?utm_source=dothebay&ut
+ m_medium=email&utm_campaign=grinch\nDetails: https://dothebay.com/events/2
+ 026/12/12/dr-seuss-s-how-the-grinch-stole-christmas-tickets\nSource: DoThe
+ Bay
+GEO:37.7782755;-122.4198453
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33611551/92f01ab8-a117-472c-81e1-8a8e03071784.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
+ isco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/12/dr-seuss-s-how-the-grinch-stole
+ -christmas-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sambizanga
+DTSTART;TZID=America/Los_Angeles:20261212T140000
+DTEND;TZID=America/Los_Angeles:20261212T160000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18085501@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:FREE\nYBCA\n\nTickets: https://bit.ly/4y2Pmwo \nDetails: https
+ ://dothebay.com/events/2026/12/12/sambizanga-tickets\nSource: DoTheBay
+GEO:37.7856437;-122.4021904
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35512108/9b219a51-cf6d-4735-9026-9d0a0fb31274.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
+ , CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/12/sambizanga-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dazed and Confused
@@ -3145,6 +3177,31 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-149/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crunchyroll Anime Nights Sneak Peek (12/14/2026)
+DTSTART;TZID=America/Los_Angeles:20261214T190000
+DTEND;TZID=America/Los_Angeles:20261214T210000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18071999@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Presented in Japanese with English subtitles\n\nJoin Crunchyro
+ ll Anime Nights for an exclusive Sneak Peek at full\, never-before-seen ep
+ isodes on the big screen – before they debut in January!\n\nTickets: htt
+ ps://drafthouse.com/sf/show/crunchyroll-anime-nights-sneak-peek-12-14-2026
+ ?cinemaId=0802&sessionId=23768\nDetails: https://dothebay.com/events/2026/
+ 12/14/crunchyroll-anime-nights-sneak-peek-12-14-2026-tickets\nSource: DoTh
+ eBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35456228/1314b72f-8329-48dd-8a26-72964c9ee0ce.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/14/crunchyroll-anime-nights-sneak-
+ peek-12-14-2026-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dune: Part Three
 DTSTART;TZID=America/Los_Angeles:20261215T180000
 DTEND;TZID=America/Los_Angeles:20261215T200000
@@ -3266,56 +3323,166 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/17/avengers-doomsday-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART;TZID=America/Los_Angeles:20261218T174500
+DTEND;TZID=America/Los_Angeles:20261218T194500
+DTSTAMP:20261127T014655Z
+UID:dothebay-18099342@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Co-presented by the Japan Society of Northern California\n\nJa
+ pan’s Official Selection for Best International Feature Film at the 99th
+  Academy Awards®\n\nWINNER\, BEST ACTRESS (VIRGINIE EFIRA & TAO OKAMOTO)\
+ , 2026 CANNES FILM FESTIVAL\n\nFrom Academy Award–winning director Ryûs
+ uke Hamaguchi (DRIVE MY CAR) comes a moving exploration of time\, memory\,
+  and human connection.\n\nVirginie Efira (BENEDETTA) stars as Marie-Lou\, 
+ the progressive director of a nursing home in the Parisian suburbs\, whose
+  life takes an unexpected turn when she meets Mari (Tao Okamoto)\, a Japan
+ ese playwright. As the two women reflect on the lives they’ve lived\, th
+ ey discover new ways to understand the time that remains. Attentive to the
+  tensions between idealism and pragmatism\, Hamaguchi crafts a deeply huma
+ ne film about the delicate unfolding of thought\, feeling\, and connection
+ .\n\n“GORGEOUS… the rarest type of film\, not merely good enough to re
+ mind you what cinema can be\, but great enough to remind you what life can
+  be.” — Jessica Kiang\, Variety\n\nMORE HAMAGUCHI AT NEW PEOPLE\n\nRev
+ isit Ryûsuke Hamaguchi’s acclaimed ASAKO I & II on Sunday\, November 22
+  at 3:15 PM.\n\nCatch a special sneak preview of ALL OF A SUDDEN at New Pe
+ ople on Saturday\, December 5.\n\nRuntime\n\n3h 16m\n\nYear\n\n2026\n\nDir
+ ector\n\nRyūsuke Hamaguchi\n\nFormat\n\nDCP\n\nCountry\n\nFrance\, Japan\
+ , Germany & Belgium\n\nLanguage\n\nFrench\, Japanese & English\n\nFirst Sh
+ owing\n\nDecember 18\, 2026\n\nCategories\n\nAll of a Sudden\n\n\,\n\nFeat
+ ured\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22608?siteTok
+ en=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/2026/1
+ 2/18/all-of-a-sudden-tickets\nSource: DoTheBay
+GEO:37.7647103;-122.4224081
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35574194/639f436f-5c8b-4aeb-b1e9-6f46758c178a.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/18/all-of-a-sudden-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elf—In Concert
 DTSTART;TZID=America/Los_Angeles:20261218T193000
 DTEND;TZID=America/Los_Angeles:20261218T213000
-DTSTAMP:20261118T203851Z
+DTSTAMP:20261127T014655Z
 UID:dothebay-17568478@sf-cal
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Film
 DESCRIPTION:Film with Live Orchestra\nElf—In Concert\nFriday\, December 
  18 | Davies Symphony Hall\n\nExperience your favorite Christmas film trans
- formed with the music of a live symphony orchestra in Elf in Concert! Watc
- h Buddy's adventure come to life with live orchestral accompaniment by the
-  San Francisco Symphony.\n\nJohn Debney\, Conductor\n\nSan Francisco Symph
- ony\n\nFilm with Live Orchestra\n\nTickets: https://www.sfsymphony.org/Buy
- -Tickets/2026-27/Elf\nDetails: https://dothebay.com/events/2026/12/18/elf-
- in-concert-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.func
- heap.com/elf-live-in-concert-with-sf-symphony-dec-18-20/
+ formed with the music of a live symphony orchestra in Elf™ in Concert! A
+ udiences can rediscover the magic of this holiday classic as the film’s 
+ composer\, John Debney\, conducts the San Francisco Symphony in his wonder
+ ful score while Santa Claus soars across the big screen in high definition
+ . Rated PG.\n\nKids’ Tickets Half Off!\n\nELF and all related characters
+  and elements © & ™ New Line Productions\, Inc.\n\nConcert Extras\nThro
+ ughout December\, stroll through the winter wonderland of a decked-out Dav
+ ies Symphony Hall\, filled with giant lit trees\, wreaths\, and garlands. 
+ While you’re here\, sip a gingerbread old-fashioned\, toast with sparkli
+ ng wine\, enjoy holiday desserts\, and swing by the hot-chocolate cart all
+  month long.\n\nArtists\n\nJohn Debney\, Conductor\nSan Francisco Symphony
+ \n\nFilm\n\nJohn Debney\, Composer\nJon Favreau\, Director\n\nStrict 8 tic
+ ket limit. Purchases or accounts over the limit are subject to cancellatio
+ n. Tickets will be delivered approximately 1 week before the program: e-Ti
+ ckets will be available in your account 7 days before the concert. Printed
+  tickets will be delivered via mail.\n\nFilm with Live Orchestra\n\nTicket
+ s: https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf?utm_source=dothebay&
+ utm_medium=email&utm_campaign=elf\nDetails: https://dothebay.com/events/20
+ 26/12/18/elf-in-concert-tickets\nSource: DoTheBay\n\nAlso listed on:\n- ht
+ tps://sf.funcheap.com/elf-live-in-concert-with-sf-symphony-dec-18-20/
 GEO:37.7782755;-122.4198453
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33128600/8806f5fb-a99a-4798-bb02-a1746a65a75b.jpg
-LAST-MODIFIED:20261118T203851Z
+ et/33128600/d97d89e9-5441-4099-be15-bb40cebe4cd0.png
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/18/elf-in-concert-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LIVE MUSIC: Country Risque\, Samantha Henson & more
+DTSTART;TZID=America/Los_Angeles:20261218T200000
+DTEND;TZID=America/Los_Angeles:20261218T220000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18069953@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:LIVE MUSIC:\n\nCountry Risque (Dolly Parton Tribute feat. Sadi
+ e Alan)\n\nSamantha Henson\n\nSam Hirst\n\n7:00 PM Doors\n\n8:00 PM Music\
+ n\n$15 ADV / $18 DOOR\n\nTickets: https://ticketing.uswest.veezi.com/purch
+ ase/20410?siteToken=d2atbcege5knqsavntt91g1250\nDetails: https://dothebay.
+ com/events/2026/12/18/live-music-country-risque-samantha-henson-more-ticke
+ ts\nSource: DoTheBay
+GEO:37.782364;-122.482951
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35447885/856a1944-1c18-4b95-8610-0018c6ca2fd3.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
+  Francisco\, CA\, 94117
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/18/live-music-country-risque-saman
+ tha-henson-more-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elf—In Concert
 DTSTART;TZID=America/Los_Angeles:20261219T140000
 DTEND;TZID=America/Los_Angeles:20261219T160000
-DTSTAMP:20261118T203851Z
+DTSTAMP:20261127T014655Z
 UID:dothebay-17568479@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:Film with Live Orchestra\nElf—In Concert\nSaturday\, Decembe
  r 19 | Davies Symphony Hall\n\nExperience your favorite Christmas film tra
- nsformed with the music of a live symphony orchestra in Elf in Concert! Wa
- tch Buddy's adventure come to life with live orchestral accompaniment by t
- he San Francisco Symphony.\n\nJohn Debney\, Conductor\n\nSan Francisco Sym
- phony\n\nFilm with Live Orchestra\n\nTickets: https://www.sfsymphony.org/B
- uy-Tickets/2026-27/Elf\nDetails: https://dothebay.com/events/2026/12/19/el
- f-in-concert-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.fu
- ncheap.com/elf-live-in-concert-with-sf-symphony-dec-18-20-2/
+ nsformed with the music of a live symphony orchestra in Elf™ in Concert!
+  Audiences can rediscover the magic of this holiday classic as the film’
+ s composer\, John Debney\, conducts the San Francisco Symphony in his wond
+ erful score while Santa Claus soars across the big screen in high definiti
+ on. Rated PG.\n\nKids’ Tickets Half Off!\n\nELF and all related characte
+ rs and elements © & ™ New Line Productions\, Inc.\n\nConcert Extras\nTh
+ roughout December\, stroll through the winter wonderland of a decked-out D
+ avies Symphony Hall\, filled with giant lit trees\, wreaths\, and garlands
+ . While you’re here\, sip a gingerbread old-fashioned\, toast with spark
+ ling wine\, enjoy holiday desserts\, and swing by the hot-chocolate cart a
+ ll month long.\n\nArtists\n\nJohn Debney\, Conductor\nSan Francisco Sympho
+ ny\n\nFilm\n\nJohn Debney\, Composer\nJon Favreau\, Director\n\nStrict 8 t
+ icket limit. Purchases or accounts over the limit are subject to cancellat
+ ion. Tickets will be delivered approximately 1 week before the program: e-
+ Tickets will be available in your account 7 days before the concert. Print
+ ed tickets will be delivered via mail.\n\nFilm with Live Orchestra\n\nTick
+ ets: https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf?utm_source=dotheba
+ y&utm_medium=email&utm_campaign=elf\nDetails: https://dothebay.com/events/
+ 2026/12/19/elf-in-concert-tickets\nSource: DoTheBay\n\nAlso listed on:\n- 
+ https://sf.funcheap.com/elf-live-in-concert-with-sf-symphony-dec-18-20-2/
 GEO:37.7782755;-122.4198453
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33128609/9b64a4ac-b5c2-4272-99ee-35d22ad87451.jpg
-LAST-MODIFIED:20261118T203851Z
+ et/33128609/b6bb372c-df95-4c86-a547-8bbed9f30b0c.png
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/19/elf-in-concert-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mortu Nega
+DTSTART;TZID=America/Los_Angeles:20261219T140000
+DTEND;TZID=America/Los_Angeles:20261219T160000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18085510@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Adult $15\, Student/Senior/EBT $7.50\, YBCA Members FREE\nYBCA
+ \n\nTickets: https://bit.ly/4y2Pmwo \nDetails: https://dothebay.com/events
+ /2026/12/19/mortu-nega-tickets\nSource: DoTheBay
+GEO:37.7856437;-122.4021904
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35512149/95130cad-7ac7-4282-a1e4-dd00e5882df7.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
+ , CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/mortu-nega-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Floating Features: A Christmas Story
@@ -3353,30 +3520,122 @@ URL:https://dothebay.com/events/2026/12/19/floating-features-a-christmas-s
  tory-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART;TZID=America/Los_Angeles:20261220T130000
+DTEND;TZID=America/Los_Angeles:20261220T150000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18099344@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Co-presented by the Japan Society of Northern California\n\nJa
+ pan’s Official Selection for Best International Feature Film at the 99th
+  Academy Awards®\n\nWINNER\, BEST ACTRESS (VIRGINIE EFIRA & TAO OKAMOTO)\
+ , 2026 CANNES FILM FESTIVAL\n\nFrom Academy Award–winning director Ryûs
+ uke Hamaguchi (DRIVE MY CAR) comes a moving exploration of time\, memory\,
+  and human connection.\n\nVirginie Efira (BENEDETTA) stars as Marie-Lou\, 
+ the progressive director of a nursing home in the Parisian suburbs\, whose
+  life takes an unexpected turn when she meets Mari (Tao Okamoto)\, a Japan
+ ese playwright. As the two women reflect on the lives they’ve lived\, th
+ ey discover new ways to understand the time that remains. Attentive to the
+  tensions between idealism and pragmatism\, Hamaguchi crafts a deeply huma
+ ne film about the delicate unfolding of thought\, feeling\, and connection
+ .\n\n“GORGEOUS… the rarest type of film\, not merely good enough to re
+ mind you what cinema can be\, but great enough to remind you what life can
+  be.” — Jessica Kiang\, Variety\n\nMORE HAMAGUCHI AT NEW PEOPLE\n\nRev
+ isit Ryûsuke Hamaguchi’s acclaimed ASAKO I & II on Sunday\, November 22
+  at 3:15 PM.\n\nCatch a special sneak preview of ALL OF A SUDDEN at New Pe
+ ople on Saturday\, December 5.\n\nRuntime\n\n3h 16m\n\nYear\n\n2026\n\nDir
+ ector\n\nRyūsuke Hamaguchi\n\nFormat\n\nDCP\n\nCountry\n\nFrance\, Japan\
+ , Germany & Belgium\n\nLanguage\n\nFrench\, Japanese & English\n\nFirst Sh
+ owing\n\nDecember 18\, 2026\n\nCategories\n\nAll of a Sudden\n\n\,\n\nFeat
+ ured\n\nTickets: https://ticketing.uswest.veezi.com/purchase/22663?siteTok
+ en=4m48btf3yavn7xjk5yxk6nc40c\nDetails: https://dothebay.com/events/2026/1
+ 2/20/all-of-a-sudden-tickets\nSource: DoTheBay
+GEO:37.7647103;-122.4224081
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35574207/8ebb8009-9613-4cb8-8304-efb09ebaaa16.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/20/all-of-a-sudden-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elf—In Concert
 DTSTART;TZID=America/Los_Angeles:20261220T140000
 DTEND;TZID=America/Los_Angeles:20261220T160000
-DTSTAMP:20261118T203851Z
+DTSTAMP:20261127T014655Z
 UID:dothebay-17568480@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Film
 DESCRIPTION:Film with Live Orchestra\nElf—In Concert\nSunday\, December 
  20 | Davies Symphony Hall\n\nExperience your favorite Christmas film trans
- formed with the music of a live symphony orchestra in Elf in Concert! Watc
- h Buddy's adventure come to life with live orchestral accompaniment by the
-  San Francisco Symphony.\n\nJohn Debney\, Conductor\n\nSan Francisco Symph
- ony\n\nFilm with Live Orchestra\n\nTickets: https://www.sfsymphony.org/Buy
- -Tickets/2026-27/Elf\nDetails: https://dothebay.com/events/2026/12/20/elf-
- in-concert-tickets\nSource: DoTheBay\n\nAlso listed on:\n- https://sf.func
- heap.com/elf-live-in-concert-with-sf-symphony-dec-18-20-3/
+ formed with the music of a live symphony orchestra in Elf™ in Concert! A
+ udiences can rediscover the magic of this holiday classic as the film’s 
+ composer\, John Debney\, conducts the San Francisco Symphony in his wonder
+ ful score while Santa Claus soars across the big screen in high definition
+ . Rated PG.\n\nKids’ Tickets Half Off!\n\nELF and all related characters
+  and elements © & ™ New Line Productions\, Inc.\n\nConcert Extras\nThro
+ ughout December\, stroll through the winter wonderland of a decked-out Dav
+ ies Symphony Hall\, filled with giant lit trees\, wreaths\, and garlands. 
+ While you’re here\, sip a gingerbread old-fashioned\, toast with sparkli
+ ng wine\, enjoy holiday desserts\, and swing by the hot-chocolate cart all
+  month long.\n\nArtists\n\nJohn Debney\, Conductor\nSan Francisco Symphony
+ \n\nFilm\n\nJohn Debney\, Composer\nJon Favreau\, Director\n\nStrict 8 tic
+ ket limit. Purchases or accounts over the limit are subject to cancellatio
+ n. Tickets will be delivered approximately 1 week before the program: e-Ti
+ ckets will be available in your account 7 days before the concert. Printed
+  tickets will be delivered via mail.\n\nFilm with Live Orchestra\n\nTicket
+ s: https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf?utm_source=dothebay&
+ utm_medium=email&utm_campaign=elf\nDetails: https://dothebay.com/events/20
+ 26/12/20/elf-in-concert-tickets\nSource: DoTheBay\n\nAlso listed on:\n- ht
+ tps://sf.funcheap.com/elf-live-in-concert-with-sf-symphony-dec-18-20-3/
 GEO:37.7782755;-122.4198453
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33128610/8caf94cc-1402-49e4-a32e-342d8e101af7.jpg
-LAST-MODIFIED:20261118T203851Z
+ et/33128610/f75eae5a-9fcb-4f5e-a7fb-f318ff7abf78.png
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
  isco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/20/elf-in-concert-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Media Meltdown presents: A Christmas Carol
+DTSTART;TZID=America/Los_Angeles:20261220T193000
+DTEND;TZID=America/Los_Angeles:20261220T213000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18098869@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:A CHRISTMAS CAROL (1999)\n\nIf you want three ghosts to come t
+ o you in the night If you’re a tortured soul wearing the chains you forg
+ ed in life If you’re a dirty poor who wants to be findommed by the late 
+ Sir Patrick Stewart during his peak hottie era then this month’s Movie M
+ adhouse is for you! Join the heathens over at Media Meltdown as they celeb
+ rate the legacy of the great actor with his 1999 made-for-tv adaptation of
+  the Dickens classic\, “A Christmas Carol”. Co-starring Richard E. Gra
+ nt and a haunting Joel Grey\, this flick is sure to cease your “bah\, hu
+ mbug’s” and get you in that festive spirit the old-fashioned way - sup
+ ernatural psychological torment!\n\nMEDIA MELTDOWN MOVIE MADHOUSE\n\nGende
+ r jesters Piranha Psychotronica and Kafka X bring you a new experience in 
+ cinematic depravity Media Meltdown Movie Madhouse! Prepare yourself to ent
+ er into a world of face-flaying forgotten and forsaken films Made-for-TV\,
+  Direct-to-Video\, VCR games\, underground cinema\, and more wiley weirdne
+ ss than your minds can handle! In a world dominated by AI\, CGI\, mega str
+ eaming platforms\, and cinematic universes\, Media Meltdown celebrates the
+  amateur\, the low-budget\, the handmade\, the experimental\, and the weir
+ d! Commit yourself every 3rd Sunday to MEDIA MELTDOWN MOVIE MADHOUSE!\n\nT
+ ickets: https://ticketing.uswest.veezi.com/purchase/20443?siteToken=d2atbc
+ ege5knqsavntt91g1250\nDetails: https://dothebay.com/events/2026/12/20/medi
+ a-meltdown-presents-a-christmas-carol-tickets\nSource: DoTheBay
+GEO:37.782364;-122.482951
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35572153/37a74163-6547-495a-b9c0-6136d66ad737.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Cinema SF\, 2200 Clement Street\, San Francisco\, CA 94121 \, San
+  Francisco\, CA\, 94117
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/20/media-meltdown-presents-a-chris
+ tmas-carol-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carol
@@ -3414,6 +3673,43 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/21/carol-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bitter Christmas
+DTSTART;TZID=America/Los_Angeles:20261221T183000
+DTEND;TZID=America/Los_Angeles:20261221T203000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18071898@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment presents\nA film by Pedro Almodó
+ var\nBitter Christmas\nMonday\, December 21 | The Castro\n\nIn Spanish wit
+ h English subtitles\n\nJoin us at the historic Castro Theatre\, for a fest
+ ive holiday screening of Bitter Christmas\, from acclaimed Spanish directo
+ r and master of queer cinema\, Pedro Almodóvar.\n\nBitter Christmas tells
+  two alternating stories\, one starring Elsa\, an advertising director\, i
+ n 2004\, during a long weekend in December. The second takes place in 2026
+  and stars Raúl\, a screenwriter and director who is writing a script tha
+ t we soon discover is the story of Elsa\, her boyfriend Bonifacio\, and he
+ r friends Patricia and Natalia. Mixed with fiction\, Elsa is\, in a way\, 
+ Raúl’s alter ego\, who\, like him\, resorts to autofiction as a solutio
+ n to a long period of creative drought. He looks inside himself\, and he c
+ an’t help but also look at the people who make up his most intimate univ
+ erse: his partner and his assistant.\n\nExperience Almodovar’s trademark
+  storytelling where it is meant to be seen – San Francisco’s premiere 
+ movie palace\, The Castro Theatre!\n\nRate R\nAnother Planet Entertainment
+  presents: A film by Pedro Almodóvar\nListed time is doors\n\nTickets: ht
+ tps://thecastro.com/events/bitter-christmas-261221\nDetails: https://dothe
+ bay.com/events/2026/12/21/bitter-christmas-in-spanish-with-english-subtitl
+ es-tickets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35460058/7324bdf0-5265-4b7c-887b-284c75bb0fd6.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/21/bitter-christmas-in-spanish-wit
+ h-english-subtitles-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Rocket
 DTSTART;TZID=America/Los_Angeles:20261221T190000
 DTEND;TZID=America/Los_Angeles:20261221T210000
@@ -3442,6 +3738,143 @@ LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\,
  94110
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/21/red-rocket-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Female Trouble
+DTSTART;TZID=America/Los_Angeles:20261222T183000
+DTEND;TZID=America/Los_Angeles:20261222T203000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18071899@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment presents\nFemale Trouble (in 35mm
+ )\n\nTuesday\, December 22 | The Castro\n\n“Not on Christmas!”\n\nDust
+  off your cha-cha heels and “Dawn” your gay apparel as John Waters’ 
+ classic tale of crime\, filth and glamour graces the Castro Theatre screen
+  in glorious 35mm! Starring the legendary Divine as Dawn Davenport\, a wom
+ an on the verge who progresses from a teenage nightmare hell-bent on getti
+ ng cha-cha heels for Christmas to a fame monster whose egomaniacal impulse
+ s land her in hot water. Shot in Waters’ native Baltimore\, with a cast 
+ drawn from his beloved troupe of regulars\, the Dreamlanders (including Mi
+ nk Stole\, David Lochary\, Mary Vivian Pearce\, Edith Massey\, and Cookie 
+ Mueller)\, FEMALE TROUBLE is an endlessly quotable fan favorite\, offering
+  up perverse pleasures that never fail to shock and satisfy!\n\nJoin us at
+  The Castro Theatre for this special holiday treat!\n\n6:00pm – Box Offi
+ ce Opens\n\n7:00pm – Doors Open\n\n8:00pm – 9:35pm – FEMALE TROUBLE 
+ (NC-17) 1h 35m\n\nNC-17\nAnother Planet Entertainment presents\nListed tim
+ e is doors\n\nTickets: https://thecastro.com/events/female-trouble-261222\
+ nDetails: https://dothebay.com/events/2026/12/22/female-trouble-in-35mm-ti
+ ckets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35460131/4fb5ce68-6cb3-4bbf-a8fe-63edab2f229e.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/22/female-trouble-in-35mm-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shelley Winters in Who Slew Auntie Roo? plus Holiday Horror Drag a
+ t Great Star Theater on Tues\, Dec 22
+DTSTART;TZID=America/Los_Angeles:20261222T200000
+DTEND;TZID=America/Los_Angeles:20261222T220000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18103119@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Shelley Winters stars in Hammer Film's cult holiday hagsploita
+ tion classic Who Slew Auntie Roo? (1972) at the Great Star Theater on Tues
+ day\, December 22 at 8pm. $25/21+\n\nIt's all part of DJ Dank's Movie Part
+ y along with "We Love Shelley Winters" trivia\, prizes and a Holiday of Ho
+ rrors drag show starring Ferosha Titties\, Elsa Touche\, Abortia Clinik an
+ d Brandelicious.\n\nTickets here: https://tickets.greatstartheater.org/eve
+ nts/greatstartheater/2536532\n\nDirector Curtis Harrington (Night Tide\, Q
+ ueen of Blood\, Games\, What's The Matter With Helen?\, The Killing Kind) 
+ brings this choice slice of hagsploitation to life with Winters playing a 
+ reclusive actress who invites orphans to her home for Christmas as her tou
+ ch on reality slips in this macabre take on the Hansel & Gretel fairytale 
+ with a script from legendary Hammer Films scribe Jimmy Sangster (Horror of
+  Frankenstein\, Dracula: Prince of Darkness\, The Anniversary\, The Nanny)
+ .\n\nAlso starring "Oliver" himself Mark Lester\, Chloe Franks (The Uncann
+ y)\, Lionel Jeffries (The Revenge of Frankenstein)\, Michael Gothard (The 
+ Devils) and Ralph Richardson (The Heiress\, Fallen Idol).\n\nSponsored by 
+ Sunset Connect.\n\nPoster art by David Lawrence Hawkins.\n\n$25/21+\nDJ Da
+ nk Presents\n\nTickets: https://tickets.greatstartheater.org/events/greats
+ tartheater/2536532\nDetails: https://dothebay.com/events/2026/12/22/shelle
+ y-winters-in-who-slew-auntie-roo-plus-holiday-horror-drag-at-great-star-th
+ eater-on-tues-dec-22-tickets\nSource: DoTheBay
+GEO:37.7962257;-122.4059258
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35592374/631678a1-5d03-4516-8e1f-d39c0063ed82.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Great Star Theater\, 636 Jackson St\, San Francisco\, CA\, 94133
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/22/shelley-winters-in-who-slew-aun
+ tie-roo-plus-holiday-horror-drag-at-great-star-theater-on-tues-dec-22-tick
+ ets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART;TZID=America/Los_Angeles:20261224T093000
+DTEND;TZID=America/Los_Angeles:20261224T113000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18119476@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Robert Eggers has never met a bleak 13th-century folktale he d
+ idn't want to translate onto the big screen. The filmmaker behind NOSFERAT
+ U\, THE LIGHTHOUSE\, and THE WITCH returns with a gothic horror tale of bl
+ ood and damnation in 13th-century England\, where apparently the sun has b
+ een permanently canceled. A fearsome beast stalks the countryside. Willem 
+ Dafoe hunts it. Aaron Taylor-Johnson becomes it. Shot on grainy\, desatura
+ ted 35mm film\, it’s one more moon\, and one very Eggers way to spell we
+ rewolf.\n\nTickets: https://drafthouse.com/sf/show/werwulf?cinemaId=0802&s
+ essionId=24200\nDetails: https://dothebay.com/events/2026/12/24/werwulf-ti
+ ckets\nSource: DoTheBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35664253/6557b51c-5cba-4ad1-8766-069577bcf464.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/24/werwulf-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Masala: Dilwale Dulhania Le Jayenge
+DTSTART;TZID=America/Los_Angeles:20261227T130000
+DTEND;TZID=America/Los_Angeles:20261227T150000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18070513@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Audiences will fall in love with the charming Raj (Shah Rukh K
+ han) and the spirited Simran (Kajol)\, both Indians raised in the UK\, who
+  meet on a train when traveling with their friends across Europe. A frothy
+  love story develops against picture-postcard Alpine landscapes\, and the 
+ couple’s romance is threatened when Simran’s father takes her to India
+  for an arranged marriage. The film wears its patriotism on its sleeve as 
+ it captures the conflict between modern attitudes toward love and traditio
+ nal Indian values\, where duty to the family takes precedence.\n\nThree de
+ cades since its release\, the magic of DILWALE DULHANIA LE JAYENGE (DDLJ) 
+ remains undiminished\; the film still screens daily at the Maratha Mandir 
+ Theatre in Mumbai.\n\nPart of Cinema Masala\n\nCinema Masala is an initiat
+ ive of the Coolidge Corner Theatre\, in partnership with the Film Heritage
+  Foundation. Founded and made possible by Sapna Saxena.\n\nRuntime\n\n3h 2
+ m\n\nYear\n\n1995\n\nDirector\n\nAditya Chopra\n\nFormat\n\nDCP\n\nCountry
+ \n\nIndia\n\nLanguage\n\nHindi with English subtitles\n\nFirst Showing\n\n
+ December 27\, 2026\n\nCategories\n\nCinema Masala\n\nTickets: https://tick
+ eting.uswest.veezi.com/purchase/22554?siteToken=4m48btf3yavn7xjk5yxk6nc40c
+ \nDetails: https://dothebay.com/events/2026/12/27/cinema-masala-dilwale-du
+ lhania-le-jayenge-tickets\nSource: DoTheBay
+GEO:37.7647103;-122.4224081
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35449752/7e1eb617-574d-4820-860f-54e5cdb45714.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/27/cinema-masala-dilwale-dulhania-
+ le-jayenge-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Apartment
@@ -3649,34 +4082,66 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/1/megalopolis-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man’s Castle (1933)
+DTSTART;TZID=America/Los_Angeles:20270105T180000
+DTEND;TZID=America/Los_Angeles:20270105T200000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18099345@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Part of our series Wild\, Weird\, Wicked: Films From Before th
+ e Code!\n\nFrom the great Frank Borzage comes this dreamy Depression-era f
+ able\, starring Spencer Tracy and a supernal Loretta Young.\n\nTrina\, a y
+ oung woman without a home\, meets the handsome\, sharply-dressed Bill in a
+  public park. After treating her to an expensive meal that he cannot pay f
+ or\, Trina realizes that he too is down on his luck. The two decide to sha
+ re Bill’s derelict home\, paving the way for a budding romance surrounde
+ d by the colorful friends and neighbors of Hoover Flats. A showgirl\, preg
+ nancy\, and Bill’s wandering tendencies are sure to test the strength of
+  their relationship.\n\nRuntime\n\n1h 18m\n\nYear\n\n1933\n\nDirector\n\nF
+ rank Borzage\n\nFormat\n\nDigital\n\nCountry\n\nUS\n\nLanguage\n\nEnglish\
+ n\nFirst Showing\n\nJanuary 5\, 2027\n\nCategories\n\nWild\, Weird\, Wicke
+ d: Films From Before the Code\n\n\,\n\nFeatured\n\nTickets: https://ticket
+ ing.uswest.veezi.com/purchase/22668?siteToken=4m48btf3yavn7xjk5yxk6nc40c\n
+ Details: https://dothebay.com/events/2027/1/5/man-s-castle-1933-tickets\nS
+ ource: DoTheBay
+GEO:37.7647103;-122.4224081
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35574209/f8da37c3-082f-4074-adb5-78ffb44758d8.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Roxie Theater\, 3117 16th Street\, San Francisco\, CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/5/man-s-castle-1933-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sleepaway Camp: The Midnight Mass Experience
 DTSTART;TZID=America/Los_Angeles:20270107T183000
 DTEND;TZID=America/Los_Angeles:20270107T203000
-DTSTAMP:20261108T194419Z
+DTSTAMP:20261127T014655Z
 UID:dothebay-17937745@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Film
-DESCRIPTION:Another Planet Entertainment Presents:\nSleepaway Camp: The Mi
- dnight Mass Experience\nHosted by Peaches Christ & Michael Varrati with sp
- ecial guest Felissa Rose\n\nThursday\, January 7 | The Castro\n\nJoin cult
-  filmmaker and drag icon Peaches Christ\, Sleepaway Camp star Felissa Rose
- \, and filmmaker and podcaster Michael Varrati for an unforgettable evenin
- g celebrating one of the most gloriously shocking horror films of all time
- ! The event begins with a live pre-show featuring performances\, conversat
- ion\, behind-the-scenes stories\, audience participation\, and a 1980s Cam
- p Costume Contest\, followed by a screening of Sleepaway Camp. A limited V
- IP Meet & Greet experience will also be available.\n\nThis event is Rated 
- R.**\n\n**This film is rated R. Children under age 17 require an accompany
- ing parent or guardian (age 21 or older) to attend R rated screenings. 25 
- years and under may be asked to show ID for R rated screenings.\n\n$27.75 
- - $80\, All Ages\nAnother Planet Entertainment Presents:\nListed time is d
- oors\n\nTickets: https://thecastro.com/events/sleepaway-camp-270107\nDetai
- ls: https://dothebay.com/events/2027/1/7/sleepaway-camp-the-midnight-mass-
- experience-tickets\nSource: DoTheBay
+DESCRIPTION:Another Planet Entertainment Presents\nSleepaway Camp: The Mid
+ night Mass Experience\nHosted by Peaches Christ & Michael Varrati with spe
+ cial guest Felissa Rose\n\nThursday\, January 7 | The Castro\n\nJoin cult 
+ filmmaker and drag icon Peaches Christ\, Sleepaway Camp star Felissa Rose\
+ , and filmmaker and podcaster Michael Varrati for an unforgettable evening
+  celebrating one of the most gloriously shocking horror films of all time!
+  The event begins with a live pre-show featuring performances\, conversati
+ on\, behind-the-scenes stories\, audience participation\, and a 1980s Camp
+  Costume Contest\, followed by a screening of Sleepaway Camp. A limited VI
+ P Meet & Greet experience will also be available.\n\nThis event is Rated R
+ .**\n\n**This film is rated R. Children under age 17 require an accompanyi
+ ng parent or guardian (age 21 or older) to attend R rated screenings. 25 y
+ ears and under may be asked to show ID for R rated screenings.\n\n$27.75 -
+  $80\, All Ages\nAnother Planet Entertainment Presents\nListed time is doo
+ rs\n\nTickets: https://thecastro.com/events/sleepaway-camp-270107\nDetails
+ : https://dothebay.com/events/2027/1/7/sleepaway-camp-the-midnight-mass-ex
+ perience-tickets\nSource: DoTheBay
 GEO:37.7619917;-122.4347365
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/34873607/36d2d502-4b9f-414b-b3c2-ff8ff36f39b4.jpg
-LAST-MODIFIED:20261108T194419Z
+LAST-MODIFIED:20261127T014655Z
 LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/7/sleepaway-camp-the-midnight-mass-
@@ -3753,6 +4218,119 @@ TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2027/1/8/avatar-live-in-concert-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Avatar Live in Concert
+DTSTART;TZID=America/Los_Angeles:20270109T140000
+DTEND;TZID=America/Los_Angeles:20270109T160000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17183908@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Film with Live Orchestra\nAvatar Live in Concert\nJanuary 8 & 
+ 9\, 2027 | Davies Symphony Hall\n\nLights\, Camera\, Music! Watch James Ca
+ meron’s Avatar on the big screen at Davies Symphony Hall as James Horner
+ ’s score is performed live by the SF Symphony.\n\nPG-13\n\nArtists\n\nSa
+ rah Hicks\, Conductor\nEleanor Grant\, Vocalist\nEric Rigler\, Ethnic Flut
+ e and Whistles\nSan Francisco Symphony Chorus\nJenny Wong\, Chorus Directo
+ r\nSan Francisco Symphony\n\nProgram\n\nJames Horner\, Composer\nJames Cam
+ eron\, Director\n\nThe Film Series is presented in honor of Misty Tyree\, 
+ whose remarkable legacy gift ensures her lasting commitment to the San Fra
+ ncisco Symphony and its artistic mission.\n\nThese concerts are presented 
+ in partnership with SF Arts Commission.\n\nPresentation licensed by Lights
+ torm Entertainment\, 20th Century Studios and Disney Concerts\, a division
+  of ABC\, Inc. © All rights reserved.\nMusic licensed courtesy of T C F M
+ usic Publishing\, Inc.\nAvatar\, Live In Concert is a production of Avex C
+ lassics International.\n\nFilm with Live Orchestra\n\nTickets: https://sfs
+ ymphony.org/Buy-Tickets/2026-27/Avatar\nDetails: https://dothebay.com/even
+ ts/2027/1/9/avatar-live-in-concert-tickets\nSource: DoTheBay
+GEO:37.7782755;-122.4198453
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/31307921/0b70a1b8-789d-4580-a167-7e0c6306dc32.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Davies Symphony Hall\, Grove Street & Van Ness Avenue\, San Franc
+ isco\, CA\, 94102
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/9/avatar-live-in-concert-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure
+DTSTART;TZID=America/Los_Angeles:20270109T140000
+DTEND;TZID=America/Los_Angeles:20270109T160000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18085517@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Adult $15\, Student/Senior/EBT $7.50\, YBCA Members FREE\nYBCA
+ \n\nTickets: https://bit.ly/4y2Pmwo \nDetails: https://dothebay.com/events
+ /2027/1/9/pressure-tickets\nSource: DoTheBay
+GEO:37.7856437;-122.4021904
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35512175/5ee4e9f4-b6e1-4a87-ba60-67ef3426f183.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
+ , CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/9/pressure-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago feat. a performance by Lady Camden
+DTSTART;TZID=America/Los_Angeles:20270109T190000
+DTEND;TZID=America/Los_Angeles:20270109T210000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17954704@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment presents\n25th Anniversary Sing-A
+ long\nChicago\nfeaturing a performance by Lady Camden\nSaturday\, January 
+ 9 | The Castro\n\nCelebrate a quarter-century of jazz\, murder\, and show-
+ stopping glamour with a special 25th Anniversary Singalong Screening of Ch
+ icago\, featuring a killer\, show-stopping live opening performance by dra
+ g superstar Lady Camden!\n\nA blistering commentary about fame and the len
+ gths people are willing to go to attain it\, Chicago feels more relevant t
+ han ever in this modern age of 24/7 nonstop social media. Join our illustr
+ ious sing-along hosts\, Toby Moore and Laurie Bushman\, as they warm you u
+ p to belt out classics like All That Jazz and Cell Block Tango! Celebrate 
+ one of the most iconic movie musicals ever made in true Castro Theatre sty
+ le!\n\nRated R\nAnother Planet Entertainment presents: 25th Anniversary Si
+ ng-Along\nListed time is doors\n\nTickets: https://thecastro.com/events/ch
+ icago-270109\nDetails: https://dothebay.com/events/2027/1/9/chicago-25th-a
+ nniversary-sing-along-ft-a-performance-by-lady-camden-tickets\nSource: DoT
+ heBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34951044/202146f7-e002-4018-ae9a-b1a642e2ce9b.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/9/chicago-25th-anniversary-sing-alo
+ ng-ft-a-performance-by-lady-camden-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nirvanna The Band The Show The Movie
+DTSTART;TZID=America/Los_Angeles:20270110T191500
+DTEND;TZID=America/Los_Angeles:20270110T211500
+DTSTAMP:20261127T014655Z
+UID:dothebay-18041266@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:When their plan to book a show at the Rivoli goes horribly wro
+ ng\, Matt and Jay accidentally travel back to the year 2008. Blah blah bla
+ h blah blah.\n\nStarring the Canadian comedy duo of Jay McCarrol and Matt 
+ Johnson (BLACKBERRY)\, who also directed\, this movie is best enjoyed with
+  an ice-cold bottle of Orbitz.\n\nTickets: https://drafthouse.com/sf/show/
+ drafthouse-recommends-nirvanna-the-band-the-show-the-movie-the-commentary-
+ track?cinemaId=0802&sessionId=23532\nDetails: https://dothebay.com/events/
+ 2027/1/10/nirvanna-the-band-the-show-the-movie-tickets\nSource: DoTheBay
+GEO:37.7562198;-122.419185
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35326380/d912d756-1224-4028-b14a-b59f36da9d80.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Alamo Drafthouse Cinema\, 2550 Mission St\, San Francisco\, CA\, 
+ 94110
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/10/nirvanna-the-band-the-show-the-m
+ ovie-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cyberpunk Cinema Night | Mission Dist.
 DTSTART;TZID=America/Los_Angeles:20270111T183000
 DTEND;TZID=America/Los_Angeles:20270111T210000
@@ -3782,6 +4360,60 @@ LAST-MODIFIED:20261112T004845Z
 LOCATION:The Knockout\, 3223 Mission St\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/cyberpunk-cinema-night-mission-dist-150/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burning an Illusion
+DTSTART;TZID=America/Los_Angeles:20270116T140000
+DTEND;TZID=America/Los_Angeles:20270116T160000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18085789@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:ADULT $15\, Student/senior/EBT $7.50\, YBCA Members FREE\nYBCA
+ \n\nTickets: https://bit.ly/4y2Pmwo \nDetails: https://dothebay.com/events
+ /2027/1/16/burning-an-illusion-tickets\nSource: DoTheBay
+GEO:37.7856437;-122.4021904
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35512933/d29743a5-1e91-4257-8d65-c1274d6acc4f.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Yerba Buena Center for the Arts\, 701 Mission St\, San Francisco\
+ , CA\, 94103
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/16/burning-an-illusion-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:George Michael
+DTSTART;TZID=America/Los_Angeles:20270117T173000
+DTEND;TZID=America/Los_Angeles:20270117T193000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18101243@sf-cal
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:Another Planet Entertainment presents\nThe Faith Tour\nGeorge 
+ Michael\nSunday\, January 17 | The Castro\n\nStep back into 1988 and witne
+ ss a pop icon at the absolute height of his creative power. Assembled from
+  newly rediscovered footage shot over two unforgettable nights at the Pala
+ is Omnisports de Paris-Bercy\, George Michael: The Faith Tour captures the
+  electrifying energy\, soul\, and charisma of Michael’s first solo headl
+ ining tour as he performs timeless hits such as “”Father Figure””\
+ , “”Careless Whisper””\, and “Faith””. The film opens with F
+ inding Faith\, an intimate introductory short film directed by Mary McCart
+ ney featuring never-before-seen archival footage.\n\nThere is no better pl
+ ace to celebrate a true queer pop music legend than with hundreds of other
+  fans in the heart of The Castro! Experience George Michael: The Faith Tou
+ r unlike anywhere else in the world at the newly renovated Castro Theatre!
+ \n\nAll Ages\nAnother Planet Entertainment presents: The Faith Tour\nListe
+ d time is doors\n\nTickets: https://thecastro.com/events/george-michael-th
+ e-faith-tour\nDetails: https://dothebay.com/events/2027/1/17/george-michae
+ l-the-faith-tour-tickets\nSource: DoTheBay
+GEO:37.7619917;-122.4347365
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35611276/caed3db1-a023-46cd-9324-d954d2be86e3.jpg
+LAST-MODIFIED:20261127T014655Z
+LOCATION:The Castro\, 429 Castro St\, San Francisco\, CA\, 94114
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/17/george-michael-the-faith-tour-ti
+ ckets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyberpunk Cinema Night | Mission Dist.

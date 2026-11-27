@@ -40,6 +40,48 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Free Waterfront Walkabout: The Holiday Season Finale
+DTSTART;TZID=America/Los_Angeles:20261119T170000
+DTEND;TZID=America/Los_Angeles:20261119T200000
+DTSTAMP:20261127T014655Z
+UID:funcheap-1645291@sf-cal
+SEQUENCE:0
+CATEGORIES:Outdoors
+DESCRIPTION:Downtown SF PartnershipWaterfront Walkabout returns for a nigh
+ t of captivating artist vignettes\, live music\, holiday drinks\, & season
+ al memory-making.\nSan Francisco\, this is our holiday love letter to you!
+  After a joyous autumn of community and creativity\, Waterfront Walkabout 
+ returns for its season finale on Thursday\, November 19.\nBundle up and br
+ ing your family\, friends\, and four-legged companions to the waterfront
+ ’s Big Art Loop – Portside for a festive evening of art\, interactive 
+ experiences\, and unexpected delights. Explore at your own pace or sign up
+  for a free guided tour featuring special appearances by the artists behin
+ d the sculptures. And don’t miss the free professional holiday portraits
+  at the Got Framed sculpture!\nWaterfront Walkabout\nThursday\, November 1
+ 9\, 2026 | 5-8p\nThe Embarcadero btwn Pier 14 & the Exploratorium\, SF\nFR
+ EE\nGUIDED ART TOURS\nJoin a free docent-led tour to hear the stories behi
+ nd the four featured sculptures! These 50-minute guided walks depart from 
+ Pier 14 (at Corpus) and end at Pier 7.\n\n5:30 PM – Guided Art Tour\n6:3
+ 0 PM – Guided Art Tour\n\nHow to sign up for guided art tours: Space is 
+ limited—advance tour registration is required. To sign up\, please selec
+ t the tour ticket type option during Eventbrite checkout. No purchase is n
+ ecessary.\nWHATS ON DECK\n\nCorpus (Pier 14): Stop by the welcome booth an
+ d meet sculptor Michael Christian\, the artist behind Corpus. Get creative
+  with holiday postcards or letters to Santa using custom stamps designed b
+ y H...\n\nFree\n\nTickets: https://www.eventbrite.com/e/waterfront-walkabo
+ ut-the-holiday-season-finale-tickets-2004044354612?aff=oddtdtcreator\nDeta
+ ils: https://sf.funcheap.com/free-waterfront-walkabout-the-holiday-season-
+ finale-sf/\nSource: Funcheap SF
+IMAGE;VALUE=URI:https://cdn.funcheap.com/wp-content/uploads/2026/10/NOV-Ev
+ entbrite-Header.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:The Embarcadero (btwn Pier 14 & the Exploratorium)\, The Embarcad
+ ero\, San Francisco\, CA
+TRANSP:TRANSPARENT
+URL:https://sf.funcheap.com/free-waterfront-walkabout-the-holiday-season-f
+ inale-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NightLife: November 19
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T200000
@@ -879,14 +921,14 @@ BEGIN:VEVENT
 SUMMARY:Chair Yoga
 DTSTART;TZID=America/Los_Angeles:20261201T140000
 DTEND;TZID=America/Los_Angeles:20261201T150000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-78c79e404577cd9c@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Sunset Dunes on the first Sunday of the month for 
  Chair Yoga at 1400 Upper Great Highway from 2:00 pm - 3:00 pm https://sfre
- cpark.org/m/calendar/event/detail/10424\n\nDetails: /common/modules/iCalen
- dar/iCalendar.aspx?feed=calendar&catID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ cpark.org/calendar.aspx?EID=10424\n\nDetails: /common/modules/iCalendar/iC
+ alendar.aspx?feed=calendar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
  cisco CA 94122
 TRANSP:TRANSPARENT
@@ -932,14 +974,14 @@ BEGIN:VEVENT
 SUMMARY:Glen Park Tuesday Movie Night
 DTSTART;TZID=America/Los_Angeles:20261201T180000
 DTEND;TZID=America/Los_Angeles:20261201T210000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-e2513b2e9653584e@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on December 1 at 6 pm https://sfrecpark.org/m/calendar/event/detail/10
- 861\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&cat
- ID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ ght on December 1 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10861\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Glen Canyon Park - Elk Street and Chenery Street San Francisco CA
   94127
 TRANSP:TRANSPARENT
@@ -1132,14 +1174,13 @@ BEGIN:VEVENT
 SUMMARY:Holiday Tree Lighting
 DTSTART;TZID=America/Los_Angeles:20261203T160000
 DTEND;TZID=America/Los_Angeles:20261203T200000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-05226708a19ef536@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Annual Holiday Tree Lighting at McLaren Lodge in Golden Gate P
- ark https://sfrecpark.org/m/calendar/event/detail/10857\n\nDetails: /commo
- n/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\nSource: SF Rec 
- & Park
-LAST-MODIFIED:20261126T170128Z
+ ark https://sfrecpark.org/calendar.aspx?EID=10857\n\nDetails: /common/modu
+ les/iCalendar/iCalendar.aspx?feed=calendar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:McLaren Lodge - 501 Stanyan Street San Francisco CA 94117
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
@@ -1751,14 +1792,14 @@ BEGIN:VEVENT
 SUMMARY:Glen Park Tuesday Movie Night
 DTSTART;TZID=America/Los_Angeles:20261208T180000
 DTEND;TZID=America/Los_Angeles:20261208T210000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-730b25ffbe25c2d3@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on December\n8 at 6 pm\n\nhttps://sfrecpark.org/m/calendar/event/detai
- l/10862\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar
- &catID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ ght on December\n8 at 6 pm\n\nhttps://sfrecpark.org/calendar.aspx?EID=1086
+ 2\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID
+ =14\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
  Elk Street San Francisco CA 94131
 TRANSP:TRANSPARENT
@@ -2059,14 +2100,14 @@ BEGIN:VEVENT
 SUMMARY:Zumba and Shake The Fog
 DTSTART;TZID=America/Los_Angeles:20261212T103000
 DTEND;TZID=America/Los_Angeles:20261212T111500
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-a49d9ecebd41521e@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Sunset Dunes on every 2nd Saturday of the month fo
- r Zumba and Shake The Fog https://sfrecpark.org/m/calendar/event/detail/10
- 408\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&cat
- ID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ r Zumba and Shake The Fog https://sfrecpark.org/calendar.aspx?EID=10408\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
  cisco CA 94122
 TRANSP:TRANSPARENT
@@ -2115,14 +2156,14 @@ BEGIN:VEVENT
 SUMMARY:2nd Sunday Serenades
 DTSTART;TZID=America/Los_Angeles:20261213T120000
 DTEND;TZID=America/Los_Angeles:20261213T140000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-b4c78f957f58b46e@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd
-  Sunday of the month from noon to 2 pm https://sfrecpark.org/m/calendar/ev
- ent/detail/10414\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed
- =calendar&catID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+  Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10414\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
  cisco CA 94122
 TRANSP:TRANSPARENT
@@ -2172,14 +2213,14 @@ BEGIN:VEVENT
 SUMMARY:Sunset Dunes Community Cleanup
 DTSTART;TZID=America/Los_Angeles:20261213T130000
 DTEND;TZID=America/Los_Angeles:20261213T150000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-214050831c7aa98b@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Sunset Dunes on the 2nd Sunday of the month for a 
- Community Cleanup Day from 1 pm - 3 pm https://sfrecpark.org/m/calendar/ev
- ent/detail/10420\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed
- =calendar&catID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ Community Cleanup Day from 1 pm - 3 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10420\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Sunset Dunes and Upper Great Highway - 1611 Upper Great Highway S
  an Francisco CA 94122
 TRANSP:TRANSPARENT
@@ -2257,14 +2298,14 @@ BEGIN:VEVENT
 SUMMARY:Glen Park Tuesday Movie Night
 DTSTART;TZID=America/Los_Angeles:20261215T180000
 DTEND;TZID=America/Los_Angeles:20261215T210000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-dfd089b51f6af3be@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on December\n15 at 6 pm https://sfrecpark.org/m/calendar/event/detail/
- 10863\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&c
- atID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ ght on December\n15 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10863\
+ n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=1
+ 4\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
  Elk Street San Francisco CA 94131
 TRANSP:TRANSPARENT
@@ -2392,6 +2433,28 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/unsilent-night-sf-mission/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Top Rank Boxing Haney vs Paro
+DTSTART;TZID=America/Los_Angeles:20261219T190000
+DTEND;TZID=America/Los_Angeles:20261219T210000
+DTSTAMP:20261127T014655Z
+UID:dothebay-18067378@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Top Rank Boxing Haney vs Paro\n\nTickets: https://ticketmaster
+ .evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticket
+ master.com%2Ftop-rank-boxing-haney-vs-paro-san-francisco-california-12-19-
+ 2026%2Fevent%2F1C0065669D709AC5\nDetails: https://dothebay.com/events/2026
+ /12/19/top-rank-boxing-haney-vs-paro-tickets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/35437095/dbbe8209-3c05-4a75-babf-6b9a7eb5fa48.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2026/12/19/top-rank-boxing-haney-vs-paro-t
+ ickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Francisco Midnight Mystery Ride (Every Third Saturday)
 DTSTART;TZID=America/Los_Angeles:20261219T235900
 DTEND;TZID=America/Los_Angeles:20261220T025900
@@ -2504,29 +2567,49 @@ URL:https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-
  309/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Invisalign Bay Area Womens Classic:Cal V Nebraska & Stanford V Ohi
- o St
-DTSTART;TZID=America/Los_Angeles:20261220T190000
-DTEND;TZID=America/Los_Angeles:20261220T210000
-DTSTAMP:20261021T171908Z
+SUMMARY:Invisalign Bay Area Women's Classic: Cal vs. Nebraska & Stanford v
+ s. Ohio State
+DTSTART;TZID=America/Los_Angeles:20261220T140000
+DTEND;TZID=America/Los_Angeles:20261220T160000
+DTSTAMP:20261127T014655Z
 UID:dothebay-17617000@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Sports
-DESCRIPTION:Invisalign Bay Area Womens Classic:Cal V Nebraska & Stanford V
-  Ohio St\n\nTickets: https://ticketmaster.evyy.net/c/253185/264167/4272?Sh
- aredId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Finvisalign-bay-area-
- womens-classiccal-v-san-francisco-california-12-20-2026%2Fevent%2F1C0064ED
- DB7A18DA\nDetails: https://dothebay.com/events/2026/12/20/invisalign-bay-a
- rea-womens-classic-cal-v-nebraska-stanford-v-ohio-st-tickets\nSource: DoTh
- eBay
+DESCRIPTION:Invisalign Bay Area Women's Classic\nCal vs. Nebraska\nStanfor
+ d vs. Ohio State\n\nSunday\, December 20 | Chase Center\n\nReady for a dou
+ ble dose of elite collegiate hoops? Mark your calendars and join us at Cha
+ se Center on December 20\, 2026\, for a showcase of women's college basket
+ ball talent! It's a double dose of excitement featuring four teams ready t
+ o bring their passion and skill to the court.\n\nGame 1: Cal vs. Nebraska 
+ - 3 p.m.\nGame 2: Stanford vs. Ohio State - 5:30 p.m.\n\nWhether you're br
+ inging the whole family out\, repping your college colors with friends\, o
+ r wanting to see future stars up close\, Chase Center is where you want to
+  be.\n\nUnder Head Coach Charmin Smith\, who is entering her eighth season
+  at the helm\, Cal returns seven players from last season’s roster\, inc
+ luding four of the team’s top five leading scorers. Among the returners 
+ is All-ACC Second Team selection Lulu Twidale\, who last season set progra
+ m records for both single-season and career 3-pointers\, finished 5th in t
+ he NCAA in triples\, and will enter the 2026-27 season ranked second in th
+ e country for career 3-pointers. The Golden Bears finished the 2025–26 s
+ eason with an overall record of 21–15\, marking the team’s third conse
+ cutive winning season\, while advancing to the quarterfinals of the Women
+ ’s Basketball Invitation Tournament (WBIT). The Bears are making their s
+ econd consecutive appearance in the Invisalign® Bay Area Women’s Classi
+ c.\n\nThe Nebraska Cornhuskers earned their third consecutive NCAA Tournam
+ ent...\n\nAll Ages\nListed time is doors\n\nTickets: https://ticketmaster.
+ evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketm
+ aster.com%2Finvisalign-bay-area-womens-classiccal-v-san-francisco-californ
+ ia-12-20-2026%2Fevent%2F1C0064EDDB7A18DA\nDetails: https://dothebay.com/ev
+ ents/2026/12/20/invisalign-bay-area-womens-classic-cal-vs-nebraska-stanfor
+ d-vs-ohio-state-tickets\nSource: DoTheBay
 GEO:37.7688295;-122.3894164
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33359116/45fa831a-a4e2-4233-9b79-1235c526d500.jpg
-LAST-MODIFIED:20261021T171908Z
+ et/33359116/3b09355d-ca16-4b3d-bf71-11ce418ea160.png
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/12/20/invisalign-bay-area-womens-clas
- sic-cal-v-nebraska-stanford-v-ohio-st-tickets
+ sic-cal-vs-nebraska-stanford-vs-ohio-state-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanese Tea Garden’s Free Admission Hour (Golden Gate Park)
@@ -2573,14 +2656,14 @@ BEGIN:VEVENT
 SUMMARY:Glen Park Tuesday Movie Night
 DTSTART;TZID=America/Los_Angeles:20261222T180000
 DTEND;TZID=America/Los_Angeles:20261222T210000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-cb15363de12e584c@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on December\n22 at 6 pm https://sfrecpark.org/m/calendar/event/detail/
- 10864\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&c
- atID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ ght on December\n22 at 6 pm https://sfrecpark.org/calendar.aspx?EID=10864\
+ n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=1
+ 4\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
  Elk Street San Francisco CA 94131
 TRANSP:TRANSPARENT
@@ -3115,14 +3198,14 @@ BEGIN:VEVENT
 SUMMARY:Chair Yoga
 DTSTART;TZID=America/Los_Angeles:20270101T140000
 DTEND;TZID=America/Los_Angeles:20270101T150000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-224ec13db41bab47@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Sunset Dunes on the first Sunday of the month for 
  Chair Yoga at 1400 Upper Great Highway from 2:00 pm - 3:00 pm https://sfre
- cpark.org/m/calendar/event/detail/10478\n\nDetails: /common/modules/iCalen
- dar/iCalendar.aspx?feed=calendar&catID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ cpark.org/calendar.aspx?EID=10478\n\nDetails: /common/modules/iCalendar/iC
+ alendar.aspx?feed=calendar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
  cisco CA 94122
 TRANSP:TRANSPARENT
@@ -3261,14 +3344,14 @@ BEGIN:VEVENT
 SUMMARY:Glen Park Tuesday Movie Night
 DTSTART;TZID=America/Los_Angeles:20270105T180000
 DTEND;TZID=America/Los_Angeles:20270105T210000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-c0d510f09d6cb2a6@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on January 5\nat 6 pm https://sfrecpark.org/m/calendar/event/detail/10
- 865\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&cat
- ID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ ght on January 5\nat 6 pm https://sfrecpark.org/calendar.aspx?EID=10865\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Glen Canyon Park - Elk Street and Chenery Street San Francisco CA
   94127
 TRANSP:TRANSPARENT
@@ -3440,14 +3523,14 @@ BEGIN:VEVENT
 SUMMARY:Zumba and Shake The Fog
 DTSTART;TZID=America/Los_Angeles:20270109T103000
 DTEND;TZID=America/Los_Angeles:20270109T111500
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-8c90ed8de684f36f@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Sunset Dunes on every 2nd Saturday of the month fo
- r Zumba and Shake The Fog https://sfrecpark.org/m/calendar/event/detail/10
- 465\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&cat
- ID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ r Zumba and Shake The Fog https://sfrecpark.org/calendar.aspx?EID=10465\n\
+ nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14\
+ nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
  cisco CA 94122
 TRANSP:TRANSPARENT
@@ -3493,21 +3576,72 @@ TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/free-beginner-parkour-urban-ninja-class-132/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Chicago Bulls
+DTSTART;TZID=America/Los_Angeles:20270109T173000
+DTEND;TZID=America/Los_Angeles:20270109T193000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17728008@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Chicago Bulls\n\nTickets: https://ti
+ cketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2F
+ www.ticketmaster.com%2Fgolden-state-warriors-vs-chicago-bulls-san-francisc
+ o-california-01-09-2027%2Fevent%2F1C00650AB2F8D667\nDetails: https://dothe
+ bay.com/events/2027/1/9/golden-state-warriors-vs-chicago-bulls-tickets\nSo
+ urce: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883551/afd15c02-702a-4a54-b5b6-0b95b5547da2.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/9/golden-state-warriors-vs-chicago-
+ bulls-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2nd Sunday Serenades
 DTSTART;TZID=America/Los_Angeles:20270110T120000
 DTEND;TZID=America/Los_Angeles:20270110T140000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-5aa83311a260af73@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Sunset Dunes for 2nd Sunday Serenades on every 2nd
-  Sunday of the month from noon to 2 pm https://sfrecpark.org/m/calendar/ev
- ent/detail/10472\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed
- =calendar&catID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+  Sunday of the month from noon to 2 pm https://sfrecpark.org/calendar.aspx
+ ?EID=10472\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calen
+ dar&catID=14\nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Sunset Dunes - Great Highway\, between Lincoln and Sloat San Fran
  cisco CA 94122
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco is Unrivaled
+DTSTART;TZID=America/Los_Angeles:20270111T190000
+DTEND;TZID=America/Los_Angeles:20270111T210000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17898784@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Unrivaled basketball is coming to San Francisco\, for one nigh
+ t only. As part of Unrivaled on Tour with Ally\, the groundbreaking women'
+ s basketball league featuring some of the best women's basketball players 
+ in the world is coming to Chase Center\, featuring four clubs and two game
+ s in Unrivaled's classic double-header format. Come celebrate the players\
+ , fans\, and basketball community shaping a new era for the game in the Ba
+ y Area. San Francisco is Unrivaled.\n\nTickets: https://ticketmaster.evyy.
+ net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster
+ .com%2Fsan-francisco-is-unrivaled-san-francisco-california-01-11-2027%2Fev
+ ent%2F1C0065366FB54A1E\nDetails: https://dothebay.com/events/2027/1/11/san
+ -francisco-is-unrivaled-tickets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/34690935/2050f91d-7703-4578-911d-0cd9a9f4bfae.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/11/san-francisco-is-unrivaled-ticke
+ ts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco Botanical Garden’s Free Day (2nd Tuesdays)
@@ -3554,18 +3688,64 @@ BEGIN:VEVENT
 SUMMARY:Glen Park Tuesday Movie Night
 DTSTART;TZID=America/Los_Angeles:20270112T180000
 DTEND;TZID=America/Los_Angeles:20270112T210000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-0374a8fea804cb28@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on January 12\nat 6 pm https://sfrecpark.org/m/calendar/event/detail/1
- 0866\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&ca
- tID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ ght on January 12\nat 6 pm https://sfrecpark.org/calendar.aspx?EID=10866\n
+ \nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+ \nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
  Elk Street San Francisco CA 94131
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Sacramento Kings
+DTSTART;TZID=America/Los_Angeles:20270112T200000
+DTEND;TZID=America/Los_Angeles:20270112T220000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17728021@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Sacramento Kings\n\nTickets: https:/
+ /ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F
+ %2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-sacramento-kings-san-fr
+ ancisco-california-01-12-2027%2Fevent%2F1C00650AB2FDD66B\nDetails: https:/
+ /dothebay.com/events/2027/1/12/golden-state-warriors-vs-sacramento-kings-t
+ ickets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883620/9e5c4a8a-4dba-43ab-92e9-f91d2c39259f.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/12/golden-state-warriors-vs-sacrame
+ nto-kings-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Charlotte Hornets
+DTSTART;TZID=America/Los_Angeles:20270113T190000
+DTEND;TZID=America/Los_Angeles:20270113T210000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17728022@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Charlotte Hornets\n\nTickets: https:
+ //ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2
+ F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-charlotte-hornets-san-
+ francisco-california-01-13-2027%2Fevent%2F1C00650AB303D679\nDetails: https
+ ://dothebay.com/events/2027/1/13/golden-state-warriors-vs-charlotte-hornet
+ s-tickets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883623/efcd958a-39b6-4dd9-8d11-fbbfb3060750.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/13/golden-state-warriors-vs-charlot
+ te-hornets-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco Midnight Mystery Ride (Every Third Saturday)
@@ -3684,18 +3864,64 @@ BEGIN:VEVENT
 SUMMARY:Glen Park Tuesday Movie Night
 DTSTART;TZID=America/Los_Angeles:20270119T180000
 DTEND;TZID=America/Los_Angeles:20270119T210000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261127T014655Z
 UID:sfrecpark-main-099b0a78b6665518@sf-cal
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Come out to Glen Canyon Recreation Center for Tuesday Movie Ni
- ght on January 19\nat 6 pm https://sfrecpark.org/m/calendar/event/detail/1
- 0867\n\nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&ca
- tID=14\nSource: SF Rec & Park
-LAST-MODIFIED:20261126T170128Z
+ ght on January 19\nat 6 pm https://sfrecpark.org/calendar.aspx?EID=10867\n
+ \nDetails: /common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+ \nSource: SF Rec & Park
+LAST-MODIFIED:20261127T014655Z
 LOCATION:Glen Canyon Park Recreation Center - Bosworth & O'Shaughnessy 70 
  Elk Street San Francisco CA 94131
 TRANSP:TRANSPARENT
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Los Angeles Lakers
+DTSTART;TZID=America/Los_Angeles:20270121T190000
+DTEND;TZID=America/Los_Angeles:20270121T210000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17727997@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Los Angeles Lakers\n\nTickets: https
+ ://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%
+ 2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-los-angeles-san-franc
+ isco-california-01-21-2027%2Fevent%2F1C00650AB308D685\nDetails: https://do
+ thebay.com/events/2027/1/21/golden-state-warriors-vs-los-angeles-lakers-ti
+ ckets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883500/d7411997-1221-4ea5-a21b-8924d380874d.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/21/golden-state-warriors-vs-los-ang
+ eles-lakers-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Milwaukee Bucks
+DTSTART;TZID=America/Los_Angeles:20270122T190000
+DTEND;TZID=America/Los_Angeles:20270122T210000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17728023@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Milwaukee Bucks\n\nTickets: https://
+ ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%
+ 2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-milwaukee-bucks-san-fran
+ cisco-california-01-22-2027%2Fevent%2F1C00650AB30DD690\nDetails: https://d
+ othebay.com/events/2027/1/22/golden-state-warriors-vs-milwaukee-bucks-tick
+ ets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883621/950e14aa-f652-423e-8f53-db8f7191c7d2.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/22/golden-state-warriors-vs-milwauk
+ ee-bucks-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s “Sundays at the Beach” Free Yoga Day (Great Highway)
@@ -3731,6 +3957,29 @@ LOCATION:The Great Highway\, Judah and Great Highway\, San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://sf.funcheap.com/sfs-sundays-at-the-beach-free-yoga-day-great-h
  ighway-42/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs. Oklahoma City Thunder
+DTSTART;TZID=America/Los_Angeles:20270124T173000
+DTEND;TZID=America/Los_Angeles:20270124T193000
+DTSTAMP:20261127T014655Z
+UID:dothebay-17728024@sf-cal
+SEQUENCE:0
+CATEGORIES:Sports
+DESCRIPTION:Golden State Warriors vs. Oklahoma City Thunder\n\nTickets: ht
+ tps://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%
+ 3A%2F%2Fwww.ticketmaster.com%2Fgolden-state-warriors-vs-oklahoma-city-san-
+ francisco-california-01-24-2027%2Fevent%2F1C00650AB312D6A9\nDetails: https
+ ://dothebay.com/events/2027/1/24/golden-state-warriors-vs-oklahoma-city-th
+ under-tickets\nSource: DoTheBay
+GEO:37.7688295;-122.3894164
+IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
+ et/33883629/dd693bc8-8fa0-4847-a1ac-22c5ff69c6b1.png
+LAST-MODIFIED:20261127T014655Z
+LOCATION:Chase Center\, 300 South Street\, San Francisco\, CA\, 94158
+TRANSP:TRANSPARENT
+URL:https://dothebay.com/events/2027/1/24/golden-state-warriors-vs-oklahom
+ a-city-thunder-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ranch First Wednesday Open Community Day | Napa
