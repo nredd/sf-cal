@@ -41,63 +41,6 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:The Music Man
-DTSTART;TZID=America/Los_Angeles:20261120T193000
-DTEND;TZID=America/Los_Angeles:20261120T213000
-DTSTAMP:20261006T003107Z
-UID:dothebay-17665314@sf-cal
-SEQUENCE:0
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Tickets: https://us.atgtickets.com/events/the-music-man/\nDeta
- ils: https://dothebay.com/events/2026/11/20/the-music-man-tickets\nSource:
-  DoTheBay
-GEO:37.779246;-122.4145712
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33585080/b59d40b8-7cc8-4739-af83-1972de8f4a29.jpg
-LAST-MODIFIED:20261006T003107Z
-LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/20/the-music-man-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIVE MUSIC: Babehoven\, Pileup
-DTSTART;TZID=America/Los_Angeles:20261120T200000
-DTEND;TZID=America/Los_Angeles:20261120T220000
-DTSTAMP:20261104T195100Z
-UID:dothebay-17731632@sf-cal
-SEQUENCE:1
-CATEGORIES:Theatre & Performing Arts
-DESCRIPTION:Throwin’ Bo’s presents:\n\nBabehoven\n\nBabehoven is the H
- udson\, NY based project of singer-songwriter Maya Bon and collaborator Ry
- an Albert. Since 2017\, the band has carved out a sound that blends melodi
- c indie and folk rock with an occasional nod towards country. Bon serves a
- s the project’s principal songwriter and lyricist\, while Albert\, a mul
- ti-instrumentalist and producer\, further shapes the sonic world around he
- r songs. Together\, they’ve built a body of work that feels both intimat
- e and expansive.\n\n"Blue Around You\," Babehoven's new single\, is a coun
- try-flecked stomper. The song finds Bon singing with hard-won resilience: 
- "Yesterday a stranger told me they can see / That I feel levels of pain th
- at could've broken me / And I thought\, mmm but I survived it." Recorded a
- t The Chicken Shack and 12 Lb Genius in Upstate NY\, Maya and Ryan gathere
- d an excellent crew of musicians with producer Phil Weinrobe at the helm
- —Oliver Hill\, Zosha Warpeha\, Dylan Nowik\, Jared Samuel\, Ellington Pe
- et\, and Nick Kinsey. The core of the song was recorded live with no playb
- ack or headphones with the feel of the room being as much an instrument as
-  the hardanger fiddle and harmonies that soar overhead.\n\nBandcamp | IG\n
- \nPileup\n\nBandcamp | IG\n\nDOORS at 7:00PM | MUSIC at 8:00 PM\n\nTickets
- : https://consumer.pxf.io/APvP5J?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F
- 1997427195511%3Faff%3Doddtdtcreator\nDetails: https://dothebay.com/events/
- 2026/11/20/live-music-babehoven-pileup-tickets\nSource: DoTheBay
-GEO:37.782364;-122.482951
-IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
- et/33899589/2ce8434b-aeb3-4601-aa48-4fc507624241.jpg
-LAST-MODIFIED:20261104T195100Z
-LOCATION:4 Star Theater\, 2200 Clement St\, San Francisco\, CA\, 94121
-TRANSP:TRANSPARENT
-URL:https://dothebay.com/events/2026/11/20/live-music-babehoven-pileup-tic
- kets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Music Man
 DTSTART;TZID=America/Los_Angeles:20261121T130000
 DTEND;TZID=America/Los_Angeles:20261121T150000
 DTSTAMP:20261006T003107Z
@@ -755,9 +698,9 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/Los_Angeles:20261127T130000
 DTEND;TZID=America/Los_Angeles:20261127T150000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261128T075812Z
 UID:dothebay-17665309@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  ng\, dazzling” life (Time Out New York) in a unique\, spectacle-filled n
@@ -768,13 +711,12 @@ DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  able crew of a traveling circus\, and a life\, and love\, beyond his wilde
  st dreams. Seen through the eyes of his older self\, his adventure becomes
   a poignant reminder that if you choose the ride\, life can begin again at
-  any age.\n\nTickets: https://us.atgtickets.com/events/water-for-elephants
- /\nDetails: https://dothebay.com/events/2026/11/27/water-for-elephants-tic
- kets\nSource: DoTheBay
+  any age.\n\nDetails: https://dothebay.com/events/2026/11/27/water-for-ele
+ phants-tickets\nSource: DoTheBay
 GEO:37.779246;-122.4145712
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33585112/9bdae836-7360-45c5-a147-8d21d08fae95.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261128T075812Z
 LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/water-for-elephants-tickets
@@ -783,20 +725,19 @@ BEGIN:VEVENT
 SUMMARY:Club Kid
 DTSTART;TZID=America/Los_Angeles:20261127T160000
 DTEND;TZID=America/Los_Angeles:20261127T180000
-DTSTAMP:20261126T170128Z
+DTSTAMP:20261128T075812Z
 UID:dothebay-18071063@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
   lifestyle upended by the arrival of the 10-year-old son he never knew he 
  had.\n\nThis film can be used with loyalty cards or our 2026 annual Cinema
- SFBay passes\n\nTickets: https://ticketing.uswest.veezi.com/purchase/20400
- ?siteToken=52wkfzmjpwjjfpz3ye7tz8wscg\nDetails: https://dothebay.com/event
- s/2026/11/27/club-kid-tickets\nSource: DoTheBay
+ SFBay passes\n\nDetails: https://dothebay.com/events/2026/11/27/club-kid-t
+ ickets\nSource: DoTheBay
 GEO:37.7760419;-122.498063
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/35452119/c621583a-0104-4fe5-969a-447176edfed0.jpg
-LAST-MODIFIED:20261126T170128Z
+LAST-MODIFIED:20261128T075812Z
 LOCATION:Balboa Theater\, 3630 Balboa St\, San Francisco\, CA\, 94121
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/club-kid-tickets
@@ -846,9 +787,9 @@ BEGIN:VEVENT
 SUMMARY:Water For Elephants
 DTSTART;TZID=America/Los_Angeles:20261127T193000
 DTEND;TZID=America/Los_Angeles:20261127T213000
-DTSTAMP:20261006T003107Z
+DTSTAMP:20261128T075812Z
 UID:dothebay-17665310@sf-cal
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Theatre & Performing Arts
 DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  ng\, dazzling” life (Time Out New York) in a unique\, spectacle-filled n
@@ -859,13 +800,12 @@ DESCRIPTION:The critically acclaimed bestselling novel comes to “thrilli
  able crew of a traveling circus\, and a life\, and love\, beyond his wilde
  st dreams. Seen through the eyes of his older self\, his adventure becomes
   a poignant reminder that if you choose the ride\, life can begin again at
-  any age.\n\nTickets: https://us.atgtickets.com/events/water-for-elephants
- /\nDetails: https://dothebay.com/events/2026/11/27/water-for-elephants-tic
- kets-ovapgxz\nSource: DoTheBay
+  any age.\n\nDetails: https://dothebay.com/events/2026/11/27/water-for-ele
+ phants-tickets-ovapgxz\nSource: DoTheBay
 GEO:37.779246;-122.4145712
 IMAGE;VALUE=URI:https://assets0.dostuffmedia.com/uploads/aws_asset/aws_ass
  et/33585115/663ca475-7acb-4327-8d7f-80ba2c4f0d97.jpg
-LAST-MODIFIED:20261006T003107Z
+LAST-MODIFIED:20261128T075812Z
 LOCATION:Orpheum Theatre\, 1192 Market Street\, San Francisco\, CA\, 94102
 TRANSP:TRANSPARENT
 URL:https://dothebay.com/events/2026/11/27/water-for-elephants-tickets-ova
